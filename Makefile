@@ -5,6 +5,7 @@ check:
 
 test:
 	python3 -m unittest discover -s tests -v
+	node --test tests/test_reader_model.cjs
 
 generate:
 	python3 scripts/project.py generate

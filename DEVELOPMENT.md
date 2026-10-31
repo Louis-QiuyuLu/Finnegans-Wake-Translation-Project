@@ -2,7 +2,7 @@
 
 ## 环境
 
-Python 3.9 以上版本，标准库即可。不用安装 Node、Pandoc 或第三方包。
+网页与 EPUB 构建使用 Python 3.9 以上版本及标准库。阅读器逻辑测试另需 Node.js 22 以上版本；不用安装第三方包或 Pandoc。
 
 ```bash
 make check
@@ -28,11 +28,11 @@ EPUB 采用 EPUB 3：首个 ZIP 项为未压缩 `mimetype`，含 OPF 清单、sp
 
 ## GitHub Actions
 
-`ci.yml` 在推送和 PR 时执行检查、测试、构建，并核对生成稿是否同步。成功后上传 `finnegans-wake-reader` 下载包，保留 30 天。
+`ci.yml` 在推送和 PR 时执行检查、测试、构建，并核对生成稿与断点是否同步，包括尚未跟踪的新文件。成功后上传 `finnegans-wake-reader` 下载包，保留 30 天。
 
 `release.yml` 在推送 `v*` 标签时重做检查和构建，将 EPUB 和网页 ZIP 附到 GitHub Release。先更新 `book.config.json` 中版本与日期，再打对应标签。标签必须与配置版本一致；发布说明见 `publish/RELEASE_NOTES.md`。
 
-`pages.yml` 只在手动触发时部署网页：
+`pages.yml` 在 `main` 更新时自动部署网页，也可手动触发：
 
 1. 打开仓库 Settings → Pages，将 Source 设为 GitHub Actions。
 2. 打开 Actions → Deploy reader to Pages → Run workflow，选择 `main`。
@@ -44,4 +44,10 @@ EPUB 采用 EPUB 3：首个 ZIP 项为未压缩 `mimetype`，含 OPF 清单、sp
 
 改 `site/style.css` 或 `site/reader.js` 后重新构建。稿件正文按纯文本转义；不要直接在 JSON 中插入 HTML。检索只查本章已录入段落，涵盖原文、译文和译注；不会搜索尚未录入的原著。
 
-主题及阅读开关仅存在浏览器本地，不上传。手机目录默认收起；关闭脚本仍能阅读全部正文和注释。
+主题、字号、行距、字体、版心及阅读开关保存在浏览器本地。手机目录默认收起；关闭脚本仍能阅读全部正文和注释。
+
+## 网页修订
+
+「修订本段」可修改当前译文及注释正文，保留原文、初译、注释类别与来源 ID。保存后预览，也可导出整章稿件。修改后的段落回到 `revised`，清除原审校署名，等待重新审校。
+
+公共网页以 GitHub 稿件为准。读者可复制整章修订稿并打开对应 GitHub 编辑页，粘贴后提交；维护者直接提交，其他读者通过 PR 贡献。提交成功后，Pages 自动重新部署。本机修订若基于旧稿，导出前须对照现稿确认；未提交修订不会改动公共内容或现有 EPUB。

@@ -178,12 +178,21 @@ def render_segments(chapter, data, epub=False):
                 note_items.append(f'<details id="note-{nid}" class="annotation"><summary>{i}. {escape(note["lemma"])} <span class="tag">{label}</span></summary>{paragraphs(note["text"])}<p class="source-links">来源：{source_links(note["source_ids"], data, "../")} · <a href="#ref-{nid}">返回正文</a></p></details>')
         alternatives = "".join('<blockquote>' + paragraphs(a["text"]) + '<p class="muted">'
                                + escape(a["attribution"] + "：" + a["reason"]) + '</p></blockquote>' for a in segment["alternatives"])
+        editor = ''
+        if not epub:
+            note_fields = ''.join(f'<label for="edit-{escape(n["id"])}">{escape(n["lemma"])}</label><textarea id="edit-{escape(n["id"])}" class="edit-note" data-note="{escape(n["id"])}" rows="4">{escape(n["text"])}</textarea>' for n in notes)
+            editor = (f'<details class="revision-editor" data-segment="{sid}"><summary>修订本段</summary>'
+                      + '<p class="muted">修订先存在本机。提交 GitHub 后，公共读本才会更新。</p>'
+                      + f'<label for="edit-{sid}">修订译文</label><textarea id="edit-{sid}" class="edit-translation" rows="6">{escape(segment["translation"])}</textarea>'
+                      + '<details class="note-editor"><summary>修订译注文字</summary>' + note_fields + '</details>'
+                      + '<div class="edit-actions"><button type="button" class="save-revision">保存并预览</button><button type="button" class="discard-revision">清除此段修订</button>'
+                      + '<button type="button" class="rebase-revision" hidden>已对照现稿，采用本次修订</button></div><p class="revision-status" role="status"></p></details>')
         chunks.append(f'<section class="segment" id="{sid}"><h2 class="locator">FW {escape(segment["locator"])} <span class="tag">{STATUS[segment["status"]]}</span></h2>'
                       + '<div class="original" lang="en"><h3>原文</h3>' + paragraphs(segment["original"]) + '</div>'
                       + '<div class="translation"><h3>中文试译</h3>' + paragraphs(segment["translation"]) + '</div>'
                       + f'<p class="note-refs">译注 {refs}</p>'
                       + '<div class="notes"><h3>译注与出处</h3>' + ''.join(note_items) + '</div>'
-                      + ('<section class="alternatives"><h3>备选译法</h3>' + alternatives + '</section>' if alternatives else '')
+                      + ('<section class="alternatives"><h3>备选译法</h3>' + alternatives + '</section>' if alternatives else '') + editor
                       + '</section>')
     if chapter["id"] == "IV" and any(c["id"] == "I.1" for c in data["chapters"]):
         chunks.append('<p class="loop"><a href="I-1.' + ('xhtml' if epub else 'html') + '#fw-i1-003-01">回到 003.01，接读开篇 →</a></p>')
@@ -215,7 +224,7 @@ def page(title, body, data, prefix="", current=""):
         menu.append(f'<a href="{prefix}chapters/{slug(chapter)}.html"{active}><span>{escape(chapter["id"])}</span> {escape(chapter["title"].split("·")[-1])}<small>{COVERAGE[chapter["coverage"]]}</small></a>')
     return ('<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
             + f'<title>{escape(title)} · {escape(config["title"])}</title><meta name="description" content="《芬尼根的守灵夜》中文译注：原文对照、双关、出处与异译。">'
-            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/reader.js"></script></head><body>'
+            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head><body>'
             + '<a class="skip" href="#main">跳至正文</a><header class="topbar">'
             + f'<a class="brand" href="{prefix}index.html">FW<span>守灵夜译注</span></a><nav aria-label="主导航">'
             + f'<a href="{prefix}glossary.html">译名</a><a href="{prefix}sources.html">资料</a><a href="{escape(config["repository"])}">GitHub ↗</a>'
@@ -242,7 +251,8 @@ def build_epub(data, out):
         body += render_segments(chapter, data, epub=True).replace("sources.html#", "sources.xhtml#")
         items[name] = xhtml(chapter["title"], body, "../style.css")
         nav.append(f'<li><a href="{name}">{escape(chapter["title"])}</a></li>')
-    notice = ('<h1>' + escape(config["title"]) + '</h1><p>James Joyce · 中文译注工程</p><p>首版含开篇与末尾两段试译，均待人工审校。其余章节仅列目录。</p>'
+    stats = statistics(data)
+    notice = ('<h1>' + escape(config["title"]) + f'</h1><p>James Joyce · 中文译注工程</p><p>当前收录 {stats["segments"]} 段译稿，{stats["reviewed"]} 段已审校。尚未录入的正文仅列待译目录。</p>'
               + '<p>页行采用通行坐标；电子见证本、出处与存疑解读见各段注释和资料页。</p><p>中文试译及原创注释：CC BY-NC-SA 4.0。此许可不涵盖 Joyce 原著及第三方资料。来源站标示原著在加拿大属公有领域，其他地区请按当地规则使用。</p>'
               + '<p>本项目以 AI 辅助起草；没有人工审校记录的段落均保留“试译”状态。</p>')
     items["title.xhtml"] = xhtml(config["title"], notice)
@@ -276,7 +286,7 @@ def build(data, out):
     site = out / "site"
     for path in [site / "chapters", site / "assets", site / "downloads"]:
         path.mkdir(parents=True, exist_ok=True)
-    for name in ["style.css", "reader.js"]:
+    for name in ["style.css", "reader-model.js", "reader.js"]:
         shutil.copyfile(ROOT / "site" / name, site / "assets" / name)
     stats = statistics(data)
     first_slug = slug(data["chapters"][0])
@@ -289,7 +299,21 @@ def build(data, out):
     for i, chapter in enumerate(data["chapters"]):
         head = f'<p class="eyebrow">BOOK {chapter["book"]} · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</p><h1>{escape(chapter["title"])}</h1>'
         head += f'<p class="status-notice">{COVERAGE[chapter["coverage"]]}。样稿尚待人工审校。</p>' if chapter["segments"] else ''
-        controls = '<div class="reader-controls"><label><input type="checkbox" id="show-original" checked> 原文对照</label><label><input type="checkbox" id="show-notes" checked> 显示译注</label><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label></div><p id="search-status" role="status" aria-live="polite"></p>' if chapter["segments"] else ''
+        controls = ''
+        if chapter["segments"]:
+            edit_url = data["config"]["repository"] + '/edit/main/manuscript/chapters/' + slug(chapter) + '.json'
+            embedded = json.dumps({"chapter": chapter, "edit_url": edit_url, "repository": data["config"]["repository"]}, ensure_ascii=False).replace('<', '\\u003c').replace('&', '\\u0026')
+            controls = ('<div class="reader-controls"><label><input type="checkbox" id="show-original" checked> 原文对照</label><label><input type="checkbox" id="show-notes" checked> 显示译注</label><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label></div>'
+                        + '<details class="reading-preferences"><summary>阅读设置</summary><div class="preference-grid">'
+                        + '<label for="font-size">字号 <output id="font-size-value">24</output><input id="font-size" type="range" min="18" max="36" step="1" value="24"></label>'
+                        + '<label for="line-height">行距 <output id="line-height-value">2.1</output><input id="line-height" type="range" min="1.5" max="2.6" step="0.1" value="2.1"></label>'
+                        + '<label for="reading-width">版心 <output id="reading-width-value">760</output><input id="reading-width" type="range" min="440" max="1000" step="20" value="760"></label>'
+                        + '<label for="reading-font">字体<select id="reading-font"><option value="serif">宋体</option><option value="sans">黑体</option><option value="kai">楷体</option></select></label></div>'
+                        + '<button type="button" id="reset-reading">恢复默认</button></details>'
+                        + '<details class="chapter-revisions"><summary>本章修订与提交</summary><p>在段落下方展开「修订本段」，可改译文及译注。保存后预览；确认后复制修订稿，到 GitHub 编辑页全选、粘贴并提交。</p>'
+                        + '<div class="edit-actions"><button type="button" id="export-revisions">导出本章修订稿</button><button type="button" id="submit-revisions">复制修订并打开 GitHub</button>'
+                        + f'<a class="button" href="{escape(edit_url)}" target="_blank" rel="noopener noreferrer">直接编辑仓库稿件 ↗</a></div><p id="revision-summary" role="status" aria-live="polite">当前显示公共译稿。</p></details>'
+                        + f'<script id="chapter-data" type="application/json">{embedded}</script><p id="search-status" role="status" aria-live="polite"></p>')
         prev = data["chapters"][i - 1] if i else None
         following = data["chapters"][i + 1] if i + 1 < len(data["chapters"]) else None
         bottom = '<nav class="chapter-pager" aria-label="翻章">'

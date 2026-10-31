@@ -14,6 +14,7 @@
 6. 初译用 `draft`，修订用 `revised`。只有真实审校者检查后才能写 `reviewed` 并填写 `reviewers`。
 7. 有试译不等于整章完成；`coverage: complete` 须有覆盖核对说明 `coverage_review`。
 8. 首尾接缝两处联动检查。未核对全章，不擅补叙事关系。
+9. 续译前先读 `progress/RESUME.md` 和 `progress/checkpoint.json`。从锚句续接，不跳过正文。每轮更新断点；每章完整录入并核对覆盖后，生成 `progress/chapters/` 章节记录，与稿件一起提交。
 
 ## 验证与提交
 
