@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-005-05",
+  "locator": "005.05–005.08",
+  "range": [
+    5,
+    5,
+    5,
+    8
+  ],
+  "source_id": "joyce-fp",
+  "original": "Of the first was he to bare arms and a name: Wassaily Booslaeugh of Riesengeborg. His crest of huroldry, in vert with ancillars, troublant, argent, a hegoak, poursuivant, horrid, horned. His scutschum fessed, with archers strung, helio, of the second.",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "7dee449e7415a02698ec4167f1468db11f63e3fc35d9bbcf131e522e32e20625"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "ab850363735e332601b2604186a27e510d92d28092d1f7d7833ac16cc2736302"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核005.05至005.08文字、标点及纹章术语。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+      "edition": "通行原排第5页转录",
+      "result": "核对005.05至005.08行次，下一段从 Hootch is 起。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "bare arms and a name",
+      "question": "莎士比亚《哈姆雷特》掘墓人论亚当赤膊掘土佩带纹章与命名母题。",
+      "impact": "allusion与wordplay注释"
+    },
+    {
+      "lemma": "Wassaily Booslaeugh of Riesengeborg",
+      "question": "俄罗斯诺夫哥罗德史诗歌谣勇士瓦西里·布斯拉耶夫、狂饮祝酒（wassail/booze）与巨山山脉（Riesengebirge）。",
+      "impact": "allusion与culture注释"
+    },
+    {
+      "lemma": "crest of huroldry ... vert ... argent ... scutschum fessed ... helio, of the second",
+      "question": "欧洲中世纪纹章学术语戏仿（绿色vert、银色argent、横带fess、盾徽escutcheon、第二色相of the second）。",
+      "impact": "allusion与wordplay注释"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及莎士比亚哈姆雷特戏仿、斯拉夫民间英雄史诗瓦西里及纹章学规制。"
+  },
+  "previous_segment_id": "fw-i1-004-18",
+  "next": [
+    5,
+    9
+  ],
+  "next_original": "Hootch is for husbandman handling his hoe. Hohohoho, Mister Finn, you're going to be Mister Finnagain!",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page5",
+    "shakespeare-hamlet",
+    "bylina-buslaev"
+  ],
+  "research_limitations": "俄文原诗与斯拉夫民俗未核原始善本；中日研究原页保留查阅空白。"
+}

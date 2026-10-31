@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-006-13",
+  "locator": "006.13–006.31",
+  "range": [
+    6,
+    13,
+    6,
+    31
+  ],
+  "source_id": "joyce-fp",
+  "original": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin? Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation. There was plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shout-most shoviality. Agog and magog and the round of them agrog. To the continuation of that celebration until Hanandhunigan's extermination! Some in kinkin corass, more, kankan keening. Belling him up and filling him down. He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth. Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios. They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head. Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing.",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "68e59c187c3cb28f5dac8a2af7701f1b273769185146f099bd8b79aa23488107"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "61ab65fb18d088fe7cf010673d3fb4a82863fb428ff2687cc7361e109dc2b388"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核对006.13至006.31文字、问号感叹号及段界。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_6",
+      "edition": "通行原排第6页转录",
+      "result": "核对006.13至006.31行次，下段始于 006.32 'Well, Him a being so on the flounder of his bulk'。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie?",
+      "question": "民谣《莫莉·布兰尼根》与《芬尼根守灵夜》经典哭灵哀调，芬·麦库尔神话英雄。",
+      "impact": "allusion与sound注释"
+    },
+    {
+      "lemma": "Fillagain's chrissormiss wake... plethora of ululation",
+      "question": "芬尼根（再斟一杯）、圣诞守灵宴、都柏林流氓阿飞与十二进制号丧大哭。",
+      "impact": "wordplay与allusion注释"
+    },
+    {
+      "lemma": "Priam Olim / dacent gaylabouring youth",
+      "question": "特洛伊老王普里阿摩斯、希腊生殖神普里阿普斯、民谣守灵夜体面劳动青年。",
+      "impact": "allusion与structure注释"
+    },
+    {
+      "lemma": "bockalips of finisky fore his feet... barrowload of guenesis",
+      "question": "头尾对置：脚前启示录（威士忌）对头顶创世记（健力士黑啤），生与死之双向闭环。",
+      "impact": "allusion与quotation注释"
+    },
+    {
+      "lemma": "Tee the tootal... tautaulogically the same thing",
+      "question": "禁酒令与酒浆滔滔戏仿、爱尔兰舞曲《菲尔的笛手舞会》及维柯重言循环哲学。",
+      "impact": "allusion与philosophy注释"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Fillagain",
+      "translation": "再斟芬先生",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp",
+        "ballad-finnegan"
+      ],
+      "note": "Finnegan 与 fill again（再满上一杯酒）双关。"
+    },
+    {
+      "term": "Priam Olim",
+      "translation": "昔日老王普里阿摩斯",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "特洛伊老王 Priam、拉丁语 olim（昔日）与生殖神 Priapus 复合。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及爱尔兰哭丧传统（keening）、民谣经典唱段、圣经头尾创世与终末对立、特洛伊神话与维柯重言哲学。"
+  },
+  "previous_segment_id": "fw-i1-005-27",
+  "next": [
+    6,
+    32
+  ],
+  "next_original": "Well, Him a being so on the flounder of his bulk like an overgrown babeling, let wee peep, see, at Hom, well, see peegee ought he ought, platterplate.",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page6",
+    "ballad-finnegan",
+    "bible-ot",
+    "jjda-i1"
+  ],
+  "research_limitations": "爱尔兰民间守灵酒席曲目变体未核爱尔兰民俗档案馆磁带；中日研究原页保留查阅空白。"
+}

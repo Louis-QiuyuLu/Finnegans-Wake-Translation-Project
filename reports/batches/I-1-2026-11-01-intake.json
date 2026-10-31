@@ -1,0 +1,23 @@
+{
+  "chapter": "I.1",
+  "stage": "integration",
+  "input": "reports/reviews/inputs/gemini-I-1-2026-11-01.json",
+  "input_sha256": "cb66a5d482281284b8e422766cd4dd07fc0131f31d79456e27651363402ec2d1",
+  "adopted_manuscript": "manuscript/chapters/I-1.json",
+  "adopted_sha256": "fabf34db40630589d45bed2910c0797056fbdfb729ca6108653a9fc24b44a7f1",
+  "review": "reports/reviews/gemini-I-1-004-012-integration.r0.md",
+  "sequential_end": [
+    8,
+    4
+  ],
+  "next": [
+    8,
+    5
+  ],
+  "withheld": [
+    "reports/quarantine/fw-i1-008-06.json",
+    "reports/quarantine/fw-i1-010-25.json"
+  ],
+  "audio_tracks": 9,
+  "human_review": false
+}

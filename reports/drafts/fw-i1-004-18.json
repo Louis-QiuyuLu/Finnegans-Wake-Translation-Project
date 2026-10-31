@@ -1,0 +1,186 @@
+{
+  "id": "fw-i1-004-18",
+  "locator": "004.18–005.04",
+  "range": [
+    4,
+    18,
+    5,
+    4
+  ],
+  "source_id": "joyce-fp",
+  "original": "Bygmester Finnegan, of the Stuttering Hand, freemen's maurer, lived in the broadest way immarginable in his rushlit toofarback for messuages before joshuan judges had given us numbers or Helviticus committed deuteronomy (one yeastyday he sternely struxk his tete in a tub for to watsch the future of his fates but ere he swiftly stook it out again, by the might of moses, the very water was eviparated and all the guenneses had met their exodus so that ought to show you what a pentschanjeuchy chap he was!) and during mighty odd years this man of hod, cement and edifices in Toper's Thorp piled buildung supra buildung pon the banks for the livers by the Soangso. He addle liddle phifie Annie ugged the little craythur. Wither hayre in honds tuck up your part inher. Oftwhile balbulous, mithre ahead, with goodly trowel in grasp and ivoroiled overalls which he habitacularly fondseed, like Haroun Childeric Eggeberth he would caligulate by multiplicables the alltitude and malltitude until he seesaw by neatlight of the liquor wheretwin 'twas born, his roundhead staple of other days to rise in undress maisonry upstanded (joygrantit!), a waalworth of a skyerscape of most eyeful hoyth entowerly, erigenating from next to nothing and celescalating the himals and all, hierarchitectitiptitoploftical, with a burning bush abob off its baubletop and with larrons o'toolers clittering up and tombles a'buckets clottering down.",
+  "draft": "建筑大师芬尼根，抖颤结巴之手，自由石匠宗师，在散草微明的远古老巢活得漫无涯际、不可度量，远在房产田契面世之前，早于约书亚士师颁降民数，亦早于瑞士利未记犯下申命重罪（某番醉意蒸腾之日，他严严实实把脑袋栽入大盆，意欲勘测未来命运，怎奈尚未抽身拔出，凭摩西神威，盆水竟已蒸发殆尽，健力士黑啤全数出逃出埃及，足见他是何等摩西五经兼木偶闹剧的狠角！）；在漫长古怪岁序里，这位灰浆桶、水泥与大厦之雄，在醉客村沿某某河岸，为临河居客层层叠叠堆造楼宇大厦。他有娇小娇妻安妮，他也狠抱这瓶玉液生灵。手执秀发，且挽你的舞伴双双入内。时而结巴踉跄，头戴方帽，手握称心泥刀，身着惯常钟爱的油布工装，宛若哈伦·希尔德里克·埃格伯特，以乘法度量崇高极顶与稠密众生，直至借着诞生之际的纯酒清光，恍见昔日圆头主桩以素面石工拔地峙立（天赐大悦！），化作一座通体赫然耸立、极尽耀眼的摩天崇楼，起于虚无，梯接天穹，凌跨群山，巍峨极顶巨匠耸拔无双，塔顶华珠之上浮摇着不烬荆棘，伴随奥图尔圣盗铿锵爬升，翻滚木桶稀里哗啦轰然坠落。",
+  "translation": "建筑大师芬尼根，抖颤结巴之手，自由石匠宗师，在散草微明的远古老巢活得漫无涯际、不可度量，远在房产田契面世之前，早于约书亚士师颁降民数，亦早于瑞士利未记犯下申命重罪（某番醉意蒸腾之日，他严严实实把脑袋栽入大盆，意欲勘测未来命运，怎奈尚未抽身拔出，凭摩西神威，盆水竟已蒸发殆尽，健力士黑啤全数出逃出埃及，足见他是何等摩西五经兼木偶闹剧的狠角！）；在漫长古怪岁序里，这位灰浆桶、水泥与大厦之雄，在醉客村沿某某河岸，为临河居客层层叠叠堆造楼宇大厦。他有娇小娇妻安妮，他也狠抱这瓶玉液生灵。手执秀发，且挽你的舞伴双双入内。时而结巴踉跄，头戴方帽，手握称心泥刀，身着惯常钟爱的油布工装，宛若哈伦·希尔德里克·埃格伯特，以乘法度量崇高极顶与稠密众生，直至借着诞生之际的纯酒清光，恍见昔日圆头主桩以素面石工拔地峙立（天赐大悦！），化作一座通体赫然耸立、极尽耀眼的摩天崇楼，起于虚无，梯接天穹，凌跨群山，巍峨极顶巨匠耸拔无双，塔顶华珠之上浮摇着不烬荆棘，伴随奥图尔圣盗铿锵爬升，翻滚木桶稀里哗啦轰然坠落。",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-bygmester",
+      "lemma": "Bygmester Finnegan / freemen's maurer",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Bygmester 取挪威语《建筑大师》（易卜生作 Bygmester Solness），将建筑师登高坠落母题融入主角；Finnegan 承接爱尔兰民谣《芬尼根守灵夜》中醉酒跌落脚手架复生的泥水匠蒂姆·芬尼根；freemen's maurer 承德语 Freimaurer（共济会自由石匠）。正文译作“建筑大师芬尼根，自由石匠宗师”。",
+      "source_ids": [
+        "ibsen-solness",
+        "ballad-finnegan",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-stutteringhand",
+      "lemma": "Stuttering Hand",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "结巴（stuttering）本属言语阻滞，乔伊斯将其转嫁于施工、写作之“手”，亦暗指造物本身的迟疑缺陷与共济会特定手势。正文译作“抖颤结巴之手”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-immarginable",
+      "lemma": "broadest way immarginable in his rushlit toofarback for messuages",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "immarginable 融不可想象（unimaginable）与无法外边缘（unmarginable）；rushlit 指以散草灯芯照亮之古风；messuages 指法律上的宅第田产。指芬尼根存在于法权田宅设立之前的洪荒古纪。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-otbiblical",
+      "lemma": "joshuan judges had given us numbers or Helviticus committed deuteronomy",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "按次序连缀旧约五卷：约书亚记（Joshua）、士师记（Judges）、民数记（Numbers）、利未记（Leviticus，嵌瑞士 Helvetia）、申命记（Deuteronomy）；“犯下申命重罪”将书名拟为罪行。正文保留书卷次序与动作。",
+      "source_ids": [
+        "bible-ot",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-yeastyday",
+      "lemma": "one yeastyday ... struxk his tete in a tub for to watsch the future of his fates",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "yeastyday 融昨日（yesterday）与酿酒酵母（yeasty）；tete 取法文头颅（tête）；watsch 兼看（watch）、洗（wash）与德语耳光（Watsche）。指芬尼根醉中将头埋入水盆勘验命运。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-eviparated",
+      "lemma": "water was eviparated and all the guenneses had met their exodus",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "eviparated 融蒸发（evaporated）与毒蛇（viper）；guenneses 融都柏林著名健力士黑啤（Guinness）与创世记（Genesis）；exodus 对应出埃及记。整句以盆水蒸干、啤酒喝尽戏仿摩西过红海与出埃及。",
+      "source_ids": [
+        "bible-ot",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-pentschanjeuchy",
+      "lemma": "what a pentschanjeuchy chap he was!",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "双关高密度连缀：融摩西五经（Pentateuch）与英格兰经典木偶剧“庞奇与朱迪”（Punch and Judy）。兼具神圣律法始祖与市井滑稽闹剧双重品性。",
+      "source_ids": [
+        "bible-ot",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-buildung",
+      "lemma": "piled buildung supra buildung pon the banks for the livers by the Soangso",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "buildung 叠合英语建筑（building）与德语教养文化（Bildung）；supra 为拉丁文在其之上；livers 兼临河居客与江河（rivers）；Soangso 兼某某某（so-and-so）与中国黄河及法国索恩河（Saône）。正文译作“沿某某河岸，为临河居客层层叠叠堆造楼宇大厦”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-craythur",
+      "lemma": "He addle liddle phifie Annie ugged the little craythur",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "语法双折句：直读为芬尼根拥抱小娇妻安妮（ALP 首度以妻子面貌隐现）；折读则取爱尔兰俚语 craythur（creature / 威士忌烈酒），直指民谣中芬尼根嗜酒成性、“与酒同生”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-tuckup",
+      "lemma": "Wither hayre in honds tuck up your part inher",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "谐仿爱尔兰民谣《芬尼根守灵夜》舞曲过门呼叫“Whack fol the dah now, dance to your partner”（挽起舞伴跳起来），兼融“执发在手”（With her hair in hands）与夫妇谐谑（tuck up your part in her）。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-haroun",
+      "lemma": "like Haroun Childeric Eggeberth he would caligulate by multiplicables the alltitude and malltitude",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Haroun Childeric Eggeberth 三名字首字母嵌合 HCE：阿拉伯阿拔斯王朝哈伦·拉希德（Haroun al-Raschid）、法兰克墨洛温王朝希尔德里克（Childeric）、威塞克斯国王埃格伯特（Egbert）；caligulate 融计算（calculate）与罗马暴君卡里古拉（Caligula）；alltitude and malltitude 叠合全部高度（altitude）与群众广度（magnitude）。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-waalworth",
+      "lemma": "a waalworth of a skyerscape of most eyeful hoyth entowerly",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "waalworth 兼指纽约早期著名摩天大楼伍尔沃斯大厦（Woolworth Building）与墙垣价值（wall worth）；skyerscape 为摩天楼（skyscraper）；eyeful hoyth 兼极为养眼之高耸（eyeful height）与霍斯角（Howth）；entowerly 为全然筑成塔（entirely / en-tower）。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-erigenating",
+      "lemma": "erigenating from next to nothing and celescalating the himals and all",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "erigenating 融起源（originating）与中世纪爱尔兰哲人约翰·司各特·爱留根纳（Johannes Scotus Eriugena），指涉其《自然区分论》关于万有源于神圣虚无之学说；celescalating 融天宇（celestial）与升级攀爬（escalating）；himals 兼喜马拉雅山脉（Himalayas）。",
+      "source_ids": [
+        "erigena",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-hierarchitect",
+      "lemma": "hierarchitectitiptitoploftical, with a burning bush abob off its baubletop",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "巨型组合词：hierarch（教长神圣阶层）+ architect（建筑师）+ tip-top（极顶、微醉摇晃）+ toploftical（高傲自负），模拟高塔耸入云霄之巍峨与醉汉高空摇晃之险态；burning bush 指旧约西奈山不烬荆棘，被置于塔尖顶珠（baubletop）之上。",
+      "source_ids": [
+        "bible-ot",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-larronstoolers",
+      "lemma": "larrons o'toolers clittering up and tombles a'buckets clottering down",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "双向对位：larrons o'toolers 融盗贼（法文 larron）、都柏林石匠与都柏林主保圣人圣劳伦斯·奥图尔（St. Laurence O'Toole），发出 clittering 之声向上爬；tombles a'buckets 融翻滚跌落（tumble）、水桶（buckets）与坎特伯雷大主教托马斯·贝克特（Thomas à Becket），发出 clottering 之声向下砸。再现巴别塔建造与混乱跌落之场景。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page5",
+        "joyce-fp"
+      ]
+    }
+  ],
+  "alternatives": []
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-004-01",
+  "locator": "004.01–004.17",
+  "range": [
+    4,
+    1,
+    4,
+    17
+  ],
+  "source_id": "joyce-fp",
+  "original": "What clashes here of wills gen wonts, oystrygods gaggin fishygods! Brékkek Kékkek Kékkek Kékkek! Kóax Kóax Kóax! Ualu Ualu Ualu! Quaouauh! Where the Baddelaries partisans are still out to mathmaster Malachus Micgranes and the Verdons catapelting the camibalistics out of the Whoyteboyce of Hoodie Head. Assiegates and boomeringstroms. Sod's brood, be me fear! Sanglorians, save! Arms apeal with larms, appalling. Killykillkilly: a toll, a toll. What chance cuddleys, what cashels aired and ventilated! What bidimetoloves sinduced by what tegotetabsolvers! What true feeling for their's hayair with what strawng voice of false jiccup! O here here how hoth sprowled met the duskt the father of fornicationists but, (O my shining stars and body!) how hath fanespanned most high heaven the skysign of soft advertisement! But was iz? Iseut? Ere were sewers? The oaks of ald now they lie in peat yet elms leap where askes lay. Phall if you but will, rise you must: and none so soon either shall the pharce for the nunce come to a setdown secular phoenish.",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "a4351bf493755fc988f206ae3cf1a10af8205ea535075efc64676971a18b0985"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "c5a0278bd6b098836f9ddf9bffb57608827fa070216703e4d849f18672fae7fa"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking1958年第八印本，含作者勘误",
+      "result": "核全文字、标点、重音、自然段起止；合并网页折行。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_4",
+      "edition": "通行原排页行社区转录",
+      "result": "首段17行；Bygmester从004.18起。原排fishy-gods、cata-pelting、Killykill-killy、tegotetab-solvers在Faded合并，照Faded字形录入。未核纸本扫描。"
+    },
+    {
+      "url": "https://rpo.library.utoronto.ca/content/anthea-who-may-command-him-anything",
+      "result": "核前四行和protestant求爱宣誓义附注。"
+    },
+    {
+      "url": "https://web.viu.ca/johnstoi/aristophanes/frogs.htm",
+      "result": "核渡船和蛙群登场；LSJ另列209行蛙鸣。社区页误写主辩诗人Sophocles，勿照录。"
+    },
+    {
+      "url": "https://www.vatican.va/archive/catechism_lt/p2s2c2a4_lt.htm",
+      "result": "核1449公式；不推定作者具体所读版本。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "wills gen wonts / oystrygods gaggin fishygods",
+      "question": "保留意志／习惯、牡蛎／鱼神与哥特声影；不定于一场历史战役。",
+      "impact": "正文及wordplay注"
+    },
+    {
+      "lemma": "Baddelaries / Malachus Micgranes / Verdons / Whoyteboyce",
+      "question": "分开武器、人名和笑闹候选，标未核史事；不要列猜测充事实。",
+      "impact": "正文命名与certainty"
+    },
+    {
+      "lemma": "Arms apeal with larms / Killykillkilly / a toll",
+      "question": "核军械、臂、呼喊、警报、杀戮、钟声及代价的并读；拟声补偿。",
+      "impact": "译文节奏及损失注"
+    },
+    {
+      "lemma": "bidimetoloves / tegotetabsolvers / sinduced",
+      "question": "Herrick求爱和赦罪公式各有文本证据，但Joyce宗派施受解释仍须分级；sinduced含罪与诱导。",
+      "impact": "互文研究、正文、注释"
+    },
+    {
+      "lemma": "hayair / strawng / false jiccup",
+      "question": "与前页Genesis27相接；毛皮、声音、继承者、干草、打嗝不可强归单义。",
+      "impact": "典故和声形注"
+    },
+    {
+      "lemma": "father of fornicationists / fanespanned / skysign",
+      "question": "保留父者扑地与天标升起的高低倒置；Howth/HCE只是候选声影。",
+      "impact": "句法与人物指认"
+    },
+    {
+      "lemma": "was iz / Iseut / Ere were sewers",
+      "question": "保留短促疑问与污渠字面；sure和sœurs读路不可变作确定情节。",
+      "impact": "疑问句与备选"
+    },
+    {
+      "lemma": "elms leap where askes lay / phoenish",
+      "question": "树木、灰烬和复生；未核古诺斯原典，不写神话起源定论。结句不可漏掉迟迟未收场的否定。",
+      "impact": "正文及结尾结构"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Howth",
+      "translation": "霍斯",
+      "status": "provisional",
+      "source_ids": [
+        "fw-howth"
+      ],
+      "note": "hoth处只可提候选声影。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "Herrick／赦罪句跨文本关系，以及相邻Genesis27照应需逐主张分层；中日研究与译本若无原页，保留查阅空白。"
+  },
+  "previous_segment_id": "fw-i1-003-15",
+  "next": [
+    4,
+    18
+  ],
+  "next_original": "Bygmester Finnegan, of the Stuttering Hand, freemen's maurer,",
+  "available_source_ids": [
+    "fw-page4",
+    "fw-oystrygods",
+    "fw-baddelaries",
+    "fw-malachus",
+    "fw-verdons",
+    "fw-whoyteboyce",
+    "fw-sodbrood",
+    "fw-bemefear",
+    "fw-sanglorians",
+    "fw-chancecuddleys",
+    "fw-cashels",
+    "fw-bidimetoloves",
+    "fw-tegotetabsolvers",
+    "fw-hayair",
+    "fw-jiccup",
+    "fw-fanespanned",
+    "fw-softad",
+    "fw-sewers",
+    "fw-trees",
+    "fw-phoenish",
+    "aristophanes-frogs-johnston",
+    "lsj-koax",
+    "herrick-anthea",
+    "catechism-1449",
+    "joyce-fp",
+    "bible-gen27",
+    "fw-howth",
+    "fw-tristram"
+  ],
+  "research_limitations": "外部中译、日译原页未查；多数词源只有社区线索；须保留proposal/uncertain。"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "fw-i1-006-13",
+  "locator": "006.13–006.31",
+  "range": [
+    6,
+    13,
+    6,
+    31
+  ],
+  "source_id": "joyce-fp",
+  "original": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin? Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation. There was plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shout-most shoviality. Agog and magog and the round of them agrog. To the continuation of that celebration until Hanandhunigan's extermination! Some in kinkin corass, more, kankan keening. Belling him up and filling him down. He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth. Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios. They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head. Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing.",
+  "draft": "尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎。场上备足李子干、凝血浆、带刀警长、拨琴乐手、突袭马贼，外加各路影人。众人如巨人裂口哄然相随，爆发出最震天的泼酒欢呼。歌革与玛各两相惊呆，团团围坐痛饮浊酒。守灵庆典通宵达旦，直至芬尼根合族尽绝方休！有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠。昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生。拍松他枕头石，敲开他停尸酒桶！寰宇漩涡之内，何处能再闻这等喧天震响？伴着深蹙双眉的掘墓葬仪，还有蒙尘的忠烈长歌。众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒。任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！",
+  "translation": "尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎。场上备足李子干、凝血浆、带刀警长、拨琴乐手、突袭马贼，外加各路影人。众人如巨人裂口哄然相随，爆发出最震天的泼酒欢呼。歌革与玛各两相惊呆，团团围坐痛饮浊酒。守灵庆典通宵达旦，直至芬尼根合族尽绝方休！有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠。昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生。拍松他枕头石，敲开他停尸酒桶！寰宇漩涡之内，何处能再闻这等喧天震响？伴着深蹙双眉的掘墓葬仪，还有蒙尘的忠烈长歌。众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒。任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-shize",
+      "lemma": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin?",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "直接化用爱尔兰传统民谣《莫莉·布兰尼根》（Molly Brannigan）与《芬尼根守灵夜》著名哭灵唱词：“Arrah, why did ye die?”；Macool 对应爱尔兰神话巨汉芬·麦库尔（Finn MacCool）；Shize 融尺寸（size）、叹息（sighs）、德语粪便（Scheisse）与报丧女妖（banshee / shee）；thirstay mournin 兼焦渴之晨（thirsty morning）与受审周四服丧（trying Thursday mourning）。正文译作“尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-fillagain",
+      "lemma": "Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Fillagain 将芬尼根（Finnegan）点化为酒宴再斟一杯（fill again）；chrissormiss 融圣诞节（Christmas）与基督或错过（Chris or miss）；hoolivans 融爱尔兰姓氏奥苏利万（O'Sullivan）与街头阿飞（Hooligan）；duodisimally profusive 融十二进制（duodecimal / 十二门徒 / 十二陪审员）与极其凄惨（dismal）；ululation 为爱尔兰传统守灵号丧。正文译作“在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-plumbsgrumes",
+      "lemma": "plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shout-most shoviality. Agog and magog and the round of them agrog",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "守灵茶点与吊客杂烩：plumbs（李子/铅锤）、grumes（凝血块/酸葡萄）、cheriffs（樱桃/治安官 sheriffs）、citherers（齐特琴手/苹果酒商 ciderers）、raiders（劫掠者/骑士）、cinemen（肉桂/影人 cinema men）；all gianed in 融全部加入（all joined in）与巨人裂嘴（gianed / giant）；Agog and magog 融圣经末日审判双巨兽歌革与玛各（Gog and Magog，亦为伦敦巨人立像）与瞠目结舌（agog）；agrog 为大饮朗姆酒（grog）。正文全面生动对应译出。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-kinkincorass",
+      "lemma": "Some in kinkin corass, more, kankan keening. Belling him up and filling him down",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "守灵场面之声色骚动：kinkin corass 融亲族合唱（kith and kin chorus）与康康舞紧身胸甲（can-can cuirass）；kankan keening 为跳着康康舞狂暴嚎丧（keening）；Belling him up 为丧钟鸣响敬告与腹部朝上（belly up）；filling him down 为灌满酒浆。正文译作“有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-priamolim",
+      "lemma": "He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Priam Olim 融特洛伊末代老王普里阿摩斯（Priam）、拉丁语从前（olim）与希腊生殖繁衍之神普里阿普斯（Priapus）；stiff but steady 双关尸体僵冷（stiff）与男根勃起坚挺；dacent gaylabouring youth 化用民谣《芬尼根守灵夜》首句“a decent day-labouring youth”（体面勤俭的白班工青年）。正文译作“昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-deepbrow",
+      "lemma": "Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "pillowscone 融枕头与司空石（Stone of Scone，历代苏格兰与英国君主加冕石）；tap up his bier 兼敲实灵柩板与敲开啤酒桶（beer tap）；in this whorl 融尘世（world）与涡旋（whorl）；sich a din again 谐芬尼根之名（Finn again）；deepbrow fundigs 兼深锁双眉之葬礼（fundus / digging）与寻欢作乐（fun-digs）；dusty fidelios 融蒙尘忠仆与贝多芬唯一歌剧《费黛里奥》（Fidelio，象征忠贞不渝）。正文全面对应译出。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-bockalips",
+      "lemma": "They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "民谣守灵夜停尸陈设之神圣升华：民谣原唱“脚前一加仑威士忌，头顶一桶波特酒”，在此演化为整部基督教圣经之首尾呼应：bockalips of finisky 融博克黑啤酒（bock）、新约终卷《启示录》（Apocalypse）与终结（finis）威士忌；barrowload of guenesis 融手推车/坟冢（barrow）、旧约首卷《创世记》（Genesis）与都柏林名酿健力士黑啤（Guinness）。脚前启示录，头顶创世记，死中孕生。正文译作“众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒”。",
+      "source_ids": [
+        "bible-ot",
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-teetootal",
+      "lemma": "Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "戏仿爱尔兰著名喜歌剧唱段《菲尔的笛手舞会》（Phil the Fluther's Ball）之副歌“To the toot of the flute and the twiddle of the fiddle, O!”；Tee the tootal 融滴酒不沾者（teetotal）与满溢流淌之酒浆（tootal of the fluid）；twoddle of the fuddled 为醉汉胡言乱语；young gleve 融少年新绿耕地（glebe）与决斗手套（glove）；owl globe 融老迈地球（old globe）与莎士比亚环球剧场；tautaulogically 嵌希腊字母 tau（T / 十字架回环）与重言循环哲学（tautology）。无论生死醉醒，历史终归循环重现。正文译作“任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    }
+  ],
+  "alternatives": []
+}

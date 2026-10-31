@@ -1,0 +1,1959 @@
+{
+  "id": "I.1",
+  "book": "I",
+  "number": 1,
+  "pages": [
+    3,
+    29
+  ],
+  "title": "第一卷·第一章",
+  "coverage": "partial",
+  "segments": [
+    {
+      "id": "fw-i1-003-01",
+      "locator": "003.01–003.03",
+      "range": [
+        3,
+        1,
+        3,
+        3
+      ],
+      "source_id": "joyce-fp",
+      "original": "riverrun, past Eve and Adam's, from swerve of shore to bend of bay, brings us by a commodius vicus of recirculation back to Howth Castle and Environs.",
+      "draft": "河流，经过夏娃与亚当，从曲岸到弯湾，循宽舒回环小径，又把人带回霍斯城堡及周围。",
+      "translation": "河水流，过夏娃与亚当，自岸曲而湾弯，循宽舒回环小径，又领人回到霍斯堡及四邻。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-riverrun",
+          "lemma": "riverrun",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "river 与 run 连写，兼有河流与奔流之势。试译拆成“河水流”，让名词转入动作；尚未保住原词紧缩感。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-eve",
+          "lemma": "Eve and Adam's",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "FinnegansWiki 将此语联系到都柏林 Adam and Eve’s 教堂。Joyce 倒置人名，仍让读者听见《创世记》。正文保留倒序，暂不补出“教堂”。教堂沿革仍待查原始资料。",
+          "source_ids": [
+            "fw-eve",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-shore",
+          "lemma": "swerve of shore / bend of bay",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "shore 与 swerve、bay 与 bend 两两呼应。试译用“岸曲／湾弯”补偿音响；“湾弯”刻意叠音，并非地名。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-commodius",
+          "lemma": "commodius",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "底本文字是 commodius，勿按常见英语 commodious 自动更正。FinnegansWiki 汇集其拉丁词形及英语“宽舒”联想；此处暂取宽舒，未穷尽其他读法。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-vicus"
+          ]
+        },
+        {
+          "id": "i1-vicus",
+          "lemma": "vicus",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "FinnegansWiki 将 vicus 的巷道、村落义与 Giambattista Vico（维柯）之名并读。结合 recirculation，可联想到历史回环。正文先取“小径”，维柯留在注内，避免把解释直接写成原文。",
+          "source_ids": [
+            "fw-vicus"
+          ]
+        },
+        {
+          "id": "i1-cycle",
+          "lemma": "recirculation",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "末页停在 the，开篇从小写 riverrun 接起，首尾可连读。JJDA 导读指出这层回环；它与河流入海、再返的意象相应。",
+          "source_ids": [
+            "joyce-fp",
+            "jjda-i1"
+          ]
+        },
+        {
+          "id": "i1-hce",
+          "lemma": "Howth Castle and Environs",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "三项首字母拼出 HCE。译文地名暂作“霍斯堡及四邻”；中文无法同时保住这组三字母，故在注中记明。FinnegansWiki 亦列此关联。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-howth"
+          ]
+        },
+        {
+          "id": "i1-us",
+          "lemma": "brings us … back",
+          "kind": "syntax",
+          "certainty": "proposal",
+          "text": "原句让河流领读者返回。译作“领人回到”，保留牵引动作；不补一个独立叙述者，也不将首段改成风景简介。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": [
+        {
+          "text": "河流流，过夏娃与亚当，曲岸弯湾兜转，又回霍斯城堡四周。",
+          "reason": "更重口语和叠音；漏去宽舒、小径两层，暂不采用。",
+          "attribution": "本项目备选译法"
+        }
+      ]
+    },
+    {
+      "id": "fw-i1-003-04",
+      "locator": "003.04–003.14",
+      "range": [
+        3,
+        4,
+        3,
+        14
+      ],
+      "source_id": "joyce-fp",
+      "original": "Sir Tristram, violer d'amores, fr'over the short sea, had passencore rearrived from North Armorica on this side the scraggy isthmus of Europe Minor to wielderfight his penisolate war: nor had topsawyer's rocks by the stream Oconee exaggerated themselse to Laurens County's gorgios while they went doublin their mumper all the time: nor avoice from afire bellowsed mishe mishe to tauftauf thuartpeatrick: not yet, though venissoon after, had a kidscad buttended a bland old isaac: not yet, though all's fair in vanessy, were sosie sesthers wroth with twone nathandjoe. Rot a peck of pa's malt had Jhem or Shen brewed by arclight and rory end to the regginbrow was to be seen ringsome on the aquaface.",
+      "draft": "特里斯坦爵士，拉情弦又犯情禁，尚未越过短海，从北阿摩里卡重返小欧罗巴嶙峋地峡这一边，重打他那孤茎半岛战：奥科尼溪边，上锯手那堆石头也还未向劳伦斯县戈吉奥乡人夸张堆起自身，一边让乞数不断翻番：也未有声音从火里鼓吼“吾是，吾是”，来洗洗“汝乃彼石帕特里克”：还没有，虽说鹿肉很快便到，羊崽小无赖还未顶退温和老以撒：还没有，虽说凡妮莎里百无禁忌，两位影样以斯帖姊妹还未恼起二合一纳坦乔。老爹一配克麦芽，杰姆或申还没借弧光酿得烂熟；水脸上，雨虹眉那红露一端四围可见。",
+      "translation": "特里斯坦爵士，乱拨情弦者，还未越短海，从北阿摩里卡再返小欧罗巴嶙峋地峡这一边，重打那孤茎半岛仗：奥科尼溪边，上锯手那堆石头，也未向劳伦斯县戈吉奥乡人夸堆自身，一边把乞数翻番不休：也未有哪声从哪团火里风箱般吼出“吾是，吾是”，来洗洗“汝乃彼石帕特里克”：羊崽小无赖也还没——虽说鹿肉快来——顶退那温和老以撒：影样以斯帖姊妹也还没——虽说凡妮莎里百无禁忌——恼起那二合一纳坦乔。老爹那一配克麦芽，杰姆或申还没借弧光酿得烂熟；水脸四围，环环可见雨虹眉那一端红露。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-tristram",
+          "lemma": "Sir Tristram / North Armorica",
+          "kind": "allusion",
+          "certainty": "uncertain",
+          "text": "1926 年信稿转录将此名兼指 Amory Tristram 与特里斯坦传说，并把北阿摩里卡连到布列塔尼。此处只登记作者自释线索；爵号、征服史与地理未另查原始记录，不据此写成确定史实。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "fw-tristram"
+          ]
+        },
+        {
+          "id": "i1-violer",
+          "lemma": "violer d'amores",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "社区词目并读爱情弦琴、拉琴者与法语侵犯之意。“乱拨情弦”兼取奏乐、越禁，仍削弱暴力含义；不把这个混合词只译成情郎。",
+          "source_ids": [
+            "fw-violer",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-passencore",
+          "lemma": "had passencore rearrived",
+          "kind": "syntax",
+          "certainty": "supported",
+          "text": "1926 年信稿转录以法语“尚未”与维柯式回返解释 passencore。“还未……再返”保住否定和重来；后文 nor、not yet 接续否定，不能顺成爵士已经回来。信稿针对早期稿，不能代替现行底本文字。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-wielderfight",
+          "lemma": "wielderfight",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "信稿转录将此词释作德语“再战”。正文取“重打”；wield 那股挥动武器的劲道未另造字补入，留在此注。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-penisolate",
+          "lemma": "penisolate war",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目列半岛战争、孤立阴茎与孤笔等读路。试造“孤茎半岛仗”，并存地形、性与孤立；笔战一层仍漏失。词内有 penis、isolate 等形影，不等于每项典故均已坐实。",
+          "source_ids": [
+            "fw-penisolate",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-topsawyer",
+          "lemma": "topsawyer's rocks / exaggerated themselse",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目将上锯手、Sawyer 人名与 rocks 的石块、睾丸义并置。信稿另提奥科尼河边那座美国 Dublin，且以拉丁语堆高解释夸张。“夸堆”补这两层；地方建城史与岩石传说尚未独立核实。",
+          "source_ids": [
+            "fw-topsawyer",
+            "joyce-weaver-1926",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-gorgios",
+          "lemma": "Laurens County's gorgios",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目将 gorgio 释作非罗姆人，另听见佐治亚州居民 Georgians。不能反译成吉卜赛人。正文暂音译“戈吉奥”，不抹去词形；词源仍待可靠罗姆语词典复核。",
+          "source_ids": [
+            "fw-gorgios"
+          ]
+        },
+        {
+          "id": "i1-doublin",
+          "lemma": "doublin their mumper",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "doublin 让翻倍与 Dublin 同声；社区词目把 mumper 并读乞人和 number。“乞数”是本项目补偿词，不是现成汉语；保住乞人与数目相撞，却失去都柏林地名回声。原句代词指谁仍留余地。",
+          "source_ids": [
+            "fw-doublin",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-firevoice",
+          "lemma": "avoice from afire / mishe mishe / tauftauf",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "信稿转录把 Mishe 释作爱尔兰语“吾是”，Tauf 释作德语施洗，并联圣帕特里克点火。“吾是，吾是／洗洗”保留复沓；“风箱般吼”补 bellows 与声音互撞，不另补圣经燃荆场景。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-thuartpeatrick",
+          "lemma": "thuartpeatrick",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "信稿转录联到彼得与磐石；《马太福音》16:18 可核对应句。“汝乃彼石帕特里克”为本项目嵌译，保住彼得／石头／帕特里克，却未补 peat 的泥炭形影。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "bible-matt16",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-venissoon",
+          "lemma": "venissoon / kidscad",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "venissoon 可拆听鹿肉与“很快”；kidscad 让羊崽撞上小无赖。《创世记》27:9、16 记山羊羔与羊皮，27:19 记雅各献肉冒名。“鹿肉快来／羊崽小无赖”是本项目拆译，不把它改成经文叙述。",
+          "source_ids": [
+            "joyce-fp",
+            "bible-gen27"
+          ]
+        },
+        {
+          "id": "i1-isaac",
+          "lemma": "buttended a bland old isaac",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "信稿转录兼指帕内尔顶替 Isaac Butt 与雅各取得以撒祝福；《创世记》27:1、35–36 可核失明、欺瞒与顶替。“顶退／老以撒”保动作，Butt 姓氏和 bland／blind 的声差仍留在英文，未把政治史细节写入正文。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "bible-gen27",
+            "fw-isaac"
+          ]
+        },
+        {
+          "id": "i1-sosie",
+          "lemma": "sosie sesthers / vanessy",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "信稿转录提两位同名 Esther：Vanhomrigh 与 Johnson，并释 sosie 为重影；社区词目连到斯威夫特。“影样以斯帖姊妹”保同名与 sisters 声影，不声称二人有血缘；凡妮莎先保留人名，不把整句只解作爱欲或虚荣。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "fw-sosie"
+          ]
+        },
+        {
+          "id": "i1-twone",
+          "lemma": "twone nathandjoe",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "社区词目把 two 与 one 叠读，并将 Jonathan 拆换为 Nathan 与 Joe。“二合一纳坦乔”保二／一相争及名字换序；原字中 hand 等旁路未展开，不能据此断言人物已经分成固定两人。",
+          "source_ids": [
+            "fw-twone",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-rotmalt",
+          "lemma": "Rot a peck of pa's malt",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "社区词目以 Not 的变声解释 Rot，延续否定，又保留腐烂。信稿转录联到彭斯酿麦歌与挪亚醉酒。正文“还没……酿得烂熟”试兼两路，语气仍有损；配克保留原容积单位，不擅折成中国斗升。",
+          "source_ids": [
+            "fw-rotmalt",
+            "joyce-weaver-1926",
+            "bible-gen9"
+          ]
+        },
+        {
+          "id": "i1-jhemshen",
+          "lemma": "Jhem or Shen",
+          "kind": "allusion",
+          "certainty": "uncertain",
+          "text": "社区词目听出 Jameson 酒名，并联 Shem、Shaun 与挪亚诸子。《创世记》9:18 可核闪、含、雅弗；不能直接把两处变体当成经文原名。正文暂音译杰姆、申，身份待上下文复核。",
+          "source_ids": [
+            "fw-jhemshen",
+            "bible-gen9"
+          ]
+        },
+        {
+          "id": "i1-arclight",
+          "lemma": "brewed by arclight",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "正文先取弧光。社区词目另联虹弧与方舟之光；《创世记》9:13–16 记虹作约证，9:20–21 记挪亚种葡萄、醉酒。本项目据此保留酿酒与虹光相接，但未把 arclight 固定成方舟灯。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-arclight",
+            "bible-gen9"
+          ]
+        },
+        {
+          "id": "i1-roryrainbow",
+          "lemma": "rory / regginbrow / ringsome / aquaface",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "信稿转录以红与露释 rory，以德语虹词混英语虹词释 regginbrow，以“四围”释 ringsome。“一端红露／雨虹眉／环环四围／水脸”兼留颜色、露水和身体形影；末一分句未另添否定。",
+          "source_ids": [
+            "joyce-weaver-1926",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-page3-voices",
+          "lemma": "nor / not yet / rory … regginbrow … ringsome",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "反复否定把人物、地点与时代压成一串尚未发生；末尾 r 声连转。中文沿用冒号与“也还没”，再以“红露／虹眉／环环”补回声。此为节奏补偿，不宣称复现原音，也不把各典故排成单线史。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": [
+        {
+          "text": "特里斯坦爵士，犯爱拉琴，还没从北阿摩里卡越海再来，重开半岛孤茎之战。",
+          "reason": "短句较易入口，却拆掉连锁否定，且把 violer 的声义压成两项；只存作局部备选。",
+          "attribution": "本项目备选译法"
+        }
+      ]
+    },
+    {
+      "id": "fw-i1-003-15",
+      "locator": "003.15–003.24",
+      "range": [
+        3,
+        15,
+        3,
+        24
+      ],
+      "source_id": "joyce-fp",
+      "original": "The fall (bababadalgharaghtakamminarronnkonnbronntonner-ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur-nuk!) of a once wallstrait oldparr is retaled early in bed and later on life down through all christian minstrelsy. The great fall of the offwall entailed at such short notice the pftjschute of Finnegan, erse solid man, that the humptyhillhead of humself prumptly sends an unquiring one well to the west in quest of his tumptytumtoes: and their upturnpikepointandplace is at the knock out in the park where oranges have been laid to rust upon the green since devlinsfirst loved livvy.",
+      "draft": "那曾经墙般挺直的老帕尔摔下（bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk！），早在床上传，晚在人生里唱，沿基督徒歌谣一路重说。离墙一记大跌，猝不及防，连带爱尔兰硬实汉芬尼根噗叱坠下，竟让他自家那驼墩山头立刻派出一位不问客，远向西边寻找他那笃墩脚趾：那翘起路栅尖尖处，就在公园里那击倒丘；自从德夫林初恋丽薇，橙子便躺在绿地，锈眠至今。",
+      "translation": "老帕爹，当年墙般挺直。他这一跌（bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk！），早早在床上讲，晚晚在人生里传，沿基督徒歌谣一路重贩。离墙这记大跌，猝不及防，牵出爱尔兰硬实汉芬尼根那声噗叱坠，竟让他自家那驼墩山头急急遣出一位不问客，远远向西，去寻他那笃墩脚趾：那翘起路栅尖尖处，就在公园里那击倒丘；自从德夫林初恋丽薇，橙子就横躺绿地，锈眠至今。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-fall",
+          "lemma": "The fall",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "社区词目并列酒歌中芬尼根跌落、人类失乐与 Humpty Dumpty 墙头坠落。已查社区所录酒歌，确写梯上摔下、守灵和酒洒后复起；该转录未注明谱本。本段只取“跌”，不先把肉身、道德与历史压成同一种坠落。",
+          "source_ids": [
+            "fw-fall",
+            "fw-wakesong",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-thunder1",
+          "lemma": "The fall 后括号内雷鸣词",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "底本把雷鸣词分排三行，两处加行末连字符；这里合写后共一百个拉丁字母，中文段内保留原拼，不以“轰隆”替换。社区按多语雷声尝试拆分；本项目尚未逐语核对词源，也未宣称中文已复现全部声音。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page3",
+            "fw-thunder1"
+          ]
+        },
+        {
+          "id": "i1-walloldparr",
+          "lemma": "wallstrait oldparr",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目并读墙般挺直、Wall Street 与 Old Parr、法语父亲声影及股票面值。“老帕爹”试留人名与父亲，“墙般挺直”留站立姿态；股市、酒名与传说年龄未纳入正文。上述历史牵连仍待原始资料核实。",
+          "source_ids": [
+            "fw-wallstrait",
+            "fw-oldparr",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-retaled",
+          "lemma": "retaled / entailed",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "社区词目把 retaled 连到重讲故事与零售；下文 entailed 又让 tale／tail 余音接续。“重贩”试把传说当货转卖，仍失去英语尾音与裁衣旁路，不把 retaled 自动改成 retold。",
+          "source_ids": [
+            "fw-retaled",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-bedlife",
+          "lemma": "early in bed / later on life / christian minstrelsy",
+          "kind": "syntax",
+          "certainty": "proposal",
+          "text": "early、later 同时牵动时刻与人生阶段；bed、life 又把卧床与世间相接。“早早／晚晚”保对称，仍较容易读成先后事件。minstrelsy 先译歌谣；本段未说特定赞美诗，不擅补曲名。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-pftjschute",
+          "lemma": "pftjschute",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "社区词目以坠落拟声和法语 chute 等解释此词。“噗叱坠”为本项目暂造声词，补喷气、摩擦与下坠，不冒充原词音译；其余食物、审判等联想尚未核实，不强装进中文。",
+          "source_ids": [
+            "fw-pftjschute",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-ersesolid",
+          "lemma": "erse solid man",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目并读爱尔兰／盖尔语名 Erse、臀部声影、泥土与坚实。“爱尔兰硬实汉”先取地域与质感，臀部、污泥及歌名等读路留待复核。不可将 erase、earth 等近形近音一概当作确定词源。",
+          "source_ids": [
+            "fw-ersesolid",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-humptytumpty",
+          "lemma": "humptyhillhead of humself / tumptytumtoes",
+          "kind": "sound",
+          "certainty": "uncertain",
+          "text": "社区将 humpty 联到 Humpty Dumpty，并把头、脚读成霍斯与凤凰公园地景。“驼墩山头／笃墩脚趾”补共同节拍，人物与土地仍叠在句内；童谣圆滚形象和英语人名损失较大。具体地图对应尚未核实。",
+          "source_ids": [
+            "fw-humptyhill",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-unquiring",
+          "lemma": "prumptly sends an unquiring one",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "prumptly 在 promptly 中塞入 rump 声影；unquiring 又让探询词撞上否定前缀。本项目暂作“急急／不问客”，保行动与不问相扯，未保臀部回声；不将不问客改成明确侦探或特定人物。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-unquiring"
+          ]
+        },
+        {
+          "id": "i1-westquest",
+          "lemma": "well to the west in quest",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "well、west、quest 连续回响，方向也随头脚展开。中文用“远远向西，去寻”补短促推进，未复现辅音；不能凭这一句判断全章旅程，更不把“西”擅解成死亡终点。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-upturnpike",
+          "lemma": "upturnpikepointandplace",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区词目从收费路栅、矛尖与五段词形拆读此缀词。“翘起路栅尖尖处”留下上翘、道路、尖端和地点，牺牲连成一词的紧缩感；路栅史与五趾对应未另核，不据此替正文画定路线。",
+          "source_ids": [
+            "fw-upturnpike",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-knockpark",
+          "lemma": "the knock out in the park",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区并列 knock 的山丘声义、击倒和凤凰公园附近地名。“击倒丘”是本项目补偿，不是登记地名；公园究指何处、哪两处丘陵，仍待地图与地名资料核对。",
+          "source_ids": [
+            "fw-knockpark",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-orangerust",
+          "lemma": "oranges … rust upon the green",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区以橙色、绿色联读爱尔兰政治阵营，并以荷兰语“休息”释 rust。“锈眠”兼补生锈与安息，橙子仍留物象；这些象征不等于原句指认一场具体战役，相关语词仍待词典和史料复核。",
+          "source_ids": [
+            "fw-oranges",
+            "fw-rustgreen",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-devlinslivvy",
+          "lemma": "since devlinsfirst loved livvy",
+          "kind": "wordplay",
+          "certainty": "uncertain",
+          "text": "社区把 devlinsfirst、livvy 联到 Dublin、魔鬼、利菲河与丽薇人形。正文暂音译“德夫林／丽薇”，让爱恋仍可发生在人名之间；城市与河流回声未尽保留。底本连写 devlinsfirst，照录，不借新版意见拆字或补叙事关系。",
+          "source_ids": [
+            "fw-devlinslivvy",
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": [
+        {
+          "text": "那曾经挺直如墙的老帕尔一坠，早在床上讲，晚在人生里传，基督徒歌谣一路重讲。",
+          "reason": "保留字面父名较稳，却淡去 père 声影及 retaled 的贩卖意味；只存作局部备选，雷鸣词仍须另行保留。",
+          "attribution": "本项目备选译法"
+        }
+      ]
+    },
+    {
+      "id": "fw-i1-004-01",
+      "locator": "004.01–004.17",
+      "range": [
+        4,
+        1,
+        4,
+        17
+      ],
+      "source_id": "joyce-fp",
+      "original": "What clashes here of wills gen wonts, oystrygods gaggin fishygods! Brékkek Kékkek Kékkek Kékkek! Kóax Kóax Kóax! Ualu Ualu Ualu! Quaouauh! Where the Baddelaries partisans are still out to mathmaster Malachus Micgranes and the Verdons catapelting the camibalistics out of the Whoyteboyce of Hoodie Head. Assiegates and boomeringstroms. Sod's brood, be me fear! Sanglorians, save! Arms apeal with larms, appalling. Killykillkilly: a toll, a toll. What chance cuddleys, what cashels aired and ventilated! What bidimetoloves sinduced by what tegotetabsolvers! What true feeling for their's hayair with what strawng voice of false jiccup! O here here how hoth sprowled met the duskt the father of fornicationists but, (O my shining stars and body!) how hath fanespanned most high heaven the skysign of soft advertisement! But was iz? Iseut? Ere were sewers? The oaks of ald now they lie in peat yet elms leap where askes lay. Phall if you but will, rise you must: and none so soon either shall the pharce for the nunce come to a setdown secular phoenish.",
+      "draft": "何等意愿逆抗常行，牡蛎神扼制游鱼神！布雷凯克、凯凯克、凯凯克、凯凯克！科阿克斯、科阿克斯、科阿克斯！呜阿鲁、呜阿鲁、呜阿鲁！夸喔哇！此间弯刀党仍要算伏玛拉基·小偏头，凡尔登氏投石猛轰，誓把兜帽角白衣童的吃人弹道打将出来。短标枪与回旋镖风暴。泥坯孽种，吓煞我也！荣光圣血，快救！兵刃警钟齐鸣，骇人心魄。杀林连环杀：丧钟响，买路钱。何等机缘搂抱，何等岩堡通堂穿风！何等“命我相爱”，蒙何等“我赦免你”的赦罪者罪诱！何等真情抚摸草毛长子，伴随何等假雅各打嗝的苍莽嗓音！且听且看霍斯如何扑跌尘暮，沦为奸淫者之父，然而，（哎呀我那朗星与肉身！）软性广告的天标又如何像神殿风翼横跨极高天际！但那是谁？伊索尔德？下水道修通之前？古栎如今伏于泥炭，榆木却从伏灰之处跃出。任你阳落，势必再起：而此刻这出闹剧，绝无可能过早沉落为百世涅槃的终场。",
+      "translation": "何等意愿逆抗常行，牡蛎神扼制游鱼神！布雷凯克、凯凯克、凯凯克、凯凯克！科阿克斯、科阿克斯、科阿克斯！呜阿鲁、呜阿鲁、呜阿鲁！夸喔哇！此间弯刀党仍要算伏玛拉基·小偏头，凡尔登氏投石猛轰，誓把兜帽角白衣童的吃人弹道打将出来。短标枪与回旋镖风暴。泥坯孽种，吓煞我也！荣光圣血，快救！兵刃警钟齐鸣，骇人心魄。杀林连环杀：丧钟响，买路钱。何等机缘搂抱，何等岩堡通堂穿风！何等“命我相爱”，蒙何等“我赦免你”的赦罪者罪诱！何等真情抚摸草毛长子，伴随何等假雅各打嗝的苍莽嗓音！且听且看霍斯如何扑跌尘暮，沦为奸淫者之父，然而，（哎呀我那朗星与肉身！）软性广告的天标又如何像神殿风翼横跨极高天际！但那是谁？伊索尔德？下水道修通之前？古栎如今伏于泥炭，榆木却从伏灰之处跃出。任你阳落，势必再起：而此刻这出闹剧，绝无可能过早沉落为百世涅槃的终场。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-wills",
+          "lemma": "wills gen wonts",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "wills 与 wonts 连缀，兼指意愿与习性；gen 承德语 gegen 与古英语 gegn（对抗）。正文译为“意愿逆抗常行”，保留动作对立。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-oystrygods"
+          ]
+        },
+        {
+          "id": "i1-oystrygods",
+          "lemma": "oystrygods gaggin fishygods",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Ostrogoths（东哥特人）与 Visigoths（西哥特人）化为牡蛎与游鱼之神；gaggin 兼指窒息、作呕与封口。正文译作“牡蛎神扼制游鱼神”，保留历史争战与水产意象。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-oystrygods"
+          ]
+        },
+        {
+          "id": "i1-brekkek",
+          "lemma": "Brékkek Kékkek ... Kóax Kóax ...",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "重音与音节对照阿里斯托芬《蛙》中狄奥尼索斯渡冥河时的蛙群合唱（Brekekekex koax koax）。随后的 Ualu 带有哀鸣（ululation）之声，Quaouauh 拟巨响雷鸣。正文拟音保留各音节差异。",
+          "source_ids": [
+            "aristophanes-frogs-johnston",
+            "lsj-koax"
+          ]
+        },
+        {
+          "id": "i1-baddelaries",
+          "lemma": "Baddelaries partisans ... Malachus Micgranes",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Baddelaries 兼指中世纪短弯刀（badelaire）、火炮与交战党徒；Malachus 令人联想到爱尔兰高王玛拉基二世（Malachi II）与旧约玛拉基书；Micgranes 兼含偏头痛（meegrims）与微粒。mathmaster 指算伏或制胜。",
+          "source_ids": [
+            "fw-baddelaries",
+            "fw-malachus"
+          ]
+        },
+        {
+          "id": "i1-verdons",
+          "lemma": "Verdons catapelting ... Whoyteboyce of Hoodie Head",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Verdons 指盎格鲁-诺曼定居家族 Verdon，兼含凡尔登（Verdun）；catapelting 拟投石机抛射；camibalistics 融食人肉（cannibalistic）与弹道（ballistics）；Whoyteboyce 指十八世纪爱尔兰抗租农民秘密结社“白衣社”（Whiteboys）；Hoodie Head 隐指霍斯角（Howth Head）及戴兜帽者。",
+          "source_ids": [
+            "fw-verdons",
+            "fw-whoyteboyce"
+          ]
+        },
+        {
+          "id": "i1-assiegates",
+          "lemma": "Assiegates and boomeringstroms",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Assiegates 拼合祖鲁投掷短矛（assegai）与大门（gates）；boomeringstroms 拼合澳洲土著回旋镖（boomerang）与旋涡湍流（maelstrom / 德语 Strom）。正文取“短标枪与回旋镖风暴”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-sodbrood",
+          "lemma": "Sod's brood, be me fear! Sanglorians, save!",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Sod's brood 谐上帝之血（God's blood）并兼泥土孽种（sod）；be me fear 谐惊煞我也（by my fear）；Sanglorians 兼圣血（Sang royal）、荣耀者与都柏林主保圣人圣劳伦斯（St. Lawrence O'Toole）。正文译为“泥坯孽种，吓煞我也！荣光圣血，快救！”",
+          "source_ids": [
+            "fw-sodbrood",
+            "fw-bemefear",
+            "fw-sanglorians"
+          ]
+        },
+        {
+          "id": "i1-armsapeal",
+          "lemma": "Arms apeal with larms, appalling",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "Arms 兼军械与双臂；apeal 兼呼吁（appeal）与鸣钟（peal）；larms 简缩警报（alarms）；appalling 呼应骇人声浪。正文以“兵刃警钟齐鸣，骇人心魄”补偿四重押韵与头韵。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-killykill",
+          "lemma": "Killykillkilly: a toll, a toll",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "kill 反复重叠，兼指爱尔兰诸多地名所冠教会或树林前缀 Cill / Killy；toll 兼指敲丧钟、代价与买路关税。正文译作“杀林连环杀：丧钟响，买路钱”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-cashels",
+          "lemma": "What chance cuddleys, what cashels aired and ventilated!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "chance cuddleys 连读大法官（chancellor）与拥抱（cuddles），亦隐喻早期爱尔兰修道士（Culdees）；cashels 指爱尔兰芒斯特古王都卡舍尔（Cashel）磐石要塞与城堡（castles）；aired and ventilated 兼有曝光破拆与穿风透气之意。",
+          "source_ids": [
+            "fw-chancecuddleys",
+            "fw-cashels"
+          ]
+        },
+        {
+          "id": "i1-bidimetoloves",
+          "lemma": "What bidimetoloves sinduced by what tegotetabsolvers!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "bidimetoloves 取自 Robert Herrick 抒情诗《致安西娅》首句“Bid me to live, and I will live... Bid me to love, and I will give / A loving heart to thee”；sinduced 融罪孽（sin）与诱惑（seduced）；tegotetabsolvers 嵌合天主教拉丁文赦罪经文公式“Ego te absolvo”（我赦免你）与赦罪神甫（absolvers）。",
+          "source_ids": [
+            "herrick-anthea",
+            "catechism-1449",
+            "fw-bidimetoloves",
+            "fw-tegotetabsolvers"
+          ]
+        },
+        {
+          "id": "i1-hayair",
+          "lemma": "What true feeling for their's hayair with what strawng voice of false jiccup!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "承接创世记27章以撒摸索雅各手腕毛皮之典：feeling 指抚触感受；hayair 三叠毛发（hair）、继承人（heir）与干草（hay）；strawng 兼粗重（strong）与稻草（straw）；false jiccup 兼指假雅各（Jacob）之声与打嗝（hiccup）。",
+          "source_ids": [
+            "bible-gen27",
+            "fw-hayair",
+            "fw-jiccup"
+          ]
+        },
+        {
+          "id": "i1-fatherfornicationists",
+          "lemma": "how hoth sprowled met the duskt the father of fornicationists",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "here here how hoth 藏 HCE 首字母；sprowled 兼摊倒（sprawled）与散落；met the duskt 指坠入黄昏与尘土（dust/dusk）；father of fornicationists 指万恶奸淫之父，对应人类始祖亚当与巨人之坠落。",
+          "source_ids": [
+            "fw-howth",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-fanespanned",
+          "lemma": "fanespanned most high heaven the skysign of soft advertisement",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "fanespanned 融合神殿（fane）、风标（vane）、展屏（fan）与凌跨（spanned）；skysign 兼指天象彩虹（创世记神与挪亚立约之记号）与高空广告天标；soft advertisement 兼指商业软广告与天恩柔和显现。地上巨人仆倒与天上虹霓升起构成强烈的上下对照。",
+          "source_ids": [
+            "fw-fanespanned",
+            "fw-softad"
+          ]
+        },
+        {
+          "id": "i1-iseut",
+          "lemma": "But was iz? Iseut? Ere were sewers?",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "短促三问：was iz（究竟何物 / 可是此人）；Iseut（爱尔兰传奇女主角伊索尔德 Iseult）；Ere were sewers（下水道修建之前 / 抑或修女 sisters 出现之前）。将英雄传奇骤然拉入近代城市排污系统。",
+          "source_ids": [
+            "fw-tristram",
+            "fw-sewers"
+          ]
+        },
+        {
+          "id": "i1-oaksald",
+          "lemma": "The oaks of ald now they lie in peat yet elms leap where askes lay",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "oaks of ald 指古老栎树（oaks of old）与市政长老（alderman），沉埋于爱尔兰泥炭沼（peat）；elms leap 与 askes lay 形成镜像回文与音响对跃；askes 兼指灰烬（ashes）与梣木（ash trees），亦令人联想北欧神话最初由梣木与榆木化生之男女（Ask and Embla）。",
+          "source_ids": [
+            "fw-trees"
+          ]
+        },
+        {
+          "id": "i1-phoenish",
+          "lemma": "Phall if you but will, rise you must: ... secular phoenish",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "Phall 叠合坠落（Fall）与生殖器阳具（Phallus）；rise you must 指历史必然之复起；pharce for the nunce 指现时滑稽闹剧（farce for the nonce / 修女 nuns）；setdown secular phoenish 指平息落定、百年世俗（secular），并以 phoenish 融汇终局（finish）、不死鸟凤凰涅槃（phoenix）与腓尼基航海人（Phoenician）。全句定下全书“落而必起”之核心回环。",
+          "source_ids": [
+            "fw-phoenish",
+            "jjda-i1"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-004-18",
+      "locator": "004.18–005.04",
+      "range": [
+        4,
+        18,
+        5,
+        4
+      ],
+      "source_id": "joyce-fp",
+      "original": "Bygmester Finnegan, of the Stuttering Hand, freemen's maurer, lived in the broadest way immarginable in his rushlit toofarback for messuages before joshuan judges had given us numbers or Helviticus committed deuteronomy (one yeastyday he sternely struxk his tete in a tub for to watsch the future of his fates but ere he swiftly stook it out again, by the might of moses, the very water was eviparated and all the guenneses had met their exodus so that ought to show you what a pentschanjeuchy chap he was!) and during mighty odd years this man of hod, cement and edifices in Toper's Thorp piled buildung supra buildung pon the banks for the livers by the Soangso. He addle liddle phifie Annie ugged the little craythur. Wither hayre in honds tuck up your part inher. Oftwhile balbulous, mithre ahead, with goodly trowel in grasp and ivoroiled overalls which he habitacularly fondseed, like Haroun Childeric Eggeberth he would caligulate by multiplicables the alltitude and malltitude until he seesaw by neatlight of the liquor wheretwin 'twas born, his roundhead staple of other days to rise in undress maisonry upstanded (joygrantit!), a waalworth of a skyerscape of most eyeful hoyth entowerly, erigenating from next to nothing and celescalating the himals and all, hierarchitectitiptitoploftical, with a burning bush abob off its baubletop and with larrons o'toolers clittering up and tombles a'buckets clottering down.",
+      "draft": "建筑大师芬尼根，抖颤结巴之手，自由石匠宗师，在散草微明的远古老巢活得漫无涯际、不可度量，远在房产田契面世之前，早于约书亚士师颁降民数，亦早于瑞士利未记犯下申命重罪（某番醉意蒸腾之日，他严严实实把脑袋栽入大盆，意欲勘测未来命运，怎奈尚未抽身拔出，凭摩西神威，盆水竟已蒸发殆尽，健力士黑啤全数出逃出埃及，足见他是何等摩西五经兼木偶闹剧的狠角！）；在漫长古怪岁序里，这位灰浆桶、水泥与大厦之雄，在醉客村沿某某河岸，为临河居客层层叠叠堆造楼宇大厦。他有娇小娇妻安妮，他也狠抱这瓶玉液生灵。手执秀发，且挽你的舞伴双双入内。时而结巴踉跄，头戴方帽，手握称心泥刀，身着惯常钟爱的油布工装，宛若哈伦·希尔德里克·埃格伯特，以乘法度量崇高极顶与稠密众生，直至借着诞生之际的纯酒清光，恍见昔日圆头主桩以素面石工拔地峙立（天赐大悦！），化作一座通体赫然耸立、极尽耀眼的摩天崇楼，起于虚无，梯接天穹，凌跨群山，巍峨极顶巨匠耸拔无双，塔顶华珠之上浮摇着不烬荆棘，伴随奥图尔圣盗铿锵爬升，翻滚木桶稀里哗啦轰然坠落。",
+      "translation": "建筑大师芬尼根，抖颤结巴之手，自由石匠宗师，在散草微明的远古老巢活得漫无涯际、不可度量，远在房产田契面世之前，早于约书亚士师颁降民数，亦早于瑞士利未记犯下申命重罪（某番醉意蒸腾之日，他严严实实把脑袋栽入大盆，意欲勘测未来命运，怎奈尚未抽身拔出，凭摩西神威，盆水竟已蒸发殆尽，健力士黑啤全数出逃出埃及，足见他是何等摩西五经兼木偶闹剧的狠角！）；在漫长古怪岁序里，这位灰浆桶、水泥与大厦之雄，在醉客村沿某某河岸，为临河居客层层叠叠堆造楼宇大厦。他有娇小娇妻安妮，他也狠抱这瓶玉液生灵。手执秀发，且挽你的舞伴双双入内。时而结巴踉跄，头戴方帽，手握称心泥刀，身着惯常钟爱的油布工装，宛若哈伦·希尔德里克·埃格伯特，以乘法度量崇高极顶与稠密众生，直至借着诞生之际的纯酒清光，恍见昔日圆头主桩以素面石工拔地峙立（天赐大悦！），化作一座通体赫然耸立、极尽耀眼的摩天崇楼，起于虚无，梯接天穹，凌跨群山，巍峨极顶巨匠耸拔无双，塔顶华珠之上浮摇着不烬荆棘，伴随奥图尔圣盗铿锵爬升，翻滚木桶稀里哗啦轰然坠落。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-bygmester",
+          "lemma": "Bygmester Finnegan / freemen's maurer",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Bygmester 取挪威语《建筑大师》（易卜生作 Bygmester Solness），将建筑师登高坠落母题融入主角；Finnegan 承接爱尔兰民谣《芬尼根守灵夜》中醉酒跌落脚手架复生的泥水匠蒂姆·芬尼根；freemen's maurer 承德语 Freimaurer（共济会自由石匠）。正文译作“建筑大师芬尼根，自由石匠宗师”。",
+          "source_ids": [
+            "ibsen-solness",
+            "ballad-finnegan",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-stutteringhand",
+          "lemma": "Stuttering Hand",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "结巴（stuttering）本属言语阻滞，乔伊斯将其转嫁于施工、写作之“手”，亦暗指造物本身的迟疑缺陷与共济会特定手势。正文译作“抖颤结巴之手”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-immarginable",
+          "lemma": "broadest way immarginable in his rushlit toofarback for messuages",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "immarginable 融不可想象（unimaginable）与无法外边缘（unmarginable）；rushlit 指以散草灯芯照亮之古风；messuages 指法律上的宅第田产。指芬尼根存在于法权田宅设立之前的洪荒古纪。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-otbiblical",
+          "lemma": "joshuan judges had given us numbers or Helviticus committed deuteronomy",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "按次序连缀旧约五卷：约书亚记（Joshua）、士师记（Judges）、民数记（Numbers）、利未记（Leviticus，嵌瑞士 Helvetia）、申命记（Deuteronomy）；“犯下申命重罪”将书名拟为罪行。正文保留书卷次序与动作。",
+          "source_ids": [
+            "bible-ot",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-yeastyday",
+          "lemma": "one yeastyday ... struxk his tete in a tub for to watsch the future of his fates",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "yeastyday 融昨日（yesterday）与酿酒酵母（yeasty）；tete 取法文头颅（tête）；watsch 兼看（watch）、洗（wash）与德语耳光（Watsche）。指芬尼根醉中将头埋入水盆勘验命运。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-eviparated",
+          "lemma": "water was eviparated and all the guenneses had met their exodus",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "eviparated 融蒸发（evaporated）与毒蛇（viper）；guenneses 融都柏林著名健力士黑啤（Guinness）与创世记（Genesis）；exodus 对应出埃及记。整句以盆水蒸干、啤酒喝尽戏仿摩西过红海与出埃及。",
+          "source_ids": [
+            "bible-ot",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-pentschanjeuchy",
+          "lemma": "what a pentschanjeuchy chap he was!",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "双关高密度连缀：融摩西五经（Pentateuch）与英格兰经典木偶剧“庞奇与朱迪”（Punch and Judy）。兼具神圣律法始祖与市井滑稽闹剧双重品性。",
+          "source_ids": [
+            "bible-ot",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-buildung",
+          "lemma": "piled buildung supra buildung pon the banks for the livers by the Soangso",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "buildung 叠合英语建筑（building）与德语教养文化（Bildung）；supra 为拉丁文在其之上；livers 兼临河居客与江河（rivers）；Soangso 兼某某某（so-and-so）与中国黄河及法国索恩河（Saône）。正文译作“沿某某河岸，为临河居客层层叠叠堆造楼宇大厦”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-craythur",
+          "lemma": "He addle liddle phifie Annie ugged the little craythur",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "语法双折句：直读为芬尼根拥抱小娇妻安妮（ALP 首度以妻子面貌隐现）；折读则取爱尔兰俚语 craythur（creature / 威士忌烈酒），直指民谣中芬尼根嗜酒成性、“与酒同生”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-tuckup",
+          "lemma": "Wither hayre in honds tuck up your part inher",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "谐仿爱尔兰民谣《芬尼根守灵夜》舞曲过门呼叫“Whack fol the dah now, dance to your partner”（挽起舞伴跳起来），兼融“执发在手”（With her hair in hands）与夫妇谐谑（tuck up your part in her）。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-haroun",
+          "lemma": "like Haroun Childeric Eggeberth he would caligulate by multiplicables the alltitude and malltitude",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Haroun Childeric Eggeberth 三名字首字母嵌合 HCE：阿拉伯阿拔斯王朝哈伦·拉希德（Haroun al-Raschid）、法兰克墨洛温王朝希尔德里克（Childeric）、威塞克斯国王埃格伯特（Egbert）；caligulate 融计算（calculate）与罗马暴君卡里古拉（Caligula）；alltitude and malltitude 叠合全部高度（altitude）与群众广度（magnitude）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-waalworth",
+          "lemma": "a waalworth of a skyerscape of most eyeful hoyth entowerly",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "waalworth 兼指纽约早期著名摩天大楼伍尔沃斯大厦（Woolworth Building）与墙垣价值（wall worth）；skyerscape 为摩天楼（skyscraper）；eyeful hoyth 兼极为养眼之高耸（eyeful height）与霍斯角（Howth）；entowerly 为全然筑成塔（entirely / en-tower）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page4"
+          ]
+        },
+        {
+          "id": "i1-erigenating",
+          "lemma": "erigenating from next to nothing and celescalating the himals and all",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "erigenating 融起源（originating）与中世纪爱尔兰哲人约翰·司各特·爱留根纳（Johannes Scotus Eriugena），指涉其《自然区分论》关于万有源于神圣虚无之学说；celescalating 融天宇（celestial）与升级攀爬（escalating）；himals 兼喜马拉雅山脉（Himalayas）。",
+          "source_ids": [
+            "erigena",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-hierarchitect",
+          "lemma": "hierarchitectitiptitoploftical, with a burning bush abob off its baubletop",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "巨型组合词：hierarch（教长神圣阶层）+ architect（建筑师）+ tip-top（极顶、微醉摇晃）+ toploftical（高傲自负），模拟高塔耸入云霄之巍峨与醉汉高空摇晃之险态；burning bush 指旧约西奈山不烬荆棘，被置于塔尖顶珠（baubletop）之上。",
+          "source_ids": [
+            "bible-ot",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-larronstoolers",
+          "lemma": "larrons o'toolers clittering up and tombles a'buckets clottering down",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "双向对位：larrons o'toolers 融盗贼（法文 larron）、都柏林石匠与都柏林主保圣人圣劳伦斯·奥图尔（St. Laurence O'Toole），发出 clittering 之声向上爬；tombles a'buckets 融翻滚跌落（tumble）、水桶（buckets）与坎特伯雷大主教托马斯·贝克特（Thomas à Becket），发出 clottering 之声向下砸。再现巴别塔建造与混乱跌落之场景。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page5",
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-005-05",
+      "locator": "005.05–005.08",
+      "range": [
+        5,
+        5,
+        5,
+        8
+      ],
+      "source_id": "joyce-fp",
+      "original": "Of the first was he to bare arms and a name: Wassaily Booslaeugh of Riesengeborg. His crest of huroldry, in vert with ancillars, troublant, argent, a hegoak, poursuivant, horrid, horned. His scutschum fessed, with archers strung, helio, of the second.",
+      "draft": "他乃首开先河、赤膊佩徽并受赐名号之人：巨山山民瓦西里·烈饮大侠。其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀。其盾徽中贯横带，引弓待发，映出金阳第二色相。",
+      "translation": "他乃首开先河、赤膊佩徽并受赐名号之人：巨山山民瓦西里·烈饮大侠。其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀。其盾徽中贯横带，引弓待发，映出金阳第二色相。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-barearms",
+          "lemma": "bare arms and a name",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿莎士比亚《哈姆雷特》第五幕第一场掘墓人之语：掘墓人称唯有园丁、开沟人与造墓者继承亚当行业，亚当乃首位“佩带纹章”（bore arms）之贵人（双关赤膊掘土）。乔伊斯将 bore 改为 bare（赤膊裸臂），赋予开天辟地第一人以平民劳作与贵族纹章双重讽刺。正文译作“首开先河、赤膊佩徽并受赐名号之人”。",
+          "source_ids": [
+            "shakespeare-hamlet",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-wassaily",
+          "lemma": "Wassaily Booslaeugh of Riesengeborg",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "原型为俄罗斯诺夫哥罗德史诗歌谣（byliny）中叛逆豪饮的平民勇士瓦西里·布斯拉耶夫（Vasily Buslayev）；乔伊斯将其拼写变形为 Wassaily（融祝酒 wassail 与封臣 vassal）和 Booslaeugh（融狂饮 booze 与爱尔兰语勇士 laoch）；Riesengeborg 取德语巨山山脉（Riesengebirge，波兰捷克边境传说中巨人栖息地）与巨人生育（Riese + geboren）。正文译作“巨山山民瓦西里·烈饮大侠”。",
+          "source_ids": [
+            "bylina-buslaev",
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i1-crestvert",
+          "lemma": "crest of huroldry, in vert with ancillars, troublant, argent, a hegoak, poursuivant, horrid, horned",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "严格依照欧洲中世纪纹章学格式戏仿：crest of huroldry 为战盔纹徽（heraldry 嵌妓女 whore 与欢呼 hurrah）；vert 为纹章术语绿色（爱尔兰绿）；ancillars 为侍从从属纹章；troublant argent 为泛出令人不安之银白色；hegoak 融公山羊（he-goat）与橡树（oak）；poursuivant 为纹章从官及作追袭状；horrid horned 为狰狞生角。正文译为“其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-scutschum",
+          "lemma": "scutschum fessed, with archers strung, helio, of the second",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "scutschum 融纹章盾徽（escutcheon）、拉丁盾牌（scutum）与阴囊（scrotum）；fessed 为纹章正中横贯横带条（fess，兼戏谑臀部 fesses）；archers strung 为张弓搭箭之弓箭手；helio of the second 承接纹章次色（of the second，指盾徽上提及的第二种颜色），嵌希腊日神日光（helios）与氦气（helium）。正文译作“其盾徽中贯横带，引弓待发，映出金阳第二色相”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-005-09",
+      "locator": "005.09–005.12",
+      "range": [
+        5,
+        9,
+        5,
+        12
+      ],
+      "source_id": "joyce-fp",
+      "original": "Hootch is for husbandman handling his hoe. Hohohoho, Mister Finn, you're going to be Mister Finnagain! Comeday morm and, O, you're vine! Sendday's eve and, ah you're vinegar! Hahahaha, Mister Funn, you're going to be fined again!",
+      "draft": "私酿烈酒归把锄农夫。嗬嗬嗬嗬，芬先生，你终归还要再当一次芬先生！来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！哈哈哈哈，乐子先生，你又要遭判重罚了！",
+      "translation": "私酿烈酒归把锄农夫。嗬嗬嗬嗬，芬先生，你终归还要再当一次芬先生！来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！哈哈哈哈，乐子先生，你又要遭判重罚了！",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-hootch",
+          "lemma": "Hootch is for husbandman handling his hoe",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "戏仿英格兰初级识字童谣（如“A is for Apple”），以字母 H 之发音（爱尔兰英语读 Haitch）连缀四次：Hootch（私酿烈酒）、husbandman（农夫/丈夫）、handling（操持）、hoe（锄头）。兼有土地耕作与生殖力勃发之双重隐喻。正文译作“私酿烈酒归把锄农夫”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-finnagain",
+          "lemma": "Mister Finn, you're going to be Mister Finnagain!",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "全书核心标题之谜在此彻底点破：爱尔兰神话英雄芬·麦库尔（Finn MacCool）与民谣泥水匠芬尼根（Finnegan），实为“再次成为芬”（Finn again / Finn-again）。预示坠落即起、死亡即复活之永恒历史循环。正文译作“芬先生，你终归还要再当一次芬先生！”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "jjda-i1"
+          ]
+        },
+        {
+          "id": "i1-vinevinegar",
+          "lemma": "Comeday morm and, O, you're vine! Sendday's eve and, ah you're vinegar!",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Comeday morm 为来日（Someday/Sunday morn）星期日清晨圣餐之生机，vine 兼葡萄藤、美酒（wine）与安好（fine）；Sendday's eve 为传票之日（send-day / Sunday eve）前夕，vinegar 为酸醋（暗示美酒变质、基督受难时尝之苦醋及宿醉酸涩）。展现狂欢与衰败交替之生理与神圣对立。正文译为“来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-finedagain",
+          "lemma": "Mister Funn, you're going to be fined again!",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Mister Funn 谐玩笑（fun）与芬（Finn）；fined again 兼指再次遭法庭罚款（fined）与再次复活（Finn again / fine again）。狂欢作乐终须面对治安法庭之惩处，将醉酒神话拉回都柏林世俗现实。正文译作“乐子先生，你又要遭判重罚了！”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-005-13",
+      "locator": "005.13–005.26",
+      "range": [
+        5,
+        13,
+        5,
+        26
+      ],
+      "source_id": "joyce-fp",
+      "original": "What then agentlike brought about that tragoady thundersday this municipal sin business? Our cubehouse still rocks as earwitness to the thunder of his arafatas but we hear also through successive ages that shebby choruysh of unkalified muzzlenimiissilehims that would blackguardise the whitestone ever hurtleturtled out of heaven. Stay us wherefore in our search for tighteousness, O Sustainer, what time we rise and when we take up to toothmick and before we lump down upown our leatherbed and in the night and at the fading of the stars! For a nod to the nabir is better than wink to the wabsanti. Otherways wesways like that provost scoffing bedoueen the jebel and the jpysian sea. Cropherb the crunchbracken shall decide. Then we'll know if the feast is a flyday. She has a gift of seek on site and she allcasually ansars helpers, the dreamydeary. Heed! Heed!",
+      "draft": "究竟是何方暗手，在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆？吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷；千秋百代以来，我们也听见那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石。万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民。且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期。她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！",
+      "translation": "究竟是何方暗手，在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆？吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷；千秋百代以来，我们也听见那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石。万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民。且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期。她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-agentlike",
+          "lemma": "agentlike",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "agentlike 兼暗中唆使之代理人（agent provocateur）、警探内线与历史动因；呼应都柏林凤凰公园双重暗杀公案中受暗手挑唆之阴影。正文译作“何方暗手”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-tragoady",
+          "lemma": "tragoady thundersday this municipal sin business",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "tragoady 拆解希腊语悲剧词源 tragōidia（tragos 山羊 + ōidē 歌咏，即山羊祭献惨剧）并融 toad（癞蛤蟆）；thundersday 融北欧雷神索尔之日（Thursday / Thor's day）与天谴神雷；municipal sin business 紧扣 HCE 在都柏林凤凰公园引发满城风雨的市政性丑闻与原罪公案。正文译作“在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-cubehouse",
+          "lemma": "cubehouse still rocks as earwitness to the thunder of his arafatas",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "cubehouse 直指麦加克尔白（天房，阿拉伯语 Ka'bah 原义即“立方体之屋”）；earwitness 为亲耳见证（对勘 eyewitness）；arafatas 互文伊斯兰朝觐核心圣地阿拉法特山（Mount Arafat），先知在此作告别演说，并兼雷霆巨响。正文译作“吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷”。",
+          "source_ids": [
+            "quran-arafat",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-whitestone",
+          "lemma": "shebby choruysh of unkalified muzzlenimiissilehims that would blackguardise the whitestone ever hurtleturtled out of heaven",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "shebby choruysh 即 shabby chorus（猥琐合唱）；unkalified 兼未受哈里发合法册封（uncaliphed）与不合格（unqualified）；muzzlenimiissilehims 复合穆斯林（Moslem）、枪口（muzzle）、飞弹投石（missile）与拉丁语过分（nimis）；whitestone 典出麦加玄石（Black Stone），圣训称其自天国降临（hurtleturtled out of heaven）时洁白如雪，因世人罪孽浸染变黑（blackguardise）。正文译作“那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石”。",
+          "source_ids": [
+            "quran-arafat",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-sustainer",
+          "lemma": "Stay us wherefore in our search for tighteousness, O Sustainer, what time we rise and when we take up to toothmick and before we lump down upown our leatherbed and in the night and at the fading of the stars!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿伊斯兰日夜祈祷律条。O Sustainer 呼求安拉尊名 Al-Qayyum（万有扶持之主）；tighteousness 融公义（righteousness）与紧束/微醺（tight）；toothmick 兼牙签与穆斯林圣行洁齿细木（miswak）；leatherbed 为沙漠皮榻。结句“in the night and at the fading of the stars”直接化用《古兰经》第52章《山岳章》第48–49节经文。正文译作“万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！”。",
+          "source_ids": [
+            "quran-arafat",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-nabir",
+          "lemma": "For a nod to the nabir is better than wink to the wabsanti. Otherways wesways like that provost scoffing bedoueen the jebel and the jpysian sea.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "前句戏仿英格兰谚语“A nod is as good as a wink to a blind horse”：nabir 融邻人（neighbour）与阿拉伯语先知（nabi）/法官（na'ib）；wabsanti 融沙特严苛清教派瓦哈比派（Wahhabi）、缺席者（absentee）与苦艾酒（absinthe）。后句 provost 为三一学院学长兼长官；bedoueen 为贝都因游民与在……之间（between）；jebel 为阿拉伯语山峰（jabal）；jpysian sea 为红海/埃及海（Egyptian sea）与乔伊斯之海（Joyce-ian sea）。正文译作“向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民”。",
+          "source_ids": [
+            "quran-arafat",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-cropherb",
+          "lemma": "Cropherb the crunchbracken shall decide. Then we'll know if the feast is a flyday.",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Cropherb the crunchbracken 拟造原初啃噬草木、踏碎蕨草之巨兽形象（约伯记巨兽贝希摩斯与大自然主宰者）；flyday 融星期五（Friday，伊斯兰主麻日 / 耶稣受难日 Good Friday）与苍蝇滋生腐败之日（fly-day）。正文译作“且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-ansars",
+          "lemma": "She has a gift of seek on site and she allcasually ansars helpers, the dreamydeary. Heed! Heed!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "seek on site 兼当下洞察与神视本领；ansars 兼回答（answers）与伊斯兰麦地那辅士（Ansars，协助穆罕默德初创大业之信众）；dreamydeary 对应女主角安娜·利维亚·普拉贝尔（ALP）之温柔母性护持形象；Heed! Heed! 既是宣礼唤拜，亦是警醒诫勉。正文译作“她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！”。",
+          "source_ids": [
+            "quran-arafat",
+            "fw-page5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-005-27",
+      "locator": "005.27–006.12",
+      "range": [
+        5,
+        27,
+        6,
+        12
+      ],
+      "source_id": "joyce-fp",
+      "original": "It may half been a missfired brick, as some say, or it mought have been due to a collupsus of his back promises, as others looked at it. (There extand by now one thousand and one stories, all told, of the same). But so sore did abe ite ivvy's holired abbles, (what with the wallhall's horrors of rollsrights, carhacks, stonengens, kisstvanes, tramtrees, fargobawlers, autokinotons, hippohobbilies, streetfleets, tournintaxes, megaphoggs, circuses and wardsmoats and basilikerks and aeropagods and the hoyse and the jollybrool and the peeler in the coat and the mecklenburk bitch bite at his ear and the merlinburrow burrocks and his fore old porecourts, the bore the more, and his blightblack workingstacks at twelvepins a dozen and the noobibusses sleighding along Safetyfirst Street and the derryjellybies snooping around Tell-No-Tailors' Corner and the fumes and the hopes and the strupithump of his ville's indigenous romekeepers, homesweepers, domecreepers, thurum and thurum in fancymud murumd and all the uproor from all the aufroofs, a roof for may and a reef for hugh butt under his bridge suits tony) wan warning Phill filt tippling full. His howd feeled heavy, his hoddit did shake. (There was a wall of course in erection) Dimb! He stottered from the latter. Damb! he was dud. Dumb! Mastabatoom, mastabadtomm, when a mon merries his lute is all long. For whole the world to see.",
+      "draft": "有人说，半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌。（关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事）。但亚当咬食夏娃的圣红苹果，啃得那般创痛巨深——（且不论那筑墙英灵殿涌现的重重魔障：劳斯莱斯、破马车、巨石机车、石棺风标、电车林立、镖局商贩、活动电影机、马车怪物、满街车队、转弯计程车、浓烟巨号、环岛城壕、大殿宝塔、吊机喧叫与放浪狂呼、裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人、一打十二枚焦黑工棚、新式大巴在安全第一大街飞滑、德里糖贩窥探赖账死角，更有全城土著守房人、扫街妇、爬顶贼掀腾的气雾、期冀与沉钝践踏，在泥浆砖墙间穿梭往返，更有所有屋顶倾泻的震天喧嚣：给玛丽屋顶，给休暗礁，唯他桥墩之下，足供浪客容身）——某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃。（身旁当然正砌建一堵高墙）。扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明。",
+      "translation": "有人说，半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌。（关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事）。但亚当咬食夏娃的圣红苹果，啃得那般创痛巨深——（且不论那筑墙英灵殿涌现的重重魔障：劳斯莱斯、破马车、巨石机车、石棺风标、电车林立、镖局商贩、活动电影机、马车怪物、满街车队、转弯计程车、浓烟巨号、环岛城壕、大殿宝塔、吊机喧叫与放浪狂呼、裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人、一打十二枚焦黑工棚、新式大巴在安全第一大街飞滑、德里糖贩窥探赖账死角，更有全城土著守房人、扫街妇、爬顶贼掀腾的气雾、期冀与沉钝践踏，在泥浆砖墙间穿梭往返，更有所有屋顶倾泻的震天喧嚣：给玛丽屋顶，给休暗礁，唯他桥墩之下，足供浪客容身）——某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃。（身旁当然正砌建一堵高墙）。扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-missfiredbrick",
+          "lemma": "missfired brick, as some say, or it mought have been due to a collupsus of his back promises",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "芬尼根从脚手架跌落原因之双重视角：外因归咎于建筑失手飞砖（missfired brick / half been）；内因归咎于背信毁诺（breach of promise / back promises）引发道德崩塌、生理器官脱垂（collupsus < collapse + prolapsus）及脊梁骨受挫。正文译作“半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-thousandandone",
+          "lemma": "There extand by now one thousand and one stories, all told, of the same",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "互文《一千零一夜》（The Arabian Nights），兼点全书总纲：世间流传千千万万神话轶闻变体，说到底全在讲述同一遭事（all told, of the same）——即人类之坠落与重生。正文译作“关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-abeite",
+          "lemma": "so sore did abe ite ivvy's holired abbles",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "创世记第3章原罪堕落之变体拼写：abe 为亚当（Adam / Abraham）、ite 为咬食（ate）、ivvy 为夏娃（Eve / 常春藤 ivy）、holired 为神圣纯红（holy red / hollowed）、abbles 为苹果（apples）；兼有生理咬齿之创痛（sore）。正文译作“亚当咬食夏娃的圣红苹果，啃得那般创痛巨深”。",
+          "source_ids": [
+            "bible-ot",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-wallhall",
+          "lemma": "wallhall's horrors of rollsrights, carhacks, stonengens, kisstvanes, tramtrees, fargobawlers, autokinotons, hippohobbilies, streetfleets, tournintaxes, megaphoggs, circuses and wardsmoats and basilikerks and aeropagods",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "长列都市怪物名录：wallhall 融北欧英灵殿（Valhalla）与筑墙之殿（Wall-hall）；rollsrights 融劳斯莱斯（Rolls-Royce）与翻滚之权；carhacks 融出租马车与劈砍；stonengens 融巨石阵（Stonehenge）与蒸汽引擎；kisstvanes 融史前石棺（kistvaens）与亲吻风标；fargobawlers 融富国银行镖局马车与大声叫卖商贩；autokinotons 融活动电影机（kinetoscope）与自动机；basilikerks 为巴西利卡大教堂与基督教会；aeropagods 为雅典战神山法庭（Areopagus）与宝塔（pagodas）。正文全面对应译出。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page5"
+          ]
+        },
+        {
+          "id": "i1-fourcourts",
+          "lemma": "peeler in the coat and the mecklenburk bitch bite at his ear and the merlinburrow burrocks and his fore old porecourts, the bore the more",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "都柏林现实地理与执法司法历史：peeler 为罗伯特·皮尔爵士设立之爱尔兰警察；mecklenburk bitch 指梅克伦堡街红灯区妓女（见《尤利西斯》“夜镇”）；merlinburrow 为马尔堡军营（Marlborough Barracks）；porecourts 指都柏林四法院（Four Courts）、四大编年史家（Four Masters）与爱尔兰语大路（bóthar mór），越老越显烦人（the bore the more）。正文译作“裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-phillfilt",
+          "lemma": "wan warning Phill filt tippling full. His howd feeled heavy, his hoddit did shake",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "直接化用爱尔兰民谣《芬尼根守灵夜》第一节：“One morning Tim was rather full, / His head felt heavy, which made him shake”；wan warning 兼某个清晨（One morning）与预警（One warning）；Phill 为爱尔兰芬尼根变体；howd 兼瓦泥灰斗（hod）与丹麦语头颅（hoved）；hoddit 兼挪威语头颅（hodet）。正文译作“某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-dimbdamb",
+          "lemma": "Dimb! He stottered from the latter. Damb! he was dud. Dumb!",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "坠落、殒命与死寂之三联爆破拟声词（Dimb! Damb! Dumb!）：stottered 兼苏格兰语踉跄（stotter）与口吃（stutter）；latter 兼梯子（ladder）与后者；dud 兼死尸（dud）与未爆弹；Dumb 为哑然无声。正文译作“扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-mastabatoom",
+          "lemma": "Mastabatoom, mastabadtomm, when a mon merries his lute is all long. For whole the world to see",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Mastabatoom 融古埃及平顶石墓（mastaba）、坟墓（tomb）与死亡低沉鼓声（boom / tom-tom）；mastabadtomm 融埃及死而复生神巴陶（Bataou）与手淫勃起；when a mon merries his lute is all long 为狂欢结婚时琴弦/男根长伸；For whole the world to see 照应民谣原词“任凭举世看个分明”。死亡之墓与生殖婚配在终局合一。正文译作“平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-006-13",
+      "locator": "006.13–006.31",
+      "range": [
+        6,
+        13,
+        6,
+        31
+      ],
+      "source_id": "joyce-fp",
+      "original": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin? Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation. There was plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shout-most shoviality. Agog and magog and the round of them agrog. To the continuation of that celebration until Hanandhunigan's extermination! Some in kinkin corass, more, kankan keening. Belling him up and filling him down. He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth. Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios. They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head. Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing.",
+      "draft": "尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎。场上备足李子干、凝血浆、带刀警长、拨琴乐手、突袭马贼，外加各路影人。众人如巨人裂口哄然相随，爆发出最震天的泼酒欢呼。歌革与玛各两相惊呆，团团围坐痛饮浊酒。守灵庆典通宵达旦，直至芬尼根合族尽绝方休！有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠。昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生。拍松他枕头石，敲开他停尸酒桶！寰宇漩涡之内，何处能再闻这等喧天震响？伴着深蹙双眉的掘墓葬仪，还有蒙尘的忠烈长歌。众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒。任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！",
+      "translation": "尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎。场上备足李子干、凝血浆、带刀警长、拨琴乐手、突袭马贼，外加各路影人。众人如巨人裂口哄然相随，爆发出最震天的泼酒欢呼。歌革与玛各两相惊呆，团团围坐痛饮浊酒。守灵庆典通宵达旦，直至芬尼根合族尽绝方休！有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠。昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生。拍松他枕头石，敲开他停尸酒桶！寰宇漩涡之内，何处能再闻这等喧天震响？伴着深蹙双眉的掘墓葬仪，还有蒙尘的忠烈长歌。众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒。任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-shize",
+          "lemma": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin?",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "直接化用爱尔兰传统民谣《莫莉·布兰尼根》（Molly Brannigan）与《芬尼根守灵夜》著名哭灵唱词：“Arrah, why did ye die?”；Macool 对应爱尔兰神话巨汉芬·麦库尔（Finn MacCool）；Shize 融尺寸（size）、叹息（sighs）、德语粪便（Scheisse）与报丧女妖（banshee / shee）；thirstay mournin 兼焦渴之晨（thirsty morning）与受审周四服丧（trying Thursday mourning）。正文译作“尺码？当真骇人！麦库尔，麦库尔，哎呀你因何撒手人寰，偏选在这般熬人的焦渴周四清晨？”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-fillagain",
+          "lemma": "Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "Fillagain 将芬尼根（Finnegan）点化为酒宴再斟一杯（fill again）；chrissormiss 融圣诞节（Christmas）与基督或错过（Chris or miss）；hoolivans 融爱尔兰姓氏奥苏利万（O'Sullivan）与街头阿飞（Hooligan）；duodisimally profusive 融十二进制（duodecimal / 十二门徒 / 十二陪审员）与极其凄惨（dismal）；ululation 为爱尔兰传统守灵号丧。正文译作“在再斟芬先生的圣诞守灵宴上，全国各路浪荡阿飞齐声吞声抽泣，惊骇中仆伏倒地，倾泻十二分充沛的号丧长嚎”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-plumbsgrumes",
+          "lemma": "plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shout-most shoviality. Agog and magog and the round of them agrog",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "守灵茶点与吊客杂烩：plumbs（李子/铅锤）、grumes（凝血块/酸葡萄）、cheriffs（樱桃/治安官 sheriffs）、citherers（齐特琴手/苹果酒商 ciderers）、raiders（劫掠者/骑士）、cinemen（肉桂/影人 cinema men）；all gianed in 融全部加入（all joined in）与巨人裂嘴（gianed / giant）；Agog and magog 融圣经末日审判双巨兽歌革与玛各（Gog and Magog，亦为伦敦巨人立像）与瞠目结舌（agog）；agrog 为大饮朗姆酒（grog）。正文全面生动对应译出。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-kinkincorass",
+          "lemma": "Some in kinkin corass, more, kankan keening. Belling him up and filling him down",
+          "kind": "sound",
+          "certainty": "supported",
+          "text": "守灵场面之声色骚动：kinkin corass 融亲族合唱（kith and kin chorus）与康康舞紧身胸甲（can-can cuirass）；kankan keening 为跳着康康舞狂暴嚎丧（keening）；Belling him up 为丧钟鸣响敬告与腹部朝上（belly up）；filling him down 为灌满酒浆。正文译作“有人宗族合唱，更多人跳康康舞嚎丧。钟声仰面敬告，酒浆直灌肚肠”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-priamolim",
+          "lemma": "He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Priam Olim 融特洛伊末代老王普里阿摩斯（Priam）、拉丁语从前（olim）与希腊生殖繁衍之神普里阿普斯（Priapus）；stiff but steady 双关尸体僵冷（stiff）与男根勃起坚挺；dacent gaylabouring youth 化用民谣《芬尼根守灵夜》首句“a decent day-labouring youth”（体面勤俭的白班工青年）。正文译作“昔日老王普里阿摩斯通体挺僵，却稳如泰山！当年正是这名体面勤苦的乐天后生”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-deepbrow",
+          "lemma": "Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "pillowscone 融枕头与司空石（Stone of Scone，历代苏格兰与英国君主加冕石）；tap up his bier 兼敲实灵柩板与敲开啤酒桶（beer tap）；in this whorl 融尘世（world）与涡旋（whorl）；sich a din again 谐芬尼根之名（Finn again）；deepbrow fundigs 兼深锁双眉之葬礼（fundus / digging）与寻欢作乐（fun-digs）；dusty fidelios 融蒙尘忠仆与贝多芬唯一歌剧《费黛里奥》（Fidelio，象征忠贞不渝）。正文全面对应译出。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-bockalips",
+          "lemma": "They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "民谣守灵夜停尸陈设之神圣升华：民谣原唱“脚前一加仑威士忌，头顶一桶波特酒”，在此演化为整部基督教圣经之首尾呼应：bockalips of finisky 融博克黑啤酒（bock）、新约终卷《启示录》（Apocalypse）与终结（finis）威士忌；barrowload of guenesis 融手推车/坟冢（barrow）、旧约首卷《创世记》（Genesis）与都柏林名酿健力士黑啤（Guinness）。脚前启示录，头顶创世记，死中孕生。正文译作“众人将他宽展平置于终末长榻。脚前供一瓶终极威士忌启示录，头顶安一车健力士创世啤酒”。",
+          "source_ids": [
+            "bible-ot",
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-teetootal",
+          "lemma": "Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿爱尔兰著名喜歌剧唱段《菲尔的笛手舞会》（Phil the Fluther's Ball）之副歌“To the toot of the flute and the twiddle of the fiddle, O!”；Tee the tootal 融滴酒不沾者（teetotal）与满溢流淌之酒浆（tootal of the fluid）；twoddle of the fuddled 为醉汉胡言乱语；young gleve 融少年新绿耕地（glebe）与决斗手套（glove）；owl globe 融老迈地球（old globe）与莎士比亚环球剧场；tautaulogically 嵌希腊字母 tau（T / 十字架回环）与重言循环哲学（tautology）。无论生死醉醒，历史终归循环重现。正文译作“任酒浆滔滔流淌，管醉汉胡话连篇，哎呀！欢呼吧，苍茫老球转动在望，少年大地生机盎然——回环复归，说到底全系同一遭事！”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page6"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-006-32",
+      "locator": "006.32–007.15",
+      "range": [
+        6,
+        32,
+        7,
+        15
+      ],
+      "source_id": "joyce-fp",
+      "original": "Well, Him a being so on the flounder of his bulk like an overgrown babeling, let wee peep, see, at Hom, well, see peegee ought he ought, platterplate. Hum! From Shopalist to Bailywick or from ashtun to baronoath or from Buythebanks to Roundthehead or from the foot of the bill to ireglint's eye he calmly extensolies. And all the way (a horn!) from fjord to fjell his baywinds' oboboes shall wail him rockbound (hoahoahoah!) in swimswamswum and all the livvylong night, the delldale dalppling night, the night of bluerybells, her flittaflute in tricky trochees (O carina! O carina!) wake him. With her issavan essavans and her patterjackmartins about all them inns and ouses. Tilling a teel of a tum, telling a toll of a teary turty Taubling. Grace before Glutton. For what we are, gifs à gross if we are, about to believe. So pool the begg and pass the kish for crawsake. Omen. So sigh us. Grampupus is fallen down but grinny sprids the boord. Whase on the joint of a desh? Finfoefom the Fush. Whase be his baken head? A loaf of Singpantry's Kennedy bread. And whase hitched to the hop in his tayle? A glass of Danu U'Dunnell's foamous olde Dobbelin ayle. But, lo, as you would quaffoff his fraudstuff and sink teeth through that pyth of a flowerwhite bodey behold of him as behemoth for he is noewhemoe. Finiche! Only a fadograph of a yestern scene.",
+      "draft": "且说，他庞大躯身如比目鱼仰面摊倒，活脱一个超常发育的巴别巨婴；且容吾人悄声偷觑，瞧瞧这位宅主尊容：翻至第八十八页，一睹盘中平卧法相。哼！自查珀利佐德至贝利灯塔区，自阿什敦至拉斯法纳姆，自河岸畔至霍斯角，自山脚直抵爱尔兰之眼岛，他安详横卧平展。一路号角吹鸣！自峡湾到群山，海湾风声如双簧管为受困岩岸的他悲号（呼啸长鸣！），在浪涛拍荡间翻滚；在漫漫长夜，在幽谷斑驳的长夜，在蓝铃花隐泣的长夜，她以飞旋短笛奏出精巧扬抑格（可人儿啊！小舟啊！），将他唤醒。她沿途细语呢喃，如飞燕穿梭周遭客栈房舍。播撒墓冢传说，敲响泥泞泪城都柏林的沉缓丧钟。暴食谢饭祷：为了吾等将要承受的大量赐福——倘若吾等果真深信不疑。那就挪开讨饭口袋，递过土豆蔑筐，权当照看肠胃饥腹。凶兆阿门。众人齐声叹息。老祖父海怪跌落倒毙，老祖母在停尸板上摆开筵席。盘中大肉是谁？芬·麦库尔化身的大鲑鱼。烤熟的头颅是谁？圣帕特里克肯尼迪大面包。系在尾巴上的酒花又是何物？一杯丹尼尔·欧康奈尔举世闻名的都柏林陈年老麦酒。然而，且看：当你痛饮他那虚妄酒浆，下口咬透他那面粉般惨白肉躯的精髓，定睛瞧他宛若陆地巨兽贝希摩斯——皆因他早已遁入虚无。终局落幕！唯余昨日光景一张褪色旧照。",
+      "translation": "且说，他庞大躯身如比目鱼仰面摊倒，活脱一个超常发育的巴别巨婴；且容吾人悄声偷觑，瞧瞧这位宅主尊容：翻至第八十八页，一睹盘中平卧法相。哼！自查珀利佐德至贝利灯塔区，自阿什敦至拉斯法纳姆，自河岸畔至霍斯角，自山脚直抵爱尔兰之眼岛，他安详横卧平展。一路号角吹鸣！自峡湾到群山，海湾风声如双簧管为受困岩岸的他悲号（呼啸长鸣！），在浪涛拍荡间翻滚；在漫漫长夜，在幽谷斑驳的长夜，在蓝铃花隐泣的长夜，她以飞旋短笛奏出精巧扬抑格（可人儿啊！小舟啊！），将他唤醒。她沿途细语呢喃，如飞燕穿梭周遭客栈房舍。播撒墓冢传说，敲响泥泞泪城都柏林的沉缓丧钟。暴食谢饭祷：为了吾等将要承受的大量赐福——倘若吾等果真深信不疑。那就挪开讨饭口袋，递过土豆蔑筐，权当照看肠胃饥腹。凶兆阿门。众人齐声叹息。老祖父海怪跌落倒毙，老祖母在停尸板上摆开筵席。盘中大肉是谁？芬·麦库尔化身的大鲑鱼。烤熟的头颅是谁？圣帕特里克肯尼迪大面包。系在尾巴上的酒花又是何物？一杯丹尼尔·欧康奈尔举世闻名的都柏林陈年老麦酒。然而，且看：当你痛饮他那虚妄酒浆，下口咬透他那面粉般惨白肉躯的精髓，定睛瞧他宛若陆地巨兽贝希摩斯——皆因他早已遁入虚无。终局落幕！唯余昨日光景一张褪色旧照。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-flounder",
+          "lemma": "Him a being so on the flounder of his bulk like an overgrown babeling",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "芬尼根/HCE 跌落倒地姿态之多重隐喻：flounder 双关比目鱼（平摊于盘中）与挣扎翻滚；overgrown babeling 兼发育过硕的巨婴（baby）与巴别塔遗民（Babeling）；Hom 兼家园（Home）与 HCE 的简写代码。正文译作“庞大躯身如比目鱼仰面摊倒，活脱一个超常发育的巴别巨婴”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-seepeegee",
+          "lemma": "see peegee ought he ought, platterplate",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "学者 J. S. Atherton 考定此句暗嵌书目指示：“see page 88”（ought he ought 为两个 08/88 的拼读）；指法国埃及学家 Alexandre Moret 1911年专著《埃及诸王与诸神》（Rois et Dieux d'Égypte）第88页插图——其图正是奥西里斯仰卧于停尸灵榻上的木雕照片板（photographic plate / platter-plate）。死者如菜肴陈于盘中。正文译作“翻至第八十八页，一睹盘中平卧法相”。",
+          "source_ids": [
+            "moret-egypt",
+            "fw-page6"
+          ]
+        },
+        {
+          "id": "i1-shopalist",
+          "lemma": "From Shopalist to Bailywick or from ashtun to baronoath or from Buythebanks to Roundthehead or from the foot of the bill to ireglint's eye he calmly extensolies",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "沉睡巨人躯体与都柏林四至地理完全重合：Shopalist 为西端查珀利佐德（Chapelizod / 伊索尔德小教堂）；Bailywick 为东端霍斯角贝利灯塔（Baily Lighthouse）；ashtun 为西北阿什敦（Ashtown）；baronoath 为南郊拉斯法纳姆（Rathfarnham）；Roundthehead 为霍斯峰；ireglint's eye 为都柏林湾外爱尔兰之眼岛（Ireland's Eye）；extensolies 融平展延伸（extends）与安躺（lies）。正文完整对勘译出。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page6",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-delldale",
+          "lemma": "all the livvylong night, the delldale dalppling night, the night of bluerybells, her flittaflute in tricky trochees (O carina! O carina!) wake him. With her issavan essavans and her patterjackmartins about all them inns and ouses. Tilling a teel of a tum, telling a toll of a teary turty Taubling",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "女主角 ALP（利菲河）化作夜曲与风声唤醒沉睡巨人：livvylong night 融整夜（livelong）与利菲河（Liffey）；delldale dalppling 描摹溪谷斑驳（dell + dale + dappling）；O carina 兼陶笛（ocarina）与意大利语爱人小舟（carina）；teary turty Taubling 典出都柏林著名昵称“亲爱的污浊都柏林”（Dear Dirty Dublin），化作泥泞泪城与丧钟。正文译作“在幽谷斑驳的长夜，在蓝铃花隐泣的长夜……敲响泥泞泪城都柏林的沉缓丧钟”。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-graceglutton",
+          "lemma": "Grace before Glutton. For what we are, gifs à gross if we are, about to believe. So pool the begg and pass the kish for crawsake. Omen. So sigh us",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿英国圣公会公祷书饭前谢恩祈祷：“For what we are about to receive, may the Lord make us truly thankful”；在此颠覆为暴食狂欢（Glutton）：gifs à gross 融成批厚礼（gross）与若信若疑（if we are about to believe）；kish 为爱尔兰传统装土豆的大柳条蔑筐；crawsake 融为了基督（for Christ's sake）与填饱鸟嗉胃袋（craw）；Omen 为凶兆兼阿门（Amen）；So sigh us 为齐声叹息（So say all of us）。正文全面对应译出。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-grampupus",
+          "lemma": "Grampupus is fallen down but grinny sprids the boord",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "Grampupus 融祖父（Grandpa）与巨兽虎鲸（Grampus），指老巨人芬尼根覆灭；grinny 融祖母（Granny）与咧嘴嬉笑（grin）；boord 为餐桌兼停尸板（board）。老朽倒下，老妇在停尸台上铺开暴食盛宴。正文译作“老祖父海怪跌落倒毙，老祖母在停尸板上摆开筵席”。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-finfoefom",
+          "lemma": "Whase on the joint of a desh? Finfoefom the Fush. Whase be his baken head? A loaf of Singpantry's Kennedy bread. And whase hitched to the hop in his tayle? A glass of Danu U'Dunnell's foamous olde Dobbelin ayle",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "神圣食尸（Theophagy）与爱尔兰风物：盘中鱼肉化为凯尔特神话智慧鲑鱼与芬·麦库尔（Finfoefom the Fush 融 fee-fi-fo-fum 巨人之语与鱼）；烤头颅化为都柏林帕特里克街肯尼迪名牌烤面包（Kennedy's bread）；尾巴酒花化为爱尔兰政治领袖丹尼尔·欧康奈尔（Danu U'Dunnell）之都柏林名牌老黑啤（Dublin ale）。正文完整生动译出。",
+          "source_ids": [
+            "ballad-finnegan",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-fadograph",
+          "lemma": "behold of him as behemoth for he is noewhemoe. Finiche! Only a fadograph of a yestern scene",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "behemoth 典出《约伯记》40:15 创世陆地巨兽；noewhemoe 融无处复寻（nowhere more）与虚无；Finiche 融芬尼根（Finn）与法语终结（fini）/意大利语落幕（finisce）；fadograph 为乔伊斯自造名言（fade 褪色 + photograph 照片），宣告昔日创世壮举终化作机械复制时代一张泛黄褪色的老照片。正文译作“定睛瞧他宛若陆地巨兽贝希摩斯——皆因他早已遁入虚无。终局落幕！唯余昨日光景一张褪色旧照”。",
+          "source_ids": [
+            "bible-ot",
+            "joyce-fp",
+            "fw-page7"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "schema_version": 1,
+      "chapter": "I.1",
+      "id": "fw-i1-007-16",
+      "locator": "007.16–008.05",
+      "range": [
+        7,
+        16,
+        8,
+        5
+      ],
+      "source_id": "joyce-fp",
+      "original": "Almost rubicund Salmosalar, ancient fromout the ages of the Agapemonides, he is smolten in our mist, woebecanned and packt away. So that meal's dead off for summan, schlook, schlice and goodridhirring. Yet may we not see still the brontoichthyan form outlined aslumbered, even in our own nighttime by the sedge of the troutling stream that Bronto loved and Bronto has a lean on. Hic cubat edilis. Apud libertinam parvulam. Whatif she be in flags or flitters, reekierags or sundyechosies, with a mint of mines or beggar a pinnyweight. Arrah, sure, we all love little Anny Ruiny, or, we mean to say, lovelittle Anna Rayiny, when unda her brella, mid piddle med puddle, she ninnygoes nannygoes nancing by. Yoh! Brontolone slaaps, yoh snoores. Upon Benn Heather, in Seeple Isout too. The cranic head on him, caster of his reasons, peer yuthner in yondmist. Whooth? His clay feet, swarded in verdigrass, stick up starck where he last fellonem, by the mund of the magazine wall, where our maggy seen all, with her sisterin shawl. While over against this belles' alliance beyind Ill Sixty, ollollowed ill! bagsides of the fort, bom, tarabom, tarabom, lurk the ombushes, the site of the lyffing-in-wait of the upjock and hockums. Hence when the clouds roll by, jamey, a proudseye view is enjoyable of our mounding's mass, now Wallinstone national museum, with, in some greenish distance, the charmful waterloose country and the two quitewhite villagettes who hear show of themselves so gigglesomes minxt the follyages, the prettilees!",
+      "draft": "几乎透出红润的鲑鱼翁，自远古‘爱之巢’诸纪游来，如今在吾人晨雾中消融化散，凄凉装罐，深埋封藏。那席盛宴就此彻底散场：任人吞咽，任人分切，顺当送别这盘红鲱鱼！然而，纵在吾人深夜，在那道雷鸣翁钟爱且凭倚的游鳟溪畔，岂不仍见那巨雷鱼形朦胧沉睡，静卧于衰草丛中？邑官寝此（H.C.E.）。偎伴微婢（A.L.P.）。管她身着锦旗还是鹑衣百结，裹着煤烟破布还是主日华服，腰缠金矿万贯还是贫无立锥。啊呀，当然，谁人不怜爱小安妮·露伊妮——或该说，娇俏多雨的安娜·蕾伊妮？只见她撑起小伞，穿行泥洼水坑间，娇痴步履如舞，轻巧巧蹁跹而过。哟！大雷咆轰然沉睡，呼呼鼾息。头枕石南霍斯角，足抵伊索尔德教堂村。他那硕大颅骨乃心智渊薮，在渺渺远雾中凝睇。那是谁？正是霍斯山！他那黏土双足裹满青绿草皮，在他当年跌落处僵直挺立，紧傍军火库矮丘墙垣——当年吾家玛吉同披姐妹披巾，在彼处窥尽始末。而在‘佳人盟署’正对面，越过六十号高地（噩运接踵而至！），在堡垒后侧，咚，咚嗒咚，咚嗒咚，幽暗灌丛埋伏重重，正是三兵卒在利菲河畔静候伏击之处。因而，吉米啊，待乌云飘散，便可俯瞰吾人隆起土冢的伟岸全貌——如今已成威灵顿国家博物馆；放眼微碧远方，迷人的滑铁卢故地横陈，更有两位素白村姑掩映葱茏树影间，娇笑弄姿，尽显风流俏媚！",
+      "translation": "几乎透出红润的鲑鱼翁，自远古‘爱之巢’诸纪游来，如今在吾人晨雾中消融化散，凄凉装罐，深埋封藏。那席盛宴就此彻底散场：任人吞咽，任人分切，顺当送别这盘红鲱鱼！然而，纵在吾人深夜，在那道雷鸣翁钟爱且凭倚的游鳟溪畔，岂不仍见那巨雷鱼形朦胧沉睡，静卧于衰草丛中？邑官寝此（H.C.E.）。偎伴微婢（A.L.P.）。管她身着锦旗还是鹑衣百结，裹着煤烟破布还是主日华服，腰缠金矿万贯还是贫无立锥。啊呀，当然，谁人不怜爱小安妮·露伊妮——或该说，娇俏多雨的安娜·蕾伊妮？只见她撑起小伞，穿行泥洼水坑间，娇痴步履如舞，轻巧巧蹁跹而过。哟！大雷咆轰然沉睡，呼呼鼾息。头枕石南霍斯角，足抵伊索尔德教堂村。他那硕大颅骨乃心智渊薮，在渺渺远雾中凝睇。那是谁？正是霍斯山！他那黏土双足裹满青绿草皮，在他当年跌落处僵直挺立，紧傍军火库矮丘墙垣——当年吾家玛吉同披姐妹披巾，在彼处窥尽始末。而在‘佳人盟署’正对面，越过六十号高地（噩运接踵而至！），在堡垒后侧，咚，咚嗒咚，咚嗒咚，幽暗灌丛埋伏重重，正是三兵卒在利菲河畔静候伏击之处。因而，吉米啊，待乌云飘散，便可俯瞰吾人隆起土冢的伟岸全貌——如今已成威灵顿国家博物馆；放眼微碧远方，迷人的滑铁卢故地横陈，更有两位素白村姑掩映葱茏树影间，娇笑弄姿，尽显风流俏媚！",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-salmosalar",
+          "lemma": "Almost rubicund Salmosalar... woebecanned and packt away",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "大西洋鲑鱼（Salmo salar）与亚述帝王萨尔玛那萨尔（Shalmaneser）双关造词。鲑鱼在爱尔兰神话中为“智慧鲑鱼”（芬·麦库尔烹鲑吮指获无上智慧），全书借此比附巨翁沉睡化身；“woebecanned and packt away”兼指罐头鲑鱼工业封装与尸体装殓封棺。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-agapemonides",
+          "lemma": "ages of the Agapemonides",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "典指19世纪英国萨默塞特郡亨利·普林斯（Henry James Prince）创立的极端享乐主义宗教公社“爱之巢”（Agapemone，源出希腊语 agape，圣爱），以“属灵新娘”与放纵丑闻轰动一时；尾缀 -ides 示“……之子孙”，喻指自远古享乐诸纪延续至今的生殖沉溺。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-goodridhirring",
+          "lemma": "schlook, schlice and goodridhirring",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "复合爱尔兰英语“痛快作别”（good riddance）与穷人廉价红鲱鱼（red herring）；上文“schlook, schlice”则融合德语 Schluck（大口吞咽）与英文 slice（切片），戏指守灵夜食尸筵席终告分食完毕。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-brontoichthyan",
+          "lemma": "brontoichthyan form outlined aslumbered",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "希腊语 brontē（雷霆）与 ichthys（鱼）复合新词，兼融维柯原始神雷震悚、雷龙（Brontosaurus）与基督鱼形符号，指代沉睡于都柏林大地的史前雷霆巨怪。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-hiccubat",
+          "lemma": "Hic cubat edilis. Apud libertinam parvulam.",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "戏仿古罗马拉丁墓志铭：“邑宰寝卧于此。伴其娇小获释婢。”其中拉丁文各词首字母暗藏全书男女主角姓名缩写：H.C.E.（Hic Cubat Edilis）与 A.L.P.（Apud Libertinam Parvulam）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-annyruiny",
+          "lemma": "little Anny Ruiny, or, we mean to say, lovelittle Anna Rayiny",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿19世纪末流传甚广的音乐厅名曲《小安妮·鲁尼》（Little Annie Rooney），将安娜·利维亚·普卢拉贝尔（ALP）化身为穿行于都柏林泥洼细雨中的小妇人（rain / ruin / Reine）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-bennheather",
+          "lemma": "Upon Benn Heather, in Seeple Isout too",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "勾勒巨人横卧都柏林的对角线地貌：头枕东北爱尔兰海畔之霍斯角（爱尔兰语 Binn Éadair，即 Ben Edar，石南丛生），脚抵西南利菲河畔之伊索尔德教堂村（Chapelizod，爱尔兰语 Séipéal Iosóid）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7"
+          ]
+        },
+        {
+          "id": "i1-magazinewall",
+          "lemma": "mund of the magazine wall, where our maggy seen all, with her sisterin shawl",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "泥足典出《但以理书》第二章尼布甲尼撒异梦金头泥足巨像；“军火库墙”指都柏林菲尼克斯公园军火库（斯威夫特曾作讽刺诗）；玛吉与姊妹同披披肩窥视，指代见证 HCE 公园猥亵丑闻的双女。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page7",
+            "bible-ot"
+          ]
+        },
+        {
+          "id": "i1-wallinstone",
+          "lemma": "Wallinstone national museum... waterloose country... two quitewhite villagettes... prettilees",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "指菲尼克斯公园内威灵顿公爵纪念碑（Wallinstone < Wellington + wall/stone）；水漫利菲河谷与滑铁卢战场（Waterloo / water-loose）重叠；二村姑（villagettes）在林木间掩映吃吃娇笑，预示下文威灵顿博物馆滑铁卢战役全景展厅。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-008-06",
+      "locator": "008.06–010.24",
+      "range": [
+        8,
+        6,
+        10,
+        24
+      ],
+      "source_id": "joyce-fp",
+      "original": "Penetrators are permitted into the museomound free. Welsh and the Paddy Patkinses, one shelenk! Redismembers invalids of old guard find poussepousse pousseypram to sate the sort of their butt. For her passkey supply to the janitrix, the mistress Kathe. Tip. This the way to the museyroom. Mind your hats goan in! Now yiz are in the Willingdone Museyroom. This is a Prooshious gunn. This is a ffrinch. Tip. This is the flag of the Prooshious, the Cap and Soracer. This is the bullet that byng the flag of the Prooshious. This is the ffrinch that fire on the Bull that bang the flag of the Prooshious. Saloos the Crossgunn! Up with your pike and fork! Tip. (Bullsfoot! Fine!) This is the triplewon hat of Lipoleum. Tip. Lipoleumhat. This is the Willingdone on his same white harse, the Cokenhape. This is the big Sraughter Willingdone, grand and magentic in his goldtin spurs and his ironed dux and his quarterbrass woodyshoes and his magnate's gharters and his bangkok's best and goliar's goloshes and his pulluponeasyan wartrews. This is his big wide harse. Tip. This is the first in the ditch. This is the gay first lipoleum boy that spy the Willingdone on his white harse. This is the three lipoleum boyne grouching down in the living detch. This is an inimyskilling inglis, this is a scotcher grey, this is a davy, stooping. This is the bog lipoleum mordering the lipoleum beg. A Gallawghurs argaumunt. This is the petty lipoleum boy that was nayther bag nor bug. Assaye, assaye! Touchole Fitz Tuomush. Dirty MacDyke. And Hairy O'Hurry. All of them arminus-varminus. This is the white horse of the Peppers. This is the crimealine of wide dom Creon. This is Mont Tivel, this is Mont Tipsey, this is the Grand Mons Injun. This is the crimealine of the alps hooping to sheltershock the three lipoleums. This is the jinnies with their legahorns feinting to read in their handmade's book of stralegy while making their war undisides the Willingdone. The jinnies is a cooin her hand and the jinnies is a ravin her hair and the Willingdone git the band up. This is big Willingdone mormorial tallowscoop Wounderworker obscides on the flanks of the jinnies. Sexcaliber hrosspower. Tip. This is me Belchum sneaking his phillippy out of his most toocisive bottle of Tilsiter. This is the jinnies' hastings dispatch for to irrigate the Willingdone. Dispatch in thin red lines cross the shortfront of me Belchum. Yaw, yaw, yaw! Leaper Orthor. Fear siecken! Fieldgaze thy tiny frow. Hugacting. Nap. That was the tictacs of the jinnies for to fontannoy the Willingdone. Shee, shee, shee! The jinnies is jillous agincourting all the lipoleums. And the lipoleums is gonn boycottoncrezy onto the one Willingdone. And the Willingdone git the band up. This is bode Belchum, bonnet to busby, breaking his secred word with a ball up his ear to the Willingdone. This is the Willingdone's hurold dispitchback. Dispitch desployed on the regions rare of me Belchum. Salamangra! Ayi, ayi, ayi! Cherry jinnies. Figtreeyou! Damn fairy ann, Voutre. Willingdone. That was the first joke of Willingdone, tic for tac. Hee, hee, hee! This is me Belchum in his twelvemile cowchooks, weet, tweet and stampforth foremost, footing the camp for the jinnies. Drink a sip, drankasup, for he's as sooner buy a guinness than he'd stale store stout. This is Rooshious balls. This is a ttrinch. This is mistletropes. This is Canon Futter with the popynose after his hundred days' indulgence. This is the blessed. Tarra's widdars! This is jinnies in the bonny bawn blooches. This is lipoleums in the rowdy howses. This is the Willingdone, by the splinters of Cork, order fire. Tonnerre! (Bullsear! Play!) This is camelry, this is floodens, this is the solphereens in action, this is their mobbily, this is panickburns. Almeidagad! Arthiz too loose! This is Willingdone cry. Brum! Brum! Cumbrum! This is jinnies cry. Underwetter! Goat: strip Finnlambs! This is jinnies rinning away to their ousterlists dowan a bunkersheels. With a nip nippy nip and a trip trippy trip so airy. For their heart's right there. Tip. This is me Belchum's tinkyou tankyou silvoor plate for citchin the crapes in the cool of his canister. Poor the pay! This is the bissmark of the marathon merry of the jinnies they left behind them. This is the Willingdone branlish his same marmorial tallowscoop Sophy-Key-Po for his royal divorsion on the rinnaway jinnies. Gambariste della porca! Dalaveras fimmieras! This is the pettiest of the lipoleums, Toffeethief, that spy on the Willingdone from his big white harse, the Capeinhope. Stonewall Willingdone is an old maxy montrumeny. Lipoleums is nice hung bushel-lors. This is hiena hinnessy laughing alout at the Willingdone. This is lipsyg dooley krieging the funk from the hinnessy. This is the hinndoo Shimar Shin between the dooley boy and the hinnessy. Tip. That was the last joke of Willingdone. Hit, hit, hit! This is the same white harse of the Willingdone, Culpenhelp, waggling his tailoscrupp with the half of a hat of lipoleums to insoult on the hinndoo seeboy. Hney, hney, hney! (Bullsrag! Foul!) This is the seeboy, madrashattaras, upjump and pumpim, cry to the Willingdone: Ap Pukkaru! Pukka Yurap! This is the Willingdone, bornstable ghentleman, tinders his maxbotch to the cursigan Shimar Shin. Basucker youstead! This is the dooforhim seeboy blow the whole of the half of the hat of lipoleums off of the top of the tail on the back of his big wide harse. Tip (Bullseye! Game!) How Copenhagen ended. This way the museyroom. Mind your boots goan out.",
+      "draft": "登览入丘者免费进馆。威尔士汉与爱尔兰帕特诸辈，纳银一先令！老禁卫军残肢伤兵，觅得折椅手推车代步，好安顿受创臀股。索要进门钥匙，请找看门女役凯瑟主妇。咚！此路通往陈列馆。进门留神撞落冠帽！诸位如今已入威灵顿纪念堂。此乃普鲁士巨炮。此乃法兰西兵卒。咚！此乃普鲁士军旗，茶盏托碟旗标。此乃击穿普鲁士军旗之铅弹。此乃朝猛牛放枪、轰穿普鲁士旗帜之法兰西兵卒。向十字巨炮致敬！挺起长矛餐叉！咚！（牛蹄！妙绝！）此乃拿破仑三胜双角帽。咚！拿破仑冠。此乃端坐白马‘哥本哈根’之威灵顿公爵。此乃威灵顿屠戮大公，神威赫赫，气度轩昂，足蹬镀金马刺，身披铁铸统帅甲，脚踏四分黄铜木屐，系佩巨擘吊袜带，头戴曼谷精编斗笠，套着歌利亚橡胶套鞋，更套上一扯即穿波利尼西亚战裤。此乃其肥硕骏骑。咚！此乃倒卧壕沟第一人。此乃窥见白马威灵顿公爵之拿破仑欢俏前哨卒。此乃蜷伏堑壕残坑哀怨怨咕哝之拿破仑三兵童。此乃恩尼斯基伦英格兰兵，此乃苏格兰灰骑兵，此乃俯身驼背戴维步卒。此乃沼泽大拿破仑谋害弱小拿破仑。恰似加拉格尔口舌之争。此乃微末拿破仑童卒，既非大囊亦非臭虫。阿萨耶，阿萨耶战役！点火孔菲茨托马斯。腌臢麦克戴克。多毛奥哈利。满堂皆为瓦鲁斯败部残兵。此乃佩珀家族白色战马。此乃宽疆克瑞翁公国裙撑防线。此乃提维尔山，此乃醉步峰，此乃大印第安丘峦。此乃阿尔卑斯环形克里诺林防线，抵御炮震，庇护拿破仑三兵童。此乃头顶利古里亚草帽之双女，佯装翻阅手抄战策书卷，暗地却围着威灵顿公爵兜转弄诡。双女且向掌心喁喁娇语，且揉乱秀发故作疯颠，激得威灵顿整饬鼓乐仪仗。此乃威灵顿纪念巨碑，犹如惊世熔脂刮勺，侧立于二女身旁。王者雄锋，马力充盈。咚！此乃布吕歇尔老兄，自提尔西特烈酒瓶里悄然掏出痛饮之盅。此乃二女急报快函，特为滋润撩拨威灵顿公爵。快函化作纤薄红线，穿过布吕歇尔前沿阵线。呀，呀，呀！跃进亚瑟公。休得胆怯！且顾汝家娇小村妇。紧紧相拥。睡个短觉。此乃二女挑弄烦扰威灵顿公爵之机谋。嗤，嗤，嗤！二女醋意翻涌，公然当面调情阿金库尔众拿破仑。拿破仑诸将见状，齐朝独孤威灵顿公爵发狂蜂拥。威灵顿公爵命鼓乐齐鸣。此乃布吕歇尔老兄，熊皮高帽抵近圆顶平顶帽，耳旁骤响枪弹，背弃密约，直逼威灵顿公爵。此乃威灵顿公爵疾掷掷回之军报。军报径直贴上布吕歇尔老兄臀后虚悬地界。萨拉曼卡战役！哎，哎，哎！樱桃双女。滚一边去！去他娘，威尔逊妖女，操汝屁股！威灵顿如是怒斥。此乃威灵顿针锋相对开出第一桩笑话。嘻，嘻，嘻！此乃布吕歇尔老兄，蹬着十二哩宽皮靴，啾啾鸣哨，昂首阔步，绕营寨踏步，在二女面前展露风采。浅呷一口，痛饮一盅，宁买健力士醇黑麦酒，不售滞销变味陈酸烈啤。此乃俄罗斯铁弹。此乃纵深战壕。此乃槲寄生抛石机。此乃教士大炮炮灰，罗马教皇鼻息，历经百日之期暂享大赦。此乃蒙福之人。塔拉残妇！此乃二女身着秀美苍白长灯笼裤。此乃拿破仑诸将混迹喧嚣青楼。此乃威灵顿公爵凭科克木片立誓，下令开火。雷鸣轰响！（牛耳正中！开局！）此乃骆驼骑兵，此乃弗洛登战役血流成河，此乃索尔费里诺烈火交兵，此乃骑兵机动冲击，此乃班诺克本溃逃焚毁。阿尔梅达之神啊！吾牙尽数震落！此乃威灵顿公爵痛呼。嗵！嗵！康布罗纳拉屎！此乃二女尖叫。雷暴骤降！上帝惩戒英格兰！此乃二女狂奔脱逃，穿过奥斯特利茨，直奔邦克山地堡避难。莲步轻巧碎踏，脚步灵巧翻飞，体态婀娜轻盈。只因芳心长留彼方。咚！此乃布吕歇尔老兄鸣谢盛放银盘，用以承接颅骨冷窟漏下黑纱残血。薄赏微酬！此乃俾斯麦烙印，亦乃二女远弃马拉松欢畅余波。此乃威灵顿公爵挥舞大理石刮脂勺名剑，好在奔逃二女身上寻欢作乐。母猪哲人德拉波尔塔！虚妄婆娘！此乃最微末拿破仑童子兼太妃糖贼，紧傍端坐好望角白马之威灵顿公爵暗中窥伺。石墙威灵顿公爵乃一座硕大古旧巨碑。拿破仑诸公高悬如羞怯学士。此乃土狼亨尼西，放声嘲笑威灵顿公爵。此乃莱比锡杜利先生，自亨尼西身上榨取畏惧。此乃印度苦修申拿尔闪米特仆童，夹在杜利童子与亨尼西之间。咚！此乃威灵顿公爵最后一桩笑谈。打，打，打！此乃威灵顿公爵坐骑白马‘救赎之角’，摇晃马尾残帚，悬着半截拿破仑破帽，侮弄印度西帕依雇佣兵。咴，咴，咴！（牛毛扯碎！犯规！）此乃马德拉斯疯头西帕依侍童，腾身跳起，扬枪上膛，朝威灵顿公爵高呼：真主惩汝！正统欧罗巴！此乃威灵顿公爵，根特名门绅士，朝科西嘉闪米特仆童擦亮火柴。去汝妈巴苏克混账！此乃效命侍童发铳，将马背宽臀尾端那顶半截拿破仑双角帽连根轰飞。咚！（正中靶心！胜负见分晓！）白马‘哥本哈根’结局如是。此乃走出陈列馆之径。出门留神脚下马靴。",
+      "translation": "登览入丘者免费进馆。威尔士汉与爱尔兰帕特诸辈，纳银一先令！老禁卫军残肢伤兵，觅得折椅手推车代步，好安顿受创臀股。索要进门钥匙，请找看门女役凯瑟主妇。咚！此路通往陈列馆。进门留神撞落冠帽！诸位如今已入威灵顿纪念堂。此乃普鲁士巨炮。此乃法兰西兵卒。咚！此乃普鲁士军旗，茶盏托碟旗标。此乃击穿普鲁士军旗之铅弹。此乃朝猛牛放枪、轰穿普鲁士旗帜之法兰西兵卒。向十字巨炮致敬！挺起长矛餐叉！咚！（牛蹄！妙绝！）此乃拿破仑三胜双角帽。咚！拿破仑冠。此乃端坐白马‘哥本哈根’之威灵顿公爵。此乃威灵顿屠戮大公，神威赫赫，气度轩昂，足蹬镀金马刺，身披铁铸统帅甲，脚踏四分黄铜木屐，系佩巨擘吊袜带，头戴曼谷精编斗笠，套着歌利亚橡胶套鞋，更套上一扯即穿波利尼西亚战裤。此乃其肥硕骏骑。咚！此乃倒卧壕沟第一人。此乃窥见白马威灵顿公爵之拿破仑欢俏前哨卒。此乃蜷伏堑壕残坑哀怨怨咕哝之拿破仑三兵童。此乃恩尼斯基伦英格兰兵，此乃苏格兰灰骑兵，此乃俯身驼背戴维步卒。此乃沼泽大拿破仑谋害弱小拿破仑。恰似加拉格尔口舌之争。此乃微末拿破仑童卒，既非大囊亦非臭虫。阿萨耶，阿萨耶战役！点火孔菲茨托马斯。腌臢麦克戴克。多毛奥哈利。满堂皆为瓦鲁斯败部残兵。此乃佩珀家族白色战马。此乃宽疆克瑞翁公国裙撑防线。此乃提维尔山，此乃醉步峰，此乃大印第安丘峦。此乃阿尔卑斯环形克里诺林防线，抵御炮震，庇护拿破仑三兵童。此乃头顶利古里亚草帽之双女，佯装翻阅手抄战策书卷，暗地却围着威灵顿公爵兜转弄诡。双女且向掌心喁喁娇语，且揉乱秀发故作疯颠，激得威灵顿整饬鼓乐仪仗。此乃威灵顿纪念巨碑，犹如惊世熔脂刮勺，侧立于二女身旁。王者雄锋，马力充盈。咚！此乃布吕歇尔老兄，自提尔西特烈酒瓶里悄然掏出痛饮之盅。此乃二女急报快函，特为滋润撩拨威灵顿公爵。快函化作纤薄红线，穿过布吕歇尔前沿阵线。呀，呀，呀！跃进亚瑟公。休得胆怯！且顾汝家娇小村妇。紧紧相拥。睡个短觉。此乃二女挑弄烦扰威灵顿公爵之机谋。嗤，嗤，嗤！二女醋意翻涌，公然当面调情阿金库尔众拿破仑。拿破仑诸将见状，齐朝独孤威灵顿公爵发狂蜂拥。威灵顿公爵命鼓乐齐鸣。此乃布吕歇尔老兄，熊皮高帽抵近圆顶平顶帽，耳旁骤响枪弹，背弃密约，直逼威灵顿公爵。此乃威灵顿公爵疾掷掷回之军报。军报径直贴上布吕歇尔老兄臀后虚悬地界。萨拉曼卡战役！哎，哎，哎！樱桃双女。滚一边去！去他娘，威尔逊妖女，操汝屁股！威灵顿如是怒斥。此乃威灵顿针锋相对开出第一桩笑话。嘻，嘻，嘻！此乃布吕歇尔老兄，蹬着十二哩宽皮靴，啾啾鸣哨，昂首阔步，绕营寨踏步，在二女面前展露风采。浅呷一口，痛饮一盅，宁买健力士醇黑麦酒，不售滞销变味陈酸烈啤。此乃俄罗斯铁弹。此乃纵深战壕。此乃槲寄生抛石机。此乃教士大炮炮灰，罗马教皇鼻息，历经百日之期暂享大赦。此乃蒙福之人。塔拉残妇！此乃二女身着秀美苍白长灯笼裤。此乃拿破仑诸将混迹喧嚣青楼。此乃威灵顿公爵凭科克木片立誓，下令开火。雷鸣轰响！（牛耳正中！开局！）此乃骆驼骑兵，此乃弗洛登战役血流成河，此乃索尔费里诺烈火交兵，此乃骑兵机动冲击，此乃班诺克本溃逃焚毁。阿尔梅达之神啊！吾牙尽数震落！此乃威灵顿公爵痛呼。嗵！嗵！康布罗纳拉屎！此乃二女尖叫。雷暴骤降！上帝惩戒英格兰！此乃二女狂奔脱逃，穿过奥斯特利茨，直奔邦克山地堡避难。莲步轻巧碎踏，脚步灵巧翻飞，体态婀娜轻盈。只因芳心长留彼方。咚！此乃布吕歇尔老兄鸣谢盛放银盘，用以承接颅骨冷窟漏下黑纱残血。薄赏微酬！此乃俾斯麦烙印，亦乃二女远弃马拉松欢畅余波。此乃威灵顿公爵挥舞大理石刮脂勺名剑，好在奔逃二女身上寻欢作乐。母猪哲人德拉波尔塔！虚妄婆娘！此乃最微末拿破仑童子兼太妃糖贼，紧傍端坐好望角白马之威灵顿公爵暗中窥伺。石墙威灵顿公爵乃一座硕大古旧巨碑。拿破仑诸公高悬如羞怯学士。此乃土狼亨尼西，放声嘲笑威灵顿公爵。此乃莱比锡杜利先生，自亨尼西身上榨取畏惧。此乃印度苦修申拿尔闪米特仆童，夹在杜利童子与亨尼西之间。咚！此乃威灵顿公爵最后一桩笑谈。打，打，打！此乃威灵顿公爵坐骑白马‘救赎之角’，摇晃马尾残帚，悬着半截拿破仑破帽，侮弄印度西帕依雇佣兵。咴，咴，咴！（牛毛扯碎！犯规！）此乃马德拉斯疯头西帕依侍童，腾身跳起，扬枪上膛，朝威灵顿公爵高呼：真主惩汝！正统欧罗巴！此乃威灵顿公爵，根特名门绅士，朝科西嘉闪米特仆童擦亮火柴。去汝妈巴苏克混账！此乃效命侍童发铳，将马背宽臀尾端那顶半截拿破仑双角帽连根轰飞。咚！（正中靶心！胜负见分晓！）白马‘哥本哈根’结局如是。此乃走出陈列馆之径。出门留神脚下马靴。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-museomound",
+          "lemma": "museomound... janitrix, the mistress Kathe... Willingdone Museyroom",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "菲尼克斯公园威灵顿方尖碑冢丘化身为国家历史陈列馆；看门女仆凯瑟（Kathe/Kate）手持引路短杖（敲击发出 Tip 声响）兼收门票，充当全篇导览者，戏仿滑铁卢战役全景画展厅。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-prooshious",
+          "lemma": "Prooshious gunn... ffrinch... Cap and Soracer... Crossgunn",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "普鲁士大炮（Prooshious / Prussian）、法兰西火枪手（ffrinch / French）、茶杯托碟军旗（Cap and Soracer / cup and saucer）与都柏林街头十字枪炮（Crossgunn），戏仿儿童歌谣与军史器物展陈。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-triplewon",
+          "lemma": "triplewon hat of Lipoleum... Cokenhape... Sraughter Willingdone",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "拿破仑（Lipoleum，兼混油布 linoleum 与脂肪 lipos）的三胜／三折双角帽（triplewon hat）；威灵顿公爵（Willingdone）与其滑铁卢战马哥本哈根（Cokenhape，兼指好望角 Cape of Good Hope）；Sraughter 谐音屠杀（slaughter）与爱尔兰地名 Sragh。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-grouchingdetch",
+          "lemma": "three lipoleum boyne grouching down in the living detch... inimyskilling... scotcher grey",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "滑铁卢战壕（detch / ditch / living death）与格鲁希元帅（Marshal Grouchy / grouching）及博因河战役（Boyne）；英军恩尼斯基伦龙骑兵（Enniskillen）与苏格兰皇家灰骑兵（Scots Greys）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-arminus",
+          "lemma": "Assaye, assaye! Touchole Fitz Tuomush. Dirty MacDyke. And Hairy O'Hurry. All of them arminus-varminus.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "威灵顿早年在印度扬名之阿萨耶战役（Battle of Assaye, 1803）；化身三士兵之点火孔菲茨托马斯、麦克戴克与奥哈利；条顿堡森林战役日耳曼统帅阿尔米尼乌斯（Arminius）击溃罗马总督瓦鲁斯（Varus）三军团典故。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-jinniesbook",
+          "lemma": "jinnies with their legahorns feinting to read in their handmade's book of stralegy",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "头戴意大利利古里亚麦秆草帽（Leghorn straw hats）之二女（Issy 与双生化身），假意展读书卷（handmade / handmaid），暗中施展战策（stralegy / strategy + astrology）挑弄威灵顿公爵。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page8",
+            "fw-page9"
+          ]
+        },
+        {
+          "id": "i1-thinredlines",
+          "lemma": "hastings dispatch... thin red lines cross the shortfront of me Belchum",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "1066年黑斯廷斯战役（Hastings）与军报交叠；克里米亚战争巴拉克拉瓦战役英国第93高地步兵团闻名战史之“纤薄红线”（The Thin Red Line），横穿普鲁士布吕歇尔将军（me Belchum）衬衫前襟（shirt front）与前沿战线。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page9",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-publishdamned",
+          "lemma": "Salamangra! Ayi, ayi, ayi! Cherry jinnies. Figtreeyou! Damn fairy ann, Voutre. Willingdone. That was the first joke of Willingdone",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "西班牙萨拉曼卡战役（Salamanca）；戏仿英国名妓哈丽雅特·威尔逊（Harriette Wilson）以出版回忆录敲诈时，威灵顿公爵传世名答：“Publish and be damned!”（正文戏作法语粗话 Foutre 与“去他娘威尔逊妖女”）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page9",
+            "harriette-wilson"
+          ]
+        },
+        {
+          "id": "i1-canonfutter",
+          "lemma": "Canon Futter with the popynose after his hundred days' indulgence",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "德语大炮饲料／炮灰（Kanonenfutter / Canon Futter），双关天主教法政教士（Canon）与罗马教皇（popynose）；将拿破仑百日王朝（Hundred Days）双关天主教“百日大赦”（hundred days' indulgence）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page9",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-almeidagad",
+          "lemma": "Almeidagad! Arthiz too loose! Brum! Brum! Cumbrum! Underwetter! Goat: strip Finnlambs!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "半岛战争葡萄牙阿尔梅达要塞（Almeida）与法国图卢兹战役（Toulouse / teeth loose）；法国近卫军康布罗纳将军（Cambronne）滑铁卢名言“Merde!”（屎！）；一战德国反英口号“Gott strafe England!”（愿上帝惩戒英格兰！）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-mrdooley",
+          "lemma": "lipsyg dooley krieging the funk from the hinnessy... hinndoo Shimar Shin",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "莱比锡战役（Lipsyg / Leipzig）与普鲁士战争游戏（Krieg）；融入美国讽刺作家芬利·彼得·邓恩笔下杜利先生（Mr. Dooley）与亨尼西（Hennessy）论政双人组；印度西帕依雇佣兵（seeboy / sepoy）与圣经古地申拿尔（Shimar / Shinar）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "dooley-hennessy"
+          ]
+        },
+        {
+          "id": "i1-copenhagenended",
+          "lemma": "How Copenhagen ended. This way the museyroom. Mind your boots goan out.",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "威灵顿公爵战马哥本哈根（1836年去世，享有军礼葬礼）退役收场；导览老妇凯瑟引导游客出馆，对应开篇“入馆留神碰帽”（Mind your hats goan in），叮嘱“出门留神脚下马靴”（Mind your boots goan out）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "waterloo-campaign"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i1-010-25",
+      "locator": "010.25–012.17",
+      "range": [
+        10,
+        25,
+        12,
+        17
+      ],
+      "source_id": "joyce-fp",
+      "original": "Phew! What a warm time we were in there but how keling is here the airabouts! We nowhere she lives but you mussna tell annaone for the lamp of Jig-a-Lanthern! It's a candlelittle houthse of a month and one windies. Downadown, High Downadown. And nummered quaintlymine. And such reasonable weather too! The wagrant wind's awalt'zaround the piltdowns and on every blasted knollyrock (if you can spot fifty I spy four more) there's that gnarlybird ygathering, a runalittle, doalittle, preealittle, pouralittle, wipealittle, kicksalittle, severalittle, eatalittle, whinealittle, kenalittle, helfalittle, pelfalittle gnarlybird. A verytableland of bleakbardfields! Under his seven wrothschields lies one, Lumproar. His glav toside him. Skud ontorsed. Our pigeons pair are flewn for northcliffs. The three of crows have flapped it southenly, kraaking of de baccle to the kvarters of that sky whence triboos answer; Wail, 'tis well! She niver comes out when Thon's on shower or when Thon's flash with his Nixy girls or when Thon's blowing toom-cracks down the gaels of Thon. No nubo no! Neblas on you liv! Her would be too moochy afreet. Of Burymeleg and Bindme-rollingeyes and all the deed in the woe. Fe fo fom! She jist does hopes till byes will be byes. Here, and it goes on to appear now, she comes, a peacefugle, a parody's bird, a peri potmother, a pringlpik in the ilandiskippy, with peewee and powwows in beggybaggy on her bickybacky and a flick flask fleckflinging its pixylighting pacts' huemeramybows, picking here, pecking there, pussypussy plunderpussy. But it's the armitides toonigh, militopucos, and toomourn we wish for a muddy kissmans to the minutia workers and there's to be a gorgeups truce for happinest childher everwere. Come nebo me and suso sing the day we sallybright. She's burrowed the coacher's headlight the better to pry (who goes cute goes siocur and shoos aroun) and all spoiled goods go into her nabsack: curtrages and rattlin buttins, nappy spattees and flasks of all nations, clavicures and scampulars, maps, keys and woodpiles of haypennies and moonled brooches with bloodstaned breeks in em, boaston nightgarters and masses of shoesets and nickelly nacks and foder allmicheal and a lugly parson of cates and howitzer muchears and midgers and maggets, ills and ells with loffs of toffs and pleures of bells and the last sigh that come fro the hart (bucklied!) and the fairest sin the sunsaw (that's cearc!). With Kiss. Kiss Criss. Cross Criss. Kiss Cross. Undo lives 'end. Slain. How bootifull and how truetowife of her, when strengly forebidden, to steal our historic presents from the past postpropheticals so as to will make us all lordyheirs and ladymaidesses of a pretty nice kettle of fruit. She is livving in our midst of debt and laffing through all plores for us (her birth is uncontrollable), with a naperon for her mask and her sabboes kickin arias (so sair! so solly!) if yous ask me and I saack you. Hou! Hou! Gricks may rise and Troysirs fall (there being two sights for ever a picture) for in the byways of high improvidence that's what makes life-work leaving and the world's a cell for citters to cit in. Let young wimman run away with the story and let young min talk smooth behind the butteler's back. She knows her knight's duty while Luntum sleeps. Did ye save any tin? says he. Did I what? with a grin says she. And we all like a marriedann because she is mercenary. Though the length of the land lies under liquidation (floote!) and there's nare a hairbrow nor an eyebush on this glaubrous phace of Herrschuft Whatarwelter she'll loan a vesta and hire some peat and sarch the shores her cockles to heat and she'll do all a turfwoman can to piff the business on. Paff. To puff the blaziness on. Poffpoff. And even if Humpty shell fall frumpty times as awkward again in the beardsboosoloom of all our grand remonstrancers there'll be iggs for the brekkers come to mourn-him, sunny side up with care. So true is it that therewhere's a turnover the tay is wet too and when you think you ketch sight of a hind make sure but you're cocked by a hin.",
+      "draft": "嘿！方才馆内好一场闷热，步出馆外，此间周遭空气好生寒冽！吾辈自知彼居何处，惟凭南瓜提灯起誓，切莫告与旁人！彼乃仅容一烛之窄居，开窗三十有一扇。伏倒复伏倒，高高又伏倒。门牌奇异，二十有九。天色亦算合宜！浪荡长风旋舞掠过皮尔当丘岗，嶙峋碎石累累其上（君若辨得五十处，吾复探得四处），只见那只枯桠骨鸟正在啄拾：小跑一阵，弄巧一阵，窥探一阵，倾注一阵，抹拭一阵，踢蹬一阵，分拨一阵，啄食一阵，哀鸣一阵，端详一阵，援引一阵，搜刮一阵，好一只嶙峋骨鸟。实乃一片苍凉战场之高岗台地！七具赤盾之下，横卧隆然巨汉。宝剑在侧。身覆巨盾。吾双飞鸽已振翅直奔北方悬崖。三羽乌鸦向南奋翅，向四野诸部回应处哑声哀告大溃败；号哭罢，善哉！雷神倾盆泼雨，或偕水中双仙女闪现，或顺长风轰响雷霆之时，彼绝不出舍。绝无乌云，绝无！浓雾笼罩汝身，利维！彼必惊恐万状。惧怕埋足鬼与转眼妖，更惧世间诸般祸事亡灵。呼，吓，哼！彼惟寄望于来日方长。瞧，彼眼下现身，款款行来，好一只和睦领飞鸟，一只拟讽鸟，一位林泉仙母，一座跳岛雀峰，背负行囊，囊满小雀与议论，手中摇晃光壶，飞溅精灵微芒与虹霓盟约之斑斓色泽，此间拾掇，彼处啄汲，扑扑搜刮，无休无止。惟今夜乃休战长宵，小统帅临轩，明晨且祝微贱工徒泥浆圣诞，处处皆见天下快活孩童之美妙休战。且近吾侧，齐声同唱，欢庆此一光亮吉日。彼借得车夫前照头灯以利搜巡（机巧者走得稳妥，驱赶诸物四散），战后残秽尽入拾荒囊袋：残弹筒与当啷纽扣，尿布鞋罩与万国酒壶，锁钥骨殖与浪子肩章，舆图、门匙与积叠如柴之半便士，月光胸针嵌上染血马裤，波士顿夜袜吊带与成堆屐鞋，镀镍小什物与米迦勒节秣草，一盒丑陋婚饼与豪饮大耳杯，蚋蠓与蛆虫，千灾万厄伴豪客狂笑与钟声哀泣，自雄鹿心口溢出最后一声叹息（摧折也！），以及丽日照见最美原罪（此乃母鸡啄食！）。且以亲吻行礼。十字交吻。十字叉痕。十字吻别。寿数已尽。身死陨灭。严禁之下，彼竟盗出先知往事奉上历史馈赠，使得吾辈尽数承袭丰美禁果之残局，何其端秀，何其尽顺妇职！彼身寄利维河，活在吾辈累累欠债之中，穿透诸般涕泣为吾辈长笑（其降生狂放不羁），以围裙掩面为面具，踏木屐踢踏踏踢出咏叹调（何其痛伤！何其悲悯！），由君发问，任吾道来。吼！吼！希腊砖石可起，特洛伊裤褶可落（凡画皆有双重景界），皆因在荒诞挥霍歧途之上，此乃毕生劳作何以值得留存之故，而举世亦成一座囚牢，容市井庸民端坐其中。且听少妇携轶事私奔，任由少年在总管身后巧舌如簧。趁伦敦沉睡，彼深谙夜巡护卫之职。汝可积攒得半文现银？汉子问。吾何曾少攒分毫？妇人抿嘴笑道。吾辈皆喜已婚安娜，全因彼唯利是图。纵使全境遭逢大水清算（洪水滔滔！），在这位威灵顿公爵光秃秃面颊上寻不见一毫眉毛睫毛，彼仍会借来火柴，租来泥炭，沿岸搜巡烧热文蛤，尽泥炭妇人全副气力吹旺营生。扑。吹起烈烈火势。噗噗。纵令矮胖子蛋壳跌落，再在吾辈诸位谏官须髯胸怀间跌出七十个狼狈残局，亦有煎蛋端上守灵哀悼者早餐，单面煎透，轻拿轻放。诚然，馅饼翻面处茶水亦湿，正当君以为瞥见牝鹿后臀，切记留神，莫遭母鸡调戏戏弄。",
+      "translation": "嘿！方才馆内好一场闷热，步出馆外，此间周遭空气好生寒冽！吾辈自知彼居何处，惟凭南瓜提灯起誓，切莫告与旁人！彼乃仅容一烛之窄居，开窗三十有一扇。伏倒复伏倒，高高又伏倒。门牌奇异，二十有九。天色亦算合宜！浪荡长风旋舞掠过皮尔当丘岗，嶙峋碎石累累其上（君若辨得五十处，吾复探得四处），只见那只枯桠骨鸟正在啄拾：小跑一阵，弄巧一阵，窥探一阵，倾注一阵，抹拭一阵，踢蹬一阵，分拨一阵，啄食一阵，哀鸣一阵，端详一阵，援引一阵，搜刮一阵，好一只嶙峋骨鸟。实乃一片苍凉战场之高岗台地！七具赤盾之下，横卧隆然巨汉。宝剑在侧。身覆巨盾。吾双飞鸽已振翅直奔北方悬崖。三羽乌鸦向南奋翅，向四野诸部回应处哑声哀告大溃败；号哭罢，善哉！雷神倾盆泼雨，或偕水中双仙女闪现，或顺长风轰响雷霆之时，彼绝不出舍。绝无乌云，绝无！浓雾笼罩汝身，利维！彼必惊恐万状。惧怕埋足鬼与转眼妖，更惧世间诸般祸事亡灵。呼，吓，哼！彼惟寄望于来日方长。瞧，彼眼下现身，款款行来，好一只和睦领飞鸟，一只拟讽鸟，一位林泉仙母，一座跳岛雀峰，背负行囊，囊满小雀与议论，手中摇晃光壶，飞溅精灵微芒与虹霓盟约之斑斓色泽，此间拾掇，彼处啄汲，扑扑搜刮，无休无止。惟今夜乃休战长宵，小统帅临轩，明晨且祝微贱工徒泥浆圣诞，处处皆见天下快活孩童之美妙休战。且近吾侧，齐声同唱，欢庆此一光亮吉日。彼借得车夫前照头灯以利搜巡（机巧者走得稳妥，驱赶诸物四散），战后残秽尽入拾荒囊袋：残弹筒与当啷纽扣，尿布鞋罩与万国酒壶，锁钥骨殖与浪子肩章，舆图、门匙与积叠如柴之半便士，月光胸针嵌上染血马裤，波士顿夜袜吊带与成堆屐鞋，镀镍小什物与米迦勒节秣草，一盒丑陋婚饼与豪饮大耳杯，蚋蠓与蛆虫，千灾万厄伴豪客狂笑与钟声哀泣，自雄鹿心口溢出最后一声叹息（摧折也！），以及丽日照见最美原罪（此乃母鸡啄食！）。且以亲吻行礼。十字交吻。十字叉痕。十字吻别。寿数已尽。身死陨灭。严禁之下，彼竟盗出先知往事奉上历史馈赠，使得吾辈尽数承袭丰美禁果之残局，何其端秀，何其尽顺妇职！彼身寄利维河，活在吾辈累累欠债之中，穿透诸般涕泣为吾辈长笑（其降生狂放不羁），以围裙掩面为面具，踏木屐踢踏踏踢出咏叹调（何其痛伤！何其悲悯！），由君发问，任吾道来。吼！吼！希腊砖石可起，特洛伊裤褶可落（凡画皆有双重景界），皆因在荒诞挥霍歧途之上，此乃毕生劳作何以值得留存之故，而举世亦成一座囚牢，容市井庸民端坐其中。且听少妇携轶事私奔，任由少年在总管身后巧舌如簧。趁伦敦沉睡，彼深谙夜巡护卫之职。汝可积攒得半文现银？汉子问。吾何曾少攒分毫？妇人抿嘴笑道。吾辈皆喜已婚安娜，全因彼唯利是图。纵使全境遭逢大水清算（洪水滔滔！），在这位威灵顿公爵光秃秃面颊上寻不见一毫眉毛睫毛，彼仍会借来火柴，租来泥炭，沿岸搜巡烧热文蛤，尽泥炭妇人全副气力吹旺营生。扑。吹起烈烈火势。噗噗。纵令矮胖子蛋壳跌落，再在吾辈诸位谏官须髯胸怀间跌出七十个狼狈残局，亦有煎蛋端上守灵哀悼者早餐，单面煎透，轻拿轻放。诚然，馅饼翻面处茶水亦湿，正当君以为瞥见牝鹿后臀，切记留神，莫遭母鸡调戏戏弄。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i1-jigalanthern",
+          "lemma": "lamp of Jig-a-Lanthern... month and one windies... nummered quaintlymine",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "南瓜提灯（Jack-o'-Lantern / Jig-a-Lanthern）；一月与三十一扇窗（历法与斯威夫特旧居双关）；门牌号二十九（quaintlymine / twenty-nine，爱尔兰民间二十九名少女与月相历法）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-piltdowns",
+          "lemma": "wagrant wind's awalt'zaround the piltdowns... blasted knollyrock",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "1912年英国萨塞克斯郡“皮尔当人”（Piltdown Man）史前人类化石伪造公案，与荒原丘岗（downs）及漫游长风华尔兹旋舞交叠。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "piltdown-hoax"
+          ]
+        },
+        {
+          "id": "i1-gnarlybird",
+          "lemma": "gnarlybird ygathering, a runalittle, doalittle... pelfalittle",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "滑铁卢战场搜刮死伤者遗物之拾荒老妪（Kate / Biddy the Hen / ALP化身），连用十二个叠音轻动词（runalittle至pelfalittle）戏仿十二陪审员／酒客，勾勒其琐碎忙碌之啄拾姿态。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-lumproar",
+          "lemma": "Under his seven wrothschields lies one, Lumproar. His glav toside him. Skud ontorsed.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "内森·罗斯柴尔德家族徽章之七具赤盾（wrothschields / red shields / Rothschild）与侏儒怪（Rumpelstiltskin）；倒卧巨汉（Lumproar，暗指芬·麦库尔与拿破仑）；斯拉夫语头颅／剑刃（glav）与身上覆盾（scudo / torso）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "fw-page11",
+            "rothschild-pigeon"
+          ]
+        },
+        {
+          "id": "i1-pigeonspair",
+          "lemma": "Our pigeons pair are flewn for northcliffs... three of crows... kraaking of de baccle",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "滑铁卢战役以内森·罗斯柴尔德信鸽抢传战报发迹之传说；报社大亨北岩勋爵（Lord Northcliffe）；三羽乌鸦（三士兵／四贤士化身）向四方哑声哀告战败（de baccle / debacle）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page10",
+            "fw-page11",
+            "rothschild-pigeon"
+          ]
+        },
+        {
+          "id": "i1-peacefugle",
+          "lemma": "she comes, a peacefugle, a parody's bird, a peri potmother, a pringlpik in the ilandiskippy",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "母性河流使者安娜·利维娅化身和平领飞鸟（德语 Friedensvogel）、极乐鸟（bird of paradise / parody's bird）、波斯林泉仙母（Peri）及跳岛雀峰。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-huemeramybows",
+          "lemma": "flick flask fleckflinging its pixylighting pacts' huemeramybows... pussypussy plunderpussy",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "摇曳光壶飞溅彩虹色谱（huemeramybows / hue + rainbow），暗指创世记第九章上帝与挪亚立约之虹（pacts）；拾荒母禽（plunderpussy）沿路搜掠历史残片。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-nabsackgoods",
+          "lemma": "all spoiled goods go into her nabsack: curtrages... clavicures and scampulars... bloodstaned breeks",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "安娜·利维娅拾荒囊袋（nabsack / knapsack）中战后遗物清单：弹筒、纽扣、万国酒壶、锁钥骨殖（clavicles）、浪子肩章（scapulars）、地契、染血马裤与波士顿吊袜带，微缩整部人类物质文明与战祸史。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11",
+            "waterloo-campaign"
+          ]
+        },
+        {
+          "id": "i1-cearc",
+          "lemma": "the fairest sin the sunsaw (that's cearc!). With Kiss. Kiss Criss. Cross Criss. Kiss Cross. Undo lives 'end. Slain.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "爱尔兰语母鸡（cearc）与太阳照见之最美原罪（夏娃偷尝禁果／母鸡扒开土堆）；划十字与接吻游戏（kiss and criss-cross / 十字架刑罚与犹大之吻）；寿数终结与受难牺牲。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-kettleoffruit",
+          "lemma": "steal our historic presents from the past postpropheticals... lordyheirs and ladymaidesses of a pretty nice kettle of fruit",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "夏娃违背神谕盗取禁果，将人类带入充满债务与原罪之历史继承局（kettle of fish / kettle of fruit），使世人沦为原罪遗产之嗣子命妇。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11"
+          ]
+        },
+        {
+          "id": "i1-midstofdebt",
+          "lemma": "She is livving in our midst of debt and laffing through all plores for us... with a naperon for her mask and her sabboes kickin arias",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "将圣经“死阴之中”（in the midst of death）改作“负债之中”（in our midst of debt）；融入利维河（livving / Liffey）与法语涕泣（pleures / plores）；围裙作假面，脚踏木屐跳出踢踏舞与歌剧咏叹调，呈显底层顽强生命力。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page11",
+            "fw-page12"
+          ]
+        },
+        {
+          "id": "i1-cellforcitters",
+          "lemma": "Gricks may rise and Troysirs fall (there being two sights for ever a picture)... world's a cell for citters to cit in",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "希腊与特洛伊（或砖石与裤褶）之兴衰循环；每幅画皆有双重景界；麦克卢汉《媒介即按摩》引用的经典警句“举世皆为市井庸民端坐之囚室”（cell for citters / citizens / critters to sit in）。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page12"
+          ]
+        },
+        {
+          "id": "i1-piffthebusiness",
+          "lemma": "do all a turfwoman can to piff the business on. Paff. To puff the blaziness on. Poffpoff.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿英国传统儿童歌舞游戏《推动营生》（Push the Business On），化作卖泥炭妇吹动火星（piff, paff, poff）维持生计，象征母性力量在废墟中维系文明烟火。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page12",
+            "push-business-on"
+          ]
+        },
+        {
+          "id": "i1-humptyshell",
+          "lemma": "Humpty shell fall frumpty times... iggs for the brekkers come to mourn-him, sunny side up with care",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "鹅妈妈童谣矮胖子（Humpty Dumpty / 芬尼根 / HCE）跌落七十个狼狈残局（创世记该隐该罚七倍，拉麦七十七倍）；守灵夜为吊唁者端上早餐单面煎蛋（eggs sunny side up），寓意死后化食与复活生机。",
+          "source_ids": [
+            "joyce-fp",
+            "fw-page12"
+          ]
+        }
+      ],
+      "alternatives": []
+    }
+  ]
+}

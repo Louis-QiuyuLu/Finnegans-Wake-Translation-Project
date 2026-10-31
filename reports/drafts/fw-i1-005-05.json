@@ -1,0 +1,63 @@
+{
+  "id": "fw-i1-005-05",
+  "locator": "005.05–005.08",
+  "range": [
+    5,
+    5,
+    5,
+    8
+  ],
+  "source_id": "joyce-fp",
+  "original": "Of the first was he to bare arms and a name: Wassaily Booslaeugh of Riesengeborg. His crest of huroldry, in vert with ancillars, troublant, argent, a hegoak, poursuivant, horrid, horned. His scutschum fessed, with archers strung, helio, of the second.",
+  "draft": "他乃首开先河、赤膊佩徽并受赐名号之人：巨山山民瓦西里·烈饮大侠。其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀。其盾徽中贯横带，引弓待发，映出金阳第二色相。",
+  "translation": "他乃首开先河、赤膊佩徽并受赐名号之人：巨山山民瓦西里·烈饮大侠。其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀。其盾徽中贯横带，引弓待发，映出金阳第二色相。",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-barearms",
+      "lemma": "bare arms and a name",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "戏仿莎士比亚《哈姆雷特》第五幕第一场掘墓人之语：掘墓人称唯有园丁、开沟人与造墓者继承亚当行业，亚当乃首位“佩带纹章”（bore arms）之贵人（双关赤膊掘土）。乔伊斯将 bore 改为 bare（赤膊裸臂），赋予开天辟地第一人以平民劳作与贵族纹章双重讽刺。正文译作“首开先河、赤膊佩徽并受赐名号之人”。",
+      "source_ids": [
+        "shakespeare-hamlet",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-wassaily",
+      "lemma": "Wassaily Booslaeugh of Riesengeborg",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "原型为俄罗斯诺夫哥罗德史诗歌谣（byliny）中叛逆豪饮的平民勇士瓦西里·布斯拉耶夫（Vasily Buslayev）；乔伊斯将其拼写变形为 Wassaily（融祝酒 wassail 与封臣 vassal）和 Booslaeugh（融狂饮 booze 与爱尔兰语勇士 laoch）；Riesengeborg 取德语巨山山脉（Riesengebirge，波兰捷克边境传说中巨人栖息地）与巨人生育（Riese + geboren）。正文译作“巨山山民瓦西里·烈饮大侠”。",
+      "source_ids": [
+        "bylina-buslaev",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-crestvert",
+      "lemma": "crest of huroldry, in vert with ancillars, troublant, argent, a hegoak, poursuivant, horrid, horned",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "严格依照欧洲中世纪纹章学格式戏仿：crest of huroldry 为战盔纹徽（heraldry 嵌妓女 whore 与欢呼 hurrah）；vert 为纹章术语绿色（爱尔兰绿）；ancillars 为侍从从属纹章；troublant argent 为泛出令人不安之银白色；hegoak 融公山羊（he-goat）与橡树（oak）；poursuivant 为纹章从官及作追袭状；horrid horned 为狰狞生角。正文译为“其纹章顶徽，绿底嵌缀侍从辅标，泛出银白惊澜，一株张角公橡作追袭状，狞恶突兀”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-scutschum",
+      "lemma": "scutschum fessed, with archers strung, helio, of the second",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "scutschum 融纹章盾徽（escutcheon）、拉丁盾牌（scutum）与阴囊（scrotum）；fessed 为纹章正中横贯横带条（fess，兼戏谑臀部 fesses）；archers strung 为张弓搭箭之弓箭手；helio of the second 承接纹章次色（of the second，指盾徽上提及的第二种颜色），嵌希腊日神日光（helios）与氦气（helium）。正文译作“其盾徽中贯横带，引弓待发，映出金阳第二色相”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    }
+  ],
+  "alternatives": []
+}

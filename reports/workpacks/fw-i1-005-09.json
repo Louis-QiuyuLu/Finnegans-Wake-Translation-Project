@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-005-09",
+  "locator": "005.09–005.12",
+  "range": [
+    5,
+    9,
+    5,
+    12
+  ],
+  "source_id": "joyce-fp",
+  "original": "Hootch is for husbandman handling his hoe. Hohohoho, Mister Finn, you're going to be Mister Finnagain! Comeday morm and, O, you're vine! Sendday's eve and, ah you're vinegar! Hahahaha, Mister Funn, you're going to be fined again!",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "31a03bb4ef7f0d88cb73887e840f99b46c90d53cdee4520407ff506429b79a85"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "ab850363735e332601b2604186a27e510d92d28092d1f7d7833ac16cc2736302"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核对005.09至005.12文字、感叹标点及大写。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+      "edition": "通行原排第5页转录",
+      "result": "核对005.09至005.12行次，下一段从 What then agentlike 起。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "Hootch is for husbandman handling his hoe",
+      "question": "字母启蒙歌谣戏仿与农夫耕作/性象征双关。",
+      "impact": "sound与wordplay注释"
+    },
+    {
+      "lemma": "Mister Finn, you're going to be Mister Finnagain!",
+      "question": "全书书名核心双关（Finn / Finn again / Finnegan），死而复生回环。",
+      "impact": "structure与wordplay注释"
+    },
+    {
+      "lemma": "vine / vinegar",
+      "question": "葡萄酒（生命甘醇/圣餐）化作酸醋（苦难受难/宿醉酸涩）之宗教与生理双关。",
+      "impact": "allusion与wordplay注释"
+    },
+    {
+      "lemma": "Mister Funn, you're going to be fined again!",
+      "question": "Fun（趣乐）与 Finn 变体，fined again（重罚）与 Finn again（重现）之法律与狂欢双关。",
+      "impact": "wordplay注释"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Finnagain",
+      "translation": "重来芬先生",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "承接全书书名核心双关。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及启蒙识字歌童谣变体、书名原初构词、葡萄酒至苦醋圣经互文及宿醉罚金制度。"
+  },
+  "previous_segment_id": "fw-i1-005-05",
+  "next": [
+    5,
+    13
+  ],
+  "next_original": "What then agentlike brought about that tragoady thundersday this municipal sin business?",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page5",
+    "ballad-finnegan",
+    "jjda-i1"
+  ],
+  "research_limitations": "爱尔兰警察法庭罚金历史案例未核原始卷宗；中日研究原页保留查阅空白。"
+}

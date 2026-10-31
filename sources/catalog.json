@@ -6,7 +6,7 @@
     "type": "primary",
     "accessed": "2026-10-31",
     "edition": "Viking Press，1958 年第八印本，纳入作者勘误；1939 年首刊。",
-    "use": "第 3 页 003.01–003.24 与末尾 628.15–628.16 的文字见证；保留通行页行。只录入已试译范围，未镜像整部电子书。"
+    "use": "第3页003.01–003.24、第4页004.01–004.17与末尾628.15–628.16文字见证；页行另核原排转录。只录入试译范围，未镜像整部电子书。"
   },
   {
     "id": "fp-catalog",
@@ -182,7 +182,7 @@
     "url": "https://www.biblegateway.com/passage/?search=Genesis%2027&version=KJV",
     "type": "primary",
     "accessed": "2026-10-31",
-    "use": "核对以撒年老失明、雅各取山羊羔及羊皮、献肉冒名与祝福转移；重点 1、9、16、19、35–36 节。不引用现成中文译文。"
+    "use": "核以撒、雅各、以扫与羊皮冒名及22–23节声音、毛皮辨认；不引用现成中译。"
   },
   {
     "id": "bible-gen9",
@@ -383,5 +383,430 @@
     "type": "publisher",
     "accessed": "2026-10-31",
     "use": "核对完结册1993年10月20日出版与柳濑尚纪署名；不沿用1991年已全译完成的说法。"
+  },
+  {
+    "id": "fw-page4",
+    "title": "FinnegansWiki：Page 4",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_4",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第4页自然段界、原排页行和词形；不是纸本扫描件。"
+  },
+  {
+    "id": "fw-oystrygods",
+    "title": "FinnegansWiki：Oystrygods",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Oystrygods",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "牡蛎／鱼神与东、西哥特声影线索；历史指认未独立查证。"
+  },
+  {
+    "id": "fw-baddelaries",
+    "title": "FinnegansWiki：Baddelaries",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Baddelaries",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "兵器名与诗人名等叠音线索；未核所引法文书原页。"
+  },
+  {
+    "id": "fw-malachus",
+    "title": "FinnegansWiki：Malachus Micgranes",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Malachus_Micgranes",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "刀剑、人名、偏头痛等释义线索；不确认唯一人物。"
+  },
+  {
+    "id": "fw-verdons",
+    "title": "FinnegansWiki：Verdons",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Verdons",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Verdun兵器、地名、家族名线索；不照录页面史述为事实。"
+  },
+  {
+    "id": "fw-whoyteboyce",
+    "title": "FinnegansWiki：Whoyteboyce",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Whoyteboyce",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "white boys、Whiteboys并读线索；组织史与所列市长未另核。"
+  },
+  {
+    "id": "fw-sodbrood",
+    "title": "FinnegansWiki：Sod’s brood",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sod%27s",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "泥土子孙与誓语变声线索。"
+  },
+  {
+    "id": "fw-bemefear",
+    "title": "FinnegansWiki：Be me fear",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Be_me_fear",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "fear／man等读路；爱尔兰语词义未用词典独立核验。"
+  },
+  {
+    "id": "fw-sanglorians",
+    "title": "FinnegansWiki：Sanglorians",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sanglorians",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "血、荣耀、圣者呼号线索；具体人物与历史体系未核。"
+  },
+  {
+    "id": "fw-chancecuddleys",
+    "title": "FinnegansWiki：Chance cuddleys",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Chance_cuddleys",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "chance-medley、cuddle／cudgel读法线索；法律词义未查历史词典。"
+  },
+  {
+    "id": "fw-cashels",
+    "title": "FinnegansWiki：Cashels aired and ventilated",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Cashels_aired_and_ventilated",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "城堡、现金、通风与炮火线索；未核多语词源。"
+  },
+  {
+    "id": "fw-bidimetoloves",
+    "title": "FinnegansWiki：Bidimetoloves",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Bidimetoloves",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Herrick诗句和教派对照线索；原诗另查RPO。"
+  },
+  {
+    "id": "fw-tegotetabsolvers",
+    "title": "FinnegansWiki：Tegotetabsolvers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Tegotetabsolvers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "告解赦罪公式的变形读法；公式另查梵蒂冈教理1449。"
+  },
+  {
+    "id": "fw-hayair",
+    "title": "FinnegansWiki：Their’s hayair",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Their%27s_hayair",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "hair、hay、heir及《创世记》触毛辨人线索；歌曲与操练史未核。"
+  },
+  {
+    "id": "fw-jiccup",
+    "title": "FinnegansWiki：Strawng voice of false jiccup",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Strawng_voice_of_false_jiccup",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "straw／strong、Jacob／hiccup线索；对照《创世记》27:22–23。"
+  },
+  {
+    "id": "fw-fanespanned",
+    "title": "FinnegansWiki：Fanespanned",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Fanespanned",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "fane／span等词形与句法线索；所提传抄讹误未核，不据此改底本。"
+  },
+  {
+    "id": "fw-softad",
+    "title": "FinnegansWiki：Soft advertisement",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Soft_advertisement",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "广告与求爱叠读线索；未核拉丁词源。"
+  },
+  {
+    "id": "fw-sewers",
+    "title": "FinnegansWiki：Ere were sewers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Ere_were_sewers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "sewers与sure／sœurs声音线索；未核草稿原页。"
+  },
+  {
+    "id": "fw-trees",
+    "title": "FinnegansWiki：Elms leap where askes lay",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Elms_leap_where_askes_lay",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "askes／ashes、elm／ash与新生线索；古诺斯神话、Ogham词源及手稿原页未核。"
+  },
+  {
+    "id": "fw-phoenish",
+    "title": "FinnegansWiki：Phoenish",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Phoenish",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "finish、phoenix、公园及腓尼基声形线索；不采用页面缺乏史据的撒盐叙述。"
+  },
+  {
+    "id": "aristophanes-frogs-johnston",
+    "title": "Aristophanes, Frogs：Ian Johnston英译",
+    "url": "https://web.viu.ca/johnstoi/aristophanes/frogs.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "查渡船与蛙群登场，网站括号希腊文行号约209–220；这是现代英译，未直接读希腊原文，不复制译诗。"
+  },
+  {
+    "id": "lsj-koax",
+    "title": "LSJ：κοάξ，Perseus Scaife ATLAS",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n58254a/",
+    "type": "dictionary",
+    "accessed": "2026-10-31",
+    "use": "核蛙鸣拟声及Frogs209引例；据在线词条，未核纸本。"
+  },
+  {
+    "id": "herrick-anthea",
+    "title": "Robert Herrick, To Anthea, who may Command him Anything：RPO",
+    "url": "https://rpo.library.utoronto.ca/content/anthea-who-may-command-him-anything",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "查1–4行live／Protestant／love及求爱宣誓义附注；RPO标1648年Hesperides底本。"
+  },
+  {
+    "id": "catechism-1449",
+    "title": "梵蒂冈：《天主教教理》拉丁文1449",
+    "url": "https://www.vatican.va/archive/catechism_lt/p2s2c2a4_lt.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核ego te absolvo公式及意义；现行教理不能单独证明Joyce取材路径。"
+  },
+  {
+    "id": "fw-page5",
+    "title": "FinnegansWiki：Page 5",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第5页自然段界、原排页行与词形；社区释义与原著分开记录。"
+  },
+  {
+    "id": "fw-page6",
+    "title": "FinnegansWiki：Page 6",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_6",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第6页芬尼根跌落断命、都柏林现代城防魔障与守灵哭灵歌段。"
+  },
+  {
+    "id": "fw-page7",
+    "title": "FinnegansWiki：Page 7",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第7页巨人巨躯化入都柏林地景、暴食谢饭祷与食尸圣餐。"
+  },
+  {
+    "id": "fw-page8",
+    "title": "FinnegansWiki：Page 8",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第8页威灵顿纪念碑巨冢、滑铁卢地景、二窥视村姑与国家博物馆全景俯瞰。"
+  },
+  {
+    "id": "moret-egypt",
+    "title": "Alexandre Moret: Rois et Dieux d'Égypte (1911)",
+    "url": "https://archive.org/details/roisetdieuxd00more",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "候选图像线索。原交稿声称已核第88页；本轮未能核原书该页，不能当作已查阅图版的证据。"
+  },
+  {
+    "id": "ibsen-solness",
+    "title": "Henrik Ibsen：Bygmester Solness（建筑大师）",
+    "url": "https://www.gutenberg.org/ebooks/4070",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "Project Gutenberg 4070：Archer／Gosse 英译本及题录；本轮不声称查阅挪威语原文。"
+  },
+  {
+    "id": "ballad-finnegan",
+    "title": "Traditional Ballad：Finnegan’s Wake",
+    "url": "https://www.traditionalmusic.co.uk/irish-songs/finnegans-wake.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核泥水匠蒂姆·芬尼根饮酒、摔下梯子与威士忌复活民谣原词。"
+  },
+  {
+    "id": "bible-ot",
+    "title": "Old Testament：Joshua, Judges, Numbers, Leviticus, Deuteronomy",
+    "url": "https://www.biblegateway.com/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核约书亚记、士师记、民数记、利未记、申命记之旧约书卷编排。"
+  },
+  {
+    "id": "erigena",
+    "title": "Johannes Scotus Eriugena：De Divisione Naturae",
+    "url": "https://plato.stanford.edu/entries/scottus-eriugena/",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "核爱尔兰哲学家爱留根纳（Eriugena）自无化生（erigenating from next to nothing）思想线索。"
+  },
+  {
+    "id": "shakespeare-hamlet",
+    "title": "Shakespeare, Hamlet: Act V, Scene 1",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核掘墓人论亚当为首位佩带纹章／赤膊掘土贵人之台词（A was the first that ever bore arms）。"
+  },
+  {
+    "id": "bylina-buslaev",
+    "title": "Wikipedia：Vasily Buslayev（百科条目）",
+    "url": "https://en.wikipedia.org/wiki/Vasily_Buslayev",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "百科检索线索，未核古俄语诺夫哥罗德史诗原文，不能据此声称查阅史诗见证本。"
+  },
+  {
+    "id": "quran-arafat",
+    "title": "The Holy Quran & Islamic Traditions: Kaaba, Mount Arafat, Black Stone, Ansars",
+    "url": "https://quran.com/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "原交稿所列检索入口；首页不支持本段整串伊斯兰典故。具体已核经句另列，余项保留查阅空白。"
+  },
+  {
+    "id": "fw-page9",
+    "title": "FinnegansWiki：Page 9",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第9页滑铁卢展厅、贝尔彻勋爵披风、薄红战线、枫丹白露战术、阿金库尔挑衅及布吕歇尔十二哩马靴与健力士黑啤互文。"
+  },
+  {
+    "id": "fw-page10",
+    "title": "FinnegansWiki：Page 10",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第10页骆驼骑兵与索尔费里诺战役、双女林中惊逃、石墙威灵顿与杜利先生对话、印度西帕依雇佣兵击飞拿破仑帽及哥本哈根结局出馆叮嘱。"
+  },
+  {
+    "id": "waterloo-campaign",
+    "title": "Historical Records: Battle of Waterloo (1815) & Wellington Monuments",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核滑铁卢战役威灵顿公爵（Wellington）、拿破仑（Napoleon）、布吕歇尔（Blücher）、战马哥本哈根（Copenhagen）及都柏林威灵顿方尖碑史实对照。"
+  },
+  {
+    "id": "harriette-wilson",
+    "title": "Harriette Wilson: Memoirs (1825)",
+    "url": "https://archive.org/details/memoirsofharriet01wils",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核威灵顿公爵致名妓哈丽雅特·威尔逊敲诈信之名言'Publish and be damned!'（戏仿作 Figtreeyou! Damn fairy ann, Voutre）历史出处。"
+  },
+  {
+    "id": "dooley-hennessy",
+    "title": "Finley Peter Dunne: Mr. Dooley in Peace and in War (1898)",
+    "url": "https://www.gutenberg.org/ebooks/22537",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核 Dunne 原著的 Dooley 与 Hennessy 人物；原交稿误链10803，该链接实际是 Kerr 航海史，已撤回。此书不能单独证明 Joyce 每处互文。",
+    "edition": "首刊1898年；所据Gutenberg转录见证本扉页1899年。仅核序言末部与ON STRATEGY开头两人关系。"
+  },
+  {
+    "id": "fw-page11",
+    "title": "FinnegansWiki：Page 11",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第11页三鸦报信、战后残骸清扫妇安娜·利维娅拾荒囊袋（nabsack）、停战夜与夏娃盗取历史原罪典故。"
+  },
+  {
+    "id": "fw-page12",
+    "title": "FinnegansWiki：Page 12",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第12页负债度日（midst of debt）、文明牢笼（cell for citters）、卖泥炭妇吹旺营生（piff the business on）及矮胖子早餐煎蛋（eggs sunny side up）。"
+  },
+  {
+    "id": "piltdown-hoax",
+    "title": "The Piltdown Man Discovery and Hoax (1912)",
+    "url": "https://en.wikipedia.org/wiki/Piltdown_Man",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核英国萨塞克斯郡“皮尔当人”（Piltdown Man）史前人类化石伪造公案在'piltdowns'一词中的互文讽拟。"
+  },
+  {
+    "id": "push-business-on",
+    "title": "Traditional Singing Game: Push the Business On",
+    "url": "https://en.wikipedia.org/wiki/Push_the_Business_On",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核传统民间童谣歌舞游戏'Push the Business On'（戏作'to piff the business on'）出处与节律。"
+  },
+  {
+    "id": "rothschild-pigeon",
+    "title": "Historical Legend: Waterloo Carrier Pigeon and Nathan Rothschild",
+    "url": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核滑铁卢战役内森·罗斯柴尔德以信鸽传信抢先获知战报发迹之传说（wrothschields / pigeons pair are flewn）。"
+  },
+  {
+    "id": "fw-page13",
+    "title": "FinnegansWiki：Page 13",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第13页视听仪（optophone）、惠斯通魔琴、都柏林呼号、四大师编年史（Mammon Lujius）与四省物象。"
+  },
+  {
+    "id": "optophone",
+    "title": "Edmund Fournier d'Albe: The Optophone (1913)",
+    "url": "https://en.wikipedia.org/wiki/Optophone",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核物理学家阿尔伯发明之光声视听仪（Optophone），将印刷文本光影转换为声音之助盲发明在'optophone which ontophanes'中的声形互文。"
+  },
+  {
+    "id": "wheatstone-lyre",
+    "title": "Sir Charles Wheatstone: Acoustic and Musical Inventions",
+    "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核英国科学家惠斯通（Charles Wheatstone）发明之六角手风琴（concertina）与魔琴（magic lyre）声学实验。"
+  },
+  {
+    "id": "four-masters",
+    "title": "Annals of the Kingdom of Ireland (Annála Ríoghachta Éireann / Four Masters)",
+    "url": "https://en.wikipedia.org/wiki/Annals_of_the_Four_Masters",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核爱尔兰四大师编年史（Four Masters）与历史学家马莫·卢吉乌斯（Mammon Lujius）四省四象结构对照。"
+  },
+  {
+    "id": "piepowder-court",
+    "title": "Court of Piepowders (Curia Pedis Pulverisati)",
+    "url": "https://en.wikipedia.org/wiki/Court_of_Piepowders",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核中世纪英格兰集市为流动摊贩特设之灰脚简易法庭（Pieds Poudrés / Pied de Poudre）及都柏林火药库地名双关。"
+  },
+  {
+    "id": "quran-tur-48-49",
+    "title": "《古兰经》52:48–49",
+    "url": "https://quran.com/52/48-49",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核起立、夜间及星退时颂赞的经句；不以此证明Joyce的实际取材路径。"
+  },
+  {
+    "id": "tirmidhi-877",
+    "title": "Jami at-Tirmidhi 877：玄石传述",
+    "url": "https://sunnah.com/tirmidhi:877",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核玄石来自天园、原白而因人的罪变黑的传述；不混称古兰经经句。"
   }
 ]

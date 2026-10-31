@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-005-13",
+  "locator": "005.13–005.26",
+  "range": [
+    5,
+    13,
+    5,
+    26
+  ],
+  "source_id": "joyce-fp",
+  "original": "What then agentlike brought about that tragoady thundersday this municipal sin business? Our cubehouse still rocks as earwitness to the thunder of his arafatas but we hear also through successive ages that shebby choruysh of unkalified muzzlenimiissilehims that would blackguardise the whitestone ever hurtleturtled out of heaven. Stay us wherefore in our search for tighteousness, O Sustainer, what time we rise and when we take up to toothmick and before we lump down upown our leatherbed and in the night and at the fading of the stars! For a nod to the nabir is better than wink to the wabsanti. Otherways wesways like that provost scoffing bedoueen the jebel and the jpysian sea. Cropherb the crunchbracken shall decide. Then we'll know if the feast is a flyday. She has a gift of seek on site and she allcasually ansars helpers, the dreamydeary. Heed! Heed!",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "0c83e448d4f6e78569bde2c504f51c1191378f37dd35c819156532d26ab17837"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b31001cdcc630cedd1182f38ce9c7eed03afa64ac62455b7d4b2e4b2af870c74"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核对005.13至005.26文字、标点及分段。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+      "edition": "通行原排第5页转录",
+      "result": "核对005.13至005.26行次，下段始于 005.27 'It may half been a missfired brick'。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "agentlike / tragoady / thundersday / municipal sin business",
+      "question": "暗中唆使之代理人、希腊山羊悲剧词源、北欧托尔雷神日与都柏林市政公园罪案之复合罪愆。",
+      "impact": "wordplay与allusion注释"
+    },
+    {
+      "lemma": "cubehouse / arafatas / muzzlenimiissilehims / whitestone hurtleturtled",
+      "question": "伊斯兰麦加克尔白（天房）、阿拉法特山神雷、穆斯林与自天坠落洁白玄石因罪变黑之典故。",
+      "impact": "allusion与religion注释"
+    },
+    {
+      "lemma": "Stay us... toothmick... leatherbed... fading of the stars",
+      "question": "古兰经山岳章与晨星隐没颂祷、伊斯兰洁齿木（miswak）及持守严律之日夕祈祷公式戏仿。",
+      "impact": "allusion与quotation注释"
+    },
+    {
+      "lemma": "nabir / wabsanti / provost scoffing bedoueen the jebel and the jpysian sea",
+      "question": "英谚心领神会、邻人与瓦哈比教派苦修者、三一学院监督、贝都因游民及红海/埃及海地理互文。",
+      "impact": "allusion与proverb注释"
+    },
+    {
+      "lemma": "Cropherb the crunchbracken / feast is a flyday / ansars helpers, the dreamydeary",
+      "question": "草食巨兽、星期五主麻日与腐蝇之日、麦地那辅士（Ansars）及女主角ALP安抚救助之母性护持。",
+      "impact": "allusion与structure注释"
+    }
+  ],
+  "terms": [
+    {
+      "term": "cubehouse",
+      "translation": "六面方屋（克尔白）",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp",
+        "quran-arafat"
+      ],
+      "note": "克尔白阿拉伯语原义为立方体房屋。"
+    },
+    {
+      "term": "ansars",
+      "translation": "辅士",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp",
+        "quran-arafat"
+      ],
+      "note": "麦地那辅士（Ansars），早期伊斯兰相随助手。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及古兰经山岳章祈祷公式、麦加天房玄石神话、伊斯兰教规洁齿与主麻日、瓦哈比派与贝都因游民及女主角母性职能。"
+  },
+  "previous_segment_id": "fw-i1-005-09",
+  "next": [
+    5,
+    27
+  ],
+  "next_original": "It may half been a missfired brick, as some say, or it mought have been due to a collupsus of his back promises, as others looked at it.",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page5",
+    "quran-arafat",
+    "jjda-i1"
+  ],
+  "research_limitations": "伊斯兰法学细微仪轨保留学术核查标记；中日研究原页保留查阅空白。"
+}

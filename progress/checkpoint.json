@@ -1,16 +1,16 @@
 {
   "chapter": "I.1",
   "next": [
-    4,
-    1
+    8,
+    5
   ],
-  "next_original": "What clashes here of wills gen wonts, oystrygods gaggin fishygods!",
-  "updated": "2026-10-31",
+  "next_original": "Penetrators are permitted into the museomound free.",
+  "updated": "2026-11-01",
   "notes": [
-    "第 3 页 003.01–003.24 已按 Faded Page 与 FinnegansWiki 页行顺序录入并初译；第一章仍为 partial，尚无人工审校记录。",
-    "1926-11-15 致 Weaver 信只查 FinnegansWiki 转录，未核 Letters I 247–248 纸本或信件原件；信中历史与地理自释另待史料核实。",
-    "gorgios 的非罗姆人义、混合词词源、橙绿政治象征与身体地景对应仍待词典、地图和原始资料复核。",
-    "雷鸣词在中文保留百字母原拼；未逐语核验拆词。乞数、雨虹眉、老帕爹、锈眠等暂造词仍待朗读与人工审校。",
-    "开篇与篇末接缝未改；篇末样稿只作回环对读，不计入顺序完成进度。尚未查阅已有中文译本原页，不凭记忆引用。"
+    "顺序合入003.01–008.04。005.26与006.30各有同一行拆段，已分别合并为005.13–006.12与006.13–007.15；保留最初draft及原始交稿快照。",
+    "007.16–008.04按见证本改第二个Bronto为Brunto；该段旧音频暂缓。",
+    "008.05起的博物馆工作稿含整句增删，暂存reports/quarantine/fw-i1-008-06.json；010.24起的后续工作稿亦暂存，不越过缺口推进断点。",
+    "AI复核修正provost主体遗漏、银白误作金色、baronoath无据定址、Moret图版署名与伪HCE藏头。其他多语声义和部分注释仍待专门核证，未作人工审校。",
+    "详见reports/reviews/gemini-I-1-004-012-integration.r0.md与整合处置。首尾对读样稿未改，不计入连续完成范围。"
   ]
 }

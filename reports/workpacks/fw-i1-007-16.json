@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-007-16",
+  "locator": "007.16–008.05",
+  "range": [
+    7,
+    16,
+    8,
+    5
+  ],
+  "source_id": "joyce-fp",
+  "original": "Almost rubicund Salmosalar, ancient fromout the ages of the Agapemonides, he is smolten in our mist, woebecanned and packt away. So that meal's dead off for summan, schlook, schlice and goodridhirring. Yet may we not see still the brontoichthyan form outlined aslumbered, even in our own nighttime by the sedge of the troutling stream that Bronto loved and Bronto has a lean on. Hic cubat edilis. Apud libertinam parvulam. Whatif she be in flags or flitters, reekierags or sundyechosies, with a mint of mines or beggar a pinnyweight. Arrah, sure, we all love little Anny Ruiny, or, we mean to say, lovelittle Anna Rayiny, when unda her brella, mid piddle med puddle, she ninnygoes nannygoes nancing by. Yoh! Brontolone slaaps, yoh snoores. Upon Benn Heather, in Seeple Isout too. The cranic head on him, caster of his reasons, peer yuthner in yondmist. Whooth? His clay feet, swarded in verdigrass, stick up starck where he last fellonem, by the mund of the magazine wall, where our maggy seen all, with her sisterin shawl. While over against this belles' alliance beyind Ill Sixty, ollollowed ill! bagsides of the fort, bom, tarabom, tarabom, lurk the ombushes, the site of the lyffing-in-wait of the upjock and hockums. Hence when the clouds roll by, jamey, a proudseye view is enjoyable of our mounding's mass, now Wallinstone national museum, with, in some greenish distance, the charmful waterloose country and the two quitewhite villagettes who hear show of themselves so gigglesomes minxt the follyages, the prettilees!",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "8b00324c9339655714853f7718611addab6c44ed4794e2af0abfdf9483267958"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "0ea5be8307aae1818f84f115c5a3ffe96b8002ab6d9b911abc5a39352a6c09b1"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核对007.16至008.05文字、标点、段落连贯与行次。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+      "edition": "通行原排第7页转录",
+      "result": "核对007.16至007.36行次，确认巨雷鱼形、拉丁铭文缩写、霍斯角与军火库地景。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+      "edition": "通行原排第8页转录",
+      "result": "核对008.01至008.05行次，008.06换段始于'Penetrators are permitted into the museomound free'。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "Salmosalar, ancient fromout the ages of the Agapemonides, he is smolten in our mist, woebecanned and packt away",
+      "question": "鲑鱼翁（大西洋鲑 Salmo salar）、萨尔玛那萨尔亚述王、19世纪'爱之巢'教派以及鲑鱼罐头封装与尸身装殓双重意象。",
+      "impact": "allusion与biology注释"
+    },
+    {
+      "lemma": "brontoichthyan form outlined aslumbered... troutling stream that Bronto loved and Bronto has a lean on",
+      "question": "雷鸣鱼形巨兽、维柯雷鸣哲学、雷龙与利菲河（游鳟溪）地貌依傍重叠。",
+      "impact": "philosophy与geography注释"
+    },
+    {
+      "lemma": "Hic cubat edilis. Apud libertinam parvulam",
+      "question": "罗马市政官与获释婢拉丁仿碑铭，以及全书男女主角首字母藏头（H.C.E. 与 A.L.P.）。",
+      "impact": "acronym与structure注释"
+    },
+    {
+      "lemma": "Anny Ruiny / Anna Rayiny... ninnygoes nannygoes nancing by",
+      "question": "安娜·利维亚·普卢拉贝尔（ALP）河水拟人化、雨水毁坏（ruin）与歌谣《安妮·鲁尼》戏仿。",
+      "impact": "song与character注释"
+    },
+    {
+      "lemma": "Upon Benn Heather, in Seeple Isout too... Whooth? His clay feet, swarded in verdigrass... magazine wall",
+      "question": "都柏林东北霍斯角（Binn Éadair）至西南伊索尔德教堂村（Chapelizod）巨人横卧格局，尼布甲尼撒异梦泥足、菲尼克斯公园军火库矮墙窥视事件。",
+      "impact": "geography与biblical注释"
+    },
+    {
+      "lemma": "belles' alliance beyind Ill Sixty... Wallinstone national museum... two quitewhite villagettes",
+      "question": "滑铁卢战役'美丽同盟'农庄、六十号高地惨案、威灵顿公爵纪念碑化身博物馆与两位窥视村姑。",
+      "impact": "history与allusion注释"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Salmosalar",
+      "translation": "鲑鱼翁",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "Salmo salar（大西洋鲑）与古王 Shalmaneser 复合。"
+    },
+    {
+      "term": "brontoichthyan",
+      "translation": "巨雷鱼形",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "希腊语 brontē（雷）与 ichthys（鱼）复合。"
+    },
+    {
+      "term": "Wallinstone",
+      "translation": "威灵顿冢碑",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "Wellington 与 wall/stone 复合。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及大西洋鲑生物学与亚述王典故、HCE/ALP拉丁藏头铭文、都柏林全境首尾对角线地貌学、军火库窥视事件原型及滑铁卢战役同盟农庄与威灵顿纪念碑重叠。"
+  },
+  "previous_segment_id": "fw-i1-006-32",
+  "next": [
+    8,
+    6
+  ],
+  "next_original": "Penetrators are permitted into the museomound free.",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page7",
+    "fw-page8",
+    "ballad-finnegan",
+    "bible-ot",
+    "jjda-i1"
+  ],
+  "research_limitations": "爱之巢教派原始宣传册未核大英图书馆藏本；中日研究原页保留查阅空白。"
+}

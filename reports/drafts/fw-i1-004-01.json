@@ -1,0 +1,209 @@
+{
+  "id": "fw-i1-004-01",
+  "locator": "004.01–004.17",
+  "range": [
+    4,
+    1,
+    4,
+    17
+  ],
+  "source_id": "joyce-fp",
+  "original": "What clashes here of wills gen wonts, oystrygods gaggin fishygods! Brékkek Kékkek Kékkek Kékkek! Kóax Kóax Kóax! Ualu Ualu Ualu! Quaouauh! Where the Baddelaries partisans are still out to mathmaster Malachus Micgranes and the Verdons catapelting the camibalistics out of the Whoyteboyce of Hoodie Head. Assiegates and boomeringstroms. Sod's brood, be me fear! Sanglorians, save! Arms apeal with larms, appalling. Killykillkilly: a toll, a toll. What chance cuddleys, what cashels aired and ventilated! What bidimetoloves sinduced by what tegotetabsolvers! What true feeling for their's hayair with what strawng voice of false jiccup! O here here how hoth sprowled met the duskt the father of fornicationists but, (O my shining stars and body!) how hath fanespanned most high heaven the skysign of soft advertisement! But was iz? Iseut? Ere were sewers? The oaks of ald now they lie in peat yet elms leap where askes lay. Phall if you but will, rise you must: and none so soon either shall the pharce for the nunce come to a setdown secular phoenish.",
+  "draft": "何等意愿逆抗常行，牡蛎神扼制游鱼神！布雷凯克、凯凯克、凯凯克、凯凯克！科阿克斯、科阿克斯、科阿克斯！呜阿鲁、呜阿鲁、呜阿鲁！夸喔哇！此间弯刀党仍要算伏玛拉基·小偏头，凡尔登氏投石猛轰，誓把兜帽角白衣童的吃人弹道打将出来。短标枪与回旋镖风暴。泥坯孽种，吓煞我也！荣光圣血，快救！兵刃警钟齐鸣，骇人心魄。杀林连环杀：丧钟响，买路钱。何等机缘搂抱，何等岩堡通堂穿风！何等“命我相爱”，蒙何等“我赦免你”的赦罪者罪诱！何等真情抚摸草毛长子，伴随何等假雅各打嗝的苍莽嗓音！且听且看霍斯如何扑跌尘暮，沦为奸淫者之父，然而，（哎呀我那朗星与肉身！）软性广告的天标又如何像神殿风翼横跨极高天际！但那是谁？伊索尔德？下水道修通之前？古栎如今伏于泥炭，榆木却从伏灰之处跃出。任你阳落，势必再起：而此刻这出闹剧，绝无可能过早沉落为百世涅槃的终场。",
+  "translation": "何等意愿逆抗常行，牡蛎神扼制游鱼神！布雷凯克、凯凯克、凯凯克、凯凯克！科阿克斯、科阿克斯、科阿克斯！呜阿鲁、呜阿鲁、呜阿鲁！夸喔哇！此间弯刀党仍要算伏玛拉基·小偏头，凡尔登氏投石猛轰，誓把兜帽角白衣童的吃人弹道打将出来。短标枪与回旋镖风暴。泥坯孽种，吓煞我也！荣光圣血，快救！兵刃警钟齐鸣，骇人心魄。杀林连环杀：丧钟响，买路钱。何等机缘搂抱，何等岩堡通堂穿风！何等“命我相爱”，蒙何等“我赦免你”的赦罪者罪诱！何等真情抚摸草毛长子，伴随何等假雅各打嗝的苍莽嗓音！且听且看霍斯如何扑跌尘暮，沦为奸淫者之父，然而，（哎呀我那朗星与肉身！）软性广告的天标又如何像神殿风翼横跨极高天际！但那是谁？伊索尔德？下水道修通之前？古栎如今伏于泥炭，榆木却从伏灰之处跃出。任你阳落，势必再起：而此刻这出闹剧，绝无可能过早沉落为百世涅槃的终场。",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-wills",
+      "lemma": "wills gen wonts",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "wills 与 wonts 连缀，兼指意愿与习性；gen 承德语 gegen 与古英语 gegn（对抗）。正文译为“意愿逆抗常行”，保留动作对立。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-oystrygods"
+      ]
+    },
+    {
+      "id": "i1-oystrygods",
+      "lemma": "oystrygods gaggin fishygods",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Ostrogoths（东哥特人）与 Visigoths（西哥特人）化为牡蛎与游鱼之神；gaggin 兼指窒息、作呕与封口。正文译作“牡蛎神扼制游鱼神”，保留历史争战与水产意象。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-oystrygods"
+      ]
+    },
+    {
+      "id": "i1-brekkek",
+      "lemma": "Brékkek Kékkek ... Kóax Kóax ...",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "重音与音节对照阿里斯托芬《蛙》中狄奥尼索斯渡冥河时的蛙群合唱（Brekekekex koax koax）。随后的 Ualu 带有哀鸣（ululation）之声，Quaouauh 拟巨响雷鸣。正文拟音保留各音节差异。",
+      "source_ids": [
+        "aristophanes-frogs-johnston",
+        "lsj-koax"
+      ]
+    },
+    {
+      "id": "i1-baddelaries",
+      "lemma": "Baddelaries partisans ... Malachus Micgranes",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Baddelaries 兼指中世纪短弯刀（badelaire）、火炮与交战党徒；Malachus 令人联想到爱尔兰高王玛拉基二世（Malachi II）与旧约玛拉基书；Micgranes 兼含偏头痛（meegrims）与微粒。mathmaster 指算伏或制胜。",
+      "source_ids": [
+        "fw-baddelaries",
+        "fw-malachus"
+      ]
+    },
+    {
+      "id": "i1-verdons",
+      "lemma": "Verdons catapelting ... Whoyteboyce of Hoodie Head",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Verdons 指盎格鲁-诺曼定居家族 Verdon，兼含凡尔登（Verdun）；catapelting 拟投石机抛射；camibalistics 融食人肉（cannibalistic）与弹道（ballistics）；Whoyteboyce 指十八世纪爱尔兰抗租农民秘密结社“白衣社”（Whiteboys）；Hoodie Head 隐指霍斯角（Howth Head）及戴兜帽者。",
+      "source_ids": [
+        "fw-verdons",
+        "fw-whoyteboyce"
+      ]
+    },
+    {
+      "id": "i1-assiegates",
+      "lemma": "Assiegates and boomeringstroms",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Assiegates 拼合祖鲁投掷短矛（assegai）与大门（gates）；boomeringstroms 拼合澳洲土著回旋镖（boomerang）与旋涡湍流（maelstrom / 德语 Strom）。正文取“短标枪与回旋镖风暴”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-sodbrood",
+      "lemma": "Sod's brood, be me fear! Sanglorians, save!",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Sod's brood 谐上帝之血（God's blood）并兼泥土孽种（sod）；be me fear 谐惊煞我也（by my fear）；Sanglorians 兼圣血（Sang royal）、荣耀者与都柏林主保圣人圣劳伦斯（St. Lawrence O'Toole）。正文译为“泥坯孽种，吓煞我也！荣光圣血，快救！”",
+      "source_ids": [
+        "fw-sodbrood",
+        "fw-bemefear",
+        "fw-sanglorians"
+      ]
+    },
+    {
+      "id": "i1-armsapeal",
+      "lemma": "Arms apeal with larms, appalling",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "Arms 兼军械与双臂；apeal 兼呼吁（appeal）与鸣钟（peal）；larms 简缩警报（alarms）；appalling 呼应骇人声浪。正文以“兵刃警钟齐鸣，骇人心魄”补偿四重押韵与头韵。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-killykill",
+      "lemma": "Killykillkilly: a toll, a toll",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "kill 反复重叠，兼指爱尔兰诸多地名所冠教会或树林前缀 Cill / Killy；toll 兼指敲丧钟、代价与买路关税。正文译作“杀林连环杀：丧钟响，买路钱”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page4"
+      ]
+    },
+    {
+      "id": "i1-cashels",
+      "lemma": "What chance cuddleys, what cashels aired and ventilated!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "chance cuddleys 连读大法官（chancellor）与拥抱（cuddles），亦隐喻早期爱尔兰修道士（Culdees）；cashels 指爱尔兰芒斯特古王都卡舍尔（Cashel）磐石要塞与城堡（castles）；aired and ventilated 兼有曝光破拆与穿风透气之意。",
+      "source_ids": [
+        "fw-chancecuddleys",
+        "fw-cashels"
+      ]
+    },
+    {
+      "id": "i1-bidimetoloves",
+      "lemma": "What bidimetoloves sinduced by what tegotetabsolvers!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "bidimetoloves 取自 Robert Herrick 抒情诗《致安西娅》首句“Bid me to live, and I will live... Bid me to love, and I will give / A loving heart to thee”；sinduced 融罪孽（sin）与诱惑（seduced）；tegotetabsolvers 嵌合天主教拉丁文赦罪经文公式“Ego te absolvo”（我赦免你）与赦罪神甫（absolvers）。",
+      "source_ids": [
+        "herrick-anthea",
+        "catechism-1449",
+        "fw-bidimetoloves",
+        "fw-tegotetabsolvers"
+      ]
+    },
+    {
+      "id": "i1-hayair",
+      "lemma": "What true feeling for their's hayair with what strawng voice of false jiccup!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "承接创世记27章以撒摸索雅各手腕毛皮之典：feeling 指抚触感受；hayair 三叠毛发（hair）、继承人（heir）与干草（hay）；strawng 兼粗重（strong）与稻草（straw）；false jiccup 兼指假雅各（Jacob）之声与打嗝（hiccup）。",
+      "source_ids": [
+        "bible-gen27",
+        "fw-hayair",
+        "fw-jiccup"
+      ]
+    },
+    {
+      "id": "i1-fatherfornicationists",
+      "lemma": "how hoth sprowled met the duskt the father of fornicationists",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "here here how hoth 藏 HCE 首字母；sprowled 兼摊倒（sprawled）与散落；met the duskt 指坠入黄昏与尘土（dust/dusk）；father of fornicationists 指万恶奸淫之父，对应人类始祖亚当与巨人之坠落。",
+      "source_ids": [
+        "fw-howth",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-fanespanned",
+      "lemma": "fanespanned most high heaven the skysign of soft advertisement",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "fanespanned 融合神殿（fane）、风标（vane）、展屏（fan）与凌跨（spanned）；skysign 兼指天象彩虹（创世记神与挪亚立约之记号）与高空广告天标；soft advertisement 兼指商业软广告与天恩柔和显现。地上巨人仆倒与天上虹霓升起构成强烈的上下对照。",
+      "source_ids": [
+        "fw-fanespanned",
+        "fw-softad"
+      ]
+    },
+    {
+      "id": "i1-iseut",
+      "lemma": "But was iz? Iseut? Ere were sewers?",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "短促三问：was iz（究竟何物 / 可是此人）；Iseut（爱尔兰传奇女主角伊索尔德 Iseult）；Ere were sewers（下水道修建之前 / 抑或修女 sisters 出现之前）。将英雄传奇骤然拉入近代城市排污系统。",
+      "source_ids": [
+        "fw-tristram",
+        "fw-sewers"
+      ]
+    },
+    {
+      "id": "i1-oaksald",
+      "lemma": "The oaks of ald now they lie in peat yet elms leap where askes lay",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "oaks of ald 指古老栎树（oaks of old）与市政长老（alderman），沉埋于爱尔兰泥炭沼（peat）；elms leap 与 askes lay 形成镜像回文与音响对跃；askes 兼指灰烬（ashes）与梣木（ash trees），亦令人联想北欧神话最初由梣木与榆木化生之男女（Ask and Embla）。",
+      "source_ids": [
+        "fw-trees"
+      ]
+    },
+    {
+      "id": "i1-phoenish",
+      "lemma": "Phall if you but will, rise you must: ... secular phoenish",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "Phall 叠合坠落（Fall）与生殖器阳具（Phallus）；rise you must 指历史必然之复起；pharce for the nunce 指现时滑稽闹剧（farce for the nonce / 修女 nuns）；setdown secular phoenish 指平息落定、百年世俗（secular），并以 phoenish 融汇终局（finish）、不死鸟凤凰涅槃（phoenix）与腓尼基航海人（Phoenician）。全句定下全书“落而必起”之核心回环。",
+      "source_ids": [
+        "fw-phoenish",
+        "jjda-i1"
+      ]
+    }
+  ],
+  "alternatives": []
+}

@@ -1,0 +1,107 @@
+{
+  "id": "fw-i1-005-13",
+  "locator": "005.13–005.26",
+  "range": [
+    5,
+    13,
+    5,
+    26
+  ],
+  "source_id": "joyce-fp",
+  "original": "What then agentlike brought about that tragoady thundersday this municipal sin business? Our cubehouse still rocks as earwitness to the thunder of his arafatas but we hear also through successive ages that shebby choruysh of unkalified muzzlenimiissilehims that would blackguardise the whitestone ever hurtleturtled out of heaven. Stay us wherefore in our search for tighteousness, O Sustainer, what time we rise and when we take up to toothmick and before we lump down upown our leatherbed and in the night and at the fading of the stars! For a nod to the nabir is better than wink to the wabsanti. Otherways wesways like that provost scoffing bedoueen the jebel and the jpysian sea. Cropherb the crunchbracken shall decide. Then we'll know if the feast is a flyday. She has a gift of seek on site and she allcasually ansars helpers, the dreamydeary. Heed! Heed!",
+  "draft": "究竟是何方暗手，在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆？吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷；千秋百代以来，我们也听见那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石。万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民。且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期。她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！",
+  "translation": "究竟是何方暗手，在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆？吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷；千秋百代以来，我们也听见那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石。万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民。且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期。她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-agentlike",
+      "lemma": "agentlike",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "agentlike 兼暗中唆使之代理人（agent provocateur）、警探内线与历史动因；呼应都柏林凤凰公园双重暗杀公案中受暗手挑唆之阴影。正文译作“何方暗手”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "lemma": "tragoady thundersday this municipal sin business",
+      "id": "i1-tragoady",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "tragoady 拆解希腊语悲剧词源 tragōidia（tragos 山羊 + ōidē 歌咏，即山羊祭献惨剧）并融 toad（癞蛤蟆）；thundersday 融北欧雷神索尔之日（Thursday / Thor's day）与天谴神雷；municipal sin business 紧扣 HCE 在都柏林凤凰公园引发满城风雨的市政性丑闻与原罪公案。正文译作“在雷鸣星期四招致那场山羊祭献惨祸，惹发这桩满城风雨的市政罪愆”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-cubehouse",
+      "lemma": "cubehouse still rocks as earwitness to the thunder of his arafatas",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "cubehouse 直指麦加克尔白（天房，阿拉伯语 Ka'bah 原义即“立方体之屋”）；earwitness 为亲耳见证（对勘 eyewitness）；arafatas 互文伊斯兰朝觐核心圣地阿拉法特山（Mount Arafat），先知在此作告别演说，并兼雷霆巨响。正文译作“吾人六面方屋至今轰然震颤，亲耳听闻他阿拉法特山的浩荡惊雷”。",
+      "source_ids": [
+        "quran-arafat",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-whitestone",
+      "lemma": "shebby choruysh of unkalified muzzlenimiissilehims that would blackguardise the whitestone ever hurtleturtled out of heaven",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "shebby choruysh 即 shabby chorus（猥琐合唱）；unkalified 兼未受哈里发合法册封（uncaliphed）与不合格（unqualified）；muzzlenimiissilehims 复合穆斯林（Moslem）、枪口（muzzle）、飞弹投石（missile）与拉丁语过分（nimis）；whitestone 典出麦加玄石（Black Stone），圣训称其自天国降临（hurtleturtled out of heaven）时洁白如雪，因世人罪孽浸染变黑（blackguardise）。正文译作“那群不肖之徒发出卑鄙聒噪，妄图玷污自天穹翻滚狂坠的玄白圣石”。",
+      "source_ids": [
+        "quran-arafat",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-sustainer",
+      "lemma": "Stay us wherefore in our search for tighteousness, O Sustainer, what time we rise and when we take up to toothmick and before we lump down upown our leatherbed and in the night and at the fading of the stars!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "戏仿伊斯兰日夜祈祷律条。O Sustainer 呼求安拉尊名 Al-Qayyum（万有扶持之主）；tighteousness 融公义（righteousness）与紧束/微醺（tight）；toothmick 兼牙签与穆斯林圣行洁齿细木（miswak）；leatherbed 为沙漠皮榻。结句“in the night and at the fading of the stars”直接化用《古兰经》第52章《山岳章》第48–49节经文。正文译作“万有扶持之主啊，为此请在我们求索严律公义之际托住我们：当我们清晨起居，当我们执持洁齿细木，当我们沉身跌卧牛皮榻上，在漫漫长夜，在晨星隐没之时！”。",
+      "source_ids": [
+        "quran-arafat",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-nabir",
+      "lemma": "For a nod to the nabir is better than wink to the wabsanti. Otherways wesways like that provost scoffing bedoueen the jebel and the jpysian sea.",
+      "kind": "proverb",
+      "certainty": "supported",
+      "text": "前句戏仿英格兰谚语“A nod is as good as a wink to a blind horse”：nabir 融邻人（neighbour）与阿拉伯语先知（nabi）/法官（na'ib）；wabsanti 融沙特严苛清教派瓦哈比派（Wahhabi）、缺席者（absentee）与苦艾酒（absinthe）。后句 provost 为三一学院学长兼长官；bedoueen 为贝都因游民与在……之间（between）；jebel 为阿拉伯语山峰（jabal）；jpysian sea 为红海/埃及海（Egyptian sea）与乔伊斯之海（Joyce-ian sea）。正文译作“向知礼邻人点头示意，强似向苦修隐士挤眉弄眼。否则吾人将步履踉跄，宛若那在圣山与幽海间讥诮嘲弄的贝都因游民”。",
+      "source_ids": [
+        "quran-arafat",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-cropherb",
+      "lemma": "Cropherb the crunchbracken shall decide. Then we'll know if the feast is a flyday.",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Cropherb the crunchbracken 拟造原初啃噬草木、踏碎蕨草之巨兽形象（约伯记巨兽贝希摩斯与大自然主宰者）；flyday 融星期五（Friday，伊斯兰主麻日 / 耶稣受难日 Good Friday）与苍蝇滋生腐败之日（fly-day）。正文译作“且待嚼草巨兽踏碎蕨丛作一公断，届时自知此宴是神圣主麻日，还是蝇飞肉腐期”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-ansars",
+      "lemma": "She has a gift of seek on site and she allcasually ansars helpers, the dreamydeary. Heed! Heed!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "seek on site 兼当下洞察与神视本领；ansars 兼回答（answers）与伊斯兰麦地那辅士（Ansars，协助穆罕默德初创大业之信众）；dreamydeary 对应女主角安娜·利维亚·普拉贝尔（ALP）之温柔母性护持形象；Heed! Heed! 既是宣礼唤拜，亦是警醒诫勉。正文译作“她生来具当场寻察之妙智，随缘抚慰一众相随辅士，这梦中温存娇娘。且听！警醒！”。",
+      "source_ids": [
+        "quran-arafat",
+        "fw-page5"
+      ]
+    }
+  ],
+  "alternatives": []
+}

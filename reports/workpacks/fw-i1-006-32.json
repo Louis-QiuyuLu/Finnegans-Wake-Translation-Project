@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-006-32",
+  "locator": "006.32–007.15",
+  "range": [
+    6,
+    32,
+    7,
+    15
+  ],
+  "source_id": "joyce-fp",
+  "original": "Well, Him a being so on the flounder of his bulk like an overgrown babeling, let wee peep, see, at Hom, well, see peegee ought he ought, platterplate. Hum! From Shopalist to Bailywick or from ashtun to baronoath or from Buythebanks to Roundthehead or from the foot of the bill to ireglint's eye he calmly extensolies. And all the way (a horn!) from fjord to fjell his baywinds' oboboes shall wail him rockbound (hoahoahoah!) in swimswamswum and all the livvylong night, the delldale dalppling night, the night of bluerybells, her flittaflute in tricky trochees (O carina! O carina!) wake him. With her issavan essavans and her patterjackmartins about all them inns and ouses. Tilling a teel of a tum, telling a toll of a teary turty Taubling. Grace before Glutton. For what we are, gifs à gross if we are, about to believe. So pool the begg and pass the kish for crawsake. Omen. So sigh us. Grampupus is fallen down but grinny sprids the boord. Whase on the joint of a desh? Finfoefom the Fush. Whase be his baken head? A loaf of Singpantry's Kennedy bread. And whase hitched to the hop in his tayle? A glass of Danu U'Dunnell's foamous olde Dobbelin ayle. But, lo, as you would quaffoff his fraudstuff and sink teeth through that pyth of a flowerwhite bodey behold of him as behemoth for he is noewhemoe. Finiche! Only a fadograph of a yestern scene.",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "5ed7f128ab50e99b3ea62584d0c2611022e0ab50156812ae8e4a66a7d92abc65"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "a893d3afe65ee60ff23fcd966069f50d715c15ec5749a72bf25f9b4c47e53b70"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958年第八印本，含作者勘误",
+      "result": "核对006.32至007.15文字、标点、法语词形及段界。"
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+      "edition": "通行原排第7页转录",
+      "result": "核对007.01至007.15行次，下段始于 007.16 'Almost rubicund Salmosalar'。"
+    }
+  ],
+  "questions": [
+    {
+      "lemma": "see peegee ought he ought, platterplate",
+      "question": "莫雷《埃及诸王与诸神》第88页奥西里斯停尸照相插图指涉。",
+      "impact": "allusion与scholarship注释"
+    },
+    {
+      "lemma": "Shopalist to Bailywick... foot of the bill to ireglint's eye he calmly extensolies",
+      "question": "都柏林全城四至地理方位与巨人沉睡身躯之直接同构。",
+      "impact": "geography与structure注释"
+    },
+    {
+      "lemma": "Grace before Glutton... Omen. So sigh us",
+      "question": "圣餐与谢饭祷文戏仿、饕餮暴食与土豆蔑筐世俗贪欲。",
+      "impact": "allusion与parody注释"
+    },
+    {
+      "lemma": "Whase on the joint of a desh?... Danu U'Dunnell's foamous olde Dobbelin ayle",
+      "question": "神圣食尸与圣餐化身：芬·麦库尔化身鲑鱼、肯尼迪大面包与都柏林黑啤酒。",
+      "impact": "allusion与wordplay注释"
+    },
+    {
+      "lemma": "behemoth for he is noewhemoe. Finiche! Only a fadograph of a yestern scene",
+      "question": "约伯记巨兽贝希摩斯虚无化、芬尼根落幕与现代影像褪色之消散幻灭。",
+      "impact": "philosophy与allusion注释"
+    }
+  ],
+  "terms": [
+    {
+      "term": "fadograph",
+      "translation": "褪色旧照",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "fade 与 photograph 复合造词。"
+    },
+    {
+      "term": "extensolies",
+      "translation": "安详横卧平展",
+      "status": "provisional",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "note": "extends 与 lies 复合。"
+    }
+  ],
+  "research_decision": {
+    "required": true,
+    "reason": "涉及莫雷埃及考古专著第88页图像原典、都柏林东至西四至地形学重叠、食尸圣餐及早期照相摄影术词源。"
+  },
+  "previous_segment_id": "fw-i1-006-13",
+  "next": [
+    7,
+    16
+  ],
+  "next_original": "Almost rubicund Salmosalar, ancient fromout the ages of the Agapemonides, he is smolten in our mist, woebecanned and packt away.",
+  "available_source_ids": [
+    "joyce-fp",
+    "fw-page6",
+    "fw-page7",
+    "moret-egypt",
+    "ballad-finnegan",
+    "bible-ot",
+    "jjda-i1"
+  ],
+  "research_limitations": "莫雷纸本1911年法文原印本照相印张未核法国国家图书馆原件；中日研究原页保留查阅空白。"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "fw-i1-005-09",
+  "locator": "005.09–005.12",
+  "range": [
+    5,
+    9,
+    5,
+    12
+  ],
+  "source_id": "joyce-fp",
+  "original": "Hootch is for husbandman handling his hoe. Hohohoho, Mister Finn, you're going to be Mister Finnagain! Comeday morm and, O, you're vine! Sendday's eve and, ah you're vinegar! Hahahaha, Mister Funn, you're going to be fined again!",
+  "draft": "私酿烈酒归把锄农夫。嗬嗬嗬嗬，芬先生，你终归还要再当一次芬先生！来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！哈哈哈哈，乐子先生，你又要遭判重罚了！",
+  "translation": "私酿烈酒归把锄农夫。嗬嗬嗬嗬，芬先生，你终归还要再当一次芬先生！来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！哈哈哈哈，乐子先生，你又要遭判重罚了！",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-hootch",
+      "lemma": "Hootch is for husbandman handling his hoe",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "戏仿英格兰初级识字童谣（如“A is for Apple”），以字母 H 之发音（爱尔兰英语读 Haitch）连缀四次：Hootch（私酿烈酒）、husbandman（农夫/丈夫）、handling（操持）、hoe（锄头）。兼有土地耕作与生殖力勃发之双重隐喻。正文译作“私酿烈酒归把锄农夫”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-finnagain",
+      "lemma": "Mister Finn, you're going to be Mister Finnagain!",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "全书核心标题之谜在此彻底点破：爱尔兰神话英雄芬·麦库尔（Finn MacCool）与民谣泥水匠芬尼根（Finnegan），实为“再次成为芬”（Finn again / Finn-again）。预示坠落即起、死亡即复活之永恒历史循环。正文译作“芬先生，你终归还要再当一次芬先生！”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "jjda-i1"
+      ]
+    },
+    {
+      "id": "i1-vinevinegar",
+      "lemma": "Comeday morm and, O, you're vine! Sendday's eve and, ah you're vinegar!",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Comeday morm 为来日（Someday/Sunday morn）星期日清晨圣餐之生机，vine 兼葡萄藤、美酒（wine）与安好（fine）；Sendday's eve 为传票之日（send-day / Sunday eve）前夕，vinegar 为酸醋（暗示美酒变质、基督受难时尝之苦醋及宿醉酸涩）。展现狂欢与衰败交替之生理与神圣对立。正文译为“来日清晨，哎呀，你宛若纯美葡萄藤；遣召前夕，唉呀，你已化作苦酸醋！”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-finedagain",
+      "lemma": "Mister Funn, you're going to be fined again!",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Mister Funn 谐玩笑（fun）与芬（Finn）；fined again 兼指再次遭法庭罚款（fined）与再次复活（Finn again / fine again）。狂欢作乐终须面对治安法庭之惩处，将醉酒神话拉回都柏林世俗现实。正文译作“乐子先生，你又要遭判重罚了！”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    }
+  ],
+  "alternatives": []
+}

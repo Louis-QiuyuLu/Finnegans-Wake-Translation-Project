@@ -1,0 +1,107 @@
+{
+  "id": "fw-i1-005-27",
+  "locator": "005.27–006.12",
+  "range": [
+    5,
+    27,
+    6,
+    12
+  ],
+  "source_id": "joyce-fp",
+  "original": "It may half been a missfired brick, as some say, or it mought have been due to a collupsus of his back promises, as others looked at it. (There extand by now one thousand and one stories, all told, of the same). But so sore did abe ite ivvy's holired abbles, (what with the wallhall's horrors of rollsrights, carhacks, stonengens, kisstvanes, tramtrees, fargobawlers, autokinotons, hippohobbilies, streetfleets, tournintaxes, megaphoggs, circuses and wardsmoats and basilikerks and aeropagods and the hoyse and the jollybrool and the peeler in the coat and the mecklenburk bitch bite at his ear and the merlinburrow burrocks and his fore old porecourts, the bore the more, and his blightblack workingstacks at twelvepins a dozen and the noobibusses sleighding along Safetyfirst Street and the derryjellybies snooping around Tell-No-Tailors' Corner and the fumes and the hopes and the strupithump of his ville's indigenous romekeepers, homesweepers, domecreepers, thurum and thurum in fancymud murumd and all the uproor from all the aufroofs, a roof for may and a reef for hugh butt under his bridge suits tony) wan warning Phill filt tippling full. His howd feeled heavy, his hoddit did shake. (There was a wall of course in erection) Dimb! He stottered from the latter. Damb! he was dud. Dumb! Mastabatoom, mastabadtomm, when a mon merries his lute is all long. For whole the world to see.",
+  "draft": "有人说，半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌。（关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事）。但亚当咬食夏娃的圣红苹果，啃得那般创痛巨深——（且不论那筑墙英灵殿涌现的重重魔障：劳斯莱斯、破马车、巨石机车、石棺风标、电车林立、镖局商贩、活动电影机、马车怪物、满街车队、转弯计程车、浓烟巨号、环岛城壕、大殿宝塔、吊机喧叫与放浪狂呼、裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人、一打十二枚焦黑工棚、新式大巴在安全第一大街飞滑、德里糖贩窥探赖账死角，更有全城土著守房人、扫街妇、爬顶贼掀腾的气雾、期冀与沉钝践踏，在泥浆砖墙间穿梭往返，更有所有屋顶倾泻的震天喧嚣：给玛丽屋顶，给休暗礁，唯他桥墩之下，足供浪客容身）——某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃。（身旁当然正砌建一堵高墙）。扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明。",
+  "translation": "有人说，半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌。（关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事）。但亚当咬食夏娃的圣红苹果，啃得那般创痛巨深——（且不论那筑墙英灵殿涌现的重重魔障：劳斯莱斯、破马车、巨石机车、石棺风标、电车林立、镖局商贩、活动电影机、马车怪物、满街车队、转弯计程车、浓烟巨号、环岛城壕、大殿宝塔、吊机喧叫与放浪狂呼、裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人、一打十二枚焦黑工棚、新式大巴在安全第一大街飞滑、德里糖贩窥探赖账死角，更有全城土著守房人、扫街妇、爬顶贼掀腾的气雾、期冀与沉钝践踏，在泥浆砖墙间穿梭往返，更有所有屋顶倾泻的震天喧嚣：给玛丽屋顶，给休暗礁，唯他桥墩之下，足供浪客容身）——某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃。（身旁当然正砌建一堵高墙）。扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明。",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "i1-missfiredbrick",
+      "lemma": "missfired brick, as some say, or it mought have been due to a collupsus of his back promises",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "芬尼根从脚手架跌落原因之双重视角：外因归咎于建筑失手飞砖（missfired brick / half been）；内因归咎于背信毁诺（breach of promise / back promises）引发道德崩塌、生理器官脱垂（collupsus < collapse + prolapsus）及脊梁骨受挫。正文译作“半因失手坠砖；亦有人看作，全系背弃前约引来脊骨崩塌”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-thousandandone",
+      "lemma": "There extand by now one thousand and one stories, all told, of the same",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "互文《一千零一夜》（The Arabian Nights），兼点全书总纲：世间流传千千万万神话轶闻变体，说到底全在讲述同一遭事（all told, of the same）——即人类之坠落与重生。正文译作“关于这桩公案，迄今流传一千零一夜故事，说到底，全在讲同一遭事”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-abeite",
+      "lemma": "so sore did abe ite ivvy's holired abbles",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "创世记第3章原罪堕落之变体拼写：abe 为亚当（Adam / Abraham）、ite 为咬食（ate）、ivvy 为夏娃（Eve / 常春藤 ivy）、holired 为神圣纯红（holy red / hollowed）、abbles 为苹果（apples）；兼有生理咬齿之创痛（sore）。正文译作“亚当咬食夏娃的圣红苹果，啃得那般创痛巨深”。",
+      "source_ids": [
+        "bible-ot",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-wallhall",
+      "lemma": "wallhall's horrors of rollsrights, carhacks, stonengens, kisstvanes, tramtrees, fargobawlers, autokinotons, hippohobbilies, streetfleets, tournintaxes, megaphoggs, circuses and wardsmoats and basilikerks and aeropagods",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "长列都市怪物名录：wallhall 融北欧英灵殿（Valhalla）与筑墙之殿（Wall-hall）；rollsrights 融劳斯莱斯（Rolls-Royce）与翻滚之权；carhacks 融出租马车与劈砍；stonengens 融巨石阵（Stonehenge）与蒸汽引擎；kisstvanes 融史前石棺（kistvaens）与亲吻风标；fargobawlers 融富国银行镖局马车与大声叫卖商贩；autokinotons 融活动电影机（kinetoscope）与自动机；basilikerks 为巴西利卡大教堂与基督教会；aeropagods 为雅典战神山法庭（Areopagus）与宝塔（pagodas）。正文全面对应译出。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page5"
+      ]
+    },
+    {
+      "id": "i1-fourcourts",
+      "lemma": "peeler in the coat and the mecklenburk bitch bite at his ear and the merlinburrow burrocks and his fore old porecourts, the bore the more",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "都柏林现实地理与执法司法历史：peeler 为罗伯特·皮尔爵士设立之爱尔兰警察；mecklenburk bitch 指梅克伦堡街红灯区妓女（见《尤利西斯》“夜镇”）；merlinburrow 为马尔堡军营（Marlborough Barracks）；porecourts 指都柏林四法院（Four Courts）、四大编年史家（Four Masters）与爱尔兰语大路（bóthar mór），越老越显烦人（the bore the more）。正文译作“裹紧大氅的警探、梅克伦堡街荡妇在耳畔啃咬、马尔堡军营、四大老法院越老越烦人”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-phillfilt",
+      "lemma": "wan warning Phill filt tippling full. His howd feeled heavy, his hoddit did shake",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "直接化用爱尔兰民谣《芬尼根守灵夜》第一节：“One morning Tim was rather full, / His head felt heavy, which made him shake”；wan warning 兼某个清晨（One morning）与预警（One warning）；Phill 为爱尔兰芬尼根变体；howd 兼瓦泥灰斗（hod）与丹麦语头颅（hoved）；hoddit 兼挪威语头颅（hodet）。正文译作“某个清晨，菲尔喝得酩酊大醉。他手中灰斗发沉，他顶上脑袋直晃”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-dimbdamb",
+      "lemma": "Dimb! He stottered from the latter. Damb! he was dud. Dumb!",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "坠落、殒命与死寂之三联爆破拟声词（Dimb! Damb! Dumb!）：stottered 兼苏格兰语踉跄（stotter）与口吃（stutter）；latter 兼梯子（ladder）与后者；dud 兼死尸（dud）与未爆弹；Dumb 为哑然无声。正文译作“扑通！他从梯上踉跄跌落。咚！他成了死尸。一片死寂！”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    },
+    {
+      "id": "i1-mastabatoom",
+      "lemma": "Mastabatoom, mastabadtomm, when a mon merries his lute is all long. For whole the world to see",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Mastabatoom 融古埃及平顶石墓（mastaba）、坟墓（tomb）与死亡低沉鼓声（boom / tom-tom）；mastabadtomm 融埃及死而复生神巴陶（Bataou）与手淫勃起；when a mon merries his lute is all long 为狂欢结婚时琴弦/男根长伸；For whole the world to see 照应民谣原词“任凭举世看个分明”。死亡之墓与生殖婚配在终局合一。正文译作“平顶石墓，轰隆丧鼓，男人娶妻成婚，琴弦尽舒张。任凭举世看个分明”。",
+      "source_ids": [
+        "ballad-finnegan",
+        "fw-page6"
+      ]
+    }
+  ],
+  "alternatives": []
+}
