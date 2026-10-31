@@ -138,6 +138,12 @@ JSON 章稿保存原文、初译和采用稿，Markdown、网页与 EPUB 从中�
 
 先读 [开篇试译](polish/dev/I-1.md)、[末尾试译](polish/dev/IV.md)，再看 [开篇译注](annotations/I-1.json)。注释分别标明「据来源」「译者判断」「存疑」，不会把一种读法写成唯一答案。
 
+## 英文朗读
+
+在线读本已接入 **9 段 GPT-SoVITS 英文朗读**，在对应段落上方播放，可暂停、拖动进度并调音量；语速放在顶部「阅读设置」。一次只播放一段，音频按需加载。
+
+两对共行段落的录音已按顺序拼接。007.16段因原文改字，旧录音暂缓；没有录音的段落不显示播放器。合成读音仍有近似处理，页面标明 AI 合成。音频登记、继续生成与构建规则见 [朗读说明](audio/README.md)。
+
 ## 本地读本与电子书
 
 仅需 **Python 3.9 或以上版本**。无需 API 密钥，也不调用付费翻译服务。
@@ -157,7 +163,7 @@ python3 -m http.server 8000 --directory dist/site --bind 127.0.0.1
 
 每次 GitHub 检查通过后，Actions 提供名为 `finnegans-wake-reader` 的下载包。下载并解压即可找到网页和 EPUB。推送 `v*` 标签时另生成 GitHub Release。Pages 启用方式见 [开发说明](DEVELOPMENT.md)。
 
-网页构建仅需 Python。修改阅读器代码时另用 Node.js 22 以上版本运行 `node --test tests/test_reader_model.cjs`，检查修订合并与阅读设置。
+网页构建仅需 Python。修改阅读器代码时另用 Node.js 22 以上版本运行 `node --test tests/*.cjs`，检查修订合并、阅读设置与音频切换。
 
 ## 工程目录
 

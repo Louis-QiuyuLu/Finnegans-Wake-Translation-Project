@@ -2,6 +2,7 @@
 """Validate the manuscript and export Markdown, a static reader, and EPUB 3."""
 
 import argparse
+import hashlib
 from collections import Counter
 from html import escape
 from html.parser import HTMLParser
@@ -29,6 +30,8 @@ def load_project(root=ROOT):
             "sources": read(root / "sources/catalog.json"), "glossary": read(root / "glossary/terms.json")}
     if (root / "progress/checkpoint.json").exists():
         data["checkpoint"] = read(root / "progress/checkpoint.json")
+    if (root / "audio/index.json").exists():
+        data["audio"] = read(root / "audio/index.json")["tracks"]
     return data
 
 
@@ -128,6 +131,16 @@ def validate(data):
         elif chapter["segments"] and tuple(position) <= tuple(chapter["segments"][-1]["range"][2:]):
             errors.append("checkpoint must follow latest sequential segment")
         require_text(checkpoint, ["next_original", "updated"], "checkpoint")
+    segments = {s["id"]:s for c in data["chapters"] for s in c["segments"]}
+    audio_ids = set()
+    for track in data.get("audio", []):
+        sid = track.get("segment_id")
+        if sid not in segments or sid in audio_ids or track.get("file") != f"{sid}.mp3":
+            errors.append(f"invalid or duplicate audio track: {sid}")
+            continue
+        audio_ids.add(sid)
+        if track.get("original_sha256") != hashlib.sha256(segments[sid]["original"].encode("utf-8")).hexdigest():
+            errors.append(f"audio original changed: {sid}; regenerate or recheck the recording")
     return errors
 
 
@@ -187,7 +200,13 @@ def render_segments(chapter, data, epub=False):
                       + '<details class="note-editor"><summary>修订译注文字</summary>' + note_fields + '</details>'
                       + '<div class="edit-actions"><button type="button" class="save-revision">保存并预览</button><button type="button" class="discard-revision">清除此段修订</button>'
                       + '<button type="button" class="rebase-revision" hidden>已对照现稿，采用本次修订</button></div><p class="revision-status" role="status"></p></details>')
+        audio = ''
+        if not epub and any(t["segment_id"] == segment["id"] for t in data.get("audio", [])):
+            audio = ('<div class="audio-reading"><div class="audio-heading"><span>英文朗读</span><span class="audio-label" title="AI 合成英文朗读">GPT-SoVITS · 重返未来1999 瓦尔汀</span></div>'
+                     + f'<audio controls preload="none" src="../assets/audio/{sid}.mp3" aria-label="朗读英文原文 FW {escape(segment["locator"])}"></audio>'
+                     + '<p class="audio-feedback" role="status" aria-live="polite"></p></div>')
         chunks.append(f'<section class="segment" id="{sid}"><h2 class="locator">FW {escape(segment["locator"])} <span class="tag">{STATUS[segment["status"]]}</span></h2>'
+                      + audio
                       + '<div class="original" lang="en"><h3>原文</h3>' + paragraphs(segment["original"]) + '</div>'
                       + '<div class="translation"><h3>中文试译</h3>' + paragraphs(segment["translation"]) + '</div>'
                       + f'<p class="note-refs">译注 {refs}</p>'
@@ -224,6 +243,7 @@ def reading_settings():
 <div class="setting-row"><label for="reading-width">版心宽度</label><div class="range-control"><input id="reading-width" type="range" min="440" max="1000" step="20" value="760"><output for="reading-width" id="reading-width-value">760px</output></div></div>
 <div class="setting-row"><label for="reading-margin">左右留白</label><div class="range-control"><input id="reading-margin" type="range" min="12" max="64" step="2" value="24"><output for="reading-margin" id="reading-margin-value">24px</output></div></div>
 <div class="setting-row display-row"><span id="display-choice-label">显示内容</span><div class="display-choices" role="group" aria-labelledby="display-choice-label"><label><input type="checkbox" id="show-original" checked>原文对照</label><label><input type="checkbox" id="show-notes" checked>译注与出处</label></div></div>
+<div class="setting-row"><label for="audio-speed">朗读语速</label><select id="audio-speed"><option value="0.75">0.75× · 慢速</option><option value="1" selected>1× · 标准</option><option value="1.25">1.25× · 稍快</option><option value="1.5">1.5× · 快速</option></select></div>
 <section class="reading-preview" aria-label="阅读效果预览"><span>预览</span><p>循河入梦，逐字寻声。</p><small>Finnegans Wake · James Joyce</small></section>
 <div class="settings-footer"><button type="button" id="reset-reading">恢复默认设置</button><span>调整后即时生效</span></div>
 </div></dialog>'''
@@ -255,7 +275,7 @@ def page(title, body, data, prefix="", current="", home=False):
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-sans-vf.css">'
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css">'
             + f'<link rel="stylesheet" href="{prefix}assets/style.css">' + home_styles
-            + f'<script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head>'
+            + f'<script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script><script defer src="{prefix}assets/audio-reader.js"></script></head>'
             + ('<body class="home">' if home else '<body>')
             + '<a class="skip" href="#main">跳至正文</a><header class="topbar">'
             + f'<a class="brand" href="{prefix}index.html">FW<span>守灵夜译注</span></a><nav aria-label="主导航">'
@@ -335,6 +355,21 @@ def render_home(data):
     return hero
 
 
+def publish_audio(data, destination):
+    destination = Path(destination)
+    tracks = data.get("audio", [])
+    for track in tracks:
+        source = ROOT / "audio" / track["file"]
+        if not source.is_file() or source.stat().st_size == 0:
+            raise ValueError(f"missing or empty audio file: {track['file']}")
+    if destination.exists():
+        shutil.rmtree(destination)
+    if tracks:
+        destination.mkdir(parents=True)
+        for track in tracks:
+            shutil.copyfile(ROOT / "audio" / track["file"], destination / track["file"])
+
+
 def build(data, out):
     errors = validate(data)
     if errors:
@@ -343,9 +378,10 @@ def build(data, out):
     site = out / "site"
     for path in [site / "chapters", site / "assets", site / "downloads"]:
         path.mkdir(parents=True, exist_ok=True)
-    for name in ["style.css", "home.css", "reader-model.js", "reader.js"]:
+    for name in ["style.css", "home.css", "reader-model.js", "reader.js", "audio-reader.js"]:
         shutil.copyfile(ROOT / "site" / name, site / "assets" / name)
     shutil.copytree(ROOT / "site" / "vendor", site / "assets" / "vendor", dirs_exist_ok=True)
+    publish_audio(data, site / "assets" / "audio")
     stats = statistics(data)
     (site / "index.html").write_text(page("译注工程", render_home(data), data, home=True), encoding="utf-8")
     for i, chapter in enumerate(data["chapters"]):

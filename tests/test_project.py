@@ -84,6 +84,41 @@ class ProjectTests(unittest.TestCase):
             self.assertEqual(record["last_segment"], "fw-i1-003-01")
             self.assertEqual(record["state"], "in_progress")
 
+    def test_audio_manifest_only_publishes_registered_tracks(self):
+        import hashlib
+        from unittest.mock import patch
+        data = sample()
+        segment = data["chapters"][0]["segments"][0]
+        data["audio"] = [{"segment_id":segment["id"], "file":segment["id"]+".mp3", "original_sha256":hashlib.sha256(segment["original"].encode()).hexdigest()}]
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root/"audio").mkdir()
+            (root/"audio"/data["audio"][0]["file"]).write_bytes(b"test-mp3")
+            (root/"audio"/"test_mastered.mp3").write_bytes(b"not-a-reader-track")
+            with patch.object(self.api_ready(), "ROOT", root):
+                # Source assets stay in the real project; the manifest helper owns audio copying.
+                self.api_ready().publish_audio(data, root/"out")
+            self.assertTrue((root/"out"/data["audio"][0]["file"]).exists())
+            self.assertFalse((root/"out"/"test_mastered.mp3").exists())
+            html = self.api_ready().render_segments(data["chapters"][0],data)
+            self.assertIn('<audio controls preload="none"',html)
+            self.assertIn('../assets/audio/'+segment["id"]+'.mp3',html)
+            self.assertNotIn('<audio',self.api_ready().render_segments(data["chapters"][0],data,epub=True))
+            self.assertNotIn('<audio',self.api_ready().render_segments(sample()["chapters"][0],sample()))
+
+    def test_audio_for_a_changed_original_is_rejected(self):
+        data = sample()
+        data["audio"] = [{"segment_id":"fw-i1-003-01", "file":"fw-i1-003-01.mp3", "original_sha256":"0"*64}]
+        self.assertTrue(any("audio" in error for error in self.api_ready().validate(data)))
+
+    def test_missing_registered_audio_fails_instead_of_publishing_a_broken_player(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            with patch.object(self.api_ready(), "ROOT", root):
+                with self.assertRaisesRegex(ValueError,"audio"):
+                    self.api_ready().publish_audio({"audio":[{"segment_id":"fw-i1-003-01","file":"fw-i1-003-01.mp3"}]},root/"out")
+
     def test_markup_is_escaped_in_reader(self):
         data = sample()
         data["chapters"][0]["segments"][0]["translation"] = '<script>alert("x")</script>'

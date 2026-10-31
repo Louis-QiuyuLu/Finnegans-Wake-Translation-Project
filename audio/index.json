@@ -1,0 +1,61 @@
+{
+  "engine": "GPT-SoVITS",
+  "language": "en",
+  "tracks": [
+    {
+      "segment_id": "fw-i1-003-01",
+      "file": "fw-i1-003-01.mp3",
+      "original_sha256": "9f7eae86d530009a50985d68b251285cd0b69a73cebd9407430e9ef2b917d9bd"
+    },
+    {
+      "segment_id": "fw-i1-003-04",
+      "file": "fw-i1-003-04.mp3",
+      "original_sha256": "fa12697918e59b78a90e178cb2afba46f61a5685124234e0b9aeb4466d9a1a01"
+    },
+    {
+      "segment_id": "fw-i1-003-15",
+      "file": "fw-i1-003-15.mp3",
+      "original_sha256": "524ac6990633619ef2fddbb667e7d3d1cc9e27d116f79c753c21b626ca543cb7"
+    },
+    {
+      "segment_id": "fw-i1-004-01",
+      "file": "fw-i1-004-01.mp3",
+      "original_sha256": "b42f8443789a4b58c65a1c6445c8b80d48c3cfc3a7691753f41fded0b8d9f85e"
+    },
+    {
+      "segment_id": "fw-i1-004-18",
+      "file": "fw-i1-004-18.mp3",
+      "original_sha256": "bb09224e3a9830a229ff4a461dfc38be5d1e6b1541f995f5918b94bb5e1d8103"
+    },
+    {
+      "segment_id": "fw-i1-005-05",
+      "file": "fw-i1-005-05.mp3",
+      "original_sha256": "60a21d444f247e892baff7cc6a4a9cbbf8246b6107c0b92d66cadf7e2aabadfd"
+    },
+    {
+      "segment_id": "fw-i1-005-09",
+      "file": "fw-i1-005-09.mp3",
+      "original_sha256": "4ca62d55ec175629155d57818c540c9743098e1d2846831c28e65d6d9bd78d60"
+    },
+    {
+      "segment_id": "fw-i1-005-13",
+      "file": "fw-i1-005-13.mp3",
+      "original_sha256": "0011e071c878a9b1a9a9b9c77008ed40b0fc1791316be79ab837a8a4b5f56085",
+      "combined_from": [
+        "fw-i1-005-13",
+        "fw-i1-005-27"
+      ],
+      "processing": "按原顺序拼接，重编码为192 kbps MP3；未重新生成语音。"
+    },
+    {
+      "segment_id": "fw-i1-006-13",
+      "file": "fw-i1-006-13.mp3",
+      "original_sha256": "80b5e6e0b60464f8bdecc17684862e8ae35bbac40bec9c5977dafd7b0347f311",
+      "combined_from": [
+        "fw-i1-006-13",
+        "fw-i1-006-32"
+      ],
+      "processing": "按原顺序拼接，重编码为192 kbps MP3；未重新生成语音。"
+    }
+  ]
+}

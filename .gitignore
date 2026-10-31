@@ -8,3 +8,10 @@ __pycache__/
 dist/
 .superpowers/
 .worktrees/
+
+# Offline TTS dependencies and voice training assets
+models/
+tools/gpt_sovits/
+datasets/
+audio/*.wav
+audio/test_*
