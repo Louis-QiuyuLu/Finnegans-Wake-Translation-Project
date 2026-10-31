@@ -6,7 +6,7 @@
 
 循河入梦，逐字寻声。这个工程逐段翻译《芬尼根的守灵夜》，保存底本、初译、修订、译注与异译，再从同一份稿件生成网页和 EPUB。
 
-参考 [QriDoki 的《追忆似水年华》翻译工程](https://github.com/QriDoki/in-search-of-lost-time-translation-project)，另设页行定位、证据分级与首尾联动审校。代码和试译均重新编写，未复制参考项目内容。
+参考 [QriDoki 的《追忆似水年华》翻译工程](https://github.com/QriDoki/in-search-of-lost-time-translation-project)，另设页行定位、证据分级与首尾联动审校。代码和试译均重新编写；项目技能借鉴其分工与交接流程，按《守灵夜》改写。
 
 ## AI 译文说明
 
@@ -41,6 +41,18 @@
 6. **构建与发布**：工具检查数据、锚点和内部链接，生成 HTML 与 EPUB；GitHub Actions 自动部署在线读本。
 
 每轮保存段落断点；每章完整录入并核对覆盖后，保存章节记录。稿件、注释和断点一并同步 GitHub，方便下次从锚句接续。
+
+### 项目技能
+
+参考目录包含贡献、EPUB 转 Markdown、多角色翻译三类技能。本项目保留分段交稿、相关术语、独立审校和上下文衔接，整理为五项：[参考技能目录](https://github.com/QriDoki/in-search-of-lost-time-translation-project/tree/main/.ai/skills)。
+
+1. [prepare-source：核对底本与分段](.ai/skills/prepare-source/SKILL.md)。
+2. [translate-chapter：逐段译注](.ai/skills/translate-chapter/SKILL.md)，附 [角色约定](.ai/skills/translate-chapter/references/roles.md)。
+3. [review-translation：审校译义、出处与中文](.ai/skills/review-translation/SKILL.md)。
+4. [checkpoint：保存断点与上下文](.ai/skills/checkpoint/SKILL.md)。
+5. [contribute：合入修订与同步 GitHub](.ai/skills/contribute/SKILL.md)。
+
+技能存于仓库 `.ai/skills/`，由 [AGENTS.md](AGENTS.md) 指引读取，无需全局安装。续译依次执行五项；多人或多代理协作时，译者交完整段落对象，审校者交意见，整合者统一回写 JSON 章稿。工作包、初译、审校记录与摘要存于 `reports/`。参考项目按文件位置跳过首尾、删除图片及普鲁斯特角色设定，均不沿用；《守灵夜》须保留首尾正文、字母符号与有文义作用的排版。
 
 ### 中文译本
 
@@ -103,6 +115,8 @@ publish/              进度与发布说明
 progress/             续译锚句、未决问题与章节断点
 docs/                 译注规范、底本说明、实施设计
 prompts/              翻译与审校工作单
+.ai/skills/           底本、翻译、审校、断点与同步技能
+reports/              实际批次的工作包、初译、审校记录与摘要
 scripts/project.py    检查、生成、网页及 EPUB 构建
 site/                 阅读器样式与交互
 tests/                数据规则与产物链接测试
