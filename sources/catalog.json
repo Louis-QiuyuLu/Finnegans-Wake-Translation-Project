@@ -6,7 +6,7 @@
     "type": "primary",
     "accessed": "2026-10-31",
     "edition": "Viking Press，1958 年第八印本，纳入作者勘误；1939 年首刊。",
-    "use": "首段 3.01–3.03 与末尾 628.15–628.16 的文字见证；保留原书分页。仅录入试译所需短段，未镜像整部电子书。"
+    "use": "第 3 页 003.01–003.24 与末尾 628.15–628.16 的文字见证；保留通行页行。只录入已试译范围，未镜像整部电子书。"
   },
   {
     "id": "fp-catalog",
@@ -38,7 +38,7 @@
     "url": "https://www.finnegansweb.com/wiki/index.php/Page_3",
     "type": "community",
     "accessed": "2026-10-31",
-    "use": "开篇文字对照。社区释义与原著分开记录。"
+    "use": "核对第 3 页全文页行、拼写及两处雷鸣词排印断字；社区释义与原著分开记录。"
   },
   {
     "id": "fw-eve",
@@ -71,5 +71,253 @@
     "type": "project",
     "accessed": "2026-10-31",
     "use": "参考分阶段稿件、注释与网页／EPUB 同源发布流程；未复制其代码与译文。"
+  },
+  {
+    "id": "joyce-weaver-1926",
+    "title": "Joyce 致 Harriet Shaw Weaver，1926-11-15：FinnegansWiki 转录",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Joyce%27s_letter_to_Harriet_Shaw_Weaver_of_15_November_1926",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "原信自释线索的社区转录；该页标 Letters I，247–248。当前仅查网页，未核信件原件或纸本页。信稿针对早期稿；不拿其中字样替换 1958 年见证本。"
+  },
+  {
+    "id": "fw-tristram",
+    "title": "FinnegansWiki：Tristram",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Tristram",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "特里斯坦传说、Amory Tristram 与地理叠影线索；爵号及史传未独立核实。"
+  },
+  {
+    "id": "fw-violer",
+    "title": "FinnegansWiki：Violer d’amores",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Violer_d%27amores",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "弦琴、演奏者、侵犯与情欲的并读线索；不复制外部释义正文。"
+  },
+  {
+    "id": "fw-penisolate",
+    "title": "FinnegansWiki：Penisolate war",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Penisolate_war",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "半岛、孤立、阴茎与孤笔等读路；具体历史所指仍待核。"
+  },
+  {
+    "id": "fw-topsawyer",
+    "title": "FinnegansWiki：Nor had topsawyer’s rocks",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Nor_had_topsawyer%27s_rocks",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "上锯手、Sawyer、石块与身体双关线索；页面与信稿涉及建城者之说有出入，未据此断定地方史。"
+  },
+  {
+    "id": "fw-gorgios",
+    "title": "FinnegansWiki：Laurens County’s gorgios",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Laurens_County%27s_gorgios",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核对非罗姆人与佐治亚州居民的叠音线索；尚待罗姆语词典复核。"
+  },
+  {
+    "id": "fw-doublin",
+    "title": "FinnegansWiki：While they went doublin their mumper all the time",
+    "url": "https://www.finnegansweb.com/wiki/index.php/While_they_went_doublin_their_mumper_all_the_time",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "翻倍、Dublin、乞人与 number 的声音线索。地方口号不据此直接当作史实。"
+  },
+  {
+    "id": "fw-isaac",
+    "title": "FinnegansWiki：Buttended a bland old isaac",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Buttended_a_bland_old_isaac",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Isaac Butt、顶替、以撒与 bland／blind 等释义线索。"
+  },
+  {
+    "id": "fw-sosie",
+    "title": "FinnegansWiki：Sosie sesthers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sosie_sesthers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "两位同名 Esther、重影与姊妹声形线索；不推定血缘。"
+  },
+  {
+    "id": "fw-twone",
+    "title": "FinnegansWiki：Twone nathandjoe",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Twone_nathandjoe",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "二／一与 Jonathan、Nathan、Joe 的拆换线索。"
+  },
+  {
+    "id": "fw-rotmalt",
+    "title": "FinnegansWiki：Rot a peck of pa’s malt",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Rot_a_peck_of_pa%27s_malt",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "否定变声、腐烂、彭斯歌与挪亚的交叠线索；尚未核对彭斯诗集原页。"
+  },
+  {
+    "id": "fw-jhemshen",
+    "title": "FinnegansWiki：Had Jhem or Shen",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Had_Jhem_or_Shen",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "酒名、人名与挪亚诸子的声音线索；不把社区推读当作唯一指认。"
+  },
+  {
+    "id": "fw-arclight",
+    "title": "FinnegansWiki：Brewed by arclight",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Brewed_by_arclight",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "弧光、虹弧与方舟光的读法线索。"
+  },
+  {
+    "id": "bible-gen27",
+    "title": "《创世记》27，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%2027&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核对以撒年老失明、雅各取山羊羔及羊皮、献肉冒名与祝福转移；重点 1、9、16、19、35–36 节。不引用现成中文译文。"
+  },
+  {
+    "id": "bible-gen9",
+    "title": "《创世记》9，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%209&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核对 13–16 节虹约、18 节挪亚诸子及 20–21 节葡萄园与醉酒；只用于典故对照。"
+  },
+  {
+    "id": "bible-matt16",
+    "title": "《马太福音》16:18，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew%2016%3A18&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核对彼得与磐石句；不凭英语转录推定阿拉姆语词源。"
+  },
+  {
+    "id": "fw-fall",
+    "title": "FinnegansWiki：Fall",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Fall",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "酒歌、失乐与童谣坠落的并读线索。"
+  },
+  {
+    "id": "fw-wakesong",
+    "title": "《Finnegan’s Wake》酒歌：FinnegansWiki 转录",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Finnegan%27s_Wake",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "查阅跌梯、守灵、酒洒与复起的歌词转录；该页未注明所据早期谱本。只概括情节，不复制歌词。"
+  },
+  {
+    "id": "fw-thunder1",
+    "title": "FinnegansWiki：第一雷鸣词",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "多语雷声拆分线索；字母数另按本项目稿件核对，未逐语验证词源。"
+  },
+  {
+    "id": "fw-wallstrait",
+    "title": "FinnegansWiki：Wallstrait",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Wallstrait",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "墙、挺直、Wall Street 与坠落的释义线索；未据社区概述断定经济史所指。"
+  },
+  {
+    "id": "fw-oldparr",
+    "title": "FinnegansWiki：Oldparr",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Oldparr",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Old Parr、父亲声影及 par 面值等线索；长寿传说与酒名史未独立核实。"
+  },
+  {
+    "id": "fw-retaled",
+    "title": "FinnegansWiki：Retaled",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Retaled",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "重述、零售及裁衣词形的交叠线索。"
+  },
+  {
+    "id": "fw-pftjschute",
+    "title": "FinnegansWiki：Pftjschute",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Pftjschute",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "坠落拟声、chute 等读法线索；不照收未经验证的长链词源。"
+  },
+  {
+    "id": "fw-ersesolid",
+    "title": "FinnegansWiki：Erse solid man",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Erse_solid_man",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "爱尔兰语名、臀部、泥土与坚实等声形线索；待词典及原始歌本复核。"
+  },
+  {
+    "id": "fw-humptyhill",
+    "title": "FinnegansWiki：Humptyhillhead of humself",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Humptyhillhead_of_humself",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "童谣、驼背、山头与身体地景线索；尚未独立核对所列地图关系。"
+  },
+  {
+    "id": "fw-unquiring",
+    "title": "FinnegansWiki：Prumptly sends an unquiring one",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Prumptly_sends_an_unquiring_one",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "promptly／rump、探询词与 un- 的声音线索。"
+  },
+  {
+    "id": "fw-upturnpike",
+    "title": "FinnegansWiki：Upturnpikepointandplace",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Upturnpikepointandplace",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "路栅、矛尖与五段拆词线索；不据此确定路线或脚趾对应。"
+  },
+  {
+    "id": "fw-knockpark",
+    "title": "FinnegansWiki：Is at the knock out in the park",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Is_at_the_knock_out_in_the_park",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "山丘、击倒与公园地名线索；地图位置未另核。"
+  },
+  {
+    "id": "fw-oranges",
+    "title": "FinnegansWiki：Where oranges",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Where_oranges",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "橙子物象与政治颜色的释义线索，不代替政治史料。"
+  },
+  {
+    "id": "fw-rustgreen",
+    "title": "FinnegansWiki：Have been laid to rust upon the green",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Have_been_laid_to_rust_upon_the_green",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "rust／rest、安息及橙绿对照的读法线索；荷兰语词义待词典复核。"
+  },
+  {
+    "id": "fw-devlinslivvy",
+    "title": "FinnegansWiki：Since devlinsfirst loved livvy",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Since_devlinsfirst_loved_livvy",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Dublin、魔鬼、利菲河与人名的叠读线索；保留 1958 年见证本连写，不默换为其他版本。"
   }
 ]

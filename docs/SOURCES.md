@@ -4,7 +4,7 @@
 
 工程采用通行的 **1939 年版分页及页行坐标**。`003.01–003.03` 表示第 3 页第 1 至第 3 行；这不是网页换行，也不是电子阅读器页码。
 
-当前两段文字见证来自 [Faded Page 转录本](https://www.fadedpage.com/books/20180126/html.php)。其扉页列出 Viking Press 1958 年第八印本，注明已纳入作者勘误；不能笼统称为「1939 年初版逐字转录」。该站说明保留原书页行，调整部分行末连字符。
+当前稿段文字见证来自 [Faded Page 转录本](https://www.fadedpage.com/books/20180126/html.php)。其扉页列出 Viking Press 1958 年第八印本，注明已纳入作者勘误；不能笼统称为「1939 年初版逐字转录」。该站说明保留原书页行，调整部分行末连字符。
 
 开篇另与 [FinnegansWiki 第 3 页](https://www.finnegansweb.com/wiki/index.php/Page_3) 对照。篇末以见证本第 628 页末两行定位，只收 A way 起的片段，未收入该行前半句。
 

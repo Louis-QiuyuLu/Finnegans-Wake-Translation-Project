@@ -131,7 +131,9 @@
   };
   const captureEditor = (editor, rebase=false) => {
     const segment=canonical.segments.find(s => s.id===editor.dataset.segment);
-    revisions[segment.id]={...(rebase ? baseFor(segment) : revisions[segment.id] || baseFor(segment)), translation:editor.querySelector('.edit-translation').value, notes:Object.fromEntries([...editor.querySelectorAll('.edit-note')].map(input => [input.dataset.note,input.value]))};
+    const candidate={...(revisions[segment.id] || baseFor(segment)), translation:editor.querySelector('.edit-translation').value, notes:Object.fromEntries([...editor.querySelectorAll('.edit-note')].map(input => [input.dataset.note,input.value]))};
+    revisions[segment.id]=rebase ? FWReader.rebaseRevision(segment,candidate) : candidate;
+    if (rebase) fillEditor(editor);
     const persisted=save(revisionKey,JSON.stringify(revisions));
     const result=paint();
     editor.querySelector('.revision-status').textContent=!persisted ? '已预览，浏览器未能保存。请立即导出修订稿。' : result.conflicts.some(c => c.startsWith(`${segment.id}：`)) ? '本机修订已保留。请对照现稿后确认。' : '已保存到本机，并应用到本页。';
@@ -149,18 +151,29 @@
     });
   }
   paint();
-  const exportText = () => {
+  const exportText = async () => {
     for (const editor of editors) {
       const source=canonical.segments.find(s => s.id===editor.dataset.segment);
       const revision=revisions[source.id];
       const changed=editor.querySelector('.edit-translation').value !== (revision?.translation ?? source.translation) || [...editor.querySelectorAll('.edit-note')].some(input => input.value !== (revision?.notes?.[input.dataset.note] ?? source.notes.find(n => n.id===input.dataset.note).text));
       if (changed) captureEditor(editor);
     }
-    const result=paint();
-    return result.conflicts.length ? null : JSON.stringify(result.chapter,null,2)+'\n';
+    if (paint().conflicts.length) return null;
+    summary.textContent='正在核对仓库现稿…';
+    try {
+      const response=await fetch(payload.source_api,{headers:{Accept:'application/vnd.github.raw+json'},cache:'no-store'});
+      if (!response.ok) throw new Error('source unavailable');
+      const latest=await response.json();
+      const result=FWReader.prepareExport(canonical,revisions,latest);
+      if (result.conflicts.length) { summary.textContent=result.conflicts.join(' '); return null; }
+      return JSON.stringify(result.chapter,null,2)+'\n';
+    } catch {
+      summary.textContent='暂时无法核对仓库现稿。修订仍保存在本机，请联网后重试。';
+      return null;
+    }
   };
-  document.getElementById('export-revisions').addEventListener('click', () => {
-    const text=exportText();
+  document.getElementById('export-revisions').addEventListener('click', async () => {
+    const text=await exportText();
     if (text===null) return;
     const url=URL.createObjectURL(new Blob([text],{type:'application/json;charset=utf-8'}));
     const link=document.createElement('a');
@@ -173,7 +186,7 @@
     summary.textContent='已导出本章修订稿。可在 GitHub 编辑页粘贴文件内容并提交。';
   });
   document.getElementById('submit-revisions').addEventListener('click', async () => {
-    const text=exportText();
+    const text=await exportText();
     if (text===null) return;
     window.open(payload.edit_url,'_blank','noopener,noreferrer');
     try {

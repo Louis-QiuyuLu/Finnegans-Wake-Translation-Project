@@ -84,5 +84,377 @@
         "joyce-fp"
       ]
     }
+  ],
+  "fw-i1-003-04": [
+    {
+      "id": "i1-tristram",
+      "lemma": "Sir Tristram / North Armorica",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "1926 年信稿转录将此名兼指 Amory Tristram 与特里斯坦传说，并把北阿摩里卡连到布列塔尼。此处只登记作者自释线索；爵号、征服史与地理未另查原始记录，不据此写成确定史实。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "fw-tristram"
+      ]
+    },
+    {
+      "id": "i1-violer",
+      "lemma": "violer d'amores",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "社区词目并读爱情弦琴、拉琴者与法语侵犯之意。“乱拨情弦”兼取奏乐、越禁，仍削弱暴力含义；不把这个混合词只译成情郎。",
+      "source_ids": [
+        "fw-violer",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-passencore",
+      "lemma": "had passencore rearrived",
+      "kind": "syntax",
+      "certainty": "supported",
+      "text": "1926 年信稿转录以法语“尚未”与维柯式回返解释 passencore。“还未……再返”保住否定和重来；后文 nor、not yet 接续否定，不能顺成爵士已经回来。信稿针对早期稿，不能代替现行底本文字。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-wielderfight",
+      "lemma": "wielderfight",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "信稿转录将此词释作德语“再战”。正文取“重打”；wield 那股挥动武器的劲道未另造字补入，留在此注。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-penisolate",
+      "lemma": "penisolate war",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目列半岛战争、孤立阴茎与孤笔等读路。试造“孤茎半岛仗”，并存地形、性与孤立；笔战一层仍漏失。词内有 penis、isolate 等形影，不等于每项典故均已坐实。",
+      "source_ids": [
+        "fw-penisolate",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-topsawyer",
+      "lemma": "topsawyer's rocks / exaggerated themselse",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目将上锯手、Sawyer 人名与 rocks 的石块、睾丸义并置。信稿另提奥科尼河边那座美国 Dublin，且以拉丁语堆高解释夸张。“夸堆”补这两层；地方建城史与岩石传说尚未独立核实。",
+      "source_ids": [
+        "fw-topsawyer",
+        "joyce-weaver-1926",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-gorgios",
+      "lemma": "Laurens County's gorgios",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目将 gorgio 释作非罗姆人，另听见佐治亚州居民 Georgians。不能反译成吉卜赛人。正文暂音译“戈吉奥”，不抹去词形；词源仍待可靠罗姆语词典复核。",
+      "source_ids": [
+        "fw-gorgios"
+      ]
+    },
+    {
+      "id": "i1-doublin",
+      "lemma": "doublin their mumper",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "doublin 让翻倍与 Dublin 同声；社区词目把 mumper 并读乞人和 number。“乞数”是本项目补偿词，不是现成汉语；保住乞人与数目相撞，却失去都柏林地名回声。原句代词指谁仍留余地。",
+      "source_ids": [
+        "fw-doublin",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-firevoice",
+      "lemma": "avoice from afire / mishe mishe / tauftauf",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "信稿转录把 Mishe 释作爱尔兰语“吾是”，Tauf 释作德语施洗，并联圣帕特里克点火。“吾是，吾是／洗洗”保留复沓；“风箱般吼”补 bellows 与声音互撞，不另补圣经燃荆场景。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-thuartpeatrick",
+      "lemma": "thuartpeatrick",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "信稿转录联到彼得与磐石；《马太福音》16:18 可核对应句。“汝乃彼石帕特里克”为本项目嵌译，保住彼得／石头／帕特里克，却未补 peat 的泥炭形影。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "bible-matt16",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-venissoon",
+      "lemma": "venissoon / kidscad",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "venissoon 可拆听鹿肉与“很快”；kidscad 让羊崽撞上小无赖。《创世记》27:9、16 记山羊羔与羊皮，27:19 记雅各献肉冒名。“鹿肉快来／羊崽小无赖”是本项目拆译，不把它改成经文叙述。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-gen27"
+      ]
+    },
+    {
+      "id": "i1-isaac",
+      "lemma": "buttended a bland old isaac",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "信稿转录兼指帕内尔顶替 Isaac Butt 与雅各取得以撒祝福；《创世记》27:1、35–36 可核失明、欺瞒与顶替。“顶退／老以撒”保动作，Butt 姓氏和 bland／blind 的声差仍留在英文，未把政治史细节写入正文。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "bible-gen27",
+        "fw-isaac"
+      ]
+    },
+    {
+      "id": "i1-sosie",
+      "lemma": "sosie sesthers / vanessy",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "信稿转录提两位同名 Esther：Vanhomrigh 与 Johnson，并释 sosie 为重影；社区词目连到斯威夫特。“影样以斯帖姊妹”保同名与 sisters 声影，不声称二人有血缘；凡妮莎先保留人名，不把整句只解作爱欲或虚荣。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "fw-sosie"
+      ]
+    },
+    {
+      "id": "i1-twone",
+      "lemma": "twone nathandjoe",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "社区词目把 two 与 one 叠读，并将 Jonathan 拆换为 Nathan 与 Joe。“二合一纳坦乔”保二／一相争及名字换序；原字中 hand 等旁路未展开，不能据此断言人物已经分成固定两人。",
+      "source_ids": [
+        "fw-twone",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-rotmalt",
+      "lemma": "Rot a peck of pa's malt",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "社区词目以 Not 的变声解释 Rot，延续否定，又保留腐烂。信稿转录联到彭斯酿麦歌与挪亚醉酒。正文“还没……酿得烂熟”试兼两路，语气仍有损；配克保留原容积单位，不擅折成中国斗升。",
+      "source_ids": [
+        "fw-rotmalt",
+        "joyce-weaver-1926",
+        "bible-gen9"
+      ]
+    },
+    {
+      "id": "i1-jhemshen",
+      "lemma": "Jhem or Shen",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "社区词目听出 Jameson 酒名，并联 Shem、Shaun 与挪亚诸子。《创世记》9:18 可核闪、含、雅弗；不能直接把两处变体当成经文原名。正文暂音译杰姆、申，身份待上下文复核。",
+      "source_ids": [
+        "fw-jhemshen",
+        "bible-gen9"
+      ]
+    },
+    {
+      "id": "i1-arclight",
+      "lemma": "brewed by arclight",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "正文先取弧光。社区词目另联虹弧与方舟之光；《创世记》9:13–16 记虹作约证，9:20–21 记挪亚种葡萄、醉酒。本项目据此保留酿酒与虹光相接，但未把 arclight 固定成方舟灯。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-arclight",
+        "bible-gen9"
+      ]
+    },
+    {
+      "id": "i1-roryrainbow",
+      "lemma": "rory / regginbrow / ringsome / aquaface",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "信稿转录以红与露释 rory，以德语虹词混英语虹词释 regginbrow，以“四围”释 ringsome。“一端红露／雨虹眉／环环四围／水脸”兼留颜色、露水和身体形影；末一分句未另添否定。",
+      "source_ids": [
+        "joyce-weaver-1926",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-page3-voices",
+      "lemma": "nor / not yet / rory … regginbrow … ringsome",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "反复否定把人物、地点与时代压成一串尚未发生；末尾 r 声连转。中文沿用冒号与“也还没”，再以“红露／虹眉／环环”补回声。此为节奏补偿，不宣称复现原音，也不把各典故排成单线史。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i1-003-15": [
+    {
+      "id": "i1-fall",
+      "lemma": "The fall",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "社区词目并列酒歌中芬尼根跌落、人类失乐与 Humpty Dumpty 墙头坠落。已查社区所录酒歌，确写梯上摔下、守灵和酒洒后复起；该转录未注明谱本。本段只取“跌”，不先把肉身、道德与历史压成同一种坠落。",
+      "source_ids": [
+        "fw-fall",
+        "fw-wakesong",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-thunder1",
+      "lemma": "The fall 后括号内雷鸣词",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "底本把雷鸣词分排三行，两处加行末连字符；这里合写后共一百个拉丁字母，中文段内保留原拼，不以“轰隆”替换。社区按多语雷声尝试拆分；本项目尚未逐语核对词源，也未宣称中文已复现全部声音。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page3",
+        "fw-thunder1"
+      ]
+    },
+    {
+      "id": "i1-walloldparr",
+      "lemma": "wallstrait oldparr",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目并读墙般挺直、Wall Street 与 Old Parr、法语父亲声影及股票面值。“老帕爹”试留人名与父亲，“墙般挺直”留站立姿态；股市、酒名与传说年龄未纳入正文。上述历史牵连仍待原始资料核实。",
+      "source_ids": [
+        "fw-wallstrait",
+        "fw-oldparr",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-retaled",
+      "lemma": "retaled / entailed",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "社区词目把 retaled 连到重讲故事与零售；下文 entailed 又让 tale／tail 余音接续。“重贩”试把传说当货转卖，仍失去英语尾音与裁衣旁路，不把 retaled 自动改成 retold。",
+      "source_ids": [
+        "fw-retaled",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-bedlife",
+      "lemma": "early in bed / later on life / christian minstrelsy",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "early、later 同时牵动时刻与人生阶段；bed、life 又把卧床与世间相接。“早早／晚晚”保对称，仍较容易读成先后事件。minstrelsy 先译歌谣；本段未说特定赞美诗，不擅补曲名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-pftjschute",
+      "lemma": "pftjschute",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "社区词目以坠落拟声和法语 chute 等解释此词。“噗叱坠”为本项目暂造声词，补喷气、摩擦与下坠，不冒充原词音译；其余食物、审判等联想尚未核实，不强装进中文。",
+      "source_ids": [
+        "fw-pftjschute",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-ersesolid",
+      "lemma": "erse solid man",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目并读爱尔兰／盖尔语名 Erse、臀部声影、泥土与坚实。“爱尔兰硬实汉”先取地域与质感，臀部、污泥及歌名等读路留待复核。不可将 erase、earth 等近形近音一概当作确定词源。",
+      "source_ids": [
+        "fw-ersesolid",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-humptytumpty",
+      "lemma": "humptyhillhead of humself / tumptytumtoes",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "社区将 humpty 联到 Humpty Dumpty，并把头、脚读成霍斯与凤凰公园地景。“驼墩山头／笃墩脚趾”补共同节拍，人物与土地仍叠在句内；童谣圆滚形象和英语人名损失较大。具体地图对应尚未核实。",
+      "source_ids": [
+        "fw-humptyhill",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-unquiring",
+      "lemma": "prumptly sends an unquiring one",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "prumptly 在 promptly 中塞入 rump 声影；unquiring 又让探询词撞上否定前缀。本项目暂作“急急／不问客”，保行动与不问相扯，未保臀部回声；不将不问客改成明确侦探或特定人物。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-unquiring"
+      ]
+    },
+    {
+      "id": "i1-westquest",
+      "lemma": "well to the west in quest",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "well、west、quest 连续回响，方向也随头脚展开。中文用“远远向西，去寻”补短促推进，未复现辅音；不能凭这一句判断全章旅程，更不把“西”擅解成死亡终点。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-upturnpike",
+      "lemma": "upturnpikepointandplace",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区词目从收费路栅、矛尖与五段词形拆读此缀词。“翘起路栅尖尖处”留下上翘、道路、尖端和地点，牺牲连成一词的紧缩感；路栅史与五趾对应未另核，不据此替正文画定路线。",
+      "source_ids": [
+        "fw-upturnpike",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-knockpark",
+      "lemma": "the knock out in the park",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区并列 knock 的山丘声义、击倒和凤凰公园附近地名。“击倒丘”是本项目补偿，不是登记地名；公园究指何处、哪两处丘陵，仍待地图与地名资料核对。",
+      "source_ids": [
+        "fw-knockpark",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-orangerust",
+      "lemma": "oranges … rust upon the green",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区以橙色、绿色联读爱尔兰政治阵营，并以荷兰语“休息”释 rust。“锈眠”兼补生锈与安息，橙子仍留物象；这些象征不等于原句指认一场具体战役，相关语词仍待词典和史料复核。",
+      "source_ids": [
+        "fw-oranges",
+        "fw-rustgreen",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-devlinslivvy",
+      "lemma": "since devlinsfirst loved livvy",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "社区把 devlinsfirst、livvy 联到 Dublin、魔鬼、利菲河与丽薇人形。正文暂音译“德夫林／丽薇”，让爱恋仍可发生在人名之间；城市与河流回声未尽保留。底本连写 devlinsfirst，照录，不借新版意见拆字或补叙事关系。",
+      "source_ids": [
+        "fw-devlinslivvy",
+        "joyce-fp"
+      ]
+    }
   ]
 }

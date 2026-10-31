@@ -302,7 +302,8 @@ def build(data, out):
         controls = ''
         if chapter["segments"]:
             edit_url = data["config"]["repository"] + '/edit/main/manuscript/chapters/' + slug(chapter) + '.json'
-            embedded = json.dumps({"chapter": chapter, "edit_url": edit_url, "repository": data["config"]["repository"]}, ensure_ascii=False).replace('<', '\\u003c').replace('&', '\\u0026')
+            source_api = 'https://api.github.com/repos/' + data["config"]["repository"].split('github.com/')[-1] + '/contents/manuscript/chapters/' + slug(chapter) + '.json?ref=main'
+            embedded = json.dumps({"chapter": chapter, "edit_url": edit_url, "source_api": source_api, "repository": data["config"]["repository"]}, ensure_ascii=False).replace('<', '\\u003c').replace('&', '\\u0026')
             controls = ('<div class="reader-controls"><label><input type="checkbox" id="show-original" checked> 原文对照</label><label><input type="checkbox" id="show-notes" checked> 显示译注</label><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label></div>'
                         + '<details class="reading-preferences"><summary>阅读设置</summary><div class="preference-grid">'
                         + '<label for="font-size">字号 <output id="font-size-value">24</output><input id="font-size" type="range" min="18" max="36" step="1" value="24"></label>'

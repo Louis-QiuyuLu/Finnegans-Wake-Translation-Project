@@ -37,5 +37,17 @@
     }
     return {chapter, conflicts};
   }
-  return {normalizePreferences, mergeRevisions};
+  function rebaseRevision(current, revision) {
+    const notes = Object.fromEntries(current.notes.map(note => {
+      const proposed = (revision.notes || {})[note.id];
+      const edited = proposed !== undefined && proposed !== (revision.baseNotes || {})[note.id];
+      return [note.id, edited ? proposed : note.text];
+    }));
+    return {baseTranslation:current.translation, baseNotes:Object.fromEntries(current.notes.map(n => [n.id,n.text])), translation:revision.translation !== revision.baseTranslation ? revision.translation : current.translation, notes};
+  }
+  function prepareExport(source, revisions, latest) {
+    if (JSON.stringify(source) !== JSON.stringify(latest)) return {chapter:null,conflicts:['仓库章稿已更新。请刷新页面，对照现稿后继续；本机修订仍会保留。']};
+    return mergeRevisions(source,revisions);
+  }
+  return {normalizePreferences, mergeRevisions, rebaseRevision, prepareExport};
 });
