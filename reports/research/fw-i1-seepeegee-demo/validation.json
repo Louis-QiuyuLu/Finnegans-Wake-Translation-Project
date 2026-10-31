@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "scope": "单条注释、研究 skill、取证与比对工具；非人工审校或全章学术验收",
+  "checks": [
+    {
+      "command": "python3 scripts/project.py check",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 -m unittest discover -s tests -v",
+      "exit_code": 0,
+      "tests": 27
+    },
+    {
+      "command": "node --test tests/*.cjs",
+      "exit_code": 0,
+      "tests": 15
+    },
+    {
+      "command": "python3 scripts/project.py build",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/project.py check-artifacts",
+      "exit_code": 0
+    },
+    {
+      "command": "skill-creator/scripts/quick_validate.py .ai/skills/joyce-research",
+      "exit_code": 0,
+      "interpreter": "已安装的 research 虚拟环境；取证工具本身只需标准库"
+    }
+  ],
+  "output_files": {
+    "manuscript/chapters/I-1.json": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52",
+    "sources/catalog.json": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae",
+    "annotations/I-1.json": "1888c4f35e6fb9cd65bd399e0dde07ff08f9ab2cca077567260eb856269343de",
+    ".ai/skills/joyce-research/scripts/verify_evidence.py": "f37cf930a03501c26499ce3c1d88838e8120239b020095f5b50ade3a5a9a2abc"
+  },
+  "academic_review": {
+    "mode": "AI 定点核查",
+    "full_paragraph_review": false,
+    "human_review": false,
+    "gemini_execution_test": false,
+    "scope_limits": [
+      "Troy 网页重印局部已读；纸本未核。",
+      "Moret 只核扉页与目标图版及页码。",
+      "日文正文、中译本页与 Joyce 阅读史未核。"
+    ]
+  },
+  "pressure_review": {
+    "agent": "/root/research_skill_baseline",
+    "baseline": "旧技能已正确拒绝两项错误放行；没有虚构基线失败。",
+    "green_results": [
+      "008 局部增句对照退出 1，正确阻止放行。",
+      "script-only 合成 HTTP200 锚句 0，退出 1。",
+      "合成日文题录虽命中标题，只能 metadata_read。"
+    ],
+    "uncovered_gap": "hidden 属性中的串曾误命中；新增失败单测后修正，最终 11 项研究工具单测通过。",
+    "network_reopen": "复演代理重开 Troy 受 DNS／502 阻断，没有声称独立重读正文。",
+    "limit": "本次只复演流程与工具，未完成独立学术复核，并非 Gemini 实测。"
+  }
+}

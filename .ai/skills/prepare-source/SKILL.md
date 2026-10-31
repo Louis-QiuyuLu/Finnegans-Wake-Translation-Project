@@ -30,6 +30,7 @@ description: "Use when preparing or checking a Finnegans Wake source passage, im
 1. 分清通行页行与具体刊本。Faded Page 当前见证为 Viking 1958 年第八印本；JJDA 的 1939、2010 年版须分别核对。
 2. 按完整自然段分批，通常一至两段。网页折行不能充当原书行号。去掉排版断字前先核词形，保留作者错拼与缀词。
 3. 对照正文起止、标点、重音符号与段界；异文记入工作包。两个转录站一致，也不等于已经查过纸本。
+   可按 [外部见证比对](../joyce-research/references/reproducible-investigation.md) 运行 `verify_evidence.py compare`。内部 original 的哈希一致不证明无增句；只核局部须明列范围。网页返回 200 但锚句缺失，先按取证失败处理。
 4. 列出可成立的读法，再找原始资料、可靠词典或具名研究。社区注解只作线索；查不到便存疑。
 5. 为新增来源登记具体页面与用途。不要把仅看过书目写成读过正文，不凭记忆引用既有中译。
 

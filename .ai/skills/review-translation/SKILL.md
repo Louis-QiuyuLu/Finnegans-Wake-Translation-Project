@@ -15,6 +15,7 @@ description: "Use when reviewing a Finnegans Wake draft or revision in this repo
 2. **底本与译义。** 核起止、词形、标点和见证版本；逐句核动作、否定、连接、指代、语气及刻意空缺。记录漏译、无据增补和强加关系。新版本不能静默换入，歧义不能因一种解释较顺便消失。
 3. **声形与中文。** 核混合词、音形叠合、节奏、重复和语域；说明中文保留与舍弃哪层。依余光中规则删弱动词、空话、多余「的」「们」和不必要被动，缩短句子；不借润色抹掉原文连缀或未完成状态。改首尾须联读 003.01 与 628.15–628.16。
 4. **逐注证据。** 确认每条来源究竟支持哪句；原著、档案、具名研究和社区线索分开。`supported` 不表示作者意图已证实。无据词源、人名关系和语言链删断言或降级；来源 ID 能解析不等于来源支持主张。
+   精确页码、图版和发现者署名依 [可复现考据](../joyce-research/references/reproducible-investigation.md) 重开来源定点核查。镜像同文不重复计证；只有文字取证时，不放行图像材质与图版位置。
 5. **术语与异译。** 术语表约束具体语境，不强制 HCE／ALP 每处同译或同一身份。问题交 [maintain-glossary](../maintain-glossary/SKILL.md) 形成增量。已有中译只比实际核过的原页；本项目备选须明示署名与取舍。
 
 若既有证据不足且结论会改正文或注释，交 [joyce-research](../joyce-research/SKILL.md) 定点核查。研究交稿须分 `claim`、`evidence`、`interpretation`、`translation_impact`；核过证据再采信，不凭摘要升格事实。英、中、日研究互查可用于实质争议；普通释义与措辞不机械另开三语检索。

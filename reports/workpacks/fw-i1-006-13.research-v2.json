@@ -1,0 +1,57 @@
+{
+  "id": "fw-i1-006-13",
+  "locator": "006.13–007.15",
+  "range": [
+    6,
+    13,
+    7,
+    15
+  ],
+  "source_id": "joyce-fp",
+  "original": "Shize? I should shee! Macool, Macool, orra whyi deed ye diie? of a trying thirstay mournin? Sobs they sighdid at Fillagain's chrissormiss wake, all the hoolivans of the nation, prostrated in their consternation and their duodisimally profusive plethora of ululation. There was plumbs and grumes and cheriffs and citherers and raiders and cinemen too. And the all gianed in with the shoutmost shoviality. Agog and magog and the round of them agrog. To the continuation of that celebration until Hanandhunigan's extermination! Some in kinkin corass, more, kankan keening. Belling him up and filling him down. He's stiff but he's steady is Priam Olim! 'Twas he was the dacent gaylabouring youth. Sharpen his pillowscone, tap up his bier! E'erawhere in this whorl would ye hear sich a din again? With their deepbrow fundigs and the dusty fidelios. They laid him brawdawn alanglast bed. With a bockalips of finisky fore his feet. And a barrowload of guenesis hoer his head. Tee the tootal of the fluid hang the twoddle of the fuddled, O! Hurrah, there is but young gleve for the owl globe wheels in view which is tautaulogically the same thing. Well, Him a being so on the flounder of his bulk like an overgrown babeling, let wee peep, see, at Hom, well, see peegee ought he ought, platterplate. Hum! From Shopalist to Bailywick or from ashtun to baronoath or from Buythebanks to Roundthehead or from the foot of the bill to ireglint's eye he calmly extensolies. And all the way (a horn!) from fjord to fjell his baywinds' oboboes shall wail him rockbound (hoahoahoah!) in swimswamswum and all the livvylong night, the delldale dalppling night, the night of bluerybells, her flittaflute in tricky trochees (O carina! O carina!) wake him. With her issavan essavans and her patterjackmartins about all them inns and ouses. Tilling a teel of a tum, telling a toll of a teary turty Taubling. Grace before Glutton. For what we are, gifs à gross if we are, about to believe. So pool the begg and pass the kish for crawsake. Omen. So sigh us. Grampupus is fallen down but grinny sprids the boord. Whase on the joint of a desh? Finfoefom the Fush. Whase be his baken head? A loaf of Singpantry's Kennedy bread. And whase hitched to the hop in his tayle? A glass of Danu U'Dunnell's foamous olde Dobbelin ayle. But, lo, as you would quaffoff his fraudstuff and sink teeth through that pyth of a flowerwhite bodey behold of him as behemoth for he is noewhemoe. Finiche! Only a fadograph of a yestern scene.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "fabf34db40630589d45bed2910c0797056fbdfb729ca6108653a9fc24b44a7f1"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "4061d25afc979fe53755c4096e73d6467234c8397751be1cfd9e561129242937"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "previous_segment_id": "fw-i1-005-13",
+  "next": [
+    7,
+    16
+  ],
+  "next_original": "Yet may we not see still the brontoichthyan form",
+  "questions": [
+    {
+      "lemma": "see peegee ought he ought, platterplate",
+      "question": "图版位置、图题、解释归属与译法损失分别能核到哪里？",
+      "impact": "i1-seepeegee 注释；本轮不改正文"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "旧注曾混淆发现者并写入未经原图支持的材质。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958 第八印本转录",
+      "scope": "006.30（Well 起）–006.32",
+      "result": "本轮只核该局部；网页工具缓存可读，直接 HTTP 转向书目。006.33 字母图形与全段其余文字不在本轮核对范围。"
+    }
+  ],
+  "limitations": [
+    "本包保存研究输入，不声明全段 source_ready。旧 fw-i1-006-13 与 fw-i1-006-32 工作包坐标已过时，保留供追溯，不沿用其核对结论。"
+  ]
+}

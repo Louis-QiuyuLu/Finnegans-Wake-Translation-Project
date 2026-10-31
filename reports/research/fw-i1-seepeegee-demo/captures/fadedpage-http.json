@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-31T16:55:17.562182+00:00",
+  "requested_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "effective_url": "https://www.fadedpage.com/showbook.php?pid=20180126",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 19273,
+  "sha256": "018cb6d1e32992bde104eb1b0351ec8d5dd39894a295b4a4de3a53886fb1ccec",
+  "title": "Finnegans Wake",
+  "anchors": [
+    {
+      "text": "see peegee ought he ought",
+      "count": 0
+    }
+  ],
+  "errors": [
+    "anchor_missing: see peegee ought he ought"
+  ],
+  "normalized_text_sha256": "3231b56789f6a7f7b1fbfaa6b77b20716be8b3e5f5555ed481c6bcba919fa73b",
+  "ok": false,
+  "limit": "Retrieval only; verify identity, edition, page and reading manually."
+}

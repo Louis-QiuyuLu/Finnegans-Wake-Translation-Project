@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "ok": true,
+  "verdict": "text_equal",
+  "locator": "006.30（Well 起）–006.32",
+  "source_id": "joyce-fp",
+  "witness_sha256": "f94237d5219f03e0443f88b2401eccc4db398979023d73dac9a84d0337ec8e0e",
+  "candidate_sha256": "f94237d5219f03e0443f88b2401eccc4db398979023d73dac9a84d0337ec8e0e",
+  "normalization": "Unicode whitespace only; punctuation and accents retained",
+  "diff": "",
+  "errors": [],
+  "limit": "Bounded text comparison only; provenance and non-text elements require human inspection.",
+  "candidate_file": "manuscript/chapters/I-1.json",
+  "candidate_file_sha256": "fabf34db40630589d45bed2910c0797056fbdfb729ca6108653a9fc24b44a7f1",
+  "witness_file_sha256": "a04be0b5d3b49b31a5f7b6d7d7784f1e5fd1ced2b2713acaf1b651eb991ec4be",
+  "scope": {
+    "start": "Well, Him a being",
+    "end": "platterplate.",
+    "segment_id": "fw-i1-006-13"
+  }
+}

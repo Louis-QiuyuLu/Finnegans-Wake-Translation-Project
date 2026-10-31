@@ -1,0 +1,15 @@
+{
+  "basis": "external_witness",
+  "source_id": "joyce-fp",
+  "url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking Press 1958 第八印本，Faded Page 转录",
+  "capture_method": "web_tool_cached_transcription",
+  "accessed": "2026-11-01",
+  "capture_locator": "web.open 实际返回的带行号正文；006.30–32 对应工具行250–252；008局部对应315–317。工具行号仅供定位，通行页行另核。",
+  "limitations": [
+    "网页工具缓存转录，不是本轮直接 HTTP 下载，也未核纸本影像。",
+    "仅取比对所需短段；不声称全段完整或图形已编码。"
+  ],
+  "locator": "006.30（Well 起）–006.32",
+  "text": "Well, Him a being\nso on the flounder of his bulk like an overgrown babeling, let wee\npeep, see, at Hom, well, see peegee ought he ought, platterplate."
+}

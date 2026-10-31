@@ -611,10 +611,10 @@
   {
     "id": "moret-egypt",
     "title": "Alexandre Moret: Rois et Dieux d'Égypte (1911)",
-    "url": "https://archive.org/details/roisetdieuxd00more",
-    "type": "commentary",
-    "accessed": "2026-10-31",
-    "use": "候选图像线索。原交稿声称已核第88页；本轮未能核原书该页，不能当作已查阅图版的证据。"
+    "url": "https://archive.org/details/roisetdieuxdgyp00moregoog",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "实查1911年扉页、印刷页88及其后图版X：PDF第15、116、117页；图版题名与地点已核。未凭图像断言材质或Joyce阅读史。"
   },
   {
     "id": "ibsen-solness",
@@ -808,5 +808,13 @@
     "type": "primary",
     "accessed": "2026-11-01",
     "use": "核玄石来自天园、原白而因人的罪变黑的传述；不混称古兰经经句。"
+  },
+  {
+    "id": "troy-osiris",
+    "title": "Mark L. Troy: Mummeries of Resurrection: The Cycle of Osiris in Finnegans Wake（Uppsala, 1976）",
+    "url": "http://www.rosenlake.net/fw/Troy-Mummeries/troybook.htm",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "查2002年Eric Rosenbloom HTML重印之 Osiris, Mummified and Roused 小节及图II；核FW006.32图版读法和Maciej Slomczynski署名。未核1976纸本；网页自述OCR仍有误，纸页仅作近似；公开HTTP，非加密传输。"
   }
 ]

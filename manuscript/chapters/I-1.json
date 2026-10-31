@@ -1372,11 +1372,12 @@
           "id": "i1-seepeegee",
           "lemma": "see peegee ought he ought, platterplate",
           "kind": "allusion",
-          "certainty": "uncertain",
-          "text": "see peegee ought he ought 可听作“see page eighty-eight”（见第88页），platterplate 将盘与图版并置。社区释义把它联系到 Moret《埃及诸王与诸神》中的图版；本轮未核原书相应页，暂存为线索，不据此断定唯一图像或发现者。",
+          "certainty": "supported",
+          "text": "see peegee ought he ought 可听作“see page eighty-eight”（见第88页）。Troy 据此联到 Moret《埃及诸王与诸神》：1911 年版第88页后插入图版 X，图题为“死去的奥西里斯－乌恩内弗之守灵”，注明阿拜多斯、塞提一世神庙。Troy 将此联系归给 Maciej Slomczynski；这里只交代该文所记归属，不断定首发者。platterplate 叠合 platter（盘）与 plate（图版），兼留盘中横陈之意。图版吻合仍不足以单独证明 Joyce 的用书路径。",
           "source_ids": [
+            "joyce-fp",
             "moret-egypt",
-            "fw-page6"
+            "troy-osiris"
           ]
         },
         {

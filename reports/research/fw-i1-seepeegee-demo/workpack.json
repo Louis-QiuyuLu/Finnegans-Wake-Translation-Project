@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "package_id": "fw-i1-seepeegee-demo",
+  "workpack_ref": "reports/workpacks/fw-i1-006-13.research-v2.json",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "fabf34db40630589d45bed2910c0797056fbdfb729ca6108653a9fc24b44a7f1"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "4061d25afc979fe53755c4096e73d6467234c8397751be1cfd9e561129242937"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "segment_ids": [
+    "fw-i1-006-13"
+  ],
+  "witness": {
+    "source_id": "joyce-fp",
+    "locator": "006.30–006.32"
+  },
+  "scope": {
+    "question_ids": [
+      "q-page",
+      "q-attribution",
+      "q-intent"
+    ],
+    "languages": [
+      "en",
+      "zh",
+      "ja"
+    ],
+    "exclusions": [
+      "不重译全段",
+      "不证明 Joyce 阅读某一册书",
+      "不比较未取得的中日译本正文"
+    ]
+  },
+  "questions": [
+    {
+      "id": "q-page",
+      "lemma": "see peegee ought he ought, platterplate",
+      "question": "所指图版能否定位到 Moret 1911 的印刷页与图版号？",
+      "hypothesis": "Troy 所指图版可在1911扫描本定位",
+      "alternatives": [
+        "评论误记页码或沿用另一版本"
+      ],
+      "would_support": [
+        "扉页年份与图版实页相合"
+      ],
+      "would_weaken": [
+        "该版没有相应插页"
+      ],
+      "translation_impact": "注内保留页码谐音与图版之义。"
+    },
+    {
+      "id": "q-attribution",
+      "lemma": "see peegee",
+      "question": "谁提出这条联系？",
+      "hypothesis": "旧注的 Atherton 署名混入邻段",
+      "alternatives": [
+        "Atherton另有独立论证，尚未取得"
+      ],
+      "would_support": [
+        "Troy直接说明此条归属"
+      ],
+      "would_weaken": [
+        "具名研究显示不同发现链"
+      ],
+      "translation_impact": "只按已读研究归属，不封定首位发现者。"
+    },
+    {
+      "id": "q-intent",
+      "lemma": "platterplate",
+      "question": "图版事实是否足以证明 Joyce 用书路径？",
+      "hypothesis": "不足以确证作者意图",
+      "alternatives": [
+        "手稿、书信或读书记录可补路径"
+      ],
+      "would_support": [
+        "直接档案缺席且评论属解释"
+      ],
+      "would_weaken": [
+        "可定位生成材料明确指此书"
+      ],
+      "translation_impact": "正文保多义，注释不写唯一原意。"
+    }
+  ],
+  "language_passes": [
+    {
+      "language": "en",
+      "scope": "FW局部、Troy相关小节、Moret原图",
+      "status": "searched",
+      "limitations": "Troy只读网页重印局部，未核1976纸本。"
+    },
+    {
+      "language": "zh",
+      "scope": "芬尼根＋莫雷／第88页／奥西里斯",
+      "status": "searched",
+      "limitations": "本轮未取得直接相关中文学术正文或译本页，不推断中文研究不存在。"
+    },
+    {
+      "language": "ja",
+      "scope": "Moret／88／フィネガンズ；大島2018机构记录",
+      "status": "searched",
+      "limitations": "只核元数据与摘要；PDF入口失败，索引片段不作正文证据。"
+    }
+  ],
+  "input_note": "旧工作包坐标有误；本包以当前公共稿固定输入，并以独立外部短摘录核本题文字。"
+}

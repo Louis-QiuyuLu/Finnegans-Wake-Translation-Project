@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_id": "moret-egypt",
+  "accessed": "2026-11-01",
+  "requested_url": "https://archive.org/download/roisetdieuxdgyp00moregoog/roisetdieuxdgyp00moregoog.pdf",
+  "effective_url": "https://dn760109.eu.archive.org/0/items/roisetdieuxdgyp00moregoog/roisetdieuxdgyp00moregoog.pdf",
+  "http_status": 200,
+  "bytes": 12972635,
+  "sha256": "47326467057bdfddef18bdd2783a6d6bb20ac40aea02ec61ecc8f3d2b879bcf8",
+  "metadata_url": "https://archive.org/metadata/roisetdieuxdgyp00moregoog",
+  "title_page": {
+    "file_page": 15,
+    "observation": "A. Moret；Rois et dieux d’Égypte；Librairie Armand Colin；Paris；1911。"
+  },
+  "read_ranges": [
+    {
+      "printed_pages": "88",
+      "file_pages": [
+        116
+      ],
+      "observation": "正文页，页首实印88。"
+    },
+    {
+      "printed_pages": "无页码，Planche X，正文88与89之间",
+      "file_pages": [
+        117
+      ],
+      "rotation_clockwise_degrees": 90,
+      "observation": "图题 Veillée funèbre d’Osiris-Ounnefer mort；括号说明 Abydos, temple de Séti I。浮雕照片，未见木雕说明。"
+    },
+    {
+      "printed_pages": "89",
+      "file_pages": [
+        119
+      ],
+      "observation": "后续正文页首实印89；PDF118为插页背面。"
+    }
+  ],
+  "transcription_status": "image_checked",
+  "scope_limit": "只核扉页、88正文页、图版X与邻页定位；不据图像独断原物材质或 Joyce 阅读史。",
+  "storage": "整书仅暂存 /private/tmp；不提交扫描书缓存。"
+}

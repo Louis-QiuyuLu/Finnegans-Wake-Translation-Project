@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "package_id": "fw-i1-seepeegee-demo",
+  "workpack_ref": "reports/workpacks/fw-i1-006-13.research-v2.json",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "fabf34db40630589d45bed2910c0797056fbdfb729ca6108653a9fc24b44a7f1"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "4061d25afc979fe53755c4096e73d6467234c8397751be1cfd9e561129242937"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "segment_ids": [
+    "fw-i1-006-13"
+  ],
+  "witness": {
+    "source_id": "joyce-fp",
+    "locator": "006.30–006.32"
+  },
+  "scope": {
+    "question_ids": [
+      "q-page",
+      "q-attribution",
+      "q-intent"
+    ],
+    "languages": [
+      "en",
+      "zh",
+      "ja"
+    ],
+    "exclusions": [
+      "不重译全段",
+      "不证明 Joyce 阅读某一册书",
+      "不比较未取得的中日译本正文"
+    ]
+  },
+  "questions": [
+    {
+      "id": "q-page",
+      "lemma": "see peegee ought he ought, platterplate",
+      "question": "所指图版能否定位到 Moret 1911 的印刷页与图版号？",
+      "hypothesis": "Troy 所指图版可在1911扫描本定位",
+      "alternatives": [
+        "评论误记页码或沿用另一版本"
+      ],
+      "would_support": [
+        "扉页年份与图版实页相合"
+      ],
+      "would_weaken": [
+        "该版没有相应插页"
+      ],
+      "translation_impact": "注内保留页码谐音与图版之义。"
+    },
+    {
+      "id": "q-attribution",
+      "lemma": "see peegee",
+      "question": "谁提出这条联系？",
+      "hypothesis": "旧注的 Atherton 署名混入邻段",
+      "alternatives": [
+        "Atherton另有独立论证，尚未取得"
+      ],
+      "would_support": [
+        "Troy直接说明此条归属"
+      ],
+      "would_weaken": [
+        "具名研究显示不同发现链"
+      ],
+      "translation_impact": "只按已读研究归属，不封定首位发现者。"
+    },
+    {
+      "id": "q-intent",
+      "lemma": "platterplate",
+      "question": "图版事实是否足以证明 Joyce 用书路径？",
+      "hypothesis": "不足以确证作者意图",
+      "alternatives": [
+        "手稿、书信或读书记录可补路径"
+      ],
+      "would_support": [
+        "直接档案缺席且评论属解释"
+      ],
+      "would_weaken": [
+        "可定位生成材料明确指此书"
+      ],
+      "translation_impact": "正文保多义，注释不写唯一原意。"
+    }
+  ],
+  "language_passes": [
+    {
+      "language": "en",
+      "scope": "FW局部、Troy相关小节、Moret原图",
+      "status": "searched",
+      "limitations": "Troy只读网页重印局部，未核1976纸本。"
+    },
+    {
+      "language": "zh",
+      "scope": "芬尼根＋莫雷／第88页／奥西里斯",
+      "status": "searched",
+      "limitations": "本轮未取得直接相关中文学术正文或译本页，不推断中文研究不存在。"
+    },
+    {
+      "language": "ja",
+      "scope": "Moret／88／フィネガンズ；大島2018机构记录",
+      "status": "searched",
+      "limitations": "只核元数据与摘要；PDF入口失败，索引片段不作正文证据。"
+    }
+  ],
+  "input_note": "旧工作包坐标有误；本包以当前公共稿固定输入，并以独立外部短摘录核本题文字。",
+  "source_records": [
+    {
+      "source_id": "joyce-fp",
+      "title": "Finnegans Wake",
+      "creator": "James Joyce",
+      "date_or_edition": "Viking 1958 第八印本；Faded Page 转录",
+      "language": "en",
+      "stable_url": "https://www.fadedpage.com/books/20180126/html.php",
+      "accessed": "2026-11-01",
+      "source_kind": [
+        "primary_text"
+      ],
+      "access": "online_full",
+      "read_state": "passage_read",
+      "read_ranges": [
+        "006.30（Well 起）–006.32；008.21–23局部反例"
+      ],
+      "locator_system": "见 read_ranges；印刷页与文件页分别记",
+      "transcription_status": "transcription_only",
+      "cited_via": [],
+      "limitations": [
+        "网页工具缓存可读正文；直接HTTP转向书目页，已保留失败记录。",
+        "006.33另有字母图形；此文字比对不覆盖它。"
+      ],
+      "independence_group": "joyce-fp"
+    },
+    {
+      "source_id": "troy-osiris",
+      "title": "Mummeries of Resurrection: The Cycle of Osiris in Finnegans Wake",
+      "creator": "Mark L. Troy",
+      "date_or_edition": "Uppsala 1976 博士论文；Eric Rosenbloom 2002 HTML 重印",
+      "language": "en",
+      "stable_url": "http://www.rosenlake.net/fw/Troy-Mummeries/troybook.htm",
+      "accessed": "2026-11-01",
+      "source_kind": [
+        "scholarship"
+      ],
+      "access": "online_full",
+      "read_state": "passage_read",
+      "read_ranges": [
+        "目录、电子版说明、书目；Osiris, Mummified and Roused 小节；图II及附近署名段。目录给小节起页32、图II页33；网页明说纸页定位仅作近似，未冒称核1976纸本。",
+        "导论中定位 photograph facing page eighty-eight 的局部。"
+      ],
+      "locator_system": "见 read_ranges；印刷页与文件页分别记",
+      "transcription_status": "ocr_unverified",
+      "cited_via": [],
+      "limitations": [
+        "公开HTTP；HTTPS证书／网关失败，未关闭TLS验证。",
+        "网页自述OCR仍有错字；本轮核HTML文字，未核纸本。",
+        "只支持已读解释和其明示署名，不穷尽首发史。"
+      ],
+      "independence_group": "troy-1976"
+    },
+    {
+      "source_id": "moret-egypt",
+      "title": "Rois et dieux d’Égypte",
+      "creator": "Alexandre Moret",
+      "date_or_edition": "Paris: Librairie Armand Colin, 1911",
+      "language": "fr",
+      "stable_url": "https://archive.org/details/roisetdieuxdgyp00moregoog",
+      "accessed": "2026-11-01",
+      "source_kind": [
+        "primary_text"
+      ],
+      "access": "online_full",
+      "read_state": "passage_read",
+      "read_ranges": [
+        "扉页 PDF15；印刷88=PDF116；无页码图版X=PDF117；印刷89=PDF119。"
+      ],
+      "locator_system": "见 read_ranges；印刷页与文件页分别记",
+      "transcription_status": "image_checked",
+      "cited_via": [],
+      "limitations": [
+        "只核本题图版与定位，未通读全书。",
+        "图题地点不单独证明原物材质。"
+      ],
+      "independence_group": "moret-1911"
+    },
+    {
+      "source_id": "oshima-2018",
+      "title": "ジェイムズ・ジョイス『フィネガンズ・ウェイク』 第１部第１章の概要（3.1〜29.36）",
+      "creator": "大島由紀夫 / Yukio Oshima",
+      "date_or_edition": "東京海洋大学研究報告14（2018），105–122；2018-02-28",
+      "language": "ja",
+      "stable_url": "https://oacis.repo.nii.ac.jp/records/1525",
+      "accessed": "2026-11-01",
+      "source_kind": [
+        "scholarship",
+        "translation"
+      ],
+      "access": "metadata_only",
+      "read_state": "abstract_read",
+      "read_ranges": [
+        "机构题录与摘要；搜索索引另显示印刷107局部，不当作已读PDF。"
+      ],
+      "locator_system": "见 read_ranges；印刷页与文件页分别记",
+      "transcription_status": "not_applicable",
+      "cited_via": [],
+      "limitations": [
+        "官方PDF入口429/503；CORE镜像403，未核原页或书目。",
+        "摘要说明有逐字译，也有撮述，性质为概要。",
+        "索引出现Moret88联系仅记待核线索；未证其转引来源，不能当独立确证。"
+      ],
+      "independence_group": "oshima-2018-untraced"
+    },
+    {
+      "source_id": "chrisp-2020",
+      "title": "HCE interred in the landscape",
+      "creator": "Peter Chrisp",
+      "date_or_edition": "2020-07-18 博客",
+      "language": "en",
+      "stable_url": "https://peterchrisp.blogspot.com/2020/07/hce-interred-in-landscape.html",
+      "accessed": "2026-11-01",
+      "source_kind": [
+        "community_lead"
+      ],
+      "access": "partial",
+      "read_state": "discovered",
+      "read_ranges": [
+        "搜索结果 HCE AS OSIRIS 摘录，明确引 Troy；未靠此替代学位论文。"
+      ],
+      "locator_system": "见 read_ranges；印刷页与文件页分别记",
+      "transcription_status": "index_excerpt",
+      "cited_via": [
+        "troy-osiris"
+      ],
+      "limitations": [
+        "只作找源线索，不与 Troy 重复计证。"
+      ],
+      "independence_group": "troy-1976"
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "e-fw",
+      "source_id": "joyce-fp",
+      "exact_location": "006.30–32",
+      "read_state": "passage_read",
+      "observation": "页码声串与 platterplate 在同一句；与公共稿局部比对一致。",
+      "relation": "supports",
+      "scope_limit": "文字局部；不含006.33图形。",
+      "artifact": "captures/fw-006-collation-input.json"
+    },
+    {
+      "evidence_id": "e-troy-name",
+      "source_id": "troy-osiris",
+      "exact_location": "Osiris, Mummified and Roused，小节中 Mr. Slomczynski 段；随后 James Atherton 段",
+      "read_state": "passage_read",
+      "observation": "Troy 将图版联系归给 Maciej Slomczynski；紧邻 Atherton 的私人通信说明谈 fado，不是这条发现署名。",
+      "relation": "supports",
+      "scope_limit": "Troy如何归属；不据此封定最早发现者。",
+      "quote": "Mr. Slomczynski has discovered",
+      "quote_language": "en",
+      "artifact": "captures/troy-http.json"
+    },
+    {
+      "evidence_id": "e-troy-page",
+      "source_id": "troy-osiris",
+      "exact_location": "导论定位 Moret 的段落；Osiris, Mummified and Roused；图II目录项",
+      "read_state": "passage_read",
+      "observation": "导论说图版面对88页；正文将声串、图像与唤醒 Osiris 相联。图II目录简记p88。",
+      "relation": "supports",
+      "scope_limit": "网页重印文字；纸本页码未逐页复核。"
+    },
+    {
+      "evidence_id": "e-moret-image",
+      "source_id": "moret-egypt",
+      "exact_location": "1911扫描本PDF15、116、117、119",
+      "read_state": "passage_read",
+      "observation": "扉页1911；印刷88后为无页码图版X，图题注明死亡的Osiris-Ounnefer及Abydos塞提一世神庙。PDF117图横排，转90度查看。",
+      "relation": "supports",
+      "scope_limit": "图版事实；图像不足以断定材质，更不能证明Joyce读书路径。",
+      "artifact": "captures/moret-scan.json"
+    },
+    {
+      "evidence_id": "e-ja",
+      "source_id": "oshima-2018",
+      "exact_location": "机构记录作者、摘要、卷期与页码；索引107页局部仅作线索",
+      "read_state": "abstract_read",
+      "observation": "题录与摘要可确认论文作者、年卷页码及概要性质；本轮没有取得可核的PDF原页。",
+      "relation": "context_only",
+      "scope_limit": "不可据题录或索引补引文、脚注、转引链。"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "c-sound",
+      "question_id": "q-page",
+      "claim_text": "此声串可听作 see page eighty-eight，并联图版义。",
+      "claim_type": "interpretation",
+      "evidence_ids": [
+        "e-fw",
+        "e-troy-page"
+      ],
+      "counterevidence_ids": [],
+      "interpretation": "采用具名研究读法，保留 platter 与 plate 的叠合。",
+      "reasoning": "原词声音与 Troy 所述路径相容。",
+      "remaining_gap": "谐音不是独占解释。",
+      "independence_group": "troy-1976",
+      "decision": "adopt_as_attributed_reading",
+      "translation_impact": "本轮不改正文，注中说明盘与图版相叠。"
+    },
+    {
+      "claim_id": "c-plate",
+      "question_id": "q-page",
+      "claim_text": "1911扫描本图版X位于印刷页88之后、89之前；PDF第117页。",
+      "claim_type": "literal_fact",
+      "evidence_ids": [
+        "e-moret-image"
+      ],
+      "counterevidence_ids": [],
+      "interpretation": "精确区分p88与插页，不把PDF第88页当原书88。",
+      "reasoning": "扉页年份、88正文、图版X与89正文连续目视核对。",
+      "remaining_gap": "未核其他印次装订。",
+      "independence_group": "moret-1911",
+      "decision": "adopt",
+      "translation_impact": "注内写第88页后图版X。"
+    },
+    {
+      "claim_id": "c-name",
+      "question_id": "q-attribution",
+      "claim_text": "Troy 把这条联系归给 Maciej Słomczyński。",
+      "claim_type": "historical_fact",
+      "evidence_ids": [
+        "e-troy-name"
+      ],
+      "counterevidence_ids": [],
+      "interpretation": "署名限定为Troy所记，不写世界首位发现。",
+      "reasoning": "主句明确署名，邻段Atherton另谈fado。",
+      "remaining_gap": "未查Słomczyński本人首发、通信及Atherton其他著作。",
+      "independence_group": "troy-1976",
+      "decision": "adopt_with_scope",
+      "translation_impact": "纠正旧交稿署名，注内保归属。"
+    },
+    {
+      "claim_id": "c-wood",
+      "question_id": "q-page",
+      "claim_text": "该图为木雕照片。",
+      "claim_type": "historical_fact",
+      "evidence_ids": [
+        "e-moret-image"
+      ],
+      "counterevidence_ids": [],
+      "interpretation": "删除无据材质，改述浮雕图版。",
+      "reasoning": "图题未注明木；现有材料不能支持该材质断言，亦未据此证明绝非木材。",
+      "remaining_gap": "若论材料，须另查对象编号与博物馆目录。",
+      "independence_group": "moret-1911",
+      "decision": "reject_unsupported_detail",
+      "translation_impact": "不把未经查实的材料写入注。"
+    },
+    {
+      "claim_id": "c-intent",
+      "question_id": "q-intent",
+      "claim_text": "Joyce 已经由此图明确指定唯一原意。",
+      "claim_type": "intertextual_path",
+      "evidence_ids": [],
+      "counterevidence_ids": [],
+      "interpretation": "不采用强断言。",
+      "reasoning": "词音、图像和研究解释不足以独自证明作者阅读路径及唯一意图。",
+      "remaining_gap": "未查稿层、读书笔记、书信或藏书证据。",
+      "independence_group": null,
+      "decision": "unresolved",
+      "translation_impact": "注内保“可听作”“Troy据此联到”，不把原句改成直白书目指令。"
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "q-en",
+      "question_id": "q-page",
+      "language": "en",
+      "entry_url": null,
+      "search_method": "web.search_query 工具；提供者未显示，保留精确检索式供复查。",
+      "query": "\"see peegee\" \"Slomczynski\"",
+      "filters": null,
+      "date": "2026-11-01",
+      "viewed_range": "本轮工具返回的摘要列表；命中计数未显示",
+      "hit_count": null,
+      "result": "命中Peter Chrisp转引Troy，回查Troy相关原文；未把博客当第二份独立证据。",
+      "next_step": "需要更强结论时只补相关原页，不凑三语引文。"
+    },
+    {
+      "query_id": "q-zh1",
+      "question_id": "q-page",
+      "language": "zh",
+      "entry_url": null,
+      "search_method": "web.search_query 工具；提供者未显示，保留精确检索式供复查。",
+      "query": "\"芬尼根\" \"莫雷\" \"88\"",
+      "filters": null,
+      "date": "2026-11-01",
+      "viewed_range": "本轮工具返回的摘要列表；命中计数未显示",
+      "hit_count": null,
+      "result": "所见摘要多为无关同名项，未得本题中文学术正文。",
+      "next_step": "需要更强结论时只补相关原页，不凑三语引文。"
+    },
+    {
+      "query_id": "q-zh2",
+      "question_id": "q-page",
+      "language": "zh",
+      "entry_url": null,
+      "search_method": "web.search_query 工具；提供者未显示，保留精确检索式供复查。",
+      "query": "\"芬尼根的守灵夜\" \"第88页\"",
+      "filters": null,
+      "date": "2026-11-01",
+      "viewed_range": "本轮工具返回的摘要列表；命中计数未显示",
+      "hit_count": null,
+      "result": "未取得可直接核本题的中文论文或译本页；非穷尽检索。",
+      "next_step": "需要更强结论时只补相关原页，不凑三语引文。"
+    },
+    {
+      "query_id": "q-ja",
+      "question_id": "q-page",
+      "language": "ja",
+      "entry_url": null,
+      "search_method": "web.search_query 工具；提供者未显示，保留精确检索式供复查。",
+      "query": "\"フィネガンズ\" \"モレ\" \"88\"",
+      "filters": null,
+      "date": "2026-11-01",
+      "viewed_range": "本轮工具返回的摘要列表；命中计数未显示",
+      "hit_count": null,
+      "result": "命中大島2018官方PDF与CORE索引；回机构题录确认作者与文种，PDF下载受阻。",
+      "next_step": "需要更强结论时只补相关原页，不凑三语引文。"
+    }
+  ],
+  "comparisons": [
+    {
+      "objects": [
+        "FW006.32",
+        "Moret1911图版X",
+        "Troy解释"
+      ],
+      "relation": "具名解释与原图核对；非作者路径确证"
+    }
+  ],
+  "negative_results": [
+    {
+      "query_id": "q-zh1",
+      "scope": "本轮摘要返回范围",
+      "result": "未得直接相关中文学术正文",
+      "limitations": "无权据此声称中文无人研究",
+      "next_step": "若需译本比较，取得具名刊本相应页。"
+    },
+    {
+      "query_id": "q-ja",
+      "scope": "官方PDF与CORE镜像",
+      "result": "官方429/503；CORE403；只保元数据及索引线索",
+      "limitations": "未核脚注与引文链",
+      "next_step": "合法可读副本到手后定点核107页及书目。"
+    }
+  ],
+  "open_questions": [
+    "Słomczyński本人首发与通信未核。",
+    "Joyce用书路径、稿层及具体印次未核。",
+    "日文论文正文、转引链与中文译本相应页未核。"
+  ]
+}

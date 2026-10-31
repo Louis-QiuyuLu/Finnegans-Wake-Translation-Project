@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "ok": false,
+  "verdict": "text_mismatch",
+  "locator": "008.21（This is his big wide harse 起）–008.23（This is an inimyskilling inglis 止）",
+  "source_id": "joyce-fp",
+  "witness_sha256": "433819ad3dea031c7d7dcd4be12848969a50ad74d604e2d57eec2492474ae303",
+  "candidate_sha256": "8c17dfc6c3d02407c35b7ad183f970e25fd6de6dde8477d4488019d0131214b8",
+  "normalization": "Unicode whitespace only; punctuation and accents retained",
+  "diff": "--- external-witness\n+++ candidate\n@@ -5,6 +5,28 @@\n wide\n harse.\n Tip.\n+This\n+is\n+the\n+first\n+in\n+the\n+ditch.\n+This\n+is\n+the\n+gay\n+first\n+lipoleum\n+boy\n+that\n+spy\n+the\n+Willingdone\n+on\n+his\n+white\n+harse.\n This\n is\n the",
+  "errors": [],
+  "limit": "Bounded text comparison only; provenance and non-text elements require human inspection.",
+  "candidate_file": "reports/workpacks/fw-i1-008-06.json",
+  "candidate_file_sha256": "04d92022cf0f6e4136fec3c21bc8c3ca1dec098e53fe70372b5961fb4826153a",
+  "witness_file_sha256": "da4588a95bde8eddfd0394abb60afd59f2d36058b0f00d80f9eeec05281f9b9a",
+  "scope": {
+    "start": "This is his big wide harse.",
+    "end": "This is an inimyskilling inglis,",
+    "segment_id": null
+  }
+}

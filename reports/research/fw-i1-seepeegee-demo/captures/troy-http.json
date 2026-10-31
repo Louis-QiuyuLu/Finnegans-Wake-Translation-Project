@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-31T16:55:16.210007+00:00",
+  "requested_url": "http://www.rosenlake.net/fw/Troy-Mummeries/troybook.htm",
+  "effective_url": "http://www.rosenlake.net/fw/Troy-Mummeries/troybook.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 266336,
+  "sha256": "cb00f3b821e439e7889b2b577227db862a187e9fed17beb31b87068f12713d61",
+  "title": "Mummeries of Resurrection -- Mark L. Troy",
+  "anchors": [
+    {
+      "text": "Mr. Slomczynski has discovered",
+      "count": 1
+    }
+  ],
+  "errors": [],
+  "normalized_text_sha256": "a82726832f4bd45db1c3e43c579be6d21e6da49e3e51bea9eb1c3890aa960fe7",
+  "ok": true,
+  "limit": "Retrieval only; verify identity, edition, page and reading manually."
+}
