@@ -229,7 +229,7 @@ def reading_settings():
 </div></dialog>'''
 
 
-def page(title, body, data, prefix="", current=""):
+def page(title, body, data, prefix="", current="", home=False):
     config = data["config"]
     menu = []
     last_book = None
@@ -242,6 +242,7 @@ def page(title, body, data, prefix="", current=""):
     utilities = (f'<a href="{prefix}glossary.html">译名</a><a href="{prefix}sources.html">资料</a>'
                  + f'<a href="{escape(config["repository"])}">GitHub ↗</a>')
     contents = ''.join(menu)
+    home_styles = f'<link rel="stylesheet" href="{prefix}assets/home.css">' if home else ''
     directory = ('<dialog id="contents-dialog" class="reader-dialog contents-dialog" aria-labelledby="contents-title">'
                  + '<header class="dialog-header"><div><h2 id="contents-title">全书目录</h2><p>四卷 · 十七章</p></div>'
                  + '<button type="button" class="dialog-close" data-close-dialog aria-label="关闭全书目录" autofocus>×</button></header>'
@@ -253,7 +254,9 @@ def page(title, body, data, prefix="", current=""):
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-serif-vf.css">'
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-sans-vf.css">'
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css">'
-            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head><body>'
+            + f'<link rel="stylesheet" href="{prefix}assets/style.css">' + home_styles
+            + f'<script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head>'
+            + ('<body class="home">' if home else '<body>')
             + '<a class="skip" href="#main">跳至正文</a><header class="topbar">'
             + f'<a class="brand" href="{prefix}index.html">FW<span>守灵夜译注</span></a><nav aria-label="主导航">'
             + '<span class="header-utilities">' + utilities + '</span>'
@@ -310,6 +313,28 @@ def build_epub(data, out):
             book.writestr("EPUB/" + name, content)
 
 
+def render_home(data):
+    stats = statistics(data)
+    first = slug(data["chapters"][0])
+    last = slug(data["chapters"][-1])
+    engraving = (ROOT / "site" / "river-engraving.svg").read_text(encoding="utf-8")
+    hero = ('<div class="home-folio"><span>FINNEGANS WAKE</span><span>中文译注 · 持续修订</span></div>'
+            + '<section class="hero"><div class="hero-copy"><p class="eyebrow"><span class="folio-rule" aria-hidden="true"></span> JAMES JOYCE</p>'
+            + '<h1><span>芬尼根的</span><br><em>守灵夜</em></h1><p class="book-title-en" lang="en">Finnegans Wake</p>'
+            + '<p class="lead">循河入梦，逐字寻声。</p><p class="hero-description">一部仍在生长的中文译注。让原文、异译与出处并置，让双关保留余地。</p>'
+            + f'<div class="actions"><a class="button primary" href="chapters/{first}.html">从河流开始 <span aria-hidden="true">↗</span></a>'
+            + '<a class="epub-link" href="downloads/finnegans-wake-zh.epub" download>下载试译 EPUB <span aria-hidden="true">↓</span></a></div></div>'
+            + '<figure class="cover-art"><div class="art-caption-top"><span>RIVER / DREAM / RETURN</span><span aria-hidden="true">↺</span></div>'
+            + engraving + '<figcaption><span>河流 · 梦境 · 回环</span><span lang="en">riverrun</span></figcaption></figure></section>')
+    stats_markup = ''.join(f'<div><strong>{stats[key]:02d}</strong><span>{label}</span></div>' for key, label in [("chapters", "章目录"), ("segments", "段试译"), ("notes", "条译注"), ("reviewed", "段已审校")])
+    hero += ('<section class="progress"><div class="section-heading"><h2>译注札记</h2><span>WORK IN PROGRESS</span></div><div class="stats">' + stats_markup
+             + f'</div><p>据当前章稿统计 · {stats["complete"]} 章已核完整覆盖 · 试译仍待审校</p></section>')
+    hero += ('<section class="approach"><div><p class="eyebrow">READ · LISTEN · RETURN</p><h2>读正文，也读字缝。</h2>'
+             + '<p>译文尽量顺着中文呼吸。词源、典故、声音与歧义留在注内；证据不足便存疑。</p></div>'
+             + f'<div class="return-note"><span class="return-word" aria-hidden="true" lang="en">riverrun</span><a href="chapters/{last}.html">到末尾听一次回声 <span aria-hidden="true">↗</span></a></div></section>')
+    return hero
+
+
 def build(data, out):
     errors = validate(data)
     if errors:
@@ -318,17 +343,11 @@ def build(data, out):
     site = out / "site"
     for path in [site / "chapters", site / "assets", site / "downloads"]:
         path.mkdir(parents=True, exist_ok=True)
-    for name in ["style.css", "reader-model.js", "reader.js"]:
+    for name in ["style.css", "home.css", "reader-model.js", "reader.js"]:
         shutil.copyfile(ROOT / "site" / name, site / "assets" / name)
     shutil.copytree(ROOT / "site" / "vendor", site / "assets" / "vendor", dirs_exist_ok=True)
     stats = statistics(data)
-    first_slug = slug(data["chapters"][0])
-    last_slug = slug(data["chapters"][-1])
-    hero = ('<section class="hero"><p class="eyebrow">JAMES JOYCE · FINNEGANS WAKE</p><h1>芬尼根的<br><em>守灵夜</em></h1><p class="lead">循河入梦，逐字寻声。</p><p>一部仍在生长的中文译注。让原文、异译与出处并置，让双关保留余地。</p>'
-            + f'<div class="actions"><a class="button primary" href="chapters/{first_slug}.html">从河流开始 →</a><a class="button" href="downloads/finnegans-wake-zh.epub" download>下载试译 EPUB</a></div></section>')
-    hero += '<section class="progress"><h2>译注札记 · 首版</h2><div class="stats">' + ''.join(f'<div><strong>{stats[key]}</strong><span>{label}</span></div>' for key, label in [("chapters", "章目录"), ("segments", "段试译"), ("notes", "条译注"), ("reviewed", "段已审校")]) + '</div><p>开篇与末尾片段已录入；尚无整章译完。此处只统计实际稿件。</p></section>'
-    hero += f'<section class="approach"><p class="eyebrow">READ · LISTEN · RETURN</p><h2>读正文，也读字缝。</h2><p>译文尽量顺着中文呼吸。词源、典故、声音与歧义留在注内；证据不足便存疑。</p><a href="chapters/{last_slug}.html">到末尾听一次回声 →</a></section>'
-    (site / "index.html").write_text(page("译注工程", hero, data), encoding="utf-8")
+    (site / "index.html").write_text(page("译注工程", render_home(data), data, home=True), encoding="utf-8")
     for i, chapter in enumerate(data["chapters"]):
         head = f'<p class="eyebrow">BOOK {chapter["book"]} · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</p><h1>{escape(chapter["title"])}</h1>'
         head += f'<p class="status-notice">{COVERAGE[chapter["coverage"]]}。样稿尚待人工审校。</p>' if chapter["segments"] else ''
