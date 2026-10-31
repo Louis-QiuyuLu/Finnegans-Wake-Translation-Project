@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "id": "fw-i1-004-01",
+  "locator": "004.01–004.17",
+  "range": [4, 1, 4, 17],
+  "source_id": "joyce-fp",
+  "original": "",
+  "baseline": {
+    "manuscript": {"path": "manuscript/chapters/I-1.json", "sha256": ""},
+    "sources": {"path": "sources/catalog.json", "sha256": ""},
+    "glossary": {"path": "glossary/terms.json", "sha256": ""}
+  },
+  "source_checks": [],
+  "questions": [],
+  "terms": [],
+  "research_decision": {"required": false, "reason": ""},
+  "previous_segment_id": "fw-i1-003-15",
+  "next": [4, 18],
+  "next_original": ""
+}

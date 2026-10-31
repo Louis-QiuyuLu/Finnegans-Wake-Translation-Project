@@ -21,12 +21,14 @@
 以下技能随仓库保存；按任务读取对应 `SKILL.md`，无需安装到全局目录。路径从仓库根目录起算。
 
 - 核底本、导入 EPUB／HTML、划页行：`.ai/skills/prepare-source/SKILL.md`。
+- 查英、中、日 Joyce 研究、跨作品互文或比较译本：`.ai/skills/joyce-research/SKILL.md`。
+- 新增、改订或比较跨段译名：`.ai/skills/maintain-glossary/SKILL.md`。
 - 开始或继续翻译：`.ai/skills/translate-chapter/SKILL.md`，另读其 `references/roles.md`。
 - 核译义、出处、中文和异译：`.ai/skills/review-translation/SKILL.md`。
 - 保存、恢复、章末覆盖核对：`.ai/skills/checkpoint/SKILL.md`。
 - 合入读者意见、检查和同步：`.ai/skills/contribute/SKILL.md`。
 
-顺序为：核底本 → 初译 → 审校与修订 → 保存断点 → 检查并同步。整合者统一回写公共章稿；委派任务须明确输入、输出与可写文件，并保留他人改动。
+顺序为：核底本 → 按需研究与核译名 → 初译 → 审校与修订 → 保存断点 → 检查并同步。整合者统一回写公共章稿；委派任务须明确输入、输出与可写文件，并保留他人改动。架构、阶段关口、固定输入及研究回写合同见 `docs/SKILLS_ARCHITECTURE.md`。`project.py` 不读取 `reports/`，工作包与研究结论须另行验收，不能凭格式检查放行。
 
 ## 验证与提交
 

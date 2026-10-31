@@ -44,15 +44,21 @@
 
 ### 项目技能
 
-参考目录包含贡献、EPUB 转 Markdown、多角色翻译三类技能。本项目保留分段交稿、相关术语、独立审校和上下文衔接，整理为五项：[参考技能目录](https://github.com/QriDoki/in-search-of-lost-time-translation-project/tree/main/.ai/skills)。
+参考目录包含贡献、EPUB 转 Markdown、多角色翻译三类技能。本项目保留章节协调、分段交稿、相关术语、独立审校和上下文衔接，扩为七项。各技能附交接格式、失败条件和按需参考文档。[参考技能目录](https://github.com/QriDoki/in-search-of-lost-time-translation-project/tree/main/.ai/skills) · [本项目架构与阶段关口](docs/SKILLS_ARCHITECTURE.md)。
 
 1. [prepare-source：核对底本与分段](.ai/skills/prepare-source/SKILL.md)。
-2. [translate-chapter：逐段译注](.ai/skills/translate-chapter/SKILL.md)，附 [角色约定](.ai/skills/translate-chapter/references/roles.md)。
-3. [review-translation：审校译义、出处与中文](.ai/skills/review-translation/SKILL.md)。
-4. [checkpoint：保存断点与上下文](.ai/skills/checkpoint/SKILL.md)。
-5. [contribute：合入修订与同步 GitHub](.ai/skills/contribute/SKILL.md)。
+2. [joyce-research：英中日研究与跨文本比较](.ai/skills/joyce-research/SKILL.md)。
+3. [maintain-glossary：译名、变体与增量合并](.ai/skills/maintain-glossary/SKILL.md)。
+4. [translate-chapter：逐段译注](.ai/skills/translate-chapter/SKILL.md)，附 [角色约定](.ai/skills/translate-chapter/references/roles.md)。
+5. [review-translation：审校译义、出处与中文](.ai/skills/review-translation/SKILL.md)。
+6. [checkpoint：保存断点与上下文](.ai/skills/checkpoint/SKILL.md)。
+7. [contribute：合入修订与同步 GitHub](.ai/skills/contribute/SKILL.md)。
 
-技能存于仓库 `.ai/skills/`，由 [AGENTS.md](AGENTS.md) 指引读取，无需全局安装。续译依次执行五项；多人或多代理协作时，译者交完整段落对象，审校者交意见，整合者统一回写 JSON 章稿。工作包、初译、审校记录与摘要存于 `reports/`。参考项目按文件位置跳过首尾、删除图片及普鲁斯特角色设定，均不沿用；《守灵夜》须保留首尾正文、字母符号与有文义作用的排版。
+技能存于仓库 `.ai/skills/`，由 [AGENTS.md](AGENTS.md) 指引读取，无需全局安装。以 [底本包模板](templates/workpack.json) 固定输入，以 [批次模板](templates/batch.json) 保存状态；译者交完整段落对象，审校者绑定实际交稿版本，整合者统一回写 JSON 章稿。工作包、研究主张、初译、审校记录与摘要存于 `reports/`。参考项目按位置跳首末、删图和普鲁斯特身份设定均不沿用；《守灵夜》须保留首尾正文、字母符号与有文义作用的排版。
+
+三语研究比较原著、书信、手稿、笔记、学术解释和既有译本，逐项记录证据、异议与译法影响。只见书目或摘要便说明查阅限度；三语没有引文配额，某语资料不可得也不凑结论。研究主张经采用决定后，才进入注释或备选译法。声形相似不能独自证明互文，AI 审校也不能代替人工署名。
+
+技能格式、交接场景和当前工具限制见 [验收记录](reports/skills-validation.md)。
 
 ### 中文译本
 

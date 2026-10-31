@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "batch_id": "I-1-fw-i1-004-01",
+  "chapter": "I.1",
+  "segment_ids": ["fw-i1-004-01"],
+  "segments": {
+    "fw-i1-004-01": {
+      "stage": "preparing",
+      "workpack": {"path": "reports/workpacks/fw-i1-004-01.json", "sha256": ""},
+      "draft": null,
+      "review": null,
+      "revisions": [],
+      "revision_round": 0,
+      "attempts": [],
+      "integration": {"state": "not_integrated", "fields": [], "unresolved": []}
+    }
+  },
+  "publication": {"state": "not_published", "commit": null, "url": null, "checked_at": null}
+}

@@ -1,27 +1,28 @@
 ---
 name: review-translation
-description: "Use when reviewing a Finnegans Wake draft, checking bilingual fidelity, evaluating annotations and sources, correcting Anglicized Chinese, or comparing verified alternative translations."
+description: "Use when reviewing a Finnegans Wake draft or revision in this repository, checking annotation evidence, diagnosing a disputed reading, or deciding whether a review still applies after its input changed."
 ---
 
 # 审校译文与注释
 
-先读 `AGENTS.md`、`docs/EDITORIAL_GUIDE.md` 与本批工作包、初译、相关来源。路径均从仓库根目录起算。
+先读 `AGENTS.md`、`docs/EDITORIAL_GUIDE.md`、`docs/SOURCES.md`、`docs/MANUSCRIPT_FORMAT.md` 与指定工作包、待审稿和相关来源。路径均从仓库根目录起算。只审分配版本；只写报告，不改输入、公共章稿或断点。
 
-## 审校次序
+报告格式、问题处置、过期重核与两轮收敛见 [审校协议](references/review-protocol.md)。同段初译者若随后自检，报告标 `self_check`；独立审校须由另一位实际执行者完成。AI 审校不等于人工审校。
 
-1. **底本**：核起止、词形、标点、版本与原排页行。注明直接查阅和仅据转录之处。新版本读法不能静默替换当前见证。
-2. **译义**：逐句核动作、否定、主从、指代和语气；圈出漏译与无据增补。对模糊句法保留分歧，不把解释塞作叙事事实。
-3. **声形**：核复合词、重音、节奏、人物／地名叠影和跨段照应。汉语舍掉哪层，注释须明说。首尾改动须联读 003.01 与 628.15–628.16。
-4. **出处**：逐注确认来源支持什么。原著、档案、研究意见和社区猜测分开。无法核实的词源、人名或语言链删去断言，降为 `proposal` 或 `uncertain`。
-5. **中文**：朗读后删翻译腔。用实义动词，少「的」，不用「之一」凑判断，不添多余「们」；减少被动和空话。不能借润色消除 Joyce 刻意的歧义。
-6. **异译与状态**：已有中译只比较核过的原页；项目备选须标项目署名。AI 校对不算人工审校。
+## 核对次序
 
-## 交付
+1. **输入与范围。** 先核 ID、坐标、来源和原文是否吻合工作包，记录工作包、原文与实际待审 JSON 的 SHA256。只核注释便声明局部范围；不能把局部复核写成全段通过。输入改动后，旧报告仅供追溯。
+2. **底本与译义。** 核起止、词形、标点和见证版本；逐句核动作、否定、连接、指代、语气及刻意空缺。记录漏译、无据增补和强加关系。新版本不能静默换入，歧义不能因一种解释较顺便消失。
+3. **声形与中文。** 核混合词、音形叠合、节奏、重复和语域；说明中文保留与舍弃哪层。依余光中规则删弱动词、空话、多余「的」「们」和不必要被动，缩短句子；不借润色抹掉原文连缀或未完成状态。改首尾须联读 003.01 与 628.15–628.16。
+4. **逐注证据。** 确认每条来源究竟支持哪句；原著、档案、具名研究和社区线索分开。`supported` 不表示作者意图已证实。无据词源、人名关系和语言链删断言或降级；来源 ID 能解析不等于来源支持主张。
+5. **术语与异译。** 术语表约束具体语境，不强制 HCE／ALP 每处同译或同一身份。问题交 [maintain-glossary](../maintain-glossary/SKILL.md) 形成增量。已有中译只比实际核过的原页；本项目备选须明示署名与取舍。
 
-写 `reports/reviews/<segment-id>.md`，包含范围、所读资料、核对限度、具体问题、建议和未决事项。每项用「词目／问题／依据／建议」交代；有实质问题才提出修改，不为凑数造缺陷。
+若既有证据不足且结论会改正文或注释，交 [joyce-research](../joyce-research/SKILL.md) 定点核查。研究交稿须分 `claim`、`evidence`、`interpretation`、`translation_impact`；核过证据再采信，不凭摘要升格事实。英、中、日研究互查可用于实质争议；普通释义与措辞不机械另开三语检索。
 
-审校者只写报告，章稿由整合者回写。整合者保留 `draft`，修订 `translation`，并在报告记录采用、未采用及理由。最多两轮定点修订；只剩风格偏好便交付。
+## 交付与放行
 
-AI 实际修订后可标 `revised`，`reviewers` 仍空。`reviewed` 须真实人工核对并留名。自动检查不能证明译义正确。
+只写分配的 `reports/reviews/<id>.r0.md` 或 `.r1.md`、`.r2.md`。报告绑定输入，按稳定问题编号写「词目／问题／依据／建议／是否阻断」，列所读资料、实际核对范围、未核项与结论。无实质问题便直接说明，不凑缺陷，也不整段重译。
 
-完成后交 [checkpoint](../checkpoint/SKILL.md)，不能仅因报告存在便判定整章完成。
+整合者与译者在交接说明逐项记录采用、未采用、补证或延期及理由；保留初译，另交修订版本。初译后最多两轮定点修订。两轮后仍漏译、混本或使用假来源，交 `blocked` 报告；只剩风格偏好或已明示的学术分歧，可收口。一般解释存疑已有保守译法时，可留 `uncertain`，不拖成无限研究。
+
+AI 实际修订后公共稿可用 `revised`，不自填人工 `reviewers`。既有已审段落发生内容改动，整合者撤销当前稿的已审标记，历史留在版本记录。全段审校通过也不能证明整章覆盖；断点与章末由 [checkpoint](../checkpoint/SKILL.md) 另核。

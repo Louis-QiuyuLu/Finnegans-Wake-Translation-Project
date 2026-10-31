@@ -7,6 +7,8 @@ description: "Use when incorporating reader corrections, editing the canonical F
 
 先读 `AGENTS.md`、`CONTRIBUTING.md`、本批报告与现有差异。路径均从仓库根目录起算。
 
+输入固定、研究回写和阶段关口见 `docs/SKILLS_ARCHITECTURE.md`。本技能处理合入与发布，不以格式检查替代译义或学术审查。
+
 ## 定位与修订
 
 1. 用户指出译句时，用段落 ID 或页行定位 `manuscript/chapters/*.json`。对照当前原文、译注和上下文，不直接改 `polish/dev/` 或其他生成稿。
@@ -34,3 +36,5 @@ python3 scripts/project.py check-artifacts
 - 确认远端稿件和部署结果。Pages 尚在构建便报构建中；网页尚未更新便不声称已经上线。
 
 公开读本由 `main` 自动构建；本机试改不等于仓库修订。最终交付给出可用网页或提交链接，以及下一断点。
+
+完整同步、冲突、部署和版本说明约定见 [同步与发布](references/sync-and-release.md)。
