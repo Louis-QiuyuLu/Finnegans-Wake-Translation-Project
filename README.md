@@ -4,7 +4,9 @@
 
 [在线阅读](https://louis-qiuyulu.github.io/Finnegans-Wake-Translation-Project/) · [从开篇读起](https://louis-qiuyulu.github.io/Finnegans-Wake-Translation-Project/chapters/I-1.html) · [续译断点](progress/RESUME.md)
 
-循河入梦，逐字寻声。这个工程逐段翻译《芬尼根的守灵夜》，保存底本、初译、修订、译注与异译，再从同一份稿件生成网页和 EPUB。
+循河入梦，逐字寻声。
+
+这个工程逐段翻译《芬尼根的守灵夜》，保存底本、初译、修订、译注与异译，再从同一份稿件生成网页和 EPUB。
 
 参考 [QriDoki 的《追忆似水年华》翻译工程](https://github.com/QriDoki/in-search-of-lost-time-translation-project)，另设页行定位、证据分级与首尾联动审校。代码和试译均重新编写；项目技能借鉴其分工与交接流程，按《守灵夜》改写。
 
