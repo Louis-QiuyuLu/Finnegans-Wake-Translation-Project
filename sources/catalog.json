@@ -319,5 +319,69 @@
     "type": "community",
     "accessed": "2026-10-31",
     "use": "Dublin、魔鬼、利菲河与人名的叠读线索；保留 1958 年见证本连写，不默换为其他版本。"
+  },
+  {
+    "id": "translation-dai-2025",
+    "title": "《文艺报》：戴从容访谈与2025年三册全译注释本",
+    "url": "https://wyb.chinawriter.com.cn/content/202607/31/content84784.html",
+    "type": "interview",
+    "accessed": "2026-10-31",
+    "use": "核对译者、简体全译注释本、2025年8月出版、两家出版社及译者所述18年历程；用于README译介背景，不表示已查阅译本原页。"
+  },
+  {
+    "id": "translation-liang-launch",
+    "title": "台湾师范大学：《芬尼根守靈》新书发布新闻稿",
+    "url": "https://www.eng.ntnu.edu.tw/wp-content/uploads/2024/12/new-FW%E6%96%B0%E6%9B%B8%E7%99%BC%E8%A1%A8%E6%9C%83-%E6%96%B0%E8%81%9E%E7%A8%BF1210_%E5%AE%9A%E7%A8%BF.pdf",
+    "type": "institutional",
+    "accessed": "2026-10-31",
+    "use": "核对梁孙杰汉语全译本及2025年1月12日新书发布安排；不把发布会日期当作版权页初版日期。"
+  },
+  {
+    "id": "translation-liang-interview",
+    "title": "书林出版：梁孙杰访谈《盲龜求浮木，心定道自明》",
+    "url": "https://www.bookman.com.tw/news/detail/43",
+    "type": "interview",
+    "accessed": "2026-10-31",
+    "use": "访谈于2025年1月20日进行，出版社网页标2026年1月29日；核对约12年的起算说明及更早片段尝试。"
+  },
+  {
+    "id": "translation-liang-publisher",
+    "title": "书林出版：梁孙杰全译本介绍",
+    "url": "https://www.bookman.com.tw/news/detail/24",
+    "type": "publisher",
+    "accessed": "2026-10-31",
+    "use": "核对书林出版与梁孙杰全译本；只登记译介背景，不引用现成译文。"
+  },
+  {
+    "id": "translation-suzuki-1969",
+    "title": "日本国立国会图书馆：铃木幸夫等《フィネガン徹夜祭》译解第11回",
+    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I190139",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "检索书目记《早稻田文学》1(11)、1969年12月、72–77页、铃木幸夫等；仅核书目信息，未读馆内限定正文。"
+  },
+  {
+    "id": "translation-osawa-1978",
+    "title": "日本国立国会图书馆：《世界の文学》卷1",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001378445",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对集英社1978年6月刊本及大泽正佳等选译《守灵夜》五篇；不记作全译。"
+  },
+  {
+    "id": "translation-yanase-cinii",
+    "title": "CiNii：柳濑尚纪译《フィネガンズ・ウェイク》",
+    "url": "https://ci.nii.ac.jp/ncid/BN06806679",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对《I・II》《III・IV》两册及1991年9月至1993年10月刊行范围。"
+  },
+  {
+    "id": "translation-yanase-publisher",
+    "title": "河出书房新社：柳濑尚纪译《フィネガンズ・ウェイク III・IV》",
+    "url": "https://www.kawade.co.jp/np/isbn/9784309202280/",
+    "type": "publisher",
+    "accessed": "2026-10-31",
+    "use": "核对完结册1993年10月20日出版与柳濑尚纪署名；不沿用1991年已全译完成的说法。"
   }
 ]
