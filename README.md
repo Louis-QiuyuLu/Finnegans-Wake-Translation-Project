@@ -1,4 +1,4 @@
-# 《芬尼根的守灵夜》中文译注工程 by Louis.Akisame with LLM
+# 《芬尼根的守灵夜》中文注疏 by Louis.Akisame with LLM
 
 **James Joyce · Finnegans Wake**
 
