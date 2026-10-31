@@ -1,12 +1,51 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { normalizePreferences, mergeRevisions, rebaseRevision, prepareExport } = require('../site/reader-model.js');
+const { normalizePreferences, normalizeTheme, normalizeScript, createTextVariantStore, mergeRevisions, rebaseRevision, prepareExport } = require('../site/reader-model.js');
 
 const chapter = () => ({id:'I.1', segments:[{id:'s1', original:'riverrun', draft:'初译', translation:'现译', status:'reviewed', reviewers:['reader'], notes:[{id:'n1', text:'原注', source_ids:['joyce']}]}]});
 
 test('preference values stay within supported reading ranges', () => {
-  assert.deepEqual(normalizePreferences({fontSize:99,lineHeight:0,width:'bad',font:'unknown'}), {fontSize:36,lineHeight:1.5,width:760,font:'serif'});
-  assert.deepEqual(normalizePreferences({fontSize:22,lineHeight:2,width:700,font:'sans'}), {fontSize:22,lineHeight:2,width:700,font:'sans'});
+  assert.deepEqual(normalizePreferences({fontSize:99,lineHeight:0,width:'bad',font:'unknown'}), {fontSize:36,lineHeight:1.5,width:760,font:'serif',margin:24});
+  assert.deepEqual(normalizePreferences({fontSize:22,lineHeight:2,width:700,font:'sans'}), {fontSize:22,lineHeight:2,width:700,font:'sans',margin:24});
+});
+
+test('legacy reading choices gain a margin without losing existing values', () => {
+  assert.deepEqual(normalizePreferences({fontSize:28,lineHeight:2.3,width:960,font:'kai'}), {fontSize:28,lineHeight:2.3,width:960,font:'kai',margin:24});
+  assert.equal(normalizePreferences({margin:200}).margin,64);
+  assert.equal(normalizePreferences({margin:-5}).margin,12);
+  assert.equal(normalizePreferences({margin:'36'}).margin,36);
+  assert.equal(normalizePreferences({margin:'invalid'}).margin,24);
+});
+
+test('corrupt stored preferences fall back to readable defaults', () => {
+  for (const input of [null, false, [], 'corrupt']) assert.deepEqual(normalizePreferences(input), {fontSize:24,lineHeight:2.1,width:760,font:'serif',margin:24});
+});
+
+test('four reading themes keep legacy light and dark choices', () => {
+  for (const theme of ['paper','light','sage','dark']) assert.equal(normalizeTheme(theme),theme);
+  for (const theme of [null,'unknown',{},'']) assert.equal(normalizeTheme(theme),'paper');
+});
+
+test('script choices preserve the simplified default for old or damaged settings', () => {
+  assert.equal(normalizeScript('hant'),'hant');
+  for (const value of ['hans',null,'invalid',{}]) assert.equal(normalizeScript(value),'hans');
+});
+
+test('display conversion always returns to the exact source instead of reverse converting', () => {
+  const convert = text => text.replaceAll('后','後').replaceAll('发','髮');
+  const store = createTextVariantStore(convert);
+  const node = {nodeValue:'皇后留着头发'};
+  store.render(node,'hant');
+  assert.equal(node.nodeValue,'皇後留着头髮');
+  store.render(node,'hant');
+  assert.equal(node.nodeValue,'皇後留着头髮');
+  store.render(node,'hans');
+  assert.equal(node.nodeValue,'皇后留着头发');
+  node.nodeValue='新修订的头发';
+  store.render(node,'hant');
+  assert.equal(node.nodeValue,'新修订的头髮');
+  store.render(node,'hans');
+  assert.equal(node.nodeValue,'新修订的头发');
 });
 
 test('edited translation and note preserve source data and require another review', () => {

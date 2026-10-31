@@ -1,42 +1,63 @@
 (() => {
   const root = document.documentElement;
-  const themeButton = document.querySelector('#theme-toggle');
   const stored = (key) => { try { return localStorage.getItem(key); } catch { return null; } };
   const save = (key, value) => { try { localStorage.setItem(key, value); return true; } catch { return false; } };
   const readJSON = (key, fallback) => { try { return JSON.parse(stored(key)) || fallback; } catch { return fallback; } };
-  const setTheme = (theme) => {
-    root.dataset.theme = theme;
-    themeButton.textContent = theme === 'dark' ? '日读' : '夜读';
-    themeButton.setAttribute('aria-pressed', String(theme === 'dark'));
+  const storageHint = document.getElementById('reading-settings-hint');
+  const persist = (key, value) => {
+    const saved = save(key, value);
+    if (storageHint) storageHint.textContent = saved ? '设置只保存在当前浏览器' : '已应用到本页，浏览器未能保存设置。';
+    return saved;
   };
-  setTheme(stored('fw:theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
-  themeButton.addEventListener('click', () => {
-    const theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
-    setTheme(theme);
-    save('fw:theme', theme);
-  });
-  if (matchMedia('(max-width: 700px)').matches) document.querySelector('.sidebar details')?.removeAttribute('open');
-  const preferenceInputs = {fontSize:document.getElementById('font-size'), lineHeight:document.getElementById('line-height'), width:document.getElementById('reading-width'), font:document.getElementById('reading-font')};
-  const fonts = {serif:'var(--serif)', sans:'var(--sans)', kai:'"Kaiti SC","STKaiti","KaiTi",var(--serif)'};
+  const themeNames = {paper:'纸张', light:'浅色', sage:'护眼', dark:'深色'};
+  const fontNames = {serif:'思源宋体', sans:'思源黑体', kai:'霞鹜文楷'};
+  const fonts = {serif:'var(--serif)', sans:'var(--sans)', kai:'var(--kai)'};
+  const preferenceInputs = {fontSize:document.getElementById('font-size'), lineHeight:document.getElementById('line-height'), width:document.getElementById('reading-width'), margin:document.getElementById('reading-margin')};
+  let preferences = FWReader.normalizePreferences(readJSON('fw:reading-preferences', {}));
+  const updateSummary = () => {
+    const summary = document.getElementById('reading-summary');
+    if (summary) summary.textContent = `${fontNames[preferences.font]} · ${preferences.fontSize}px · ${themeNames[root.dataset.theme]}`;
+  };
+  const setTheme = (value) => {
+    const theme = FWReader.normalizeTheme(value);
+    root.dataset.theme = theme;
+    document.querySelectorAll('[data-reading-theme]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.readingTheme === theme)));
+    updateSummary();
+    return theme;
+  };
   const setPreferences = (values) => {
-    const preferences = FWReader.normalizePreferences(values);
+    preferences = FWReader.normalizePreferences(values);
     root.style.setProperty('--reading-size', `${preferences.fontSize}px`);
     root.style.setProperty('--reading-leading', preferences.lineHeight);
     root.style.setProperty('--reading-width', `${preferences.width}px`);
+    root.style.setProperty('--reading-margin', `${preferences.margin}px`);
     root.style.setProperty('--reading-font', fonts[preferences.font]);
     for (const [key, input] of Object.entries(preferenceInputs)) if (input) input.value = preferences[key];
-    for (const [id, value] of [['font-size-value',preferences.fontSize],['line-height-value',preferences.lineHeight],['reading-width-value',preferences.width]]) {
-      const output=document.getElementById(id);
-      if (output) output.textContent=value;
+    for (const [id, value] of [['line-height-value',preferences.lineHeight.toFixed(1)],['reading-width-value',`${preferences.width}px`],['reading-margin-value',`${preferences.margin}px`]]) {
+      const output = document.getElementById(id);
+      if (output) output.textContent = value;
     }
+    document.querySelectorAll('[data-reading-font]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.readingFont === preferences.font)));
+    const smaller = document.getElementById('decrease-font');
+    const larger = document.getElementById('increase-font');
+    if (smaller) smaller.disabled = preferences.fontSize <= 18;
+    if (larger) larger.disabled = preferences.fontSize >= 36;
+    updateSummary();
     return preferences;
   };
-  setPreferences(readJSON('fw:reading-preferences', {}));
-  for (const input of Object.values(preferenceInputs)) input?.addEventListener('input', () => {
-    const values=Object.fromEntries(Object.entries(preferenceInputs).map(([key, control]) => [key, control.value]));
-    save('fw:reading-preferences',JSON.stringify(setPreferences(values)));
+  const changePreferences = (values) => persist('fw:reading-preferences', JSON.stringify(setPreferences(values)));
+  setTheme(stored('fw:theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'paper'));
+  setPreferences(preferences);
+  for (const [key, input] of Object.entries(preferenceInputs)) input?.addEventListener(key === 'fontSize' ? 'change' : 'input', () => changePreferences({...preferences, [key]:input.value}));
+  preferenceInputs.fontSize?.addEventListener('input', event => {
+    const value = Number(event.target.value);
+    if (event.target.value !== '' && Number.isFinite(value) && value >= 18 && value <= 36) changePreferences({...preferences, fontSize:value});
   });
-  document.getElementById('reset-reading')?.addEventListener('click', () => save('fw:reading-preferences',JSON.stringify(setPreferences({}))));
+  for (const [id, step] of [['decrease-font',-1],['increase-font',1]]) document.getElementById(id)?.addEventListener('click', () => changePreferences({...preferences, fontSize:preferences.fontSize + step}));
+  document.querySelectorAll('[data-reading-font]').forEach(button => button.addEventListener('click', () => changePreferences({...preferences, font:button.dataset.readingFont})));
+  document.querySelectorAll('[data-reading-theme]').forEach(button => button.addEventListener('click', () => persist('fw:theme', setTheme(button.dataset.readingTheme))));
+
+  if (matchMedia('(max-width: 700px)').matches) document.querySelector('.sidebar details')?.removeAttribute('open');
   for (const [id, className] of [['show-original', 'hide-original'], ['show-notes', 'hide-notes']]) {
     const input = document.getElementById(id);
     if (!input) continue;
@@ -44,8 +65,103 @@
     document.body.classList.toggle(className, !input.checked);
     input.addEventListener('change', () => {
       document.body.classList.toggle(className, !input.checked);
-      save(`fw:${id}`, String(input.checked));
+      persist(`fw:${id}`, String(input.checked));
     });
+  }
+  document.getElementById('reset-reading')?.addEventListener('click', () => {
+    const saved = changePreferences({});
+    const themeSaved = persist('fw:theme', setTheme('paper'));
+    const scriptSaved = persist('fw:script', setScript('hans'));
+    let togglesSaved = true;
+    for (const [id, className] of [['show-original','hide-original'],['show-notes','hide-notes']]) {
+      const input = document.getElementById(id);
+      if (input) input.checked = true;
+      document.body.classList.remove(className);
+      togglesSaved = save(`fw:${id}`, 'true') && togglesSaved;
+    }
+    if (storageHint) storageHint.textContent = saved && themeSaved && scriptSaved && togglesSaved ? '已恢复默认阅读设置，本机修订仍保留。' : '已恢复本页设置，浏览器未能保存；本机修订未改动。';
+  });
+
+  const openers = new Map();
+  document.querySelectorAll('[data-open-dialog]').forEach(button => button.addEventListener('click', () => {
+    const dialog = document.getElementById(button.dataset.openDialog);
+    if (!dialog || dialog.open) return;
+    openers.set(dialog, button);
+    dialog.showModal();
+    button.setAttribute('aria-expanded', 'true');
+    document.body.classList.add('dialog-open');
+  }));
+  document.querySelectorAll('.reader-dialog').forEach(dialog => {
+    let startedOnBackdrop = false;
+    const outside = event => {
+      const rect = dialog.getBoundingClientRect();
+      return event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom;
+    };
+    dialog.addEventListener('pointerdown', event => { startedOnBackdrop = event.target === dialog && outside(event); });
+    dialog.addEventListener('click', event => { if (startedOnBackdrop && event.target === dialog && outside(event)) dialog.close(); });
+    dialog.querySelector('[data-close-dialog]')?.addEventListener('click', () => dialog.close());
+    dialog.addEventListener('close', () => {
+      const opener = openers.get(dialog);
+      opener?.setAttribute('aria-expanded', 'false');
+      document.body.classList.toggle('dialog-open', Boolean(document.querySelector('.reader-dialog[open]')));
+      opener?.focus({preventScroll:true});
+    });
+  });
+  // Convert display text from an exact cached source. Editor values and chapter JSON stay untouched.
+  const scriptToggle = document.getElementById('script-toggle');
+  const scriptButtons = [...document.querySelectorAll('[data-reading-script]')];
+  const converter = typeof OpenCC === 'object' ? OpenCC.Converter({from:'cn', to:'tw'}) : null;
+  const variants = FWReader.createTextVariantStore(converter || (text => text));
+  let script = 'hans';
+  const attributeExcluded = 'script,style,code,pre,[contenteditable],.original,[lang="en"],[data-no-convert]';
+  const excluded = `textarea,input,${attributeExcluded}`;
+  const attributes = new WeakMap();
+  const renderScript = () => {
+    observer.disconnect();
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    while (walker.nextNode()) {
+      const node = walker.currentNode;
+      if (!node.parentElement.closest(excluded)) variants.render(node, script);
+    }
+    document.querySelectorAll('[aria-label],[placeholder],[title]').forEach(element => {
+      if (element.closest(attributeExcluded)) return;
+      const saved = attributes.get(element) || {};
+      for (const name of ['aria-label','placeholder','title']) {
+        if (!element.hasAttribute(name)) continue;
+        const value = element.getAttribute(name);
+        const node = saved[name] || {nodeValue:value};
+        node.nodeValue = value;
+        variants.render(node, script);
+        if (value !== node.nodeValue) element.setAttribute(name, node.nodeValue);
+        saved[name] = node;
+      }
+      attributes.set(element, saved);
+    });
+    observer.observe(document.body, {childList:true, subtree:true, characterData:true});
+  };
+  const observer = new MutationObserver(renderScript);
+  const setScript = value => {
+    script = converter ? FWReader.normalizeScript(value) : 'hans';
+    root.lang = script === 'hant' ? 'zh-Hant' : 'zh-Hans';
+    scriptButtons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.readingScript === script)));
+    if (scriptToggle) {
+      scriptToggle.textContent = script === 'hant' ? '简体' : '繁體';
+      scriptToggle.setAttribute('aria-label', script === 'hant' ? '切換為簡體中文' : '切换为繁体中文');
+    }
+    renderScript();
+    return script;
+  };
+  setScript(stored('fw:script'));
+  const changeScript = value => {
+    persist('fw:script', setScript(value));
+    document.getElementById('reader-search')?.dispatchEvent(new Event('input'));
+  };
+  scriptToggle?.addEventListener('click', () => changeScript(script === 'hans' ? 'hant' : 'hans'));
+  scriptButtons.forEach(button => button.addEventListener('click', () => changeScript(button.dataset.readingScript)));
+  if (!converter) {
+    if (scriptToggle) scriptToggle.disabled = true;
+    scriptButtons.forEach(button => { button.disabled = true; });
+    if (storageHint) storageHint.textContent = '简繁字形工具未能加载，请刷新后重试。其余阅读设置可照常使用。';
   }
   const search = document.getElementById('reader-search');
   const segments = [...document.querySelectorAll('.segment')];

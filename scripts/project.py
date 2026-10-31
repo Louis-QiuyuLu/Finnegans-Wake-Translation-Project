@@ -212,6 +212,23 @@ def render_glossary(data):
         + paragraphs(t["note"]) + f'<p class="source-links">{source_links(t["source_ids"], data)}</p></section>' for t in data["glossary"])
 
 
+def reading_settings():
+    return '''<dialog id="reading-settings" class="reader-dialog" aria-labelledby="reading-settings-title" aria-describedby="reading-settings-hint">
+<header class="dialog-header"><div><h2 id="reading-settings-title">阅读设置</h2><p id="reading-settings-hint">设置只保存在当前浏览器</p></div><button type="button" class="dialog-close" data-close-dialog aria-label="关闭阅读设置" autofocus>×</button></header>
+<div class="settings-body">
+<div class="setting-row"><label for="font-size">字号</label><div class="size-stepper"><button type="button" id="decrease-font" aria-label="减小字号">A−</button><div class="size-number"><input id="font-size" type="number" inputmode="numeric" min="18" max="36" step="1" value="24" aria-label="字号"><span>px</span></div><button type="button" id="increase-font" aria-label="增大字号">A+</button></div></div>
+<div class="setting-row"><label for="line-height">行距</label><div class="range-control"><input id="line-height" type="range" min="1.5" max="2.6" step="0.1" value="2.1"><output for="line-height" id="line-height-value">2.1</output></div></div>
+<div class="setting-row"><span id="font-choice-label">字体</span><div class="choice-group font-choices" role="group" aria-labelledby="font-choice-label"><button type="button" data-reading-font="serif" aria-pressed="true">思源宋体</button><button type="button" data-reading-font="sans" aria-pressed="false">思源黑体</button><button type="button" data-reading-font="kai" aria-pressed="false">霞鹜文楷</button></div></div>
+<div class="setting-row"><span id="script-choice-label">字形</span><div class="choice-group" role="group" aria-labelledby="script-choice-label" data-no-convert><button type="button" data-reading-script="hans" aria-pressed="true">简体</button><button type="button" data-reading-script="hant" aria-pressed="false">繁體</button></div></div>
+<div class="setting-row"><span id="theme-choice-label">配色</span><div class="theme-choices" role="group" aria-labelledby="theme-choice-label"><button type="button" data-reading-theme="paper" aria-pressed="true"><span class="theme-swatch" aria-hidden="true"></span>纸张</button><button type="button" data-reading-theme="light" aria-pressed="false"><span class="theme-swatch" aria-hidden="true"></span>浅色</button><button type="button" data-reading-theme="sage" aria-pressed="false"><span class="theme-swatch" aria-hidden="true"></span>护眼</button><button type="button" data-reading-theme="dark" aria-pressed="false"><span class="theme-swatch" aria-hidden="true"></span>深色</button></div></div>
+<div class="setting-row"><label for="reading-width">版心宽度</label><div class="range-control"><input id="reading-width" type="range" min="440" max="1000" step="20" value="760"><output for="reading-width" id="reading-width-value">760px</output></div></div>
+<div class="setting-row"><label for="reading-margin">左右留白</label><div class="range-control"><input id="reading-margin" type="range" min="12" max="64" step="2" value="24"><output for="reading-margin" id="reading-margin-value">24px</output></div></div>
+<div class="setting-row display-row"><span id="display-choice-label">显示内容</span><div class="display-choices" role="group" aria-labelledby="display-choice-label"><label><input type="checkbox" id="show-original" checked>原文对照</label><label><input type="checkbox" id="show-notes" checked>译注与出处</label></div></div>
+<section class="reading-preview" aria-label="阅读效果预览"><span>预览</span><p>循河入梦，逐字寻声。</p><small>Finnegans Wake · James Joyce</small></section>
+<div class="settings-footer"><button type="button" id="reset-reading">恢复默认设置</button><span>调整后即时生效</span></div>
+</div></dialog>'''
+
+
 def page(title, body, data, prefix="", current=""):
     config = data["config"]
     menu = []
@@ -222,15 +239,30 @@ def page(title, body, data, prefix="", current=""):
             last_book = chapter["book"]
         active = ' aria-current="page"' if current == chapter["id"] else ''
         menu.append(f'<a href="{prefix}chapters/{slug(chapter)}.html"{active}><span>{escape(chapter["id"])}</span> {escape(chapter["title"].split("·")[-1])}<small>{COVERAGE[chapter["coverage"]]}</small></a>')
+    utilities = (f'<a href="{prefix}glossary.html">译名</a><a href="{prefix}sources.html">资料</a>'
+                 + f'<a href="{escape(config["repository"])}">GitHub ↗</a>')
+    contents = ''.join(menu)
+    directory = ('<dialog id="contents-dialog" class="reader-dialog contents-dialog" aria-labelledby="contents-title">'
+                 + '<header class="dialog-header"><div><h2 id="contents-title">全书目录</h2><p>四卷 · 十七章</p></div>'
+                 + '<button type="button" class="dialog-close" data-close-dialog aria-label="关闭全书目录" autofocus>×</button></header>'
+                 + '<nav class="dialog-contents" aria-label="弹窗章节目录">' + contents + '</nav>'
+                 + '<nav class="sidebar-utilities" aria-label="阅读资料">' + utilities + '</nav></dialog>')
     return ('<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
             + f'<title>{escape(title)} · {escape(config["title"])}</title><meta name="description" content="《芬尼根的守灵夜》中文译注：原文对照、双关、出处与异译。">'
-            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head><body>'
+            + '<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>'
+            + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-serif-vf.css">'
+            + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-sans-vf.css">'
+            + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css">'
+            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script></head><body>'
             + '<a class="skip" href="#main">跳至正文</a><header class="topbar">'
             + f'<a class="brand" href="{prefix}index.html">FW<span>守灵夜译注</span></a><nav aria-label="主导航">'
-            + f'<a href="{prefix}glossary.html">译名</a><a href="{prefix}sources.html">资料</a><a href="{escape(config["repository"])}">GitHub ↗</a>'
-            + '<button id="theme-toggle" type="button" aria-pressed="false">夜读</button></nav></header>'
+            + '<span class="header-utilities">' + utilities + '</span>'
+            + '<button id="contents-toggle" type="button" data-open-dialog="contents-dialog" aria-controls="contents-dialog" aria-haspopup="dialog" aria-expanded="false">目录</button>'
+            + '<button id="script-toggle" type="button" data-no-convert aria-label="切换为繁体中文">繁體</button>'
+            + '<button id="reading-settings-toggle" class="settings-trigger" type="button" data-open-dialog="reading-settings" aria-controls="reading-settings" aria-haspopup="dialog" aria-expanded="false"><span aria-hidden="true">Aa</span> 阅读设置</button></nav></header>'
+            + reading_settings() + directory
             + '<div class="layout"><aside class="sidebar"><details open><summary>全书目录 <span>四卷 · 十七章</span></summary><nav aria-label="章节目录">'
-            + ''.join(menu) + '</nav></details></aside><main id="main">' + body + '</main></div>'
+            + contents + '</nav><nav class="sidebar-utilities" aria-label="资料链接">' + utilities + '</nav></details></aside><main id="main">' + body + '</main></div>'
             + f'<footer>James Joyce · {escape(config["title"])} · v{escape(config["version"])}<br>中文试译与原创注释 CC BY-NC-SA 4.0 · 代码 MIT</footer></body></html>')
 
 
@@ -288,6 +320,7 @@ def build(data, out):
         path.mkdir(parents=True, exist_ok=True)
     for name in ["style.css", "reader-model.js", "reader.js"]:
         shutil.copyfile(ROOT / "site" / name, site / "assets" / name)
+    shutil.copytree(ROOT / "site" / "vendor", site / "assets" / "vendor", dirs_exist_ok=True)
     stats = statistics(data)
     first_slug = slug(data["chapters"][0])
     last_slug = slug(data["chapters"][-1])
@@ -304,13 +337,7 @@ def build(data, out):
             edit_url = data["config"]["repository"] + '/edit/main/manuscript/chapters/' + slug(chapter) + '.json'
             source_api = 'https://api.github.com/repos/' + data["config"]["repository"].split('github.com/')[-1] + '/contents/manuscript/chapters/' + slug(chapter) + '.json?ref=main'
             embedded = json.dumps({"chapter": chapter, "edit_url": edit_url, "source_api": source_api, "repository": data["config"]["repository"]}, ensure_ascii=False).replace('<', '\\u003c').replace('&', '\\u0026')
-            controls = ('<div class="reader-controls"><label><input type="checkbox" id="show-original" checked> 原文对照</label><label><input type="checkbox" id="show-notes" checked> 显示译注</label><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label></div>'
-                        + '<details class="reading-preferences"><summary>阅读设置</summary><div class="preference-grid">'
-                        + '<label for="font-size">字号 <output id="font-size-value">24</output><input id="font-size" type="range" min="18" max="36" step="1" value="24"></label>'
-                        + '<label for="line-height">行距 <output id="line-height-value">2.1</output><input id="line-height" type="range" min="1.5" max="2.6" step="0.1" value="2.1"></label>'
-                        + '<label for="reading-width">版心 <output id="reading-width-value">760</output><input id="reading-width" type="range" min="440" max="1000" step="20" value="760"></label>'
-                        + '<label for="reading-font">字体<select id="reading-font"><option value="serif">宋体</option><option value="sans">黑体</option><option value="kai">楷体</option></select></label></div>'
-                        + '<button type="button" id="reset-reading">恢复默认</button></details>'
+            controls = ('<div class="reader-controls"><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label><span class="reading-summary" id="reading-summary"></span></div>'
                         + '<details class="chapter-revisions"><summary>本章修订与提交</summary><p>在段落下方展开「修订本段」，可改译文及译注。保存后预览；确认后复制修订稿，到 GitHub 编辑页全选、粘贴并提交。</p>'
                         + '<div class="edit-actions"><button type="button" id="export-revisions">导出本章修订稿</button><button type="button" id="submit-revisions">复制修订并打开 GitHub</button>'
                         + f'<a class="button" href="{escape(edit_url)}" target="_blank" rel="noopener noreferrer">直接编辑仓库稿件 ↗</a></div><p id="revision-summary" role="status" aria-live="polite">当前显示公共译稿。</p></details>'

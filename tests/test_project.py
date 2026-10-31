@@ -3,6 +3,7 @@
 import copy
 import importlib.util
 import json
+from html.parser import HTMLParser
 from pathlib import Path
 import tempfile
 import unittest
@@ -107,6 +108,51 @@ class ProjectTests(unittest.TestCase):
                 self.assertIn("ref-n-river", fragment_links)
                 self.assertTrue(set(fragment_links) <= ids)
             self.assertEqual(self.api_ready().check_artifacts(Path(folder)), [])
+
+    def test_reader_settings_live_in_the_header_and_have_unique_controls(self):
+        class Controls(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.ids = []
+                self.header_controls = []
+                self.in_header = False
+                self.dialogs = {}
+
+            def handle_starttag(self, tag, attrs):
+                attrs = dict(attrs)
+                if tag == 'header': self.in_header = True
+                if attrs.get('id'): self.ids.append(attrs['id'])
+                if self.in_header and tag == 'button': self.header_controls.append(attrs.get('id'))
+                if tag == 'dialog': self.dialogs[attrs['id']] = attrs
+
+            def handle_endtag(self, tag):
+                if tag == 'header': self.in_header = False
+
+        with tempfile.TemporaryDirectory() as folder:
+            self.api_ready().build(sample(), Path(folder))
+            for name in ['index.html', 'glossary.html', 'sources.html', 'chapters/I-1.html']:
+                parsed = Controls()
+                parsed.feed((Path(folder) / 'site' / name).read_text())
+                self.assertIn('reading-settings-toggle', parsed.header_controls)
+                self.assertIn('contents-toggle', parsed.header_controls)
+                self.assertIn('script-toggle', parsed.header_controls)
+                self.assertEqual(len(parsed.ids), len(set(parsed.ids)))
+                self.assertEqual(parsed.dialogs['reading-settings']['aria-labelledby'], 'reading-settings-title')
+                self.assertIn('reading-margin', parsed.ids)
+                self.assertIn('show-original', parsed.ids)
+                self.assertIn('show-notes', parsed.ids)
+            with zipfile.ZipFile(Path(folder) / 'finnegans-wake-zh.epub') as book:
+                self.assertNotIn('<dialog', book.read('EPUB/chapters/I-1.xhtml').decode())
+
+    def test_empty_chapters_still_offer_reading_settings(self):
+        data = sample()
+        data['chapters'][0]['segments'] = []
+        data['chapters'][0]['coverage'] = 'not_started'
+        with tempfile.TemporaryDirectory() as folder:
+            self.api_ready().build(data, Path(folder))
+            html = (Path(folder) / 'site/chapters/I-1.html').read_text()
+            self.assertIn('id="reading-settings-toggle"', html)
+            self.assertIn('id="reading-settings"', html)
 
 
 if __name__ == "__main__":

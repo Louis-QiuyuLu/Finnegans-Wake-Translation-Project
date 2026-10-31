@@ -3,10 +3,27 @@
   if (typeof module === 'object' && module.exports) module.exports = api;
   else root.FWReader = api;
 })(typeof window === 'object' ? window : this, function () {
-  const defaults = {fontSize:24, lineHeight:2.1, width:760, font:'serif'};
+  const defaults = {fontSize:24, lineHeight:2.1, width:760, font:'serif', margin:24};
   function normalizePreferences(input = {}) {
+    if (!input || typeof input !== 'object' || Array.isArray(input)) input = {};
     const clamp = (value, min, max, fallback) => value !== null && value !== '' && Number.isFinite(Number(value)) ? Math.max(min, Math.min(max, Number(value))) : fallback;
-    return {fontSize:clamp(input.fontSize,18,36,defaults.fontSize), lineHeight:clamp(input.lineHeight,1.5,2.6,defaults.lineHeight), width:clamp(input.width,440,1000,defaults.width), font:['serif','sans','kai'].includes(input.font) ? input.font : defaults.font};
+    return {fontSize:clamp(input.fontSize,18,36,defaults.fontSize), lineHeight:clamp(input.lineHeight,1.5,2.6,defaults.lineHeight), width:clamp(input.width,440,1000,defaults.width), font:['serif','sans','kai'].includes(input.font) ? input.font : defaults.font, margin:clamp(input.margin,12,64,defaults.margin)};
+  }
+  function normalizeTheme(input) {
+    return ['paper','light','sage','dark'].includes(input) ? input : 'paper';
+  }
+  function normalizeScript(input) {
+    return input === 'hant' ? 'hant' : 'hans';
+  }
+  function createTextVariantStore(toTraditional) {
+    const originals = new WeakMap();
+    return {render(node, script) {
+      const previous = originals.get(node);
+      const source = previous && node.nodeValue === previous.display ? previous.source : node.nodeValue;
+      const display = normalizeScript(script) === 'hant' ? toTraditional(source) : source;
+      if (node.nodeValue !== display) node.nodeValue = display;
+      originals.set(node, {source, display});
+    }};
   }
   function mergeRevisions(source, revisions = {}) {
     const chapter = JSON.parse(JSON.stringify(source));
@@ -49,5 +66,5 @@
     if (JSON.stringify(source) !== JSON.stringify(latest)) return {chapter:null,conflicts:['仓库章稿已更新。请刷新页面，对照现稿后继续；本机修订仍会保留。']};
     return mergeRevisions(source,revisions);
   }
-  return {normalizePreferences, mergeRevisions, rebaseRevision, prepareExport};
+  return {normalizePreferences, normalizeTheme, normalizeScript, createTextVariantStore, mergeRevisions, rebaseRevision, prepareExport};
 });
