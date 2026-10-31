@@ -1,0 +1,79 @@
+{
+  "id": "IV",
+  "book": "IV",
+  "number": 1,
+  "pages": [
+    593,
+    628
+  ],
+  "title": "第四卷·第一章",
+  "coverage": "partial",
+  "segments": [
+    {
+      "id": "fw-iv-628-15",
+      "locator": "628.15–628.16",
+      "range": [
+        628,
+        15,
+        628,
+        16
+      ],
+      "source_id": "joyce-fp",
+      "original": "A way a lone a last a loved a long the",
+      "draft": "一路，孤单，最后，爱过，长长沿着",
+      "translation": "一路，独行，终了，爱过，长长沿着",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "iv-fragment",
+          "lemma": "A way a lone a last a loved a long the",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "原著末尾留在 the，没有句号。此处也不补句号；读罢可跳回 003.01。页行定位只覆盖末尾片段，不代表本段独白完整译出。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "iv-spacing",
+          "lemma": "A way / a lone / a long",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "拆开的词群可听成 away、alone、along。试译保留短促分节，以“一路／独行／长长沿着”承接离去、孤独与延续，英语 a 音反复仍有损失。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "iv-loved",
+          "lemma": "a last / a loved",
+          "kind": "translation",
+          "certainty": "uncertain",
+          "text": "试译暂作“终了／爱过”，保留告别语气。a loved 亦可读成“所爱”；这里的词性与说话对象仍有歧义，待联系末章全文审校。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "iv-loop",
+          "lemma": "the → riverrun",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "将“长长沿着”与首句“河水流”接读，可听见水势续行。中文接缝尚显生硬，留作两处联动修订；不得单独把末尾补成完整句。",
+          "source_ids": [
+            "joyce-fp",
+            "jjda-i1"
+          ]
+        }
+      ],
+      "alternatives": [
+        {
+          "text": "远去，独去，终去，爱去，长流，沿着",
+          "reason": "反复“去”可补节奏，却增添原句未明说的动作，暂存。",
+          "attribution": "本项目备选译法"
+        }
+      ]
+    }
+  ]
+}

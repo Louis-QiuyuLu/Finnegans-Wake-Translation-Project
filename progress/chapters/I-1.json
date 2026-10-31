@@ -1,0 +1,20 @@
+{
+  "chapter": "I.1",
+  "state": "in_progress",
+  "last_segment": "fw-i1-003-01",
+  "translated_ranges": [
+    "003.01–003.03"
+  ],
+  "reviewed_segments": [],
+  "updated": "2026-10-31",
+  "next": [
+    3,
+    4
+  ],
+  "next_original": "Sir Tristram, violer d'amores, fr'over the short sea",
+  "unresolved": [
+    "开篇译法仍待人工审校，尤其首尾接缝与 vicus 的多义补偿。",
+    "篇末样稿只供回环对读，不计入顺序完成进度。",
+    "尚未查阅已有中文译本原页；允许具名比较，不能凭记忆引用。"
+  ]
+}

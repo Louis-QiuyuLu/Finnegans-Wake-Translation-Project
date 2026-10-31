@@ -1,0 +1,36 @@
+# 稿件格式
+
+唯一编辑入口是 `manuscript/chapters/*.json`。字段必须使用标准 JSON，不能写注释或尾逗号。可复制 [段落模板](../templates/segment.json)，填写后插入目标章 `segments`。
+
+## 章
+
+`id` 使用 `I.1` 至 `I.8`、`II.1` 至 `II.4`、`III.1` 至 `III.4`、`IV`。`pages` 是通行页码范围，首尾均计入。`title` 只是卷章编号，不为原著杜撰章名。
+
+`coverage` 分 `not_started`、`partial`、`complete`。最后一项须配 `coverage_review`，说明谁依据什么版本核对全章。不得以有稿段数推算全文百分比。
+
+## 段
+
+- `id`：全库唯一、仅含小写字母、数字和连字符。提交后尽量不改，避免旧链接失效。
+- `locator`：如 `003.01–003.03`；`range` 对应 `[3, 1, 3, 3]`，为闭区间。
+- `source_id`：指向 `sources/catalog.json`。
+- `original`：见证本文字。段内不沿网页换行，不自动纠正 Joyce 错拼。
+- `draft`：初译；`translation`：当前读本采用稿。
+- `status`：`draft`、`revised` 或 `reviewed`；`reviewers`：真实审校者姓名或公开账号。
+- `notes`：注释列表；`alternatives`：其他译法及理由。
+
+段落须按页行排序，坐标不能重叠。若要细分同一行，先保留整行范围并在同一段解释，不创建重复闭区间。
+
+## 注释
+
+`id` 全库唯一；`lemma` 为所论词句；`kind` 为类别；`certainty` 为证据层级；`text` 为注释正文；`source_ids` 至少填一项且可解析。类别与分级见 [译注规范](EDITORIAL_GUIDE.md)。
+
+脚注按整段附列，以词目对应原文；当前版本不在中文词语上强制绑定浮窗。网页点击编号会展开对应注释；EPUB 使用原生注释与返回链接。
+
+## 更新便读稿
+
+```bash
+python3 scripts/project.py check
+python3 scripts/project.py generate
+```
+
+自动生成稿不要手改。若删除最后一段、移动章文件或更改 ID，须同时清理失效的旧便读稿，并在 PR 说明链接变动。

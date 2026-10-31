@@ -1,0 +1,75 @@
+[
+  {
+    "id": "joyce-fp",
+    "title": "James Joyce, Finnegans Wake：Faded Page 转录本",
+    "url": "https://www.fadedpage.com/books/20180126/html.php",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "edition": "Viking Press，1958 年第八印本，纳入作者勘误；1939 年首刊。",
+    "use": "首段 3.01–3.03 与末尾 628.15–628.16 的文字见证；保留原书分页。仅录入试译所需短段，未镜像整部电子书。"
+  },
+  {
+    "id": "fp-catalog",
+    "title": "Faded Page 书目与地区版权说明",
+    "url": "https://www.fadedpage.com/showbook.php?pid=20180126",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对书名、作者、出版年份和见证本。该站标明作品在加拿大属公有领域；此说明不代替其他地区判断。"
+  },
+  {
+    "id": "jjda",
+    "title": "James Joyce Digital Archive：Finnegans Wake",
+    "url": "https://jjda.ie/f/fwhome.htm",
+    "type": "archive",
+    "accessed": "2026-10-31",
+    "use": "版本、草稿与笔记入口。1939 与 2010 年版分别标记；不得混用页行。"
+  },
+  {
+    "id": "jjda-i1",
+    "title": "Danis Rose：A Chicken’s Guide，I.1",
+    "url": "https://jjda.ie/f/ff/app/chka.htm",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "核对第一章范围及首尾回环；释义作为具名研究意见引用。"
+  },
+  {
+    "id": "fw-page3",
+    "title": "FinnegansWiki：Page 3",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_3",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "开篇文字对照。社区释义与原著分开记录。"
+  },
+  {
+    "id": "fw-eve",
+    "title": "FinnegansWiki：Past Eve and Adam’s",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Past_Eve_and_Adam%27s",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "教堂名称与《创世记》倒序人名的释义线索。"
+  },
+  {
+    "id": "fw-vicus",
+    "title": "FinnegansWiki：By a commodius vicus of recirculation",
+    "url": "https://www.finnegansweb.com/wiki/index.php/By_a_commodius_vicus_of_recirculation",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "拉丁词形、维柯与回环的释义线索。"
+  },
+  {
+    "id": "fw-howth",
+    "title": "FinnegansWiki：Back to Howth Castle and Environs",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Back_to_Howth_Castle_and_Environs",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "地名及 HCE 字母组释义线索。"
+  },
+  {
+    "id": "reference-project",
+    "title": "QriDoki：in-search-of-lost-time-translation-project",
+    "url": "https://github.com/QriDoki/in-search-of-lost-time-translation-project",
+    "type": "project",
+    "accessed": "2026-10-31",
+    "use": "参考分阶段稿件、注释与网页／EPUB 同源发布流程；未复制其代码与译文。"
+  }
+]

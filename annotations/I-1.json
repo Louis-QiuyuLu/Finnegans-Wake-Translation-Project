@@ -1,0 +1,88 @@
+{
+  "fw-i1-003-01": [
+    {
+      "id": "i1-riverrun",
+      "lemma": "riverrun",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "river 与 run 连写，兼有河流与奔流之势。试译拆成“河水流”，让名词转入动作；尚未保住原词紧缩感。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-eve",
+      "lemma": "Eve and Adam's",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "FinnegansWiki 将此语联系到都柏林 Adam and Eve’s 教堂。Joyce 倒置人名，仍让读者听见《创世记》。正文保留倒序，暂不补出“教堂”。教堂沿革仍待查原始资料。",
+      "source_ids": [
+        "fw-eve",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-shore",
+      "lemma": "swerve of shore / bend of bay",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "shore 与 swerve、bay 与 bend 两两呼应。试译用“岸曲／湾弯”补偿音响；“湾弯”刻意叠音，并非地名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i1-commodius",
+      "lemma": "commodius",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "底本文字是 commodius，勿按常见英语 commodious 自动更正。FinnegansWiki 汇集其拉丁词形及英语“宽舒”联想；此处暂取宽舒，未穷尽其他读法。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-vicus"
+      ]
+    },
+    {
+      "id": "i1-vicus",
+      "lemma": "vicus",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "FinnegansWiki 将 vicus 的巷道、村落义与 Giambattista Vico（维柯）之名并读。结合 recirculation，可联想到历史回环。正文先取“小径”，维柯留在注内，避免把解释直接写成原文。",
+      "source_ids": [
+        "fw-vicus"
+      ]
+    },
+    {
+      "id": "i1-cycle",
+      "lemma": "recirculation",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "末页停在 the，开篇从小写 riverrun 接起，首尾可连读。JJDA 导读指出这层回环；它与河流入海、再返的意象相应。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-i1"
+      ]
+    },
+    {
+      "id": "i1-hce",
+      "lemma": "Howth Castle and Environs",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "三项首字母拼出 HCE。译文地名暂作“霍斯堡及四邻”；中文无法同时保住这组三字母，故在注中记明。FinnegansWiki 亦列此关联。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-howth"
+      ]
+    },
+    {
+      "id": "i1-us",
+      "lemma": "brings us … back",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "原句让河流领读者返回。译作“领人回到”，保留牵引动作；不补一个独立叙述者，也不将首段改成风景简介。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

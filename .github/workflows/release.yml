@@ -1,0 +1,32 @@
+name: Release reader
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify release version
+        run: |
+          python3 - <<'PY'
+          import json, os
+          with open('book.config.json', encoding='utf-8') as stream:
+              version = json.load(stream)['version']
+          assert os.environ['GITHUB_REF_NAME'] == 'v' + version, 'Tag and book version differ'
+          PY
+      - run: python3 -m unittest discover -s tests -v
+      - run: python3 scripts/project.py build
+      - run: python3 -m zipfile -c dist/finnegans-wake-reader.zip dist/site
+      - name: Publish downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" dist/finnegans-wake-zh.epub dist/finnegans-wake-reader.zip --verify-tag --title "$GITHUB_REF_NAME · 守灵夜译注" --notes-file publish/RELEASE_NOTES.md

@@ -1,0 +1,22 @@
+{
+  "id": "replace-with-stable-id",
+  "locator": "003.04–003.14",
+  "range": [3, 4, 3, 14],
+  "source_id": "填写来源表 ID",
+  "original": "填写核对后的原文",
+  "draft": "填写初译",
+  "translation": "填写当前译文",
+  "status": "draft",
+  "reviewers": [],
+  "notes": [
+    {
+      "id": "replace-with-unique-note-id",
+      "lemma": "填写原词",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "填写释义、依据与疑问",
+      "source_ids": ["填写来源表 ID"]
+    }
+  ],
+  "alternatives": []
+}
