@@ -8,6 +8,7 @@
 
 1. 开始前阅读 `docs/EDITORIAL_GUIDE.md`、`docs/SOURCES.md` 与目标章稿。
 2. 原文、译文、译注和译名以 `manuscript/chapters/*.json`、`sources/catalog.json`、`glossary/terms.json` 为准。其他阶段目录由工具生成。底本工作包、初译交稿、审校报告和上下文摘要存于 `reports/`，不绕过章稿直接发布。
+   全书英文另存各章 `source_text`，图版存 `manuscript/source-assets/`。英文 `imported` 不计作中文完成；不创建空译文段落，不凭页码标记推断行号。
 3. 每段保留固定 ID、页行坐标与底本来源。纠正录入错误时写明依据，不静默混入其他版本。
 4. 注释逐条给出处。推测标 `proposal`，存疑标 `uncertain`。不得虚构词源、文献、页码、查阅记录或译者署名。
 5. 先查词形、声音与上下文，再动笔。多义处不能只留单义释文；译法损失写进注释。

@@ -4,9 +4,9 @@
     "title": "James Joyce, Finnegans Wake：Faded Page 转录本",
     "url": "https://www.fadedpage.com/books/20180126/html.php",
     "type": "primary",
-    "accessed": "2026-10-31",
+    "accessed": "2026-11-01",
     "edition": "Viking Press，1958 年第八印本，纳入作者勘误；1939 年首刊。",
-    "use": "第3页003.01–003.24、第4页004.01–004.17与末尾628.15–628.16文字见证；页行另核原排转录。只录入试译范围，未镜像整部电子书。"
+    "use": "四卷十七章完整英文正文，619个正文页及14份必要图版；按该站HTML ZIP机械抽取，保留脚注与旁注，未逐页人工校勘。全章存source_text；已有双语段、页行与音频绑定另行保留。下载指纹与范围见reports/source-import/full-english-2026-11-01.json。"
   },
   {
     "id": "fp-catalog",

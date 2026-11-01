@@ -8,6 +8,19 @@
 
 `coverage` 分 `not_started`、`partial`、`complete`。最后一项须配 `coverage_review`，说明谁依据什么版本核对全章。不得以有稿段数推算全文百分比。
 
+## 全章英文 `source_text`
+
+`source_text` 独立保存全章英文，不创建缺少中文的假段落。`coverage`、`segments` 与续译断点仍只记录中文译注进度。
+
+- `status: imported`：机械录入，不能写成已审校。
+- `source_id`：已登记的文字见证；`imported`：实际录入日期。
+- `pages`：章内逐页列表；须与章级 `pages` 首尾范围完全相符。
+- `html`：限于书籍排版的 XHTML 片段；保留正文、原作脚注、旁注和图形，不含站点导航或脚本。
+- `html_sha256`：UTF-8 片段指纹；`text_sha256`：解析实体后、去除空白的正文指纹，只核抽取损失，不证明语义或空格正确。
+- `assets`：片段所用图版名，正文中以 `images/文件名` 引用，实物存 `manuscript/source-assets/`；构建时改写为站内或 EPUB 路径。
+
+页码锚点固定为 `source-page-003` 等，不据此虚填页行。续译时从此见证抽取完整自然段，再核页行并建立工作包；现有双语段 `original` 不随全本重导自动改变。全章导入用 `scripts/import_source.py`，细节见 [导入与校勘](../.ai/skills/prepare-source/references/import-and-collation.md)。`raw-md/` 从全章英文生成；中文阶段稿仍从 `segments` 生成。
+
 ## 段
 
 - `id`：全库唯一、仅含小写字母、数字和连字符。提交后尽量不改，避免旧链接失效。

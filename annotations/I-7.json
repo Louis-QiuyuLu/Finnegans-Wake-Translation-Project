@@ -1,0 +1,376 @@
+{
+  "fw-i7-169-01": [
+    {
+      "id": "i7-shem-shemus-jacob",
+      "lemma": "Shem is as short for Shemus as Jem is joky for Jacob.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谢姆（Shem）对应爱尔兰语谢默斯（Séamas，即英语 James），杰姆（Jem）则是雅各布（Jacob，与 James 同源）的戏谑昵称。开篇借名号训诂将叙述焦点转向谢姆，学者常结合乔伊斯本人名字（James Joyce）解读此段自嘲色彩。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-bodily-getup-inventory",
+      "lemma": "Shem's bodily getup, it seems, included an adze of a skull",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "叙述者将「真话与假话」拼凑，罗列谢姆从头骨、眼睛、鼻子、毛发到内脏、四肢的怪诞生理清单（如 fortytwo hairs、eighteen to his mock lip、a trio of barbels 等），以夸张解剖漫画手法丑化谢姆的外貌与体质。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-first-riddle-universe",
+      "lemma": "the first riddle of the universe: asking, when is a man not a man?",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "谢姆在育幼园向众兄弟姐妹提出「宇宙第一道谜题：何时人不是人？」，引出下文十二个孩童荒诞各异的错误猜答（从天震、接吻、不可知论、死神踢桶到猪飞上天），最终由谢姆自行揭晓谜底。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-low-sham-pun",
+      "lemma": "when he is a—yours till the rending of the rocks,—Sham. Shem was a sham and a low sham",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谜底以破折号插入书信套语 yours till the rending of the rocks（还暗涉基督受难时盘石崩裂），最后落脚于双关词 Sham（冒牌货／伪君子），与名字 Shem（谢姆）谐音相扣，确立全章指控谢姆虚伪造假的基调。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-canned-salmon-diet",
+      "lemma": "he preferred Gibsen's teatime salmon tinned, as inexpensive as pleasing, to the plumpest roeheavy lax",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "叙述者借饮食偏好斥责谢姆「下贱」：他放着利克斯利普与岛桥之间鲜肥的利菲河大鲑鱼（lax）与幼鳟不吃，偏爱廉价的「吉布森牌」（谐音剧作家易卜生 Ibsen）罐头三文鱼及进口罐头菠萝，又拒食牛排、羊肉、猪肉、鹅胸与烤牛肉，宁选欧洲扁豆杂烩而弃爱尔兰劈豌豆。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-fanny-urinia-winevat",
+      "lemma": "the winevat, of the most serene magyansty az archdiochesse",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谢姆拒饮威士忌、杜松子酒与啤酒，偏喝酸西柚榨出的劣质苹果白兰地（applejack），并在醉话中戏称此酒直接源自「马扎尔大公夫人」的「白色大酒桶」（noble white fat ... the winevat），末尾点出 Fanny Urinia，将饮酒与排泄、女体戏谑混融。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-dissecting-communicated",
+      "lemma": "COMMUNICATED.]",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "段落末尾方括号内插入一则「约翰斯肉铺」（Johns is a different butcher's）的商业广告，兜售催肥宰杀的春肉、羊羔（sheap 双关 cheap 与 sheep）与肝脏（spatiality 双关 speciality 与空间性），并以报刊常见的免责或付费软文标识 COMMUNICATED.（本报特讯／来稿照登）收尾，与前文谢姆的饮食及生理清单形成黑色幽默呼应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-172-11": [
+    {
+      "id": "i7-suicide-rumors-creditors",
+      "lemma": "Around that time, moravar, one generally, for luvvomony hoped",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "叙述者调侃谢姆负债累累时，债主与殡葬业者皆盼他早染遗传肺结核（pulmonary T.B.）或投河自尽；雨夜伊甸码头（Eden Quay）传来歌声与落水声，债主便以为他已溺毙。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-refused-suicide-antinomian",
+      "lemma": "He would not put fire to his cerebrum; he would not throw himself in Liffey",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "以四个排比否定句罗列谢姆拒绝自杀的方式：不肯烧穿大脑、不肯投利菲河、不肯用充气把戏（pneumantics）自爆、不肯用草皮闷死自己（saffrocake，揉合 suffocate 与 saffron cake），呼应上句「反律法主义者」（antinomian）不按常理行事的评语。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-tokay-telegram-david",
+      "lemma": "Here tokay, gone tomory, we're spluched, do something, Fireless. And had answer: Inconvenient, David.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谢姆向亲如约拿单（jonathan）的兄弟发去求救电报，将俗谚 Here today, gone tomorrow 改作 Here tokay, gone tomory（嵌入匈牙利托卡伊甜酒 Tokay），诉苦破产求援；兄弟则署名「大卫」（David，与《撒母耳记》中大卫和约拿单的结义典故相对）冷淡回绝：「不便」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-canaille-low-swine-recital",
+      "lemma": "abusing his deceased ancestors wherever the sods were",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "在星期一沙龙清谈会（Munda conversazione）上，好心人旁敲侧击以法语 canaille（下流胚）和 Low Swine（下流猪）讽刺谢姆，他却装傻充愣，当众大讲家族丑闻，一会儿吹嘘负债累累的大老爹 Poppamore, Mr Humhum，一会儿嘲骂排第七的小老爹 Peppybeg, Mr Himmyshimmy。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-ballat-perce-oreille",
+      "lemma": "chirps the Ballat of Perce-Oreille.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "段落末尾附十四行政治与神话讽刺诗（从 In Nowhere has yet the Whole World... 至段末），点出科西嘉皇帝（拿破仑）、亚瑟王、霍斯高地、破碎的蛋与咬过的苹果等母题，最后收束于《钻耳虫歌谣》（Ballat of Perce-Oreille，法语 perce-oreille 即蠼螋／钻耳虫），与第一卷第二章的《皮尔斯·奥雷耶歌谣》遥相呼应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-175-29": [
+    {
+      "id": "i7-lefty-rights-cherubcake",
+      "lemma": "Lefty takes the cherubcake while Rights cloves his hoof.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "以左撇子（Lefty）夺走小天使蛋糕（cherubcake）与右撇子（Rights）显露裂蹄（cloves his hoof，西洋民俗中魔鬼的特征）对举，反讽两兄弟表面正邪与内里虚实的颠倒。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-dublin-street-games",
+      "lemma": "games like Thom Thom the Thonderman, Put the Wind up the Peeler, Hat in the Ring",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "叙述者一口气罗列四十余种孩童街头游戏名目（从 Thom Thom the Thonderman 直至 When his Steam was like a Raimbrandt round Mac Garvey），声称谢姆从不肯出门同伙伴玩这些「无排泄、反性欲、厌异族」的纯洁游戏，借此反衬谢姆的孤僻与怯懦。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-unity-sunday-talviland",
+      "lemma": "the scut in a bad fit of pyjamas fled like a leveret for his bare lives, to Talviland",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "描述在「团结星期日」（Unity Sunday）德法大战与爱尔兰棕衫军冲突爆发之际，谢姆丝毫不受绝对命令与马克沁机枪（categorically unimperatived by the maxims）感召，穿着睡衣逃往「冬日之地」（Talviland，芬兰语 talvi 意为冬天），把自己塞进「墨战屋」（inkbattle house）钻入施维策床垫底下发抖。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-ballade-imaginaire-spooker",
+      "lemma": "he would wipe alley english spooker, multaphoniaksically spuking, off the face of the erse.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谢姆在吉卜赛酒吧向孪生兄弟兼秘书戴维·布朗-诺兰（自号 Bethgelert）吹嘘自己的镜像反写诗作《幻想叙事曲》（Ballade Imaginaire），狂言只要白纸尚存、寿命尚在，便要以多音复调笔法将每一个讲英语的人（english spooker，双关 speaker 与幽灵 spook）从大地／爱尔兰语（erse，双关 earth、Erse 与 arse）表面抹去。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-ponte-dei-colori",
+      "lemma": "the sevenspan ponte dei colori set up over the slop after the war-to-end war",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "意大利语 ponte dei colori（彩色之桥）：在血腥的圣斯威辛日（Swithun's day），众人高唱吉卢利合唱曲，女子们踏过大战后架起的「七跨彩虹桥」，唯独谢姆躲在屋内用三节小望远镜从钥匙孔偷窥，结果迎面撞见一把斗牛犬式左轮手枪枪口。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-blue-book-of-eccles",
+      "lemma": "making believe to read his usylessly unreadable Blue Book of Eccles, édition de ténèbres",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "谢姆在污秽兽穴中假装阅读那本「毫无用处、根本读不下去的《埃克尔斯街蓝皮书》黑暗版」（usylessly unreadable Blue Book of Eccles）：usylessly 嵌入《尤利西斯》（Ulysses），埃克尔斯街（Eccles Street）即该书主人公布卢姆的住址，而首版《尤利西斯》封面恰为蓝色；谢姆将羊皮纸上的墨迹幻想为海边小屋、贵族妇人脱衣喝彩、赢得四位红衣主教牧杖等荒诞白日梦（aisling vision），段末则以一连串押头韵的生理病痛与环境噪音收束。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-180-34": [
+    {
+      "id": "i7-bumpersprinkler-boast",
+      "lemma": "Yet the bumpersprinkler used to boast aloud alone to himself",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "以 bumpersprinkler（斟满大酒杯者兼洒水者）戏称谢姆，描写他独自一人模仿舞台英国腔自吹自擂，炫耀自己因身上恶臭（意大利语 puzzo 臭气与 pozzo 深井／粪坑谐音）而遭京城各暴发户家庭（klondykers）厨娘轰出门外。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-epical-forged-cheque",
+      "lemma": "how cutely to copy all their various styles of signature so as one day to utter an epical forged cheque on the public",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "叙述者指控谢姆在模范家庭当家庭教师时，非但不教孩童写端正的弯钩字母（pothooks），反而偷学各家签名笔迹，企图向公众开出一张「史诗般的伪造支票」牟取私利，将文学戏拟与文体拼贴比作票据造假。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-jymes-abortisement",
+      "lemma": "[Jymes wishes to hear from wearers of abandoned female costumes",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "方括号内插入一则征求废弃女装（粗呢套头衫、宽大裙裤与内衣）的荒诞启事，主人公名为 Jymes（谐音 James），自称失业在家写作、刚犯下一条十诫、同样挨踢出门，末尾将报刊常见的 ADVERTISEMENT（广告）改拼为 ABORTISEMENT（流产广告）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-haunted-inkbottle",
+      "lemma": "the Haunted Inkbottle, no number Brimstone Walk, Asia in Ireland",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "谢姆的居所称为「闹鬼墨水瓶」（the Haunted Inkbottle），地址位于「爱尔兰之亚洲、硫磺步道无门牌号」，门牌刮刻笔名 SHUT，窗户挂黑帆布帘，以此描绘作家自我幽闭的暗室。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-catalog-domestic-squalor",
+      "lemma": "persianly literatured with burst loveletters, telltale stories, stickyback snaps, doubtful eggshells",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "此段展开长达百余项的室内堆积物清单（从撑破的情书、搬弄是非的故事、带胶快照、可疑蛋壳，到十五种不同身份女子的吊袜带、假眼假牙，再到十余种语言的肯定词 ahs ohs ouis sis jas... yeses and yeses and yeses），将日常残骸与语言碎片混编为作家的书房景观。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-furniture-ruins-body",
+      "lemma": "writing the mystery of himsel in furniture.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "段末将谢姆称作「雷霆之子喧嚣」（Tumult, son of Thunder，化用《马可福音》中耶稣赐予雅各与约翰的称号「雷子」Boanerges），描绘他自我放逐于自我之中，在破碎颠倒的室内家具上书写自身的奥秘。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-184-11": [
+    {
+      "id": "i7-robber-mumsell-boycott",
+      "lemma": "Robber and Mumsell, the pulpic dictators, on the nudgment of their legal advisers, Messrs Codex and Podex",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Robber and Mumsell 谐拟都柏林出版社罗伯茨与芒塞尔（Roberts and Maunsel），影射《都柏林人》出版受阻风波；pulpic 双关纸浆（pulp）与讲坛（pulpit），Codex（法典／古抄本）与 Podex（拉丁语「屁眼」）并置，讽刺出版审查与法律顾问狼狈为奸。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-de-stercore-suo-alchemical",
+      "lemma": "demum ex stercore turpi cum divi Orionis iucunditate mixto, cocto, frigorique exposito, encaustum sibi fecit indelibile",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拉丁文庄严叙述谢姆将污秽粪便（ex stercore turpi）与神圣猎户座之尿液甘露混合熬煮冷却，制成永不磨灭的帝王紫墨水（encaustum indelibile）；段落中庄重教会拉丁文与三处括号内粗俗英语插嘴形成强烈文体反差。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-skin-integument-foolscap",
+      "lemma": "wrote over every square inch of the only foolscap available, his own body, till by its corrosive sublimation one continuous present tense integument",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "谢姆将自身肉体当作唯一可用的大开本稿纸（foolscap），以腐蚀升华之墨在表皮（integument）上书写持续现在时的循环历史；括号内 transaccidentated 借经院哲学「偶性转化」反转圣餐「实体转化」（transubstantiation），将个体苦难炼入凡人共有的混沌。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-blond-cop-censorship",
+      "lemma": "blond cop who thought it was ink was out of his depth",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "金发巡警西斯特森（Sistersen）误将谢姆身上的体液墨迹当作寻常墨水而不知深浅，下接巡警在街角撞见醉酒谢姆、盘问两加仑黑啤与谢姆插科打诨溜走的闹剧场景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-187-24": [
+    {
+      "id": "i7-justius-himother",
+      "lemma": "JUSTIUS (to himother): Brawn is my name and broad is my nature",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "尤斯蒂乌斯（Justius，拉丁语「公正者」）开始直接以第二人称当面训斥谢姆；himother 叠合他者（him-other）、母亲（mother）与兄弟（brother），Brawn（强肌）与 Shaun（肖恩）谐音。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-anarch-egoarch-hiresiarch",
+      "lemma": "anarch, egoarch, hiresiarch, you have reared your disunited kingdom on the vacuum of your own most intensely doubtful soul.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "尤斯蒂乌斯痛斥谢姆为无政府首脑（anarch）、自我狂首脑（egoarch）与异端首脑（hiresiarch，双关受雇 hire 与异端首领 heresiarch），指责他在极度怀疑的灵魂真空上建立「分裂王国」（disunited kingdom，反用联合王国 United Kingdom）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-new-irish-stew",
+      "lemma": "the merrier fumes your new Irish stew.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "尤斯蒂乌斯嘲讽谢姆只顾盯视自身疮疤预言灾祸，却不明白切碎的胡萝卜、芜菁、马铃薯（murphies）、洋葱与牛羊肉越多，炉火越旺，熬出的「新爱尔兰炖菜」香气越浓，暗喻纷乱食材熔为一炉的文学与历史乱炖。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-deathbone-somnia-somniorum",
+      "lemma": "He points the deathbone and the quick are still. Insomnia, somnia somniorum. Awmawm.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "尤斯蒂乌斯在镜前流言接力与三条毒誓后断喝「谢姆，你疯了！」，并指向澳洲土著巫术般的「死亡骨」（deathbone）令生者（the quick）静止；somnia somniorum（梦中之梦）仿《传道书》vanitas vanitatum，Awmawm 兼拟 Amen、呵欠声与咒音。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i7-193-31": [
+    {
+      "id": "i7-mercius-confession",
+      "lemma": "MERCIUS (of hisself): Domine vopiscus! My fault, his fault, a kingship through a fault!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "墨丘利乌斯（Mercius，叠合仁慈 Mercy 与信使神墨丘利 Mercury）与前段尤斯蒂乌斯（Justius，公义）相对；vopiscus 指双胞胎中独存者；a kingship through a fault 既戏拟天主教忏悔经 mea maxima culpa，又化用复活节赞歌「有福之过」（felix culpa）与因过失获王权之典。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-invocation-anna-livia",
+      "lemma": "that our turfbrown mummy is acoming",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "在墨丘利乌斯绵延整页的代词交错与自我痛悔长句之后，主句揭晓「我们泥炭褐色的妈咪正奔流而来」，携带着世间市井新闻与八卦，沿塔拉特、布莱辛顿、萨利诺金一路奔流，引出安娜·利维亚（Anna Livia）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-lifeline-rod-pen",
+      "lemma": "He lifts the lifewand and the dumb speak.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "与前段末尾尤斯蒂乌斯「指向死亡骨，活人尽皆静止」（He points the deathbone and the quick are still）严格对称，墨丘利乌斯「举起生命杖，哑者开口说话」，以复苏之杖开启下一章流水对谈。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i7-quoiquoi-duck-cry",
+      "lemma": "—Quoiquoiquoiquoiquoiquoiquoiq!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "哑者开口发出的连串呼声，兼拟法语代词 quoi（「什么？」）与河畔水禽鸣叫，收束第一卷第七章并直接过渡至第八章开篇。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

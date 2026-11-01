@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "review_baseline": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "review_reports": [
+    "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1-REVIEW.md",
+    "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1B-REVIEW.md",
+    "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R2-REVIEW.md"
+  ],
+  "disposition_summary": {
+    "R1-01_audio_sync": "resolved",
+    "R1-02_sources_sync": "resolved",
+    "R1-03_revision_submission": "integrator_resolved_and_all_book_I_chapters_repaired",
+    "R1-04_figures_claims": "retracted_unsupported_claim",
+    "R1B-01_isolation_and_checkpoint": "resolved",
+    "R-I2-01": "resolved_by_integrator",
+    "R-I3-01": "resolved_by_integrator_with_full_chapter_retranslation"
+  },
+  "issues": [
+    {
+      "id": "R1-01",
+      "title": "音频合并文件时长未同步",
+      "status": "resolved",
+      "action": "已从公共工作树同步 fw-i1-005-13.mp3（3,641,516字节，ffprobe实测 151.672秒）与 fw-i1-006-13.mp3（4,359,212字节，ffprobe实测 181.571秒）。音频哈希、文件大小与时长已与 audio/index.json 完全一致。"
+    },
+    {
+      "id": "R1-02",
+      "title": "来源表未与公共I.1一并合并导致边界倒退",
+      "status": "resolved",
+      "action": "sources/catalog.json 已与公共基线逐字节对齐（SHA256: 57025779cf622a30911fab51363b463cf87d3e796021f2415ec10f753b3030a5）。恢复 moret-egypt 的 1911 年扫描本定位（PDF第15、116、117页）；恢复 bylina-buslaev、ibsen-solness、quran-arafat 的严格查阅边界。"
+    },
+    {
+      "id": "R1-04",
+      "title": "图形与乐谱'已呈现'的说法缺实现和产物",
+      "status": "retracted_unsupported_claim",
+      "action": "撤回此前关于 180度F、镜像F及乐谱'已呈现'的失实断言。验证器 project.py 仅支持 E/F 及 ±90 度旋转；在未通过拓展 schema 检验和正式构建产物前，绝不将原文图形标记视同排版呈现。"
+    },
+    {
+      "id": "R1B-01",
+      "title": "候选回填公共稿与断点跳跃回归",
+      "status": "resolved",
+      "action": "立即停止向公共章稿回填未审候选。manuscript/chapters/I-2.json 至 I-8.json 保持 not_started 与 segments: [] 待译基线；progress/checkpoint.json 严格锚定于 I.2 第 030.01 行，去除省略号，完整录入第一句锚句；progress/RESUME.md 同步对齐。未审候选继续严格保存在 reports/ 下。"
+    },
+    {
+      "id": "R-I2-01",
+      "segment_id": "fw-i2-030-01",
+      "status": "resolved",
+      "delivered_file": "reports/revisions/fw-i2-030-01.integrated.json",
+      "action": "提交 fw-i2-030-01.r2.json：补回 030.14 Hag Chivychas Eve 漏译；纠正主句主语，使水手老王保持动作主语；撤除'结绳纪/算历'无据增补；依第30页24行版面现实修正6组行号坐标与片段范围声明（030.01–031.33）；6条注释去除'坐实'断言并全数降为 proposal。；整合者定点修正 031.13–15 关系从句（明确幽默同家传白发与短指一并自母系承受，William the Conk 保守译为大鼻威廉），删除注释中无出处学界传统指认等语。",
+      "review_verdict": "integrator_resolved",
+      "unresolved_items": []
+    },
+    {
+      "id": "R-I3-01",
+      "chapter": "I.3",
+      "status": "resolved",
+      "delivered_file": "reports/revisions/I-3-base-text.integrated.json",
+      "action": "提交 I-3-base-text.r2.json：修正全部13项校勘真实坐标与见证行；纠正末项替换方向（professionals -> propenomen is，059.15–16）；保留 the two Curchies 之冠词；交付5个受影响分段的完整校订原文及更新注释对象；中文正文明确标注为待交稿／待复核。；整合者按准确 ID 正式撤除 fw-i3-067-28-n02 (Lupita Lorette) 石炭酸伪注，并完成 I.3 全章 12 段逐句重译与 58 条注释核验。",
+      "review_verdict": "integrator_resolved",
+      "unresolved_items": []
+    }
+  ],
+  "pending_chapters": {
+    "I.2": {
+      "segments_status": "全章 10 段及 57 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "a22bcb0889f6ed9303193f3ca899279499ad45006a0005ff52da13a9034c639d"
+    },
+    "I.3": {
+      "segments_status": "全章 12 段及 58 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "dc7e21f84d486816bccefacd099fdbbe3753fec10bbd39abbe76ef4610e27372"
+    },
+    "I.4": {
+      "segments_status": "全章 12 段及 78 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "203fba375d3cee585ed72398c32e51f316df9a5f77022b5bd39ffb333fea2940"
+    },
+    "I.5": {
+      "segments_status": "全章 8 段及 37 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "a25499f274e3991ca822f4066202a43115a7bafee86717bf19eb582f37203e92"
+    },
+    "I.6": {
+      "segments_status": "全章 12 段及 56 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "fc9525c141ea2dd828591585ab63656f70ea50adc5a54259caa027ee130e4913"
+    },
+    "I.7": {
+      "segments_status": "全章 7 段及 36 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "fa78912d688b3d30be12065e1a8629090ea17cd3707334dfe1d6cb0cbce07c56"
+    },
+    "I.8": {
+      "segments_status": "全章 4 段及 21 条注释已完成 Faded Page 底本校勘与逐句全译修订（status: revised）",
+      "coverage": "complete",
+      "sha256": "600873f1331ce0748406c4c34bdab6fac6c5ddb32aa2c823cfdf322cd6ad58da"
+    }
+  },
+  "revision_round": "r2_integrator_resolved"
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "chapter": "I.1",
+    "ratio": 0.9983320823951297,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "hierarchitec - titiptitoploftical",
+        "actual": "hierarchitectitiptitoploftical"
+      },
+      {
+        "kind": "replace",
+        "expected": "rolls - rights",
+        "actual": "rollsrights"
+      },
+      {
+        "kind": "replace",
+        "expected": "Ag - apemonides",
+        "actual": "Agapemonides"
+      },
+      {
+        "kind": "replace",
+        "expected": "kena - little",
+        "actual": "kenalittle"
+      },
+      {
+        "kind": "replace",
+        "expected": "bleakbard - fields",
+        "actual": "bleakbardfields"
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "actual": "╖"
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "actual": "╙"
+      },
+      {
+        "kind": "replace",
+        "expected": "Per - kodhuskurunbarggruauyagokgorlayorgromgremmitghundhurth - rumathunaradidillifaititillibumullunukkunun",
+        "actual": "Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun"
+      },
+      {
+        "kind": "replace",
+        "expected": "neverheedthem - horseluggarsandlistletomine",
+        "actual": "neverheedthemhorseluggarsandlistletomine"
+      },
+      {
+        "kind": "replace",
+        "expected": "Mac - cullaghmore",
+        "actual": "Maccullaghmore"
+      },
+      {
+        "kind": "replace",
+        "expected": "Williams - woodsmenufactors",
+        "actual": "Williamswoodsmenufactors"
+      }
+    ]
+  },
+  {
+    "chapter": "I.2",
+    "ratio": 0.998056904927134,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "outs ide",
+        "actual": "outside"
+      },
+      {
+        "kind": "replace",
+        "expected": "nom - inigentilisation",
+        "actual": "nominigentilisation"
+      },
+      {
+        "kind": "replace",
+        "expected": "un - controllable",
+        "actual": "uncontrollable"
+      },
+      {
+        "kind": "replace",
+        "expected": "foot - lights",
+        "actual": "footlights"
+      },
+      {
+        "kind": "replace",
+        "expected": "tweeny - dawn",
+        "actual": "tweenydawn"
+      },
+      {
+        "kind": "replace",
+        "expected": "ex - executive",
+        "actual": "exexecutive"
+      },
+      {
+        "kind": "replace",
+        "expected": "klikkaklakkaklaskaklopatzklatschabattacreppycrotty - graddaghsemmihsammihnouithappluddyappladdypkonpkot",
+        "actual": "klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot"
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "actual": "|"
+      }
+    ]
+  },
+  {
+    "chapter": "I.3",
+    "ratio": 0.9990025766769179,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "an - cestralolosis",
+        "actual": "ancestralolosis"
+      },
+      {
+        "kind": "replace",
+        "expected": "ever - intermutuomergent",
+        "actual": "everintermutuomergent"
+      },
+      {
+        "kind": "replace",
+        "expected": "re - cepticle",
+        "actual": "recepticle"
+      },
+      {
+        "kind": "replace",
+        "expected": "Haveyou - caught",
+        "actual": "Haveyoucaught"
+      },
+      {
+        "kind": "replace",
+        "expected": "com - bination",
+        "actual": "combination"
+      },
+      {
+        "kind": "replace",
+        "expected": "anar - chistically",
+        "actual": "anarchistically"
+      }
+    ]
+  },
+  {
+    "chapter": "I.4",
+    "ratio": 0.9988871224165342,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "clipper - clipperclipperclipper",
+        "actual": "clipperclipperclipperclipper"
+      },
+      {
+        "kind": "replace",
+        "expected": "Bladyughfoulmoeck - lenburgwhurawhorascortastrumpapornanennykocksapastippata - ppatupperstrippuckputtanach",
+        "actual": "Bladyughfoulmoecklenburgwhurawhorascortastrumpapornanennykocksapastippatappatupperstrippuckputtanach"
+      },
+      {
+        "kind": "replace",
+        "expected": "H2",
+        "actual": "H { 2 }"
+      },
+      {
+        "kind": "replace",
+        "expected": "E3",
+        "actual": "E { 3 }"
+      },
+      {
+        "kind": "replace",
+        "expected": "red - flammelwaving",
+        "actual": "redflammelwaving"
+      },
+      {
+        "kind": "replace",
+        "expected": "stink - ingplaster",
+        "actual": "stinkingplaster"
+      }
+    ]
+  },
+  {
+    "chapter": "I.5",
+    "ratio": 0.9980094290204296,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "Briton - ess",
+        "actual": "Britoness"
+      },
+      {
+        "kind": "replace",
+        "expected": "Thingcrooklyexineverypasturesixdix - likencehimaroundhersthemaggerbykinkinkankanwithdownmind - lookingated",
+        "actual": "Thingcrooklyexineverypasturesixdixlikencehimaroundhersthemaggerbykinkinkankanwithdownmindlookingated"
+      },
+      {
+        "kind": "replace",
+        "expected": "summer - saulting",
+        "actual": "summersaulting"
+      },
+      {
+        "kind": "replace",
+        "expected": "un - bluffingly",
+        "actual": "unbluffingly"
+      },
+      {
+        "kind": "replace",
+        "expected": "why - acinthinous",
+        "actual": "whyacinthinous"
+      },
+      {
+        "kind": "replace",
+        "expected": "quick - scribbler",
+        "actual": "quickscribbler"
+      },
+      {
+        "kind": "replace",
+        "expected": "up - andinsweeps",
+        "actual": "upandinsweeps"
+      },
+      {
+        "kind": "replace",
+        "expected": "Semi - unconscience",
+        "actual": "Semiunconscience"
+      },
+      {
+        "kind": "replace",
+        "expected": "every - tale",
+        "actual": "everytale"
+      }
+    ]
+  },
+  {
+    "chapter": "I.6",
+    "ratio": 0.9996868475991649,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "buckshot - backshattered",
+        "actual": "buckshotbackshattered"
+      },
+      {
+        "kind": "replace",
+        "expected": "spoon - me",
+        "actual": "spoonme"
+      },
+      {
+        "kind": "replace",
+        "expected": "beha - viouristically",
+        "actual": "behaviouristically"
+      }
+    ]
+  },
+  {
+    "chapter": "I.7",
+    "ratio": 0.9991282364222823,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "hic - cupping",
+        "actual": "hiccupping"
+      },
+      {
+        "kind": "replace",
+        "expected": "Rep - resented",
+        "actual": "Represented"
+      },
+      {
+        "kind": "replace",
+        "expected": "in - finitely",
+        "actual": "infinitely"
+      },
+      {
+        "kind": "replace",
+        "expected": "trans - accidentated",
+        "actual": "transaccidentated"
+      },
+      {
+        "kind": "replace",
+        "expected": "astro - glodynamonologos",
+        "actual": "astroglodynamonologos"
+      }
+    ]
+  },
+  {
+    "chapter": "I.8",
+    "ratio": 0.9991303903012941,
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "Sitterdag - Zindeh",
+        "actual": "SitterdagZindeh"
+      },
+      {
+        "kind": "replace",
+        "expected": "Evro - peahahn",
+        "actual": "Evropeahahn"
+      },
+      {
+        "kind": "replace",
+        "expected": "C3",
+        "actual": "C { 3 }"
+      },
+      {
+        "kind": "replace",
+        "expected": "is - silvier",
+        "actual": "issilvier"
+      }
+    ]
+  }
+]

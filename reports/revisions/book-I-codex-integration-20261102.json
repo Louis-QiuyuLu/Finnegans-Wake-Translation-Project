@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-02",
+  "role": "ai_integrator",
+  "baseline_commit": "ff618c7d3797296c884a58a6fe988a729a7e264a",
+  "intake": "reports/reviews/inputs/gemini-book-I-2026-11-02/intake-manifest.json",
+  "review_reports": [
+    "reports/reviews/gemini-book-I-2026-11-02/review-I4-I5.md",
+    "reports/reviews/gemini-book-I-2026-11-02/review-I6-I8.md",
+    "reports/reviews/gemini-book-I-2026-11-02/review-I2-I3.md"
+  ],
+  "edits": [
+    {
+      "issue": "R-I3-NEW-01",
+      "chapter": "I.3",
+      "segment_id": "fw-i3-065-34",
+      "note_id": "n-i3-66-coffin-handharp",
+      "field": "text",
+      "before": "（handharp，兼涉爱尔兰十先令硬币俗称 half-a-crown / harp）",
+      "after": "（handharp）",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-R01b",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-075-01",
+      "note_id": null,
+      "field": "translation",
+      "before": "约十一至三十翼展",
+      "after": "约四十一翼展",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-R07b",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-088-35",
+      "note_id": null,
+      "field": "translation",
+      "before": "只要他不咳出血痰，自然无妨。",
+      "after": "不介意，倘若他咳得痰沫迸发。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-R08b",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-090-34",
+      "note_id": null,
+      "field": "translation",
+      "before": "对这些赠错温存的赐予者，他满口嘲弄致谢；而那群丰乳俏女郎则同仇敌忾",
+      "after": "对这些赠错温存的赐予者，他满口嘲弄致谢；他在那鬼屋里拉了出来（zoo），活像他这只泥泞的金妖怪（dun）——毕竟，他如那真正的鹿肉以扫，怯得像鸽子，又像博托姆那儿的鹿；而那群丰乳俏女郎则同仇敌忾",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-R09b",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-093-22",
+      "note_id": null,
+      "field": "translation",
+      "before": "休要挡我去路！",
+      "after": "到我这条路上来！",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-N01-pubs",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-082-30",
+      "note_id": "i4-dublin-pub-crawl-four-taverns",
+      "field": "text",
+      "before": "都柏林四家酒馆名录。原文依次列出 Old Sot's Hole、塔拉特的红牛客栈（Ruadh Cow at Tallaght）、环尾区的善妇酒馆（Good Woman at Ringsend）与亚当夏娃酒馆（Adam and Eve's），存作地理与酒馆名号对照（proposal）。",
+      "after": "原文依次列出塔拉特红牛客栈（Ruadh Cow at Tallaght）、环尾区善妇酒馆（Good Woman at Ringsend）、黑岩康韦客栈（Conway's Inn at Blackrock）与亚当夏娃酒馆（Adam and Eve's）。此处按小说名录对照，不据此确认各处真实营业史。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-N01-pig",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-tykingfest-rabworc-pedigree-pig",
+      "field": "text",
+      "before": "被告手持风信子并牵引一头未领牌照的纯种猪出庭，存作词形分析（proposal）。",
+      "after": "控方声称他赴穆德福德中白猪集市时携带一头未领牌照的纯种猪和风信子。人名拆拼属本项目推测。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-N01-spelling",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-filth-of-november-tournay",
+      "field": "text",
+      "before": "Yetstanhavel",
+      "after": "Yetstoslay",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-N01-depth",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-lilypond-whitlock-piece-of-wood",
+      "field": "text",
+      "before": "（水深仅四尺半）",
+      "after": "（池水很可能有几尺深，原文为 very possibly several feel of demifrish water）",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I4-R08b-note",
+      "chapter": "I.4",
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-shun-the-punman-drinkbattle",
+      "field": "text",
+      "before": "，存作推测（proposal）。",
+      "after": "；其后 he shat in 保留排泄字面，也可听作 he sat in。正文暂取排泄一层，zoo／dun 原词并存，其他音形关系待考。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I5-R08b-text",
+      "chapter": "I.5",
+      "segment_id": "fw-i5-123-30",
+      "note_id": null,
+      "field": "translation",
+      "before": "这便是失落神学的格赖姆斯与峡湾卡姆赫尔松",
+      "after": "这便是峡湾卡姆赫尔松",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I5-R08b-note",
+      "chapter": "I.5",
+      "segment_id": "fw-i5-123-30",
+      "note_id": "i5-four-old-men-jeromesolem-riddle",
+      "field": "text",
+      "before": "在前文补入格赖姆斯与峡湾卡姆赫尔松",
+      "after": "前文写峡湾卡姆赫尔松",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "I5-R08c",
+      "chapter": "I.5",
+      "segment_id": "fw-i5-123-30",
+      "note_id": null,
+      "field": "translation",
+      "before": "——（等我告诉你！）执笔人谢姆。",
+      "after": "——执笔人谢姆。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "N-01",
+      "chapter": "I.6",
+      "segment_id": "fw-i6-126-01",
+      "note_id": null,
+      "field": "translation",
+      "before": "禁止我们侵犯他的领地，正如我们早已将他遗忘在门外",
+      "after": "不许我们接纳冒犯我们的人，正如我们把他遗忘在门外",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "N-02",
+      "chapter": "I.6",
+      "segment_id": "fw-i6-163-29",
+      "note_id": null,
+      "field": "translation",
+      "before": "我只怕依然恨不能亲口说出那句话",
+      "after": "我只怕依然不愿亲口说出那句话",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "N-03",
+      "chapter": "I.7",
+      "segment_id": "fw-i7-187-24",
+      "note_id": null,
+      "field": "translation",
+      "before": "她们皆是才艺双全的女子，确实受过完备教育，绝非年老色衰，在发迹幻梦背后自有丰厚家底（纵使只剩名节），一旦欲火焚身便不畏恶劣天气",
+      "after": "她们才艺双全，确曾受过完备教育，心怀发迹幻梦，却谈不上年老富有；即使只剩名节，一旦欲火焚身便不畏恶劣天气",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    },
+    {
+      "issue": "N-04",
+      "chapter": "I.8",
+      "segment_id": "fw-i8-196-01",
+      "note_id": null,
+      "field": "translation",
+      "before": "要不是他没把托盘砸在她脑门上，相信我，她才算捡回一条命。",
+      "after": "只要他没把托盘砸在她脑门上，信我的话，她就还算安全。",
+      "reason": "依冻结稿独立审校所列原文作定点修正；不改原文、初译和段落范围。"
+    }
+  ],
+  "public_chapters": [
+    {
+      "path": "manuscript/chapters/I-2.json",
+      "sha256": "7abc29fe830ef5126bc2bfd0ff1f37b50ea64e9988d7ff9dda10a1fc6c039b4c"
+    },
+    {
+      "path": "manuscript/chapters/I-3.json",
+      "sha256": "49b31a6c40aed28f27162e41fe8cfeb250faed64e91d4944df50b8ae78c30424"
+    },
+    {
+      "path": "manuscript/chapters/I-4.json",
+      "sha256": "8eb90aaa7a069ccb660ffd194c9fe66b14829698c433586d2dea1089ff4c37bb"
+    },
+    {
+      "path": "manuscript/chapters/I-5.json",
+      "sha256": "89f8f0b9d6c110f69479ee03094cdfcf77d0a931034b2e4dfc3b8842145385f5"
+    },
+    {
+      "path": "manuscript/chapters/I-6.json",
+      "sha256": "07ba55b09e0a92a9a51f50ea31b32725afee2e9ef37e400f8489385272592c46"
+    },
+    {
+      "path": "manuscript/chapters/I-7.json",
+      "sha256": "42ec08b826ff60e12a0febd11698569a02134c256f7c8991c2175d684ecd0667"
+    },
+    {
+      "path": "manuscript/chapters/I-8.json",
+      "sha256": "36f23789bb4ccd25a3aafbc95c842502e2ad7ed793fa6e175f3c888769cce900"
+    }
+  ],
+  "unchanged": "All original, draft, ID, locator, range, revised status and empty human reviewers preserved from intake. Existing I.1 and IV segments preserved from main.",
+  "limits": "AI text coverage and semantic review, not human final review, complete external-source verification, or printed-line/image collation. Full English retains book images separately; approximate segment glyphs unchanged.",
+  "decision": "ready_with_declared_limits",
+  "rechecks": [
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-02/recheck-I2-I3.md",
+      "sha256": "74d0bb4449187174dc060aec37faffd5561bd782f0a75493197442b0378371f3"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-02/recheck-I6-I8.md",
+      "sha256": "4ef8c505da752c1537747ec90530d611259a3c04ecf865129db3a43a6f121e0e"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-02/recheck-I4-I5.md",
+      "sha256": "b397c0d64ca727dce91a4c49c3de7736c00170364128306cfac281f2bf23f8fc"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "path": "manuscript/chapters/I-4.json",
+    "sha256": "203fba375d3cee585ed72398c32e51f316df9a5f77022b5bd39ffb333fea2940"
+  },
+  {
+    "path": "manuscript/chapters/I-8.json",
+    "sha256": "600873f1331ce0748406c4c34bdab6fac6c5ddb32aa2c823cfdf322cd6ad58da"
+  },
+  {
+    "path": "manuscript/chapters/I-5.json",
+    "sha256": "a25499f274e3991ca822f4066202a43115a7bafee86717bf19eb582f37203e92"
+  },
+  {
+    "path": "manuscript/chapters/III-1.json",
+    "sha256": "3b5aaccebdb3e2778afc6cb2431cd3b1819d4a6d6f8bd08badac4b82d1427407"
+  },
+  {
+    "path": "manuscript/chapters/I-2.json",
+    "sha256": "a22bcb0889f6ed9303193f3ca899279499ad45006a0005ff52da13a9034c639d"
+  },
+  {
+    "path": "manuscript/chapters/I-3.json",
+    "sha256": "dc7e21f84d486816bccefacd099fdbbe3753fec10bbd39abbe76ef4610e27372"
+  },
+  {
+    "path": "manuscript/chapters/II-1.json",
+    "sha256": "11bcd6e72b91f774a8aaaeea94c20f64a3ac6684a3efff409ac0f876e9da43f8"
+  },
+  {
+    "path": "manuscript/chapters/III-3.json",
+    "sha256": "aae68fca198c8476dea144d4677ffdadf943450bd7e32a3af6965e978eda6511"
+  },
+  {
+    "path": "manuscript/chapters/II-2.json",
+    "sha256": "d18c73cfb4a839c8fd98849015069a419cfad51e315fe76f4dd91e604fbe72a6"
+  },
+  {
+    "path": "manuscript/chapters/II-3.json",
+    "sha256": "f74453f10bb275d7b38584e27183c205bf4bf1805880581422fc76b3588521c3"
+  },
+  {
+    "path": "manuscript/chapters/I-1.json",
+    "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+  },
+  {
+    "path": "manuscript/chapters/III-2.json",
+    "sha256": "aacd3e900d7766e2b620865149c5bbd3bc73b4002787cee1a2330405a82f2e5a"
+  },
+  {
+    "path": "manuscript/chapters/IV.json",
+    "sha256": "3fff93936661fee14aeadc4610254c7eff3c5778ba7b947fe944267efa6985d9"
+  },
+  {
+    "path": "manuscript/chapters/I-6.json",
+    "sha256": "fc9525c141ea2dd828591585ab63656f70ea50adc5a54259caa027ee130e4913"
+  },
+  {
+    "path": "manuscript/chapters/II-4.json",
+    "sha256": "c00e4583a6f0865bb0380c2d6d6e411819b6ddd20a5c40dd6a5466680025a820"
+  },
+  {
+    "path": "manuscript/chapters/III-4.json",
+    "sha256": "b1bdb64330888da99801cef4a77b46de89dd1b0afeabb033c234d61087ca7dca"
+  },
+  {
+    "path": "manuscript/chapters/I-7.json",
+    "sha256": "fa78912d688b3d30be12065e1a8629090ea17cd3707334dfe1d6cb0cbce07c56"
+  },
+  {
+    "path": "sources/catalog.json",
+    "sha256": "57025779cf622a30911fab51363b463cf87d3e796021f2415ec10f753b3030a5"
+  },
+  {
+    "path": "glossary/terms.json",
+    "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+  },
+  {
+    "path": "progress/checkpoint.json",
+    "sha256": "92231e5fb6c03fb91911a1ea08f8bca51c2ae5a7456d8bc5fc9fb96760b6df23"
+  },
+  {
+    "path": "progress/RESUME.md",
+    "sha256": "0ff61c522401f4b2073d5a441fbbb974ee2cb2815f1b5f68b54b4bb3a0f290ff"
+  },
+  {
+    "path": "audio/index.json",
+    "sha256": "f608b3e9e7e476cb3e2aa7d6e8f0f047434120652dc924011760b2bc87bef106"
+  },
+  {
+    "path": "reports/batches/book-I-review-handoff-2026-11-01.json",
+    "sha256": "751b459810b96485ef3bbc327af01c033a0308ca815ed4900482e1dfe68349b0"
+  },
+  {
+    "path": "reports/revisions/I-3-base-text.integrated.json",
+    "sha256": "e31dd23634bf22a11afda062addf84ed328f8eff71b012f4eaab1bcf7c35e09a"
+  },
+  {
+    "path": "reports/revisions/fw-i2-030-01.integrated.json",
+    "sha256": "cdec23490848f083aeb4aac7e5edd4a9a05b1a67fb6bc17d1a89245e885ed2b5"
+  },
+  {
+    "path": "reports/revisions/gemini-book-I-disposition-ledger.integrated.json",
+    "sha256": "cc3232fc49a18f6142f950d0690b611cecc1e78ef648318d7e952f89bae1fe25"
+  }
+]

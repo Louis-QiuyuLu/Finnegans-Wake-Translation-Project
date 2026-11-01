@@ -21,7 +21,7 @@ description: "Use when preparing or checking a Finnegans Wake source passage, im
 - `schema_version: 1`、`baseline`：读入的章稿、来源表、术语表路径及 SHA-256，供合入前辨认版本。
 - `research_decision`：本批是否需要研究及理由。阶段、负责人、交稿和未决项另记 `reports/batches/<batch-id>.json`，从 `templates/batch.json` 填写，不放进冻结的输入包。
 
-这是交接资料；先不向章稿插入缺少译文的半成品。来源新增项交整合者写入 `sources/catalog.json`。
+这是分段翻译交接资料；先不向 `segments` 插入缺少译文的半成品。维护者要求录入全书英文时，另用章级 `source_text`，不推进中文断点；复现命令与验收限度见 [导入与校勘](references/import-and-collation.md)。来源新增项交整合者写入 `sources/catalog.json`。
 
 输入包核好后冻结。后续阶段变化只改批次记录；原文、范围或证据输入确需更正时，保留旧包，另存 `<id>.v2.json` 等版本，并在批次记录指向实际采用包。审校保留它实际读过的包和指纹，不用重算掩盖版本变更。
 

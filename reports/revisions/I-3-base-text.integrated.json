@@ -1,0 +1,551 @@
+{
+  "schema_version": 2,
+  "revision_round": "r2_integrator_resolved",
+  "scope": "I.3 底本实词篡变校勘、虚构注撤销与校订原文交付",
+  "chapter": "I.3",
+  "input_binding": {
+    "manifest": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/manifest.json",
+    "chapter_file": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-3.json",
+    "review_report": "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1B-REVIEW.md",
+    "review_issue": "R-I3-01",
+    "phase1_review_issue": "R1-03"
+  },
+  "collation_status": "校勘账13项全部通过核验，受影响分段及全章12段中文正文与注释均已逐句重译并完成整合",
+  "translation_status": "全章12段（048.01–074.19）已完成逐句重译与注释修订（status: revised）",
+  "entry_count": 13,
+  "claimed_count": 13,
+  "base_text_corrections": [
+    {
+      "index": 1,
+      "segment_id": "fw-i3-048-01",
+      "locator": "048.16–17",
+      "before": "Eyrawyglaa",
+      "after": "Eyrawyggla",
+      "witness": "Faded Page / Wiki 048.16–17 ('sin this Eyrawyg- / gla saga')",
+      "note": "更正爱尔霍恩传奇拼写"
+    },
+    {
+      "index": 2,
+      "segment_id": "fw-i3-048-01",
+      "locator": "049.08–09",
+      "before": "Buckleyitch",
+      "after": "Bucklovitch",
+      "witness": "Faded Page / Wiki 049.08–09 ('Blanco Fusilovna Buck- / lovitch')",
+      "note": "更正布兰科·燧发枪手之女·巴克洛维奇假名"
+    },
+    {
+      "index": 3,
+      "segment_id": "fw-i3-048-01",
+      "locator": "050.28–29",
+      "before": "malfeasances",
+      "after": "malpractices",
+      "witness": "Faded Page / Wiki 050.28–29 ('convicted of mal- / practices')",
+      "note": "更正餐刀违规行径词形"
+    },
+    {
+      "index": 4,
+      "segment_id": "fw-i3-048-01",
+      "locator": "050.30–31",
+      "before": "yearweeksms",
+      "after": "yearschaums",
+      "witness": "Faded Page / Wiki 050.30–31 ('fully several year- / schaums riper')",
+      "note": "更正年岁浮沫词形"
+    },
+    {
+      "index": 5,
+      "segment_id": "fw-i3-048-01",
+      "locator": "050.09–10",
+      "before": "Calomnequeller's",
+      "after": "Calomnequiller's",
+      "witness": "Faded Page / Wiki 050.09–10 ('Calomne- / quiller's Pravities')",
+      "note": "更正造谣羽毛笔词形"
+    },
+    {
+      "index": 6,
+      "segment_id": "fw-i3-050-33",
+      "locator": "051.14–15",
+      "before": "the two Curranss",
+      "after": "the two Curchies",
+      "witness": "Faded Page / Wiki 051.14–15 ('the two Cur- / chies')",
+      "note": "纠正实词篡变，保留定冠词 the。撤销将错词附会为爱国演说家约翰·菲尔波特·柯兰的伪注"
+    },
+    {
+      "index": 7,
+      "segment_id": "fw-i3-050-33",
+      "locator": "052.23–24",
+      "before": "latitudinarianismr",
+      "after": "latitudinous baver",
+      "witness": "Faded Page / Wiki 052.23–24 ('Humphrey's latitu- / dinous baver')",
+      "note": "纠正实词篡变。撤销'宽容派神学教条'，恢复宽边帽及后接衣饰清单"
+    },
+    {
+      "index": 8,
+      "segment_id": "fw-i3-055-03",
+      "locator": "055.03–04",
+      "before": "Maemuffinstirnomates",
+      "after": "Maeromor Mournomates",
+      "witness": "Faded Page / Wiki 055.03–04 ('Mae- / romor Mournomates !')",
+      "note": "纠正实词篡变。撤销捏造的松饼（muffin）释义，恢复阿伽门农与莫恩山脉双关"
+    },
+    {
+      "index": 9,
+      "segment_id": "fw-i3-055-03",
+      "locator": "055.27–28",
+      "before": "firefountd",
+      "after": "fireleaved",
+      "witness": "Faded Page / Wiki 055.27–28 ('our fire- / leaved loverlucky')",
+      "note": "更正火叶词形"
+    },
+    {
+      "index": 10,
+      "segment_id": "fw-i3-057-16",
+      "locator": "059.16–17",
+      "before": "Sevendialshes",
+      "after": "Sevenchurches",
+      "witness": "Faded Page / Wiki 059.16–17 ('Seven- / churches')",
+      "note": "更正格伦达洛'七教堂'地名，撤销伦敦伦巴底街七钟面假想"
+    },
+    {
+      "index": 11,
+      "segment_id": "fw-i3-065-34",
+      "locator": "066.17–18",
+      "before": "Edenquayy",
+      "after": "Edenberry",
+      "witness": "Faded Page / Wiki 066.17–18 ('Eden- / berry, Dubblenn')",
+      "note": "撤销指定都柏林伊甸码头的错注，恢复奥法利郡伊甸德里镇（Edenderry）与伊甸园双关"
+    },
+    {
+      "index": 12,
+      "segment_id": "fw-i3-065-34",
+      "locator": "067.16–17",
+      "before": "carbolics",
+      "after": "carcasses",
+      "witness": "Faded Page / Wiki 067.16–17 ('delivering some car- / casses mattonchepps')",
+      "note": "更正腐尸骸骨词形，撤销服石炭酸自尽的虚构剧情"
+    },
+    {
+      "index": 13,
+      "segment_id": "fw-i3-057-16",
+      "locator": "059.15–16",
+      "before": "professionals",
+      "after": "propenomen is",
+      "witness": "Faded Page / Wiki 059.15–16 ('his pro- / penomen is a properismenon.')",
+      "note": "纠正词形与替换方向：候选误作 professionals，见证本为 pro- / penomen is，由 professionals 改回 propenomen is"
+    }
+  ],
+  "withdrawn_and_qualified_notes": [
+    {
+      "note_id": "n-i3-51-haberdasher-currans",
+      "segment_id": "fw-i3-050-33",
+      "action": "withdraw_and_replace_with_n-i3-51-haberdasher-curchies",
+      "reason": "原词为 the two Curchies（051.14–15），无 Currans。附会约翰·菲尔波特·柯兰（John Philpot Curran）系据错词凭空增造，予以撤除并替换为 n-i3-51-haberdasher-curchies。"
+    },
+    {
+      "note_id": "n-i3-54-gowd-watch-smile",
+      "segment_id": "fw-i3-053-07",
+      "action": "withdraw",
+      "reason": "054.17 原文为 Would you care to know the prise of a liard?，无 gowd watch 字样。撤销伪造金表词目及注释。"
+    },
+    {
+      "note_id": "n-i3-54-rooks-sobranje",
+      "segment_id": "fw-i3-053-07",
+      "action": "withdraw",
+      "reason": "054 页底本无 Rooks、Sobranje 或破产清算剧情，撤销无本虚构注释。"
+    },
+    {
+      "note_id": "n-i3-55-house-atreox",
+      "segment_id": "fw-i3-055-03",
+      "action": "fix_lemma_and_remove_muffin_claim",
+      "reason": "原词为 Maeromor Mournomates（055.03–04），无 Maemuffinstir。修正 lemma 为精确连续子串，删除松饼（muffin）释义，确定性定为 proposal。"
+    },
+    {
+      "note_id": "n-i3-57-brian-olinn",
+      "segment_id": "fw-i3-057-16",
+      "action": "withdraw",
+      "reason": "057–059 页底本无 Brian or Bride O'Linn 字样，撤销无本附会注释。"
+    },
+    {
+      "note_id": "n-i3-59-milktrain-cabbage",
+      "segment_id": "fw-i3-059-27",
+      "action": "withdraw",
+      "reason": "061.01–07 底本为西尔维娅·赛伦斯之 sheew gweatness was his twadgedy 发问与一八八五年《刑法修正案》严惩转折，无 milktrain、cabbage 或『掉一滴眼泪』引语，予以撤除。"
+    },
+    {
+      "note_id": "n-i3-63-chepgone-face-gunpowder",
+      "segment_id": "fw-i3-063-20",
+      "action": "withdraw",
+      "reason": "063–065 页底本无 Chepgone face 字样，撤销伪造词目与注释。"
+    },
+    {
+      "note_id": "n-i3-65-ack-clap-trap-dis",
+      "segment_id": "fw-i3-065-34",
+      "action": "fix_lemma_and_remove_dis_claim",
+      "reason": "065.34–067.27 底本无 he went Dis 字样，撤销坠入冥府狄斯之虚构释义与词目，替换为 n-i3-65-ack-clap-trap。"
+    },
+    {
+      "note_id": "n-i3-66-coffin-illusionist-hyde-cheek",
+      "segment_id": "fw-i3-065-34",
+      "action": "fix_lemma_and_remove_eden_quay",
+      "reason": "原词为 Edenberry（066.17–18），非 Edenquay。删除都柏林伊甸码头说明，更正为 Edenderry 镇与伊甸园双关，确定性定为 proposal。"
+    },
+    {
+      "note_id": "n-i3-67-oxagiants-peeler-phizz",
+      "segment_id": "fw-i3-065-34",
+      "action": "remove_carbolic_claim",
+      "reason": "原词为 carcasses（067.16–17），非 carbolics。彻底排除服石炭酸自尽之虚构释义，确定性定为 proposal。"
+    },
+    {
+      "note_id": "fw-i3-067-28-n02",
+      "segment_id": "fw-i3-067-28",
+      "lemma": "Lupita Lorette",
+      "action": "withdraw",
+      "reason": "依 PHASE1-R2-REVIEW.md 整合者定点裁定：068.02–03 原文仅作 Lupita Lorette，旧注 fw-i3-067-28-n02 声称『一八九〇年代都柏林曾流行服石炭酸（carbolic acid）自尽之惨剧』系受前段 067.16 误植词 carbolics 污染而凭空捏造，与底本毫无关联；现按准确 ID 正式撤除 fw-i3-067-28-n02，并在 fw-i3-067-28-n01 中记明撤回说明。"
+    }
+  ],
+  "affected_segments": [
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "048.01–050.32",
+      "corrected_original": "Chest Cee! 'Sdense! Corpo di barragio! you spoof of visibility in a freakfog, of mixed sex cases among goats, hill cat and plain mousey, Bigamy Bob and his old Shanvocht! The Blackfriars treacle plaster outrage be liddled! Therewith was released in that kingsrick of Humidia a poisoning volume of cloud barrage indeed. Yet all they who heard or redelivered are now with that family of bards and Vergobretas himself and the crowd of Caraculacticors as much no more as be they not yet now or had they then notever been. Canbe in some future we shall presently here amid those zouave players of Inkermann the mime mumming the mick and his nick miming their maggies, Hilton St Just (Mr Frank Smith), Ivanne Ste Austelle (Mr J. F. Jones), Coleman of Lucan taking four parts, a choir of the O'Daley O'Doyles doublesixing the chorus in Fenn Mac Call and the Serven Feeries of Loch Neach, Galloper Troppler and Hurleyquinn the zitherer of the past with his merrymen all, zimzim, zimzim. Of the persins sin this Eyrawyggla saga (which, thorough readable to int from and, is from tubb to buttom all falsetissues, antilibellous and nonactionable and this applies to its whole wholume) of poor Osti-Fosti, described as quite a musical genius in a small way and the owner of an exceedingly niced ear, with tenorist voice to match, not alone but a very major poet of the poorly meritary order (he began Tuonisonian but worked his passage up as far as the we-all-hang-together Animandovites) no one end is known. If they whistled him before he had curtains up they are whistling him still after his curtain's doom's doom. Ei fù. His husband, poor old A'Hara (Okaroff?) crestfallen by things and down at heels at the time, they squeak, accepted the (Zassnoch!) ardree's shilling at the conclusion of the Crimean war and, having flown his wild geese, alohned in crowds to warnder on like Shuley Luney, enlisted in Tyrone's horse, the Irish whites, and soldiered a bit with Wolsey under the assumed name of Blanco Fusilovna Bucklovitch (spurious) after which the cawer and the marble halls of Pump Court Columbarium, the home of the old seakings, looked upon each other and queth their haven evermore for it transpires that on the other side of the water it came about that on the field of Vasileff's Cornix inauspiciously with his unit he perished, saying, this papal leafless to old chap give, rawl chawclates for mouther-in-louth. Booil. Poor old dear Paul Horan, to satisfy his literary as well as his criminal aspirations, at the suggestion thrown out by the doomster in loquacity lunacy, so says the Dublin Intelligence, was thrown into a Ridley's for inmates in the northern counties. Under the name of Orani he may have been the utility man of the troupe capable of sustaining long parts at short notice. He was. Sordid Sam, a dour decent deblancer, the unwashed, haunted always by his ham, the unwished, at a word from Israfel the Summoner, passed away painlessly after life's upsomdowns one hallowe'en night, ebbrous and in the state of nature, propelled from Behind into the great Beyond by footblows coulinclouted upon his oyster and atlas on behanged and behooved and behicked and behulked of his last fishandblood bedscrappers, a Northwegian and his mate of the Sheawolving class. Though the last straw glimt his baring this stage thunkhard is said (the pitfallen gagged him as 'Promptboxer') to have solemnly said—as had the brief thot but fell in till his head like a bass dropt neck fust in till a bung crate (cogged!): Me drames, O'Loughlins, has come through! Now let the centuple celves of my egourge as Micholas de Cusack calls them,—of all of whose I in my hereinafter of course by recourse demission me—by the coincidance of their contraries reamalgamerge in that indentity of undiscernibles where the Baxters and the Fleshmans may they cease to bidivil uns and (but at this poingt though the iron thrust of his cockspurt start might have prepared us we are wellnigh stinkpotthered by the mustardpunge in the tailend) this outandin brown candlestock melt Nolan's into peese! Han var. Disliken as he was to druriodrama, her wife Langley, the prophet, and the decentest dozendest short of a frusker whoever stuck his spickle through his spoke, disappeared, (in which toodooing he has taken all the French leaves unveilable out of Calomnequiller's Pravities) from the sourface of this earth, that austral plain he had transmaried himself to, so entirely spoorlessly (the mother of the book with a dustwhisk tabularasing his obliteration done upon her involucrum) as to tickle the speculative to all but opine (since the Levey who might have been Langley may have really been a redivivus of paganinism or a volunteer Vousden) that the hobo (who possessed a large amount of the humoresque) had transtuled his funster's latitat to its finsterest interrimost. Bhi she. Again, if Father San Browne, tea and toaster to that quaintesttest of yarnspinners is Padre Don Bruno, treu and troster to the queen of Iar-Spain, was the reverend, the sodality director, that eupeptic viceflayer, a barefaced carmelite, to whose palpitating pulpit (which of us but remembers the rarevalent and hornerable Fratomistor Nawlanmore and Brawne.) sinning society sirens (see the [Roman Catholic] presspassim) fortunately became so enthusiastically attached and was an objectionable ass who very occasionally cockaded a raffles ticket on his hat which he wore all to one side like the hangle of his pan (if Her Elegance saw him she'd have the canary!) and was semiprivately convicted of malpractices with his hotwashed tableknife (glossing over the cark in his pocket) that same snob of the dunhill, fully several yearschaums riper, encountered by the General on that redletter morning or maynoon jovesday and were they? Fuitfuit.",
+      "translation": "胸腔高音 C！好浓！弹幕在上！你这罕见大雾中障眼的鬼影，闹出山羊间阴阳混杂的公案、山猫与平地家鼠的纠葛、重婚犯鲍勃与他那老妪的丑事！黑衣修士糖浆膏的暴行大可盖棺轻看！随之在湿热王国放出的，确是一整卷遮天毒云弹幕。然而凡当年听闻或复述此事者，如今已同那班吟游诗人家族、维戈布雷塔斯本尊与卡拉库拉克提库斯部众一道化为乌有，宛如今日尚未出世，又似当日从未存身。或许不久将来，我们会在因克尔曼战役轻步兵戏班里，听见哑剧伶人扮作米克，他的尼克戏拟他们的玛吉，希尔顿·圣胡斯特（弗兰克·史密斯先生饰）、伊万娜·圣奥斯特尔（J·F·琼斯先生饰）、卢坎的科尔曼一人分饰四角，奥戴利—奥道尔合唱团在《芬·麦克考尔与内伊湖七仙女》中把合唱翻作双六倍，疾驰特罗普勒与往昔弹齐特琴的丑角哈利奎恩率众快活伙伴，齐姆齐姆，齐姆齐姆。这部《埃尔威格拉萨迦》（从头至尾通篇可读，由桶顶至臀底全是假组织，既反诽谤亦不可起诉，整卷尽皆如此）里的角色中，那位可怜的奥斯蒂—福斯蒂，人称小有才具的音乐奇才，生就一副极挑剔的耳朵，配着相称的男高音嗓子，非但如此，更是微末功绩勋阶里的大诗人（他起初追随托尼森派，后来一路攀升，直至我们抱团同吊的阿尼曼多维派），结局无人知晓。若说大幕未起时众人便向他吹哨喝倒彩，那么在他大幕劫数终结之后，众人仍在向他吹哨。他曾存在。他的丈夫，可怜的老阿哈拉（奥卡罗夫？），据他们吱声传言，当时遭世事挫败，穷途落魄，在克里米亚战争收场时收下（撒克逊人的！）至高王先令，放飞野雁之后，在人丛中孤身飘零，如舒利·卢尼般四处游荡，投效蒂龙骑兵团即爱尔兰白军，化名布兰科·富西洛夫娜·巴克洛维奇（伪名）随沃尔西当过一阵兵，此后寒鸦与老海王故居水泵院骨灰堂的大理石厅堂彼此相望，永别安息之港；原来在大海彼岸，在瓦西里耶夫寒鸦旷野上，他随部队不幸阵亡，临终说道，把这份教皇无叶传单交给老伙计，给劳斯郡岳母带生巧克力。沸腾。可怜亲爱的老保罗·霍兰，为满足他文学与犯罪两重抱负，照那患多言疯的判官抛出的提议，据《都柏林情报报》所载，关进了北方诸郡收容院友的里德利院。他或许曾化名奥拉尼，在戏班里充当跑龙套的杂役演员，能临时受命挑起长角。他确曾如此。龌龊山姆，是个阴郁体面的洗白客，不洗身子，终日受火腿缠祟，无人待见，在传唤天使伊斯拉斐尔一言之下，历经人生起伏，于某个万圣夜无痛辞世；他当时酩酊大醉，赤身裸体，被最后同床刮脚的骨肉伙计——一个挪威人与他海狼级的伙伴——在牡蛎尾骨与寰椎上狠踢数脚，连吊带踢带撞带推，从后臀径直送往彼岸玄境。哪怕最后一根稻草照亮他赤条条的身子，据说这舞台醉汉（落入池座的看客拿他打趣，唤作「提词厢拳手」）仍庄严说道——恰如那短促念头刚落进他脑海，像条鲈鱼脖子朝下猛掉进塞口木箱（偷来的！）：奥洛克林诸君，我的美梦成真了！且让我自我冲动里的百重自我——如库萨克的米古拉斯所称，我在此后自然要借追索权将它们尽数辞去——凭对立面巧合之舞，重新熔合进那不可分辨者的同一之境，愿巴克斯特与弗莱什曼两家莫再作祟折磨我们，而（但在此关头，尽管他起势如公鸡猛刺般铁硬，早该教我们有所防备，尾端那股芥末冲鼻的恶臭仍险些把我们熏晕）这根进进出出的棕色烛台，且将诺兰家的烛脂熔作和平与豌豆！他曾是。她的妻子先知兰利，向来厌恶德鲁里巷闹剧，又是把唾沫星子喷过车轮辐条的干瘪老汉中最体面最打成一打的人物，竟从这人世酸楚的表面、从他跨海迁往的南方平原上消失得无影无踪（这番折腾中，他把诽谤笔客《私恶录》里可揭露的不告而别尽数占全；书本之母用拂尘在她的封套上抹去他留下的涂擦痕迹），引得耽于玄想之徒几乎断定（既然那位或许曾是兰利的利维，兴许真是异教精神复活，或是自告奋勇的沃斯登），这个颇具诙谐气质的流浪汉，已将他逗乐的潜逃令转入最幽暗的腹地深处。她曾是。再者，若圣布朗神父——那最古怪编故事老手跟前的奉茶祝酒人——便是唐·布鲁诺神甫、西西班牙女王忠实可靠的慰藉者，又若这位可敬的圣母会指导神师、消化良好的鞭恶者，是个厚颜赤面的加尔默罗会修士，他那悸动的讲坛（我们当中谁不记得那位罕有价值、长角可敬的诺兰莫尔兼布朗修士先生呢）幸而令犯罪的社交界女妖（散见天主教报刊）满怀狂热依恋不舍，他还是个讨嫌的蠢驴，极偶尔在歪戴一边、形如锅柄的帽上插张抽奖券当帽章（倘若优雅夫人见了他，准会气得发作！），又因拿热水洗过的餐刀行不端勾当（掩盖衣袋里的忧烦）而半私下定罪，那么这同一个粪山势利鬼，在年岁泡沫里足足多熟了几个年头，便是老将军在那个红字纪念日清晨或五月正午朱庇特之日迎面撞见的家伙，而他们当真如此吗？早已成空，成空。",
+      "notes": [
+        {
+          "id": "n-i3-48-chest-cee",
+          "lemma": "Chest Cee! 'Sdense! Corpo di barragio!",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "男高音胸腔高音 C（Chest C），前接第二章末尾《皮尔斯·奥莱利歌谣》曲终余响；首字母 C.C. 呼应 H.C.E.；'Sdense 兼涉浓雾（it's dense）与旧式诅咒缩略（'Sdeath 等）；Corpo di barragio 叠合意大利语感叹词（Corpo di bacco 等）与火炮弹幕（barrage）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-48-blackfriars-treacle",
+          "lemma": "The Blackfriars treacle plaster outrage be liddled!",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Blackfriars 指多明我会黑衣修士区；treacle plaster 指向黏稠糖浆膏药；be liddled 叠合盖上盖子（put a lid on）、轻描淡写（belittle）与《爱丽丝漫游仙境》原型姓氏 Liddell（书中另有蜜糖井故事）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-48-vergobretas-inkermann",
+          "lemma": "Vergobretas himself and the crowd of Caraculacticors",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Vergobretas 见于凯撒《高卢战记》，为高卢埃杜伊人最高执政官称号；Caraculacticors 变形自不列颠抗罗首领卡拉塔库斯（Caractacus / Caratacus）；后文 zouave players of Inkermann 则呼应克里米亚战争因克尔曼战役与军中剧团演出。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-48-eyrawygla-buckley",
+          "lemma": "Eyrawyggla saga",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "《埃尔威格拉萨迦》（Eyrawyggla saga）戏仿冰岛《埃尔比吉亚萨迦》（Eyrbyggja saga），并将主人公姓氏 Earwicker 植入其中；本段由此逐一交代歌谣传唱诸人（Osti-Fosti、A'Hara、Paul Horan、Sordid Sam、Langley、Father San Browne）的下落与消亡。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-50-we-all-hang-calomnequell",
+          "lemma": "a barefaced carmelite, to whose palpitating pulpit",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "barefaced 兼指不蓄须／赤面与厚颜无耻；carmelite 指加尔默罗会修士；语法核心为修士悸动的讲坛（palpitating pulpit），后接沉迷听道的社交界女妖（sinning society sirens）。前文 we-all-hang-together 戏仿本杰明·富兰克林名言，Calomnequiller's Pravities 则叠合诽谤（calumny）与败行（depravities）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-50-fuit-fuit",
+          "lemma": "jovesday and were they? Fuitfuit.",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "jovesday 指朱庇特之日（星期四，对应拉丁语 dies Iovis 与雷神之日 Thursday）；Fuitfuit 重复拉丁语 fuit（曾存在／已成过去，前应上文各人物段尾的意大利语 Ei fù、丹麦语 Han var、爱尔兰语音转 Bhi she），同时拟声轻哨。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "locator": "050.33–053.06",
+      "corrected_original": "When Phishlin Phil wants throws his lip 'tis pholly to be fortune flonting and whoever's gone to mix Hotel by the salt say water there's nix to nothing we can do for he's never again to sea. It is nebuless an autodidact fact of the commonest that the shape of the average human cloudyphiz, whereas sallow has long daze faded, frequently altered its ego with the possing of the showers (Not original!). Whence it is a slopperish matter, given the wet and low visibility (since in this scherzarade of one's thousand one nightinesses that sword of certainty which would indentifide the body never falls) to idendifine the individuone in scratch wig, squarecuts, stock lavaleer, regattable oxeter, baggy pants and shufflers (he is often alluded to as Slypatrick, the llad in the llane) with already an incipience (lust!) in the direction of area baldness (one is continually firstmeeting with odd sorts of others at all sorts of ages!) who was asked by free boardschool shirkers in drenched coats overawall, Will, Conn and Otto, to tell them overagait, Vol, Pov and Dev, that fishabed ghoatstory of the haardly creditable edventyres of the Haberdasher, the two Curchies and the three Enkelchums in their Bearskin ghoats! Girles and jongers, but he has changed alok syne Thorkill's time! Ya, da, tra, gathery, pimp, shesses, shossafat, okodeboko, nine! Those many warts, those slummy patches, halfsinster wrinkles, (what has come over the face on wholebroader E?), and (shrine of Mount Mu save us!) the large fungopark he has grown! Drink! Sport's a common thing. It was the Lord's own day for damp (to wait for a postponed regatta's eventualising is not of Battlecock Shettledore-Juxta-Mare only) and the request for a fully armed explanation was put (in Loo of Pat) to the porty (a native of the sisterisle—Meathman or Meccan?—by his brogue, exrace eyes, lokil calour and lucal odour which are said to have been average clownturkish (though the capelist's voiced nasal liquids and the way he sneezed at zees haul us back to the craogs and bryns of the Silurian Ordovices) who, the lesser pilgrimage accomplished, had made, pats' and pigs' older inselt, the southeast bluffs of the stranger stepshore, a regifugium persecutorum, hence hindquarters) as he paused at evenchime for some or so minutes (hit the pipe, dannyboy! Time to won, barmon. I'll take ten to win.) amid the devil's one duldrum (Apple by her blossom window and Charlotte at her toss panomancy his sole admirers, his only tearts in store) for a fragrend culubosh during his weekend pastime of executing with Anny Oakley deadliness (the consummatory pairs of provocatives, of which remained provokingly but two, the ones he fell for, Lili and Tutu, cork em!) empties which had not very long before contained Reid's family (you ruad that before, soaky, but all the bottles in sodemd histry will not soften your bloodathirst!) stout. Having reprimed his repeater and resiteroomed his timespiece His Revenances, with still a life or two to spare for the space of his occupancy of a world at a time, rose to his feet and there, far from Tolkaheim, in a quiet English garden (commonplace!), since known as Whiddington Wild, his simple intensive curolent vocality, my dearbraithers, my most dearbrathairs, as he, so is a supper as is a sipper, spake of the One and told of the Compassionate, called up before the triad of precoxious scaremakers (scoretaking: Spegulo ne helpas al malbellulo, Mi Kredas ke vi estas prava, Via dote la vizago rispondas fraulino) the now to ushere mythical habiliments of Our Farfar and Arthor of our doyne. Television kills telephony in brothers' broil. Our eyes demand their turn. Let them be seen! And wolfbone balefires blaze the trailmost if only that Mary Nothing may burst her bibby buckshee. When they set fire then she's got to glow so we may stand some chances of warming to what every soorkabatcha, tum or hum, would like to know. The first Humphrey's latitudinous baver with puggaree behind, (calaboose belong bigboss belong Kang the Toll) his fourinhand bow, his elbaroom surtout, the refaced unmansionables of gingerine hue, the state slate umbrella, his gruff woolselywellesly with the finndrinn knopfs and the gauntlet upon the hand which in an hour not for him solely evil had struck down the might he mighthavebeen d'Esterre of whom his nation seemed almost already to be about to have need. Then, stealing his thunder, but in the befitting legomena of the smaller country, (probable words, possibly said, of field family gleaming) a bit duskish and flavoured with a smile, seein as ow his thoughts consisted chiefly of the cheerio, he aptly sketched for our soontobe second parents (sukand see whybe!) the touching seene. The solence of that stilling! Here one might a fin fell. Boomster rombombonant! It scenes like a landescape from Wildu Picturescu or some seem on some dimb Arras, dumb as Mum's mutyness, this mimage of the seventyseventh kusin of kristansen is odable to os across the wineless Ere no œdor nor mere eerie nor liss potent of suggestion than in the tales of the tingmount. (Prigged!)",
+      "translation": "当吹哨菲尔想要撇嘴吹响，炫耀财运便是蠢举；无论谁跑去咸海水边的旅馆混迹，我们都束手无策，只因他再也不会出海或现身。尽管如此，世所习见的无师自通事实是：寻常凡人云雾般的面相，蜡黄气色虽早已随漫长眩目的白昼消褪，却常随阵雨飘过而改换自我（绝非独创！）。是以在阴湿难辨的视线里（既然在这一千零一夜睡衣闹剧的字谜猜猜看中，那柄足以验明正身的笃定之剑从不落下），要想辨清这个戴蓬乱假发、穿方摆外衣、系垂饰领巾、套赛舟会牛津鞋、着肥大宽松裤与拖鞋的独一个体（人常称他为狡诈帕特里克，小巷里的小伙子），况且他头顶已现斑秃苗头（淫欲！）（人总会不断初次撞见各色年龄的各色怪人！），实属棘手滑溜之事；三个身穿湿透外套趴在墙头的免费公学逃学童——威尔、康恩与奥托，曾央求他向沃尔、波夫与德夫再讲一遍那床头鱼怪山羊故事，道尽针线杂货商、两个行屈膝礼的姑娘与三个裹熊皮大衣的小伙子那些令人难以置信的奇遇！姑娘小伙们，自托尔基尔时代以来，他变得可真多！一、二、三、四、五、六、约沙法、横竖八、九！那满脸肉赘、块块污斑、半带凶相的皱纹（老大哥 E 脸上到底中了什么邪？），还有（穆山神龛救救我们！）他长出的那大片菌丛公园！喝吧！消遣原是寻常事。这真是天主特赐的阴湿日子（苦等延期赛舟会开赛，绝非海滨巴特尔科克—谢特尔多尔一地独有），而全副武装解释一番的请求（以卢代帕特），便落到这胖汉头上（他是姊妹岛土著——米斯郡人还是麦加人？——凭他的爱尔兰土腔、异族眼眸、本土肤色与地方气味，据说都属寻常小丑土耳其式（尽管这小礼拜堂信徒带浊音的鼻流音，以及他逢 z 打喷嚏的模样，把我们拽回志留纪奥陶人崎岖的岩崖与山丘），他在完成小朝觐后，已将帕特与猪的古老海岛、异乡阶岸的东南峭壁，化作受迫害者的避难所，亦即后方大本营）；其时在晚钟敲响之际，他在恶魔般的沉闷无聊中（花窗边的阿普尔与抛煎饼占卜的夏洛特是他仅有的仰慕者，也是他储备里仅有的小甜心），暂停数分钟（抽起烟斗吧，丹尼男孩！一比一，酒保。我押十赔一赢），享受芬芳的葫芦烟斗，周末消遣则是以安妮·奥克利百发百中的绝命枪法，处决那些不久前还装着里德家（酒鬼，你早读过这段，可混账历史里所有的酒瓶也休想软化你的嗜血渴望！）黑啤的空瓶（那几对挑逗引诱的催情物，如今挑衅地只剩两个，正是他倾倒的莉莉与图图，塞住她们！）。这位归来显圣的大人重新装填连发枪，把怀表放回边房，趁自己占领一个世界的一世光阴尚余一两条性命，便站起身来；在远离托尔卡家园的僻静英格兰花园（老生常谈！）——后来人称惠丁顿荒野——他既是进晚餐者又是啜饮者，用质朴急切、流利恳切的嗓音，我亲爱的弟兄们，我最亲爱的同胞们，宣讲独一真神，传述仁慈大主，在三个早熟的造谣恐吓者面前（记分如下：镜子帮不了丑八怪，我相信你所言不差，小姐，你的面容与你的嫁妆相称），唤起我们这位远祖、我们氏族鼻祖如今在我们此地看来已成神话的行头。在兄弟阋墙中，电视扼杀了电话。我们的眼睛要求轮到自己。让他们现身被看！狼骨篝火在最前头熊熊开路，哪怕只为让一无所有的玛丽白白撑破她的围嘴。他们一点火，她就得发亮，好让我们有几分机会暖和起来，探知每个猪崽子、汤姆或汉姆都想知晓的底细。初代汉弗莱那顶后挂印度缠头巾的宽边海狸帽（高个子康王大老板的班房）、他的四马挽具式领结、他宽绰舒展的礼服大衣、翻新过的姜黄色不可言说之裤、气派的石板灰雨伞、他那件缀着白铜钮扣的粗呢沃尔斯利—韦尔斯利大衣，以及戴在那只手上的长手套——那只手在并非仅对他一人凶险的时辰，曾击倒或许本可大有作为的德埃斯特，而他的国家似乎几乎已快要需要此人了。随后，他抢过对方的雷声，却用较小国度相宜的措辞（田野家族闪光中大概说过、或许道出的话语），略带暮色，佐以微笑，皆因他心中所想多半是欢呼喝彩，为我们行将上任的第二父母（吮吸吧，看看为何！）恰切勾勒出那动人一幕。那片寂静何等深沉！在此真可谓针落可闻。轰鸣大汉隆隆作响！这画面宛如威尔杜画派的风景，又似暗淡阿拉斯挂毯上的某幅景象，哑如老妈的沉默叛逆；基督徒第七十七代堂亲的这幅摹像，越过无酒的爱尔兰与往昔，向我们散发气味，既不比维京议事丘传说里的气味更怪异、更阴森，亦不减其暗示之力。（偷来的！抓获！）",
+      "notes": [
+        {
+          "id": "n-i3-50-phishlin-phil",
+          "lemma": "When Phishlin Phil wants throws his lip 'tis pholly to be fortune flonting",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "Phishlin Phil 借 ph 拼写串连吹口哨（whistling）、钓鱼（fishing）与爱尔兰歌曲《吹笛菲尔的舞会》（Phil the Fluter's Ball）；pholly 谐音愚蠢（folly），fortune flonting 叠合炫耀财运（flaunting fortune）与嘲弄命运。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-51-haberdasher-curchies",
+          "lemma": "the Haberdasher, the two Curchies and the three Enkelchums in their Bearskin ghoats!",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "将公园奇遇化作鬼故事（ghoatstory，兼含山羊 goat 与幽灵 ghost）：Haberdasher（针线杂货商）指 HCE，two Curchies（两个行屈膝礼 curtsy／教堂 church 的姑娘）指两名少女，three Enkelchums in their Bearskin ghoats（三个戴熊皮帽／穿熊皮山羊大衣的脚踝伙伴／外孙）指三名士兵。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-52-spegulo-esperanto",
+          "lemma": "Spegulo ne helpas al malbellulo, Mi Kredas ke vi estas prava, Via dote la vizago rispondas fraulino",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "括号内嵌入三句世界语（含拼写变形）：Spegulo ne helpas al malbellulo（镜子帮不了丑人）、Mi Kredas ke vi estas prava（我相信你是对的）、Via dote la vizago rispondas fraulino（小姐，你的面容与你的嫁妆相称），夹在「记分」（scoretaking）之后，呼应镜像与求偶母题。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-52-television-telephony",
+          "lemma": "Television kills telephony in brothers' broil. Our eyes demand their turn. Let them be seen!",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "由听觉传闻转向视觉显像的转折句：电视（视觉）在兄弟阋墙中扼杀电话（听觉），眼睛要求轮到自己上场，召唤下文初代汉弗莱整套服饰行头逐件显形。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-52-latitudinous-baver",
+          "lemma": "The first Humphrey's latitudinous baver with puggaree behind",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "初代汉弗莱的服饰清单以宽边海狸礼帽（latitudinous baver，即 beaver hat，后挂印度式防晒帽巾 puggaree）领起，依次列出四马挽具式领结（fourinhand bow）、宽大礼服大衣（elbaroom surtout）、姜黄色裤子（unmansionables）、石板灰雨伞、粗呢大衣（woolselywellesly，叠合 Wolseley 与 Wellesley 两位名将）与决斗长手套。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-52-desterre-tingmount-prigged",
+          "lemma": "the gauntlet upon the hand which in an hour not for him solely evil had struck down the might he mighthavebeen d'Esterre",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "指 1815 年丹尼尔·奥康奈尔（Daniel O'Connell）在决斗中击毙都柏林市政官诺科特·德埃斯特（Norcot d'Esterre）一事（奥康奈尔事后曾戴黑手套忏悔）；此处将汉弗莱的长手套置于击倒德埃斯特的那只手上。段末 tingmount 指都柏林维京议事丘（Thingmount），Prigged 双关偷窃／剽窃与抓获。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "locator": "055.03–057.15",
+      "corrected_original": "The house of Atreox is fallen indeedust (Ilyam, Ilyum! Maeromor Mournomates!) averging on blight like the mundibanks of Fennyana, but deeds bounds going arise again. Life, he himself said once, (his biografiend, in fact, kills him verysoon, if yet not, after) is a wake, livit or krikit, and on the bunk of our breadwinning lies the cropse of our seedfather, a phrase which the establisher of the world by law might pretinately write across the chestfront of all manorwombanborn. The scene, refreshed, reroused, was never to be forgotten, the hen and crusader everintermutuomergent, for later in the century one of that puisne band of factferreters, (then an excivily (out of the custom huts) (retired), (hurt), under the sixtyfives act) in a dressy black modern style and wewere shiny tan burlingtons, (tam, homd and dicky, quopriquos and peajagd) rehearsed it, pippa pointing, with a dignified (copied) bow to a namecousin of the late archdeacon F. X. Preserved Coppinger (a hot fellow in his night, may the mouther of guard have mastic on him!) in a pullwoman of our first transhibernian with one still sadder circumstance which is a dirkandurk heartskewerer if ever to bring bouncing brimmers from marbled eyes. Cycloptically through the windowdisks and with eddying awes the round eyes of the rundreisers, back to back, buck to bucker, on their airish chaunting car, beheld with intouristing anterestedness the clad pursue the bare, the bare the green, the green the frore, the frore the cladagain, as their convoy wheeled encirculingly abound the gigantig's lifetree, our fireleaved loverlucky blomsterbohm, phoenix in our woodlessness, haughty, cacuminal, erubescent (repetition!) whose roots they be asches with lustres of peins. For as often as the Archicadenus, pleacing aside his Irish Field and craving their auriculars to recepticle particulars before they got the bump at Castlebar (mat and far!) spoke of it by request all, hearing in this new reading of the part whereby, because of Dyas in his machina, the new garrickson's grimacing grimaldism hypostasised by substintuation the axiomatic orerotundity of that once grand old elrington bawl, the copycus's description of that fellowcommuter's play upon countenants, could simply imagine themselves in their bosom's inmost core, as pro tem locums, timesported acorss the yawning (abyss), as once they were seasiders, listening to the cockshyshooter's evensong evocation of the doomed but always ventriloquent Agitator, (nonot more plangorpound the billows o'er Thounawahallya Reef!) silkhouatted, a whallrhosmightiadd, aginsst the dusk of skumring, (would that fane be Saint Muezzin's calling—holy places!—and this fez brimless as brow of faithful toucher of the ground, did wish it were—blessed be the bones! —the ghazi, power of his sword.) his manslayer's gunwielder protended towards that overgrown leadpencil which was soon, monumentally at least, to rise as Molyvdokondylon to, to be, to be his mausoleum (O'dan stod tillsteyne at meisies aye skould show pon) while olover his exculpatory features, as Roland rung, a wee dropeen of grief about to sillonise his jouejous, the ghost of resignation diffused a spectral appealingness, as a young man's drown o'er the fate of his waters may gloat, similar in origin and akkurat in effective to a beam of sunshine upon a coffin plate. Not olderwise Inn the days of the Bygning would our Traveller remote, unfriended, from van Demon's Land, some lazy skald or maundering pote, lift wearywilly his slowcut snobsic eyes to the semisigns of his zooteac and lengthily lingering along flaskneck, cracket cup, downtrodden brogue, turfsod, wildbroom, cabbageblad, stockfisch, longingly learn that there at the Angel were herberged for him poteen and tea and praties and baccy and wine width woman wordth warbling: and informally quasi-begin to presquesm'ile to queasithin' (Nonsense! There was not very much windy Nous blowing at the given moment through the hat of Mr Melancholy Slow!) But in the pragma what formal cause made a smile of that tothink? Who was he to whom? (O'Breen's not his name nor the brown one his maid.) Whose are the placewheres? Kiwasti, kisker, kither, kitnabudja? Tal the tem of the tumulum. Giv the gav of the grube. Be it cudgelplayers' country, orfishfellows' town or leeklickers' land or panbpanungopovengreskey. What regnans raised the rains have levelled but we hear the pointers and can gauge their compass for the melos yields the mode and the mode the manners plicyman, plansiman, plousiman, plab. Tsin tsin tsin tsin! The forefarther folkers for a prize of two peaches with Ming, Ching and Shunny on the lie low lea. We'll sit down on the hope of the ghouly ghost for the titheman troubleth but his hantitat hies not here. They answer from their Zoans; Hear the four of them! Hark torroar of them! I, says Armagh, and a'm proud o'it. I, says Clonakilty, God help us! I, says Deansgrange, and say nothing. I, says Barna, and whatabout it? Hee haw! Before he fell hill he filled heaven: a stream, alplapping streamlet, coyly coiled um, cool of her curls: We were but thermites then, wee, wee. Our antheap we sensed as a Hill of Allen, the Barrow for an People, one Jotnursfjaell: and it was a grummelung amung the porktroop that wonderstruck us as a thunder, yunder.",
+      "translation": "阿特柔斯之屋确已化作尘土倾颓（伊利昂，伊利昂！哀莫大焉，同悲的伙伴！），如芬尼亚那的河岸沃土般濒临枯萎凋零，但累累行迹终将跃起复生。他本人曾说，人生（事实上，他的传记恶友不多时便将他结果，纵非当下，亦在随后）是一场守灵，无论活受还是打板球，我们谋生糊口的床铺上躺着我们始祖的庄稼尸骸；依律创立世界者，大可将这句话贴切写满一切男女腹胎所生者的胸前。这一幕经刷新重唤，永世难忘，母鸡与十字军战士始终交互浮现；只因本世纪晚些时候，那伙微末实情侦缉队里的一员（其时已依六十五岁法令，从海关棚屋退职，负伤隐退，沦为前文官），身穿时髦考究的现代黑衣与我们常穿的亮褐伯灵顿皮鞋（谭、霍姆与迪基，阴差阳错与猎豌豆装），皮帕指点着，在首班横贯爱尔兰列车的普尔曼卧铺车厢里，向已故副主教 F·X·长寿·科平杰（他当年夜里是个火辣人物，愿护佑圣母赐他乳香！）的一位同名堂亲，庄重（摹仿）鞠躬，复述此事，外加一桩更凄惨的情节——若有什么能让大理石眼眸涌出盈眶热泪，这便是刺透心扉的双刃短剑。周游旅人在爱尔兰歌唱马车上背靠背、汉挨汉，透过车窗圆盘，独眼巨人般瞪大圆眼，带着漩涡般回旋的敬畏，以观光客先入为主的兴致，凝望穿衣者追逐赤裸者，赤裸者追逐青绿者，青绿者追逐酷寒者，酷寒者又追逐重穿衣者；他们的车队环绕巨人的生命之树盘旋而行，那是我们火叶簇拥、恋侣侥幸的花树，是我们无林荒原上的凤凰，孤高、耸立绝顶、羞红满面（重复！），它的根须是灰烬与痛楚的光彩。只因每当大教长把《爱尔兰田野报》搁在一旁，赶在他们抵达卡斯尔巴遭遇颠簸（既倦且远！）之前，恳请众人竖起耳朵收纳详情，应邀讲起此事，众人听着这一角色的全新演绎——借着机械降神般的迪亚斯，新加里克传人挤眉弄眼的格里马尔迪丑角戏，以实体代换将昔日老埃林顿宏亮咆哮的自明圆润嗓音化为实存，这模仿客对同车旅伴面部表情变化的描绘——无不在心坎最深处径自想象自己权充临时替身，跨越呵欠连天的（深渊）穿梭时光，恍若重作当年海滨游客，聆听那投棒打靶手在晚祷歌中唤起注定覆灭却始终腹语滔滔的鼓动家（浪击图纳瓦哈利亚礁石也不过如此轰鸣！）：他化作鲸鲵海象般雄伟的剪影，映衬着黄昏暮色（那神殿莫非是圣宣礼员呼唤礼拜之处——圣地啊！——而这顶如叩地信徒额头般无檐的土耳其毡帽，真巴不得它便是——愿骸骨蒙福！——凭刀剑显威的圣战勇士），他那凶手所持的枪管前指那支长过头的巨型铅笔，它不久至少在纪念碑意义上，将耸立为铅笔纪念碑，成为、成为他的陵墓（奥丹立石，好叫姑娘们永远有处可指），而当罗兰号角吹响，一滴微小的哀愁泪珠将要在他面颊犁出沟痕，听天由命的幽灵便在他辩白开脱的容颜上，漾开一抹鬼魅般的动人神采，恰似溺水青年对自身水运的结局幸灾乐祸，其根源相仿，成效亦酷似棺木铭牌上的一缕阳光。往昔营造草创之初，我们的漫游者从范迪门之地远道而来，举目无亲，有如懒散的北欧吟游诗人或唠叨的穷酸诗人，也莫不如此：他疲惫不堪地抬起迟钝势利的眼睛，望向动物园茶馆的半截招牌，目光沿着细瓶颈、裂口杯、踩瘪的粗皮鞋、泥炭块、野金雀花帚、卷心菜叶、干鳕鱼久久流连，满怀渴望地得知天使客栈正为他备下私酿威士忌、热茶、马铃薯、烟草，以及伴着女人婉转歌喉的美酒；于是他便不拘礼节，对这令人作呕的怪事近乎露出一丝浅笑（胡扯！当时根本没多少有灵气的清风吹过慢吞吞忧郁先生的帽顶！）。但就实务而言，究竟是何种形式因，教那一念生出笑意？他对谁而言是谁？（奥布林既非他姓名，棕发女亦非他侍婢。）那些处所归属何人？为何、何人、何处、几何？且讲古冢的时光。且说墓穴的赠礼。无论那是舞棒好手的乡土、怪鱼伙计的城镇、舔韭葱客的疆域，还是潘—巴努—波文—格雷斯基之地。王者筑起的高台已被雨水夷平，但我们仍听见指针声响，能测度其罗盘方位，只因旋律生出调式，调式化作风俗：警察、设计员、庄稼汉、平民。钦，钦，钦，钦！远古先民为两枚桃子的奖赏，与明、清和舜在低矮草甸上相会。我们且怀着对食尸鬼幽灵的指望坐下，只因收什一税的差役虽来烦扰，他的鬼窝却不在此处。他们从各自的佐安城应声作答；听那四位吧！听他们咆哮如雷！是我，阿马说，我引以为傲。是我，克洛纳基尔蒂说，天主救救我们！是我，迪恩斯格兰奇说，我一言不发。是我，巴尔纳说，那又怎样？咿——噢！他未堕为山丘之前，曾充塞天宇：一道溪流，拍打高山的小溪，羞怯地盘绕着他，卷发清凉：其时我们不过是微小的白蚁，渺小，渺小。我们觉得自己的蚁丘便是艾伦山、一族之古冢、一座巨人山：正是猪群巡逻队里的一阵咕哝低吼，如远方雷霆般将我们震得目瞪口呆。",
+      "notes": [
+        {
+          "id": "n-i3-55-house-atreox",
+          "lemma": "The house of Atreox is fallen indeedust (Ilyam, Ilyum! Maeromor Mournomates!)",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Atreox 叠合古希腊悲剧阿特柔斯家族（House of Atreus）与公牛（ox / 拉丁语 atrox 残酷）；indeedust 将 indeed 与 into dust（化为尘土）嵌合；Ilyam, Ilyum 呼应特洛伊古称伊利昂（Ilium）；Maeromor Mournomates 叠合拉丁语哀伤（maeror）、爱尔兰语大哀（mór）与同悲的伙伴（mourn-mates）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-55-hen-whallrhos",
+          "lemma": "the hen and crusader everintermutuomergent",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "「母鸡与十字军战士」（hen and crusader）不断交互浮现（everintermutuomergent）；后文 whallrhosmightiadd 则将鲸（whale）、海象（walrus）与全能者（almighty）熔为一词，描摹鼓动家（Agitator）在暮色中的庞大剪影。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-56-bygning-traveller",
+          "lemma": "Inn the days of the Bygning would our Traveller remote, unfriended, from van Demon's Land",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Inn the days of the Bygning 戏仿《创世记》开篇（In the beginning），嵌客栈（Inn）与丹麦语／挪威语「建造、大厦」（bygning）；remote, unfriended 化用奥利弗·戈德史密斯长诗《漫游者》（The Traveller）首行「Remote, unfriended, melancholy, slow」（后文 Mr Melancholy Slow 再度呼应）；van Demon's Land 指塔斯马尼亚旧称范迪门之地（Van Diemen's Land，昔日流放地）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-56-formal-cause-kiwasti-porktroop",
+          "lemma": "Kiwasti, kisker, kither, kitnabudja?",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "紧接亚里士多德「形式因」（formal cause）追问之后的一串跨语种疑问词，拟印地语／乌尔都语及斯拉夫语系疑问句式（为何、何人、何处、多少）；段末四方回应（Armagh、Clonakilty、Deansgrange、Barna）分别代表爱尔兰北、南、东、西四省，收束于 porktroop（叠合 park troop 公园巡兵与 pork 猪群）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    },
+    {
+      "segment_id": "fw-i3-057-16",
+      "locator": "057.16–059.26",
+      "corrected_original": "Thus the unfacts, did we possess them, are too imprecisely few to warrant our certitude, the evidencegivers by legpoll too untrustworthily irreperible where his adjugers are semmingly freak threes but his judicandees plainly minus twos. Nevertheless Madam's Toshowus waxes largely more lifeliked (entrance, one kudos; exits, free) and our notional gullery is now completely complacent, an exegious monument, aerily perennious. Oblige with your blackthorns; gamps, degrace! And there many have paused before that exposure of him by old Tom Quad, a flashback in which he sits sated, gowndabout, in clericalease habit, watching bland sol slithe dodgsomely into the nethermore, a globule of maugdleness about to corrugitate his mild dewed cheek and the tata of a tiny victorienne, Alys, pressed by his limper looser. Yet certes one is. Eher the following winter had overed the pages of nature's book and till Ceadurbar-atta-Cleath became Dablena Tertia, the shadow of the huge outlander, maladik, multvult, magnoperous, had bulked at the bar of a rota of tribunals in manor hall as in thieves' kitchen, mid pillow talk and chithouse chat, on Marlborough Green as through Molesworth Fields, here sentenced pro tried with Jedburgh justice, there acquitted contestimony with benefit of clergy. His Thing Mod have undone him: and his madthing has done him man. His beneficiaries are legion in the part he created: they number up his years. Greatwheel Dunlop was the name was on him: behung, all we are his bisaacles. As hollyday in his house so was he priest and king to that: ulvy came, envy saw, ivy conquered. Lou! Lou! They have waved his green boughs o'er him as they have torn him limb from lamb. For his muertification and uxpiration and dumnation and annuhulation. With schreis and grida, deprofound souspirs. Steady, sullivans! Mannequins pause! Longtong's breach is fallen down but Graunya's spreed's abroad. Ahdostay, feedailyones, and feel the Flucher's bawls for the total of your flouts is not fit to fan his fettle, O! Have a ring and sing wohl! Chin, chin! Chin, chin! And of course all chimed din width the eatmost boviality. Swiping rums and beaunes and sherries and ciders and negus and citronnades too. The strongers. Oho, oho, Mester Begge, you're about to be bagged in the bog again. Bugge. But softsies seufsighed: Eheu, for gassies! But, lo! lo! by the threnning gods, human, erring and condonable, what the statues of our kuo, who is the messchef be our kuang, ashu ashure there, the unforgettable treeshade looms up behind the jostling judgements of those, as all should owe, malrecapturable days. Tap and pat and tapatagain, (fire firstshot, Missiers the Refuseleers! Peingpeong! For saxonlootie!) three tommix, soldiers free, cockaleak and cappapee, of the Coldstream. Guards were walking, in (pardonnez-leur, je vous en prie, eh?) Montgomery Street. One voiced an opinion in which on either wide (pardonnez!), nodding, all the Finner Camps concurred (je vous en prie, eh?). It was the first woman, they said, souped him, that fatal wellesday, Lili Coninghams, by suggesting him they go in a field. Wroth mod eldfar, ruth redd stilstand, wrath wrackt wroth, confessed private Pat Marchison retro. (Terse!) Thus contenters with santoys play. One of our coming Vauxhall ontheboards who is resting for the moment (she has been callit by a noted stagey elecutioner a wastepacket Sittons) was interfeud in a waistend pewty parlour. Looking perhaps even more pewtyflushed in her cherryderry padouasoys, girdle and braces by the Halfmoon and Seven Stars, russets from the Blackamoor's Head, amongst the climbing boys at his Eagle and Child and over the corn and hay emptors at their Black and All Black, Mrs F... A... saidaside, half in stage of whisper to her confidante glass, while recoopering her cartwheel chapot (ahat!—and we now know what thimbles a baquets on lallance a talls mean), she hoped Sid Arthar would git a Chrissman's portrout of orange and lemonsized orchids with hollegs and ether, from the feeatre of the Innocident, as the worryld had been uncained. Then, while it is odrous comparisoning to the sprangflowers of his burstday which was a viridable goddinpotty for the reinworms and the charlattinas and all branches of climatitis, it has been such a wanderful noyth untirely, added she, with many regards to Maha's pranjapansies. (Tart!) Prehistoric, obitered to his dictaphone an entychologist: his propenomen is a properismenon. A dustman nocknamed Sevenchurches in the employ of Messrs Achburn, Soulpetre and Ashreborn, prairmakers, Glintalook, was asked by the sisterhood the vexed question during his midday collation of leaver and buckrom alternatively with stenk and kitteney phie in a hashhoush and, thankeaven, responsed impulsively: We have just been propogandering his nullity suit and what they took out of his ear among my own crush. All our fellows at O'Dea's sages with Aratar Calaman he is a cemented brick, buck it all! A more nor usually sober cardriver, who was jauntingly hosing his runabout, Ginger Jane, took a strong view. Lorry hosed her as he talked",
+      "translation": "因此，这些「非事实」，纵使我们果真掌握，也太过含糊稀少，不足以担保我们的确信；按腿头计数的提供证词者更是靠不住地无从寻觅，而审判他的法官看似怪异的三人组，受他审判的对象却分明是负数成双。尽管如此，杜莎夫人给咱看的蜡像馆却越发逼真如生（入场，一分荣誉赞誉；出场，免费），我们虚妄的国民画廊如今全然自满自足，成了一座微薄却高耸的纪念碑，缥缈而恒久。劳驾收起你们的黑刺李木棍；雨伞，请借光！许多人在老汤姆方院对他那番暴露的陈列前驻足良久：那是一幕闪回，他饱食满足，裹着教士般自在的长袍闲坐，凝望温和的太阳狡黠地滑入下界幽冥，一滴微醺伤感的泪珠将要在他温和沾露的面颊上犁出皱纹，而小小维多利亚女郎阿莉斯的告别挥手，正被他那更疲软的松弛之手紧握。然而有一桩确凿无疑。未等翌年寒冬翻完自然之书的书页，直至树篱浅滩百口之城变为第三都柏林，那个庞然异乡人的阴影——受诅咒、多面孔、铸大工——早已在庄园大厅与贼窝厨房、枕边私语与茅房闲谈中，在马尔伯勒绿地与莫尔斯沃思田野间，轮番现身于各巡回法庭的被告席：在此处按杰德堡审判法先斩后审定罪，在彼处又凭神职人员特免权反证无罪开释。他的议会神物毁了他；他的疯话怪事又造就了他这号人物。在他创造的角色里，受惠于他者多如军团：他们悉数计算他的年岁。大轮邓禄普曾是加在他头上的名号：看哪，我们全是他的双轮脚踏车。他在家中如何守节庆，他对此便如何作祭司与君王：狼来了，嫉妒看见了，常春藤征服了。卢！卢！他们一面将他从肢体到羔羊撕得粉碎，一面在他头顶挥舞绿枝。为了他的羞辱苦修、断气受难、定罪沉沦与彻底覆灭。伴着尖叫与呐喊，发自深渊的叹息。稳住，沙利文家的好汉！时装模特且暂停！朗唐的裤裆裂口已经垮落，格兰尼亚的盛宴却四处张扬。啊，留步吧，每日进食的诸位，且摸摸那咒骂者的卵球，只因你们嘲弄的总和，也休想扇动他的元气，噢！围成圆圈高唱安好吧！干杯，干杯！干杯，干杯！自然，众人无不以极致的牛饮欢腾齐声应和。大口猛灌朗姆酒、博讷红酒、雪莉酒、苹果酒，还有热甜酒与柠檬水。那些更烈之物。噢嗬，噢嗬，贝格先生，你又要被装进袋子扔进泥沼了。妖怪。但温软之辈却叹息道：呜呼，可怜那些小姑娘！然而，瞧啊！瞧！指着悲歌哀号、具有人性、难免犯错且可宽宥的诸神起誓，无论我们的国情现状如何，谁又是我们狂乱中的祸首大厨，千真万确就在彼处，那令人难忘的树荫，正从众人皆当承认无法追回的往昔岁月里那些推挤碰撞的审判背后隐隐浮现。嗒嗒，轻拍，嗒嗒再拍（先开第一枪吧，拒绝开火的燧发枪先生们！乒乒乓乓！为了撒克逊战利品！），三个汤米大兵，自由自在的兵哥，神气活现、从头到脚披挂齐整，隶属冷溪近卫军。近卫兵正走在（请原谅他们，求您了，呃？）蒙哥马利街上。其中一人发表高见，两旁（请原谅！）整个芬纳军营无不点头附和（求您了，呃？）。他们说，在那个致命的韦尔斯利星期三，是头一个女人莉莉·坎宁安先用浓汤灌迷了他，怂恿他一起走进田野。狂怒逆抗老父，怜悯劝止僵局，盛怒酿成灾祸，列兵帕特·马奇森事后招认道。（简短！）这帮人就这么拿法国小泥人玩具戏自得其乐。我们一位即将登台的沃克斯霍尔新秀女伶，眼下正在歇工（某位名噪一时的舞台朗诵家曾唤她作废纸篓西顿斯），在西区一家脂粉美容院里接受访谈。F……A……夫人身穿樱桃红帕多瓦绸裙，系着半月七星店出品的腰带与吊裤带，脚蹬黑人头店买来的红褐皮鞋，在他的鹰与婴孩店爬烟囱童工之间，在他们黑上加黑店买谷物干草的主顾之上，面色或许比平日更泛脂粉红晕；她一面整理自己的车轮大帽（啊哈！——这下我们可算明白顶针、木桶与失衡高个子是什么意思了），一面半带舞台耳语向她的知己镜子旁白道，她盼望西德·阿瑟能从无辜偶发事件剧院收到一份圣诞礼物，里面装着橙子与柠檬大小的兰花，配着冬青叶与乙醚，皆因这烦恼世界已解除该隐的枷锁。她又添上一句，虽说拿这同他诞辰裂日那些气味难闻的春花相比未免讨嫌——那诞辰对蚯蚓、猩红热骗子与各科气候炎而言，真是名副其实的陶罐乐园——但这整晚确实美妙极了，并向摩诃的普兰贾三色堇致以多多问候。（尖酸！）史前之物，一位昆虫心理学家对着口述录音机随口评道：他的前名是个倒数第二音节重读词。在格林塔卢克专造草甸的阿奇本、索尔皮特与阿什里本三位先生手下当差的一名清道夫，外号「七教堂」，在一家杂碎小馆里用牛肝与粗麻布交替佐食臭牛排与小猫腰子派作午间便餐时，被修女会姊妹们问及这桩棘手公案；谢天谢地，他冲动之下脱口答道：我们刚在自家伙计圈里宣扬讨论过他的婚姻无效诉讼，以及人们从他耳朵里掏出了什么东西。在奥戴酒馆，我们所有伙计都同阿拉塔·卡拉曼诸智者一样，认定他是块铁板钉钉的好汉，管他妈的！一位比平日更清醒的马车夫，正兴冲冲拿着水管冲洗他的轻便小车「红发简」，对此抱有极其强烈的看法。劳里一面说话，一面拿水管冲洗她",
+      "notes": [
+        {
+          "id": "n-i3-57-unfacts",
+          "lemma": "Thus the unfacts, did we possess them, are too imprecisely few to warrant our certitude",
+          "kind": "syntax",
+          "certainty": "proposal",
+          "text": "以自造词 unfacts（非事实）领起本段对传闻与证词可靠性的怀疑：即便掌握这些「非事实」，也太过模糊稀少，不足以保证确信；下句 adjugers（审判者，約合三个士兵）与 judicandees（受审者／少女，负数成双）亦以数字错位强化荒诞。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-57-madams-toshowus",
+          "lemma": "Madam's Toshowus waxes largely more lifeliked (entrance, one kudos; exits, free)",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Madam's Toshowus waxes 戏仿伦敦杜莎夫人蜡像馆（Madame Tussaud's Waxworks），字面拆解为「夫人给咱展示（to show us）蜡像（waxes）」；notional gullery 将国家美术馆（National Gallery）改写为「虚妄受骗画廊」（notional + gullery），后接贺拉斯《颂歌》名句 exegi monumentum aere perennius（我已筑起比青铜更恒久的纪念碑）之变形。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-58-tapatagain-refuselers",
+          "lemma": "Tap and pat and tapatagain, (fire firstshot, Missiers the Refuseleers! Peingpeong! For saxonlootie!)",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "戏仿 1745 年丰特努瓦战役（Battle of Fontenoy）中英法近卫军互让开火权的传世名言「Messieurs les gardes, tirez les premiers!」；Refuseleers 嵌合燧发枪步兵（Fusiliers）与拒绝者（refusers），引出下文走在都柏林红灯区蒙哥马利街（Montgomery Street）上的三名冷溪近卫军士兵（three tommix ... of the Coldstream. Guards）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-59-sevenchurches-dustman",
+          "lemma": "A dustman nocknamed Sevenchurches in the employ of Messrs Achburn, Soulpetre and Ashreborn, prairmakers, Glintalook",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "Sevenchurches（七教堂）与 Glintalook 均指向威克洛郡古修道院遗址格伦达洛（Glendalough，素以「七教堂」闻名）；雇主名 Achburn, Soulpetre and Ashreborn 暗藏火药与灰烬（ash-burn、saltpetre 硝石、ash-reborn 灰中重生），呼应清道夫（dustman）身份。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-59-ginger-jane-lorry",
+          "lemma": "A more nor usually sober cardriver, who was jauntingly hosing his runabout, Ginger Jane, took a strong view. Lorry hosed her as he talked",
+          "kind": "syntax",
+          "certainty": "proposal",
+          "text": "Ginger Jane（红发简）是马车夫 Lorry（劳里，兼指货运马车 lorry）的轻便小马车（his runabout）之名，句尾 her 指代该车；本句末不加句号，直接跨段连入下一段首句「and this is what he told rewritemen:」。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "locator": "065.34–067.27",
+      "corrected_original": "Ack, ack, ack. With which clap, trap and soddenment, three to a loaf, our mutual friends the fender and the bottle at the gate seem to be implicitly in the same bateau, so to singen, bearing also several of the earmarks of design, for there is in fact no use in putting a tooth in a snipery of that sort and the amount of all those sort of things which has been going on onceaday in and twiceaday out every other nachtistag among all kinds of promiscious individuals at all ages in private homes and reeboos publikiss and allover all and elsewhere throughout secular sequence the country over and overabroad has been particularly stupendous. To be continued. Federals' Uniteds' Transports' Unions' for Exultations' of Triumphants' Ecstasies. But resuming inquiries. Will it ever be next morning the postal unionist's (officially called carrier's, Letters Scotch, Limited) strange fate (Fierceendgiddyex he's hight, d.e., the losel that hucks around missivemaids' gummibacks) to hand in a huge chain envelope, written in seven divers stages of ink, from blanchessance to lavandaiette, every pothook and pancrook bespaking the wisherwife, superscribed and subpencilled by yours A Laughable Party, with afterwite, S.A.G., to Hyde and Cheek, Edenberry, Dubblenn, WC? Will whatever will be written in lappish language with inbursts of Maggyer always seem semposed, black looking white and white guarding black, in that siamixed twoatalk used twist stern swift and jolly roger? Will it bright upon us, nightle, and we plunging to our plight? Well, it might now, mircle, so it light. Always and ever till Cox's wife, twice Mrs Hahn, pokes her beak into the matter with Owen K. after her, to see whawa smutter after, will this kiribis pouch filled with litterish fragments lurk dormant in the paunch of that halpbrother of a herm, a pillarbox? The coffin, a triumph of the illusionist's art, at first blench naturally taken for a handharp (it is handwarp to tristinguish jubabe from jabule or either from tubote when all three have just been invened) had been removed from the hardware premises of Oetzmann and Nephew, a noted house of the gonemost west, which in the natural course of all things continues to supply funeral requisites of every needed description. Why needed, though? Indeed needed (wouldn't you feel like rattanfowl if you hadn't the oscar!) because the flash brides or bride in their lily boleros one games with at the Nivynubies' finery ball and your upright grooms that always come right up with you (and by jingo when they do!) what else in this mortal world, now ours, when meet there night, mid their nackt, me there naket, made their nought the hour strikes, would bring them rightcame back in the flesh, thumbs down, to their orses and their hashes. To proceed. We might leave that nitrience of oxagiants to take its free of the air and just analectralyse that very chymerical combination, the gasbag where the warderworks. And try to pour somour heiterscene up thealmostfere. In the bottled heliose case continuing, Long Lally Tobkids, the special, sporting a fine breast of medals, and a conscientious scripturereader to boot in the brick and tin choorch round the coroner, swore like a Norewheezian tailliur on the stand before the proper functionary that he was up against a right querrshnorrt of a mand in the butcher of the blues who, he guntinued, on last epening after delivering some carcasses mattonchepps and meatjutes on behalf of Messrs Otto Sands and Eastman, Limericked, Victuallers, went and, with his unmitigated astonissment, hickicked at the dun and dorass against all the runes and, when challenged about the pretended hick (it was kickup and down with him) on his solemn by the imputant imputed, said simply: I appop pie oath, Phillyps Captain. You did, as I sostressed before. You are deepknee in error, sir, Madam Tomkins, let me then tell you, replied with a gentlewomanly salaam MackPartland, (the meatman's family, and the oldest in the world except nick, name.) And Phelps was flayful with his peeler. But his phizz fell.",
+      "translation": "啊，啊，啊。伴随着这阵拍击、圈套与骤然湿透，三个人分一块面包，我们的共同朋友——那道壁炉围栏与大门口的酒瓶——按歌中所唱，似乎暗地里同乘一条小船，且带有几分蓄意设计的印记；毕竟，对那类暗箭狙击实在不必咬文嚼字，而诸如此类的勾当，每隔几日便在日夜交替间一日一进、一日两出，在私宅与猜谜公馆里、在国内外四面八方，跨越世世代代，在各色各样不分年龄的混杂男女之间轮番上演，其数量委实惊人。未完待续。联邦联合运输工会凯旋狂喜庆典。且继续查问。到了次日清晨，那位邮政工会邮差（官称递信员，苏格兰信件有限公司；他名叫费尔森吉迪克斯，即四处兜售信差女仆背胶邮票的无赖）是否终将迎来奇异的差事，递交一只巨大的连环信封？那信封用由白转紫的七种不同深浅墨迹写成，每一道弯钩与撇捺皆道出那位洗衣祈愿妇人的口吻，由你们的「可笑政党」题写姓名并在下方铅笔批注，还附有圣安东尼引路字样，寄往都柏林WC区伊登伯里「海德与奇克」收？凡用拉普兰语夹杂马扎尔语突发插句写就的文字，在冷峻的斯威夫特与快活海盗旗之间通用的暹罗连体双人私语中，是否总显得半真半假、黑看似白而白又卫护着黑？当我们坠入困境，黑夜可会向我们放亮？嗯，倘若出现奇迹，此刻或许便会照亮。在考克斯的妻子——两度成为母鸡哈恩太太——带着紧随其后的欧文·K把鸟喙探入此事、查明究竟出了什么肮脏乱子之前，这只塞满文学垃圾碎片的基里巴斯邮袋，是否将一直静静潜伏在那尊赫耳墨斯界碑的异母兄弟——邮筒——的肚腹之中？那具棺材堪称幻术师技艺的杰作，乍看之下自然让人当成了一架手竖琴（当犹巴尔、雅巴尔与土巴该隐三者刚造出来时，实在难以分辨彼此），已从极西之地著名商号奥茨曼叔侄五金店运走；按万物自然之理，该店至今仍在供应各类所需的丧葬用品。可为何需要呢？确乎需要（要是手头没钱，你岂不觉得自己像只落汤藤鸡！），只因在天真新娘盛装舞会上与人调笑的那些身穿百合短夹克的新娘，以及那些总与你并肩同行的挺拔新郎（老天作证，一旦他们赶上来还了得！），在这如今属于我们的凡尘俗世，当子夜相逢、赤身裸体、时辰敲响归零之际，除此之外还有什么能叫他们肉身直挺挺重返人间，大拇指朝下，化作泥灰与碎肉？且往下说。我们不妨任由那股巨牛的硝氮养分自由消散于空气中，只来电解分析那个极其虚妄的化合体——水厂兼看守所旁那只鼓风气囊。并试着往大气层里注入几分明快场面与煤油。在这桩瓶装日照案的续审中，胸前挂满勋章的特警兼街角砖铁小教堂专职读经员长腿拉利·托布基茨，在主管官员面前的证人席上如挪威裁缝般起誓作证，称自己碰上了一名身穿蓝衣、脾气古怪的屠夫汉子；他继续供称，昨晚此人代利默里克肉食品商奥托·桑兹与伊斯特曼公司送完几具牲畜胴体、羊排与黄麻袋装肉后，竟令他大为震惊地违背一切规矩，醉醺醺打着酒嗝猛踢城堡大门，而当那受指控的傲慢家伙严肃质问他为何假装打嗝闹事（他当时正上蹿下跳）时，他只淡淡答道：我指着肉馅派起誓，菲利普斯上尉。你确实踢了，正如我方才强调的那样。先生，汤姆金斯夫人，容我奉告，您已深陷大错，没过膝盖了，麦克帕特兰（屠夫本家，除魔鬼绰号外世上最古老的姓氏）行了个淑女屈身礼答道。费尔普斯则拿他的警棍兼巡警玩笑戏耍。但他的脸色当即垮了下来。",
+      "notes": [
+        {
+          "id": "n-i3-65-fender-bottle-bateau",
+          "lemma": "our mutual friends the fender and the bottle at the gate seem to be implicitly in the same bateau",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "叙述者将前两段出现的两桩传闻证物——062.36 的「壁炉围栏」（the fender）与 063.30 的「门口酒瓶」（the bottle at the gate）——并置在同一条船（bateau）上。紧接其后的 Federals' Uniteds' Transports' Unions' for Exultations' of Triumphants' Ecstasies 七词首字母连缀为拉丁语祈使式 FUTUETE。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-66-chain-envelope-edenberry",
+          "lemma": "a huge chain envelope, written in seven divers stages of ink, from blanchessance to lavandaiette, every pothook and pancrook bespaking the wisherwife, superscribed and subpencilled by yours A Laughable Party, with afterwite, S.A.G., to Hyde and Cheek, Edenberry, Dubblenn, WC?",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "连环信封（chain envelope）预告全书核心「信件」母题：A Laughable Party 嵌合 A.L.P. 首字母；S.A.G. 为天主教信封常见祈祷缩写「圣安东尼引路」（Saint Anthony Guide）；Hyde and Cheek 双关《化身博士》（Jekyll and Hyde）与捉迷藏（hide and seek）；底本词形作 Edenberry, Dubblenn, WC（融汇爱尔兰城镇 Edenderry、伊甸园 Eden 与都柏林 Dublin，前稿据错词指认伊甸码头之说已撤回）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-66-coffin-handharp",
+          "lemma": "The coffin, a triumph of the illusionist's art, at first blench naturally taken for a handharp",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "从奥茨曼叔侄五金店（Oetzmann and Nephew，伦敦及都柏林著名家具五金商）运出的棺材，乍看之下让人错认作一架手竖琴（handharp，兼涉爱尔兰十先令硬币俗称 half-a-crown / harp）；括号内 jubabe、jabule、tubote 变形自《创世记》4:20–22 的雅巴尔（Jabal）、犹巴尔（Jubal，一切弹琴吹箫之人祖）与土巴该隐（Tubal-cain，铜铁匠之祖）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "n-i3-67-oxagiants-peeler-phizz",
+          "lemma": "And Phelps was flayful with his peeler. But his phizz fell.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "本段末记录特警长腿拉利·托布基茨（Long Lally Tobkids）控告送肉屠夫踢门，以及麦克帕特兰（MackPartland）向汤姆金斯夫人（Madam Tomkins）行礼反驳「您已深陷大错，没过膝盖了」（You are deepknee in error）。末句 peeler 指英国首相罗伯特·皮尔创立的巡警（亦双关削皮器），phizz fell 指面孔（physiognomy）或气泡（fizz）垮落。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    },
+    {
+      "segment_id": "fw-i3-067-28",
+      "locator": "067.28–069.29",
+      "corrected_original": "Now to the obverse. From velveteens to dimities is barely a fivefinger span and hence these camelback excesses are thought to have been instigated by one or either of the causing causes of all, those rushy hollow heroines in their skirtsleeves, be she magretta be she the posque. Oh! Oh! Because it is a horrible thing to have to say to say to day but one dilalah, Lupita Lorette, shortly after in a fit of the unexpectednesses drank carbolic with all her dear placid life before her and paled off while the other soiled dove that's her sister-in-love, Luperca Latouche, finding one day while dodging chores that she stripped teasily for binocular man and that her jambs were jimpjoyed to see each other, the nautchy girly soon found her fruitful hat too small for her and rapidly taking time, look, she rapidly took to necking, partying and selling her spare favours in the haymow or in lumber closets or in the greenawn ad huck (there are certain intimacies in all ladies' lavastories we just lease to imagination) or in the sweet churchyard close itself for a bit of soft coal or an array of thin trunks, serving whom in fine that same hot coney a la Zingara which our own little Graunya of the chilired cheeks dished up to the greatsire of Oscar, that son of a Coole. Houri of the coast of emerald, arrah of the lacessive poghue, Aslim-all-Muslim, the resigned to her surrender, did not she, come leinster's even, true dotter of a dearmud, (her pitch was Forty Steps and his perch old Cromwell's Quarters) with so valkirry a licence as sent many a poor pucker packing to perdition, again and again, ay, and again sfidare him, tease fido, eh tease fido, eh eh tease fido, toos topples topple, stop, dug of a dog of a dgiaour, ye! Angealousmei! And did not he, like Arcoforty, farfar off Bissavolo, missbrand her behaveyous with iridescent huecry of down right mean false sop lap sick dope? Tawfulsdreck! A reine of the shee, a shebeen quean, a queen of pranks. A kingly man, of royal mien, regally robed, exalted be his glory! So gave so take: Now not, not now! He would just a min. Suffering trumpet! He thought he want. Whath? Hear, O hear, living of the land! Hungreb, dead era, hark! He hea, eyes ravenous on her lippling lills. He hear her voi of day gon by. He hears! Zay, zay, zay! But, by the beer of his profit, he cannot answer. Upterputty till rise and shine! Nor needs none shaft ne stele from Phenicia or Little Asia to obelise on the spout, neither pobalclock neither folksstone, nor sunkenness in Tomar's Wood to bewray how erpressgangs score off the rued. The mouth that tells not will ever attract the unthinking tongue and so long as the obseen draws theirs which hear not so long till allearth's dumbnation shall the blind lead the deaf. Tatcho, tawney yeeklings! The column of lumps lends the pattrin of the leaves behind us. If violence to life, limb and chattels, often as not, has been the expression, direct or through an agent male, of womanhid offended, (ah! ah!), has not levy of black mail from the times the fairies were in it, and fain for wilde erthe blothoms followed an impressive private reputation for whispered sins? Now by memory inspired, turn wheel again to the whole of the wall. Where Gyant Blyant fronts Peannlueamoore There was once upon a wall and a hooghoog wall a was and such a wallhole did exist. Ere ore or ire in Aaarlund. Or you Dair's Hair or you Diggin Mosses or your horde of orts and oriorts to garble a garthen of Odin and the lost paladays when all the eddams ended with aves. Armen? The doun is theirs and still to see for menags if he strikes a lousaforitch and we'll come to those baregazed shoeshines if you just shoodov a second. And let oggs be good old gaggles and Isther Estarr play Yesther Asterr. In the drema of Sorestost Areas, Diseased. A stonehinged gate then was for another thing while the suroptimist had bought and enlarged that shack under fair rental of one yearlyng sheep, (prime) value of sixpence, and one small yearlyng goat (cadet) value of eightpence, to grow old and happy (hogg it and kidd him) for the reminants of his years; and when everything was got up for the purpose he put an applegate on the place by no means as some pretext a bedstead in loo thereof to keep out donkeys (the pigdirt hanging from the jags to this hour makes that clear) and just thenabouts the iron gape, by old custom left open to prevent the cats from getting at the gout, was triplepatlockt on him on purpose by his faithful poorters to keep him inside probably and possibly enaunter he felt like sticking out his chest too far and tempting gracious providence by a stroll on the peoplade's eggday, unused as he was yet to being freely clodded.",
+      "translation": "如今转看反面。从粗平绒裤料到细条纱裙裾不过五指一掌之距，因此这桩驼背越轨丑行，据信是由那万物始因中的一位或另一位所挑动，也就是芦苇洼地里那两个挽着裙袖的女主角，不管她是玛格丽特还是复活节女郎。噢！噢！今日不得不说出此事委实骇人：其中一个黛丽拉妖姬露皮塔·洛蕾特，原本大好平静人生就在眼前，不久却在一阵突如其来的反常发作中吞下石炭酸，苍白死去；而另一只脏白鸽，也就是她的情场姊妹卢佩卡·拉图什，某日偷懒躲避杂役时，发觉自己很容易便能脱衣挑逗望远镜男人，两条腿柱相碰也欢喜雀跃，这风骚舞娘不久便嫌自己那顶硕果累累的帽子太小，旋即抓紧光阴，瞧，她飞快投身搂抱、聚会，在干草垛、杂物间、临时搭起的绿坪帐篷（一切淑女盥洗室情史里的某些私密细节，我们只留给想象），乃至在静谧的教堂墓园里，为换取几块软煤或一排薄木箱，出卖她多余的恩泽，末了给恩客端上那道吉普赛风味热兔肉——正如我们那位红颊小格兰尼亚当年端给库尔之子、奥斯卡的祖父那般。翡翠海岸的天园艳女，挑人索吻的尤物，举身尽归清真、甘心顺服归降的女子，身为迪尔姆德的亲生女儿，到了伦斯特的黄昏（她的地盘在四十级台阶，他的栖身处在老克伦威尔营房），她难道不曾凭着那份把无数可怜虫打发进毁灭深渊的女武神放纵劲儿，一次又一次，唉，一再向他叫阵挑衅，逗那忠犬，呃逗那忠犬，呃呃逗那忠犬，摇摇晃晃直往下倒，住手，你这异教恶狗的狗崽子！天哪，嫉妒死我了！而他难道不曾像比萨沃洛远祖四十强弓那样，以五光十色的叫嚷痛斥她的行径，骂她是彻头彻尾卑鄙虚伪、灌迷魂汤的病态蠢货？魔鬼的粪土！仙丘的女王，私酒馆的荡妇，恶作剧的王后。王者般的人物，气度威严，身披王袍，愿他的荣耀受尊崇！有施便有受：现在不行，绝不！他只想等一下。受难的号角！他自以为想要。什么？听啊，听，大地上的生灵！饥渴的死寂年代，且听！他听着，饿眼死盯着她起伏的双峰。他听见她往昔的嗓音。他听见了！说，说，说！然而，指着他赖以牟利的麦酒起誓，他答不上来。糊上油灰，直等起身放光！既无需腓尼基或小亚细亚的方尖石柱与石碑当场标示，无需百姓钟表或民俗界石，也无需托马尔树林里的沉沦，便足以暴露敲诈帮伙如何从懊悔者身上榨取油水。守口如瓶的嘴总会招来轻率的舌头；只要那不堪入目的景象仍吸引充耳不闻之辈，那么直到大地万民尽归哑口沉沦，瞎子必将一直给聋子领路。就是这样，黄皮肤的小家伙们！成堆的土块为我们身后留下落叶小径的标记。倘若对性命、肢体与家产的摧残，十有八九是受辱女性或亲自出手、或假手男性代理人发泄的怨气（啊！啊！），那么打从仙灵尚在人间、渴慕荒野繁花的古时起，敲诈勒索之举难道不正是紧随那桩私下流传的隐秘罪行盛名而来的吗？如今受记忆感召，且将车轮再转回整堵高墙与墙洞。在巨人布莱恩特正对羽笔沼山的所在，从前有一堵墙，一堵高而又高的墙，且确有这么一个墙洞存在。早在爱尔兰有矿石或怒火之前。也早于你们的达尔毛发、你们的泥炭藓挖掘者，或你们那群在奥丁果园与失落黄金时代——其时所有亚当与《埃达》皆以圣母颂收尾——里胡乱穿凿的残渣碎屑。阿门？沙丘堡垒归他们所有，只要他划亮一根火柴，里头的家当仍历历可见；只要你肯稍候片刻，我们马上便谈到那些赤脚擦鞋童。且让鹅蛋化作老鹅咯咯叫，让伊丝特·埃斯塔扮演昨日星辰以斯帖。在已故重创地带的戏剧里。至于那扇巨石铰链大门则是另一回事；那位极度乐天派以一头一岁绵羊（上等，值六便士）与一头一岁小山羊（次等，值八便士）的公道年租，买下并扩建了那座棚屋，以期在余年里安享老境（独吞剪毛羊，哄骗小羊羔）；待一切筹备停当，他便在庄园装上一扇苹果木大门，绝非如某些人借口所说是拿旧床架顶替来挡野驴（至今挂在尖刺上的猪粪便足以说明这点）；恰在此时前后，那道按防猫惹痛风的古例原本敞开的铁栅门缺口，却让忠心耿耿的看门人故意上了三重挂锁，将他关在里头，多半是为了防他挺胸过甚，在百姓的复活节蛋日出门闲逛、试探仁慈天意——只因他那时还不习惯任人肆意投泥砸土块。",
+      "notes": [
+        {
+          "id": "fw-i3-067-28-n01",
+          "lemma": "From velveteens to dimities",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "粗平绒（velveteens）与细条棉纱（dimities）分属厚重外装与轻薄内衣织物，「相距不过五指一掌」（barely a fivefinger span）借衣料对比引出芦苇洼地两名女子（Lupita Lorette 与 Luperca Latouche）的传闻；两人名号首字母均为 L. L.，并嵌合母狼（拉丁语 lupa）与洛雷托（Loreto）等回声。前稿 `fw-i3-067-28-n02` 将 Lupita Lorette 坐实为罗拉·蒙特斯并断言服石炭酸自尽系十九世纪都柏林普遍轻生方式之说无文献依据，已予撤除。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "fw-i3-067-28-n03",
+          "lemma": "hot coney a la Zingara",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "coney 字面指兔肉（英语俗语亦借指女性身体），a la Zingara 为吉普赛风味烹调名；后半句 our own little Graunya of the chilired cheeks dished up to the greatsire of Oscar, that son of a Coole 呼应爱尔兰芬尼亚传说中格兰尼亚（Gráinne）与库尔之子芬恩（Finn MacCool，即奥斯卡之祖父）及迪尔姆德（Diarmuid，下文 dearmud）的三角纠葛。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "fw-i3-067-28-n04",
+          "lemma": "turn wheel again to the whole of the wall",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "紧接前句反问「敲诈勒索（levy of black mail）难道不正是紧随那桩私下流传的隐秘罪行盛名而来的吗？」，叙述者将话头转回高墙与墙洞（whole of the wall 双关 the whole of the wall 与 the hole of the wall），重返汉弗莱围墙堡垒的视角。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "fw-i3-067-28-n05",
+          "lemma": "triplepatlockt on him on purpose by his faithful poorters to keep him inside probably",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "庄园装上苹果木大门（applegate）后，忠心的看门人兼搬运工（faithful poorters，双关 porters 与 poor）故意将铁栅门缺口加上三重挂锁（triplepatlockt），把主人关在屋内，以免他在百姓的「蛋日」（eggday，双关复活节与 Humpty Dumpty 坠墙之日）挺胸外出闲逛、招人投掷泥块（freely clodded）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "translation_status": "revised"
+    }
+  ]
+}

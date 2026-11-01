@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-01",
+  "scope": "Existing published tracks: original binding, file SHA256, duration and complete MP3 decoding. No word-by-word listening or transcription claimed.",
+  "accepted_existing_tracks": [
+    {
+      "segment_id": "fw-i1-003-01",
+      "file": "fw-i1-003-01.mp3",
+      "original_sha256": "9f7eae86d530009a50985d68b251285cd0b69a73cebd9407430e9ef2b917d9bd",
+      "mp3_sha256": "b5c024a5f2475c655013f927e308c261f711358aa365867a471751ee3feab91c",
+      "bytes": 258668,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "10.727583"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-003-04",
+      "file": "fw-i1-003-04.mp3",
+      "original_sha256": "fa12697918e59b78a90e178cb2afba46f61a5685124234e0b9aeb4466d9a1a01",
+      "mp3_sha256": "2420a06249373f7a34c9acda0ac2e207235ecdf462b38bdb647d2bc7d20cca1f",
+      "bytes": 1141676,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "47.515729"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-003-15",
+      "file": "fw-i1-003-15.mp3",
+      "original_sha256": "524ac6990633619ef2fddbb667e7d3d1cc9e27d116f79c753c21b626ca543cb7",
+      "mp3_sha256": "776774394a18637d9010f9bf4507db8cd181845c3443ce486a509a5d5e0a7b9e",
+      "bytes": 854252,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "35.524479"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-004-01",
+      "file": "fw-i1-004-01.mp3",
+      "original_sha256": "b42f8443789a4b58c65a1c6445c8b80d48c3cfc3a7691753f41fded0b8d9f85e",
+      "mp3_sha256": "5676b3a79402c770355a75301c5e8f271327c757cb16c92a1c48252564dd491b",
+      "bytes": 1936556,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "80.639792"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-004-18",
+      "file": "fw-i1-004-18.mp3",
+      "original_sha256": "bb09224e3a9830a229ff4a461dfc38be5d1e6b1541f995f5918b94bb5e1d8103",
+      "mp3_sha256": "58412c92038ca782ddb99e8e45d71e0956a5be9647012c4ffb0bcc03a0588979",
+      "bytes": 2241836,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "93.358854"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-005-05",
+      "file": "fw-i1-005-05.mp3",
+      "original_sha256": "60a21d444f247e892baff7cc6a4a9cbbf8246b6107c0b92d66cadf7e2aabadfd",
+      "mp3_sha256": "15e5675e8f7ae09488824a7b44da10e36abdcb1a056b158be0004651ed0e9b56",
+      "bytes": 505196,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "20.976979"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-005-09",
+      "file": "fw-i1-005-09.mp3",
+      "original_sha256": "4ca62d55ec175629155d57818c540c9743098e1d2846831c28e65d6d9bd78d60",
+      "mp3_sha256": "d72228b8c3f35df40464dd3a6462323e93417d5997e6a60deb5544e1f6247215",
+      "bytes": 437228,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "18.160000"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-005-13",
+      "file": "fw-i1-005-13.mp3",
+      "original_sha256": "0011e071c878a9b1a9a9b9c77008ed40b0fc1791316be79ab837a8a4b5f56085",
+      "mp3_sha256": "f0cb81302b1efb7a83108b3dbb440eaf6dcb7b8dad8c560a97c1a2e6ac975900",
+      "bytes": 3641516,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "151.672333"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    },
+    {
+      "segment_id": "fw-i1-006-13",
+      "file": "fw-i1-006-13.mp3",
+      "original_sha256": "80b5e6e0b60464f8bdecc17684862e8ae35bbac40bec9c5977dafd7b0347f311",
+      "mp3_sha256": "a4567593542178e81e254541ca10b818cfd5ea40b5504ff5fac7d7ffbd9b9b6b",
+      "bytes": 4359212,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "181.571417"
+        }
+      },
+      "decode_exit": 0,
+      "decode_stderr": ""
+    }
+  ],
+  "new_tracks": [],
+  "withheld": [
+    {
+      "files": [
+        "fw-i1-005-27.mp3",
+        "fw-i1-006-32.mp3"
+      ],
+      "reason": "Old subsegments already included in the two published merged recordings; IDs no longer exist in public segments."
+    },
+    {
+      "files": [
+        "fw-i1-007-16.mp3"
+      ],
+      "reason": "Original text changed (Brunto); no trustworthy regenerated recording is bound to the current text."
+    }
+  ],
+  "other_local_files": "Other unregistered local MP3 files appeared in an early listing but were no longer readable at intake. No such file was uploaded, reconstructed, or rebound by changing text hashes.",
+  "public_original_bindings_unchanged": true
+}
