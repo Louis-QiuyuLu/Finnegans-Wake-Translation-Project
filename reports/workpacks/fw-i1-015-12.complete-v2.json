@@ -1,0 +1,69 @@
+{
+  "id": "fw-i1-015-12",
+  "locator": "015.12–015.28",
+  "range": [
+    15,
+    12,
+    15,
+    28
+  ],
+  "source_id": "joyce-fp",
+  "original": "The babbelers with their thangas vain have been (confusium hold them!) they were and went; thigging thugs were and houhnhymn songtoms were and comely norgels were and pollyfool fiansees. Menn have thawed, clerks have surssurhummed, the blond has sought of the brune: Elsekiss thou may, mean Kerry piggy?: and the duncledames have countered with the hellish fellows: Who ails tongue coddeau, aspace of dumbillsilly? And they fell upong one another: and themselves they have fallen. And still nowanights and by nights of yore do all bold floras of the field to their shyfaun lovers say only: Cull me ere I wilt to thee!: and, but a little later: Pluck me whilst I blush! Well may they wilt, marry, and profusedly blush, be troth! For that saying is as old as the howitts. Lave a whale a while in a whillbarrow (isn't it the truath I'm tallin ye?) to have fins and flippers that shimmy and shake. Tim Timmycan timped hir, tampting Tam. Fleppety! Flippety! Fleapow! Hop!",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-014-28",
+  "next": [
+    15,
+    29
+  ],
+  "next_original": "In the name of Anem this carl on the kopje in pelted thongs a parth",
+  "questions": [
+    {
+      "lemma": "babbelers with their thangas vain... confusium hold them... houhnhymn songtoms... comely norgels... pollyfool fiansees",
+      "question": "babbelers、confusium、houhnhymn 让巴别、孔夫子或慧骃等声影相遇。后两项须逐项补出处；不把所有近音都列为同等确定的借用。",
+      "impact": "i1-babbelers"
+    },
+    {
+      "lemma": "blond has sought of the brune: Elsekiss thou may, mean Kerry piggy?... Who ails tongue coddeau, aspace of dumbillsilly?",
+      "question": "两段问答带求爱与索礼语气，可供丹麦语／法语近音读法。本轮未核旧注列出的整句原语，撤去“源自某句”的强断言；正文只保对话动作与未定人称。",
+      "impact": "i1-elsekiss"
+    },
+    {
+      "lemma": "Lave a whale a while in a whillbarrow... Tim Timmycan timped hir, tampting Tam. Fleppety! Flippety! Fleapow! Hop!",
+      "question": "推车、鲸与末尾连续拟声由大物转到跳动的小动作。Fleapow 可联 flea powder；歌谣名称、人物身份及镜头跃迁理论仍是候选，不充当事实。",
+      "impact": "i1-fleapow"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "fw-i1-027-22",
+  "locator": "027.22–028.34",
+  "range": [
+    27,
+    22,
+    28,
+    34
+  ],
+  "source_id": "joyce-fp",
+  "original": "Aisy now, you decent man, with your knees and lie quiet and repose your honour's lordship! Hold him here, Ezekiel Irons, and may God strengthen you! It's our warm spirits, boys, he's spooring. Dimitrius O'Flagonan, cork that cure for the Clancartys! You swamped enough since Portobello to float the Pomeroy. Fetch neahere, Pat Koy! And fetch nouyou, Pam Yates! Be nayther angst of Wramawitch! Here's lumbos. Where misties swaddlum, where misches lodge none, where mystries pour kind on, O sleepy! So be yet! I've an eye on queer Behan and old Kate and the butter, trust me. She'll do no jugglywuggly with her war souvenir postcards to help to build me murial, tippers! I'll trip your traps! Assure a sure there! And we put on your clock again, sir, for you. Did or didn't we, sharestutterers? So you won't be up a stump entirely. Nor shed your remnants. The sternwheel's crawling strong. I seen your missus in the hall. Like the queenoveire. Arrah, it's herself that's fine, too, don't be talking! Shirksends? You storyan Harry chap longa me Harry chap storyan grass woman plelthy good trout. Shakeshands. Dibble a hayfork's wrong with her only her lex's salig. Boald Tib does be yawning and smirking cat's hours on the Pollockses' woolly round tabouretcushion watching her sewing a dream together, the tailor's daughter, stitch to her last. Or while waiting for winter to fire the enchantement, decoying more nesters to fall down the flue. It's an allavalonche that blows nopussy food. If you only were there to explain the meaning, best of men, and talk to her nice of guldenselver. The lips would moisten once again. As when you drove with her to Findrinny Fair. What with reins here and ribbons there all your hands were employed so she never knew was she on land or at sea or swooped through the blue like Airwinger's bride. She was flirtsome then and she's fluttersome yet. She can second a song and adores a scandal when the last post's gone by. Fond of a concertina and pairs passing when she's had her forty winks for supper after kanekannan and abbely dimpling and is in her merlin chair assotted, reading her Evening World. To see is it smarts, full lengths or swaggers. News, news, all the news. Death, a leopard, kills fellah in Fez. Angry scenes at Stormount. Stilla Star with her lucky in goingaways. Opportunity fair with the China floods and we hear these rosy rumours. Ding Tams he noise about all same Harry chap. She's seeking her way, a chickle a chuckle, in and out of their serial story, Les Loves of Selskar et Pervenche, freely adapted to The Novvergin's Viv. There'll be bluebells blowing in salty sepulchres the night she signs her final tear. Zee End. But that's a world of ways away. Till track laws time. No silver ash or switches for that one! While flattering candles flare. Anna Stacey's how are you! Worther waist in the noblest, says Adams and Sons, the wouldpay actionneers. Her hair's as brown as ever it was. And wivvy and wavy. Repose you now! Finn no more!",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-024-15",
+  "next": [
+    28,
+    35
+  ],
+  "next_original": "For, be that samesake sibsubstitute of a hooky salmon, there's already a big rody ram",
+  "questions": [
+    {
+      "lemma": "As when you drove with her to Findrinny Fair. What with reins here and ribbons there all your hands were employed so she never knew was she on land or at sea or swooped through the blue like Airwinger's bride",
+      "question": "Findrinny Fair、Airwinger's bride 与马车、缰绳、飘带形成求爱回忆。具体地名、白银词源和是否真在空中飞行尚未核；正文保陆、海、天的不确定感。",
+      "impact": "i1-findrinnyfair"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

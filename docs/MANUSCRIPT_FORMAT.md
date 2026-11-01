@@ -17,6 +17,7 @@
 - `draft`：初译；`translation`：当前读本采用稿。
 - `status`：`draft`、`revised` 或 `reviewed`；`reviewers`：真实审校者姓名或公开账号。
 - `notes`：注释列表；`alternatives`：其他译法及理由。
+- `source_figures`：有文义作用的旋转字母，独立保存，不塞进朗读文字。每项列 `anchor`（原文唯一锚句）、`letter`（E或F）、`rotation`（顺时针90、逆时针-90）、`replace`（替换近似字符，或紧接锚句插图），另记 `locator`、`source_id` 与核图依据。网页与EPUB用内嵌SVG重绘，便读原文稿用方括号说明方向；不是原刊字形的影印。朗读仍按 `original`，不念图形。
 
 段落须按页行排序，坐标不能重叠。若要细分同一行，先保留整行范围并在同一段解释，不创建重复闭区间。
 

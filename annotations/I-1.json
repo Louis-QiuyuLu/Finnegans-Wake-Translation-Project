@@ -1371,5 +1371,1311 @@
         "fw-page8"
       ]
     }
+  ],
+  "fw-i1-008-06": [
+    {
+      "id": "i1-museomound",
+      "lemma": "museomound... janitrix, the mistress Kathe... Willingdone Museyroom",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "museomound 把 museum 与 mound 叠在一起，展馆、土冢和巨人身体可相互映照。Kathe 随后引路；原文反复 Tip，可保留敲击般节拍，不据此断定她手持何种器具。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-prooshious",
+      "lemma": "Prooshious gunn... ffrinch... Cap and Soracer... Crossgunn",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Prooshious、ffrinch 可分别叠听 Prussian、French；Cap and Soracer 又像 cup and saucer。军史陈列混入餐具与儿歌语气，中文保留短句和反复“此乃”。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-triplewon",
+      "lemma": "triplewon hat of Lipoleum... Cokenhape... Sraughter Willingdone",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Lipoleum 可叠听 Napoleon、linoleum；triplewon 又让人想到 triple、won。帽子、油布与胜负相缠。Cokenhape 与后文 Copenhagen、Capeinhope 的变形须连读，不能每处都抹平为同一马名。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-grouchingdetch",
+      "lemma": "three lipoleum boyne grouching down in the living detch... inimyskilling... scotcher grey",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "grouching 可联 Grouchy，boyne 可联 Boyne，detch 近 ditch。此处也明列 inglis、scotcher grey 等兵种声影。不同战事在句中错杂，不把它校成一份准确战役名册。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-arminus",
+      "lemma": "Assaye, assaye! Touchole Fitz Tuomush. Dirty MacDyke. And Hairy O'Hurry. All of them arminus-varminus.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Assaye、arminus-varminus 容许战役与人名读法。阿尔米尼乌斯／瓦鲁斯的联系暂作候选，未核本题专门研究；不把三个兵童逐一固定为历史人物。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-jinniesbook",
+      "lemma": "jinnies with their legahorns feinting to read in their handmade's book of stralegy",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "handmade's book 可叠听 handmaid，stralegy 可联 strategy；少女装作读书而另行谋划。legahorns 又近 Leghorn。人物是否等同伊茜分身仍属解释，不作事实登记。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-thinredlines",
+      "lemma": "hastings dispatch... thin red lines cross the shortfront of me Belchum",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "hastings、thin red lines、shortfront 把军报、战线与衣服前襟相叠。与特定战役、部队及布吕歇尔的逐项对应尚待补证，正文不靠这些指认才能成立。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-publishdamned",
+      "lemma": "Salamangra! Ayi, ayi, ayi! Cherry jinnies. Figtreeyou! Damn fairy ann, Voutre. Willingdone. That was the first joke of Willingdone",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Damn fairy ann, Voutre 可联法语粗话与英语骂语。原交稿引“Publish and be damned”及威尔逊回忆录，本轮未核其与此句的证据链，故撤去直接引语和确定归属。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-canonfutter",
+      "lemma": "Canon Futter with the popynose after his hundred days' indulgence",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Canon Futter 可叠听 cannon fodder（炮灰），canon 又可指教士；popynose、hundred days' indulgence 让军旅与教会用语交错。中文宜留下炮与教士两层。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-almeidagad",
+      "lemma": "Almeidagad! Arthiz too loose! Brum! Brum! Cumbrum! Underwetter! Goat: strip Finnlambs!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Almeidagad、Arthiz too loose、Cumbrum、Goat strip Finnlambs 可供战役名、惊呼与外语声串对读。具体词源、将领名言与历史口号未核，先保拟音，不把整串硬译成一段史实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-mrdooley",
+      "lemma": "lipsyg dooley krieging the funk from the hinnessy... hinndoo Shimar Shin",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "lipsyg、dooley、hinnessy、Shimar Shin、seeboy 让战事、人名与异语声串交织。杜利／亨尼西人物组与 sepoy 的读法可作候选，尚不据此固定全部角色。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    },
+    {
+      "id": "i1-copenhagenended",
+      "lemma": "How Copenhagen ended. This way the museyroom. Mind your boots goan out.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Copenhagen ended 与前文变形马名及结尾出馆指令相接。Mind your boots goan out 回应入馆时 Mind your hats goan in；这一首尾照应可直接从本段核到，不必补马匹葬礼史。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page8",
+        "fw-page9",
+        "fw-page10"
+      ]
+    }
+  ],
+  "fw-i1-010-25": [
+    {
+      "id": "i1-jigalanthern",
+      "lemma": "lamp of Jig-a-Lanthern... month and one windies... nummered quaintlymine",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "month 与 one windies 可使人想到一月及窗数；quaintlymine 的具体数字读法未定。原文并没有直接写“三十一扇窗”或“门牌二十九”，中文不宜把猜数写死。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-piltdowns",
+      "lemma": "wagrant wind's awalt'zaround the piltdowns... blasted knollyrock",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "piltdowns 同时容纳地名 Piltdown 与低丘 downs 的声形。这里先保地景与史前联想；具体伪造案、发现年份及 Joyce 何时得知，未在本轮查证。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-gnarlybird",
+      "lemma": "gnarlybird ygathering, a runalittle, doalittle... pelfalittle",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "鸟与拾荒者的动作相互映照，runalittle 至 pelfalittle 连续反复。中文逐项保节奏。原交稿把它定为十二动作、十二陪审员，本轮未据原词数量与研究证实该对应。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-lumproar",
+      "lemma": "Under his seven wrothschields lies one, Lumproar. His glav toside him. Skud ontorsed.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "wrothschields 可联 red shields／Rothschild，Lumproar、glav、Skud ontorsed 也容许人名、剑盾与身体读法。家徽数量、人物身份和多语词源尚待核，不作确定历史说明。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-pigeonspair",
+      "lemma": "Our pigeons pair are flewn for northcliffs... three of crows... kraaking of de baccle",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "鸽子北飞、乌鸦南去构成方向对照。罗斯柴尔德传信致富故事若用于解释，须另核传说性质与本句联系；不能用故事本身替人物指认作证。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-peacefugle",
+      "lemma": "she comes, a peacefugle, a parody's bird, a peri potmother, a pringlpik in the ilandiskippy",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "peacefugle、parody's bird、peri、ilandiskippy 把和平、鸟鸣与仙灵声影缀在一起。可将拾荒鸟与母性角色并读；不把所有名词都还原成单一人物。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-huemeramybows",
+      "lemma": "flick flask fleckflinging its pixylighting pacts' huemeramybows... pussypussy plunderpussy",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "huemeramybows 可联 hue、rainbow；pacts 又引出盟约之义。光、色与拾荒动作同在一句。与《创世记》彩虹之约的联系保留为项目读法，非已核作者自释。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-nabsackgoods",
+      "lemma": "all spoiled goods go into her nabsack: curtrages... clavicures and scampulars... bloodstaned breeks",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "nabsack 可叠听 knapsack 与 nab（攫取）。袋中清单混合衣物、器物和声形变体；不把每个陌生词都当成已辨认的战后实物，正文保留零碎杂物堆积之感。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-cearc",
+      "lemma": "the fairest sin the sunsaw (that's cearc!). With Kiss. Kiss Criss. Cross Criss. Kiss Cross. Undo lives 'end. Slain.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "cearc 的爱尔兰语母鸡读法可作为线索，须补可靠词典。吻、十字和死亡用语在局部互相回响；不据这一处便断言每项都直接对应犹大之吻或具体受难仪式。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-kettleoffruit",
+      "lemma": "steal our historic presents from the past postpropheticals... lordyheirs and ladymaidesses of a pretty nice kettle of fruit",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "kettle of fruit 将惯用搭配 kettle of fish 改成水果，又与禁令、遗产及继承相连。可联禁果与原罪，但中文须保留债务、遗产的字面线索。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-midstofdebt",
+      "lemma": "She is livving in our midst of debt and laffing through all plores for us... with a naperon for her mask and her sabboes kickin arias",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "in our midst of debt 把死亡祷文的声影转为负债；不是可直接标作《圣经》原句的引文。livving、plores 等可与生活、河流、哭笑并读，确切多语词源另查。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-cellforcitters",
+      "lemma": "Gricks may rise and Troysirs fall (there being two sights for ever a picture)... world's a cell for citters to cit in",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "cell for citters to cit in 反复 c、t 音，让囚室与坐者互相缠绕。希腊／特洛伊声影和双重图像可并读；撤去本轮未核的麦克卢汉引用断言。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-piffthebusiness",
+      "lemma": "do all a turfwoman can to piff the business on. Paff. To puff the blaziness on. Poffpoff.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "piff、paff、poff 连成吹火般声响，与泥炭妇和营生相接。是否直接改写名为 Push the Business On 的歌舞，本轮未查歌词，不写成已确认曲源。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    },
+    {
+      "id": "i1-humptyshell",
+      "lemma": "Humpty shell fall frumpty times... iggs for the brekkers come to mourn-him, sunny side up with care",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "shellfall、breakfast 与 eggs 使跌碎的蛋和早餐相接，可联 Humpty Dumpty。seventy 与特定圣经惩罚数字的对应尚欠证，不拿猜测数字解释为唯一典故。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page10",
+        "fw-page11",
+        "fw-page12"
+      ]
+    }
+  ],
+  "fw-i1-012-18": [
+    {
+      "id": "i1-twomounds",
+      "lemma": "two mounds... himples... Wharton's Folly... Nicholas Proud",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "mounds、himples、heegills、collines 让丘陵、身体与人群叠合。两座冢、Wharton's Folly 和 Nicholas Proud 的具体地理、身份与告示尚待核，暂不列未证地名对应。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-fivehills",
+      "lemma": "Corkhill... Arbourhill... Summerhill... Miseryhill... Constitutionhill",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文逐列 Corkhill、Arbourhill、Summerhill、Miseryhill、Constitutionhill，并给各群体不同声形。可读作城市复调；“五大名山”不是本轮核得的地理分类。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-threevikings",
+      "lemma": "Olaf's on the rise and Ivor's on the lift and Sitric's place's between them",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Olaf、Ivor、Sitric 是本句实际出现的名字，rise、lift、between them 带升降与位置关系。具体统治者、年代与“三位奠基者”之说未核，不把不同世代合为同一集团。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-macroborg",
+      "lemma": "macroborg of Holdhard to the microbirg of Pied de Poudre",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "macroborg／microbirg 把大小、城堡、山体与躯体位置对置；Pied de Poudre 又可联尘足。具体法庭沿革与地图端点未核，中文先留宏观／微观转换。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-echoland",
+      "lemma": "So This Is Dyoublong? Hush! Caution! Echoland!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Dyoublong 可叠听 Dublin 与 do you belong；Echoland 则把地点写成回声之地。这里据词形提出声学读法，不把它宣布为全书唯一空间理论。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-innkempt",
+      "lemma": "outwashed engravure... blotchwall of his innkempt house... Ptollmens of the Incabus",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "innkempt 可联 inn／unkempt；gravemure、Ptollmens、Incabus 容许墓墙、古物与梦魇的复合读法。壁画究竟描绘哪场会面、哪座王朝，本轮未核图像，不作定论。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-listeners",
+      "lemma": "Miry Mitchel, is listening... Fiery Farrelly... old butte new",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Miry Mitchel、Fiery Farrelly 与听、琴、杂音同现。候选历史人物和偷听者身份尚未核，不直接等同John Mitchel或特定酒客。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-dbln",
+      "lemma": "Dbln. W. K. O. O. Hear? By the mausolime wall. Fimfim fimfim. With a grand funferall. Fumfum fumfum",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Dbln. W. K. O. O. 像删去元音的地名与广播呼号，接着反复 Fimfim／Fumfum。可以保留广播与巨人儿歌的声响，不假称查到对应电台台号。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-optophone",
+      "lemma": "'Tis optophone which ontophanes. List! Wheatstone's magic lyer",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "optophone、ontophanes、Wheatstone's magic lyer 让视觉、声音、显现与琴／谎言交织。仪器技术史、发明年份和具体装置须另核，本轮只采用原词可见的声形关系。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-ollaves",
+      "lemma": "tuggling foriver... lichening for allof... pretumbling forover... harpsdischord shall be theirs for ollaves",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "ollaves 可联爱尔兰学者称谓，也可与 all of、always 并听。可靠词典、复数形式与本句适用义尚待补证；不直接据它宣称某两位国王仍在争斗。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-mammonlujius",
+      "lemma": "Mammon Lujius in his grand old historiorum, wrote near Boriorum, bluest book in baile's annals",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Mammon Lujius、herodotary、historiorum 把财神、史家与编年声影并置。与《四大师史》及具体编者的关系仍需原文或具名研究，暂不写成Joyce对某部国史的评价。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-fourthings",
+      "lemma": "Four things... bulbenboss... shoe on a puir old wobban... auburn mayde... penn no weightier nor a polepost",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "Unum、Duum、Triom、Quodlibus 构成四项；括号又列 Adar、Nizam、Tamuz、Marchessvan、Succoth。月份、四省与人物配属尚未逐项核实；尤其不把 Nizam 静默改成 Nisan。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    },
+    {
+      "id": "i1-bokedeeds",
+      "lemma": "innocens with anaclete play popeye antipop, the leaves of the living in the boke of the deeds, annals of themselves timing the cycles of events grand and national, bring fassilwise to pass how",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "innocens／anaclete 可供教皇名读法；boke of the deeds 与 living 又让生者、功业和亡灵书互相照应。具体历史年份与作者使用路径未核，先保双关候选。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page12",
+        "fw-page13"
+      ]
+    }
+  ],
+  "fw-i1-013-33": [
+    {
+      "id": "i1-whale1132",
+      "lemma": "1132 A.D. Men like to ants or emmets wondern upon a groot hwide Whallfisk... Blubby wares upat Ublanium",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "段内明列1132与566，后者恰为前者一半；鲸、商品与战争反复变形。原交稿所称1331年鲸鱼救荒、32郡与落体常数，未核对应史料和研究，暂撤定论。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page13",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-crone566",
+      "lemma": "566 A.D. On Baalfire's night... a crone that hadde a wickered Kish... Blurry works at Hurdlesford",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "老妪背筐、窥看、鞋履与汗水可从原句核到。sothisfeige 可供 Sothis 与 satisfy 的并读；确切词源、仪式和人物身份尚待考，不把候选神话写进动作事实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page13",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-silent566",
+      "lemma": "(Silent.) 566 A.D. At this time it fell out that a brazenlockt damsel grieved (sobralasolas!)... Bloody wars in Ballyaughacleeaghbally",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "(Silent.) 打断编年条目；sobralasolas 可联歌名 Sobre las olas，Puppette 与 Puropeus Pious 容许玩偶、教皇与怪物的读法。是否直接借歌、角色对应何人，仍未核。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page13",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-twins1132",
+      "lemma": "1132 A.D. Two sons at an hour were born until a goodman and his hag... Caddy and Primas... Blotty words for Dublin",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Primas 操练人群，Caddy 去酒馆写闹剧，行动对照清楚。可联双子、权力与写作；原文未明说出生先后，也不能据此直接宣告阿里斯托芬曲源或全书救赎主旨。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page13",
+        "fw-page14"
+      ]
+    }
+  ],
+  "fw-i1-014-16": [
+    {
+      "id": "i1-ginnandgo",
+      "lemma": "ginnandgo gap between antediluvious and annadominant the copyist must have fled with his scroll",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "ginnandgo gap 可联 Ginnungagap；antediluvious／annadominant 把洪水前后与纪年变体并置。手卷失落有多种猜因，中文不能把其中一路补成已发生的史实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-billyflood",
+      "lemma": "billy flood rose or an elk charged him or the sultrup worldwright... Dannamen gallous banged pan the bliddy duran",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原句接连提出水患、巨鹿、造物主与 Dannamen 等可能原因。其威廉王、丹努神族及门字词源读法尚未核，不把猜因清单改写成四场确实灾变。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-scribicide",
+      "lemma": "scribicide then and there is led off under old's code with some fine covered by six marks or ninepins in metalmen",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "scribicide、old's code、six marks、metalmen 使杀人、书写、法条与货币交叠。本轮未核布雷洪法具体条文、价额或铜人航标，撤去确定法制史说明。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14"
+      ]
+    },
+    {
+      "id": "i1-gynecure",
+      "lemma": "gynecure was let on to the scuffold for taking that same fine sum covertly by meddlement with the drawers of his neighbour's safe",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "gynecure 可联 sinecure 与妇科语素；drawers 同时可指抽屉与内裤，scuffold 近 scaffold。古今惩罚失衡与窥私语义可并读，不必先固定全书罪案。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14"
+      ]
+    }
+  ],
+  "fw-i1-014-28": [
+    {
+      "id": "i1-fourmastersnames",
+      "lemma": "farfatch'd and peragrine or dingnant or clere lift we our ears, eyes of the darkness, from the tome of Liber Lividus",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "farfatch'd、peragrine、dingnant、clere 可供《四大师史》姓名嵌词读法。须补具名研究逐项比对，本轮不把四个对应均判为已核。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-fredeland",
+      "lemma": "paisibly eirenical... fredeland's plain! Lean neath stone pine the pastor lies with his crook; young pricket by pricket's sister... herb trinity shams lowliness",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "此段从阴暗书页转向暮色原野、牧人、鹿与草木，形成田园反差。与维吉尔具体篇章、双子身份和人物性史的联系未核，先留作画面读法。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-hebearhairyman",
+      "lemma": "Since the bouts of Hebear and Hairyman the cornflowers have been staying at Ballymun, the duskrose has choosed out Goatstown's hedges... Knockmaroon",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Hebear／Hairyman 可联兄弟始祖名；Ballymun、Goatstown、Rush、Knockmaroon 则在正文明确出现。植物与地名搭配可核，族谱和每处政治隐义另查。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-perihelygangs",
+      "lemma": "chiliad of perihelygangs, the Formoreans have brittled the tooath of the Danes and the Oxman has been pestered by the Firebugs... Killallwho",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "chiliad、perihelygangs 使千年与公转声影并置；Formoreans、Oxman、Firebugs 可作神话族群读法。Killallwho 保留杀戮与声音，不限定为滑铁卢前夕。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page14",
+        "fw-page15"
+      ]
+    }
+  ],
+  "fw-i1-015-12": [
+    {
+      "id": "i1-babbelers",
+      "lemma": "babbelers with their thangas vain... confusium hold them... houhnhymn songtoms... comely norgels... pollyfool fiansees",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "babbelers、confusium、houhnhymn 让巴别、孔夫子或慧骃等声影相遇。后两项须逐项补出处；不把所有近音都列为同等确定的借用。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-elsekiss",
+      "lemma": "blond has sought of the brune: Elsekiss thou may, mean Kerry piggy?... Who ails tongue coddeau, aspace of dumbillsilly?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "两段问答带求爱与索礼语气，可供丹麦语／法语近音读法。本轮未核旧注列出的整句原语，撤去“源自某句”的强断言；正文只保对话动作与未定人称。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-cullme",
+      "lemma": "bold floras of the field to their shyfaun lovers say only: Cull me ere I wilt to thee!: and, but a little later: Pluck me whilst I blush!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "cull me／clip me、wilt／blush 把采花、凋萎、脸红与求爱并置，可联及时行乐传统。未核具体诗篇，不标成某首诗的直接引文。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15"
+      ]
+    },
+    {
+      "id": "i1-fleapow",
+      "lemma": "Lave a whale a while in a whillbarrow... Tim Timmycan timped hir, tampting Tam. Fleppety! Flippety! Fleapow! Hop!",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "推车、鲸与末尾连续拟声由大物转到跳动的小动作。Fleapow 可联 flea powder；歌谣名称、人物身份及镜头跃迁理论仍是候选，不充当事实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15"
+      ]
+    }
+  ],
+  "fw-i1-015-29": [
+    {
+      "id": "i1-carlkopje",
+      "lemma": "In the name of Anem this carl on the kopje in pelted thongs a parth a lone who the joebiggar be he?... Comestipple Sacksoun",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "carl、kopje、a parth a lone、joebiggar、Comestipple Sacksoun 形成粗汉、独处与姓名声影。帕索隆、老乔及巡警身份须分别核证，不合并成已定人物传。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15",
+        "fw-page16"
+      ]
+    },
+    {
+      "id": "i1-brainpan",
+      "lemma": "Forshapen his pigmaid hoagshead... slaking nuncheon out of some thing's brainpan. Me seemeth a dragon man... indaddy",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "原文 brain pan、nuncheon、dragon man、michindaddy 把头颅、食器、午食与祖先声影并置。中文保怪诞形体；michindaddy 不截成 indaddy 再据截词造词源。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15",
+        "fw-page16"
+      ]
+    },
+    {
+      "id": "i1-monthscalendar",
+      "lemma": "be it junipery or febrewery, marracks or alebrill or the ramping riots of pouriose and froriose",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "junipery、febrewery、marracks、alebrill 可听出月份、杜松、酒坊、军营与麦酒。pouriose／froriose 可联共和历月名；确切语源仍须查词典，不据近音补历史。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15",
+        "fw-page16"
+      ]
+    },
+    {
+      "id": "i1-multilingualjute",
+      "lemma": "kraals of slitsucked marrogbones... You tollerday donsk?... You tolkatiff scowegian?... 'Tis a Jute. Let us swop hats and excheck a few strong verbs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "盘问由 Dansk、scowegian、anglease、saxo 推进，回答依次 N、Nn、Nnn、Nnnn。词形与否定长度可直接核到；中文保连续试探，不把每项都恢复成已核标准外语。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page15",
+        "fw-page16"
+      ]
+    }
+  ],
+  "fw-i1-016-10": [
+    {
+      "id": "i1-muttjuteintro",
+      "lemma": "Yutah!... Mukk's pleasurad. Are you jeff?... jeffmute?... Only an utterer... stun a stummer",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Mutt／Jute 与 Jeff、mute、deaf、utterer 等声影构成沟通笑料，可联漫画 Mutt and Jeff。stun／stummer 也让石化与口吃相遇；不是确定人物国籍的证据。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page16",
+        "fw-page17"
+      ]
+    },
+    {
+      "id": "i1-dungtarf",
+      "lemma": "The Inns of Dungtarf where Used awe to be he... Hasatency? Urp, Boohooru! Booru Usurp!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Dungtarf 可联 Clontarf，Hasatency 可联帕奈尔案误拼故事。战役及伪信史实须另核原件与具名研究；此处先保战争、篡位、追忆与犹疑的局部语义。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page16",
+        "fw-page17"
+      ]
+    },
+    {
+      "id": "i1-silkyshag",
+      "lemma": "Cedric Silkyshag! Cead mealy faulty rices for one dabblin bar. Old grilsy grout! He was poached on in that eggtentical spot",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Cedric Silkyshag 可联丝须王；Cead mealy faulty rices 可供爱尔兰欢迎语读法。原交稿把不同王者与遇刺故事合叙，本轮撤去确定身份，保声音线索待考。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page16",
+        "fw-page17"
+      ]
+    },
+    {
+      "id": "i1-wholeborrow",
+      "lemma": "Taciturn pretells... dumptied the wholeborrow of rubbages on to soil here... puddinstone... Brian d' of Linn... Boildoyle and rawhoney",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "wholeborrow／rubbages 把手推车与废料叠合，puddinstone 又落到地质物。Boildoyle／rawhoney 容许地名与滚油生蜜双读；Gut aftermeal／See you doomed 把告别说成恶咒。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page16",
+        "fw-page17"
+      ]
+    },
+    {
+      "id": "i1-plaineelters",
+      "lemma": "Walk a dun blink roundward this albutisle and you skull see how ye plaine of my Elters... Mearmerge two races, swete and brack... isges to isges, erde from erde",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "albutisle 可听成 all-but-isle；swete／brack、surgence／ebb 让淡咸两水与人群聚散并读。灰归灰、土归土构成悼亡节拍，不把全部地名和族群配属当作已证。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page17",
+        "fw-page18"
+      ]
+    },
+    {
+      "id": "i1-stumseemetery",
+      "lemma": "Fiatfuit! Hereinunder lyethey. Llarge by the smal... sound seemetery which iz leebez luv",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "见证原词为 sound seemetery，非旧稿 stumseemetery。它让声音与墓园并置；巨大旅馆、小屋、earwig 与相等／不等同场。与瓦格纳具体乐段关系另查。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page17",
+        "fw-page18"
+      ]
+    },
+    {
+      "id": "i1-meldundleize",
+      "lemma": "'Zmorde!... Meldundleize! By the fearse wave behoughted. Despond's sung. And thanacestross mound have swollup them all. This ourth of years is not save brickdust and being humus the same roturns",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "Meldundleize 可近听 Mild und leise，Despond's sung 又有绝望、泥淖与歌声。瓦格纳曲源仍须核曲文；本轮不把它写成已经查过的整段引用。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page17",
+        "fw-page18"
+      ]
+    },
+    {
+      "id": "i1-vicekingsgraab",
+      "lemma": "He who runes may rede it on all fours. O'c'stle, n'wc'stle, trublin, crumbling!... viceking's graab... Ore you astoneaged, jute you? / Oye am thonthorstrok, thing mud",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "viceking's graab 叠听副王、维京王与墓穴；astoneaged、thonthorstrok、thing mud 让惊骇、石器、雷击与泥土相接。末句是否指人物真的碎裂，原文未明说。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page17",
+        "fw-page18"
+      ]
+    }
+  ],
+  "fw-i1-018-17": [
+    {
+      "id": "i1-claybook",
+      "lemma": "(Stoop) if you are abcedminded, to this claybook, what curios of signs (please stoop), in this allaphbed! Can you rede... its world? It is the same told of all. Many. Miscegenations on miscegenations. Tieckle. They lived und laughed ant loved end left. Forsin. Thy thingdome is given to the Meades and Porsons",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "abcedminded 让字母表与 absentminded 相叠，claybook 把泥土写成书。Many、Tieckle、Forsin、Meades and Porsons 可联《但以理书》墙上文字，具体引文与译名仍须逐词核对。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page18",
+        "fw-page19"
+      ]
+    },
+    {
+      "id": "i1-twelvenidanas",
+      "lemma": "In the ignorance that implies impression that knits knowledge that finds the nameform that whets the wits that convey contacts that sweeten sensation that drives desire that adheres to attachment that dogs death that bitches birth that entails the ensuance of existentiality",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "ignorance 至 existentiality 的长链可联佛教缘起，但原文先写 death 再写 birth，末尾才到 existentiality；不宜称“精确照排十二支”。译文按眼前次序走，不借教理校顺原文。脐与 Ramasbatham 的神话指认另查。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page18",
+        "fw-page19"
+      ]
+    },
+    {
+      "id": "i1-boustrophedon",
+      "lemma": "A hatch, a celt, an earshare the pourquose of which was to cassay the earthcrust at all of hours, furrowards, bagawards, like yoxen at the turnpaht... Futhorc",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "furrowards／bagawards 与 yoxen at the turnpaht 让耕牛往返和书写方向相叠；Futhorc 又指向卢恩字母。牛耕式书写可作对照，不能据相似便证明Joyce据某一刊本改写。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page18",
+        "fw-page19"
+      ]
+    },
+    {
+      "id": "i1-middenhebrewsnakes",
+      "lemma": "A middenhide hoard of objects! Olives, beets, kimmells, dollies... Sss! See the snake wurrums everyside! Our durlbin is sworming in sneaks... Paddy Wippingham and the his garbagecans cotched the creeps",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "middenhide 中物名可与古字母名并听，蛇、禁果与 Paddy Wippingham 又可联驱蛇故事。字母逐项对应、丹麦语词源和圣帕特里克身份尚待证，不把近音清单写成考古事实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page18",
+        "fw-page19"
+      ]
+    }
+  ],
+  "fw-i1-019-20": [
+    {
+      "id": "i1-damadaminfinities",
+      "lemma": "Axe on thwacks on thracks, axenwise... liberorumqueue to con an we can till allhorrors eve... every tim, nick and larry of us, sons of the sod... dugters of Nan! Accusative ahnsire! Damadam to infinities!",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "斧劈、队列、后代与 liberorumqueue 把家谱写成延伸长队。Tim／Nick／Larry、Sue／Siss／Sally 在句内形成两组三名；不把它们直接宣称为HCE固定的三子三女。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page19",
+        "fw-page20",
+        "fw-page21"
+      ]
+    },
+    {
+      "id": "i1-gutenmorgpress",
+      "lemma": "mightmountain Penn still groaned for the micies to let flee... Gutenmorg with his cromagnom charter, tintingfast and great primer must once for omniboss step rubrickredd out of the wordpress",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gutenmorg、Cromagnom、charters、primer、rubrickredd、wordpress 让印刷、史前、字级与红字交叠。山与鼠可联古典讽刺格言，具体引文位置未核；中文保纸、字、印机的转换。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page19",
+        "fw-page20",
+        "fw-page21"
+      ]
+    },
+    {
+      "id": "i1-doublendsjined",
+      "lemma": "every word will be bound over to carry three score and ten toptypsical readings throughout the book of Doublends Jined (may his forehead be darkened with mud who would sunder!) till Daleth, mahomahouma, who oped it closeth thereof the. Dor",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Doublends Jined 可叠听 Dublin 与两端相接；three score and ten 明说七十，Daleth／Dor 容许字母与门的读法。托拉七十面传统与本句借用路径未核，不据数字独断典故。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page19",
+        "fw-page20",
+        "fw-page21"
+      ]
+    },
+    {
+      "id": "i1-surewashersnky",
+      "lemma": "Maye faye, she's la gaye this snaky woman!... Hohore! So it's sure it was her not we! But lay it easy, gentle mien, we are in rearing of a norewhig... Hark, the corne entreats! And the larpnotes prittle",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文直说 sure it was her not we，推诿动作清楚。snky、norewhig、corne、larpnotes 让蛇、虫与乐声并现；人物身份及乐器对应仍属试读，不能把女方一概定为蛇蝎。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page19",
+        "fw-page20",
+        "fw-page21"
+      ]
+    }
+  ],
+  "fw-i1-021-05": [
+    {
+      "id": "i1-prankqueanintro",
+      "lemma": "It was of a night, late, lang time agone, in an auldstane eld, when Adam was delvin and his madameen spinning watersilts... Jarl van Hoother... prankquean",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "Jarl van Hoother 与 prankquean 的三次叫门、掳子和交换可直接从故事核到。格蕾丝·奥马利／霍斯城堡传说可供对读；未核历史原件，不能把传奇写成1576年史实或伪署Sidney回忆录。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page21",
+        "fw-page22"
+      ]
+    },
+    {
+      "id": "i1-porterpease",
+      "lemma": "Mark the Wans, why do I am alook alike a poss of porterpease? And that was how the skirtmisshes began. But the dour handworded her grace in dootch nossow: Shut!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "porterpease 让 porter、peas、please 与 peace 并听。女王问句既像索饮，也像荒诞谜语；skirtmisshes 叠听 skirt／skirmishes。中文留黑啤、豌豆与裙角交锋，不删成一句标准点酒话。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page21",
+        "fw-page22"
+      ]
+    },
+    {
+      "id": "i1-kidsnappedwesterness",
+      "lemma": "her grace o'malice kidsnapped up the jiminy Tristopher and into the shandy westerness she rain, rain, rain. And Jarl van Hoother warlessed after her with soft dovesgall: Stop deef stop come back to my earin stop",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "kidsnapped 同时带 kid 与 kidnap；raining／raying 反复把远行写成雨势。无线电 STOP 与聋／耳的词形互相照应；不把 westerness 唯一定位到某处历史领地。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page21",
+        "fw-page22"
+      ]
+    },
+    {
+      "id": "i1-swapconversion",
+      "lemma": "she convorted him to the onesure allgood and he became a luderman... set down a jiminy and took up a jiminy... she provorted him to the onecertain allsecure and he became a tristian",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "两次掳子、归还与性情转化形成结构反复；luderman／tristian 可联路德宗、欢愉、基督徒或悲愁。具体宗派史与“维柯定律”未核，不把互相竞争的声影说成同一套定论。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page21",
+        "fw-page22"
+      ]
+    },
+    {
+      "id": "i1-porterpeasethird",
+      "lemma": "Mark the Tris, why do I am alook alike three poss of porter pease? But that was how the skirtmishes endupped",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "第三次问句从 two 变成 three，picked a blank 又与前两次折花相对。空白、三数与叫门反复可从文本核到；“集齐三位一体”只是候选解释。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page22",
+        "fw-page23"
+      ]
+    },
+    {
+      "id": "i1-rainbowboanerges",
+      "lemma": "Jarl von Hoother Boanerges himself, the old terror of the dames, came hip hop handihap... like a rudd yellan gruebleen orangeman in his violet indigonation",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "rudd、yellan、gruebleen、orangeman、violet、indigonation 把颜色嵌入盛怒描写；Boanerges 可联雷霆之子。彩虹与盟约可对读，不据颜色存在独证某项神学意图。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page22",
+        "fw-page23"
+      ]
+    },
+    {
+      "id": "i1-thunderwordthree",
+      "lemma": "And the duppy shot the shutter clup (Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun!)",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "此处长雷鸣词紧接关门动作，中文保留长串拟音。旧注所列各国语源须逐项核词典、拼法与稿层，本轮不沿用整串确定词源表。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page22",
+        "fw-page23"
+      ]
+    },
+    {
+      "id": "i1-howthpeacetreaty",
+      "lemma": "first peace of illiterative porthery in all the flamend floody flatuous world... How kirssy the tiler made a sweet unclose to the Narwhealian captol... Thus the hearsomeness of the burger felicitates the whole of the polis",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "结尾将打斗转为饮宴，dummy、twins、van Hoother 分得位置；porter／poetry／peace、burger／polis 容许政治与诗酒并读。与亚里士多德具体篇章的路径未核，不写成确定引据。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page22",
+        "fw-page23"
+      ]
+    }
+  ],
+  "fw-i1-023-16": [
+    {
+      "id": "i1-foenixculprit",
+      "lemma": "O foenix culprit! Ex nickylow malo comes mickelmassed bonum. Hill, rill, ones in company, billeted, less be proud of",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "foenix culprit 可并听 phoenix／felix culpa，malo／bonum 又把恶与善对置。可联福之罪传统、地名与火鸟重生；这是局部读法，不直接宣布全书唯一神学基调。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page23",
+        "fw-page24"
+      ]
+    },
+    {
+      "id": "i1-noanswagiants",
+      "lemma": "Quarry silex, Homfrie Noanswa! Undy gentian festyknees, Livia Noanswa? Wolkencap is on him, frowned; audiurient, he would evesdrip... With lipth she lithpeth to him",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Quarry silex、Homfrie Noanswa 与 Livia Noanswa 让石、沉默和河流相对。云帽、声浪与山谷延续身体地景；不是逐项确证的地理实体表。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page23",
+        "fw-page24"
+      ]
+    },
+    {
+      "id": "i1-novonilbudbread",
+      "lemma": "the louthly one whose loab we are devorers of... the lipalip one whose libe we drink at... our breed and washer givers, there would not be a holey spier on the town... nor an eye to play cash cash in Novo Nilbud by swamplight",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "loab／libe 可联面包、生命与利维河；breed and washer givers 又将血缘和洗涤并置。Nilbud 近倒读 Dublin 的声形，字符并非严格逐字逆序，故撤去精确倒拼断言。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page23",
+        "fw-page24"
+      ]
+    },
+    {
+      "id": "i1-usgueadbaugham",
+      "lemma": "Have you whines for my wedding, did you bring bride and bedding, will you whoop for my deading is a? Wake? Usqueadbaugham!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "婚礼、死亡与 Wake 连问，使唤醒和守灵同声。Usqueadbaugham 可联威士忌的爱尔兰语名与饮酒声；确切词形须查词典，正文不把多义压成单一路径。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page23",
+        "fw-page24"
+      ]
+    }
+  ],
+  "fw-i1-024-15": [
+    {
+      "id": "i1-anammuckandhoul",
+      "lemma": "Anam muck an dhoul! Did ye drink me doornail? Now be aisy, good Mr Finnimore, sir. And take your laysure like a god on pension and don't be walking abroad",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Anam muck an dhoul 与喝酒、死如门钉相接，可联民谣死者惊起。中文保突发喊声及劝卧语气；旧注列出的完整盖尔语句未核，不当作标准原语引文。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page24",
+        "fw-page25"
+      ]
+    },
+    {
+      "id": "i1-healiopolisvarmints",
+      "lemma": "Sure you'd only lose yourself in Healiopolis now the way your roads in Kapelavaster are that winding... You're better off, sir, where you are, primesigned in the full of your dress, bloodeagle waistcoat and all",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Healiopolis、Chapelizod、bloodeagle 等声形混合城市、道路与身躯。Healy／Heliopolis、血鹰仪式均只作候选；正文可译城名与带血鹰纹样，不补完整迷宫或祭礼史。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page24",
+        "fw-page25"
+      ]
+    },
+    {
+      "id": "i1-pyrecompanionheroes",
+      "lemma": "in the land of souls with Homin and Broin Baroke and pole ole Lonan and Nobucketnozzler and the Guinnghis Khan",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "land of souls 前后串起变形姓名。Homin、Broin Baroke、Lonan、Nobucketnozzler、Guinnghis Khan 可供名录对读；每项身份和跨文明英灵殿之说仍须独立证据。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page24",
+        "fw-page25"
+      ]
+    },
+    {
+      "id": "i1-millioncandletuskar",
+      "lemma": "He's duddandgunne now and we're apter finding the sores of his sedeq but peace to his great limbs, the buddhoch, with the last league long rest of him, while the millioncandled eye of Tuskar sweeps the Moylean Main!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Tuskar、millioncandled eye、Moylean Main 把灯光、海域与巨人身躯叠合。百万烛光是原文意象，不能直接当已核灯塔技术规格，亦不据此画严格海疆图。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page24",
+        "fw-page25"
+      ]
+    },
+    {
+      "id": "i1-totumcalmumegypt",
+      "lemma": "The headboddylwatcher of the chempel of Isid, Totumcalmum, saith: I know thee, metherjar, I know thee, salvation boat. For we have performed upon thee... all the things which the company of the precentors... ordered concerning thee in the matter of the work of thy tombing",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "Totumcalmum、headboddylwatcher、Isis、I know thee 让宁静、守尸与埃及仪式相接。图坦卡蒙及《亡灵书》具体咒章未核，撤去“原文著名密咒”之说。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page25",
+        "fw-page26",
+        "fw-page27"
+      ]
+    },
+    {
+      "id": "i1-dublinbrands",
+      "lemma": "Everything's going on the same... Jacob's lettercrackers and Dr Tipple's Vi-Cocoa and the Eswuards' desippated soup beside Mother Sea-gull's syrup. Meat took a drop... Coal's short but we've plenty of bog in the yard",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Jacob、Vi-Cocoa、Edwards、Seagull 等形似商标，食品、煤与泥炭并列，表现市面照常。商号拼法与药品历史未逐项核证，中文不把每个变词都校成真实商品标准名。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page25",
+        "fw-page26",
+        "fw-page27"
+      ]
+    },
+    {
+      "id": "i1-kevinandjerry",
+      "lemma": "Kevin's just a doat with his cherub cheek, chalking oghres on walls... the devil does be in that knirps of a Jerry sometimes, the tarandtan plaidboy, making encostive inkum out of the last of his lavings and writing a blue streak over his bourseday shirt",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Kevin 的乖顺、Jerry 的涂污和墨水在叙事中相对。可联后文兄弟原型，但本句不足以证明二人各处始终等同Shaun／Shem，也不把污墨全当作者生平事实。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page25",
+        "fw-page26",
+        "fw-page27"
+      ]
+    },
+    {
+      "id": "i1-essieshanahan",
+      "lemma": "Essie Shanahan has let down her skirts... She's making her rep at Lanner's twicenightly. With the tabarine tamtammers of the whirligigmagees. Beats that cachucha flat",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "let down her skirts 与成年、舞台和观看相连。cachucha 处实际说 Beats that cachucha flat，不是明说她正在跳此舞；中文保胜过某舞的比较，人物身份另查。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page25",
+        "fw-page26",
+        "fw-page27"
+      ]
+    }
+  ],
+  "fw-i1-027-22": [
+    {
+      "id": "i1-corkthecure",
+      "lemma": "Aisy now, you decent man, with your knees and lie quiet and repose your honour's lordship! Hold him here, Ezekiel Irons... Dimitrius O'Flagonan, cork that cure for the Clancartys!",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "cork that cure、toddies 与浮起军舰的夸张语，把塞酒与压住躁动死者并置。人物可音译；原文没有在此明确补出教堂司事职衔或完整诈尸动作。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page27",
+        "fw-page28"
+      ]
+    },
+    {
+      "id": "i1-tailorsdaughter",
+      "lemma": "I seen your missus in the hall. Like the queenoveire... watching her sewing a dream together, the tailor's daughter, stitch to her last",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "queenoveire 可叠听 queen 与 Guinevere；the tailor's daughter、sewing a dream together 把织缝和梦相连。可联家庭与河流，不据此断定历史爱尔兰王后身份。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page27",
+        "fw-page28"
+      ]
+    },
+    {
+      "id": "i1-findrinnyfair",
+      "lemma": "As when you drove with her to Findrinny Fair. What with reins here and ribbons there all your hands were employed so she never knew was she on land or at sea or swooped through the blue like Airwinger's bride",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Findrinny Fair、Airwinger's bride 与马车、缰绳、飘带形成求爱回忆。具体地名、白银词源和是否真在空中飞行尚未核；正文保陆、海、天的不确定感。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page27",
+        "fw-page28"
+      ]
+    },
+    {
+      "id": "i1-finnnomore",
+      "lemma": "Her hair's as brown as ever it was. And wivvy and wavy. Repose you now! Finn no more!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Finn no more 与 Finnagain 构成醒目的反向呼应；wivvy／wavy 又使安娜秀发似水。此处暂且劝睡，不等于旧巨人或其声音从全书永久消失。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page27",
+        "fw-page28"
+      ]
+    }
+  ],
+  "fw-i1-028-35": [
+    {
+      "id": "i1-smollett-succession",
+      "lemma": "For, be that samesake sibsubstitute of a hooky salmon, there's already a big rody ram lad at random on the premises of his haunt of the hungred bordles... pocked wife in pickle that's a flyfire and three lice nittle clinkers",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "random、pickle、clinkers 可与斯摩莱特小说题名对读，但本轮未核具名研究与作者使用路径。sibsubstitute 暗示亲缘替代，不单凭此词断言确有一位胞弟。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page28",
+        "fw-page29"
+      ]
+    },
+    {
+      "id": "i1-shop-illicit",
+      "lemma": "Shop Illicit, flourishing like a lordmajor or a buaboabaybohm, litting flop a deadlop (aloose!) to lee but lifting a bennbranch a yardalong (Ivoeh!) the breezy side (for showm!), the height of Brewster's chimpney and as broad below as Phineas Barnum; humphing his share of the showthers is senken on him he's such a grandfallar",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Shop Illicit 可近听 Chapelizod；身躯与店铺、猴面包树、烟囱、戏班底盘并置。Brewster 与 Barnum 的具体人物、建筑史未核，先保夸张尺度与地景身体读法。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page28",
+        "fw-page29"
+      ]
+    },
+    {
+      "id": "i1-fourfootlers-zephiroth",
+      "lemma": "And aither he cursed and recursed and was everseen doing what your fourfootlers saw or he was never done seeing what you coolpigeons know... Though Eset fibble it to the zephiroth and Artsa zoom it round her heavens for ever. Creator he has created for his creatured ones a creation.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "fourfootlers、Eset、zephiroth、Artsa 允许四者、伊西斯、质点与天地声影并读。希伯来语词源和卡巴拉逐项对应尚待核，不把候选语源接成完整创世体系。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page28",
+        "fw-page29"
+      ]
+    },
+    {
+      "id": "i1-red-white-prophets",
+      "lemma": "White monothoid? Red theatrocrat? And all the pinkprophets cohalething? Very much so!",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "White monothoid、Red theatrocrat、Pink prophets 明列白红粉三色，并杂糅神学与政治词形。苏俄阵营和《传道书》读法均未定，不把一种时事映射写成唯一解释。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page28",
+        "fw-page29"
+      ]
+    },
+    {
+      "id": "i1-bey-for-dybbling-edenborough",
+      "lemma": "what sherif Toragh voucherfors and Mapqiq makes put out, that the man, Humme the Cheapner Esc... came at this timecoloured place... the twin turbane dhow, The Bey for Dybbling... wicklowpattern waxenwench... deadsea dugong updipdripping... humile, commune and ensectuous... even hamissim of himashim that he, sober serious, he is ee and no counter he who will be ultimendly respunchable for the hubbub caused in Edenborough.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Humme the Cheapner、Humile Commune Ensectuous 等可读出HCE字头；Hu wa Hu 与身分判断相接，结末将责任留给Edenborough的喧嚣。船名、殖民史和外语极数之义未核，不替它们补完整历史。",
+      "source_ids": [
+        "joyce-fp",
+        "fw-page28",
+        "fw-page29"
+      ]
+    }
   ]
 }

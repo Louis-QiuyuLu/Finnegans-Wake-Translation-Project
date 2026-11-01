@@ -1,0 +1,59 @@
+{
+  "id": "fw-i1-013-33",
+  "locator": "013.33–014.15",
+  "range": [
+    13,
+    33,
+    14,
+    15
+  ],
+  "source_id": "joyce-fp",
+  "original": "1132 a.d. Men like to ants or emmets wondern upon a groot hwide Whallfisk which lay in a Runnel. Blubby wares upat Ublanium. 566 a.d. On Baalfire's night of this year after deluge a crone that hadde a wickered Kish for to hale dead turves from the bog lookit under the blay of her Kish as she ran for to sothisfeige her cowrieosity and be me sawl but she found hersell sackvulle of swart goody quickenshoon and small illigant brogues, so rich in sweat. Blurry works at Hurdlesford. (Silent.) 566 a.d. At this time it fell out that a brazenlockt damsel grieved (sobralasolas!) because that Puppette her minion was ravisht of her by the ogre Puropeus Pious. Bloody wars in Ballyaughacleeaghbally. 1132 a.d. Two sons at an hour were born until a goodman and his hag. These sons called themselves Caddy and Primas. Primas was a santryman and drilled all decent people. Caddy went to Winehouse and wrote o peace a farce. Blotty words for Dublin.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-012-18",
+  "next": [
+    14,
+    16
+  ],
+  "next_original": "Somewhere, parently, in the ginnandgo gap between antediluvious and annadominant the copyist must have fled",
+  "questions": [
+    {
+      "lemma": "1132 A.D. Men like to ants or emmets wondern upon a groot hwide Whallfisk... Blubby wares upat Ublanium",
+      "question": "段内明列1132与566，后者恰为前者一半；鲸、商品与战争反复变形。原交稿所称1331年鲸鱼救荒、32郡与落体常数，未核对应史料和研究，暂撤定论。",
+      "impact": "i1-whale1132"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

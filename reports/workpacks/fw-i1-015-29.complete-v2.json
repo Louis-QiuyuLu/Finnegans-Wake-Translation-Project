@@ -1,0 +1,59 @@
+{
+  "id": "fw-i1-015-29",
+  "locator": "015.29–016.09",
+  "range": [
+    15,
+    29,
+    16,
+    9
+  ],
+  "source_id": "joyce-fp",
+  "original": "In the name of Anem this carl on the kopje in pelted thongs a parth a lone who the joebiggar be he? Forshapen his pigmaid hoagshead, shroonk his plodsfoot. He hath locktoes, this shortshins, and, Obeold that's pectoral, his mammamuscles most mousterious. It is slaking nuncheon out of some thing's brain pan. Me seemeth a dragon man. He is almonthst on the kiep fief by here, is Comestipple Sacksoun, be it junipery or febrewery, marracks or alebrill or the ramping riots of pouriose and froriose. What a quhare soort of a mahan. It is evident the michindaddy. Lets we overstep his fire defences and these kraals of slitsucked marrogbones. (Cave!) He can prapsposterus the pillory way to Hirculos pillar. Come on, fool porterfull, hosiered women blown monk sewer? Scuse us, chorley guy! You tollerday donsk? N. You tolkatiff scowegian? Nn. You spigotty anglease? Nnn. You phonio saxo? Nnnn. Clear all so! 'Tis a Jute. Let us swop hats and excheck a few strong verbs weak oach eather yapyazzard abast the blooty creeks.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-015-12",
+  "next": [
+    16,
+    10
+  ],
+  "next_original": "Jute.— Yutah! Mutt.— Mukk's pleasurad. Jute.— Are you jeff? Mutt.— Somehards. Jute.— But you are",
+  "questions": [
+    {
+      "lemma": "In the name of Anem this carl on the kopje in pelted thongs a parth a lone who the joebiggar be he?... Comestipple Sacksoun",
+      "question": "carl、kopje、a parth a lone、joebiggar、Comestipple Sacksoun 形成粗汉、独处与姓名声影。帕索隆、老乔及巡警身份须分别核证，不合并成已定人物传。",
+      "impact": "i1-carlkopje"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

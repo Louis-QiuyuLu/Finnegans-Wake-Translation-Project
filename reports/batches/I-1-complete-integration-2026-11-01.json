@@ -1,0 +1,630 @@
+{
+  "schema_version": 1,
+  "batch_id": "I-1-complete-integration-2026-11-01",
+  "chapter": "I.1",
+  "segment_ids": [
+    "fw-i1-008-06",
+    "fw-i1-010-25",
+    "fw-i1-012-18",
+    "fw-i1-013-33",
+    "fw-i1-014-16",
+    "fw-i1-014-28",
+    "fw-i1-015-12",
+    "fw-i1-015-29",
+    "fw-i1-016-10",
+    "fw-i1-018-17",
+    "fw-i1-019-20",
+    "fw-i1-021-05",
+    "fw-i1-023-16",
+    "fw-i1-024-15",
+    "fw-i1-027-22",
+    "fw-i1-028-35"
+  ],
+  "segments": {
+    "fw-i1-008-06": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-008-06.complete-v2.json",
+        "sha256": "c4cb993cf5aa2d28a29681caf9157ffe0ef053ba4b5ceafcbd41da6740d2f2c7"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-arminus",
+          "i1-thinredlines",
+          "i1-publishdamned",
+          "i1-almeidagad",
+          "i1-mrdooley"
+        ]
+      }
+    },
+    "fw-i1-010-25": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-010-25.complete-v2.json",
+        "sha256": "f8f0be6c5da25a690f153462d026fa2e29f3f359a20deb3339a20ced83b357bc"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-jigalanthern",
+          "i1-lumproar",
+          "i1-pigeonspair",
+          "i1-cearc",
+          "i1-piffthebusiness"
+        ]
+      }
+    },
+    "fw-i1-012-18": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-012-18.complete-v2.json",
+        "sha256": "c571fd0d92cb879b97cac50ef3124049a3d0bdea16fc305e3cebabdda3658544"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-twomounds",
+          "i1-threevikings",
+          "i1-innkempt",
+          "i1-listeners",
+          "i1-optophone",
+          "i1-ollaves",
+          "i1-mammonlujius",
+          "i1-fourthings"
+        ]
+      }
+    },
+    "fw-i1-013-33": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-013-33.complete-v2.json",
+        "sha256": "b83198a706a7abfef8c069950f356186ce02ca7435ad3eb182e312492c978c69"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-whale1132"
+        ]
+      }
+    },
+    "fw-i1-014-16": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-014-16.complete-v2.json",
+        "sha256": "9a8fb70e4e20022514322c2c7d8985923e1613c8e4c3aa0a318693271c81dd95"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-billyflood",
+          "i1-scribicide"
+        ]
+      }
+    },
+    "fw-i1-014-28": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-014-28.complete-v2.json",
+        "sha256": "2f042d1b794aa99348210aeeec4283f2431a1f797009afeeb4ba3f4078f5787d"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-fourmastersnames",
+          "i1-hebearhairyman"
+        ]
+      }
+    },
+    "fw-i1-015-12": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-015-12.complete-v2.json",
+        "sha256": "a528090ba72e9f61f034135308169be019636c8abed6448b167036bc1ffd7de9"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-babbelers",
+          "i1-elsekiss",
+          "i1-fleapow"
+        ]
+      }
+    },
+    "fw-i1-015-29": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-015-29.complete-v2.json",
+        "sha256": "86de86c9c317a7a34c2ce31fed23c6265dd90dbf9d037656e3914d62458a0fc9"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-carlkopje"
+        ]
+      }
+    },
+    "fw-i1-016-10": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-016-10.complete-v2.json",
+        "sha256": "858a0ca1fd1af70826067a94957e50cf8cf17bd407a50f2e8c10542d2cac4b5a"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-dungtarf",
+          "i1-silkyshag",
+          "i1-meldundleize"
+        ]
+      }
+    },
+    "fw-i1-018-17": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-018-17.complete-v2.json",
+        "sha256": "729c5e30e7dc460ea476d272bff6b6515de9727c47afe2e5d7cdb5834e43d990"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-twelvenidanas",
+          "i1-middenhebrewsnakes"
+        ]
+      }
+    },
+    "fw-i1-019-20": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-019-20.complete-v2.json",
+        "sha256": "885aaef602fb6cf45c456e0ceb5c1dc413c9c22d529a7ef548e03924910ec450"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": []
+      }
+    },
+    "fw-i1-021-05": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-021-05.complete-v2.json",
+        "sha256": "31ea4335e0c1fcf6adbcf5a0734286c71d07c0b3ba27e6c78fe80e26c82fcf4c"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-prankqueanintro",
+          "i1-thunderwordthree"
+        ]
+      }
+    },
+    "fw-i1-023-16": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-023-16.complete-v2.json",
+        "sha256": "2d2747269e564df3d1b7c129b1ad611b3c7f2d49109e2910581f81d339713d45"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": []
+      }
+    },
+    "fw-i1-024-15": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-024-15.complete-v2.json",
+        "sha256": "38a1e5f608fd6f6f4cdd8bb8ea3fc3f053237b32248e255b21f5662dfcb1987d"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-healiopolisvarmints",
+          "i1-pyrecompanionheroes",
+          "i1-totumcalmumegypt"
+        ]
+      }
+    },
+    "fw-i1-027-22": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-027-22.complete-v2.json",
+        "sha256": "d9257d94134b89df7a893083eaca89eeac6be88c66307c68d0209d4cb3fb6abf"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-findrinnyfair"
+        ]
+      }
+    },
+    "fw-i1-028-35": {
+      "stage": "integrated",
+      "workpack": {
+        "path": "reports/workpacks/fw-i1-028-35.complete-v2.json",
+        "sha256": "f5e0a881f8fa3ffd4e0f649c0f942ca6314148e96d3908ee44b7be3d3ce64629"
+      },
+      "draft": {
+        "path": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+        "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+      },
+      "review": {
+        "path": "reports/reviews/gemini-I-1-complete-integration.r1.md",
+        "sha256": "de87292492cd62022a732e9b8c23b26b8eefad65eb898eef3db0fdd053953182"
+      },
+      "revisions": [
+        {
+          "path": "manuscript/chapters/I-1.json",
+          "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+        }
+      ],
+      "revision_round": 1,
+      "attempts": [],
+      "integration": {
+        "state": "integrated",
+        "fields": [
+          "original",
+          "translation",
+          "notes",
+          "range",
+          "locator"
+        ],
+        "unresolved": [
+          "i1-smollett-succession",
+          "i1-fourfootlers-zephiroth",
+          "i1-red-white-prophets"
+        ]
+      }
+    }
+  },
+  "publication": {
+    "state": "not_published",
+    "commit": null,
+    "url": null,
+    "checked_at": null
+  }
+}

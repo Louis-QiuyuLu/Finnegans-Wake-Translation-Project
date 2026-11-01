@@ -1,0 +1,64 @@
+{
+  "id": "fw-i1-021-05",
+  "locator": "021.05–023.15",
+  "range": [
+    21,
+    5,
+    23,
+    15
+  ],
+  "source_id": "joyce-fp",
+  "original": "It was of a night, late, lang time agone, in an auldstane eld, when Adam was delvin and his madameen spinning watersilts, when mulk mountynotty man was everybully and the first leal ribberrobber that ever had her ainway everybuddy to his lovesaking eyes and everybilly lived alove with everybiddy else, and Jarl van Hoother had his burnt head high up in his lamphouse, laying cold hands on himself. And his two little jiminies, cousins of ourn, Tristopher and Hilary, were kickaheeling their dummy on the oil cloth flure of his homerigh, castle and earthenhouse. And, be dermot, who come to the keep of his inn only the niece-of-his-in-law, the prankquean. And the prankquean pulled a rosy one and made her wit foreninst the dour. And she lit up and fireland was ablaze. And spoke she to the dour in her petty perusienne: Mark the Wans, why do I am alook alike a poss of porterpease? And that was how the skirtmisshes began. But the dour handworded her grace in dootch nossow: Shut! So her grace o'malice kidsnapped up the jiminy Tristopher and into the shandy westerness she rain, rain, rain. And Jarl van Hoother warlessed after her with soft dovesgall: Stop deef stop come back to my earin stop. But she swaradid to him: Unlikelihud. And there was a brannewail that same sabboath night of falling angles somewhere in Erio. And the prankquean went for her forty years' walk in Tourlemonde and she washed the blessings of the lovespots off the jiminy with soap sulliver suddles and she had her four owlers masters for to tauch him his tickles and she convorted him to the onesure allgood and he became a luderman. So then she started to rain and to rain and, be redtom, she was back again at Jarl van Hoother's in a brace of samers and the jiminy with her in her pinafrond, lace at night, at another time. And where did she come but to the bar of his bristolry. And Jarl von Hoother had his baretholobruised heels drowned in his cellarmalt, shaking warm hands with himself and the jimminy Hilary and the dummy in their first infancy were below on the tearsheet, wringing and coughing, like brodar and histher. And the prankquean nipped a paly one and lit up again and redcocks flew flackering from the hillcombs. And she made her witter before the wicked, saying: Mark the Twy, why do I am alook alike two poss of porterpease? And: Shut! says the wicked, handwording her madesty. So her madesty a forethought set down a jiminy and took up a jiminy and all the lilipath ways to Woeman's Land she rain, rain, rain. And Jarl von Hoother bleethered atter her with a loud finegale: Stop domb stop come back with my earring stop. But the prankquean swaradid: Am liking it. And there was a wild old grannewwail that laurency night of starshootings somewhere in Erio. And the prankquean went for her forty years' walk in Turnlemeem and she punched the curses of cromcruwell with the nail of a top into the jiminy and she had her four larksical monitrix to touch him his tears and she provorted him to the onecertain allsecure and he became a tristian. So then she started raining, raining, and in a pair of changers, be dom ter, she was back again at Jarl von Hoother's and the Larryhill with her under her abromette. And why would she halt at all if not by the ward\n\nof his mansionhome of another nice lace for the third charm? And Jarl von Hoother had his hurricane hips up to his pantrybox, ruminating in his holdfour stomachs (Dare! O dare!), and the jiminy Toughertrees and the dummy were belove on the watercloth, kissing and spitting, and roguing and poghuing, like knavepaltry and naivebride and in their second infancy. And the prankquean picked a blank and lit out and the valleys lay twinkling. And she made her wittest in front of the arkway of trihump, asking: Mark the Tris, why do I am alook alike three poss of porter pease? But that was how the skirtmishes endupped. For like the campbells acoming with a fork lance of lightning, Jarl von Hoother Boanerges himself, the old terror of the dames, came hip hop handihap out through the pikeopened arkway of his three shuttoned castles, in his broadginger hat and his civic chollar and his allabuff hemmed and his bullbraggin soxangloves and his ladbroke breeks and his cattegut bandolair and his furframed panuncular cumbottes like a rudd yellan gruebleen orangeman in his violet indigonation, to the whole longth of the strongth of his bowman's bill. And he clopped his rude hand to his eacy hitch and he ordurd and his thick spch spck for her to shut up shop, dappy. And the duppy shot the shutter clup (Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun!) And they all drank free. For one man in his armour was a fat match always for any girls under shurts. And that was the first peace of illiterative porthery in all the flamend floody flatuous world. How kirssy the tiler made a sweet unclose to the Narwhealian captol. Saw fore shalt thou sea. Betoun ye and be. The prankquean was to hold her dummyship and the jimminies was to keep the peacewave and van Hoother was to git the wind up. Thus the hearsomeness of the burger felicitates the whole of the polis.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-019-20",
+  "next": [
+    23,
+    16
+  ],
+  "next_original": "O foenix culprit! Ex nickylow malo comes mickelmassed bonum. Hill, rill, ones in company, billeted,",
+  "questions": [
+    {
+      "lemma": "It was of a night, late, lang time agone, in an auldstane eld, when Adam was delvin and his madameen spinning watersilts... Jarl van Hoother... prankquean",
+      "question": "Jarl van Hoother 与 prankquean 的三次叫门、掳子和交换可直接从故事核到。格蕾丝·奥马利／霍斯城堡传说可供对读；未核历史原件，不能把传奇写成1576年史实或伪署Sidney回忆录。",
+      "impact": "i1-prankqueanintro"
+    },
+    {
+      "lemma": "And the duppy shot the shutter clup (Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun!)",
+      "question": "此处长雷鸣词紧接关门动作，中文保留长串拟音。旧注所列各国语源须逐项核词典、拼法与稿层，本轮不沿用整串确定词源表。",
+      "impact": "i1-thunderwordthree"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

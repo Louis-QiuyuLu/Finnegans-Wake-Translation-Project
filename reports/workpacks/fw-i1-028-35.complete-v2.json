@@ -1,0 +1,69 @@
+{
+  "id": "fw-i1-028-35",
+  "locator": "028.35–029.36",
+  "range": [
+    28,
+    35,
+    29,
+    36
+  ],
+  "source_id": "joyce-fp",
+  "original": "For, be that samesake sibsubstitute of a hooky salmon, there's already a big rody ram lad at random on the premises of his haunt of the hungred bordles, as it is told me. Shop Illicit, flourishing like a lordmajor or a buaboabaybohm, litting flop a deadlop (aloose!) to lee but lifting a bennbranch a yardalong (ivoeh!) on the breezy side (for showm!), the height of Brewster's chimpney and as broad below as Phineas Barnum; humphing his share of the showthers is senken on him he's such a grandfallar, with a pocked wife in pickle that's a flyfire and three lice nittle clinkers, two twilling bugs and one midgit pucelle. And aither he cursed and recursed and was everseen doing what your fourfootlers saw or he was never done seeing what you coolpigeons know, weep the clouds aboon for smiledown witnesses, and that'll do now about the fairyhees and the frailyshees. Though Eset fibble it to the zephiroth and Artsa zoom it round her heavens for ever. Creator he has created for his creatured ones a creation. White monothoid? Red theatrocrat? And all the pinkprophets cohalething? Very much so! But however 'twas 'tis sure for one thing, what sherif Toragh voucherfors and Mapqiq makes put out, that the man, Humme the Cheapner, Esc, overseen as we thought him, yet a worthy of the naym, came at this timecoloured place where we live in our paroqial fermament one tide on another, with a bumrush in a hull of a wherry, the twin turbane dhow, The Bey for Dybbling, this archipelago's first visiting schooner, with a wicklowpattern waxenwench at her prow for a figurehead, the deadsea dugong updipdripping from his depths, and has been repreaching himself like a fishmummer these siktyten years ever since, his shebi by his shide, adi and aid, growing hoarish under his turban and changing cane sugar into sethulose starch (Tuttut's cess to him!) as also that, batin the bulkihood he bloats about when innebbiated, our old offender was humile, commune and ensectuous from his nature, which you may gauge after the bynames was put under him, in lashons of languages, (honnein suit and praisers be!) and, totalisating him, even hamissim of himashim that he, sober serious, he is ee and no counter he who will be ultimendly respunchable for the hubbub caused in Edenborough.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-027-22",
+  "next": [
+    30,
+    1
+  ],
+  "next_original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen",
+  "questions": [
+    {
+      "lemma": "For, be that samesake sibsubstitute of a hooky salmon, there's already a big rody ram lad at random on the premises of his haunt of the hungred bordles... pocked wife in pickle that's a flyfire and three lice nittle clinkers",
+      "question": "random、pickle、clinkers 可与斯摩莱特小说题名对读，但本轮未核具名研究与作者使用路径。sibsubstitute 暗示亲缘替代，不单凭此词断言确有一位胞弟。",
+      "impact": "i1-smollett-succession"
+    },
+    {
+      "lemma": "And aither he cursed and recursed and was everseen doing what your fourfootlers saw or he was never done seeing what you coolpigeons know... Though Eset fibble it to the zephiroth and Artsa zoom it round her heavens for ever. Creator he has created for his creatured ones a creation.",
+      "question": "fourfootlers、Eset、zephiroth、Artsa 允许四者、伊西斯、质点与天地声影并读。希伯来语词源和卡巴拉逐项对应尚待核，不把候选语源接成完整创世体系。",
+      "impact": "i1-fourfootlers-zephiroth"
+    },
+    {
+      "lemma": "White monothoid? Red theatrocrat? And all the pinkprophets cohalething? Very much so!",
+      "question": "White monothoid、Red theatrocrat、Pink prophets 明列白红粉三色，并杂糅神学与政治词形。苏俄阵营和《传道书》读法均未定，不把一种时事映射写成唯一解释。",
+      "impact": "i1-red-white-prophets"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

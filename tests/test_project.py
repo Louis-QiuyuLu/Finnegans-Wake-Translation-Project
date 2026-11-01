@@ -40,6 +40,19 @@ class ProjectTests(unittest.TestCase):
     def test_valid_sample_is_accepted(self):
         self.assertEqual(self.api_ready().validate(sample()), [])
 
+    def test_epub_declares_embedded_source_figures(self):
+        data = sample()
+        data['chapters'][0]['segments'][0]['source_figures'] = [
+            {'anchor': 'riverrun', 'letter': 'E', 'rotation': -90, 'replace': False}]
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'figures.epub'
+            self.api_ready().build_epub(data, path)
+            with zipfile.ZipFile(path) as book:
+                root = ET.fromstring(book.read('EPUB/package.opf'))
+                item = next(e for e in root.iter() if e.get('href') == 'chapters/I-1.xhtml')
+                self.assertIn('svg', item.get('properties', '').split())
+                self.assertIn(b'<svg', book.read('EPUB/chapters/I-1.xhtml'))
+
     def test_duplicate_segment_id_is_rejected(self):
         data = sample()
         data["chapters"][0]["segments"].append(copy.deepcopy(data["chapters"][0]["segments"][0]))

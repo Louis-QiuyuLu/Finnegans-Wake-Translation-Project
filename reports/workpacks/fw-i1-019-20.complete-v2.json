@@ -1,0 +1,53 @@
+{
+  "id": "fw-i1-019-20",
+  "locator": "019.20–021.04",
+  "range": [
+    19,
+    20,
+    21,
+    4
+  ],
+  "source_id": "joyce-fp",
+  "original": "Axe on thwacks on thracks, axenwise. One by one place one be three dittoh and one before. Two nursus one make a plausible free and idim behind. Starting off with a big boaboa and threelegged calvers and ivargraine jadesses with a message in their mouths. And a hundreadfilled unleavenweight of liberorumqueue to con an we can till allhorrors eve. What a meanderthalltale to unfurl and with what an end in view of squattor and anntisquattor and postproneauntisquattor! To say too us to be every tim, nick and larry of us, sons of the sod, sons, littlesons, yea and lealittlesons, when usses not to be, every sue, siss and sally of us, dugters of Nan! Accusative ahnsire! Damadam to infinities! True there was in nillohs dieybos as yet no lumpend papeer in the waste and mightmountain Penn still groaned for the micies to let flee. All was of ancientry. You gave me a boot (signs on it!) and I ate the wind. I quizzed you a quid (with for what?) and you went to the quod. But the world, mind, is, was and will be writing its own wrunes for ever, man, on all matters that fall under the ban of our infrarational senses fore the last milchcamel, the heartvein throbbing between his eyebrowns, has still to moor before the tomb of his cousin charmian where his date is tethered by the palm that's hers. But the horn, the drinking, the day of dread are not now. A bone, a pebble, a ramskin; chip them, chap them, cut them up allways; leave them to terracook in the muttheringpot: and Gutenmorg with his cromagnom charter, tintingfast and great primer must once for omniboss step rubrickredd out of the wordpress else is there no virtue more in alcohoran. For that (the rapt one warns) is what papyr is meed of, made of, hides and hints and misses in prints. Till ye finally (though not yet endlike) meet with the acquaintance of Mister Typus, Mistress Tope and all the little typtopies. Fillstup. So you need hardly spell me how every word will be bound over to carry three score and ten toptypsical readings throughout the book of Doublends Jined (may his forehead be darkened with mud who would sunder!) till Daleth, mahomahouma, who oped it closeth thereof the. Dor. Cry not yet! There's many a smile to Nondum, with sytty maids per man, sir, and the park's so dark by kindlelight. But look what you have in your handself! The movibles are scrawling in motions, marching, all of them ago, in pitpat and zingzang for every busy eerie whig's a bit of a torytale to tell. One's upon a thyme and two's behind their lettice leap and three's among the strubbely beds. And the chicks picked their teeths and the dombkey he begay began. You can ask your ass if he believes it. And so cuddy me only wallops have heels. That one of a wife with folty barnets. For then was the age when hoops ran high. Of a noarch and a chopwife; of a pomme full grave and a fammy of levity; or of golden youths that wanted gelding; or of what the mischievmiss made a man do. Malmarriedad he was reversogassed by the frisque of her frasques and her prytty pyrrhique. Maye faye, she's la gaye this snaky woman! From that trippiery toe expectungpelick! Veil, volantine, valentine eyes. She's the very besch Winnie blows Nay on good. Flou inn, flow ann. Hohore! So it's sure it was her not we! But lay it easy, gentle mien, we are in rearing of a norewhig. So weenybeenyveenyteeny. Comsy see! Het wis if ee newt. Lissom! lissom! I am doing it. Hark, the corne entreats! And the larpnotes prittle.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-018-17",
+  "next": [
+    21,
+    5
+  ],
+  "next_original": "It was of a night, late, lang time agone, in an auldstane eld, when Adam",
+  "questions": [],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

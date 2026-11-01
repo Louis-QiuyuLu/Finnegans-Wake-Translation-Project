@@ -84,6 +84,7 @@ def validate(data):
             if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", sid):
                 errors.append(f"invalid segment ID: {sid}")
             require_text(segment, ["original", "draft", "translation", "locator"], sid)
+            errors.extend(f"source figure: {sid}: {e}" for e in figure_errors(segment))
             check_sources([segment.get("source_id")], sid)
             position = segment.get("range", [])
             if len(position) != 4 or not all(type(n) is int and n > 0 for n in position):
@@ -162,6 +163,50 @@ def paragraphs(text, css=""):
     return "".join(f"<p{attribute}>{escape(p)}</p>" for p in text.split("\n\n"))
 
 
+def figure_errors(segment):
+    errors = []
+    figures = segment.get("source_figures", [])
+    if not isinstance(figures, list):
+        return ["source_figures must be a list"]
+    for f in figures:
+        if not isinstance(f, dict):
+            errors.append("invalid figure record")
+            continue
+        anchor = f.get("anchor")
+        if not isinstance(anchor, str) or not anchor or segment.get("original", "").count(anchor) != 1:
+            errors.append("figure anchor must occur exactly once")
+        if f.get("letter") not in ("E", "F") or f.get("rotation") not in (-90, 90):
+            errors.append("only E/F rotated by 90 degrees are supported")
+        if type(f.get("replace", False)) is not bool:
+            errors.append("figure replace must be boolean")
+    return errors
+
+
+def source_plain_text(segment):
+    text = segment["original"]
+    for f in segment.get("source_figures", []):
+        label = f'〔{f["letter"]}向{"左" if f["rotation"] < 0 else "右"}旋转90度〕'
+        text = text.replace(f["anchor"], ("" if f.get("replace") else f["anchor"]) + label, 1)
+    return text
+
+
+def source_paragraphs(segment):
+    errors = figure_errors(segment)
+    if errors:
+        raise ValueError("; ".join(errors))
+    html = paragraphs(segment["original"])
+    for f in segment.get("source_figures", []):
+        letter, turn = f["letter"], f["rotation"]
+        path = "M4 4V24M4 4H24M4 14H20" + ("M4 24H24" if letter == "E" else "")
+        label = f'{letter}向{"左" if turn < 0 else "右"}旋转90度'
+        svg = ('<svg xmlns="http://www.w3.org/2000/svg" class="source-sigil" viewBox="0 0 28 28"'
+               + f' role="img" aria-label="{label}" width="1.1em" height="1.1em" style="vertical-align:middle">'
+               + f'<path d="{path}" transform="rotate({turn} 14 14)" fill="none" stroke="currentColor" stroke-width="3"/></svg>')
+        anchor = escape(f["anchor"])
+        html = html.replace(anchor, ("" if f.get("replace") else anchor) + svg, 1)
+    return html
+
+
 def source_links(ids, data, prefix=""):
     by_id = {s["id"]: s for s in data["sources"]}
     return " · ".join(f'<a href="{prefix}sources.html#source-{escape(sid)}">{escape(by_id[sid]["title"])}</a>' for sid in ids)
@@ -207,7 +252,7 @@ def render_segments(chapter, data, epub=False):
                      + '<p class="audio-feedback" role="status" aria-live="polite"></p></div>')
         chunks.append(f'<section class="segment" id="{sid}"><h2 class="locator">FW {escape(segment["locator"])} <span class="tag">{STATUS[segment["status"]]}</span></h2>'
                       + audio
-                      + '<div class="original" lang="en"><h3>原文</h3>' + paragraphs(segment["original"]) + '</div>'
+                      + '<div class="original" lang="en"><h3>原文</h3>' + source_paragraphs(segment) + '</div>'
                       + '<div class="translation"><h3>中文试译</h3>' + paragraphs(segment["translation"]) + '</div>'
                       + f'<p class="note-refs">译注 {refs}</p>'
                       + '<div class="notes"><h3>译注与出处</h3>' + ''.join(note_items) + '</div>'
@@ -315,7 +360,8 @@ def build_epub(data, out):
     manifest = '<item id="css" href="style.css" media-type="text/css"/>'
     ordered = ["title.xhtml"] + [f'chapters/{slug(c)}.xhtml' for c in data["chapters"]] + ["glossary.xhtml", "sources.xhtml"]
     for i, name in enumerate(items):
-        manifest += f'<item id="item-{i}" href="{name}" media-type="application/xhtml+xml"' + (' properties="nav"' if name == "nav.xhtml" else '') + '/>'
+        properties = (["nav"] if name == "nav.xhtml" else []) + (["svg"] if '<svg ' in items[name] else [])
+        manifest += f'<item id="item-{i}" href="{name}" media-type="application/xhtml+xml"' + (f' properties="{" ".join(properties)}"' if properties else '') + '/>'
     ids = {name: f"item-{i}" for i, name in enumerate(items)}
     spine = ''.join(f'<itemref idref="{ids[name]}"/>' for name in ordered)
     opf = ('<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id" xml:lang="zh-Hans">'
@@ -423,7 +469,8 @@ def generate_views(data, root=ROOT):
             path.parent.mkdir(parents=True, exist_ok=True)
             text = f'# {chapter["title"]}\n\n<!-- 自动生成；请编辑 manuscript/chapters/{slug(chapter)}.json -->\n\n'
             for segment in chapter["segments"]:
-                text += f'## {segment["locator"]} {{#{segment["id"]}}}\n\n{segment[field]}\n\n'
+                value = source_plain_text(segment) if field == "original" else segment[field]
+                text += f'## {segment["locator"]} {{#{segment["id"]}}}\n\n{value}\n\n'
             path.write_text(text, encoding="utf-8")
         path = root / "annotations" / (slug(chapter) + ".json")
         path.parent.mkdir(parents=True, exist_ok=True)

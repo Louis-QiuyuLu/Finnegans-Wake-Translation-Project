@@ -1,0 +1,64 @@
+{
+  "id": "fw-i1-014-16",
+  "locator": "014.16–014.27",
+  "range": [
+    14,
+    16,
+    14,
+    27
+  ],
+  "source_id": "joyce-fp",
+  "original": "Somewhere, parently, in the ginnandgo gap between antediluvious and annadominant the copyist must have fled with his scroll. The billy flood rose or an elk charged him or the sultrup worldwright from the excelsissimost empyrean (bolt, in sum) earthspake or the Dannamen gallous banged pan the bliddy duran. A scribicide then and there is led off under old's code with some fine covered by six marks or ninepins in metalmen for the sake of his labour's dross while it will be only now and again in our rear of o'er era, as an upshoot of military and civil engagements, that a gynecure was let on to the scuffold for taking that same fine sum covertly by meddlement with the drawers of his neighbour's safe.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-013-33",
+  "next": [
+    14,
+    28
+  ],
+  "next_original": "Now after all that farfatch'd and peragrine or dingnant or clere lift we our ears,",
+  "questions": [
+    {
+      "lemma": "billy flood rose or an elk charged him or the sultrup worldwright... Dannamen gallous banged pan the bliddy duran",
+      "question": "原句接连提出水患、巨鹿、造物主与 Dannamen 等可能原因。其威廉王、丹努神族及门字词源读法尚未核，不把猜因清单改写成四场确实灾变。",
+      "impact": "i1-billyflood"
+    },
+    {
+      "lemma": "scribicide then and there is led off under old's code with some fine covered by six marks or ninepins in metalmen",
+      "question": "scribicide、old's code、six marks、metalmen 使杀人、书写、法条与货币交叠。本轮未核布雷洪法具体条文、价额或铜人航标，撤去确定法制史说明。",
+      "impact": "i1-scribicide"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

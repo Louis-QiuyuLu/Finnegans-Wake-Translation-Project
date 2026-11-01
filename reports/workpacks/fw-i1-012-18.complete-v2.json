@@ -1,0 +1,94 @@
+{
+  "id": "fw-i1-012-18",
+  "locator": "012.18–013.32",
+  "range": [
+    12,
+    18,
+    13,
+    32
+  ],
+  "source_id": "joyce-fp",
+  "original": "Then as she is on her behaviourite job of quainance bandy, fruting for firstlings and taking her tithe, we may take our review of the two mounds to see nothing of the himples here as at elsewhere, by sixes and sevens, like so many heegills and collines, sitton aroont, scentbreeched and somepotreek, in their swishawish satins and their taffetaffe tights, playing Wharton's Folly, at a treepurty on the planko in the purk. Stand up, mickos! Make strake for minnas! By order, Nicholas Proud. We may see and hear nothing if we choose of the shortlegged bergins off Corkhill or the bergamoors of Arbourhill or the bergagambols of Summerhill or the bergincellies of Miseryhill or the countrybossed bergones of Constitutionhill though every crowd has its several tones and every trade has its clever mechanics and each harmonical has a point of its own, Olaf's on the rise and Ivor's on the lift and Sitric's place's between them. But all they are all there scraping along to sneeze out a likelihood that will solve and salve life's robulous rebus, hopping round his middle like kippers on a griddle, O, as he lays dormont from the macroborg of Holdhard to the microbirg of Pied de Poudre. Behove this sound of Irish sense. Really? Here English might be seen. Royally? One sovereign punned to petery pence. Regally? The silence speaks the scene. Fake! So This Is Dyoublong? Hush! Caution! Echoland! How charmingly exquisite! It reminds you of the outwashed engravure that we used to be blurring on the blotchwall of his innkempt house. Used they? (I am sure that tiring chabelshoveller with the mujikal chocolat box, Miry Mitchel, is listening) I say, the remains of the outworn gravemure where used to be blurried the Ptollmens of the Incabus. Used we? (He is only pretendant to be stugging at the jubalee harp from a second existed lishener, Fiery Farrelly.) It is well known. Lokk for himself and see the old butte new. Dbln. W. K. O. O. Hear? By the mausolime wall. Fimfim fimfim. With a grand funferall. Fumfum fumfum. 'Tis optophone which ontophanes. List! Wheatstone's magic lyer. They will be tuggling foriver. They will be lichening for allof. They will be pretumbling forover. The harpsdischord shall be theirs for ollaves. Four things therefore, saith our herodotary Mammon Lujius in his grand old historiorum, wrote near Boriorum, bluest book in baile's annals, f.t. in Dyfflinarsky ne'er sall fail til heathersmoke and cloudweed Eire's ile sall pall. And here now they are, the fear of um. T. Totities! Unum. (Adar.) A bulbenboss surmounted upon an alderman. Ay, ay! Duum. (Nizam.) A shoe on a puir old wobban. Ah, ho! Triom. (Tamuz.) An auburn mayde, o'brine a'bride, to be desarted. Adear, adear! Quodlibus. (Marchessvan.) A penn no weightier nor a polepost. And so. And all. (Succoth.) So, how idlers' wind turning pages on pages, as innocens with anaclete play popeye antipop, the leaves of the living in the boke of the deeds, annals of themselves timing the cycles of events grand and national, bring fassilwise to pass how.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-010-25",
+  "next": [
+    13,
+    33
+  ],
+  "next_original": "1132 a.d. Men like to ants or emmets wondern upon a groot hwide Whallfisk which",
+  "questions": [
+    {
+      "lemma": "two mounds... himples... Wharton's Folly... Nicholas Proud",
+      "question": "mounds、himples、heegills、collines 让丘陵、身体与人群叠合。两座冢、Wharton's Folly 和 Nicholas Proud 的具体地理、身份与告示尚待核，暂不列未证地名对应。",
+      "impact": "i1-twomounds"
+    },
+    {
+      "lemma": "Olaf's on the rise and Ivor's on the lift and Sitric's place's between them",
+      "question": "Olaf、Ivor、Sitric 是本句实际出现的名字，rise、lift、between them 带升降与位置关系。具体统治者、年代与“三位奠基者”之说未核，不把不同世代合为同一集团。",
+      "impact": "i1-threevikings"
+    },
+    {
+      "lemma": "outwashed engravure... blotchwall of his innkempt house... Ptollmens of the Incabus",
+      "question": "innkempt 可联 inn／unkempt；gravemure、Ptollmens、Incabus 容许墓墙、古物与梦魇的复合读法。壁画究竟描绘哪场会面、哪座王朝，本轮未核图像，不作定论。",
+      "impact": "i1-innkempt"
+    },
+    {
+      "lemma": "Miry Mitchel, is listening... Fiery Farrelly... old butte new",
+      "question": "Miry Mitchel、Fiery Farrelly 与听、琴、杂音同现。候选历史人物和偷听者身份尚未核，不直接等同John Mitchel或特定酒客。",
+      "impact": "i1-listeners"
+    },
+    {
+      "lemma": "'Tis optophone which ontophanes. List! Wheatstone's magic lyer",
+      "question": "optophone、ontophanes、Wheatstone's magic lyer 让视觉、声音、显现与琴／谎言交织。仪器技术史、发明年份和具体装置须另核，本轮只采用原词可见的声形关系。",
+      "impact": "i1-optophone"
+    },
+    {
+      "lemma": "tuggling foriver... lichening for allof... pretumbling forover... harpsdischord shall be theirs for ollaves",
+      "question": "ollaves 可联爱尔兰学者称谓，也可与 all of、always 并听。可靠词典、复数形式与本句适用义尚待补证；不直接据它宣称某两位国王仍在争斗。",
+      "impact": "i1-ollaves"
+    },
+    {
+      "lemma": "Mammon Lujius in his grand old historiorum, wrote near Boriorum, bluest book in baile's annals",
+      "question": "Mammon Lujius、herodotary、historiorum 把财神、史家与编年声影并置。与《四大师史》及具体编者的关系仍需原文或具名研究，暂不写成Joyce对某部国史的评价。",
+      "impact": "i1-mammonlujius"
+    },
+    {
+      "lemma": "Four things... bulbenboss... shoe on a puir old wobban... auburn mayde... penn no weightier nor a polepost",
+      "question": "Unum、Duum、Triom、Quodlibus 构成四项；括号又列 Adar、Nizam、Tamuz、Marchessvan、Succoth。月份、四省与人物配属尚未逐项核实；尤其不把 Nizam 静默改成 Nisan。",
+      "impact": "i1-fourthings"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

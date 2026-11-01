@@ -1,0 +1,69 @@
+{
+  "id": "fw-i1-016-10",
+  "locator": "016.10–018.16",
+  "range": [
+    16,
+    10,
+    18,
+    16
+  ],
+  "source_id": "joyce-fp",
+  "original": "Jute.— Yutah!\n\nMutt.— Mukk's pleasurad.\n\nJute.— Are you jeff?\n\nMutt.— Somehards.\n\nJute.— But you are not jeffmute?\n\nMutt.— Noho. Only an utterer.\n\nJute.— Whoa? Whoat is the mutter with you?\n\nMutt.— I became a stun a stummer.\n\nJute.— What a hauhauhauhaudibble thing, to be cause! How, Mutt?\n\nMutt.— Aput the buttle, surd.\n\nJute.— Whose poddle? Wherein?\n\nMutt.— The Inns of Dungtarf where Used awe to be he.\n\nJute.— You that side your voise are almost inedible to me. Become a bitskin more wiseable, as if I were you.\n\nMutt.— Has? Has at? Hasatency? Urp, Boohooru! Booru Usurp! I trumple from rath in mine mines when I rimimirim!\n\nJute.— One eyegonblack. Bisons is bisons. Let me fore all your hasitancy cross your qualm with trink gilt. Here have sylvan coyne, a piece of oak. Ghinees hies good for you.\n\nMutt.— Louee, louee! How wooden I not know it, the intellible greytcloak of Cedric Silkyshag! Cead mealy faulty rices for one dabblin bar. Old grilsy growlsy! He was poached on in that eggtentical spot. Here where the liveries, Monomark. There where the missers moony, Minnikin passe.\n\nJute.— Simply because as Taciturn pretells, our wrongstoryshortener, he dumptied the wholeborrow of rubbages on to soil here.\n\nMutt.— Just how a puddinstone inat the brookcells by a riverpool.\n\nJute.— Load Allmarshy! Wid wad for a norse like?\n\nMutt.— Somular with a bull on a clompturf. Rooks roarum rex roome! I could snore to him of the spumy horn, with his woolseley side in, by the neck I am sutton on, did Brian d' of Linn.\n\nJute.— Boildoyle and rawhoney on me when I can beuraly forsstand a weird from sturk to finnic in such a patwhat as your rutterdamrotter. Onheard of and umscene! Gut aftermeal! See you doomed.\n\nMutt.— Quite agreem. Bussave a sec. Walk a dun blink roundward this albutisle and you skull see how olde ye plaine of my Elters, hunfree and ours, where wone to wail whimbrel to peewee o'er the saltings, where wilby citie by law of isthmon, where by a droit of signory, icefloe was from his Inn the Byggning to whose Finishthere Punct. Let erehim ruhmuhrmuhr. Mearmerge two races, swete and brack. Morthering rue. Hither, craching eastuards, they are in surgence: hence, cool at ebb, they requiesce. Countlessness of livestories have netherfallen by this plage, flick as flowflakes, litters from aloft, like a waast wizzard all of whirlworlds. Now are all tombed to the mound, isges to isges, erde from erde. Pride, O pride, thy prize!\n\nJute.— 'Stench!\n\nMutt.— Fiatfuit! Hereinunder lyethey. Llarge by the smal an' everynight life olso th'estrange, babylone the great-grandhotelled with tit tit tittlehouse, alp on earwig, drukn on ild, likeas equal to anequal in this sound seemetery which iz leebez luv.\n\nJute.— 'Zmorde!\n\nMutt.— Meldundleize! By the fearse wave behoughted. Despond's sung. And thanacestross mound have swollup them all. This ourth of years is not save brickdust and being humus the same returns. He who runes may rede it on all fours. O'c'stle, n'wc'stle, tr'c'stle, crumbling! Sell me sooth the fare for Humblin! Humblady Fair. But speak it allsosiftly, moulder! Be in your whisht!\n\nJute.— Whysht?\n\nMutt.— The gyant Forficules with Amni the fay.\n\nJute.— Howe?\n\nMutt.— Here is viceking's graab.\n\nJute.— Hwaad!\n\nMutt.— Ore you astoneaged, jute you?\n\nJute.— Oye am thonthorstrok, thing mud.",
+  "schema_version": 1,
+  "chapter": "I.1",
+  "baseline": {
+    "manuscript": {
+      "path": "manuscript/chapters/I-1.json",
+      "sha256": "9fe3a2967e901540379873c5b55a19e51991002600bcdab0b7d45fc4339a7f52"
+    },
+    "sources": {
+      "path": "sources/catalog.json",
+      "sha256": "b5e5cc0ef77a6891c5a72ef1d250e7469298fb7e5e5a74e035f37170c4451eae"
+    },
+    "glossary": {
+      "path": "glossary/terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    }
+  },
+  "baseline_commit": "0d1ad8fbcfaae6c7b9403ee2a23fa904a6b9f166",
+  "previous_segment_id": "fw-i1-015-29",
+  "next": [
+    18,
+    17
+  ],
+  "next_original": "(Stoop) if you are abcedminded, to this claybook, what curios of signs (please stoop), in",
+  "questions": [
+    {
+      "lemma": "The Inns of Dungtarf where Used awe to be he... Hasatency? Urp, Boohooru! Booru Usurp!",
+      "question": "Dungtarf 可联 Clontarf，Hasatency 可联帕奈尔案误拼故事。战役及伪信史实须另核原件与具名研究；此处先保战争、篡位、追忆与犹疑的局部语义。",
+      "impact": "i1-dungtarf"
+    },
+    {
+      "lemma": "Cedric Silkyshag! Cead mealy faulty rices for one dabblin bar. Old grilsy grout! He was poached on in that eggtentical spot",
+      "question": "Cedric Silkyshag 可联丝须王；Cead mealy faulty rices 可供爱尔兰欢迎语读法。原交稿把不同王者与遇刺故事合叙，本轮撤去确定身份，保声音线索待考。",
+      "impact": "i1-silkyshag"
+    },
+    {
+      "lemma": "'Zmorde!... Meldundleize! By the fearse wave behoughted. Despond's sung. And thanacestross mound have swollup them all. This ourth of years is not save brickdust and being humus the same roturns",
+      "question": "Meldundleize 可近听 Mild und leise，Despond's sung 又有绝望、泥淖与歌声。瓦格纳曲源仍须核曲文；本轮不把它写成已经查过的整段引用。",
+      "impact": "i1-meldundleize"
+    }
+  ],
+  "terms": [],
+  "research_decision": {
+    "required": true,
+    "reason": "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。"
+  },
+  "source_checks": [
+    {
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "edition": "Viking 1958, 8th printing, transcription",
+      "result": "Compared cached web-tool text for chapter I.1. See coverage ledger; no direct HTTP download or print-facsimile claim."
+    },
+    {
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+      "edition": "community transcription",
+      "result": "Checked page-line anchors. All page response hashes are in the coverage ledger; commentary is not independent scholarly proof."
+    }
+  ]
+}

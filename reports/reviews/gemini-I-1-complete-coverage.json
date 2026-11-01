@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "chapter": "I.1",
+  "date": "2026-11-01",
+  "reviewer": "Codex / AI",
+  "basis": "Faded Page工具缓存全文文字；FinnegansWiki独立下载辅助页行；非纸本校勘",
+  "input": "reports/reviews/inputs/gemini-I-1-complete-2026-11-01/manuscript__chapters__I-1.json",
+  "input_sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94",
+  "current_manuscript_sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609",
+  "source_id": "joyce-fp",
+  "edition": "Viking1958第八印本电子转录",
+  "range": "003.01–029.36",
+  "printed_pages": 27,
+  "coordinate_lines": 960,
+  "coordinate_coverage": "complete_no_gaps_no_overlaps",
+  "segments": [
+    {
+      "segment_id": "fw-i1-003-01",
+      "locator": "003.01–003.03",
+      "first_anchor": "riverrun, past Eve and Adam's, from swerve of shore to",
+      "last_anchor": "commodius vicus of recirculation back to Howth Castle and Environs.",
+      "original_sha256": "9f7eae86d530009a50985d68b251285cd0b69a73cebd9407430e9ef2b917d9bd",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-003-04",
+      "locator": "003.04–003.14",
+      "first_anchor": "Sir Tristram, violer d'amores, fr'over the short sea, had passencore",
+      "last_anchor": "the regginbrow was to be seen ringsome on the aquaface.",
+      "original_sha256": "fa12697918e59b78a90e178cb2afba46f61a5685124234e0b9aeb4466d9a1a01",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-003-15",
+      "locator": "003.15–003.24",
+      "first_anchor": "The fall (bababadalgharaghtakamminarronnkonnbronntonner-ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur-nuk!) of a once wallstrait oldparr is retaled",
+      "last_anchor": "laid to rust upon the green since devlinsfirst loved livvy.",
+      "original_sha256": "524ac6990633619ef2fddbb667e7d3d1cc9e27d116f79c753c21b626ca543cb7",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-004-01",
+      "locator": "004.01–004.17",
+      "first_anchor": "What clashes here of wills gen wonts, oystrygods gaggin fishygods!",
+      "last_anchor": "pharce for the nunce come to a setdown secular phoenish.",
+      "original_sha256": "b42f8443789a4b58c65a1c6445c8b80d48c3cfc3a7691753f41fded0b8d9f85e",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-004-18",
+      "locator": "004.18–005.04",
+      "first_anchor": "Bygmester Finnegan, of the Stuttering Hand, freemen's maurer, lived in",
+      "last_anchor": "with larrons o'toolers clittering up and tombles a'buckets clottering down.",
+      "original_sha256": "bb09224e3a9830a229ff4a461dfc38be5d1e6b1541f995f5918b94bb5e1d8103",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-005-05",
+      "locator": "005.05–005.08",
+      "first_anchor": "Of the first was he to bare arms and a",
+      "last_anchor": "His scutschum fessed, with archers strung, helio, of the second.",
+      "original_sha256": "60a21d444f247e892baff7cc6a4a9cbbf8246b6107c0b92d66cadf7e2aabadfd",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-005-09",
+      "locator": "005.09–005.12",
+      "first_anchor": "Hootch is for husbandman handling his hoe. Hohohoho, Mister Finn,",
+      "last_anchor": "vinegar! Hahahaha, Mister Funn, you're going to be fined again!",
+      "original_sha256": "4ca62d55ec175629155d57818c540c9743098e1d2846831c28e65d6d9bd78d60",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-005-13",
+      "locator": "005.13–006.12",
+      "first_anchor": "What then agentlike brought about that tragoady thundersday this municipal",
+      "last_anchor": "lute is all long. For whole the world to see.",
+      "original_sha256": "0011e071c878a9b1a9a9b9c77008ed40b0fc1791316be79ab837a8a4b5f56085",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-006-13",
+      "locator": "006.13–007.15",
+      "first_anchor": "Shize? I should shee! Macool, Macool, orra whyi deed ye",
+      "last_anchor": "is noewhemoe. Finiche! Only a fadograph of a yestern scene.",
+      "original_sha256": "80b5e6e0b60464f8bdecc17684862e8ae35bbac40bec9c5977dafd7b0347f311",
+      "figure_count": 1
+    },
+    {
+      "segment_id": "fw-i1-007-16",
+      "locator": "007.16–008.04",
+      "first_anchor": "Almost rubicund Salmosalar, ancient fromout the ages of the Agapemonides,",
+      "last_anchor": "show of themselves so gigglesomes minxt the follyages, the prettilees!",
+      "original_sha256": "69fa1a801b388ed9c59114b585251f99c42877441068f483f6bbfd4f893f67df",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-008-06",
+      "locator": "008.05–010.23",
+      "first_anchor": "Penetrators are permitted into the museomound free. Welsh and the",
+      "last_anchor": "ended. This way the museyroom. Mind your boots goan out.",
+      "original_sha256": "82d3603fe903825e8793517c137c8e9d3e7a75772562c37385712bbff4b2ce94",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-010-25",
+      "locator": "010.24–012.17",
+      "first_anchor": "Phew! What a warm time we were in there but",
+      "last_anchor": "a hind make sure but you're cocked by a hin.",
+      "original_sha256": "1a5aa851700a1aefe8d5da477d00820e0618c900e2e4f175b7e14013bafe254e",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-012-18",
+      "locator": "012.18–013.32",
+      "first_anchor": "Then as she is on her behaviourite job of quainance",
+      "last_anchor": "of events grand and national, bring fassilwise to pass how.",
+      "original_sha256": "3d2024bb8956786dc3176b44c28a8544d27dc16405a5a3b527721a51a4452e44",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-013-33",
+      "locator": "013.33–014.15",
+      "first_anchor": "1132 a.d. Men like to ants or emmets wondern upon",
+      "last_anchor": "and wrote o peace a farce. Blotty words for Dublin.",
+      "original_sha256": "3ed21e32ed8bb6d39d2dfc317e0acab091391fb71fad740a403b4a24fb49d686",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-014-16",
+      "locator": "014.16–014.27",
+      "first_anchor": "Somewhere, parently, in the ginnandgo gap between antediluvious and annadominant",
+      "last_anchor": "covertly by meddlement with the drawers of his neighbour's safe.",
+      "original_sha256": "b96f543c3010fef135f7c743c527bdf1a2e0f949b22cfe0377b93fb4670e2b34",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-014-28",
+      "locator": "014.28–015.11",
+      "first_anchor": "Now after all that farfatch'd and peragrine or dingnant or",
+      "last_anchor": "us, fresh and made-of-all-smiles as, on the eve of Killallwho.",
+      "original_sha256": "361f6ab91738f85cd18ce1ed69662bd5077eb6597d3eccbf84eaf886ef35ca7d",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-015-12",
+      "locator": "015.12–015.28",
+      "first_anchor": "The babbelers with their thangas vain have been (confusium hold",
+      "last_anchor": "Tim Timmycan timped hir, tampting Tam. Fleppety! Flippety! Fleapow! Hop!",
+      "original_sha256": "3ab4aeaec534e96952b81a4619b0d6fa2ef4dd825d315fff3f1367c735ed5be6",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-015-29",
+      "locator": "015.29–016.09",
+      "first_anchor": "In the name of Anem this carl on the kopje",
+      "last_anchor": "strong verbs weak oach eather yapyazzard abast the blooty creeks.",
+      "original_sha256": "73650cd06910a75b6724ce54d6ed3358d2a54ff6b896f84a8bd5fbeacd1a53aa",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-016-10",
+      "locator": "016.10–018.16",
+      "first_anchor": "Jute.— Yutah! Mutt.— Mukk's pleasurad. Jute.— Are you jeff? Mutt.—",
+      "last_anchor": "you astoneaged, jute you? Jute.— Oye am thonthorstrok, thing mud.",
+      "original_sha256": "d9c54b1167714e6d7343c62ec6efea7e69089a5a341fded4b6608b2b647aee8c",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-018-17",
+      "locator": "018.17–019.19",
+      "first_anchor": "(Stoop) if you are abcedminded, to this claybook, what curios",
+      "last_anchor": "the tally turns round the same balifuson. Racketeers and bottloggers.",
+      "original_sha256": "54352efc80ee0b8809e9bcc245494962260177f5d152b67ebc36606ccd8cfda5",
+      "figure_count": 2
+    },
+    {
+      "segment_id": "fw-i1-019-20",
+      "locator": "019.20–021.04",
+      "first_anchor": "Axe on thwacks on thracks, axenwise. One by one place",
+      "last_anchor": "doing it. Hark, the corne entreats! And the larpnotes prittle.",
+      "original_sha256": "b4c478f7847e59e14237f9c9ce5e214429d353b8aedd151067da1d25f264437f",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-021-05",
+      "locator": "021.05–023.15",
+      "first_anchor": "It was of a night, late, lang time agone, in",
+      "last_anchor": "hearsomeness of the burger felicitates the whole of the polis.",
+      "original_sha256": "0386ce26c6c66bf906f316322e4e77810a4df0228cd02b9297fc0c3f3fe45858",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-023-16",
+      "locator": "023.16–024.14",
+      "first_anchor": "O foenix culprit! Ex nickylow malo comes mickelmassed bonum. Hill,",
+      "last_anchor": "will you whoop for my deading is a? Wake? Usqueadbaugham!",
+      "original_sha256": "461c4c4fcf5ec95d8ad9eb78873d6931041b7eaa04240072a18c14853b911a9b",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-024-15",
+      "locator": "024.15–027.21",
+      "first_anchor": "Anam muck an dhoul! Did ye drink me doornail? Now",
+      "last_anchor": "Beats that cachucha flat. 'Twould dilate your heart to go.",
+      "original_sha256": "75d2072f784426656fdc51628757b32f345f2cb7e7f71a9f8fd4a461fb92a7e0",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-027-22",
+      "locator": "027.22–028.34",
+      "first_anchor": "Aisy now, you decent man, with your knees and lie",
+      "last_anchor": "And wivvy and wavy. Repose you now! Finn no more!",
+      "original_sha256": "1c81ef9d1822c457918c1b76d625b53fd21221e9330f3f9e7da2675607e268db",
+      "figure_count": 0
+    },
+    {
+      "segment_id": "fw-i1-028-35",
+      "locator": "028.35–029.36",
+      "first_anchor": "For, be that samesake sibsubstitute of a hooky salmon, there's",
+      "last_anchor": "will be ultimendly respunchable for the hubbub caused in Edenborough.",
+      "original_sha256": "57d720579285cc10394980441009b45c79901743b4c29544f09561a8ce0dd623",
+      "figure_count": 0
+    }
+  ],
+  "text_collation": {
+    "result": "equal_after_three_declared_line_hyphen_choices",
+    "normalized_tokens": 9773,
+    "deltas": [
+      {
+        "op": "replace",
+        "manuscript": "(bababadalgharaghtakamminarronnkonnbronntonner-ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur-nuk!)",
+        "witness": "(bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk!)"
+      },
+      {
+        "op": "replace",
+        "manuscript": "great-grandhotelled",
+        "witness": "greatgrandhotelled"
+      },
+      {
+        "op": "replace",
+        "manuscript": "niece-of-his-in-law,",
+        "witness": "nieceof-his-in-law,"
+      }
+    ],
+    "normalization": "先去工具行号、页码标签、对话表格分栏；普通排版断字在比较层连接。三处保留选择逐项列上，不删其他标点、重音或文字。旋转字母以明确图形标记参与对照。"
+  },
+  "captures": [
+    {
+      "page": 3,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_3",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_3",
+      "status": 200,
+      "bytes": 22090,
+      "sha256": "635c22cf337002a74bf1aa4ae79c60ac2d30eeb5e37e39dfe9a9c1ec4528bca8"
+    },
+    {
+      "page": 4,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_4",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_4",
+      "status": 200,
+      "bytes": 26424,
+      "sha256": "7454de65c611e2a57a4a35730f0fb60969db5e078c2f628f312753f2d68b628c"
+    },
+    {
+      "page": 5,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+      "status": 200,
+      "bytes": 24920,
+      "sha256": "778e3a7cb0997fe16fd12d87737f924149e968470aadde3e92f88c9070aacd0a"
+    },
+    {
+      "page": 6,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_6",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_6",
+      "status": 200,
+      "bytes": 25099,
+      "sha256": "91aac74b9d00c4ae687a459037750244313e216c40bbc67168a02018a80b2276"
+    },
+    {
+      "page": 7,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+      "status": 200,
+      "bytes": 25574,
+      "sha256": "17275c722b772ab7091c0b24c648796d53ce732bc9d432431c7efc621cf94596"
+    },
+    {
+      "page": 8,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+      "status": 200,
+      "bytes": 24051,
+      "sha256": "4f622b362acfbe875e2265e49404a677c47884a2bcd7b8742e454b7f8b35a6a0"
+    },
+    {
+      "page": 9,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+      "status": 200,
+      "bytes": 23949,
+      "sha256": "d12388b900ed0c39d89e9ee94f235899862e87180a951d84b33771e9518d68db"
+    },
+    {
+      "page": 10,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+      "status": 200,
+      "bytes": 23090,
+      "sha256": "b2c56a3baf27d6dac384e6d061964144249695ad66dacdc3ce4ca3090f6ecc3b"
+    },
+    {
+      "page": 11,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+      "status": 200,
+      "bytes": 24370,
+      "sha256": "a87f0a1f15f868da7fe7348fc75af4328c59ba7b9ebd1480632b7a296e061f6c"
+    },
+    {
+      "page": 12,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+      "status": 200,
+      "bytes": 24483,
+      "sha256": "e85c302de7cc04d0c8e053f208440461fd3b475937a1bd207d0f920b9c38e987"
+    },
+    {
+      "page": 13,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+      "status": 200,
+      "bytes": 24237,
+      "sha256": "131ab5af77983e0f5e5d3d90c197e8fda65cec2a95e77fa62002f5cd6c5f0c0a"
+    },
+    {
+      "page": 14,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+      "status": 200,
+      "bytes": 23631,
+      "sha256": "ac9773ea50011121734b6a95b68b364c7a357b3a172b34ed48729c23d30e755b"
+    },
+    {
+      "page": 15,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+      "status": 200,
+      "bytes": 24136,
+      "sha256": "76d78f1acd4a8db7a1bf43bfdf8d1bbc35c1584e2c1e527020f3d6916ea1c198"
+    },
+    {
+      "page": 16,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+      "status": 200,
+      "bytes": 21944,
+      "sha256": "f487105e01c927613ed60a39f8226627b5514735ff35ca9cfec11cee40b48f11"
+    },
+    {
+      "page": 17,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_17",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_17",
+      "status": 200,
+      "bytes": 23307,
+      "sha256": "804036da9921bc10d78c681086622041d430d08e36343f66d34d50e7b211ca06"
+    },
+    {
+      "page": 18,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_18",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_18",
+      "status": 200,
+      "bytes": 22704,
+      "sha256": "efeab2f2b34c51fc17f78dda42c8d75fac0f6df9018e6f15a40e2414a3067fc3"
+    },
+    {
+      "page": 19,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+      "status": 200,
+      "bytes": 24631,
+      "sha256": "16e3e761b3af3d3f5f810727bdf7b955d03fd7a60937f297aef4e6e3c9144c9f"
+    },
+    {
+      "page": 20,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_20",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_20",
+      "status": 200,
+      "bytes": 23415,
+      "sha256": "98686dd930cdfd415faf34eca2ed8303e8df421da54a9b9887c1cc196c497c0e"
+    },
+    {
+      "page": 21,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+      "status": 200,
+      "bytes": 23576,
+      "sha256": "8fd723685df37c500e664bba96b014a771ea6ec1bdbeefb5d66a4ad492272d5a"
+    },
+    {
+      "page": 22,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_22",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_22",
+      "status": 200,
+      "bytes": 22434,
+      "sha256": "03ef58960f2dd6b7152621286ad3298edc219eef343af07144687bf17598d79e"
+    },
+    {
+      "page": 23,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_23",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_23",
+      "status": 200,
+      "bytes": 25158,
+      "sha256": "7e2830c9af7ab9696ce2259f60d80daa814b6da38c40926bf552ab26e194e0fc"
+    },
+    {
+      "page": 24,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_24",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_24",
+      "status": 200,
+      "bytes": 22443,
+      "sha256": "e6088a34533c2d0ad07311f205ab9d103b440be9cb759e640add748294cb1d27"
+    },
+    {
+      "page": 25,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_25",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_25",
+      "status": 200,
+      "bytes": 22033,
+      "sha256": "6cba6c73fea25811e547ea9c4d851551220ca34b9bde57838893ab3fa0f88925"
+    },
+    {
+      "page": 26,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_26",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_26",
+      "status": 200,
+      "bytes": 23147,
+      "sha256": "c5ca707370d98f481de29fa887bddcf9fcf5d65b364753e0616dd28626369a8c"
+    },
+    {
+      "page": 27,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+      "status": 200,
+      "bytes": 22577,
+      "sha256": "2cecbb6f69e6f51f7efba7630587f4153aba02789ddf53418c7f9ba9b212ea38"
+    },
+    {
+      "page": 28,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+      "status": 200,
+      "bytes": 22132,
+      "sha256": "5d19307f141ba5eceb913c51f5cccd20119ab2d9c9b77cd47637ca39e6215183"
+    },
+    {
+      "page": 29,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_29",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_29",
+      "status": 200,
+      "bytes": 22711,
+      "sha256": "d81d30250e8d0760af35a2af6cbff604acd83ee87bf2ddabeb19b47f0151bb8a"
+    },
+    {
+      "page": 30,
+      "url": "https://www.finnegansweb.com/wiki/index.php/Page_30",
+      "effective_url": "https://www.finnegansweb.com/wiki/index.php/Page_30",
+      "status": 200,
+      "bytes": 19578,
+      "sha256": "f6e3d2abfc714f13590406516f7ffd3b28ba4535f699cdb34257f2ec24f90f99"
+    }
+  ],
+  "cached_witness_records": [
+    {
+      "path": "temporary/faded-tool-100.txt",
+      "sha256": "d042d6a706b60ba4a0ad09b75b34a4dc8e8dbbb2e0ff5bc2aa609b6ad94f3739",
+      "capture_method": "web_tool_cached_transcription",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "stored_in_repository": false
+    },
+    {
+      "path": "temporary/faded-tool-420.txt",
+      "sha256": "644c5578cb60efee00b439d1c257bf5a650b6db2e7d3c02e3d1f3264dd508ac4",
+      "capture_method": "web_tool_cached_transcription",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "stored_in_repository": false
+    },
+    {
+      "path": "temporary/faded-tool-650.txt",
+      "sha256": "6198cd17b7ececc8ff8e056fc4416fd4e99dcb344d6302e5995180a1f3738523",
+      "capture_method": "web_tool_cached_transcription",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "stored_in_repository": false
+    },
+    {
+      "path": "temporary/faded-tool-860.txt",
+      "sha256": "b28bfa177d80a1c0f68ef5d5f8ead7f556abe94c0c260c843fd20dbae0ee1dfd",
+      "capture_method": "web_tool_cached_transcription",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "stored_in_repository": false
+    },
+    {
+      "path": "temporary/faded-tool-multi.txt",
+      "sha256": "6b571e995c141cda0bdde30fa56e6a219edd3da409d4bb86955880cb46243d97",
+      "capture_method": "web_tool_cached_transcription",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "stored_in_repository": false
+    }
+  ],
+  "source_figures": [
+    {
+      "name": "Eback",
+      "url": "https://www.fadedpage.com/books/20180126/images/Eback.jpg",
+      "sha256": "3482e4df3292166b8d9ad5b62c9e602157716232f3d2713e5d3eb8d89d963010",
+      "bytes": 4493,
+      "image_checked": true,
+      "rotation": -90
+    },
+    {
+      "name": "Fface",
+      "url": "https://www.fadedpage.com/books/20180126/images/Fface.jpg",
+      "sha256": "fba14dde603f06751802a562adbdbe427706eed171d0ebe655148d6018b8a3e0",
+      "bytes": 4099,
+      "image_checked": true,
+      "rotation": 90
+    },
+    {
+      "name": "Fback",
+      "url": "https://www.fadedpage.com/books/20180126/images/Fback.jpg",
+      "sha256": "e6b46db8391cf2faa9b114cfea4c23338dee9e50568aae27f49a389e5acf5025",
+      "bytes": 4096,
+      "image_checked": true,
+      "rotation": -90
+    }
+  ],
+  "limitations": [
+    "工具缓存与网页转录，不声称核过1939纸本或全书。",
+    "文字覆盖、格式检查、AI修订与人工审校分别记。",
+    "图形按原图方向重绘，非原刊影印；朗读不念图形。",
+    "104条新增注释均缩限为项目试读或待考；未核中日译本原页与逐项历史、语源。"
+  ]
+}

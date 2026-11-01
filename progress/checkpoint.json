@@ -1,16 +1,14 @@
 {
-  "chapter": "I.1",
+  "chapter": "I.2",
   "next": [
-    8,
-    5
+    30,
+    1
   ],
-  "next_original": "Penetrators are permitted into the museomound free.",
+  "next_original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen",
   "updated": "2026-11-01",
   "notes": [
-    "顺序合入003.01–008.04。005.26与006.30各有同一行拆段，已分别合并为005.13–006.12与006.13–007.15；保留最初draft及原始交稿快照。",
-    "007.16–008.04按见证本改第二个Bronto为Brunto；该段旧音频暂缓。",
-    "008.05起的博物馆工作稿含整句增删，暂存reports/quarantine/fw-i1-008-06.json；010.24起的后续工作稿亦暂存，不越过缺口推进断点。",
-    "AI复核修正provost主体遗漏、银白误作金色、baronoath无据定址、Moret图版署名与伪HCE藏头。其他多语声义和部分注释仍待专门核证，未作人工审校。",
-    "详见reports/reviews/gemini-I-1-004-012-integration.r0.md与整合处置。首尾对读样稿未改，不计入连续完成范围。"
+    "I.1正文003.01–029.36已核连续覆盖，共27页；本轮作AI首轮校订，非人工终审。",
+    "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。",
+    "I.2从030.01续译；开始前在见证本重核锚句，不沿用旧省略号锚句。"
   ]
 }
