@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-02",
+  "kind": "local_tts_runtime_repair",
+  "diagnosis": {
+    "checkpoint_diagnosis": {
+      "path": "models/Vertin/Vertin_e2_s154_l32.pth",
+      "header": "PK",
+      "upstream_detected": [
+        "v1",
+        "v1",
+        false
+      ],
+      "metadata_model_version": "v4",
+      "metadata_lora_rank": 32,
+      "corrected_classification": [
+        "v2",
+        "v4",
+        true
+      ],
+      "weights_modified": false,
+      "third_party_source_modified": false
+    },
+    "short_phrase": "Now to the obverse.",
+    "seed": 20261102,
+    "reference": "e1",
+    "waveforms": [
+      {
+        "wav": "smoke-cpu-parallel-no.wav",
+        "sample_rate": 32000,
+        "duration_sec": 57.12,
+        "mean": -0.02363806230013444,
+        "standard_deviation": 0.0010823321725855583,
+        "rms": 0.023662828069291524,
+        "dc_rms_ratio": 0.9989533892954569
+      },
+      {
+        "wav": "smoke-cpu-parallel-yes-unfixed.wav",
+        "sample_rate": 32000,
+        "duration_sec": 57.12,
+        "mean": -0.1172842726987951,
+        "standard_deviation": 0.006942264431615999,
+        "rms": 0.11748955552696509,
+        "dc_rms_ratio": 0.9982527567897482
+      },
+      {
+        "wav": "smoke-cpu-parallel-yes.wav",
+        "sample_rate": 48000,
+        "duration_sec": 1.2,
+        "mean": 1.9131766425238716e-06,
+        "standard_deviation": 0.05376890185372908,
+        "rms": 0.0537689018877659,
+        "dc_rms_ratio": 3.558147135898973e-05
+      },
+      {
+        "wav": "smoke-mps-parallel-yes-unfixed.wav",
+        "sample_rate": 32000,
+        "duration_sec": 20.62,
+        "mean": -0.05562509699543047,
+        "standard_deviation": 0.004251967439588247,
+        "rms": 0.055787369922397016,
+        "dc_rms_ratio": 0.9970912246411281
+      },
+      {
+        "wav": "smoke-mps-parallel-yes.wav",
+        "sample_rate": 48000,
+        "duration_sec": 1.2,
+        "mean": 6.691084967719184e-06,
+        "standard_deviation": 0.05148667143101131,
+        "rms": 0.05148667186579002,
+        "dc_rms_ratio": 0.00012995761281989234
+      }
+    ],
+    "semantic_logs": {
+      "smoke-mps.log": [
+        "T2S Decoding EOS [197 -> 739]"
+      ],
+      "smoke-mps-fixed.log": [],
+      "smoke-cpu-serial.log": [],
+      "smoke-mps-fixed-v2.log": [
+        "T2S Decoding EOS [197 -> 229]"
+      ],
+      "smoke-cpu.log": [
+        "use early stop num: 2700",
+        "T2S Decoding EOS [197 -> 1697]"
+      ],
+      "smoke-cpu-fixed.log": [
+        "T2S Decoding EOS [197 -> 229]"
+      ]
+    }
+  },
+  "state_at_intake": {
+    "registered_local": 12,
+    "valid_public_bindings": 9,
+    "stale_original_bindings": [
+      "fw-i3-067-28",
+      "fw-i3-069-30",
+      "fw-i3-072-17"
+    ]
+  },
+  "generation": {
+    "device": "mps",
+    "queue": "Book I only, 91 segments; skip 9 existing current recordings; prioritize 3 stale recordings",
+    "storage": "New recordings go to run-dir/candidates with provenance and pending review; public index is unchanged.",
+    "limits": "Short-phrase waveform and termination diagnostics, not full speech transcription or voice-quality review. Background progress does not mean completion."
+  },
+  "changes": [
+    "Classify legacy ZIP v4 LoRA by explicit model version, rank and adapter tensors for that exact weights path; original weights and third-party sources unchanged.",
+    "Reject empty, near-DC or anomalously long group outputs.",
+    "Check original fingerprints before skipping, freeze source in background queue, use locks and atomic media/index writes.",
+    "Quarantine candidates with provenance; exit nonzero when retry budget is exhausted."
+  ]
+}

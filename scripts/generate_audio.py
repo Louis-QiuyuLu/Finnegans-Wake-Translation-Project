@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """用本机 GPT-SoVITS 模型生成英文段落音频；发音拆读属于近似方案。"""
 import argparse
+from contextlib import contextmanager
+import fcntl
+from datetime import datetime, timezone
+import tempfile
 import hashlib
 import shutil
 import json
@@ -26,8 +30,8 @@ def find_model_dir(preferred=None):
     raise FileNotFoundError("未找到模型，请用 --model-dir 指定模型目录。")
 
 
-def load_segments():
-    chapters_dir = ROOT / "manuscript/chapters"
+def load_segments(chapters_dir=None):
+    chapters_dir = Path(chapters_dir) if chapters_dir else ROOT / "manuscript/chapters"
     segments = []
     for chapter_file in sorted(chapters_dir.glob("*.json")):
         with open(chapter_file, "r", encoding="utf-8") as f:
@@ -42,13 +46,30 @@ def load_segments():
     return segments
 
 
-def init_tts_pipeline(model_dir, variant="vertin"):
+def checkpoint_model_kind(checkpoint, detected):
+    config = checkpoint.get("config", {})
+    config = config if isinstance(config, dict) else vars(config)
+    model = config.get("model", {})
+    model = model if isinstance(model, dict) else vars(model)
+    model_version = model.get("version")
+    rank = checkpoint.get("lora_rank", 0)
+    weights = checkpoint.get("weight", {})
+    if (model_version == "v4" and isinstance(rank, int) and rank > 0
+            and any(key.startswith("cfm.") and ".lora_A." in key for key in weights)):
+        return ("v2", "v4", True)
+    return tuple(detected)
+
+
+def init_tts_pipeline(model_dir, variant="vertin", device="cpu"):
     os.chdir(TOOLS_DIR)
     sys.path.insert(0, str(TOOLS_DIR))
     sys.path.insert(0, str(TOOLS_DIR / "GPT_SoVITS"))
 
     import torch
     torch.set_num_threads(8)
+    if device == "mps" and not torch.backends.mps.is_available():
+        raise RuntimeError("MPS 不可用")
+    print(f"正在加载模型，device={device}", flush=True)
 
     from GPT_SoVITS.TTS_infer_pack.TTS import TTS, TTS_Config
 
@@ -68,7 +89,7 @@ def init_tts_pipeline(model_dir, variant="vertin"):
 
     config_dict = {
         "custom": {
-            "device": "cpu",
+            "device": device,
             "is_half": False,
             "version": "v4",
             "t2s_weights_path": str(t2s_ckpt),
@@ -78,7 +99,36 @@ def init_tts_pipeline(model_dir, variant="vertin"):
         }
     }
     tts_config = TTS_Config(config_dict)
-    return TTS(tts_config)
+    # Legacy ZIP LoRA files lack the newer two-byte version header. The upstream
+    # size heuristic then misidentifies this 72 MB v4 adapter as a full v1 model.
+    # Correct this exact path from its metadata, without editing source or weights.
+    import importlib
+    module = importlib.import_module("GPT_SoVITS.TTS_infer_pack.TTS")
+    from process_ckpt import load_sovits_new
+    detector = module.get_sovits_version_from_path_fast
+    detected = detector(str(vits_pth))
+    kind = checkpoint_model_kind(load_sovits_new(str(vits_pth)), detected)
+    if kind != tuple(detected):
+        print(f"权重元数据兼容: {tuple(detected)} -> {kind}; {vits_pth}", flush=True)
+        target = vits_pth.resolve()
+        def compatible_detector(path):
+            return kind if Path(path).resolve() == target else detector(path)
+        module.get_sovits_version_from_path_fast = compatible_detector
+    try:
+        pipeline = TTS(tts_config)
+    finally:
+        module.get_sovits_version_from_path_fast = detector
+    print(f"模型加载完成，device={pipeline.configs.device}", flush=True)
+    return pipeline
+
+
+def validate_group_audio(text, duration_sec, mean, rms):
+    # Broad anomaly bounds, not a substitute for listening or transcription.
+    maximum = max(12.0, 1.4 * len(text.split()) + 3.0)
+    if duration_sec <= 0 or duration_sec > maximum:
+        raise RuntimeError(f"合成时长异常，隔离待查: {duration_sec:.2f}s / {text[:100]}")
+    if rms <= 0 or abs(mean) / rms >= 0.95:
+        raise RuntimeError(f"合成波形近乎直流或无声，隔离待查: {text[:100]}")
 
 
 def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, steps=32):
@@ -96,6 +146,7 @@ def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, s
     chunks.append(np.zeros(int(sr * 0.06), dtype=np.int16))
 
     for idx, (group_text, pause_sec) in enumerate(sense_groups):
+        print(f"意群 {idx + 1}/{len(sense_groups)}: {group_text[:100]}", flush=True)
         inputs = {
             "text": group_text,
             "text_lang": "en",
@@ -119,7 +170,12 @@ def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, s
             group_audio = fragment
 
         if group_audio is not None and len(group_audio) > 0:
+            values = group_audio.astype(np.float64)
+            validate_group_audio(group_text, len(group_audio) / sr, float(values.mean()),
+                                 float(np.sqrt(np.mean(values * values))))
             chunks.append(group_audio)
+        else:
+            raise RuntimeError(f"意群未生成语音: {group_text[:100]}")
 
         # 末尾标点停顿
         if idx == len(sense_groups) - 1:
@@ -133,16 +189,92 @@ def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, s
     return sr, np.concatenate(chunks)
 
 
-def register_audio(segment, audio_dir):
+def file_hash(path):
+    digest = hashlib.sha256()
+    with Path(path).open("rb") as handle:
+        for block in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def original_hash(segment):
+    return hashlib.sha256(segment["original"].encode("utf-8")).hexdigest()
+
+
+@contextmanager
+def audio_index_lock(audio_dir):
     audio_dir = Path(audio_dir)
-    path = audio_dir / "index.json"
-    index = json.loads(path.read_text()) if path.exists() else {"engine":"GPT-SoVITS", "language":"en", "tracks":[]}
-    entry = {"segment_id":segment["id"], "file":segment["id"]+".mp3", "original_sha256":hashlib.sha256(segment["original"].encode()).hexdigest()}
+    audio_dir.mkdir(parents=True, exist_ok=True)
+    # Keep the lock inode in place; deleting it would split concurrent writers.
+    with (audio_dir / ".index.lock").open("a") as handle:
+        fcntl.flock(handle, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(handle, fcntl.LOCK_UN)
+
+
+def atomic_json(path, data):
+    path = Path(path)
+    with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent,
+                                     prefix="." + path.name + ".", suffix=".tmp", delete=False) as handle:
+        temporary = Path(handle.name)
+        try:
+            json.dump(data, handle, ensure_ascii=False, indent=2)
+            handle.write("\n")
+            handle.flush()
+            os.fsync(handle.fileno())
+        except BaseException:
+            temporary.unlink(missing_ok=True)
+            raise
+    try:
+        temporary.replace(path)
+    finally:
+        temporary.unlink(missing_ok=True)
+
+
+def _register_audio_unlocked(segment, audio_dir):
+    path = Path(audio_dir) / "index.json"
+    index = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+    entry = {"segment_id": segment["id"], "file": segment["id"] + ".mp3",
+             "original_sha256": original_hash(segment)}
     index["tracks"] = [t for t in index["tracks"] if t["segment_id"] != segment["id"]] + [entry]
     index["tracks"].sort(key=lambda t: t["segment_id"])
-    temporary = path.with_suffix(".tmp")
-    temporary.write_text(json.dumps(index,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    temporary.replace(path)
+    atomic_json(path, index)
+
+
+def register_audio(segment, audio_dir):
+    with audio_index_lock(audio_dir):
+        _register_audio_unlocked(segment, audio_dir)
+
+
+def audio_is_current(segment, audio_dir=AUDIO_DIR):
+    audio_dir = Path(audio_dir)
+    with audio_index_lock(audio_dir):
+        index_path = audio_dir / "index.json"
+        if not index_path.exists():
+            return False
+        index = json.loads(index_path.read_text(encoding="utf-8"))
+        matches = [t for t in index.get("tracks", []) if t["segment_id"] == segment["id"]]
+        if len(matches) != 1:
+            return False
+        track = matches[0]
+        path = audio_dir / track["file"]
+        return (track.get("original_sha256") == original_hash(segment)
+                and path.is_file() and path.stat().st_size > 0)
+
+
+def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None):
+    candidate = Path(candidate)
+    if not candidate.is_file() or candidate.stat().st_size == 0:
+        raise ValueError("MP3 文件为空")
+    with audio_index_lock(audio_dir):
+        current = load_segments() if current_segments is None else current_segments
+        matches = [s for s in current if s["id"] == segment["id"]]
+        if len(matches) != 1 or matches[0]["original"] != segment["original"]:
+            raise RuntimeError(f"原文已改变，停止登记: {segment['id']}")
+        candidate.replace(Path(audio_dir) / (segment["id"] + ".mp3"))
+        _register_audio_unlocked(segment, audio_dir)
 
 
 def main():
@@ -154,7 +286,11 @@ def main():
     parser.add_argument("--steps", type=int, default=32, help="CFM 采样步数（默认 32，采样步数不保证特定音质）")
     parser.add_argument("--ref", type=str, default="sisyphus2", help="参考音频名称（默认 sisyphus2《西西弗神话》深沉澄澈英音）")
     parser.add_argument("--model-dir", type=Path, help="本机模型目录；默认 models/Vertin")
+    parser.add_argument("--device", choices=["cpu", "mps"], default="cpu")
+    parser.add_argument("--expected-original-sha256", help="批处理冻结原文指纹；不符则中止")
+    parser.add_argument("--audio-dir", type=Path, default=AUDIO_DIR, help="输出目录；批处理另存候选录音")
     args = parser.parse_args()
+    audio_dir = args.audio_dir.resolve()
 
     model_dir = find_model_dir(args.model_dir)
 
@@ -170,15 +306,23 @@ def main():
 
     if ref_text_file.exists() and ref_text_file.stat().st_size > 0:
         prompt_text = ref_text_file.read_text(encoding="utf-8").strip()
+        prompt_source = str(ref_text_file)
     elif args.ref == "e3":
+        prompt_source = "builtin:e3"
         prompt_text = "I've signed a peace agreement with O'Connor, and the price of breaking it is death. Yes."
     else:
-        prompt_text = (model_dir / "references/e1.txt").read_text(encoding="utf-8").strip()
+        prompt_source = str(model_dir / "references/e1.txt")
+        prompt_text = Path(prompt_source).read_text(encoding="utf-8").strip()
 
-    AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+    audio_dir.mkdir(parents=True, exist_ok=True)
     segments = load_segments()
     if args.segment:
         segments = [s for s in segments if s["id"] == args.segment]
+        if len(segments) != 1:
+            raise ValueError(f"段落不存在或重复: {args.segment}")
+    if args.expected_original_sha256:
+        if len(segments) != 1 or original_hash(segments[0]) != args.expected_original_sha256:
+            raise RuntimeError("原文与批处理冻结指纹不符")
 
     print(f"找到 {len(segments)} 个段落需处理。音色参考: {args.ref}，设定语速: {args.speed}x，CFM步数: {args.steps}")
     tts_pipeline = None
@@ -187,16 +331,16 @@ def main():
 
     for i, seg in enumerate(segments, 1):
         sid = seg["id"]
-        mp3_path = AUDIO_DIR / f"{sid}.mp3"
-        wav_path = AUDIO_DIR / f"{sid}.wav"
+        mp3_path = audio_dir / f"{sid}.mp3"
 
-        if mp3_path.exists() and not args.force:
-            print(f"[{i}/{len(segments)}] {sid} ({seg['locator']}) 音频已存在，跳过。")
+
+        if not args.force and audio_is_current(seg, audio_dir):
+            print(f"[{i}/{len(segments)}] {sid} ({seg['locator']}) 录音非空且原文指纹相符，跳过。")
             continue
 
         print(f"[{i}/{len(segments)}] 正在生成 {sid} ({seg['locator']})...")
         if tts_pipeline is None:
-            tts_pipeline = init_tts_pipeline(model_dir, variant=args.model)
+            tts_pipeline = init_tts_pipeline(model_dir, variant=args.model, device=args.device)
 
         sample_rate, full_audio = synthesize_segment(
             tts_pipeline,
@@ -211,21 +355,34 @@ def main():
             print(f"警告: {sid} 未生成任何音频数据！")
             continue
 
-        sf.write(str(wav_path), full_audio, sample_rate)
-
-        # 转换为广播级高品质 MP3 (192k) 并注入人声母带滤镜：
-        # 沿用既有滤镜参数，不声称经过原声声学验证：温润胸腔共振（200Hz +1.5dB）、消除3.2kHz砂砾高频沙哑、统一声学响度（-21.0 LUFS，LRA=3）
-        filter_str = "highpass=f=60,equalizer=f=200:t=q:w=1.2:g=1.5,loudnorm=I=-21:TP=-1.5:LRA=3"
-        subprocess.run([
-            shutil.which("ffmpeg") or "ffmpeg", "-y", "-i", str(wav_path),
-            "-af", filter_str,
-            "-codec:a", "libmp3lame", "-b:a", "192k", str(mp3_path)
-        ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
-
-        register_audio(seg, AUDIO_DIR)
-
-        if wav_path.exists():
-            wav_path.unlink()
+        # Both temporary media files stay on the destination filesystem.
+        with tempfile.TemporaryDirectory(prefix=".generate-", dir=audio_dir) as temporary:
+            wav_path = Path(temporary) / "speech.wav"
+            candidate = Path(temporary) / "speech.mp3"
+            sf.write(str(wav_path), full_audio, sample_rate)
+            filter_str = "highpass=f=60,equalizer=f=200:t=q:w=1.2:g=1.5,loudnorm=I=-21:TP=-1.5:LRA=3"
+            subprocess.run([
+                shutil.which("ffmpeg") or "ffmpeg", "-y", "-i", str(wav_path),
+                "-af", filter_str, "-codec:a", "libmp3lame", "-b:a", "192k", str(candidate)
+            ], stdout=subprocess.DEVNULL, check=True)
+            provenance = {
+                "segment_id": sid, "original_sha256": original_hash(seg),
+                "audio_sha256": file_hash(candidate), "review_status": "pending",
+                "generated_at": datetime.now(timezone.utc).isoformat(),
+                "actual_device": str(tts_pipeline.configs.device),
+                "model_version": tts_pipeline.configs.version,
+                "prompt_text_source": prompt_source,
+                "prompt_text_sha256": hashlib.sha256(prompt_text.encode("utf-8")).hexdigest(),
+                "parameters": {"model": args.model, "ref": args.ref, "speed": args.speed,
+                               "steps": args.steps, "sample_rate": sample_rate,
+                               "duration_sec": len(full_audio) / sample_rate},
+                "assets": [{"path": str(path), "sha256": file_hash(path)} for path in
+                           [Path(tts_pipeline.configs.t2s_weights_path),
+                            Path(tts_pipeline.configs.vits_weights_path), ref_audio]
+                           + ([Path(prompt_source)] if Path(prompt_source).is_file() else [])],
+            }
+            atomic_json(audio_dir / (sid + ".provenance.json"), provenance)
+            publish_audio(seg, candidate, audio_dir)
 
         size_kb = mp3_path.stat().st_size / 1024
         duration = len(full_audio) / sample_rate
