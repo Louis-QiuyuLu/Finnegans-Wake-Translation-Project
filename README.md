@@ -6,9 +6,11 @@
 
 循河入梦，逐字寻声。
 
-动机来自现代物理学的一段命名史。默里·盖尔曼（Murray Gell-Mann）借佛教“八正道”之名，将基于 $\mathrm{SU}(3)$ 对称性的强子分类称为“八重法”（Eightfold Way）。他为夸克命名时，先想到近似“kwork”的读音，后来从《芬尼根的守灵夜》第383页的“Three quarks for Muster Mark!”取来 quark 这个拼写。在最简单的夸克模型中，重子由三个夸克组成，介子由夸克与反夸克组成。[盖尔曼自述](https://www.webofstories.com/play/murray.gell-mann/116) · [Harald Fritzsch 的回忆与物理说明](https://cerncourier.com/a/strong-interactions/)
+动机源于现代物理学一段奇妙的命名渊源。以博闻强识为人熟知的物理学家默里·盖尔曼（Murray Gell-Mann），向来精于在人文意象与前沿科学间织造隐喻——他曾借佛教解脱苦难的“八正道”（Noble Eightfold Path），借喻基于 $\mathfrak{su}(3)$ 对称性整理介子与重子的“八重法”分类体系；而在构想构成强子的更深层基本粒子模型时，他起初脑海中只有类似“kwork”的声音，迟迟未定下拼写。直到翻开晦涩难解的《芬尼根的守灵夜》，他在第383页撞见如海鸟啼鸣般的诗句：“Three quarks for Muster Mark!”。冷僻的嘶鸣既具海鸥呼号的声色，又恰好契合强子由三枚亚原子粒子构成的架构，就此定格为物理学界最著名的粒子命名：quark（夸克）。
 
-科学从文学借来一个名字，也为阅读留下一条入口。希望这段互文能让人放慢脚步，循着声音与字词，走进乔伊斯的梦。
+[盖尔曼自述](https://www.webofstories.com/play/murray.gell-mann/116) · [Harald Fritzsch 的回忆与物理说明](https://cerncourier.com/a/strong-interactions/)
+
+在这个注意力稀缺的时代，或许这种科学与文学的互文，能让人静下心来，体会洗尽铅华的真实与美。
 
 这个工程逐段翻译《芬尼根的守灵夜》，保存底本、初译、修订、译注与异译，再从同一份稿件生成网页和 EPUB。
 
