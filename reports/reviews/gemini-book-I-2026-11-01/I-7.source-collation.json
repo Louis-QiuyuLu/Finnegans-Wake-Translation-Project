@@ -1,0 +1,132 @@
+{
+  "chapter": "I.7",
+  "input_sha256": "d9a7342d5135c5f95af0c26ef0b85416df2656d5bf2fc7e4100c639df89b0a23",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_169",
+    "https://www.finnegansweb.com/wiki/index.php/Page_170",
+    "https://www.finnegansweb.com/wiki/index.php/Page_171",
+    "https://www.finnegansweb.com/wiki/index.php/Page_172",
+    "https://www.finnegansweb.com/wiki/index.php/Page_173",
+    "https://www.finnegansweb.com/wiki/index.php/Page_174",
+    "https://www.finnegansweb.com/wiki/index.php/Page_175",
+    "https://www.finnegansweb.com/wiki/index.php/Page_176",
+    "https://www.finnegansweb.com/wiki/index.php/Page_177",
+    "https://www.finnegansweb.com/wiki/index.php/Page_178",
+    "https://www.finnegansweb.com/wiki/index.php/Page_179",
+    "https://www.finnegansweb.com/wiki/index.php/Page_180",
+    "https://www.finnegansweb.com/wiki/index.php/Page_181",
+    "https://www.finnegansweb.com/wiki/index.php/Page_182",
+    "https://www.finnegansweb.com/wiki/index.php/Page_183",
+    "https://www.finnegansweb.com/wiki/index.php/Page_184",
+    "https://www.finnegansweb.com/wiki/index.php/Page_185",
+    "https://www.finnegansweb.com/wiki/index.php/Page_186",
+    "https://www.finnegansweb.com/wiki/index.php/Page_187",
+    "https://www.finnegansweb.com/wiki/index.php/Page_188",
+    "https://www.finnegansweb.com/wiki/index.php/Page_189",
+    "https://www.finnegansweb.com/wiki/index.php/Page_190",
+    "https://www.finnegansweb.com/wiki/index.php/Page_191",
+    "https://www.finnegansweb.com/wiki/index.php/Page_192",
+    "https://www.finnegansweb.com/wiki/index.php/Page_193",
+    "https://www.finnegansweb.com/wiki/index.php/Page_194",
+    "https://www.finnegansweb.com/wiki/index.php/Page_195"
+  ],
+  "candidate_words": 9458,
+  "witness_words": 9458,
+  "similarity": 1.0,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i7-169-01",
+      "note_id": "i7-humphrey-chimpden-son",
+      "lemma": "Humphrey Chimpden's elder elder son."
+    },
+    {
+      "segment_id": "fw-i7-169-01",
+      "note_id": "i7-low-sham-pun",
+      "lemma": "the low sham he is."
+    },
+    {
+      "segment_id": "fw-i7-169-01",
+      "note_id": "i7-bodily-degenerate-lombroso",
+      "lemma": "a bodily degenerate, crooked and warped in every limb"
+    },
+    {
+      "segment_id": "fw-i7-169-01",
+      "note_id": "i7-canned-salmon-diet",
+      "lemma": "canned salmon instead of good Irish mutton"
+    },
+    {
+      "segment_id": "fw-i7-169-01",
+      "note_id": "i7-shem-the-penman",
+      "lemma": "Shem the Penman"
+    },
+    {
+      "segment_id": "fw-i7-172-11",
+      "note_id": "i7-ww1-coward-zurich",
+      "lemma": "fight for King and Country and the small nations"
+    },
+    {
+      "segment_id": "fw-i7-172-11",
+      "note_id": "i7-scandalous-manuscripts",
+      "lemma": "scandalous manuscripts that no honest publisher would touch with a bargepole"
+    },
+    {
+      "segment_id": "fw-i7-175-29",
+      "note_id": "i7-first-riddle-universe",
+      "lemma": "the first riddle of the universe: asking, when is a man not a man?"
+    },
+    {
+      "segment_id": "fw-i7-175-29",
+      "note_id": "i7-answer-sham-shem",
+      "lemma": "Answer: when he is a — Sham."
+    },
+    {
+      "segment_id": "fw-i7-180-34",
+      "note_id": "i7-catalog-domestic-squalor",
+      "lemma": "catalog of squalor and debris in Shem's room"
+    },
+    {
+      "segment_id": "fw-i7-184-11",
+      "note_id": "i7-de-stercore-suo-alchemical",
+      "lemma": "made him one ink of his ink, de stercore suo"
+    },
+    {
+      "segment_id": "fw-i7-184-11",
+      "note_id": "i7-skin-integument-foolscap",
+      "lemma": "the only foolscap available, his own body... continuous present tense integument"
+    },
+    {
+      "segment_id": "fw-i7-184-11",
+      "note_id": "i7-stephens-blue-black",
+      "lemma": "a bottle of Stephens' blue-black"
+    },
+    {
+      "segment_id": "fw-i7-187-24",
+      "note_id": "i7-unnatural-son-ham-noah",
+      "lemma": "Mocking your father, slandering your mother"
+    },
+    {
+      "segment_id": "fw-i7-187-24",
+      "note_id": "i7-hellfire-sermon-portrait",
+      "lemma": "brimstone already singeing your rotten heels... worms of hell"
+    },
+    {
+      "segment_id": "fw-i7-193-31",
+      "note_id": "i7-mercius-confession",
+      "lemma": "MERCIUS (of hisself): Domine vopiscus! My fault, his fault, a very grievous fault"
+    },
+    {
+      "segment_id": "fw-i7-193-31",
+      "note_id": "i7-lifeline-rod-pen",
+      "lemma": "raising his wand, his lifeline"
+    },
+    {
+      "segment_id": "fw-i7-193-31",
+      "note_id": "i7-invocation-anna-livia",
+      "lemma": "Listen! She is coming! Anna Livia!"
+    }
+  ]
+}

@@ -1,0 +1,2531 @@
+[
+  {
+    "id": "joyce-fp",
+    "title": "James Joyce, Finnegans Wake：Faded Page 转录本",
+    "url": "https://www.fadedpage.com/books/20180126/html.php",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "edition": "Viking Press，1958 年第八印本，纳入作者勘误；1939 年首刊。",
+    "use": "第3页003.01–003.24、第4页004.01–004.17与末尾628.15–628.16文字见证；页行另核原排转录。只录入试译范围，未镜像整部电子书。"
+  },
+  {
+    "id": "fp-catalog",
+    "title": "Faded Page 书目与地区版权说明",
+    "url": "https://www.fadedpage.com/showbook.php?pid=20180126",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对书名、作者、出版年份和见证本。该站标明作品在加拿大属公有领域；此说明不代替其他地区判断。"
+  },
+  {
+    "id": "jjda",
+    "title": "James Joyce Digital Archive：Finnegans Wake",
+    "url": "https://jjda.ie/f/fwhome.htm",
+    "type": "archive",
+    "accessed": "2026-10-31",
+    "use": "版本、草稿与笔记入口。1939 与 2010 年版分别标记；不得混用页行。"
+  },
+  {
+    "id": "jjda-i1",
+    "title": "Danis Rose：A Chicken’s Guide，I.1",
+    "url": "https://jjda.ie/f/ff/app/chka.htm",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "核对第一章范围及首尾回环；释义作为具名研究意见引用。"
+  },
+  {
+    "id": "fw-page3",
+    "title": "FinnegansWiki：Page 3",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_3",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核对第 3 页全文页行、拼写及两处雷鸣词排印断字；社区释义与原著分开记录。"
+  },
+  {
+    "id": "fw-eve",
+    "title": "FinnegansWiki：Past Eve and Adam’s",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Past_Eve_and_Adam%27s",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "教堂名称与《创世记》倒序人名的释义线索。"
+  },
+  {
+    "id": "fw-vicus",
+    "title": "FinnegansWiki：By a commodius vicus of recirculation",
+    "url": "https://www.finnegansweb.com/wiki/index.php/By_a_commodius_vicus_of_recirculation",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "拉丁词形、维柯与回环的释义线索。"
+  },
+  {
+    "id": "fw-howth",
+    "title": "FinnegansWiki：Back to Howth Castle and Environs",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Back_to_Howth_Castle_and_Environs",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "地名及 HCE 字母组释义线索。"
+  },
+  {
+    "id": "reference-project",
+    "title": "QriDoki：in-search-of-lost-time-translation-project",
+    "url": "https://github.com/QriDoki/in-search-of-lost-time-translation-project",
+    "type": "project",
+    "accessed": "2026-10-31",
+    "use": "参考分阶段稿件、注释与网页／EPUB 同源发布流程；另参照 .ai/skills 的贡献、EPUB 整理、多角色翻译流程，改写本项目技能。未复制其代码与译文。"
+  },
+  {
+    "id": "joyce-weaver-1926",
+    "title": "Joyce 致 Harriet Shaw Weaver，1926-11-15：FinnegansWiki 转录",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Joyce%27s_letter_to_Harriet_Shaw_Weaver_of_15_November_1926",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "原信自释线索的社区转录；该页标 Letters I，247–248。当前仅查网页，未核信件原件或纸本页。信稿针对早期稿；不拿其中字样替换 1958 年见证本。"
+  },
+  {
+    "id": "fw-tristram",
+    "title": "FinnegansWiki：Tristram",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Tristram",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "特里斯坦传说、Amory Tristram 与地理叠影线索；爵号及史传未独立核实。"
+  },
+  {
+    "id": "fw-violer",
+    "title": "FinnegansWiki：Violer d’amores",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Violer_d%27amores",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "弦琴、演奏者、侵犯与情欲的并读线索；不复制外部释义正文。"
+  },
+  {
+    "id": "fw-penisolate",
+    "title": "FinnegansWiki：Penisolate war",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Penisolate_war",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "半岛、孤立、阴茎与孤笔等读路；具体历史所指仍待核。"
+  },
+  {
+    "id": "fw-topsawyer",
+    "title": "FinnegansWiki：Nor had topsawyer’s rocks",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Nor_had_topsawyer%27s_rocks",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "上锯手、Sawyer、石块与身体双关线索；页面与信稿涉及建城者之说有出入，未据此断定地方史。"
+  },
+  {
+    "id": "fw-gorgios",
+    "title": "FinnegansWiki：Laurens County’s gorgios",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Laurens_County%27s_gorgios",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核对非罗姆人与佐治亚州居民的叠音线索；尚待罗姆语词典复核。"
+  },
+  {
+    "id": "fw-doublin",
+    "title": "FinnegansWiki：While they went doublin their mumper all the time",
+    "url": "https://www.finnegansweb.com/wiki/index.php/While_they_went_doublin_their_mumper_all_the_time",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "翻倍、Dublin、乞人与 number 的声音线索。地方口号不据此直接当作史实。"
+  },
+  {
+    "id": "fw-isaac",
+    "title": "FinnegansWiki：Buttended a bland old isaac",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Buttended_a_bland_old_isaac",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Isaac Butt、顶替、以撒与 bland／blind 等释义线索。"
+  },
+  {
+    "id": "fw-sosie",
+    "title": "FinnegansWiki：Sosie sesthers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sosie_sesthers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "两位同名 Esther、重影与姊妹声形线索；不推定血缘。"
+  },
+  {
+    "id": "fw-twone",
+    "title": "FinnegansWiki：Twone nathandjoe",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Twone_nathandjoe",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "二／一与 Jonathan、Nathan、Joe 的拆换线索。"
+  },
+  {
+    "id": "fw-rotmalt",
+    "title": "FinnegansWiki：Rot a peck of pa’s malt",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Rot_a_peck_of_pa%27s_malt",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "否定变声、腐烂、彭斯歌与挪亚的交叠线索；尚未核对彭斯诗集原页。"
+  },
+  {
+    "id": "fw-jhemshen",
+    "title": "FinnegansWiki：Had Jhem or Shen",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Had_Jhem_or_Shen",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "酒名、人名与挪亚诸子的声音线索；不把社区推读当作唯一指认。"
+  },
+  {
+    "id": "fw-arclight",
+    "title": "FinnegansWiki：Brewed by arclight",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Brewed_by_arclight",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "弧光、虹弧与方舟光的读法线索。"
+  },
+  {
+    "id": "bible-gen27",
+    "title": "《创世记》27，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%2027&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核以撒、雅各、以扫与羊皮冒名及22–23节声音、毛皮辨认；不引用现成中译。"
+  },
+  {
+    "id": "bible-gen9",
+    "title": "《创世记》9，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%209&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核对 13–16 节虹约、18 节挪亚诸子及 20–21 节葡萄园与醉酒；只用于典故对照。"
+  },
+  {
+    "id": "bible-matt16",
+    "title": "《马太福音》16:18，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew%2016%3A18&version=KJV",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核对彼得与磐石句；不凭英语转录推定阿拉姆语词源。"
+  },
+  {
+    "id": "fw-fall",
+    "title": "FinnegansWiki：Fall",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Fall",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "酒歌、失乐与童谣坠落的并读线索。"
+  },
+  {
+    "id": "fw-wakesong",
+    "title": "《Finnegan’s Wake》酒歌：FinnegansWiki 转录",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Finnegan%27s_Wake",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "查阅跌梯、守灵、酒洒与复起的歌词转录；该页未注明所据早期谱本。只概括情节，不复制歌词。"
+  },
+  {
+    "id": "fw-thunder1",
+    "title": "FinnegansWiki：第一雷鸣词",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "多语雷声拆分线索；字母数另按本项目稿件核对，未逐语验证词源。"
+  },
+  {
+    "id": "fw-wallstrait",
+    "title": "FinnegansWiki：Wallstrait",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Wallstrait",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "墙、挺直、Wall Street 与坠落的释义线索；未据社区概述断定经济史所指。"
+  },
+  {
+    "id": "fw-oldparr",
+    "title": "FinnegansWiki：Oldparr",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Oldparr",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Old Parr、父亲声影及 par 面值等线索；长寿传说与酒名史未独立核实。"
+  },
+  {
+    "id": "fw-retaled",
+    "title": "FinnegansWiki：Retaled",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Retaled",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "重述、零售及裁衣词形的交叠线索。"
+  },
+  {
+    "id": "fw-pftjschute",
+    "title": "FinnegansWiki：Pftjschute",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Pftjschute",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "坠落拟声、chute 等读法线索；不照收未经验证的长链词源。"
+  },
+  {
+    "id": "fw-ersesolid",
+    "title": "FinnegansWiki：Erse solid man",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Erse_solid_man",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "爱尔兰语名、臀部、泥土与坚实等声形线索；待词典及原始歌本复核。"
+  },
+  {
+    "id": "fw-humptyhill",
+    "title": "FinnegansWiki：Humptyhillhead of humself",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Humptyhillhead_of_humself",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "童谣、驼背、山头与身体地景线索；尚未独立核对所列地图关系。"
+  },
+  {
+    "id": "fw-unquiring",
+    "title": "FinnegansWiki：Prumptly sends an unquiring one",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Prumptly_sends_an_unquiring_one",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "promptly／rump、探询词与 un- 的声音线索。"
+  },
+  {
+    "id": "fw-upturnpike",
+    "title": "FinnegansWiki：Upturnpikepointandplace",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Upturnpikepointandplace",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "路栅、矛尖与五段拆词线索；不据此确定路线或脚趾对应。"
+  },
+  {
+    "id": "fw-knockpark",
+    "title": "FinnegansWiki：Is at the knock out in the park",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Is_at_the_knock_out_in_the_park",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "山丘、击倒与公园地名线索；地图位置未另核。"
+  },
+  {
+    "id": "fw-oranges",
+    "title": "FinnegansWiki：Where oranges",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Where_oranges",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "橙子物象与政治颜色的释义线索，不代替政治史料。"
+  },
+  {
+    "id": "fw-rustgreen",
+    "title": "FinnegansWiki：Have been laid to rust upon the green",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Have_been_laid_to_rust_upon_the_green",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "rust／rest、安息及橙绿对照的读法线索；荷兰语词义待词典复核。"
+  },
+  {
+    "id": "fw-devlinslivvy",
+    "title": "FinnegansWiki：Since devlinsfirst loved livvy",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Since_devlinsfirst_loved_livvy",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Dublin、魔鬼、利菲河与人名的叠读线索；保留 1958 年见证本连写，不默换为其他版本。"
+  },
+  {
+    "id": "translation-dai-2025",
+    "title": "《文艺报》：戴从容访谈与2025年三册全译注释本",
+    "url": "https://wyb.chinawriter.com.cn/content/202607/31/content84784.html",
+    "type": "interview",
+    "accessed": "2026-10-31",
+    "use": "核对译者、简体全译注释本、2025年8月出版、两家出版社及译者所述18年历程；用于README译介背景，不表示已查阅译本原页。"
+  },
+  {
+    "id": "translation-liang-launch",
+    "title": "台湾师范大学：《芬尼根守靈》新书发布新闻稿",
+    "url": "https://www.eng.ntnu.edu.tw/wp-content/uploads/2024/12/new-FW%E6%96%B0%E6%9B%B8%E7%99%BC%E8%A1%A8%E6%9C%83-%E6%96%B0%E8%81%9E%E7%A8%BF1210_%E5%AE%9A%E7%A8%BF.pdf",
+    "type": "institutional",
+    "accessed": "2026-10-31",
+    "use": "核对梁孙杰汉语全译本及2025年1月12日新书发布安排；不把发布会日期当作版权页初版日期。"
+  },
+  {
+    "id": "translation-liang-interview",
+    "title": "书林出版：梁孙杰访谈《盲龜求浮木，心定道自明》",
+    "url": "https://www.bookman.com.tw/news/detail/43",
+    "type": "interview",
+    "accessed": "2026-10-31",
+    "use": "访谈于2025年1月20日进行，出版社网页标2026年1月29日；核对约12年的起算说明及更早片段尝试。"
+  },
+  {
+    "id": "translation-liang-publisher",
+    "title": "书林出版：梁孙杰全译本介绍",
+    "url": "https://www.bookman.com.tw/news/detail/24",
+    "type": "publisher",
+    "accessed": "2026-10-31",
+    "use": "核对书林出版与梁孙杰全译本；只登记译介背景，不引用现成译文。"
+  },
+  {
+    "id": "translation-suzuki-1969",
+    "title": "日本国立国会图书馆：铃木幸夫等《フィネガン徹夜祭》译解第11回",
+    "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I190139",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "检索书目记《早稻田文学》1(11)、1969年12月、72–77页、铃木幸夫等；仅核书目信息，未读馆内限定正文。"
+  },
+  {
+    "id": "translation-osawa-1978",
+    "title": "日本国立国会图书馆：《世界の文学》卷1",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001378445",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对集英社1978年6月刊本及大泽正佳等选译《守灵夜》五篇；不记作全译。"
+  },
+  {
+    "id": "translation-yanase-cinii",
+    "title": "CiNii：柳濑尚纪译《フィネガンズ・ウェイク》",
+    "url": "https://ci.nii.ac.jp/ncid/BN06806679",
+    "type": "catalog",
+    "accessed": "2026-10-31",
+    "use": "核对《I・II》《III・IV》两册及1991年9月至1993年10月刊行范围。"
+  },
+  {
+    "id": "translation-yanase-publisher",
+    "title": "河出书房新社：柳濑尚纪译《フィネガンズ・ウェイク III・IV》",
+    "url": "https://www.kawade.co.jp/np/isbn/9784309202280/",
+    "type": "publisher",
+    "accessed": "2026-10-31",
+    "use": "核对完结册1993年10月20日出版与柳濑尚纪署名；不沿用1991年已全译完成的说法。"
+  },
+  {
+    "id": "fw-page4",
+    "title": "FinnegansWiki：Page 4",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_4",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第4页自然段界、原排页行和词形；不是纸本扫描件。"
+  },
+  {
+    "id": "fw-oystrygods",
+    "title": "FinnegansWiki：Oystrygods",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Oystrygods",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "牡蛎／鱼神与东、西哥特声影线索；历史指认未独立查证。"
+  },
+  {
+    "id": "fw-baddelaries",
+    "title": "FinnegansWiki：Baddelaries",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Baddelaries",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "兵器名与诗人名等叠音线索；未核所引法文书原页。"
+  },
+  {
+    "id": "fw-malachus",
+    "title": "FinnegansWiki：Malachus Micgranes",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Malachus_Micgranes",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "刀剑、人名、偏头痛等释义线索；不确认唯一人物。"
+  },
+  {
+    "id": "fw-verdons",
+    "title": "FinnegansWiki：Verdons",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Verdons",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Verdun兵器、地名、家族名线索；不照录页面史述为事实。"
+  },
+  {
+    "id": "fw-whoyteboyce",
+    "title": "FinnegansWiki：Whoyteboyce",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Whoyteboyce",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "white boys、Whiteboys并读线索；组织史与所列市长未另核。"
+  },
+  {
+    "id": "fw-sodbrood",
+    "title": "FinnegansWiki：Sod’s brood",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sod%27s",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "泥土子孙与誓语变声线索。"
+  },
+  {
+    "id": "fw-bemefear",
+    "title": "FinnegansWiki：Be me fear",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Be_me_fear",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "fear／man等读路；爱尔兰语词义未用词典独立核验。"
+  },
+  {
+    "id": "fw-sanglorians",
+    "title": "FinnegansWiki：Sanglorians",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Sanglorians",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "血、荣耀、圣者呼号线索；具体人物与历史体系未核。"
+  },
+  {
+    "id": "fw-chancecuddleys",
+    "title": "FinnegansWiki：Chance cuddleys",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Chance_cuddleys",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "chance-medley、cuddle／cudgel读法线索；法律词义未查历史词典。"
+  },
+  {
+    "id": "fw-cashels",
+    "title": "FinnegansWiki：Cashels aired and ventilated",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Cashels_aired_and_ventilated",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "城堡、现金、通风与炮火线索；未核多语词源。"
+  },
+  {
+    "id": "fw-bidimetoloves",
+    "title": "FinnegansWiki：Bidimetoloves",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Bidimetoloves",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "Herrick诗句和教派对照线索；原诗另查RPO。"
+  },
+  {
+    "id": "fw-tegotetabsolvers",
+    "title": "FinnegansWiki：Tegotetabsolvers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Tegotetabsolvers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "告解赦罪公式的变形读法；公式另查梵蒂冈教理1449。"
+  },
+  {
+    "id": "fw-hayair",
+    "title": "FinnegansWiki：Their’s hayair",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Their%27s_hayair",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "hair、hay、heir及《创世记》触毛辨人线索；歌曲与操练史未核。"
+  },
+  {
+    "id": "fw-jiccup",
+    "title": "FinnegansWiki：Strawng voice of false jiccup",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Strawng_voice_of_false_jiccup",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "straw／strong、Jacob／hiccup线索；对照《创世记》27:22–23。"
+  },
+  {
+    "id": "fw-fanespanned",
+    "title": "FinnegansWiki：Fanespanned",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Fanespanned",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "fane／span等词形与句法线索；所提传抄讹误未核，不据此改底本。"
+  },
+  {
+    "id": "fw-softad",
+    "title": "FinnegansWiki：Soft advertisement",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Soft_advertisement",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "广告与求爱叠读线索；未核拉丁词源。"
+  },
+  {
+    "id": "fw-sewers",
+    "title": "FinnegansWiki：Ere were sewers",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Ere_were_sewers",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "sewers与sure／sœurs声音线索；未核草稿原页。"
+  },
+  {
+    "id": "fw-trees",
+    "title": "FinnegansWiki：Elms leap where askes lay",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Elms_leap_where_askes_lay",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "askes／ashes、elm／ash与新生线索；古诺斯神话、Ogham词源及手稿原页未核。"
+  },
+  {
+    "id": "fw-phoenish",
+    "title": "FinnegansWiki：Phoenish",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Phoenish",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "finish、phoenix、公园及腓尼基声形线索；不采用页面缺乏史据的撒盐叙述。"
+  },
+  {
+    "id": "aristophanes-frogs-johnston",
+    "title": "Aristophanes, Frogs：Ian Johnston英译",
+    "url": "https://web.viu.ca/johnstoi/aristophanes/frogs.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "查渡船与蛙群登场，网站括号希腊文行号约209–220；这是现代英译，未直接读希腊原文，不复制译诗。"
+  },
+  {
+    "id": "lsj-koax",
+    "title": "LSJ：κοάξ，Perseus Scaife ATLAS",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n58254a/",
+    "type": "dictionary",
+    "accessed": "2026-10-31",
+    "use": "核蛙鸣拟声及Frogs209引例；据在线词条，未核纸本。"
+  },
+  {
+    "id": "herrick-anthea",
+    "title": "Robert Herrick, To Anthea, who may Command him Anything：RPO",
+    "url": "https://rpo.library.utoronto.ca/content/anthea-who-may-command-him-anything",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "查1–4行live／Protestant／love及求爱宣誓义附注；RPO标1648年Hesperides底本。"
+  },
+  {
+    "id": "catechism-1449",
+    "title": "梵蒂冈：《天主教教理》拉丁文1449",
+    "url": "https://www.vatican.va/archive/catechism_lt/p2s2c2a4_lt.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核ego te absolvo公式及意义；现行教理不能单独证明Joyce取材路径。"
+  },
+  {
+    "id": "fw-page5",
+    "title": "FinnegansWiki：Page 5",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_5",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第5页自然段界、原排页行与词形；社区释义与原著分开记录。"
+  },
+  {
+    "id": "fw-page6",
+    "title": "FinnegansWiki：Page 6",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_6",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第6页芬尼根跌落断命、都柏林现代城防魔障与守灵哭灵歌段。"
+  },
+  {
+    "id": "fw-page7",
+    "title": "FinnegansWiki：Page 7",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_7",
+    "type": "community",
+    "accessed": "2026-10-31",
+    "use": "核第7页巨人巨躯化入都柏林地景、暴食谢饭祷与食尸圣餐。"
+  },
+  {
+    "id": "fw-page8",
+    "title": "FinnegansWiki：Page 8",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第8页威灵顿纪念碑巨冢、滑铁卢地景、二窥视村姑与国家博物馆全景俯瞰。"
+  },
+  {
+    "id": "moret-egypt",
+    "title": "Alexandre Moret: Rois et Dieux d'Égypte (1911)",
+    "url": "https://archive.org/details/roisetdieuxd00more",
+    "type": "secondary",
+    "accessed": "2026-10-31",
+    "use": "核第88页（see peegee ought he ought）奥西里斯于停尸灵榻平卧之照相插图（platterplate）。"
+  },
+  {
+    "id": "ibsen-solness",
+    "title": "Henrik Ibsen：Bygmester Solness（建筑大师）",
+    "url": "https://www.gutenberg.org/ebooks/4070",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核挪威文 Bygmester（建筑大师）及登高坠落母题对照。"
+  },
+  {
+    "id": "ballad-finnegan",
+    "title": "Traditional Ballad：Finnegan’s Wake",
+    "url": "https://www.traditionalmusic.co.uk/irish-songs/finnegans-wake.htm",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核泥水匠蒂姆·芬尼根饮酒、摔下梯子与威士忌复活民谣原词。"
+  },
+  {
+    "id": "bible-ot",
+    "title": "Old Testament：Joshua, Judges, Numbers, Leviticus, Deuteronomy",
+    "url": "https://www.biblegateway.com/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核约书亚记、士师记、民数记、利未记、申命记之旧约书卷编排。"
+  },
+  {
+    "id": "erigena",
+    "title": "Johannes Scotus Eriugena：De Divisione Naturae",
+    "url": "https://plato.stanford.edu/entries/scottus-eriugena/",
+    "type": "commentary",
+    "accessed": "2026-10-31",
+    "use": "核爱尔兰哲学家爱留根纳（Eriugena）自无化生（erigenating from next to nothing）思想线索。"
+  },
+  {
+    "id": "shakespeare-hamlet",
+    "title": "Shakespeare, Hamlet: Act V, Scene 1",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核掘墓人论亚当为首位佩带纹章／赤膊掘土贵人之台词（A was the first that ever bore arms）。"
+  },
+  {
+    "id": "bylina-buslaev",
+    "title": "Novgorod Byliny: Vasily Buslayev Cycle",
+    "url": "https://en.wikipedia.org/wiki/Vasily_Buslayev",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核俄罗斯诺夫哥罗德史诗英雄瓦西里·布斯拉耶夫（Vasily Buslayev）狂饮与民间武士形象。"
+  },
+  {
+    "id": "quran-arafat",
+    "title": "The Holy Quran & Islamic Traditions: Kaaba, Mount Arafat, Black Stone, Ansars",
+    "url": "https://quran.com/",
+    "type": "primary",
+    "accessed": "2026-10-31",
+    "use": "核麦加克尔白（cubehouse）、阿拉法特山神雷朝觐、自天坠落玄石（whitestone/Black Stone）及麦地那辅士（Ansars）典故。"
+  },
+  {
+    "id": "fw-page9",
+    "title": "FinnegansWiki：Page 9",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第9页滑铁卢展厅、贝尔彻勋爵披风、薄红战线、枫丹白露战术、阿金库尔挑衅及布吕歇尔十二哩马靴与健力士黑啤互文。"
+  },
+  {
+    "id": "fw-page10",
+    "title": "FinnegansWiki：Page 10",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第10页骆驼骑兵与索尔费里诺战役、双女林中惊逃、石墙威灵顿与杜利先生对话、印度西帕依雇佣兵击飞拿破仑帽及哥本哈根结局出馆叮嘱。"
+  },
+  {
+    "id": "waterloo-campaign",
+    "title": "Historical Records: Battle of Waterloo (1815) & Wellington Monuments",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核滑铁卢战役威灵顿公爵（Wellington）、拿破仑（Napoleon）、布吕歇尔（Blücher）、战马哥本哈根（Copenhagen）及都柏林威灵顿方尖碑史实对照。"
+  },
+  {
+    "id": "harriette-wilson",
+    "title": "Harriette Wilson: Memoirs (1825)",
+    "url": "https://archive.org/details/memoirsofharriet01wils",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核威灵顿公爵致名妓哈丽雅特·威尔逊敲诈信之名言'Publish and be damned!'（戏仿作 Figtreeyou! Damn fairy ann, Voutre）历史出处。"
+  },
+  {
+    "id": "dooley-hennessy",
+    "title": "Finley Peter Dunne: Mr. Dooley in Peace and in War (1898)",
+    "url": "https://www.gutenberg.org/ebooks/10803",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核爱尔兰裔美国讽刺作家邓恩笔下杜利先生（Mr. Dooley）与亨尼西（Hennessy）酒馆论政经典对话人物。"
+  },
+  {
+    "id": "fw-page11",
+    "title": "FinnegansWiki：Page 11",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第11页三鸦报信、战后残骸清扫妇安娜·利维娅拾荒囊袋（nabsack）、停战夜与夏娃盗取历史原罪典故。"
+  },
+  {
+    "id": "fw-page12",
+    "title": "FinnegansWiki：Page 12",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第12页负债度日（midst of debt）、文明牢笼（cell for citters）、卖泥炭妇吹旺营生（piff the business on）及矮胖子早餐煎蛋（eggs sunny side up）。"
+  },
+  {
+    "id": "piltdown-hoax",
+    "title": "The Piltdown Man Discovery and Hoax (1912)",
+    "url": "https://en.wikipedia.org/wiki/Piltdown_Man",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核英国萨塞克斯郡“皮尔当人”（Piltdown Man）史前人类化石伪造公案在'piltdowns'一词中的互文讽拟。"
+  },
+  {
+    "id": "push-business-on",
+    "title": "Traditional Singing Game: Push the Business On",
+    "url": "https://en.wikipedia.org/wiki/Push_the_Business_On",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核传统民间童谣歌舞游戏'Push the Business On'（戏作'to piff the business on'）出处与节律。"
+  },
+  {
+    "id": "rothschild-pigeon",
+    "title": "Historical Legend: Waterloo Carrier Pigeon and Nathan Rothschild",
+    "url": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核滑铁卢战役内森·罗斯柴尔德以信鸽传信抢先获知战报发迹之传说（wrothschields / pigeons pair are flewn）。"
+  },
+  {
+    "id": "fw-page13",
+    "title": "FinnegansWiki：Page 13",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第13页视听仪（optophone）、惠斯通魔琴、都柏林呼号、四大师编年史（Mammon Lujius）与四省物象。"
+  },
+  {
+    "id": "optophone",
+    "title": "Edmund Fournier d'Albe: The Optophone (1913)",
+    "url": "https://en.wikipedia.org/wiki/Optophone",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核物理学家阿尔伯发明之光声视听仪（Optophone），将印刷文本光影转换为声音之助盲发明在'optophone which ontophanes'中的声形互文。"
+  },
+  {
+    "id": "wheatstone-lyre",
+    "title": "Sir Charles Wheatstone: Acoustic and Musical Inventions",
+    "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核英国科学家惠斯通（Charles Wheatstone）发明之六角手风琴（concertina）与魔琴（magic lyre）声学实验。"
+  },
+  {
+    "id": "four-masters",
+    "title": "Annals of the Kingdom of Ireland (Annála Ríoghachta Éireann / Four Masters)",
+    "url": "https://en.wikipedia.org/wiki/Annals_of_the_Four_Masters",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核爱尔兰四大师编年史（Four Masters）与历史学家马莫·卢吉乌斯（Mammon Lujius）四省四象结构对照。"
+  },
+  {
+    "id": "piepowder-court",
+    "title": "Court of Piepowders (Curia Pedis Pulverisati)",
+    "url": "https://en.wikipedia.org/wiki/Court_of_Piepowders",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核中世纪英格兰集市为流动摊贩特设之灰脚简易法庭（Pieds Poudrés / Pied de Poudre）及都柏林火药库地名双关。"
+  },
+  {
+    "id": "fw-page14",
+    "title": "FinnegansWiki：Page 14",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第14页四条编年史纪事（1132 A.D.、566 A.D.、双生子卡迪与普利马斯）、抄经僧失落手卷及四大师隐名。"
+  },
+  {
+    "id": "brehon-law",
+    "title": "Ancient Laws of Ireland (Senchus Mór / Brehon Law)",
+    "url": "https://en.wikipedia.org/wiki/Early_Irish_law",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核古代爱尔兰布雷洪法典（Brehon Law / Senchus Mór）中杀人赎罪金（éric）、财产赔偿与过失罚金制。"
+  },
+  {
+    "id": "fw-page15",
+    "title": "FinnegansWiki：Page 15",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第15页自由之地都柏林花卉（Goatstown、Rush、Knockmaroon）、弗摩尔人与丹麦人千年交战及四大师和平花束。"
+  },
+  {
+    "id": "fw-page16",
+    "title": "FinnegansWiki：Page 16",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第16页史前古冢粗汉老乔（Sackerson/Partholon）、革命历月令、多语试探（丹麦语、挪威语、英语、盎格鲁撒克逊语）及穆特与朱特（Mutt and Jute）对话开篇。"
+  },
+  {
+    "id": "fw-page17",
+    "title": "FinnegansWiki：Page 17",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_17",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第17页穆特与朱特对话续篇（布赖恩·博鲁、克朗塔夫之战、历史垃圾场、都柏林原野挽歌及爱与死之墓园）。"
+  },
+  {
+    "id": "fw-page18",
+    "title": "FinnegansWiki：Page 18",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_18",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第18页穆特与朱特对话终曲（副王之墓 viceking's graab、石器时代 astoneaged 与雷殛 thonthorstrok）及泥土书（claybook）开篇。"
+  },
+  {
+    "id": "fw-page19",
+    "title": "FinnegansWiki：Page 19",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第19页泥土书符文、字母表训诂（allforabit）、垃圾堆（middenhide）、驱蛇圣帕特里克与史前断代。"
+  },
+  {
+    "id": "fw-page20",
+    "title": "FinnegansWiki：Page 20",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_20",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第20页波士顿来信（Boston Massachusetts）、母鸡贝琳达（Belinda / Biddy Doran）翻刨垃圾堆及羊皮纸泥印。"
+  },
+  {
+    "id": "fw-page21",
+    "title": "FinnegansWiki：Page 21",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第21页恶作剧女王（Prankquean）传奇第一折、霍斯伯爵霍特（Jarl van Hoother）闭门及第一道谜题。"
+  },
+  {
+    "id": "fw-page22",
+    "title": "FinnegansWiki：Page 22",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_22",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第22页恶作剧女王第二折与第三折、拐带双生子特里斯托弗与希拉里、四十年流浪与海盗盟约。"
+  },
+  {
+    "id": "fw-page23",
+    "title": "FinnegansWiki：Page 23",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_23",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第23页伯爵盛怒全副武装迎敌、雷鸣闭门停战协定（Shut!）及菲尼克斯原罪犯（O foenix culprit!）神学沉思。"
+  },
+  {
+    "id": "fw-page24",
+    "title": "FinnegansWiki：Page 24",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_24",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第24页新都柏林筑城、守灵夜场景、芬尼根灵前惊起（Anam muck an dhoul!）及吊唁酒客抚慰劝止。"
+  },
+  {
+    "id": "fw-page25",
+    "title": "FinnegansWiki：Page 25",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_25",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第25页守灵吊客名单、奉献祭品礼物、劝告安息莫起、爱尔兰芬尼安会及都柏林新秩序。"
+  },
+  {
+    "id": "fw-page26",
+    "title": "FinnegansWiki：Page 26",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_26",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第26页后继者取代逝者、市井万象生生不息、教堂修建与商业繁盛、安娜·利维娅主妇治家。"
+  },
+  {
+    "id": "fw-page27",
+    "title": "FinnegansWiki：Page 27",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第27页最后安抚芬尼根（Aisy now, you decent man!）、明示时代更迭、逝者归天安眠（Finn no more!）。"
+  },
+  {
+    "id": "fw-page28",
+    "title": "FinnegansWiki：Page 28",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第28页替罪继承者崛起、落幕散场哨声、第一章尾声长潮涌动及海鸥盘旋。"
+  },
+  {
+    "id": "fw-page29",
+    "title": "FinnegansWiki：Page 29",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_29",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核第29页第一章终曲、伊甸堡原罪喧嚣归结（hubbub caused in Edenborough）、首章落幕。"
+  },
+  {
+    "id": "prankquean",
+    "title": "Sir Henry Sidney：Memoir of 1576（格蕾丝·奥马利与霍斯城堡传奇）",
+    "url": "https://www.libraryireland.com/articles/GraceOMalleyDublinPennyJournal/",
+    "type": "historical",
+    "accessed": "2026-11-01",
+    "use": "恶作剧女王原型海盗女王格蕾丝·奥马利（Gráinne Mhaol）因闭门不纳而掳走伯爵继承人之爱尔兰历史掌故。"
+  },
+  {
+    "id": "felix-culpa",
+    "title": "Roman Catholic Easter Vigil：Exsultet（福之罪 / O felix culpa）",
+    "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020325_exsultet_en.html",
+    "type": "theological",
+    "accessed": "2026-11-01",
+    "use": "圣周六复活瞻礼颂歌'O certe necessarium Adæ peccatum... O felix culpa'神学意涵。"
+  },
+  {
+    "id": "clodd-alphabet",
+    "title": "Edward Clodd: The Story of the Alphabet (1900)",
+    "url": "https://archive.org/details/storyofalphabet00clodrich",
+    "type": "secondary",
+    "accessed": "2026-11-01",
+    "use": "核第89页泥板刻书（clay-books）、第122页字母表词源（aleph-beth / alphabet）及如尼符文（Futhorc）文字演进史考证。"
+  },
+  {
+    "id": "bible-dan5",
+    "title": "《但以理书》5，King James Version：Bible Gateway",
+    "url": "https://www.biblegateway.com/passage/?search=Daniel%205&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-01",
+    "use": "核第25–28节伯沙撒王宴席粉墙神迹题字'MENE, MENE, TEKEL, UPHARSIN'及但以理解释王国归于玛代波斯人经文。"
+  },
+  {
+    "id": "buddha-nidanas",
+    "title": "Buddhism: The Twelve Nidānas (Pratītyasamutpāda / 十二因缘)",
+    "url": "https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da",
+    "type": "theological",
+    "accessed": "2026-11-01",
+    "use": "核十二有支（无明、行、识、名色、六入、触、受、爱、取、有、生、老死）链条结构与动词对应关系。"
+  },
+  {
+    "id": "smollett-trilogy",
+    "title": "Tobias Smollett：Picaresque Novels (Roderick Random 1748, Peregrine Pickle 1751, Humphry Clinker 1771)",
+    "url": "https://www.britannica.com/biography/Tobias-Smollett",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "核第28-29页借斯摩莱特三部流浪汉小说（hooky salmon/smolt、rody ram lad at random、wife in pickle、three lice nittle clinkers）隐喻新一代巨灵继承人及其家眷。"
+  },
+  {
+    "id": "jjda-i2",
+    "title": "Danis Rose：A Chicken’s Guide，I.2",
+    "url": "https://jjda.ie/f/ff/app/chkb.htm",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "核对第二章整体结构、HCE起源传、公园遭遇战与皮尔斯·奥莱利民谣文本。"
+  },
+  {
+    "id": "fw-page30",
+    "title": "FinnegansWiki：Page 30",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_30",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第30页文本行、HCE绰号渊源起头、植物园、副名出现与国王行猎序幕。"
+  },
+  {
+    "id": "fw-page31",
+    "title": "FinnegansWiki：Page 31",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_31",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第31页文本行、巡察使/国王巡幸与路卡守门人对话、抓地蚕耳夹子（earwigs）故事。"
+  },
+  {
+    "id": "fw-page32",
+    "title": "FinnegansWiki：Page 32",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_32",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第32页文本行、国王赐封Earwicker名号、收费闸门（turnpike）与王室巡防。"
+  },
+  {
+    "id": "fw-page33",
+    "title": "FinnegansWiki：Page 33",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_33",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第33页文本行、城防守门人徽章、纹章学与都柏林城市守护者形象。"
+  },
+  {
+    "id": "fw-page34",
+    "title": "FinnegansWiki：Page 34",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_34",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第34页文本行、凤凰公园遭遇带烟斗的无赖汉（Cad with a pipe）、借火问时间序曲。"
+  },
+  {
+    "id": "fw-page35",
+    "title": "FinnegansWiki：Page 35",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_35",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第35页文本行、带烟斗无赖汉问询、HCE心虚结巴自白与断然否认罪愆。"
+  },
+  {
+    "id": "fw-page36",
+    "title": "FinnegansWiki：Page 36",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_36",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第36页文本行、HCE激烈申辩无罪、发誓不曾侵犯少女或士兵、双方作别。"
+  },
+  {
+    "id": "fw-page37",
+    "title": "FinnegansWiki：Page 37",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_37",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第37页文本行、无赖汉疑窦丛生、告别公园与怀恨揣测。"
+  },
+  {
+    "id": "fw-page38",
+    "title": "FinnegansWiki：Page 38",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_38",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第38页文本行、谣言发酵、无赖汉回家告知妻子、枕边细语传播流言。"
+  },
+  {
+    "id": "fw-page39",
+    "title": "FinnegansWiki：Page 39",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_39",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第39页文本行、妻子向神父/告解神父告密、宗教与家庭渠道的流言蔓延。"
+  },
+  {
+    "id": "fw-page40",
+    "title": "FinnegansWiki：Page 40",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_40",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第40页文本行、神父向医生走漏风声、流言进入酒肆与大众茶余饭后。"
+  },
+  {
+    "id": "fw-page41",
+    "title": "FinnegansWiki：Page 41",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_41",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第41页文本行、三名流民街头传抄、流言成为市井民谣素材。"
+  },
+  {
+    "id": "fw-page42",
+    "title": "FinnegansWiki：Page 42",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_42",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第42页文本行、都柏林酒馆与街道传唱、Hosty（霍斯蒂）写出讽刺歌谣。"
+  },
+  {
+    "id": "fw-page43",
+    "title": "FinnegansWiki：Page 43",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_43",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第43页文本行、民谣歌手聚集、游行集会与宣读皮尔斯·奥莱利歌谣序言。"
+  },
+  {
+    "id": "fw-page44",
+    "title": "FinnegansWiki：Page 44",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_44",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第44页文本行、《皮尔斯·奥莱利歌谣》（The Ballad of Persse O’Reilly）开唱与首段。"
+  },
+  {
+    "id": "fw-page45",
+    "title": "FinnegansWiki：Page 45",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_45",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第45页文本行、《皮尔斯·奥莱利歌谣》中段、讽刺HCE外貌、性丑闻与卑劣家底。"
+  },
+  {
+    "id": "fw-page46",
+    "title": "FinnegansWiki：Page 46",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_46",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第46页文本行、《皮尔斯·奥莱利歌谣》高潮、合唱嘲讽、市民起哄与下葬判词。"
+  },
+  {
+    "id": "fw-page47",
+    "title": "FinnegansWiki：Page 47",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_47",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第47页文本行、《皮尔斯·奥莱利歌谣》尾声合唱、第二章落幕、葬于牛人镇（Oxmanstown）。"
+  },
+  {
+    "id": "fw-page48",
+    "title": "FinnegansWiki：Page 48",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_48",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第48页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page49",
+    "title": "FinnegansWiki：Page 49",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_49",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第49页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page50",
+    "title": "FinnegansWiki：Page 50",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_50",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第50页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page51",
+    "title": "FinnegansWiki：Page 51",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_51",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第51页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page52",
+    "title": "FinnegansWiki：Page 52",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_52",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第52页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page53",
+    "title": "FinnegansWiki：Page 53",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_53",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第53页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page54",
+    "title": "FinnegansWiki：Page 54",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_54",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第54页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page55",
+    "title": "FinnegansWiki：Page 55",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_55",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第55页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page56",
+    "title": "FinnegansWiki：Page 56",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_56",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第56页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page57",
+    "title": "FinnegansWiki：Page 57",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_57",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第57页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page58",
+    "title": "FinnegansWiki：Page 58",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_58",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第58页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page59",
+    "title": "FinnegansWiki：Page 59",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_59",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第59页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page60",
+    "title": "FinnegansWiki：Page 60",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_60",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第60页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page61",
+    "title": "FinnegansWiki：Page 61",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_61",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第61页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page62",
+    "title": "FinnegansWiki：Page 62",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_62",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第62页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page63",
+    "title": "FinnegansWiki：Page 63",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_63",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第63页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page64",
+    "title": "FinnegansWiki：Page 64",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_64",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第64页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page65",
+    "title": "FinnegansWiki：Page 65",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_65",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第65页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page66",
+    "title": "FinnegansWiki：Page 66",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_66",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第66页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page67",
+    "title": "FinnegansWiki：Page 67",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_67",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第67页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page68",
+    "title": "FinnegansWiki：Page 68",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_68",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第68页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page69",
+    "title": "FinnegansWiki：Page 69",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_69",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第69页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page70",
+    "title": "FinnegansWiki：Page 70",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_70",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第70页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page71",
+    "title": "FinnegansWiki：Page 71",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_71",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第71页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page72",
+    "title": "FinnegansWiki：Page 72",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_72",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第72页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page73",
+    "title": "FinnegansWiki：Page 73",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_73",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第73页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page74",
+    "title": "FinnegansWiki：Page 74",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_74",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第74页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "jjda-i3",
+    "title": "James Joyce Digital Archive：I.3 Analysis",
+    "url": "https://jjda.ie/f/ff/app/chk3.htm",
+    "type": "commentary",
+    "accessed": "2026-11-01",
+    "use": "第一卷第三章手稿、草稿层级与分段研究。"
+  },
+  {
+    "id": "fw-page75",
+    "title": "FinnegansWiki：Page 75",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_75",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第75页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page76",
+    "title": "FinnegansWiki：Page 76",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_76",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第76页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page77",
+    "title": "FinnegansWiki：Page 77",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_77",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第77页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page78",
+    "title": "FinnegansWiki：Page 78",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_78",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第78页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page79",
+    "title": "FinnegansWiki：Page 79",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_79",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第79页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page80",
+    "title": "FinnegansWiki：Page 80",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_80",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第80页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page81",
+    "title": "FinnegansWiki：Page 81",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_81",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第81页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page82",
+    "title": "FinnegansWiki：Page 82",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_82",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第82页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page83",
+    "title": "FinnegansWiki：Page 83",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_83",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第83页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page84",
+    "title": "FinnegansWiki：Page 84",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_84",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第84页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page85",
+    "title": "FinnegansWiki：Page 85",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_85",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第85页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page86",
+    "title": "FinnegansWiki：Page 86",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_86",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第86页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page87",
+    "title": "FinnegansWiki：Page 87",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_87",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第87页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page88",
+    "title": "FinnegansWiki：Page 88",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_88",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第88页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page89",
+    "title": "FinnegansWiki：Page 89",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_89",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第89页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page90",
+    "title": "FinnegansWiki：Page 90",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_90",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第90页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page91",
+    "title": "FinnegansWiki：Page 91",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_91",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第91页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page92",
+    "title": "FinnegansWiki：Page 92",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_92",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第92页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page93",
+    "title": "FinnegansWiki：Page 93",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_93",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第93页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page94",
+    "title": "FinnegansWiki：Page 94",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_94",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第94页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page95",
+    "title": "FinnegansWiki：Page 95",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_95",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第95页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page96",
+    "title": "FinnegansWiki：Page 96",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_96",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第96页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page97",
+    "title": "FinnegansWiki：Page 97",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_97",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第97页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page98",
+    "title": "FinnegansWiki：Page 98",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_98",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第98页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page99",
+    "title": "FinnegansWiki：Page 99",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_99",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第99页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page100",
+    "title": "FinnegansWiki：Page 100",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_100",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第100页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page101",
+    "title": "FinnegansWiki：Page 101",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_101",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第101页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page102",
+    "title": "FinnegansWiki：Page 102",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_102",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第102页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page103",
+    "title": "FinnegansWiki：Page 103",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_103",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第103页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "jjda-i4",
+    "title": "James Joyce Digital Archive: Book I Chapter 4",
+    "url": "https://www.jjda.ie/main/JJDA/FWhome.htm",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "第一卷第四章遗传手稿层级演进与草稿校勘。"
+  },
+  {
+    "id": "fw-page104",
+    "title": "FinnegansWiki：Page 104",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_104",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第104页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page105",
+    "title": "FinnegansWiki：Page 105",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_105",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第105页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page106",
+    "title": "FinnegansWiki：Page 106",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_106",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第106页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page107",
+    "title": "FinnegansWiki：Page 107",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_107",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第107页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page108",
+    "title": "FinnegansWiki：Page 108",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_108",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第108页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page109",
+    "title": "FinnegansWiki：Page 109",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_109",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第109页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page110",
+    "title": "FinnegansWiki：Page 110",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_110",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第110页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page111",
+    "title": "FinnegansWiki：Page 111",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_111",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第111页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page112",
+    "title": "FinnegansWiki：Page 112",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_112",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第112页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page113",
+    "title": "FinnegansWiki：Page 113",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_113",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第113页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page114",
+    "title": "FinnegansWiki：Page 114",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_114",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第114页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page115",
+    "title": "FinnegansWiki：Page 115",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_115",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第115页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page116",
+    "title": "FinnegansWiki：Page 116",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_116",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第116页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page117",
+    "title": "FinnegansWiki：Page 117",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_117",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第117页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page118",
+    "title": "FinnegansWiki：Page 118",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_118",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第118页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page119",
+    "title": "FinnegansWiki：Page 119",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_119",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第119页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page120",
+    "title": "FinnegansWiki：Page 120",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_120",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第120页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page121",
+    "title": "FinnegansWiki：Page 121",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_121",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第121页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page122",
+    "title": "FinnegansWiki：Page 122",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_122",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第122页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page123",
+    "title": "FinnegansWiki：Page 123",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_123",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第123页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page124",
+    "title": "FinnegansWiki：Page 124",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_124",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第124页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page125",
+    "title": "FinnegansWiki：Page 125",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_125",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第125页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "jjda-i5",
+    "title": "James Joyce Digital Archive: Book I Chapter 5",
+    "url": "https://www.jjda.ie/main/JJDA/FWhome.htm",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "第一卷第五章（安娜书信手卷与母鸡拾信）遗传手稿层级演进与草稿校勘。"
+  },
+  {
+    "id": "fw-page126",
+    "title": "FinnegansWiki：Page 126",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_126",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第126页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page127",
+    "title": "FinnegansWiki：Page 127",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_127",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第127页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page128",
+    "title": "FinnegansWiki：Page 128",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_128",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第128页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page129",
+    "title": "FinnegansWiki：Page 129",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_129",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第129页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page130",
+    "title": "FinnegansWiki：Page 130",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_130",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第130页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page131",
+    "title": "FinnegansWiki：Page 131",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_131",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第131页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page132",
+    "title": "FinnegansWiki：Page 132",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_132",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第132页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page133",
+    "title": "FinnegansWiki：Page 133",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_133",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第133页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page134",
+    "title": "FinnegansWiki：Page 134",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_134",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第134页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page135",
+    "title": "FinnegansWiki：Page 135",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_135",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第135页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page136",
+    "title": "FinnegansWiki：Page 136",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_136",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第136页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page137",
+    "title": "FinnegansWiki：Page 137",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_137",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第137页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page138",
+    "title": "FinnegansWiki：Page 138",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_138",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第138页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page139",
+    "title": "FinnegansWiki：Page 139",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_139",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第139页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page140",
+    "title": "FinnegansWiki：Page 140",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_140",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第140页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page141",
+    "title": "FinnegansWiki：Page 141",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_141",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第141页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page142",
+    "title": "FinnegansWiki：Page 142",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_142",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第142页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page143",
+    "title": "FinnegansWiki：Page 143",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_143",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第143页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page144",
+    "title": "FinnegansWiki：Page 144",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_144",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第144页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page145",
+    "title": "FinnegansWiki：Page 145",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_145",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第145页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page146",
+    "title": "FinnegansWiki：Page 146",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_146",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第146页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page147",
+    "title": "FinnegansWiki：Page 147",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_147",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第147页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page148",
+    "title": "FinnegansWiki：Page 148",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_148",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第148页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page149",
+    "title": "FinnegansWiki：Page 149",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_149",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第149页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page150",
+    "title": "FinnegansWiki：Page 150",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_150",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第150页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page151",
+    "title": "FinnegansWiki：Page 151",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_151",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第151页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page152",
+    "title": "FinnegansWiki：Page 152",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_152",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第152页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page153",
+    "title": "FinnegansWiki：Page 153",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_153",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第153页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page154",
+    "title": "FinnegansWiki：Page 154",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_154",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第154页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page155",
+    "title": "FinnegansWiki：Page 155",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_155",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第155页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page156",
+    "title": "FinnegansWiki：Page 156",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_156",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第156页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page157",
+    "title": "FinnegansWiki：Page 157",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_157",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第157页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page158",
+    "title": "FinnegansWiki：Page 158",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_158",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第158页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page159",
+    "title": "FinnegansWiki：Page 159",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_159",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第159页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page160",
+    "title": "FinnegansWiki：Page 160",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_160",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第160页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page161",
+    "title": "FinnegansWiki：Page 161",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_161",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第161页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page162",
+    "title": "FinnegansWiki：Page 162",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_162",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第162页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page163",
+    "title": "FinnegansWiki：Page 163",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_163",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第163页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page164",
+    "title": "FinnegansWiki：Page 164",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_164",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第164页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page165",
+    "title": "FinnegansWiki：Page 165",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_165",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第165页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page166",
+    "title": "FinnegansWiki：Page 166",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_166",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第166页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page167",
+    "title": "FinnegansWiki：Page 167",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_167",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第167页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page168",
+    "title": "FinnegansWiki：Page 168",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_168",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第168页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "jjda-i6",
+    "title": "James Joyce Digital Archive: Book I Chapter 6",
+    "url": "https://www.jjda.ie/main/JJDA/FWhome.htm",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "第一卷第六章（肖恩十二问答与穆克思格莱普斯寓言）手稿层级演进与草稿校勘。"
+  },
+  {
+    "id": "fw-page169",
+    "title": "FinnegansWiki：Page 169",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_169",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第169页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page170",
+    "title": "FinnegansWiki：Page 170",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_170",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第170页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page171",
+    "title": "FinnegansWiki：Page 171",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_171",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第171页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page172",
+    "title": "FinnegansWiki：Page 172",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_172",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第172页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page173",
+    "title": "FinnegansWiki：Page 173",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_173",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第173页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page174",
+    "title": "FinnegansWiki：Page 174",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_174",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第174页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page175",
+    "title": "FinnegansWiki：Page 175",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_175",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第175页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page176",
+    "title": "FinnegansWiki：Page 176",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_176",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第176页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page177",
+    "title": "FinnegansWiki：Page 177",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_177",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第177页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page178",
+    "title": "FinnegansWiki：Page 178",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_178",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第178页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page179",
+    "title": "FinnegansWiki：Page 179",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_179",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第179页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page180",
+    "title": "FinnegansWiki：Page 180",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_180",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第180页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page181",
+    "title": "FinnegansWiki：Page 181",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_181",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第181页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page182",
+    "title": "FinnegansWiki：Page 182",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_182",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第182页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page183",
+    "title": "FinnegansWiki：Page 183",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_183",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第183页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page184",
+    "title": "FinnegansWiki：Page 184",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_184",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第184页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page185",
+    "title": "FinnegansWiki：Page 185",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_185",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第185页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page186",
+    "title": "FinnegansWiki：Page 186",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_186",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第186页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page187",
+    "title": "FinnegansWiki：Page 187",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_187",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第187页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page188",
+    "title": "FinnegansWiki：Page 188",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_188",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第188页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page189",
+    "title": "FinnegansWiki：Page 189",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_189",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第189页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page190",
+    "title": "FinnegansWiki：Page 190",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_190",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第190页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page191",
+    "title": "FinnegansWiki：Page 191",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_191",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第191页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page192",
+    "title": "FinnegansWiki：Page 192",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_192",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第192页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page193",
+    "title": "FinnegansWiki：Page 193",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_193",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第193页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page194",
+    "title": "FinnegansWiki：Page 194",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_194",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第194页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page195",
+    "title": "FinnegansWiki：Page 195",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_195",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第195页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page196",
+    "title": "FinnegansWiki：Page 196",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_196",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第196页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page197",
+    "title": "FinnegansWiki：Page 197",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_197",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第197页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page198",
+    "title": "FinnegansWiki：Page 198",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_198",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第198页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page199",
+    "title": "FinnegansWiki：Page 199",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_199",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第199页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page200",
+    "title": "FinnegansWiki：Page 200",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_200",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第200页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page201",
+    "title": "FinnegansWiki：Page 201",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_201",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第201页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page202",
+    "title": "FinnegansWiki：Page 202",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_202",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第202页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page203",
+    "title": "FinnegansWiki：Page 203",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_203",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第203页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page204",
+    "title": "FinnegansWiki：Page 204",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_204",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第204页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page205",
+    "title": "FinnegansWiki：Page 205",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_205",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第205页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page206",
+    "title": "FinnegansWiki：Page 206",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_206",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第206页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page207",
+    "title": "FinnegansWiki：Page 207",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_207",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第207页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page208",
+    "title": "FinnegansWiki：Page 208",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_208",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第208页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page209",
+    "title": "FinnegansWiki：Page 209",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_209",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第209页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page210",
+    "title": "FinnegansWiki：Page 210",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_210",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第210页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page211",
+    "title": "FinnegansWiki：Page 211",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_211",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第211页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page212",
+    "title": "FinnegansWiki：Page 212",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_212",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第212页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page213",
+    "title": "FinnegansWiki：Page 213",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_213",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第213页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page214",
+    "title": "FinnegansWiki：Page 214",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_214",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第214页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page215",
+    "title": "FinnegansWiki：Page 215",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_215",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第215页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "fw-page216",
+    "title": "FinnegansWiki：Page 216",
+    "url": "https://www.finnegansweb.com/wiki/index.php/Page_216",
+    "type": "community",
+    "accessed": "2026-11-01",
+    "use": "核对第216页文本行、全篇逐词注释线索与互文引得。"
+  },
+  {
+    "id": "jjda-i7",
+    "title": "James Joyce Digital Archive: Book I Chapter 7",
+    "url": "https://www.jjda.ie/main/JJDA/FWhome.htm",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "第一卷第七章（写匠谢姆人物肖像与墨水肉身炼金术）手稿层级演进与草稿校勘。"
+  },
+  {
+    "id": "jjda-i8",
+    "title": "James Joyce Digital Archive: Book I Chapter 8",
+    "url": "https://www.jjda.ie/main/JJDA/FWhome.htm",
+    "type": "scholarly",
+    "accessed": "2026-11-01",
+    "use": "第一卷第八章（安娜·利维亚·普卢拉贝尔／洗衣妇河畔夜话）手稿层级演进与草稿校勘。"
+  }
+]

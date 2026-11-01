@@ -1,0 +1,292 @@
+{
+  "chapter": "I.2",
+  "input_sha256": "1f93eda0fad56d4893ccaf4b752028c1a28c07a464e97cbcecefe170f27bfefb",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_30",
+    "https://www.finnegansweb.com/wiki/index.php/Page_31",
+    "https://www.finnegansweb.com/wiki/index.php/Page_32",
+    "https://www.finnegansweb.com/wiki/index.php/Page_33",
+    "https://www.finnegansweb.com/wiki/index.php/Page_34",
+    "https://www.finnegansweb.com/wiki/index.php/Page_35",
+    "https://www.finnegansweb.com/wiki/index.php/Page_36",
+    "https://www.finnegansweb.com/wiki/index.php/Page_37",
+    "https://www.finnegansweb.com/wiki/index.php/Page_38",
+    "https://www.finnegansweb.com/wiki/index.php/Page_39",
+    "https://www.finnegansweb.com/wiki/index.php/Page_40",
+    "https://www.finnegansweb.com/wiki/index.php/Page_41",
+    "https://www.finnegansweb.com/wiki/index.php/Page_42",
+    "https://www.finnegansweb.com/wiki/index.php/Page_43",
+    "https://www.finnegansweb.com/wiki/index.php/Page_44",
+    "https://www.finnegansweb.com/wiki/index.php/Page_45",
+    "https://www.finnegansweb.com/wiki/index.php/Page_46",
+    "https://www.finnegansweb.com/wiki/index.php/Page_47"
+  ],
+  "candidate_words": 5977,
+  "witness_words": 5981,
+  "similarity": 0.9979929754139488,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "outs ide",
+      "candidate": "outside",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "(klikkaklakkaklaskaklopatzklatschabattacreppycrotty graddaghsemmihsammihnouithappluddyappladdypkonpkot!).",
+      "candidate": "(klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot!).",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "[on",
+      "candidate": "on",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "chicken- [pox",
+      "candidate": "chickenpox",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "And'tis",
+      "candidate": "And 'tis",
+      "witness_token_count": 1,
+      "candidate_token_count": 2
+    },
+    {
+      "operation": "replace",
+      "witness": "[company",
+      "candidate": "company",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Donnez- [moi",
+      "candidate": "Donnez-moi",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "[rann!",
+      "candidate": "rann!",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "mon- [keys",
+      "candidate": "monkeys",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    }
+  ],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i2-030-01",
+      "note_id": "i2-dumlat-cincinnatus",
+      "lemma": "the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way... like cabbaging Cincinnatus the grand old gardener was saving daylight under his redwoodtree one sultry sabbath afternoon, Hag Chivychas Eve, in prefall paradise peace"
+    },
+    {
+      "segment_id": "fw-i2-030-01",
+      "note_id": "i2-turnpike-earwuggers",
+      "lemma": "stumbled out hotface as he was (his sweatful bandanna loose from his pocketcoat) hasting to the forecourts of his public in topee, surcingle, solascarf and plaid, plus fours, puttees and bulldog boots ruddled cinnabar with flagrant marl, jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care... Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers."
+    },
+    {
+      "segment_id": "fw-i2-030-01",
+      "note_id": "i2-sailor-king-pouringrainia",
+      "lemma": "Our sailor king, who was draining a gugglet of obvious adamale, gift both and gorban... William the Conk on the spindle side... turned towards two of his retinue of gallowglasses, Michael, etheling lord of Leix and Offaly and the jubilee mayor of Drogheda, Elcock... Holybones of Saint Hubert how our red brother of Pouringrainia would audibly fume did he know that we have for surtrusty bailiwick a turnpiker who is by turns a pikebailer no seldomer than an earwigger!"
+    },
+    {
+      "segment_id": "fw-i2-031-33",
+      "note_id": "i2-hokmah-scheherazade",
+      "lemma": "son of Hokmah, if so be you have metheg in your midness, this man is mountain and unto changeth doth one ascend. Heave we aside the fallacy, as punical as finikin, that it was not the king kingself but his inseparable sisters, uncontrollable nighttalkers, Skertsiraizde with Donyahzade... Madame Sudlow as Rosa and Lily Miskinguette in the pantalime that two pitts paythronosed, Miliodorus and Galathee."
+    },
+    {
+      "segment_id": "fw-i2-031-33",
+      "note_id": "i2-theatre-royal-divorce",
+      "lemma": "Accept these few nutties! and Take off that white hat!, relieved with Stop his Grog and Put It in the Log and Loots in his (bassvoco) Boots... A Royal Divorce, then near the approach towards the summit of its climax, with ambitious interval band selections from The Bo' Girl and The Lily on all horserie show command nights from his viceregal booth (his bossaloner is ceilinged there a cuckoospit less eminent than the redritualhoods of Maccabe and Cullen)"
+    },
+    {
+      "segment_id": "fw-i2-031-33",
+      "note_id": "i2-napoleon-swallowall",
+      "lemma": "a veritable Napoleon the Nth, our worldstage's practical jokepiece and retired cecelticocommediant in his own wise, this folksforefather all of the time sat, having the entirety of his house about him, with the invariable broadstretched kerchief cooling his whole neck, nape and shoulderblades and in a wardrobe panelled tuxedo completely thrown back from a shirt well entitled a swallowall... Habituels conspicuously emergent."
+    },
+    {
+      "segment_id": "fw-i2-033-14",
+      "note_id": "i2-baser-meaning-mohorat",
+      "lemma": "A baser meaning has been read into these characters the literal sense of which decency can safely scarcely hint. It has been blurtingly bruited by certain wisecrackers (the stinks of Mohorat are in the nightplots of the morning), that he suffered from a vile disease. Athma, unmanner them!... ought not to be allowed to be made."
+    },
+    {
+      "segment_id": "fw-i2-033-14",
+      "note_id": "i2-abdullah-mallon",
+      "lemma": "Truth, beard on prophet, compels one to add that there is said to have been quondam (pfuit! pfuit!) some case of the kind implicating, it is interdum believed, a quidam (if he did not exist it would be necessary quoniam to invent him) abhout that time stambuling haround Dumbaling in leaky sneakers with his tarrk record who has remained topantically anonymos but (let us hue him Abdullah Gamellaxarksky) was, it is stated, posted at Mallon's at the instance of watch warriors of the vigilance committee..."
+    },
+    {
+      "segment_id": "fw-i2-033-14",
+      "note_id": "i2-rushy-hollow-maidservants",
+      "lemma": "Slander, let it lie its flattest, has never been able to convict our good and great and no ordinary Southron Earwicker... of having behaved with ongentilmensky immodus opposite a pair of dainty maidservants in the swoolth of the rushy hollow whither, or so the two gown and pinners pleaded, dame nature in all innocency had spontaneously and about the same hour of the eventide sent them both..."
+    },
+    {
+      "segment_id": "fw-i2-034-30",
+      "note_id": "i2-cad-pipe-ides-april",
+      "lemma": "how one happygogusty Ides-of-April morning (the anniversary, as it fell out, of his first assumption of his mirthday suit and rights in appurtenance to the confusioning of human races)... he met a cad with a pipe. The latter, the luciferant not the oriuolate... hardily accosted him with: Guinness thaw tool in jew me dinner ouzel fin?... ask could he tell him how much a clock it was that the clock struck had he any idea by cock's luck as his watch was bradys."
+    },
+    {
+      "segment_id": "fw-i2-034-30",
+      "note_id": "i2-hesitency-phoenix-park",
+      "lemma": "Hesitency was clearly to be evitated. Execration as cleverly to be honnisoid. The Earwicker of that spurring instant, realising on fundamental liberal principles the supreme importance, nexally and noxally, of physical life (the nearest help relay being pingping K. O. Sempatrick's Day and the fenian rising) and unwishful as he felt of being hurled into eternity right then, plugged by a softnosed bullet from the sap, halted, quick on the draw..."
+    },
+    {
+      "segment_id": "fw-i2-034-30",
+      "note_id": "i2-waterbury-goodman-cuchulainn",
+      "lemma": "prodooced from his gunpocket his Jurgensen's shrapnel waterbury, ours by communionism, his by usucapture, but, on the same stroke, hearing above the skirling of harsh Mother East old Fox Goodman, the bellmaster, over the wastes to south, at work upon the ten ton tonuant thunderous tenor toller in the speckled church (Couhounin's call!) told the inquiring kidder, by Jehova, it was twelve of em sidereal and tankard time..."
+    },
+    {
+      "segment_id": "fw-i2-034-30",
+      "note_id": "i2-gygas-reversed-e",
+      "lemma": "the flaxen Gygas tapped his chronometrum drumdrum and, now standing full erect, above the ambijacent floodplain, scene of its happening, with one Berlin gauntlet chopstuck in the hough of his ellboge (by ancientest signlore his gesture meaning: Ǝ!) pointed at an angle of thirtytwo degrees towards his duc de Fer's overgrown milestone as fellow to his gage..."
+    },
+    {
+      "segment_id": "fw-i2-034-30",
+      "note_id": "i2-hce-oath-denial",
+      "lemma": "Shsh shake, co-comeraid! Me only, them five ones, he is equal combat. I have won straight. Hence my nonation wide hotel and creamery establishments which for the honours of our mewmew mutual daughters, credit me, I am woowoo willing to take my stand, sir, upon the monument, that sign of our ruru redemption... upon the Open Bible and before the Great Taskmaster's... Bishop and Mrs Michan of High Church of England... there is not one tittle of truth, allow me to tell you, in that purest of fibfib fabrications."
+    },
+    {
+      "segment_id": "fw-i2-036-35",
+      "note_id": "i2-gaping-gill-heidelberg",
+      "lemma": "Gaping Gill, swift to mate errthors, stern to checkself, (diagnosing through eustacetube that it was to make with a markedly postpuberal hypertituitary type of Heidelberg mannleich cavern ethics) lufted his slopingforward, bad Sweatagore good murrough and dublnotch on to it as he was greedly obliged..."
+    },
+    {
+      "segment_id": "fw-i2-036-35",
+      "note_id": "i2-twattering-musaic-dispensation",
+      "lemma": "ere the hour of the twattering of bards in the twitterlitter between Druidia and the Deepsleep Sea, when suppertide and souvenir to Charlatan Mall jointly kem gently and along the quiet darkenings of Grand and Royal... spat in careful convertedness a musaic dispensation about his hearthstone..."
+    },
+    {
+      "segment_id": "fw-i2-036-35",
+      "note_id": "i2-peach-bombay-porkograso",
+      "lemma": "supped of the dish sot and pottage which he snobbishly dabbed Peach Bombay (it is rawly only Lukanpukan pilzenpie which she knows which senaffed and pibered him), a supreme of excelling peas, balled under minnshogue's milk into whitemalt winesour, a proviant the littlebilker hoarsely relished, chaff it, in the snevel season, being as fain o't as your rat wi'fennel..."
+    },
+    {
+      "segment_id": "fw-i2-036-35",
+      "note_id": "i2-phenice-bruerie-piessporter",
+      "lemma": "on this celebrating occasion of the happy escape, for a crowning of pot valiance, this regional platter, benjamin of bouillis, with a spolish olive to middlepoint its zaynith, was marrying itself (porkograso!) erebusqued very deluxiously with a bottle of Phenice-Bruerie '98, followed for second nuptials by a Piessporter, Grand Cur, of both of which cherished tablelights... he obdurately sniffed the cobwebcrusted corks."
+    },
+    {
+      "segment_id": "fw-i2-038-09",
+      "note_id": "i2-cad-wife-bareniece",
+      "lemma": "Our cad's bit of strife (knee Bareniece Maxwelton) with a quick ear for spittoons (as the aftertale hath it) glaned up as usual with dumbestic husbandry... slipping the clav in her claw, broke of the matter among a hundred and eleven others in her usual curtsey... to her particular reverend, the director..."
+    },
+    {
+      "segment_id": "fw-i2-038-09",
+      "note_id": "i2-browne-nolan-baldoyle",
+      "lemma": "overspoiled priest Mr Browne, disguised as a vincentian, who, when seized of the facts, was overheard, in his secondary personality as a Nolan and underreared... to pianissime a slightly varied version of Crookedribs confidentials... in fealty sworn... at the hippic runfields of breezy Baldoyle..."
+    },
+    {
+      "segment_id": "fw-i2-038-09",
+      "note_id": "i2-treacle-tom-frisky-shorty",
+      "lemma": "'Twas two pisononse Timcoves... of the name of Treacle Tom as was just out of pop following the theft of a leg of Kehoe, Donnelly and Packenham's Finnish pork and his own blood and milk brother Frisky Shorty, (he was, to be exquisitely punctilious about them, both shorty and frisky) a tipster, come off the hulks, both of them awful poor, what was out on the bumaround for an oofbird game..."
+    },
+    {
+      "segment_id": "fw-i2-039-28",
+      "note_id": "i2-treacle-tom-liberties",
+      "lemma": "This Treacle Tom to whom reference has been made had been absent from his usual wild and woolly haunts in the land of counties capalleens for some time previous to that... sought his wellwarmed leababobed in a housingroom Abide With Oneanother at Block W.W., (why didn't he back it?) Pump Court, The Liberties..."
+    },
+    {
+      "segment_id": "fw-i2-039-28",
+      "note_id": "i2-hosty-mildew-lisa",
+      "lemma": "a small and stonybroke cashdraper's executive, Peter Cloran (discharged), O'Mara, an exprivate secretary of no fixed abode (locally known as Mildew Lisa), who had passed several nights, funnish enough, in a doorway under the blankets of homelessness on the bunk of iceland, pillowed upon the stone of destiny colder than man's knee or woman's breast, and Hosty, (no slouch of a name), an illstarred beachbusker..."
+    },
+    {
+      "segment_id": "fw-i2-039-28",
+      "note_id": "i2-crewth-fiddle-pawn",
+      "lemma": "the rejuvenated busker... and his broadawake bedroom suite (our boys, as our Byron called them) were up and ashuffle from the hogshome they lovenaned The Barrel, cross Ebblinn's chilled hamlet... to the thrummings of a crewth fiddle which, cremoaning and cronauning... after a brisk pause at a pawnbroking establishment for the prothetic purpose of redeeming the songster's truly admirable false teeth..."
+    },
+    {
+      "segment_id": "fw-i2-039-28",
+      "note_id": "i2-old-sots-hole-glasstone",
+      "lemma": "a house of call at Cujas Place, fizz, the Old Sots' Hole in the parish of Saint Cecily within the liberty of Ceolmore not a thousand or one national leagues, that was, by Griffith's valuation, from the site of the statue of Primewer Glasstone... joined by a further — intentions — apply — tomorrow casual and a decent sort of the hadbeen variety..."
+    },
+    {
+      "segment_id": "fw-i2-039-28",
+      "note_id": "i2-melomap-bogeyer-avatar",
+      "lemma": "flushed with their firestuffostered friendship, the rascals came out of the licensed premises... wiping their laughleaking lipes on their sleeves, how the bouckaleens shout their roscan generally (seinn fion, seinn fion's araun.) and the rhymers' world was with reason the richer for a wouldbe ballad, to the balledder of which the world of cumannity singing owes a tribute for having placed on the planet's melomap his lay of the vilest bogeyer but most attractionable avatar the world has ever had to explain for."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-lubeen-eleutheriodendron",
+      "lemma": "This, more krectly lubeen or fellow — me — lieder was first poured forth where Riau Liviau riots and col de Houdo humps, under the shadow of the monument of the shouldhavebeen legislator (Eleutheriodendron! Spare, woodmann, spare!)..."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-supercrowd-four-roads",
+      "lemma": "an overflow meeting of all the nations in Lenster fullyfilling the visional area and, as a singleminded supercrowd... liffeyside people (to omit to mention of the mainland minority and such as had wayfared via Watling, Ernin, Icknild and Stane, in chief a halted cockney car with its quotal of Hardmuth's hacks, a northern tory, a southern whig, an eastanglian chronicler and a landwester guardian)..."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-dublin-social-panopticon",
+      "lemma": "ranging from slips of young dublinos from Cutpurse Row having nothing better to do than walk about with their hands in their kneepants, sucking airwhackers, weedulicet, jumbobricks, side by side with truant officers... a brace of palesmen with dundrearies, nooning toward Daly's... mass-going ladies from Hume Street... wandering hamalags out of... Mosse's Gardens... Simpson's on the Rocks... Peter Pim and Paul Fry and then Elliot and, O, Atkinson... Caoch O'Leary..."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-wararrow-delville-press",
+      "lemma": "The wararrow went round, so it did, (a nation wants a gaze) and the ballad, in the felibrine trancoped metre affectioned by Taiocebo in his Casudas de Poulichinello Artahut, stumpstampaded on to a slip of blancovide and headed by an excessively rough and red woodcut, privately printed at the rimepress of Delville, soon fluttered its secret on white highway and brown byway to the rose of the winds and the blew of the gaels... through the five pussyfours green of the united states of Scotia Picta..."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-flute-hitchcock-maypole",
+      "lemma": "his majesty the flute, that onecrooned king of inscrewments, Piggott's purest, ciello alsoliuto, which Mr Delaney (Mr Delacey?), horn... 'Ductor' Hitchcock hoisted his fezzy fuzz at bludgeon's height signum to his companions of the chalice for the Loud Fellow, boys' and silentium in curia! (our maypole once more where he rose of old) and the canto was chantied there chorussed and christened where by the old tollgate, Saint Annona's Street and Church."
+    },
+    {
+      "segment_id": "fw-i2-042-17",
+      "note_id": "i2-rann-catalog-persse-oreilly",
+      "lemma": "And around the lawn the rann it rann and this is the rann that Hosty made. Spoken. Boyles and Cahills, Skerretts and Pritchards, viersified and piersified may the treeth we tale of live in stoney. Here line the refrains of. Some vote him Vike, some mote him Mike, some dub him Llyn and Phin while others hail him Lug Bug Dan Lop, Lex, Lax, Gunne or Guinn. Some apt him Arth, some bapt him Barth, Coll, Noll, Soll, Will, Weel, Wall but I parse him Persse O'Reilly else he's called no name at all. Together. Arrah, leave it to Hosty, frosty Hosty..."
+    },
+    {
+      "segment_id": "fw-i2-045-01",
+      "note_id": "i2-humpty-dumpty-crumple",
+      "lemma": "Have you heard of one Humpty Dumpty How he fell with a roll and a rumble And curled up like Lord Olofa Crumple By the butt of the Magazine Wall..."
+    },
+    {
+      "segment_id": "fw-i2-045-01",
+      "note_id": "i2-king-castle-green-mountjoy",
+      "lemma": "He was one time our King of the Castle Now he's kicked about like a rotten old parsnip. And from Green street he'll be sent by order of His Worship To the penal jail of Mountjoy..."
+    },
+    {
+      "segment_id": "fw-i2-045-01",
+      "note_id": "i2-fafafather-schemes",
+      "lemma": "He was fafafather of all schemes for to bother us Slow coaches and immaculate contraceptives for the populace, Mare's milk for the sick, seven dry Sundays a week, Openair love and religion's reform..."
+    },
+    {
+      "segment_id": "fw-i2-045-01",
+      "note_id": "i2-cassidy-bull-butter",
+      "lemma": "Arrah, why, says you, couldn't he manage it? I'll go bail, my fine dairyman darling, Like the bumping bull of the Cassidys All your butter is in your horns..."
+    },
+    {
+      "segment_id": "fw-i2-046-01",
+      "note_id": "i2-cheat-eerawan-clancy",
+      "lemma": "Small wonder He'll Cheat E'erawan our local lads nicknamed him... With his bucketshop store Down Bargainweg, Lower. So snug he was in his hotel premises sumptuous But soon we'll bonfire all his trash, tricks and trumpery And 'tis short till sheriff Clancy'll be winding up his unlimited company With the bailiff's bom at the door..."
+    },
+    {
+      "segment_id": "fw-i2-046-01",
+      "note_id": "i2-viking-hooker-copenhagen",
+      "lemma": "Sweet bad luck on the waves washed to our island The hooker of that hammerfast viking And Gall's curse on the day when Eblana bay Saw his black and tan man-o'-war... Where from? roars Poolbeg. Cookingha'pence, he bawls... Thok's min gammelhole Norveegickers moniker Og as ay are at gammelhore Norveegickers cod. (Chorus) A Norwegian camel old cod."
+    },
+    {
+      "segment_id": "fw-i2-046-01",
+      "note_id": "i2-monkeys-humphrey-maidenloo",
+      "lemma": "Lift it, Hosty, lift it... It was during some fresh water garden pumping Or, according to the Nursing Mirror, while admiring the monkeys That our heavyweight heathen Humpharey Made bold a maid to woo (Chorus) Woohoo, what'll she doo! The general lost her maidenloo!"
+    }
+  ]
+}

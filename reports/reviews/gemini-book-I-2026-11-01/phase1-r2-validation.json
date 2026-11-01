@@ -1,0 +1,413 @@
+{
+  "date": "2026-11-01",
+  "role": "ai_review",
+  "executor": "Codex",
+  "decision": {
+    "I2_r2": "blocked",
+    "I3": "partial_review; thirteen source-form corrections accepted; target note withdrawal incomplete",
+    "isolation": "resolved"
+  },
+  "input_manifest": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manifest.json",
+  "input_manifest_sha256": "e9aecae13764d55e9a56c7034dfcbf238a15115dad2a14621a013cbd5ce5ee38",
+  "baseline_files": [
+    {
+      "path": "sources/catalog.json",
+      "bytes": 39702,
+      "sha256": "57025779cf622a30911fab51363b463cf87d3e796021f2415ec10f753b3030a5",
+      "equal_public_worktree": true
+    },
+    {
+      "path": "audio/index.json",
+      "bytes": 1996,
+      "sha256": "fffae7b48590ce80198ddfe6008b6b93298ca60e0829cee0855dbf2bc3e826fb",
+      "equal_public_worktree": true
+    },
+    {
+      "path": "audio/fw-i1-005-13.mp3",
+      "bytes": 3641516,
+      "sha256": "f0cb81302b1efb7a83108b3dbb440eaf6dcb7b8dad8c560a97c1a2e6ac975900",
+      "equal_public_worktree": true
+    },
+    {
+      "path": "audio/fw-i1-006-13.mp3",
+      "bytes": 4359212,
+      "sha256": "a4567593542178e81e254541ca10b818cfd5ea40b5504ff5fac7d7ffbd9b9b6b",
+      "equal_public_worktree": true
+    }
+  ],
+  "public_chapters": [
+    {
+      "chapter": "I.2",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.3",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.4",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.5",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.6",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.7",
+      "coverage": "not_started",
+      "segments": 0
+    },
+    {
+      "chapter": "I.8",
+      "coverage": "not_started",
+      "segments": 0
+    }
+  ],
+  "checkpoint": {
+    "chapter": "I.2",
+    "next": [
+      30,
+      1
+    ],
+    "next_original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen",
+    "updated": "2026-11-01",
+    "notes": [
+      "I.1正文003.01–029.36已核连续覆盖，共27页；本轮作AI首轮校订，非人工终审。",
+      "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。",
+      "I.2从030.01续译；开始前在见证本重核锚句，不沿用旧省略号锚句。"
+    ]
+  },
+  "I2": {
+    "draft_sha256": "520c695500ff034978bffd6c58470e6a8083e5f9e7bcbb0c600114f453488c24",
+    "original_sha256": "dab89a84c1b6e4090bbb42c4eb0a45e83ec6d09c73c364915e79114dea0ac72e",
+    "original_unchanged": true,
+    "english_alignment_join_exact": true,
+    "chinese_alignment_join_exact": true,
+    "alignment_ranges": [
+      "030.01–030.11",
+      "030.11–030.19",
+      "030.19–031.03",
+      "031.03–031.11",
+      "031.11–031.28",
+      "031.28–031.33"
+    ],
+    "resolved": [
+      "R-I2-R1-01",
+      "R-I2-R1-03",
+      "R-I2-R1-04"
+    ],
+    "remaining": [
+      "R-I2-R1-02 inherited humour relation",
+      "R-I2-01 unsupported scholarly attribution and identity in translation"
+    ],
+    "report": "fw-i2-030-01.r2.md"
+  },
+  "I3": {
+    "entries": [
+      {
+        "index": 1,
+        "segment": "fw-i3-048-01",
+        "locator": "048.16–17",
+        "before": "Eyrawyglaa",
+        "after": "Eyrawyggla",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 2,
+        "segment": "fw-i3-048-01",
+        "locator": "049.08–09",
+        "before": "Buckleyitch",
+        "after": "Bucklovitch",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 3,
+        "segment": "fw-i3-048-01",
+        "locator": "050.28–29",
+        "before": "malfeasances",
+        "after": "malpractices",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 4,
+        "segment": "fw-i3-048-01",
+        "locator": "050.30–31",
+        "before": "yearweeksms",
+        "after": "yearschaums",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 5,
+        "segment": "fw-i3-048-01",
+        "locator": "050.09–10",
+        "before": "Calomnequeller's",
+        "after": "Calomnequiller's",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 6,
+        "segment": "fw-i3-050-33",
+        "locator": "051.14–15",
+        "before": "the two Curranss",
+        "after": "the two Curchies",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 7,
+        "segment": "fw-i3-050-33",
+        "locator": "052.23–24",
+        "before": "latitudinarianismr",
+        "after": "latitudinous baver",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 8,
+        "segment": "fw-i3-055-03",
+        "locator": "055.03–04",
+        "before": "Maemuffinstirnomates",
+        "after": "Maeromor Mournomates",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 9,
+        "segment": "fw-i3-055-03",
+        "locator": "055.27–28",
+        "before": "firefountd",
+        "after": "fireleaved",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 10,
+        "segment": "fw-i3-057-16",
+        "locator": "059.16–17",
+        "before": "Sevendialshes",
+        "after": "Sevenchurches",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 11,
+        "segment": "fw-i3-065-34",
+        "locator": "066.17–18",
+        "before": "Edenquayy",
+        "after": "Edenberry",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 12,
+        "segment": "fw-i3-065-34",
+        "locator": "067.16–17",
+        "before": "carbolics",
+        "after": "carcasses",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      },
+      {
+        "index": 13,
+        "segment": "fw-i3-057-16",
+        "locator": "059.15–16",
+        "before": "professionals",
+        "after": "propenomen is",
+        "pair_matches_previous_witness_check": true,
+        "segment_matches_previous_witness_check": true,
+        "locator_matches_previous_witness_check": true
+      }
+    ],
+    "affected_segments": [
+      {
+        "segment": "fw-i3-048-01",
+        "correction_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "corrected_original_equals_bound_input_with_declared_patches": true,
+        "corrected_original_sha256": "c410fd7c33a36e1af488070d977b81133ba7ec409b0c53bc41d883c6ca0be5bc",
+        "notes": 6
+      },
+      {
+        "segment": "fw-i3-050-33",
+        "correction_indices": [
+          6,
+          7
+        ],
+        "corrected_original_equals_bound_input_with_declared_patches": true,
+        "corrected_original_sha256": "5c1a153e0356e98d56ccd11321a20b811921ef425097bdc868adac1a352e5fb4",
+        "notes": 4
+      },
+      {
+        "segment": "fw-i3-055-03",
+        "correction_indices": [
+          8,
+          9
+        ],
+        "corrected_original_equals_bound_input_with_declared_patches": true,
+        "corrected_original_sha256": "975008a2543e167286f390ef52956bae66a9d9fb99ed026dd334cf03acb3b51a",
+        "notes": 4
+      },
+      {
+        "segment": "fw-i3-057-16",
+        "correction_indices": [
+          10,
+          13
+        ],
+        "corrected_original_equals_bound_input_with_declared_patches": true,
+        "corrected_original_sha256": "be94306c81e134138677776188c1dbd869544f45a0faaf8d75ddfc28355137bc",
+        "notes": 4
+      },
+      {
+        "segment": "fw-i3-065-34",
+        "correction_indices": [
+          11,
+          12
+        ],
+        "corrected_original_equals_bound_input_with_declared_patches": true,
+        "corrected_original_sha256": "9255cf6a2d6798609ebb1836d05e500668fb56887482466b5a0885ef76831eca",
+        "notes": 3
+      }
+    ],
+    "literal_source_forms_ready": true,
+    "full_chapter_collation_ready": false,
+    "translation_ready": false,
+    "targeted_note_check": {
+      "actual_target_segment": "fw-i3-067-28",
+      "actual_target_note": {
+        "id": "fw-i3-067-28-n02",
+        "lemma": "Lupita Lorette",
+        "kind": "allusion",
+        "certainty": "supported",
+        "text": "黛丽拉（Delilah）与名妓罗拉·蒙特斯（Lola Montez，原名 Eliza Gilbert，爱尔兰斯莱戈生人，巴伐利亚国王情妇）叠合；服石炭酸（carbolic acid）自尽为十九世纪都柏林极为普遍之轻生方式。",
+        "source_ids": [
+          "fw-page68"
+        ]
+      },
+      "actual_target_in_withdrawal_list": false,
+      "actual_target_segment_in_affected_segments": false,
+      "submitted_target_note_id": "n-i3-67-oxagiants-peeler-phizz",
+      "submitted_target_originally_mentioned_carbolic": false
+    },
+    "unresolved_source_ids": [
+      "fw-page48",
+      "fw-page49",
+      "fw-page50",
+      "fw-page52",
+      "fw-page53",
+      "fw-page55",
+      "fw-page56",
+      "fw-page57",
+      "fw-page58",
+      "fw-page59",
+      "fw-page65",
+      "fw-page66",
+      "fw-page67"
+    ],
+    "limit": "Only thirteen spelling substitutions and targeted withdrawals reviewed. Other interpretations and newly downgraded notes not accepted."
+  },
+  "verification": [
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 /Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/scripts/project.py check",
+      "exit": 0,
+      "result": {
+        "chapters": 17,
+        "started": 2,
+        "complete": 1,
+        "segments": 27,
+        "reviewed": 0,
+        "notes": 230
+      }
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s /Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/tests -v",
+      "exit": 0,
+      "tests": 31,
+      "failures": 0
+    }
+  ],
+  "build_run": false,
+  "round_limit": "r2 concludes this review cycle; no automatic r3",
+  "public_manuscript_modified_by_reviewer": false,
+  "commit_or_push_performed": false,
+  "input_stability": [
+    {
+      "path": "reports/revisions/fw-i2-030-01.r2.json",
+      "unchanged": true
+    },
+    {
+      "path": "reports/revisions/I-3-base-text.r2.json",
+      "unchanged": true
+    },
+    {
+      "path": "reports/revisions/gemini-book-I-disposition-ledger.r2.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-2.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-3.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-4.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-5.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-6.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-7.json",
+      "unchanged": true
+    },
+    {
+      "path": "manuscript/chapters/I-8.json",
+      "unchanged": true
+    },
+    {
+      "path": "progress/checkpoint.json",
+      "unchanged": true
+    },
+    {
+      "path": "progress/RESUME.md",
+      "unchanged": true
+    }
+  ]
+}

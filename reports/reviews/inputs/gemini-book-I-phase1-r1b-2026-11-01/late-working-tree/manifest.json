@@ -1,0 +1,69 @@
+{
+  "captured_at": "2026-11-01T08:59:34.238043+00:00",
+  "reason": "Public canonical chapters and progress changed while r1 submissions were being reviewed. Separate observation, does not replace frozen r1 inputs.",
+  "files": [
+    {
+      "path": "manuscript/chapters/I-2.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-2.json",
+      "bytes": 154529,
+      "sha256": "cdb8b869f472a22cedb5e302e7d33e6049c140537047e1b0e08fdfd2d38d01bd",
+      "mtime_utc": "2026-11-01T08:57:59.195958+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-3.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-3.json",
+      "bytes": 130757,
+      "sha256": "4d013df08fa96a7b83d2b6625d9629785288a8be6175b09a4559cda3ae363f5c",
+      "mtime_utc": "2026-11-01T08:57:59.196757+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-4.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-4.json",
+      "bytes": 236504,
+      "sha256": "95e221c10a638aaa19e86ac3090770b4f0841d8beed02c4de2316e9f16e0907f",
+      "mtime_utc": "2026-11-01T08:57:59.197737+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-5.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-5.json",
+      "bytes": 130128,
+      "sha256": "f6ab6ea6520a817ad4b970d5ce158ce91225e7152bd309b146e358662f516426",
+      "mtime_utc": "2026-11-01T08:57:59.198333+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-6.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-6.json",
+      "bytes": 195441,
+      "sha256": "21ee73867e5939dc01e98c3eebdad7ceeec2e640b3d5e18bdefa586bc8e6022b",
+      "mtime_utc": "2026-11-01T08:57:59.199254+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-7.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-7.json",
+      "bytes": 95589,
+      "sha256": "0cb3e2f170845da39d1ef3d2a33f4de740524000edd90932c0f3213f8e8ad828",
+      "mtime_utc": "2026-11-01T08:57:59.199773+00:00"
+    },
+    {
+      "path": "manuscript/chapters/I-8.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-8.json",
+      "bytes": 66533,
+      "sha256": "c49a0e23ee6b17fde22a9bddd253c5ad1db00056d28cee5a449b8687075439c4",
+      "mtime_utc": "2026-11-01T08:57:59.200137+00:00"
+    },
+    {
+      "path": "progress/checkpoint.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/progress__checkpoint.json",
+      "bytes": 554,
+      "sha256": "cb24fc33dd1f23e8d765e04a0f477f426c1e5885d5af897e6c277352f869d10f",
+      "mtime_utc": "2026-11-01T08:58:48.741285+00:00"
+    },
+    {
+      "path": "progress/RESUME.md",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/progress__RESUME.md",
+      "bytes": 1217,
+      "sha256": "778e106fab1e7c4048d6e491ddd7ee0fa3166d79bd67bf69f247adb5ff111e3e",
+      "mtime_utc": "2026-11-01T08:58:53.229840+00:00"
+    }
+  ]
+}

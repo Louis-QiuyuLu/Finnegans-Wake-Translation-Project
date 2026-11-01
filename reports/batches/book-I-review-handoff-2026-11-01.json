@@ -1,0 +1,399 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "kind": "review_handoff_archive",
+  "baseline_commit": "4e2b13bd7256c347833305519230beeec64f3701",
+  "decision": "accepted_for_archival_only",
+  "review_reports": [
+    "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R2-REVIEW.md",
+    "reports/reviews/gemini-book-I-2026-11-01/fw-i2-030-01.r2.md"
+  ],
+  "current_disposition": {
+    "path": "reports/revisions/gemini-book-I-disposition-ledger.r2.json",
+    "sha256": "9e6b19d12471a31da64496c5a91aad3516f770f067934b35f794a694816dc5b9"
+  },
+  "I2": "blocked_pending_integrator",
+  "I3": "partial_review; thirteen source-form corrections accepted; translation pending",
+  "unresolved": [
+    "R-I2-R1-02: humour inheritance relation",
+    "R-I2-01: unsupported scholarly attribution and identity in translation",
+    "R-I3-01: withdraw actual note fw-i3-067-28-n02, lemma Lupita Lorette"
+  ],
+  "public_guard": {
+    "I2_to_I8": "not_started; empty segments",
+    "checkpoint_chapter": "I.2",
+    "checkpoint_next": [
+      30,
+      1
+    ],
+    "no_runtime_source_changes": true
+  },
+  "scope": "Archive candidate versions, immutable review snapshots, review findings and updated disposition. No candidate manuscript integration, reviewer promotion, checkpoint advance, or remote push.",
+  "files": [
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-2-I-3.semantic.r0.md",
+      "sha256": "86ea9244d56c0b7b26e983e74c16388137c1b9aa205bf87c2a1a59331cd7b537"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-2.primary-collation.json",
+      "sha256": "2ec50da5bb7f19c1907fd3c7af0f6157ab963abd9b15c68b50cef21cce790a67"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-2.source-collation.json",
+      "sha256": "6926afd6258af24d3c25eafc7a5611e4c844e752f11ccc9aa1c4d6ae38f43c86"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-3.primary-collation.json",
+      "sha256": "d98aaf03990c5dbb6fd0093895856ef363ba1f8c4932fdbc2a6db69af05b433a"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-3.source-collation.json",
+      "sha256": "a55cb34b0cf67bc114b961605e763d80ecbc4aa4208816184b81ed43db290359"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-4-I-5.semantic.r0.md",
+      "sha256": "c9eed59051bbc842060a706a7dab68b2db8609b0fe58c8bb3b50ea1d6ee767db"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-4.primary-collation.json",
+      "sha256": "b9e4bc446ec729f0a55bf8886fd36ae98c5646c1ae753975e8a9840f7d337393"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-4.source-collation.json",
+      "sha256": "4b91a729249dbf5c0c6200673e079361008365aba984605a85d7ad78c82bf25a"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-5.primary-collation.json",
+      "sha256": "1e52605fc5ca14a0542629be4414fc7a4832b223cc5b54b9229a6541f5328a70"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-5.source-collation.json",
+      "sha256": "51b6771998cff4e7433eb083c31109f538fd82a414e6d3929aa31497c76d85d3"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-6-I-8.semantic.r0.md",
+      "sha256": "61817fe7f090344eba43d5991b0919a890350c790feb9f8c9dd893770aac5776"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-6.primary-collation.json",
+      "sha256": "40116dfdc7eafb726a4bcf2c28c1574f198ddfd35b7674332b64e8859161aee7"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-6.source-collation.json",
+      "sha256": "1e67b46bdccee89e258fe995c82c977ba82d7226eddc56d692fc098584a0d569"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-7.primary-collation.json",
+      "sha256": "9b85c0937ca5ec4d97378f16627181e898be5256788a657d6a869ea486a60fcf"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-7.source-collation.json",
+      "sha256": "5c1e3f3a9b13c6ac98e8b4ee83ce181db73c3a6c51b5bd96f4d2f54de406d7b5"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-8.primary-collation.json",
+      "sha256": "9e852868db0a518704e3928db83abd16adef35df70d291580811c25ff99a0887"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/I-8.source-collation.json",
+      "sha256": "0e8aa68b09a349415927cf6be0c8a13c7fee483d46bb826258579454cacfaed3"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1-REVIEW.md",
+      "sha256": "17a5cc095416fcf3eda43f4b310497e4abad7748578345201a73aa0668fdfba9"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1B-REVIEW.md",
+      "sha256": "98f50a400519f9a9df66de19f55212ee53afa1de4cdf6d1473f19d94d67867d2"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R2-REVIEW.md",
+      "sha256": "aecfc3b35a03b0973dd3da8023afdc61c8ae19b041c1ac5462a3ab767e60011c"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/REVIEW.md",
+      "sha256": "42c3e86185ed4bbe7e966be5d8614d1f17be9aeaed88a766ad14ca00f1d57043"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/claimed-source-retrieval.json",
+      "sha256": "7fc22ffda277166312377801ed04b20f8eec229a83345bcb43b46cfbfc85cc3b"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/fw-i2-030-01.r1.md",
+      "sha256": "17320cdf242238bf6151381675060d99e10412a1303bd2e308e92d9c1d3966af"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/fw-i2-030-01.r2.md",
+      "sha256": "09cf0ff50d48615a4263cf6786011ab5724e38864a3235237cd4bf6cdb604143"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/phase1-r1-remote-audio.json",
+      "sha256": "014546dcb7bf497a303988a76fd2a7c6d7fa09a2eab8db69c9f824eeef47253f"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/phase1-r1-validation.json",
+      "sha256": "cef2e986a05dd7680b1c2337e7724d2228686d680f3799d05b69800c6c89aac0"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/phase1-r1b-remote.json",
+      "sha256": "9e75ae0b9d5fc38999a5e5876736c12c35ede89e1aed193090e0d13b0f1e8197"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/phase1-r1b-validation.json",
+      "sha256": "6b311172ed84f45e12d6f415ea72911c497a950c30120aae12cede98dce2db89"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/phase1-r2-validation.json",
+      "sha256": "20948876839503f156895e3410086dd2a3f478857868dd3cd4dc62298478dfdc"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/primary-retrieval.json",
+      "sha256": "94b17f9cf65776fd6fc269836fbb749a89387a9bd4376483c06ddfcf9bbed70c"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/project-validator-errors.json",
+      "sha256": "e82f192e6fe2ea6600a875e23f4c942c3c440078d6f3943d3eae07743baf229f"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/summary.json",
+      "sha256": "6a5cb4e7bd32398df979c28b8105a305a992414be6aade911e3f1fac196bf3db"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/validation.json",
+      "sha256": "44908e26f23bfb39cef91dc7fb9525118cac732ecee77a3cc2dfc7725e2e7446"
+    },
+    {
+      "path": "reports/reviews/gemini-book-I-2026-11-01/witness-retrieval.json",
+      "sha256": "ac213ae3fd11ec11e7201583fe8ed83a18d3a6774cc764affa8cf1cc4963768c"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/glossary__terms.json",
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manifest.json",
+      "sha256": "b2a9b802a70796ff3824d433d65db504a0dce5f4f99e71b5a338d1bceda908aa"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-1.json",
+      "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-2.json",
+      "sha256": "1f93eda0fad56d4893ccaf4b752028c1a28c07a464e97cbcecefe170f27bfefb"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-3.json",
+      "sha256": "d7ed8094a9b85ff36b1b654bdc578184f05f5d0932c70affea7f3f4bf49bbc1d"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-4.json",
+      "sha256": "23d1dfc7119ccc74919374b08ae7786958ad678363bb5b02a80f706ddd4e97b1"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-5.json",
+      "sha256": "4ede2d55e5416222ff6a6e3daf495bb80bb03b986596a7eb61a1add345111c22"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-6.json",
+      "sha256": "3238b71900a3a3a97366205af30dd1e11db1380fc8e4842472c01cae53aba28f"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-7.json",
+      "sha256": "d9a7342d5135c5f95af0c26ef0b85416df2656d5bf2fc7e4100c639df89b0a23"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-8.json",
+      "sha256": "66d2fb1297939a8c9222253a3fe3e8bcfa92590416716a2eb8321a02afa2cca1"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/progress__checkpoint.json",
+      "sha256": "5208bf11cbbac9fa464ee0c76aa4b3c00b1d527ba93c608ff1e97a90411d413f"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-2026-11-01/sources__catalog.json",
+      "sha256": "5a28a250c0462f8edccf377d75dc096570c465f29bea3e0b882f013cdc2f7b56"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/audio__index.json",
+      "sha256": "fffae7b48590ce80198ddfe6008b6b93298ca60e0829cee0855dbf2bc3e826fb"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/gemini-book-I-revision-disposition-r1.md",
+      "sha256": "848bf64b7e616eb7f4ac05d2c876f94c70fa50144b90c1aa513b16e9a7022d04"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/manifest.json",
+      "sha256": "c86e931ca7061cb4029bf5255f4dc07a41066fd123b2f082e0902e3e5a9e528a"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/progress__checkpoint.json",
+      "sha256": "8c5c5eeebedd870a73cd52a27e2367dabb641c865e746e72562b994279536ca4"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/sources__catalog.json",
+      "sha256": "b3e24c67fcebf3741d46e6565f699b28f95a4004fe3975debbcd2d5cab8f770c"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manifest.json",
+      "sha256": "9e763c1ec49e8b7cb079c6bd12f17c7cb54833c5e4f7f32c09083a161987fcb6"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-2.json",
+      "sha256": "cdb8b869f472a22cedb5e302e7d33e6049c140537047e1b0e08fdfd2d38d01bd"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-3.json",
+      "sha256": "4d013df08fa96a7b83d2b6625d9629785288a8be6175b09a4559cda3ae363f5c"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-4.json",
+      "sha256": "95e221c10a638aaa19e86ac3090770b4f0841d8beed02c4de2316e9f16e0907f"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-5.json",
+      "sha256": "f6ab6ea6520a817ad4b970d5ce158ce91225e7152bd309b146e358662f516426"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-6.json",
+      "sha256": "21ee73867e5939dc01e98c3eebdad7ceeec2e640b3d5e18bdefa586bc8e6022b"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-7.json",
+      "sha256": "0cb3e2f170845da39d1ef3d2a33f4de740524000edd90932c0f3213f8e8ad828"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manuscript__chapters__I-8.json",
+      "sha256": "c49a0e23ee6b17fde22a9bddd253c5ad1db00056d28cee5a449b8687075439c4"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/progress__RESUME.md",
+      "sha256": "778e106fab1e7c4048d6e491ddd7ee0fa3166d79bd67bf69f247adb5ff111e3e"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/progress__checkpoint.json",
+      "sha256": "cb24fc33dd1f23e8d765e04a0f477f426c1e5885d5af897e6c277352f869d10f"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/manifest.json",
+      "sha256": "95a5e63c8dd1e9a67153f90fd19c32fa9f9315170fc40c9645de8666d0730507"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/manuscript__chapters__I-2.json",
+      "sha256": "5af36352022b942b65938943bf18f8109a1b7309df383c3d0becb8b987120c5d"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/progress__RESUME.md",
+      "sha256": "bb4d52f95ef6031da1310223b5ad1be5b7e98d96ad30d856ff82722a90168b1e"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/progress__checkpoint.json",
+      "sha256": "31998fb2707925e0188f5c43639d68a3150da2eeda04c0cc4027d8166c9ff323"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/reports__revisions__I-3-base-text.r1.json",
+      "sha256": "79b060eeb3b30cd92eab8ca7c9af4f4340abdb2f01276530e267b289dc1d80a0"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/reports__revisions__fw-i2-030-01.r1.json",
+      "sha256": "2892c0f988fd5f7379f9c05745f361c4126a9bcb6b4d5a3728e6f1a5bb8192ac"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/reports__revisions__gemini-book-I-disposition-ledger.r1.json",
+      "sha256": "f21d54add2e972306ae7dc4cd53d0d4f5a9401364ac117cb5b613be7d626a6a9"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/witness-excerpts.json",
+      "sha256": "e2d7bb4a741d0cfa49498e2ce63995ae978e21236e25cb2b1bae89fe48ff25e9"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manifest.json",
+      "sha256": "e9aecae13764d55e9a56c7034dfcbf238a15115dad2a14621a013cbd5ce5ee38"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-2.json",
+      "sha256": "5af36352022b942b65938943bf18f8109a1b7309df383c3d0becb8b987120c5d"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-3.json",
+      "sha256": "f2d37c76655def1df833ec1f611bff2bc18f51c804c6fa78b3468f5981e14af9"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-4.json",
+      "sha256": "0938f085df129d61b42d4f2b69f017556460ad1dee3145bfde45f546e3e202b5"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-5.json",
+      "sha256": "89b095f8fb29c2c5e2d2eab4458b794c24d3f3415febb30b22865c37d6e091a3"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-6.json",
+      "sha256": "43e911c2ddae1aceee408c1918495de7669664be239153d69ae6657234231e24"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-7.json",
+      "sha256": "562dd3c7d9605ce9858daf342d2b6f85d2f638cd24f59c3fb217ba7a1fbf56ff"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-8.json",
+      "sha256": "d446c38f3d391ec2479f7554fc7e2d04b1e17cdfec068d83e6d976f1b8293708"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/progress__RESUME.md",
+      "sha256": "79f9ee69422da854e420f1b41e2c4ff350b616ff5acd12fb48ed4ff3aa815c8f"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/progress__checkpoint.json",
+      "sha256": "8c5c5eeebedd870a73cd52a27e2367dabb641c865e746e72562b994279536ca4"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__I-3-base-text.r2.json",
+      "sha256": "a36a9670331edf8f84806bdb49bc37c7d6540e439359f51a8c053db110b9725e"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__fw-i2-030-01.r2.json",
+      "sha256": "520c695500ff034978bffd6c58470e6a8083e5f9e7bcbb0c600114f453488c24"
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__gemini-book-I-disposition-ledger.r2.json",
+      "sha256": "e72dfaa52fb546258bda2477ee5952ea86acd6c67e9fa32fb68b569203793db6"
+    },
+    {
+      "path": "reports/revisions/fw-i2-030-01.r1.json",
+      "sha256": "2892c0f988fd5f7379f9c05745f361c4126a9bcb6b4d5a3728e6f1a5bb8192ac"
+    },
+    {
+      "path": "reports/revisions/fw-i2-030-01.r2.json",
+      "sha256": "520c695500ff034978bffd6c58470e6a8083e5f9e7bcbb0c600114f453488c24"
+    },
+    {
+      "path": "reports/revisions/I-3-base-text.r1.json",
+      "sha256": "79b060eeb3b30cd92eab8ca7c9af4f4340abdb2f01276530e267b289dc1d80a0"
+    },
+    {
+      "path": "reports/revisions/I-3-base-text.r2.json",
+      "sha256": "a36a9670331edf8f84806bdb49bc37c7d6540e439359f51a8c053db110b9725e"
+    },
+    {
+      "path": "reports/revisions/gemini-book-I-disposition-ledger.r1.json",
+      "sha256": "f21d54add2e972306ae7dc4cd53d0d4f5a9401364ac117cb5b613be7d626a6a9"
+    },
+    {
+      "path": "reports/revisions/gemini-book-I-disposition-ledger.r2.json",
+      "sha256": "9e6b19d12471a31da64496c5a91aad3516f770f067934b35f794a694816dc5b9"
+    }
+  ],
+  "validation": {
+    "project_check": "passed",
+    "python_unittest": {
+      "tests": 31,
+      "failures": 0
+    },
+    "build": "passed",
+    "check_artifacts": "passed",
+    "scope": "Ran in clean checkout based on baseline_commit with only archived review files added. Candidate semantics remain blocked/partial."
+  },
+  "integration_limits": [
+    "I.3 candidate annotations still require valid source-ID mapping before canonical integration; see PHASE1-R2-REVIEW.md."
+  ]
+}

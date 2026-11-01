@@ -1,0 +1,699 @@
+{
+  "date": "2026-11-01",
+  "role": "ai_review",
+  "executor": "Codex",
+  "decision": "needs_revision",
+  "input_manifest": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/manifest.json",
+  "input_manifest_sha256": "95a5e63c8dd1e9a67153f90fd19c32fa9f9315170fc40c9645de8666d0730507",
+  "witness_excerpts_sha256": "e2d7bb4a741d0cfa49498e2ce63995ae978e21236e25cb2b1bae89fe48ff25e9",
+  "baseline_files": [
+    {
+      "path": "audio/fw-i1-005-13.mp3",
+      "bytes": 3641516,
+      "sha256": "f0cb81302b1efb7a83108b3dbb440eaf6dcb7b8dad8c560a97c1a2e6ac975900",
+      "matches_public_worktree": true,
+      "ffprobe_exit": 0,
+      "duration_seconds": 151.672333
+    },
+    {
+      "path": "audio/fw-i1-006-13.mp3",
+      "bytes": 4359212,
+      "sha256": "a4567593542178e81e254541ca10b818cfd5ea40b5504ff5fac7d7ffbd9b9b6b",
+      "matches_public_worktree": true,
+      "ffprobe_exit": 0,
+      "duration_seconds": 181.571417
+    },
+    {
+      "path": "audio/index.json",
+      "bytes": 1996,
+      "sha256": "fffae7b48590ce80198ddfe6008b6b93298ca60e0829cee0855dbf2bc3e826fb",
+      "matches_public_worktree": true
+    },
+    {
+      "path": "sources/catalog.json",
+      "bytes": 98271,
+      "sha256": "46d49bb7281ff053516e333557524cf533bc2a9a30012c7f8387903bd6de5bca",
+      "matches_public_worktree": false
+    },
+    {
+      "path": "scripts/project.py",
+      "bytes": 43954,
+      "sha256": "ddbd88d1faf9cfee71c566e866a671de348db98165a17ed66ddbe371fcc54d4f",
+      "matches_public_worktree": true
+    }
+  ],
+  "i2": {
+    "file_sha256": "2892c0f988fd5f7379f9c05745f361c4126a9bcb6b4d5a3728e6f1a5bb8192ac",
+    "original_sha256": "dab89a84c1b6e4090bbb42c4eb0a45e83ec6d09c73c364915e79114dea0ac72e",
+    "original_unchanged_from_first_review": true,
+    "original_matches_faded_page_except_whitespace": true,
+    "alignment_english_concatenation_matches": true,
+    "alignment_chinese_concatenation_matches": true,
+    "submitted_alignment_ranges": [
+      "030.01–030.14",
+      "030.14–030.22",
+      "030.23–030.36",
+      "031.01–031.11",
+      "031.12–031.28",
+      "031.28–031.32"
+    ],
+    "checked_alignment_ranges": [
+      [
+        30,
+        1,
+        30,
+        11
+      ],
+      [
+        30,
+        11,
+        30,
+        19
+      ],
+      [
+        30,
+        19,
+        31,
+        3
+      ],
+      [
+        31,
+        3,
+        31,
+        11
+      ],
+      [
+        31,
+        11,
+        31,
+        28
+      ],
+      [
+        31,
+        28,
+        31,
+        33
+      ]
+    ],
+    "certainty": [
+      {
+        "id": "i2-agnomen-prodromarith",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      {
+        "id": "i2-sidlesham-wapentake",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      {
+        "id": "i2-dumlat-cincinnatus",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      {
+        "id": "i2-turnpike-earwuggers",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      {
+        "id": "i2-sailor-king-pouringrainia",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      {
+        "id": "i2-jom-pill-cladstone",
+        "certainty": "proposal",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    ],
+    "semantic_review": "fw-i2-030-01.r1.md"
+  },
+  "i3": {
+    "entry_count": 13,
+    "claimed_count": 12,
+    "base_text_resolved": false,
+    "entries": [
+      {
+        "submitted": {
+          "segment_id": "fw-i3-048-01",
+          "locator": "048.11",
+          "before": "Eyrawyglaa",
+          "after": "Eyrawyggla",
+          "witness": "Faded Page / Wiki 048.11",
+          "note": "更正爱尔霍恩传奇拼写"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          48,
+          16,
+          48,
+          17
+        ],
+        "checked_wiki_lines": [
+          "merrymen all, zimzim, zimzim. Of the persins sin this Eyrawyg-",
+          "gla saga (which, thorough readable to int from and, is from tubb"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_48",
+        "checked_wiki_raw_sha256": "890eb68fd66fc72d55b7557e643f1585f6d0eea91c3730243490a96f2d18c161",
+        "recommended_before": "Eyrawyglaa",
+        "recommended_after": "Eyrawyggla",
+        "recommended_segment_id": "fw-i3-048-01",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-048-01",
+          "locator": "048.22",
+          "before": "Buckleyitch",
+          "after": "Bucklovitch",
+          "witness": "Faded Page / Wiki 048.22",
+          "note": "更正布兰科·燧发枪手之女·巴克洛维奇假名"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          49,
+          8,
+          49,
+          9
+        ],
+        "checked_wiki_lines": [
+          "with Wolsey under the assumed name of Blanco Fusilovna Buck-",
+          "lovitch (spurious) after which the cawer and the marble halls"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_49",
+        "checked_wiki_raw_sha256": "fef7a4d7bd47485611e454bc80226f8c2845eeb9d9c2e7d8844b8bfc585536d9",
+        "recommended_before": "Buckleyitch",
+        "recommended_after": "Bucklovitch",
+        "recommended_segment_id": "fw-i3-048-01",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-048-01",
+          "locator": "048.33",
+          "before": "malfeasances",
+          "after": "malpractices",
+          "witness": "Faded Page / Wiki 048.33",
+          "note": "更正餐刀违规行径词形"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          50,
+          28,
+          50,
+          29
+        ],
+        "checked_wiki_lines": [
+          "she'd have the canary!) and was semiprivately convicted of mal-",
+          "practices with his hotwashed tableknife (glossing over the cark"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_50",
+        "checked_wiki_raw_sha256": "679e92aa757bf03bbb9ba0353aae4e1e17f87b124a845f9fb3d51d9728bcfd2f",
+        "recommended_before": "malfeasances",
+        "recommended_after": "malpractices",
+        "recommended_segment_id": "fw-i3-048-01",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-048-01",
+          "locator": "049.08",
+          "before": "yearweeksms",
+          "after": "yearschaums",
+          "witness": "Faded Page / Wiki 049.08",
+          "note": "更正年岁浮沫词形"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          50,
+          30,
+          50,
+          31
+        ],
+        "checked_wiki_lines": [
+          "in his pocket) that same snob of the dunhill, fully several year-",
+          "schaums riper, encountered by the General on that redletter"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_50",
+        "checked_wiki_raw_sha256": "679e92aa757bf03bbb9ba0353aae4e1e17f87b124a845f9fb3d51d9728bcfd2f",
+        "recommended_before": "yearweeksms",
+        "recommended_after": "yearschaums",
+        "recommended_segment_id": "fw-i3-048-01",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-048-01",
+          "locator": "049.19",
+          "before": "Calomnequeller's",
+          "after": "Calomnequiller's",
+          "witness": "Faded Page / Wiki 049.19",
+          "note": "更正造谣羽毛笔词形"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          50,
+          9,
+          50,
+          10
+        ],
+        "checked_wiki_lines": [
+          "has taken all the French leaves unveilable out of Calomne-",
+          "quiller's Pravities) from the sourface of this earth, that austral"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_50",
+        "checked_wiki_raw_sha256": "679e92aa757bf03bbb9ba0353aae4e1e17f87b124a845f9fb3d51d9728bcfd2f",
+        "recommended_before": "Calomnequeller's",
+        "recommended_after": "Calomnequiller's",
+        "recommended_segment_id": "fw-i3-048-01",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-050-33",
+          "locator": "051.14",
+          "before": "the two Curranss",
+          "after": "two Curchies",
+          "witness": "Faded Page / Wiki 051.14–15",
+          "note": "纠正实词篡变。撤销将错词附会为爱国演说家约翰·菲尔波特·柯兰的伪注"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          51,
+          14,
+          51,
+          15
+        ],
+        "checked_wiki_lines": [
+          "haardly creditable edventyres of the Haberdasher, the two Cur-",
+          "chies and the three Enkelchums in their Bearskin ghoats! Girles"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_51",
+        "checked_wiki_raw_sha256": "3a535a8f8bf2cd4545154f47523d0cca916bef7eeb090e2cdf151e82d367c279",
+        "recommended_before": "the two Curranss",
+        "recommended_after": "the two Curchies",
+        "recommended_segment_id": "fw-i3-050-33",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-050-33",
+          "locator": "052.23",
+          "before": "latitudinarianismr",
+          "after": "latitudinous baver",
+          "witness": "Faded Page / Wiki 052.23–24",
+          "note": "纠正实词篡变。撤销'宽容派神学教条'，恢复宽边帽及后接衣饰清单"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          52,
+          23,
+          52,
+          24
+        ],
+        "checked_wiki_lines": [
+          "tum or hum, would like to know. The first Humphrey's latitu-",
+          "dinous baver with puggaree behind, (calaboose belong bigboss"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_52",
+        "checked_wiki_raw_sha256": "48073fbae7b892620de06733e0c459996d20074bdd7a2ceb7c3c34be2442055a",
+        "recommended_before": "latitudinarianismr",
+        "recommended_after": "latitudinous baver",
+        "recommended_segment_id": "fw-i3-050-33",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-055-03",
+          "locator": "055.03",
+          "before": "Maemuffinstirnomates",
+          "after": "Maeromor Mournomates",
+          "witness": "Faded Page / Wiki 055.03–04",
+          "note": "纠正实词篡变。撤销捏造的松饼（muffin）释义，恢复阿伽门农与莫恩山脉双关"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          55,
+          3,
+          55,
+          4
+        ],
+        "checked_wiki_lines": [
+          "    The house of Atreox is fallen indeedust (Ilyam, Ilyum! Mae-",
+          "romor Mournomates !) averging on blight like the mundibanks of"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_55",
+        "checked_wiki_raw_sha256": "e4bc776831e07538ed9bbfd528dc3258c016e48a6b663f8d74c29b1247b8de21",
+        "recommended_before": "Maemuffinstirnomates",
+        "recommended_after": "Maeromor Mournomates",
+        "recommended_segment_id": "fw-i3-055-03",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-055-03",
+          "locator": "055.19",
+          "before": "firefountd",
+          "after": "fireleaved",
+          "witness": "Faded Page / Wiki 055.19",
+          "note": "更正火叶词形"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          55,
+          27,
+          55,
+          28
+        ],
+        "checked_wiki_lines": [
+          "wheeled encirculingly abound the gigantig's lifetree, our fire-",
+          "leaved loverlucky blomsterbohm, phoenix in our woodlessness,"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_55",
+        "checked_wiki_raw_sha256": "e4bc776831e07538ed9bbfd528dc3258c016e48a6b663f8d74c29b1247b8de21",
+        "recommended_before": "firefountd",
+        "recommended_after": "fireleaved",
+        "recommended_segment_id": "fw-i3-055-03",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-057-16",
+          "locator": "059.16",
+          "before": "Sevendialshes",
+          "after": "Sevenchurches",
+          "witness": "Faded Page / Wiki 059.16–17",
+          "note": "更正格伦达洛'七教堂'地名，撤销伦敦伦巴底街七钟面假想"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          59,
+          16,
+          59,
+          17
+        ],
+        "checked_wiki_lines": [
+          "penomen is a properismenon. A dustman nocknamed Seven-",
+          "churches in the employ of Messrs Achburn, Soulpetre and"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_59",
+        "checked_wiki_raw_sha256": "ac389f54253909229f2cdc08408a58313215f2a86385c9fc54b2120bd4bc6bce",
+        "recommended_before": "Sevendialshes",
+        "recommended_after": "Sevenchurches",
+        "recommended_segment_id": "fw-i3-057-16",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-065-34",
+          "locator": "066.17",
+          "before": "Edenquayy",
+          "after": "Edenberry",
+          "witness": "Faded Page / Wiki 066.17–18",
+          "note": "撤销指定都柏林伊甸码头的错注，恢复奥法利郡伊甸德里镇（Edenderry）与伊甸园双关"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          66,
+          17,
+          66,
+          18
+        ],
+        "checked_wiki_lines": [
+          "able Party, with afterwite, S.A.G., to Hyde and Cheek, Eden-",
+          "berry, Dubblenn, WC? Will whatever will be written in lappish"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_66",
+        "checked_wiki_raw_sha256": "847abb2983cb33b8b830bff12d5a0f4aafca1a90436ec5d60ff446bff50ef5d8",
+        "recommended_before": "Edenquayy",
+        "recommended_after": "Edenberry",
+        "recommended_segment_id": "fw-i3-065-34",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-065-34",
+          "locator": "067.16",
+          "before": "carbolics",
+          "after": "carcasses",
+          "witness": "Faded Page / Wiki 067.16–17",
+          "note": "更正腐尸骸骨词形，撤销服石炭酸自尽的虚构剧情"
+        },
+        "before_present_in_submitted_bound_segment": true,
+        "checked_range": [
+          67,
+          16,
+          67,
+          17
+        ],
+        "checked_wiki_lines": [
+          "who, he guntinued, on last epening after delivering some car-",
+          "casses mattonchepps and meatjutes on behalf of Messrs Otto"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_67",
+        "checked_wiki_raw_sha256": "a2edabb5561f1c6ea19645f689820a1e54701deb15908a38c3bb4916b3b50870",
+        "recommended_before": "carbolics",
+        "recommended_after": "carcasses",
+        "recommended_segment_id": "fw-i3-065-34",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      },
+      {
+        "submitted": {
+          "segment_id": "fw-i3-069-30",
+          "locator": "069.20",
+          "before": "propenomen is",
+          "after": "professionals",
+          "witness": "Faded Page / Wiki 069.20",
+          "note": "更正专业人士词形"
+        },
+        "before_present_in_submitted_bound_segment": false,
+        "checked_range": [
+          59,
+          15,
+          59,
+          16
+        ],
+        "checked_wiki_lines": [
+          "Prehistoric, obitered to his dictaphone an entychologist: his pro-",
+          "penomen is a properismenon. A dustman nocknamed Seven-"
+        ],
+        "checked_url": "https://www.finnegansweb.com/wiki/index.php/Page_59",
+        "checked_wiki_raw_sha256": "ac389f54253909229f2cdc08408a58313215f2a86385c9fc54b2120bd4bc6bce",
+        "recommended_before": "professionals",
+        "recommended_after": "propenomen is",
+        "recommended_segment_id": "fw-i3-057-16",
+        "recommended_before_present_in_correct_segment": true,
+        "corrected_after_in_dehyphenated_witness_context": true,
+        "limit": "仅词形与页行校勘，不验收条目 note 中的历史或词源解释；无原始扫描图像核验。"
+      }
+    ]
+  },
+  "checkpoint": {
+    "actual": {
+      "schema_version": 1,
+      "checkpoint_id": "fw-i2-046-01",
+      "chapter": "I.3",
+      "last_completed_segment": "fw-i2-046-01",
+      "next": [
+        48,
+        1
+      ],
+      "next_original": "Chest Cee! 'Sdense! Corpo di barragio! you spoof of visibility in a freakfog...",
+      "updated": "2026-11-01",
+      "notes": [
+        "第一卷第二章（I.2，030.01–047.34，共 10 个分段）已全部完成初译与系统注疏，覆盖率核定为 complete 并写入覆盖审校说明。",
+        "下一次翻译任务将从第一卷第三章（I.3）第 048.01 行续接。"
+      ]
+    },
+    "public_I2_coverage": "not_started",
+    "public_I2_segments": 0,
+    "chapter_record_present": true,
+    "consistent_with_public_manuscript": false,
+    "issue": "R1B-01"
+  },
+  "verification": [
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 /Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/scripts/project.py check",
+      "exit": 0,
+      "result": {
+        "chapters": 17,
+        "started": 2,
+        "complete": 1,
+        "segments": 27,
+        "reviewed": 0,
+        "notes": 230
+      },
+      "before_late_canonical_changes": true
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s /Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/tests -v",
+      "exit": 0,
+      "tests": 31,
+      "failures": 0,
+      "before_late_canonical_changes": true
+    }
+  ],
+  "build_run": false,
+  "limit": "checks apply to public manuscript and code, not revision semantics or cross-chapter checkpoint consistency",
+  "changes": "reports and input snapshots only; no canonical changes, commit or push",
+  "late_working_tree": {
+    "manifest": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/late-working-tree/manifest.json",
+    "manifest_sha256": "9e763c1ec49e8b7cb079c6bd12f17c7cb54833c5e4f7f32c09083a161987fcb6",
+    "observed": "2026-11-01T08:59:34.238043+00:00",
+    "chapter_comparison": [
+      {
+        "chapter": "I.2",
+        "coverage": "complete",
+        "segments": 10,
+        "equal_originals_to_rejected_candidate": 10,
+        "equal_translations_to_rejected_candidate": 10,
+        "equal_note_lists_to_rejected_candidate": 7
+      },
+      {
+        "chapter": "I.3",
+        "coverage": "complete",
+        "segments": 12,
+        "equal_originals_to_rejected_candidate": 12,
+        "equal_translations_to_rejected_candidate": 12,
+        "equal_note_lists_to_rejected_candidate": 12
+      },
+      {
+        "chapter": "I.4",
+        "coverage": "complete",
+        "segments": 12,
+        "equal_originals_to_rejected_candidate": 12,
+        "equal_translations_to_rejected_candidate": 12,
+        "equal_note_lists_to_rejected_candidate": 11
+      },
+      {
+        "chapter": "I.5",
+        "coverage": "complete",
+        "segments": 8,
+        "equal_originals_to_rejected_candidate": 8,
+        "equal_translations_to_rejected_candidate": 8,
+        "equal_note_lists_to_rejected_candidate": 8
+      },
+      {
+        "chapter": "I.6",
+        "coverage": "complete",
+        "segments": 12,
+        "equal_originals_to_rejected_candidate": 12,
+        "equal_translations_to_rejected_candidate": 12,
+        "equal_note_lists_to_rejected_candidate": 11
+      },
+      {
+        "chapter": "I.7",
+        "coverage": "complete",
+        "segments": 7,
+        "equal_originals_to_rejected_candidate": 7,
+        "equal_translations_to_rejected_candidate": 7,
+        "equal_note_lists_to_rejected_candidate": 7
+      },
+      {
+        "chapter": "I.8",
+        "coverage": "complete",
+        "segments": 4,
+        "equal_originals_to_rejected_candidate": 4,
+        "equal_translations_to_rejected_candidate": 4,
+        "equal_note_lists_to_rejected_candidate": 4
+      }
+    ],
+    "checkpoint": {
+      "chapter": "II.1",
+      "next": [
+        219,
+        1
+      ],
+      "next_original": "Hear! All ya hear! In the name of Annah the Allmaziful, the Everliving, the Bringer of Plurabilities, haloed be her eve, her fault be foil, give us this day our daily quadrangled...",
+      "updated": "2026-11-01",
+      "notes": [
+        "第一卷（I.1至I.8，共8章，第3页至第216页，共91段）正文翻译与学术注疏已全卷录入完成并核对覆盖。",
+        "下一阶段续译锚点为第二卷第一章（II.1）第219页第1行「Hear! All ya hear!...」。"
+      ]
+    },
+    "verified": false,
+    "limit": "Frozen later canonical chapters were compared only with rejected inputs. They were not accepted, edited, built or pushed."
+  },
+  "input_stability": {
+    "revision_submissions_unchanged": [
+      {
+        "path": "reports/revisions/fw-i2-030-01.r1.json",
+        "unchanged": true
+      },
+      {
+        "path": "reports/revisions/I-3-base-text.r1.json",
+        "unchanged": true
+      },
+      {
+        "path": "reports/revisions/gemini-book-I-disposition-ledger.r1.json",
+        "unchanged": true
+      }
+    ],
+    "canonical_and_progress_changed_during_review": true
+  },
+  "remote": {
+    "observed_date": "2026-11-01",
+    "mode": "read_only",
+    "main_sha": "4e2b13bd7256c347833305519230beeec64f3701",
+    "main_commit_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/commit/4e2b13bd7256c347833305519230beeec64f3701",
+    "compare_base": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+    "compare_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/compare/de234d723304a2fa8d39ccbc2a3a438ab1e95cfe...4e2b13bd7256c347833305519230beeec64f3701",
+    "compare_total_commits": 1,
+    "compare_files": [
+      {
+        "path": "README.md",
+        "status": "modified"
+      }
+    ],
+    "I2_at_fixed_main": {
+      "id": "I.2",
+      "book": "I",
+      "number": 2,
+      "pages": [
+        30,
+        47
+      ],
+      "title": "第一卷·第二章",
+      "coverage": "not_started",
+      "segments": []
+    },
+    "I2_fixed_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/blob/4e2b13bd7256c347833305519230beeec64f3701/manuscript/chapters/I-2.json"
+  }
+}

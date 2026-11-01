@@ -1,0 +1,66 @@
+{
+  "chapter": "I.8",
+  "input_sha256": "66d2fb1297939a8c9222253a3fe3e8bcfa92590416716a2eb8321a02afa2cca1",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_196",
+    "https://www.finnegansweb.com/wiki/index.php/Page_197",
+    "https://www.finnegansweb.com/wiki/index.php/Page_198",
+    "https://www.finnegansweb.com/wiki/index.php/Page_199",
+    "https://www.finnegansweb.com/wiki/index.php/Page_200",
+    "https://www.finnegansweb.com/wiki/index.php/Page_201",
+    "https://www.finnegansweb.com/wiki/index.php/Page_202",
+    "https://www.finnegansweb.com/wiki/index.php/Page_203",
+    "https://www.finnegansweb.com/wiki/index.php/Page_204",
+    "https://www.finnegansweb.com/wiki/index.php/Page_205",
+    "https://www.finnegansweb.com/wiki/index.php/Page_206",
+    "https://www.finnegansweb.com/wiki/index.php/Page_207",
+    "https://www.finnegansweb.com/wiki/index.php/Page_208",
+    "https://www.finnegansweb.com/wiki/index.php/Page_209",
+    "https://www.finnegansweb.com/wiki/index.php/Page_210",
+    "https://www.finnegansweb.com/wiki/index.php/Page_211",
+    "https://www.finnegansweb.com/wiki/index.php/Page_212",
+    "https://www.finnegansweb.com/wiki/index.php/Page_213",
+    "https://www.finnegansweb.com/wiki/index.php/Page_214",
+    "https://www.finnegansweb.com/wiki/index.php/Page_215",
+    "https://www.finnegansweb.com/wiki/index.php/Page_216"
+  ],
+  "candidate_words": 7898,
+  "witness_words": 7898,
+  "similarity": 1.0,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i8-196-01",
+      "note_id": "i8-anna-livia-plurabelle-symbol",
+      "lemma": "Anna Livia Plurabelle"
+    },
+    {
+      "segment_id": "fw-i8-196-01",
+      "note_id": "i8-wicklow-hills-source",
+      "lemma": "Up in the Wicklow hills, trickling through the heather"
+    },
+    {
+      "segment_id": "fw-i8-196-01",
+      "note_id": "i8-world-rivers-dialogue",
+      "lemma": "names of rivers hidden in the gossiping cadence"
+    },
+    {
+      "segment_id": "fw-i8-201-21",
+      "note_id": "i8-rejuvenation-hera-kanathos",
+      "lemma": "how she made herself young again, how she washed herself"
+    },
+    {
+      "segment_id": "fw-i8-201-21",
+      "note_id": "i8-drawers-with-bells",
+      "lemma": "drawars... with the bells on it"
+    },
+    {
+      "segment_id": "fw-i8-205-16",
+      "note_id": "i8-111-children-gifts",
+      "lemma": "gifts for all her children"
+    }
+  ]
+}

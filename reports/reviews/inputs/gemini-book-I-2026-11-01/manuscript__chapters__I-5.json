@@ -1,0 +1,599 @@
+{
+  "id": "I.5",
+  "book": "I",
+  "number": 5,
+  "pages": [
+    104,
+    125
+  ],
+  "title": "第一卷·第五章",
+  "coverage": "complete",
+  "segments": [
+    {
+      "id": "fw-i5-104-01",
+      "locator": "104.01–107.07",
+      "range": [
+        104,
+        1,
+        107,
+        7
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "In the name of Annah the Allmaziful, the Everliving, the Bringer of Plurabilities...",
+      "closing": "...falsely Accusing about the Raincoats.",
+      "original": "In the name of Annah the Allmaziful, the Everliving, the\nBringer of Plurabilities, haloed be her eve, her singtime sung, her\nrill be run, unhemmed as it is uneven!\nHer untitled mamafesta memorialising the Mosthighest has\ngone by many names at disjointed times. Thus we hear of, The\nAugusta Angustissimost for Old Seabeastius' Salvation, Rockabill\nBooby in the Wave Trough, Here's to the Relicts of All Decencies,\nAnna Stessa's Rise to Notice, Knickle Down Duddy Gunne and\nArishe Sir Cannon, My Golden One and My Selver Wedding,\nAmoury Treestam and Icy Siseule, Saith a Sawyer til a Strame, Ik\ndik dopedope et tu mihimihi, Buy Birthplate for a Bite, Which of\nyour Hesterdays Mean Ye to Morra? Hoebegunne the Hebrewer\nHit Waterman the Brayned, Arcs in His Ceiling Flee Chinx on the\nFlur, Rebus de Hibernicis, The Crazier Letters, Groans of a Briton-\ness, Peter Peopler Picked a Plot to Pitch his Poppolin, An Apology\nfor a Big (some such nonoun as Husband or  husboat or hose-\nbound is probably understood for we have also the plutherple-\nthoric My Hoonsbood Hansbaad's a Journey to Porthergill gone\nand He Never Has the Hour), Ought We To Visit Him? For Ark\nsee Zoo, Cleopater's Nedlework Ficturing Aldborougham on the\nSahara with the Coombing of the Cammmels and the Parlourmaids\nof Aegypt, Cock in the Pot for Father, Placeat Vestrae, A New\nCure for an Old Clap, Where Portentos they'd Grow Gonder how\nI'd Wish I Woose a Geese; Gettle Nettie, Thrust him not, When the\nMyrtles of Venice Played to Bloccus's Line, To Plenge Me High\nHe Waives Chiltern on Friends], Oremunds Queue Visits Amen\nMart, E'en Tho' I Granny a-be He would Fain Me Cuddle, Twenty\nof Chambers, Weighty Ten Beds and a Wan Ceteroom, I Led the\nLife, Through the Boxer Coxer Rising in the House with the Golden\nStairs, The Following Fork, He's my O'Jerusalem and I'm his\nPo, The Best in the West, By the Stream of Zemzem under Zig-\nzag Hill, The Man That Made His Mother in the Marlborry\nTrain, Try Our Taal on a Taub, The Log of Anny to the Base\nAll, Nopper Tipped a Nappiwenk to his Notylytl Dantsigirls, Prszss\nOrel Ore the King of Orlbrdsz, Intimier Minnelisp of an Extor-\nreor Monolothe, Drink to Him, My Juckey, and Dhoult Bemine\nThy Winnowing Sheet, I Ask You to Believe I was his Mistress,\nHe Can Explain, From Victrolia Nuancee to Allbart Noahnsy,\nDa's a Daisy so Guimea your Handsel too, What Barbaras Done\nto a Barrel Organ Before the Rank, Tank and Bonnbtail, Huskvy\nAdmortal, What Jumbo made to Jalice and what Anisette to Him,\nOphelia's Culpreints, Hear Hubty Hublin, My Old Dansh, I am\nOlder northe Rogues among Whisht I Slips and He Calls Me his\nDual of Ayessha, Suppotes a Ventriliquorst Merries a Corpse,\nLapps for Finns This Funnycoon's Week, How the Buckling Shut\nat Rush in January, Look to the Lady, From the Rise of the\nDudge Pupublick to the Fall of the Potstille, Of the Two Ways\nof Opening the Mouth, I have not Stopped Water Where It Should\nFlow and I Know the Twentynine Names of Attraente, The Tortor\nof Tory Island Traits Galasia like his Milchcow, From Abbeygate\nto Crowalley Through a Lift in the Lude, Smocks for Their Graces\nand Me Aunt for Them Clodshoppers, How to Pull a Good Horus-\ncoup even when Oldsire is Dead to the World, Inn the Gleam of\nWaherlow, Fathe He's Sukceded to My Esperations, Thee Steps\nForward, Two Stops Back, My Skin Appeals to Three Senses and\nMy Curly Lips Demand Columbkisses; Gage Street on a Crany's\nSavings, Them Lads made a Trion of Battlewatschers and They\nTotties a Doeit of Deers, In My Lord's Bed by One Whore Went\nThrough It, Mum It is All Over, Cowpoyride by Twelve Acre Ter-\nriss in the Unique Estates of Amessican, He Gave me a Thou so I\nserve Him with Thee, Of all the Wide Torsos in all the Wild Glen,\nO'Donogh, White Donogh, He's Hue to Me Cry, I'm the Stitch\nin his Baskside You'd be Nought Without Mom, To Keep the\nHuskies off the Hustings and Picture Pets from Lifting Shops, Nor-\nsker Torsker Find the Poddle, He Perssed Me Here with the Ardour\nof a Tonnoburkes, A Boob Was Weeping This Mower was Reaping,\nO'Loughlin, Up from the Pit of my Stomach I Swish you the White\nof the Mourning, Inglo-Andean Medoleys from Tommany Moohr,\nThe Great Polynesional Entertrainer Exhibits Ballantine Braut-\nchers with the Link of Natures, The Mimic of Meg Neg end\nthe Mackeys, Entered as the Lastest Pigtarial and My Pooridiocal\nat Stitchioner's Hall, Siegfield Follies and or a Gentlehomme's Faut\nPas, See the First Book of Jealesies Pessim, The Suspended Sen-\ntence, A Pretty Brick Story for Childsize Heroes, As Lo Our Sleep,\nI Knew I'd Got it in Me so Thit settles That, Thonderbalt Captain\nSmeth and La Belle Sauvage Pocahonteuse, Way for Wet Week\nWelikin's Douchka Marianne, The Last of the Fingallians, It Was\nMe Egged Him on to the Stork Exchange and Lent my Dutiful\nFace to His Customs, Chee Chee Cheels on their China Miction,\nPickedmeup Peters, Lumptytumtumpty had a Big Fall, Pimpimp\nPimpimp, Measly Ventures of Two Lice and the Fall of Fruit,\nThe Fokes Family Interior, If my Spreadeagles Wasn't so Tight\nI'd Loosen my Cursits on that Bunch of Maggiestraps, Allolosha\nPopofetts and Howke Cotchme Eye, Seen Aples and Thin Dyed,\ni big U to Beleaves from Love and Mother, Fine's Fault was no\nFelon, Exat Delvin Renter Life,The Flash that Flies from Vuggy's\nEyes has Set Me Hair On Fire, His is the House that Malt Made,\nDivine Views from Back to the Front, Abe to Sare Stood Icyk\nNeuter till Brahm Taulked Him Common Sex, A Nibble at Eve\nWill That Bowal Relieve, Allfor Guineas, Sounds and Compliments\nLibidous, Seven Wives Awake Aweek, Airy Ann and Berber Blut,\nAmy Licks Porter While Huffy Chops Eads, Abbrace of Umbellas\nor a Tripple of Caines, Buttbutterbust, From the Manorlord Hoved\nto the Misses O'Mollies and from the Dames to their Sames, Many-\nfestoons for the Colleagues on the Green, An Outstanding Back and\nan Excellent Halfcentre if Called on, As Tree is Quick and Stone is\nWhite So is My Washing Done by Night, First and Last Only\nTrue Account all about the Honorary Mirsu Earwicker, L.S.D.,\nand the Snake (Nuggets!) by a Woman of the World who only can\nTell Naked Truths about a Dear Man and all his Conspirators how\nthey all Tried to Fall him Putting it all around Lucalizod about\nPrivates Earwicker and a Pair of Sloppy Sluts plainly Showing all\nthe Unmentionability falsely Accusing about the Raincoats.",
+      "draft": "奉至慈至悯安娜之名，永生者，万千造化与众象之源，愿圣化归于她的前夕，愿她的歌唱时光吟罢，愿她的涓涓清溪奔流，无拘无束正如跌宕起伏！\n\n她那未具题名、追念至高者的慈母宣言手卷，在错乱的岁月里曾冠以形形色色的名号。于是我们听闻：《救赎老海兽的最极狭隘奥古斯都行传》，《波谷里的石崖鲣鸟》，《敬向体统的一切孑遗残骸》，《安娜本尊崭露头角》，《屈膝认输的达迪·冈恩与爱尔兰加农炮大炮爵士》，《我的金美人与我的银婚大庆》，《多情崔斯坦与冰洁伊索尔德》，《锯工对溪流长谈》，《我你傻瓜笨伯，你亦向我喃喃》，《换一口饭吃典卖长子继承盘》，《你们哪一天的昨日打算挪到明天？》，《谁先挑起话头：希伯来老酿工痛殴脑浆迸裂的水夫》，《天花板上弧线游走，地板裂隙四散奔逃》，《爱尔兰图谜物语》，《更疯癫的信笺》，《不列颠妇人的呻吟》，《彼得·民意挑选地皮支起小酒棚》，《为大个子辩白》（此处想必省去某个虚词假名，诸如“丈夫”、“家船”或“裤裹汉”，因我们还见过冗赘堆砌的《吾夫汉斯巴德出巡波特吉尔一去不返且从未看准钟点》），《我们该去探望他么？》，《欲观方舟，请移步动物园》，《克利奥帕特拉针线活儿：撒哈拉上奥尔德伯勒图景兼梳理骆驼与埃及侍女》，《献给父亲的锅中肥鸡》，《伏乞恩准》，《旧花柳之新疗法》，《凶兆渐长之处，我多盼自己化作鹅群》，《娇小内蒂，莫要戳他》，《当威尼斯的香桃木顺从夏洛克的绳墨演奏》，《纵身跃过恩尼斯克龙高崖》，《他为友人辞去奇尔特恩勋位》，《奥蒙德长队参谒阿门市集》，《纵使我已成老妪，他仍巴望搂我入怀》，《二十个厅堂，十张沉甸甸大床，外加一间惨淡会客室》，《我这辈子风光过》，《在金阶梯宅邸里经历博克斯与考克斯之乱》，《随行的餐叉》，《他是我的老耶路撒冷，我是他的波河》，《西部之冠》，《曲折山下赞赞泉流之畔》，《在马尔伯勒列车上把母亲打扮体面的汉子》，《在鸽子上试讲南非荷兰语》，《安妮直抵棒球垒位的航海日记》，《小掌柜向但泽俏娇娘递眼色打呼噜》，《普热希斯尔雄鹰翱翔在众鸟之王头上》，《巨石石柱的外露倾吐与私密情歌细语》，《为他干杯吧，我的水手小哥，且以扬谷布裹尸作我的衾枕》，《求你相信我曾是他的情妇》，《他能解释得清》，《从维多利亚微妙曲调到阿尔伯特胡言乱语》，《老爹真是一朵雏菊，也请给我一份开市彩头》，《芭芭拉在市井宵小军容列队前对街头手摇风琴干下的勾当》，《不朽的雪橇犬上将》，《大象詹博对爱丽丝的所作所为以及茴香酒对他的效验》，《奥菲莉娅的戴罪罪迹》，《且听喧嚣的都柏林老爹，我的老丹麦故人》，《我比在沉默中滑过的恶汉们更加年长，他唤我作他那一双阿伊莎》，《设想腹语术师迎娶一具女尸》，《滑稽戏这周：拉普人冒充芬兰人》，《一月里罗什镇的年轻浪子如何闭户收场》，《当心那位贵妇》，《从恶怒小共和国崛起至私酿蒸馏器倾覆》，《张嘴的两种法门》，《流水当过之处我未曾阻拦，我深谙诱惑者的二十九种芳名》，《托里岛上的暴虐水龟把加拉西亚当作奶牛使唤》，《穿过乐曲悠扬的天窗，从修道院门直通乌鸦巷》，《给公爵夫人穿上汗衫，留我姑母对付那些泥腿村汉》，《纵使老祖父人事不省，照样打出一记漂亮的荷鲁斯神卦》，《在滑铁卢波光微茫的客栈中》，《老爹完全顺遂了我的期许》，《前行三步，后退两截》，《我的肌肤撩动三种感官，我的卷唇索求鸽子般的亲吻》，《靠老妪私房钱盘下的盖奇街地皮》，《这帮小伙凑出三人哨兵哨队，那些浪荡女结成一对双飞雌鹿》，《在爵爷床上，那荡妇翻云覆雨混将过去》，《噤声吧，万事已休》，《在美利坚独特庄园的十二英亩排屋前骑牛飞驰》，《他赏我一千金，我便借你来服侍他》，《在野性幽谷的所有粗壮身躯里》，《奥多诺霍，洁白的奥多诺霍，他是我呼号的回响》，《我是扎在他背脊的针脚，没有老妈你们全是一场空》，《防范爱斯基摩犬登上竞选台，莫让画报宠物沿街顺手牵羊》，《北欧鳕鱼客寻获波德尔溪》，《他怀着汤姆·伯克式的狂热，在这儿将我一把抱紧》，《笨伯在啜泣，刈草人正挥镰收割》，《奥洛克林啊，我自肚腹深处为你泼出丧仪的白光》，《托马斯·摩尔调制的英格兰—安第斯杂锦曲》，《伟大的波利尼西亚杂耍导师借助天性纽带，当场演示巴伦泰胸衣》，《梅格·内格与麦基一伙的滑稽滑步》，《在文具公会注册为最新画报兼我的惨淡期刊》，《齐格飞歌舞团大秀，抑或绅士的失足失礼》，《详见〈妒忌经〉第一卷随处各节》，《缓期判决》，《专供童稚英雄的俏丽积木演义》，《瞧啊，我们的沉睡》，《我就料定自己身上有这股劲儿，那就一锤定音》，《霹雳队长史密斯与蛮荒美人波卡洪塔斯》，《让路给阴雨连绵周穹苍的亲亲玛丽安》，《最后的芬戈尔遗民》，《正是我撺掇他杀奔鹳鸟股票交易所，还向他的海关献出恪尽妇道的笑脸》，《在瓷尿盆上叽叽喳喳的顽童》，《提神醒脑的彼得大叔》，《胖墩矮胖子摔了个大跟头》，《皮条客拉客啦！皮条客拉客啦！》，《两只虱子的寒酸冒险与禁果坠落》，《福克斯一家的闺房隐秘》，《要不是我的双头鹰束衣绷得太紧，我早解开胸衣臭骂那帮长舌女官》，《阿廖沙·波波维奇与霍克引我瞩目》，《品尝苹果后凄凉死去》，《乞求你们从母爱中采撷信念》，《芬恩之过算不得重罪》，《德尔文房客在生活的原原本本》，《从弗吉明眸闪射的电光引燃了我的青丝》，《这便是麦芽酿成的那所房舍》，《由后至前一览无余的神圣胜景》，《亚伯拉罕对撒拉而言犹如中性以撒，直到梵天向他讲明人道之欲》，《前夕稍作啄食，便教脏腑通畅》，《全为几枚基尼金币、浪荡声色与奉承谄媚》，《一星期里轮番醒觉的七个娇妻》，《阿里安与柏柏尔人的血脉》，《艾米大口灌黑啤，老怒汉霍菲挥斧砍人头》，《一对雨伞，抑或三根手杖》，《屁股黄油大溃决》，《从庄园领主霍斯勋爵到莫莉家小姐们，再从贵妇们延及同类贱婢》，《献给绿茵场上同僚的多彩花彩》，《若蒙召唤，定是拔尖后卫与出色中卫》，《正如树木生机勃勃而磐石皎白，我的浆洗总在夜幕下告竣》，以及——\n\n《关于尊贵的埃尔维克先生（镑、先令、便士大名士勋衔）与草底长蛇（金块在此！）唯一始末翔实的真正始末记——由一位饱经沧桑之巾帼据实陈词，全篇唯独她能道出关于这位可亲汉子及其全体阴谋同伙的赤裸真情：他们如何在卢肯与查珀利佐德全境四处散布谣言，妄图陷他于不义，罗织关于埃尔维克下等私兵（以及下体阴私）与那一对邋遢下贱泼妇的丑闻，原原本本揭露关于那些雨衣之妄加罪名中隐藏的全部难以启齿之勾当。》",
+      "translation": "奉至慈至悯安娜之名，永生者，万千造化与众象之源，愿圣化归于她的前夕，愿她的歌唱时光吟罢，愿她的涓涓清溪奔流，无拘无束正如跌宕起伏！\n\n她那未具题名、追念至高者的慈母宣言手卷，在错乱的岁月里曾冠以形形色色的名号。于是我们听闻：《救赎老海兽的最极狭隘奥古斯都行传》，《波谷里的石崖鲣鸟》，《敬向体统的一切孑遗残骸》，《安娜本尊崭露头角》，《屈膝认输的达迪·冈恩与爱尔兰加农炮大炮爵士》，《我的金美人与我的银婚大庆》，《多情崔斯坦与冰洁伊索尔德》，《锯工对溪流长谈》，《我你傻瓜笨伯，你亦向我喃喃》，《换一口饭吃典卖长子继承盘》，《你们哪一天的昨日打算挪到明天？》，《谁先挑起话头：希伯来老酿工痛殴脑浆迸裂的水夫》，《天花板上弧线游走，地板裂隙四散奔逃》，《爱尔兰图谜物语》，《更疯癫的信笺》，《不列颠妇人的呻吟》，《彼得·民意挑选地皮支起小酒棚》，《为大个子辩白》（此处想必省去某个虚词假名，诸如“丈夫”、“家船”或“裤裹汉”，因我们还见过冗赘堆砌的《吾夫汉斯巴德出巡波特吉尔一去不返且从未看准钟点》），《我们该去探望他么？》，《欲观方舟，请移步动物园》，《克利奥帕特拉针线活儿：撒哈拉上奥尔德伯勒图景兼梳理骆驼与埃及侍女》，《献给父亲的锅中肥鸡》，《伏乞恩准》，《旧花柳之新疗法》，《凶兆渐长之处，我多盼自己化作鹅群》，《娇小内蒂，莫要戳他》，《当威尼斯的香桃木顺从夏洛克的绳墨演奏》，《纵身跃过恩尼斯克龙高崖》，《他为友人辞去奇尔特恩勋位》，《奥蒙德长队参谒阿门市集》，《纵使我已成老妪，他仍巴望搂我入怀》，《二十个厅堂，十张沉甸甸大床，外加一间惨淡会客室》，《我这辈子风光过》，《在金阶梯宅邸里经历博克斯与考克斯之乱》，《随行的餐叉》，《他是我的老耶路撒冷，我是他的波河》，《西部之冠》，《曲折山下赞赞泉流之畔》，《在马尔伯勒列车上把母亲打扮体面的汉子》，《在鸽子上试讲南非荷兰语》，《安妮直抵棒球垒位的航海日记》，《小掌柜向但泽俏娇娘递眼色打呼噜》，《普热希斯尔雄鹰翱翔在众鸟之王头上》，《巨石石柱的外露倾吐与私密情歌细语》，《为他干杯吧，我的水手小哥，且以扬谷布裹尸作我的衾枕》，《求你相信我曾是他的情妇》，《他能解释得清》，《从维多利亚微妙曲调到阿尔伯特胡言乱语》，《老爹真是一朵雏菊，也请给我一份开市彩头》，《芭芭拉在市井宵小军容列队前对街头手摇风琴干下的勾当》，《不朽的雪橇犬上将》，《大象詹博对爱丽丝的所作所为以及茴香酒对他的效验》，《奥菲莉娅的戴罪罪迹》，《且听喧嚣的都柏林老爹，我的老丹麦故人》，《我比在沉默中滑过的恶汉们更加年长，他唤我作他那一双阿伊莎》，《设想腹语术师迎娶一具女尸》，《滑稽戏这周：拉普人冒充芬兰人》，《一月里罗什镇的年轻浪子如何闭户收场》，《当心那位贵妇》，《从恶怒小共和国崛起至私酿蒸馏器倾覆》，《张嘴的两种法门》，《流水当过之处我未曾阻拦，我深谙诱惑者的二十九种芳名》，《托里岛上的暴虐水龟把加拉西亚当作奶牛使唤》，《穿过乐曲悠扬的天窗，从修道院门直通乌鸦巷》，《给公爵夫人穿上汗衫，留我姑母对付那些泥腿村汉》，《纵使老祖父人事不省，照样打出一记漂亮的荷鲁斯神卦》，《在滑铁卢波光微茫的客栈中》，《老爹完全顺遂了我的期许》，《前行三步，后退两截》，《我的肌肤撩动三种感官，我的卷唇索求鸽子般的亲吻》，《靠老妪私房钱盘下的盖奇街地皮》，《这帮小伙凑出三人哨兵哨队，那些浪荡女结成一对双飞雌鹿》，《在爵爷床上，那荡妇翻云覆雨混将过去》，《噤声吧，万事已休》，《在美利坚独特庄园的十二英亩排屋前骑牛飞驰》，《他赏我一千金，我便借你来服侍他》，《在野性幽谷的所有粗壮身躯里》，《奥多诺霍，洁白的奥多诺霍，他是我呼号的回响》，《我是扎在他背脊的针脚，没有老妈你们全是一场空》，《防范爱斯基摩犬登上竞选台，莫让画报宠物沿街顺手牵羊》，《北欧鳕鱼客寻获波德尔溪》，《他怀着汤姆·伯克式的狂热，在这儿将我一把抱紧》，《笨伯在啜泣，刈草人正挥镰收割》，《奥洛克林啊，我自肚腹深处为你泼出丧仪的白光》，《托马斯·摩尔调制的英格兰—安第斯杂锦曲》，《伟大的波利尼西亚杂耍导师借助天性纽带，当场演示巴伦泰胸衣》，《梅格·内格与麦基一伙的滑稽滑步》，《在文具公会注册为最新画报兼我的惨淡期刊》，《齐格飞歌舞团大秀，抑或绅士的失足失礼》，《详见〈妒忌经〉第一卷随处各节》，《缓期判决》，《专供童稚英雄的俏丽积木演义》，《瞧啊，我们的沉睡》，《我就料定自己身上有这股劲儿，那就一锤定音》，《霹雳队长史密斯与蛮荒美人波卡洪塔斯》，《让路给阴雨连绵周穹苍的亲亲玛丽安》，《最后的芬戈尔遗民》，《正是我撺掇他杀奔鹳鸟股票交易所，还向他的海关献出恪尽妇道的笑脸》，《在瓷尿盆上叽叽喳喳的顽童》，《提神醒脑的彼得大叔》，《胖墩矮胖子摔了个大跟头》，《皮条客拉客啦！皮条客拉客啦！》，《两只虱子的寒酸冒险与禁果坠落》，《福克斯一家的闺房隐秘》，《要不是我的双头鹰束衣绷得太紧，我早解开胸衣臭骂那帮长舌女官》，《阿廖沙·波波维奇与霍克引我瞩目》，《品尝苹果后凄凉死去》，《乞求你们从母爱中采撷信念》，《芬恩之过算不得重罪》，《德尔文房客在生活的原原本本》，《从弗吉明眸闪射的电光引燃了我的青丝》，《这便是麦芽酿成的那所房舍》，《由后至前一览无余的神圣胜景》，《亚伯拉罕对撒拉而言犹如中性以撒，直到梵天向他讲明人道之欲》，《前夕稍作啄食，便教脏腑通畅》，《全为几枚基尼金币、浪荡声色与奉承谄媚》，《一星期里轮番醒觉的七个娇妻》，《阿里安与柏柏尔人的血脉》，《艾米大口灌黑啤，老怒汉霍菲挥斧砍人头》，《一对雨伞，抑或三根手杖》，《屁股黄油大溃决》，《从庄园领主霍斯勋爵到莫莉家小姐们，再从贵妇们延及同类贱婢》，《献给绿茵场上同僚的多彩花彩》，《若蒙召唤，定是拔尖后卫与出色中卫》，《正如树木生机勃勃而磐石皎白，我的浆洗总在夜幕下告竣》，以及——\n\n《关于尊贵的埃尔维克先生（镑、先令、便士大名士勋衔）与草底长蛇（金块在此！）唯一始末翔实的真正始末记——由一位饱经沧桑之巾帼据实陈词，全篇唯独她能道出关于这位可亲汉子及其全体阴谋同伙的赤裸真情：他们如何在卢肯与查珀利佐德全境四处散布谣言，妄图陷他于不义，罗织关于埃尔维克下等私兵（以及下体阴私）与那一对邋遢下贱泼妇的丑闻，原原本本揭露关于那些雨衣之妄加罪名中隐藏的全部难以启齿之勾当。》",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-bismillah-annah-allmaziful",
+          "lemma": "In the name of Annah the Allmaziful, the Everliving, the Bringer of Plurabilities, haloed be her eve, her singtime sung, her rill be run, unhemmed as it is uneven!",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "伊斯兰大赞辞（Basmala：Bi-smi llāh ar-raḥmān ar-raḥīm）与《主祷文》（Lord’s Prayer）之双重戏仿交融。Annah the Allmaziful 嵌合阿拉伯语至仁（al-Rahman）、至慈（al-Rahim）与令人惊奇（mazeful）；Everliving 对应真主尊名 al-Hayy（永生者）；Bringer of Plurabilities 嵌入 ALP 首字母缩写，指多元可能性与丰饶生命的创生者；后半句仿《主祷文》“愿祢的名受显圣，愿祢的国降临，愿祢的旨意奉行在人间如同在天上”，化为河神安娜黄昏安歇、欢歌唱罢、清溪奔流、自由无羁且蜿蜒跌宕之河川自然律动。",
+          "source_ids": [
+            "fw-page104",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-mamafesta-memorialising-titles",
+          "lemma": "Her untitled mamafesta memorialising the Mosthighest has gone by many names at disjointed times...",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "安娜为亡夫 HCE 辩白洗冤的“慈母宣言手卷”（mamafesta = manifesto + mama + festa 慈母盛典宣言），追念至高者（Mosthighest 指造物主兼巨灵 HCE）。在世代流传中，该手卷化身都柏林民间长街曲艺、歌谣传单、滑稽小曲、宗教辩难、史诗演义与街谈巷议百余种戏谑标题。",
+          "source_ids": [
+            "fw-page104",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-tristram-siseule-swift-hesterdays",
+          "lemma": "Amoury Treestam and Icy Siseule... Which of your Hesterdays Mean Ye to Morra?",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "多情崔斯坦（Amoury Treestam）与冰结伊索尔德（Icy Siseule / Iseult）传奇爱情主题重现；斯威夫特（Jonathan Swift）与其两度挚爱海丝特·约翰逊（Hester Johnson / Stella）与埃丝特·范霍姆里（Esther Vanhomrigh / Vanessa）之纠葛化入“将昨日（Hesterdays）挪至明日（Morra）”。",
+          "source_ids": [
+            "fw-page104",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-cleopatra-needle-aldborougham",
+          "lemma": "Cleopater’s Nedlework Ficturing Aldborougham on the Sahara with the Coombing of the Cammmels and the Parlourmaids of Aegypt",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "埃及克利奥帕特拉方尖碑（Cleopatra’s Needle，都柏林亦有同名纪念碑）与都柏林北部奥尔德伯勒宅邸（Aldborough House）及库姆盆地（the Coombe）地名拼合；以针线活（needlework）、撒哈拉沙漠梳理骆驼与侍女并置，暗指古代东方异域图景与都柏林地方风物的混杂缝合。",
+          "source_ids": [
+            "fw-page104",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-book-of-the-dead-negative-confession",
+          "lemma": "I have not Stopped Water Where It Should Flow and I Know the Twentynine Names of Attraente",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "古埃及《死者之书》（Book of the Dead）第125章著名的“无罪否定告白”（Negative Confession）典故：“我未曾在流水当行之处横加阻拦”；暗合安娜·利维亚作为利菲河女神顺畅流经大地、哺育万物的天然德行；“二十九种诱惑之名”指代表二月润年二十九天的飞跃少女群（Leap Year Girls / Issy）。",
+          "source_ids": [
+            "fw-page105",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-final-grand-pamphlet-title",
+          "lemma": "First and Last Only True Account all about the Honorary Mirsu Earwicker, L.S.D., and the Snake (Nuggets!) by a Woman of the World...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "手卷目录之终极大压轴标题：仿18、19世纪伦敦与都柏林街头恶俗黄色小报、市井申冤状与凶杀案实录。称呼埃尔维克为享有“镑、先令、便士”（L.S.D.，谐称荣誉勋位）的“名誉先生”；“草底长蛇与金块”指涉伊甸园诱惑原罪、下体与金钱；安娜以“阅尽沧桑的尘世女子”自居，指控三名士兵与一对邋遢荡妇在卢肯与查珀利佐德四处造谣诽谤，直斥所谓“雨衣（Mackintoshes / 安全套）事件”纯属诬陷。",
+          "source_ids": [
+            "fw-page107",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-107-08",
+      "locator": "107.08–110.21",
+      "range": [
+        107,
+        8,
+        110,
+        21
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "The proteiform graph itself is a polyhedron of scripture. There was a time...",
+      "closing": "...are ever likely to be. Ahahn!",
+      "original": "The proteiform graph itself is a polyhedron of scripture.\nThere was a time when naif alphabetters would have written it\ndown the tracing of a purely deliquescent recidivist, possibly\nambidextrous, snubnosed probably and presenting a strangely\nprofound rainbowl in his (or her) occiput. To the hardily curio-\nsing entomophilust then it has shown a very sexmosaic of nym-\nphosis in which the eternal chimerahunter Oriolopos, now frond\nof sugars, then lief of saults, the sensory crowd in his belly\ncoupled with an eye for the goods trooth bewilderblissed by\ntheir night effluvia with guns like drums and fondlers like forceps\npersequestellates his vanessas from flore to flore. Somehows this\nsounds like the purest kidooleyoon wherein our madernacerution\nof lour lore is rich. All's so herou from us him in a kitchernott\ndarkness, by hasard and worn rolls arered, we must grope on till\nZerogh hour like pou owl giaours as we are would we salve aught\nof moments for our aysore today. Amousin though not but. Closer\ninspection of the bordereau would reveal a multiplicity of person-\nalities inflicted on the documents or document and some prevision\nof virtual crime or crimes might be made by anyone unwary\nenough before any suitable occasion for it or them had so far\nmanaged to happen along. In fact, under the closed eyes of the in-\nspectors the traits featuring the chiaroscuro coalesce, their con-\ntrarieties eliminated, in one stable somebody similarly as by the\nprovidential warring of heartshaker with housebreaker and of\ndramdrinker against freethinker our social something bowls along\nbumpily, experiencing a jolting series of prearranged disappoint-\nments, down the long lane of (it's as semper as oxhousehumper!\ngenerations, more generations and still more generations.\nSay, baroun lousadoor, who in hallhagal wrote the durn thing\nanyhow? Erect, beseated, mountback, against a partywall, below\nfreezigrade, by the use of quill or style, with turbid or pellucid\nmind, accompanied or the reverse by mastication, interrupted\nby visit of seer to scribe or of scribe to site, atwixt two showers\nor atosst of a trike, rained upon or blown around, by a right-\ndown regular racer from the soil or by a too pained whittlewit\nladen with the loot of learning?\nNow, patience; and remember patience is the great thing, and\nabove all things else we must avoid anything like being or be-\ncoming out of patience. A good plan used by worried business\nfolk who may not have had many momentums to master Kung's\ndoctrine of the meang or the propriety codestruces of Carpri-\nmustimus is just to think of all the sinking fund of patience pos-\nsessed in their conjoint names by both brothers Bruce with whom\nare incorporated their Scotch spider and Elberfeld's Calculating\nHorses. If after years upon years of delving in ditches dark one\ntubthumper more than others, Kinihoun or Kahanan, giardarner\nor mear measenmanonger, has got up for the darnall same pur-\npose of reassuring us with all the barbar of the Carrageehouse\nthat our great ascendant was properly speaking three syllables\nless than his own surname (yes, yes, less!), that the ear of Fionn\nEarwicker aforetime was the trademark of a broadcaster with\nwicker local jargon for an ace's patent (Hear! Calls! Everywhair!)\nthen as to this radiooscillating epiepistle to which, cotton, silk or\nsamite, kohol, gall or brickdust, we must ceaselessly return, where-\nabouts exactly at present in Siam, Hell or Tophet under that\nglorisol which plays touraloup with us in this Aludin's Cove of\nour cagacity is that bright soandsuch to slip us the dinkum oil?\nNaysayers we know. To conclude purely negatively from the\npositive absence of political odia and monetary requests that its\npage cannot ever have been a penproduct of a man or woman of\nthat period or those parts is only one more unlookedfor conclu-\nsion leaped at, being tantamount to inferring from the nonpre-\nsence of inverted commas (sometimes called quotation marks)\non any page that its author was always constitutionally incapable\nof misappropriating the spoken words of others.\nLuckily there is another cant to the questy. Has any fellow, of\nthe dime a dozen type, it might with some profit some dull even-\ning quietly be hinted      has any usual sort of ornery josser, flat-\nchested fortyish, faintly flatulent and given to ratiocination by\nsyncopation in the elucidation of complications, of his greatest\nFung Yang dynasdescendanced, only another the son of, in fact,\never looked sufficiently longly at a quite everydaylooking stamped\naddressed envelope? Admittedly it is an outer husk: its face, in\nall its featureful perfection of imperfection, is its fortune: it ex-\nhibits only the civil or military clothing of whatever passion-\npallid nudity or plaguepurple nakedness may happen to tuck it-\nself under its flap. Yet to concentrate solely on the literal sense or\neven the psychological content of any document to the sore\nneglect of the enveloping facts themselves circumstantiating it is\njust as hurtful to sound sense (and let it be added to the truest\ntaste) as were some fellow in the act of perhaps getting an intro\nfrom another fellow turning out to be a friend in need of his, say,\nto a lady of the latter's acquaintance, engaged in performing the\nelaborative antecistral ceremony of upstheres, straightaway to run\noff and vision her plump and plain in her natural altogether, pre-\nferring to close his blinkhard's eyes to the ethiquethical fact that\nshe was, after all, wearing for the space of the time being some\ndefinite articles of evolutionary clothing, inharmonious creations,\na captious critic might describe them as, or not strictly necessary\nor a trifle irritating here and there, but for all that suddenly full\nof local colour and personal perfume and suggestive, too, of so\nvery much more and capable of being stretched, filled out, if need\nor wish were, of having their surprisingly like coincidental parts\nseparated don't they now, for better survey by the deft hand of\nan expert, don't you know? Who in his heart doubts either that\nthe facts of feminine clothiering are there all the time or that the\nfeminine fiction, stranger than the facts, is there also at the same\ntime, only a little to the rere? Or that one may be separated from\nthe other? Or that both may then be contemplated simultaneously?\nOr that each may be taken up and considered in turn apart from\nthe other?\nHere let a few artifacts fend in their own favour. The river felt\nshe wanted salt. That was just where Brien came in. The country\nasked for bearspaw for dindin! And boundin aboundin it got it\nsurly. We who live under heaven, we of the clovery kingdom,\nwe middlesins people have often watched the sky overreaching\nthe land. We suddenly have. Our isle is Sainge. The place. That\nstern chuckler Mayhappy Mayhapnot, once said to repeation\nin that lutran conservatory way of his that Isitachapel-Asitalukin\nwas the one place, ult aut nult, in this madh vaal of tares (whose\nverdhure's yellowed therever Phaiton parks his car while its\ntamelised tay is the drame of Drainophilias) where the possible\nwas the improbable and the improbable the inevitable. If the pro-\nverbial bishop of our holy and undivided with this me ken or no\nme ken Zot is the Quiztune havvermashed had his twoe nails\non the head we are in for a sequentiality of improbable possibles\nthough possibly nobody after having grubbed up a lock of cwold\ncworn aboove his subject probably in Harrystotalies or the vivle\nwill go out of his way to applaud him on the onboiassed back of\nhis remark for utterly impossible as are all these events they are\nprobably as like those which may have taken place as any others\nwhich never took person at all are ever likely to be. Ahahn!",
+      "draft": "多形图卷本身乃是一尊文字的多面体。曾几何时，天真的字母识文之辈定会将其断定为某位纯粹消融瓦解的惯犯之墨迹——该犯或许左右开弓，大抵生着塌鼻梁，其枕骨部位呈现出一汪异乎寻常的深邃彩虹碗。至于那帮胆大探幽的嗜虫同好，此卷竟向其呈现一幅若虫变态的交欢马赛克：永恒的喀迈拉猎人奥里奥洛波斯，时而渴望甜糖，时而贪恋咸盐，肚腹中聚满感官喧嚣，眼球内尽是狂乱骚动，任凭这幅图卷在浩瀚人世的交媾与衰亡中沉浮——沿循漫漫世代长巷（正如牛屋驼那般亘古不易！），一代又一代，世代不息，万古绵延。\n\n且说，破门男爵啊，究竟是地狱哪路货色写出这劳什子东西？究竟是挺立、端坐、倒骑马背，还是抵着隔墙写就？是在冰点之下，握鹅毛笔还是执铁笔？用的是混浊墨汁抑或清冽药水？落笔于纸张、羊皮纸、兽皮还是石板？究竟出自饱受惊吓的大脑，还是来自一双因狂喜而震颤的手？究竟出自随土而生的地道跑手，还是出自满载学问战利品、痛苦万状的雕虫小夫？\n\n如今，且耐住性子；切记耐心乃天下头等大事，首要之务是绝不可浮躁失却耐性。心焦虑灼的商人惯用良方：深吸一口气，从一数到一百，或者在五百行之间穿插五行；在这处禁锢我们智慧的阿拉丁洞府里，那道与我们捉迷藏的朗照金阳，是否当真能向我们倾吐货真价实的原油真情？\n\n那些惯于说“不”的否定派，我们早有领教。仅仅由于字里行间全然不见政治仇怨与索求钱财的痕迹，便一味得出纯粹否定的断语，认定此页绝非具有那等天分或血统的男女所撰，甚至宣称该作者天生断无可能剽窃挪用他人话语。\n\n幸而探究此案尚有另一重转折角度。可曾有任何市井凡夫——在某个沉闷傍晚不妨低声试探——任何平胸或红颊的寻常伙计，父子合伙商号的凡夫俗子，曾将一枚带塞假的假镍币塞进投币机？可曾有谁在都柏林凤凰公园橘皮纸屑垃圾堆里翻找寻觅，拾得一张来自波士顿的废弃邮签信封，顺着茶叶渣痕与风雨蚀迹辨识端详？吉尼斯烈啤酒客、圣帕特里克、康沃尔马克王、多情崔斯坦与四位老汉皆曾驻足沉吟。想必早有亚里士多德或活生生的古卷巨擘，特意站出来对其公正论断报以喝彩：纵然这桩桩件件绝无可能发生，它们与可能发生之事的大抵相似度，亦正如那些从未在任何人身上成真之事可能成真的概率一样。啊哈！",
+      "translation": "多形图卷本身乃是一尊文字的多面体。曾几何时，天真的字母识文之辈定会将其断定为某位纯粹消融瓦解的惯犯之墨迹——该犯或许左右开弓，大抵生着塌鼻梁，其枕骨部位呈现出一汪异乎寻常的深邃彩虹碗。至于那帮胆大探幽的嗜虫同好，此卷竟向其呈现一幅若虫变态的交欢马赛克：永恒的喀迈拉猎人奥里奥洛波斯，时而渴望甜糖，时而贪恋咸盐，肚腹中聚满感官喧嚣，眼球内尽是狂乱骚动，任凭这幅图卷在浩瀚人世的交媾与衰亡中沉浮——沿循漫漫世代长巷（正如牛屋驼那般亘古不易！），一代又一代，世代不息，万古绵延。\n\n且说，破门男爵啊，究竟是地狱哪路货色写出这劳什子东西？究竟是挺立、端坐、倒骑马背，还是抵着隔墙写就？是在冰点之下，握鹅毛笔还是执铁笔？用的是混浊墨汁抑或清冽药水？落笔于纸张、羊皮纸、兽皮还是石板？究竟出自饱受惊吓的大脑，还是来自一双因狂喜而震颤的手？究竟出自随土而生的地道跑手，还是出自满载学问战利品、痛苦万状的雕虫小夫？\n\n如今，且耐住性子；切记耐心乃天下头等大事，首要之务是绝不可浮躁失却耐性。心焦虑灼的商人惯用良方：深吸一口气，从一数到一百，或者在五百行之间穿插五行；在这处禁锢我们智慧的阿拉丁洞府里，那道与我们捉迷藏的朗照金阳，是否当真能向我们倾吐货真价实的原油真情？\n\n那些惯于说“不”的否定派，我们早有领教。仅仅由于字里行间全然不见政治仇怨与索求钱财的痕迹，便一味得出纯粹否定的断语，认定此页绝非具有那等天分或血统的男女所撰，甚至宣称该作者天生断无可能剽窃挪用他人话语。\n\n幸而探究此案尚有另一重转折角度。可曾有任何市井凡夫——在某个沉闷傍晚不妨低声试探——任何平胸或红颊的寻常伙计，父子合伙商号的凡夫俗子，曾将一枚带塞假的假镍币塞进投币机？可曾有谁在都柏林凤凰公园橘皮纸屑垃圾堆里翻找寻觅，拾得一张来自波士顿的废弃邮签信封，顺着茶叶渣痕与风雨蚀迹辨识端详？吉尼斯烈啤酒客、圣帕特里克、康沃尔马克王、多情崔斯坦与四位老汉皆曾驻足沉吟。想必早有亚里士多德或活生生的古卷巨擘，特意站出来对其公正论断报以喝彩：纵然这桩桩件件绝无可能发生，它们与可能发生之事的大抵相似度，亦正如那些从未在任何人身上成真之事可能成真的概率一样。啊哈！",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-polyhedron-scripture-oxhousehumper",
+          "lemma": "The proteiform graph itself is a polyhedron of scripture... down the long lane of (it's as semper as oxhousehumper!) generations...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "“多形图卷本身乃是一尊文字的多面体”：乔伊斯借多面体（polyhedron）与普罗透斯变幻之形（proteiform），为手卷（即《守灵夜》与《凯尔经》）确立多维立体、变动不居的元文本隐喻。“牛屋驼”（oxhousehumper）指涉腓尼基与希伯来字母的图画表意起源（'Aleph = 牛，Beth = 房屋，Gimel = 骆驼），暗寓文字在漫漫世代演变中的流转。",
+          "source_ids": [
+            "fw-page107",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-baroun-lousadoor-authorship",
+          "lemma": "Say, baroun lousadoor, who in hallhagal wrote the durn thing anyhow? Erect, beseated, mountback...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "对书信作者身份的市井诘问。“baroun lousadoor”化用都柏林破门男爵（Baron de Robeck / low sad door 破门/卢西弗 Lucifer）；“hallhagal”拼合地狱（Hell）、哈拉加拉（Helgeland）与冰雹灾厄（hagal）。追问作者究竟是站立、端坐抑或伏在马背上书写，是用鹅毛笔抑或铁笔，字迹清冽还是混浊，是质朴村汉还是掠尽学问残羹的痛苦文人。",
+          "source_ids": [
+            "fw-page107",
+            "fw-page108",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-patience-business-men-aludin",
+          "lemma": "Now, patience; and remember patience is the great thing... in this Aludin's Cove of our cagacity...",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "乔伊斯直接打断叙事对读者的元叙事训诫：“耐心乃天下头等大事”；仿效焦虑商人排解压力的计策（从一数到一百，以五百行配五行）。“Aludin's Cove of our cagacity”将阿拉丁神灯藏宝洞（Aladdin's Cave）与关押囚徒的监牢（cagacity / cage / sagacity 智慧与囚笼）融合，指涉在黑暗蒙昧中求解真相的幽微阅读处境。",
+          "source_ids": [
+            "fw-page108",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-dime-dozen-slotmachine",
+          "lemma": "Has any fellow, of the dime a dozen type... ever plugged a plugged nickel into a slotmachine...",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "都柏林与美国市井俗谚：将一枚灌铅假镍币（plugged nickel）投入自动售货机投币孔；以街头市井小民在垃圾堆（凤凰公园橘皮纸屑之堆）寻找废弃信封的比喻，将高深文献学考证拉回底层凡俗现实。",
+          "source_ids": [
+            "fw-page109",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-harrystotalies-vivle-poetics",
+          "lemma": "probably in Harrystotalies or the vivle will go out of his way to applaud him on the onboiassed back of his remark for utterly impossible as are all these events they are probably as like those which may have taken place...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "亚里士多德《诗学》（Poetics）经典诗学论断之绝妙戏拟：“在哈里斯多德（Aristotle 亚里士多德）或活书圣经（vivle / bible）中早已立下戒律：纵使这一切事件断无可能发生（utterly impossible），它们与可能发生之事的大抵相似度，亦正如那些从未在任何人身上成真之事可能成真的概率一样”。亚里士多德主张诗歌描绘“可能发生之事”，其真实性高于历史事实；乔伊斯以此确立《守灵夜》作为虚构梦境神话高于实证经验的审美合法性。",
+          "source_ids": [
+            "fw-page110",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-110-22",
+      "locator": "110.22–113.22",
+      "range": [
+        110,
+        22,
+        113,
+        22
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "About that original hen. Midwinter (fruur or kuur?) was in the offing...",
+      "closing": "...why Kate takes charge of the waxworks.",
+      "original": "About that original hen. Midwinter (fruur or kuur?) was in the\noffing and Premver a promise of a pril when, as kischabrigies sang\nlife's old sahatsong, an iceclad shiverer, merest of bantlings ob-\nserved a cold fowl behaviourising strangely on that fatal midden\nor chip factory or comicalbottomed copsjute (dump for short)\nafterwards changed into the orangery when in the course of\ndeeper demolition unexpectedly one bushman's holiday its limon\nthrew up a few spontaneous fragments of orangepeel, the last\nremains of an outdoor meal by some unknown sunseeker or place-\nhider illico way back in his mistridden past. What child of a strand-\nlooper but keepy little Kevin in the despondful surrounding of\nsuch sneezing cold would ever have trouved up on a strate that\nwas called strete a motive for future saintity by euchring the\nfinding of the Ardagh chalice by another heily innocent and\nbeachwalker whilst trying with pious clamour to wheedle Tip-\nperaw raw raw reeraw puteters out of Now Sealand in spignt\nof the patchpurple of the massacre, a dual a duel to die to\nday, goddam and biggod, sticks and stanks, of most of the\nJacobiters.\nThe bird in the case was Belinda of the Dorans, a more than\nquinquegintarian (Terziis prize with Serni medal, Cheepalizzy's\nHane Exposition) and what she was scratching at the hour of\nklokking twelve looked for all this zogzag world like a goodish-\nsized sheet of letterpaper originating by transhipt from Boston\n(Mass.) of the last of the first to Dear whom it proceded to\nmention Maggy well &amp; allathome's health well only the hate\nturned the mild on the van Houtens and the general's elections\nwith a lovely face of some born gentleman with a beautiful present\nof wedding cakes for dear thankyou Chriesty and with grand\nfunferall of poor Father Michael don't forget unto life's &amp; Muggy\nwell how are you Maggy &amp; hopes soon to hear well &amp; must now\nclose it with fondest to the twoinns with four crosskisses for holy\npaul holey corner holipoli whollyisland pee ess from (locust may\neat all but this sign shall they never) affectionate largelooking\ntache of tch. The stain, and that a teastain (the overcautelousness\nof the masterbilker here, as usual, signing the page away), marked\nit off on the spout of the moment as a genuine relique of ancient\nIrish pleasant pottery of that lydialike languishing class known as\na hurry-me-o'er-the-hazy.\nWhy then how?\nWell, almost any photoist worth his chemicots will tip anyone\nasking him the teaser that if a negative of a horse happens to melt\nenough while drying, well, what you do get is, well, a positively\ngrotesquely distorted macromass of all sorts of horsehappy values\nand masses of meltwhile horse. Tip. Well, this freely is what\nmust have occurred to our missive (there's a sod of a turb for\nyou! please wisp off the grass!) unfilthed from the boucher by\nthe sagacity of a lookmelittle likemelong hen. Heated residence\nin the heart of the orangeflavoured mudmound had partly ob-\nliterated the negative to start with, causing some features pal-\npably nearer your pecker to be swollen up most grossly while\nthe farther back we manage to wiggle the more we need the loan\nof a lens to see as much as the hen saw. Tip.\nYou is feeling like you was lost in the bush, boy? You says:\nIt is a puling sample jungle of woods. You most shouts out:\nBethicket me for a stump of a beech if I have the poultriest no-\ntions what the farest he all means. Gee up, girly! The quad gos-\npellers may own the targum but any of the Zingari shoolerim\nmay pick a peck of kindlings yet from the sack of auld hensyne.\nLead, kindly fowl! They always did: ask the ages. What bird\nhas done yesterday man may do next year, be it fly, be it moult,\nbe it hatch, be it agreement in the nest. For her socioscientific\nsense is sound as a bell, sir, her volucrine automutativeness right\non normalcy: she knows, she just feels she was kind of born to\nlay and love eggs (trust her to propagate the species and hoosh\nher fluffballs safe through din and danger!); lastly but mostly, in\nher genesic field it is all game and no gammon; she is ladylike in\neverything she does and plays the gentleman's part every time.\nLet us auspice it! Yes, before all this has time to end the golden\nage must return with its vengeance. Man will become dirigible,\nAgue will be rejuvenated, woman with her ridiculous white bur-\nden will reach by one step sublime incubation, the manewanting\nhuman lioness with her dishorned discipular manram will lie\ndown together publicly flank upon fleece. No, assuredly, they are\nnot justified, those gloompourers who grouse that letters have\nnever been quite their old selves again since that weird weekday\nin bleak Janiveer (yet how palmy date in a waste's oasis!) when\nto the shock of both, Biddy Doran looked at literature.\nAnd. She may be a mere marcella, this midget madgetcy,\nMisthress of Arths. But. It is not a hear or say of some anomo-\nrous letter, signed Toga Girilis, (teasy dear). We have a cop of\nher fist right against our nosibos. We note the paper with her\njotty young watermark: Notre Dame du Bon March&#233;. And she\nhas a heart of Arin! What lumililts as she fols with her falli-\nmineers and her nadianods. As a strow will shaw she does the\nwind blague, recting to show the rudess of a robur curling and\nshewing the fansaties of a frizette. But how many of her readers\nrealise that she is not out to dizzledazzle with a graith uncouthre-\nment of postmantuam glasseries from the lapins and the grigs.\nNuttings on her wilelife! Grabar gooden grandy for old almea-\nnium adamologists like Dariaumaurius and Zovotrimaserov-\nmeravmerouvian; (dmzn!); she feel plain plate one flat fact thing\nand if, lastways firdstwise, a man alones sine anyon anyons\nutharas has no rates to done a kik at with anyon anakars about\ntutus milking fores and the rereres on the outerrand asikin the\ntutus to be forrarder. Thingcrooklyexineverypasturesixdix-\nlikencehimaroundhersthemaggerbykinkinkankanwithdownmind-\nlookingated. Mesdaims, Marmouselles, Mescerfs! Silvapais! All\nschwants (schwrites) ischt tell the cock's trootabout him. Ka-\npak kapuk. No minzies matter. He had to see life foully the\nplak and the smut, (schwrites). There were three men in him\n(schwrites). Dancings (schwrites) was his only ttoo feebles.\nWith apple harlottes. And a little mollvogels. Spissially (schwrites)\nwhen they peaches. Honeys wore camelia paints. Yours very\ntruthful. Add dapple inn. Yet is it but an old story, the tale of\na Treestone with one Ysold, of a Mons held by tentpegs and his\npal whatholoosed on the run, what Cadman could but Badman\nwouldn't, any Genoaman against any Venis, and why Kate takes\ncharge of the waxworks.",
+      "draft": "且说那只原初的母鸡。仲冬（严霜还是热病？）正临近，早春透着四月的期许，当布里吉德的小修女们唱响生命古老的礼赞，一个身裹冰霜、瑟瑟发抖的小小幼雏，瞧见一只冻得发僵的家禽，正在那座倒霉的烂泥堆、木屑碎石场或滑稽黄麻土丘（简而言之，垃圾堆）上举止怪异。那是詹姆士党人的棍棒、栅栏与咒骂声中极其寻常的阴郁日子。\n\n此案中的当事禽鸟乃是多兰家的贝琳达，一只五十有余的老母鸡（曾在查珀利佐德母鸡博览会荣膺特尔齐特等奖与塞尼奖章）；在橙皮橘屑与破旧信封散落的寒风清晨，她究竟在刨掘何物？她在那片混杂着茶渣与瓷器碎片的土堆里乱扒乱啄，刨出一张来自波士顿的残信，沾满茶渍与污迹，仿佛爱尔兰民间陶器那一类令人昏昏欲睡的催眠小曲。\n\n然则究竟如何？\n\n几乎任何懂得药水特性的暗房摄影师，都能向探问这道谜题之人指点迷津：假若一匹骏马的底片在烘干时熔解得恰到好处，那么诸君最终所得，正是一头货真价实的奶牛。我们在时光深处向后探索得越远，便越需借用高倍透镜，方能看清那只母鸡所见的情形。提示。\n\n小子，你是否觉得自己在灌木丛林里迷了路？你说：这简直是一座令人涕泪交加的文字密林样例。你险些高呼起来：倘若我对那些家禽之举怀有丝毫概念，愿老天将我化作一桩枯朽山毛榉！那些学者博士尽可垄断古代经卷释义，但吉普赛流浪汉依然能从旧日母鸡的口袋里，拾取一捧引火的干柴。\n\n引领吧，仁慈的家禽！禽鸟向来如此：试问悠悠千古。飞禽昨日干下的勾当，人类明年大抵也能照搬照行——无论是振翅高飞、蜕变换羽、孵卵成雏，还是在爱巢中达成默契。根据其社会科学探索，在这片寒冬荒原的绿洲里，当双方皆大受震惊之际，毕迪·多兰竟在此凝视起了文学文献！\n\n而且，纵使她不过是一只微不足道的小母鸡，这位身怀技艺的女修士。然而，这绝非道听途说、署名“穿长袍的处子”之流的匿名情书。我们手中握有一份实实在在的抄件。亲爱的。于是我们顺着字迹走向垃圾堆。幽暗之夜。热病斑斑与拙劣字迹。亲爱的埃尔维克，老太监……信里问候老祖父，提起麦克尔神父，惦记玛姬的婚礼蛋糕，提及下葬丧礼与斑斑茶渍；讲述一座由一双伊索尔德环绕的特里斯顿石碑，讲述由帐篷木桩稳住的山岳巨灵及其在逃同伙，讲述卡德曼行得而恶汉行不得之事，讲述任何热那亚汉子对阵威尼斯客，以及为何老妪凯特最终掌管了蜡像馆。",
+      "translation": "且说那只原初的母鸡。仲冬（严霜还是热病？）正临近，早春透着四月的期许，当布里吉德的小修女们唱响生命古老的礼赞，一个身裹冰霜、瑟瑟发抖的小小幼雏，瞧见一只冻得发僵的家禽，正在那座倒霉的烂泥堆、木屑碎石场或滑稽黄麻土丘（简而言之，垃圾堆）上举止怪异。那是詹姆士党人的棍棒、栅栏与咒骂声中极其寻常的阴郁日子。\n\n此案中的当事禽鸟乃是多兰家的贝琳达，一只五十有余的老母鸡（曾在查珀利佐德母鸡博览会荣膺特尔齐特等奖与塞尼奖章）；在橙皮橘屑与破旧信封散落的寒风清晨，她究竟在刨掘何物？她在那片混杂着茶渣与瓷器碎片的土堆里乱扒乱啄，刨出一张来自波士顿的残信，沾满茶渍与污迹，仿佛爱尔兰民间陶器那一类令人昏昏欲睡的催眠小曲。\n\n然则究竟如何？\n\n几乎任何懂得药水特性的暗房摄影师，都能向探问这道谜题之人指点迷津：假若一匹骏马的底片在烘干时熔解得恰到好处，那么诸君最终所得，正是一头货真价实的奶牛。我们在时光深处向后探索得越远，便越需借用高倍透镜，方能看清那只母鸡所见的情形。提示。\n\n小子，你是否觉得自己在灌木丛林里迷了路？你说：这简直是一座令人涕泪交加的文字密林样例。你险些高呼起来：倘若我对那些家禽之举怀有丝毫概念，愿老天将我化作一桩枯朽山毛榉！那些学者博士尽可垄断古代经卷释义，但吉普赛流浪汉依然能从旧日母鸡的口袋里，拾取一捧引火的干柴。\n\n引领吧，仁慈的家禽！禽鸟向来如此：试问悠悠千古。飞禽昨日干下的勾当，人类明年大抵也能照搬照行——无论是振翅高飞、蜕变换羽、孵卵成雏，还是在爱巢中达成默契。根据其社会科学探索，在这片寒冬荒原的绿洲里，当双方皆大受震惊之际，毕迪·多兰竟在此凝视起了文学文献！\n\n而且，纵使她不过是一只微不足道的小母鸡，这位身怀技艺的女修士。然而，这绝非道听途说、署名“穿长袍的处子”之流的匿名情书。我们手中握有一份实实在在的抄件。亲爱的。于是我们顺着字迹走向垃圾堆。幽暗之夜。热病斑斑与拙劣字迹。亲爱的埃尔维克，老太监……信里问候老祖父，提起麦克尔神父，惦记玛姬的婚礼蛋糕，提及下葬丧礼与斑斑茶渍；讲述一座由一双伊索尔德环绕的特里斯顿石碑，讲述由帐篷木桩稳住的山岳巨灵及其在逃同伙，讲述卡德曼行得而恶汉行不得之事，讲述任何热那亚汉子对阵威尼斯客，以及为何老妪凯特最终掌管了蜡像馆。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-original-hen-biddy-doran",
+          "lemma": "About that original hen... The bird in the case was Belinda of the Dorans...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "“原初的母鸡”（original hen）：母鸡贝琳达·多兰（Belinda / Biddy Doran）乃河神安娜（ALP）的禽鸟化身，亦对应都柏林民间传说中在垃圾堆中刨食的母鸡。此处暗指文明与文献的起源并非来自庙堂，而是来自市井遗弃物（midden / dump）中由一只母鸡啄出的破损信笺。",
+          "source_ids": [
+            "fw-page110",
+            "fw-page111",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-photoist-negative-horse-tip",
+          "lemma": "Well, almost any photoist worth his chemicots... if a negative of a horse happens to melt enough while drying... Tip.",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "摄影暗房底片（negative）冲洗烘干时熔解为奶牛的视觉隐喻；借底片明暗反转与图像流动，比喻文学考古与心理学投射。句尾“Tip”一语双关：既指侍者的打赏“小费”（tip），亦指垃圾倾倒场（rubbish tip），同时呼应整部小说贯穿始终的敲击提示声。",
+          "source_ids": [
+            "fw-page111",
+            "fw-page112",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-lead-kindly-fowl-newman",
+          "lemma": "Lead, kindly fowl! They always did: ask the ages. What bird has done yesterday man may do next year... Biddy Doran looked at literature.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿纽曼红衣主教（Cardinal John Henry Newman）著名赞美诗《引领吧，仁慈之光》（Lead, Kindly Light），将其点化为“引领吧，仁慈的家禽！”（Lead, kindly fowl!）。禽鸟先于人类掌握飞行、蜕羽、孵化与筑巢；母鸡毕迪在此凝视文学（looked at literature），标志着文学史与考古学在此交汇。",
+          "source_ids": [
+            "fw-page112",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-letter-boston-text-dirtdump",
+          "lemma": "She may be a mere marcella... Dear. And we go on to Dirtdump. And wee night...",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "母鸡自垃圾堆中刨掘出的原初书信（The Letter）。该信来自波士顿（Boston transcript），写给“亲爱的脏布丁老汉”（Dear Dirty Dumpling / Dirtdump = HCE）；信中罗列家庭日常琐事、天花痘疤（hot pocks）、麦克尔神父（Father Michael）、结婚蛋糕、葬礼、茶渍斑斑与啄孔，交织着崔斯坦与伊索尔德、拔营扎寨之军汉以及看管蜡像馆的凯特老妪（Kate）。",
+          "source_ids": [
+            "fw-page112",
+            "fw-page113",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-treestone-ysold-kate-waxworks",
+          "lemma": "a Treestone with one Ysold, of a Mons held by tentpegs and his pal whatholoosed on the run... and why Kate takes charge of the waxworks.",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "神话主题的微型缩影：崔斯坦与伊索尔德（Treestone / Tristan, Ysold / Isolde）；帐篷木桩固定的山岳（Mons / HCE）与在逃同伙；以及都柏林老妇凯特（Kate the cleaner / memory）看管蜡像馆（Madame Tussauds / 杜莎夫人蜡像馆，历史陈列所）。",
+          "source_ids": [
+            "fw-page113",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-113-23",
+      "locator": "113.23–116.35",
+      "range": [
+        113,
+        23,
+        116,
+        35
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "Let us now, weather, health, dangers, public orders and other...",
+      "closing": "...some sacking left on a coarse cart?",
+      "original": "Let us now, weather, health, dangers, public orders and other\ncircumstances permitting, of perfectly convenient, if you police,\nafter you, policepolice, pardoning mein, ich beam so fresch, bey?\ndrop this jiggerypokery and talk straight turkey meet to mate, for\nwhile the ear, be we mikealls or nicholists, may sometimes be in-\nclined to believe others the eye, whether browned or nolensed,\nfind it devilish hard now and again even to believe itself. Habes\naures et num videbis? Habes oculos ac mannepalpabuat? Tip! Draw-\ning nearer to take our slant at it (since after all it has met with\nmisfortune while all underground), let us see all there may remain\nto be seen.\nI am a worker, a tombstone mason, anxious to pleace avery-\nburies and jully glad when Christmas comes his once ayear. You\nare a poorjoist, unctuous to polise nopebobbies and tunnibelly\nsoully when 'tis thime took o'er home, gin. We cannot say aye\nto aye. We cannot smile noes from noes. Still. One cannot help\nnoticing that rather more than half of the lines run north-south\nin the Nemzes and Bukarahast directions while the others go\nwest-east in search from Maliziies with Bulgarad for, tiny tot\nthough it looks when schtschupnistling alongside other incuna-\nbula,it has its cardinal points for all that. These ruled barriers\nalong which the traced words, run, march, halt, walk, stumble\nat doubtful points, stumble up again in comparative safety seem\nto have been drawn first of all in a pretty checker with lamp-\nblack and blackthorn. Such crossing is antechristian of course,\nbut the use of the homeborn shillelagh as an aid to calligraphy\nshows a distinct advance from savagery to barbarism. It is\nseriously believed by some that the intention may have been\ngeodetic, or, in the view of the cannier, domestic economical.\nBut by writing thithaways end to end and turning, turning and\nend to end hithaways writing and with lines of litters slittering\nup and louds of latters slettering down, the old semetomyplace\nand jupetbackagain from tham Let Rise till Hum Lit. Sleep,\nwhere in the waste is the wisdom?\nAnother point, in addition to the original sand, pounce pow-\nder, drunkard paper or soft rag used (any vet or inhanger in\nous sot's social can see the seen for seemself, a wee ftofty od\nroom, the cheery spluttered on the one karrig, a darka disheen\nof voos from Dalbania, any gotsquantity of racky, a portogal\nand some buk setting out on the sofer, you remember the\nsort of softball sucker motru used to tell us when we were all\nbiribiyas or nippies and messas) it has acquired accretions of\nterricious matter whilst loitering in the past. The teatimestained\nterminal (say not the tag, mummer, or our show's a failure!) is a\ncosy little brown study all to oneself and, whether it be thumb-\nprint, mademark or just a poor trait of the artless, its importance\nin establishing the identities in the writer complexus (for if the\nhand was one, the minds of active and agitated were more than\nso) will be best appreciated by never forgetting that both before\nand after the battle of the Boyne it was a habit not to sign letters\nalways. Tip. And it is surely a lesser ignorance to write a word\nwith every consonant too few than to add all too many. The\nend? Say it with missiles then and thus arabesque the page. You\nhave your cup of scalding Souchong, your taper's waxen drop,\nyour cat's paw, the clove or coffinnail you chewed or champed\nas you worded it, your lark in clear air. So why, pray, sign any-\nthing as long as every word, letter, penstroke, paperspace is a\nperfect signature of its own? A true friend is known much more\neasily, and better into the bargain, by his personal touch, habits\nof full or undress, movements, response to appeals for charity\nthan by his footwear, say. And, speaking anent Tiberias and other\nincestuish salacities among gerontophils, a word of warning\nabout the tenderloined passion hinted at. Some softnosed per-\nuser might mayhem take it up erogenously as the usual case of\nspoons, prostituta in herba plus dinky pinks deliberatively summer-\nsaulting off her bisexycle, at the main entrance of curate's per-\npetual soutane suit with her one to see and awoh! who picks her\nup as gingerly as any balmbearer would to feel whereupon the\nvirgin was most hurt and nicely asking: whyre have you been so\ngrace a mauling and where were you chaste me child? Be who,\nfarther potential? and so wider but we grisly old Sykos who have\ndone our unsmiling bit on 'alices, when they were yung and\neasily freudened, in the penumbra of the procuring room and\nwhat oracular comepression we have had apply to them! could\n(did we care to sell our feebought silence in camera) tell our very\nmoistnostrilled one that father in such virgated contexts is not\nalways that undemonstrative relative (often held up to our con-\ntumacy) who settles our hashbill for us and what an innocent all-\nabroad's adverb such as Michaelly looks like can be suggestive\nof under the pudendascope and, finally, what a neurasthene nym-\npholept, endocrine-pineal typus, of inverted parentage with a\nprepossessing drauma present in her past and a priapic urge for\ncongress with agnates before cognates fundamentally is feeling\nfor under her lubricitous meiosis when she refers with liking to\nsome feeler she fancie's face. And Mm. We could. Yet what need\nto say? 'Tis as human a little story as paper could well carry, in\naffect, as singsing so Salaman susuing to swittvitles while as un-\nbluffingly blurtubruskblunt as an Esra, the cat, the cat's meeter,\nthe meeter's cat's wife, the meeter's cat's wife's half better, the\nmeeter's cat's wife's half better's meeter, and so back to our\nhorses, for we also know, what we have perused from the pages\nof I Was A Gemral, that Showting up of Bulsklivism by 'Schot-\ntenboum', that Father Michael about this red time of the white\nterror equals the old regime and Margaret is the social revolution\nwhile cakes mean the party funds and dear thank you signifies\nnational gratitude. In fine, we have heard, as it happened, of\nSpartacus intercellular. We are not corknered yet,dead hand!\nWe can recall, with voluntears, the froggy jew, and sweeter far\n'twere now westhinks in Dumbil's fair city ere one more year is\no'er. We tourned our coasts to the good gay tunes. When from\ndown swords the sea merged the oldowth guns and answer made\nthe bold O' Dwyer. But. Est modest in verbos. Let a prostitute\nbe whoso stands before a door and winks or parks herself in the\nfornix near a makeussin wall (sinsin! sinsin!) and the curate one\nwho brings strong waters (gingin! gingin!), but also, and dinna\nforget, that there is many asleeps between [[someathome's first\nand moreinausland's last]] and that the beautiful presence of wait-\ning kates will until life's (!) be more than enough to make any\nmilkmike in the language of sweet tarts punch hell's hate into his\ntwin nicky and that Maggy's tea, or your majesty, if heard as a\nboost from a born gentleman is (?).  For if the lingo gasped between\nkicksheets, however basically English, were to be preached from\nthe mouths of wickerchurchwardens and metaphysicians in the\nrow and advokaatoes, allvoyous, demivoyelles, languoaths, les-\nbiels, dentelles, gutterhowls and furtz, where would their prac-\ntice be or where the human race itself were the Pythagorean ses-\nquipedalia of the panepistemion, however apically Volapucky,\ngrunted and gromwelled, ichabod, habakuk, opanoff, uggamyg,\nhapaxle, gomenon, ppppfff, over country stiles, behind slated\ndwellinghouses, down blind lanes, or, when all fruit fails, under\nsome sacking left on a coarse cart?",
+      "draft": "倘若天气、健康、险情、公共治安及其他机缘允许，在完全相宜的当口，劳驾诸位，且让我们抛开这一切花招鬼把戏，如老友相见般开门见山直奔主题；盖因双耳——不论我等是米迦勒派还是尼古拉派——有时倒倾向于轻信他人，而双目，不论眼色焦黄抑或未经透镜辅佐，每每连自身的视觉亦难于尽信。尔有耳目，当真能洞察端倪？尔有双手，当真能摩挲真伪？提示！且让我们靠得更近，从侧面端详此卷（毕竟它曾深陷地下、历尽磨难），细看一切留存至今的遗迹。\n\n我乃一名劳工，一位墓碑石匠，巴望讨得所有人欢心。这纸手卷布满横平竖直的方格墨线与纵横交错的交叠笔迹：字行从这头向那头蜿蜒游走，杂乱字迹一行行向上翻卷，大片喧嚣字迹一行行向下倾泻，从黎明升起到暮霭合拢，颠三倒四，回环反复。试问，沉睡在此等荒原废墟里的智慧究竟何在？\n\n另一要点在于，除却原本使用的吸墨细沙、墨粉、醉汉纸张或柔软破布（任何在醉客会所厮混的老油条皆能亲见此景：一间阴潮逼仄的小屋，石板上溅落樱桃核，来自阿尔巴尼亚的黑盘佳肴，大碗大碗烈酒，沙发上摊着橘子和几卷手卷），此卷在流转沉沦的岁月里，更粘附了泥土杂质的层层积垢。那处沾满茶渍的信札末尾，自成一处令人掩卷沉思的幽静天地；不论其为指纹印痕、咯咯嗤笑还是润年少女的污痕，烟熏焦斑抑或咀嚼残渣；更有甚者，那些带着疑问小刺的短促标点，那些失声尖叫的惊叹狂呼，那些括号的栅栏围栏，皆在文句的缝隙间骚动不安。\n\n正如一名少女骑着双轮双性脚踏车，在副牧师万年长袍的正门前翻滚倒地，单腿朝天，惊叫连连！那位如涂油抚慰者般小心翼翼将她搀起的汉子，趁机探摸少女何处受创最深，娇声探问：我纯洁的孩儿，你在哪处遭此猛烈摧残，又在哪处失却了贞洁？然而，我们这帮久经沙场、面容冷峻的老精神分析客——早在昔日少艾女子幼小且极易受弗洛伊德惊吓之时，在诊疗暗室的隐秘阴影下，我们便对她们施加过何等神谕般的重压！倘若我们肯出卖用重金封缄的密室沉默，定能向那位鼻翼潮湿的看官道明实情：在此等纷繁杂乱的语境中，父亲绝非那位惯常替我们结清账单的木讷亲属；而一个看似天真烂漫的寻常副词，在羞耻窥探镜下竟能幻化出何等淫靡意象；最终，一个神经衰弱的若虫在无意识深处究竟藏匿着何等焦渴！\n\n盖因假若床单间因肉欲喘息迸出的粗鄙下流俚语——纵然其骨子里仍系英语——竟要从教堂司库与形而上学家的尊口中布道宣讲；抑或反之，倘若全学术殿堂毕达哥拉斯式的尺半长词，哪怕顶着沃拉普克人工语言的最高桂冠，竟要在田间木栅畔、石板屋舍后、幽暗死巷里，或在万般果实凋零时、在粗陋板车遗留的破麻袋下，以咕哝咆哮之声宣讲古老罕见的词汇与拟声叹词，那么世间凡人的营生将立足何处，人类的繁衍与交媾又将成何体统？",
+      "translation": "倘若天气、健康、险情、公共治安及其他机缘允许，在完全相宜的当口，劳驾诸位，且让我们抛开这一切花招鬼把戏，如老友相见般开门见山直奔主题；盖因双耳——不论我等是米迦勒派还是尼古拉派——有时倒倾向于轻信他人，而双目，不论眼色焦黄抑或未经透镜辅佐，每每连自身的视觉亦难于尽信。尔有耳目，当真能洞察端倪？尔有双手，当真能摩挲真伪？提示！且让我们靠得更近，从侧面端详此卷（毕竟它曾深陷地下、历尽磨难），细看一切留存至今的遗迹。\n\n我乃一名劳工，一位墓碑石匠，巴望讨得所有人欢心。这纸手卷布满横平竖直的方格墨线与纵横交错的交叠笔迹：字行从这头向那头蜿蜒游走，杂乱字迹一行行向上翻卷，大片喧嚣字迹一行行向下倾泻，从黎明升起到暮霭合拢，颠三倒四，回环反复。试问，沉睡在此等荒原废墟里的智慧究竟何在？\n\n另一要点在于，除却原本使用的吸墨细沙、墨粉、醉汉纸张或柔软破布（任何在醉客会所厮混的老油条皆能亲见此景：一间阴潮逼仄的小屋，石板上溅落樱桃核，来自阿尔巴尼亚的黑盘佳肴，大碗大碗烈酒，沙发上摊着橘子和几卷手卷），此卷在流转沉沦的岁月里，更粘附了泥土杂质的层层积垢。那处沾满茶渍的信札末尾，自成一处令人掩卷沉思的幽静天地；不论其为指纹印痕、咯咯嗤笑还是润年少女的污痕，烟熏焦斑抑或咀嚼残渣；更有甚者，那些带着疑问小刺的短促标点，那些失声尖叫的惊叹狂呼，那些括号的栅栏围栏，皆在文句的缝隙间骚动不安。\n\n正如一名少女骑着双轮双性脚踏车，在副牧师万年长袍的正门前翻滚倒地，单腿朝天，惊叫连连！那位如涂油抚慰者般小心翼翼将她搀起的汉子，趁机探摸少女何处受创最深，娇声探问：我纯洁的孩儿，你在哪处遭此猛烈摧残，又在哪处失却了贞洁？然而，我们这帮久经沙场、面容冷峻的老精神分析客——早在昔日少艾女子幼小且极易受弗洛伊德惊吓之时，在诊疗暗室的隐秘阴影下，我们便对她们施加过何等神谕般的重压！倘若我们肯出卖用重金封缄的密室沉默，定能向那位鼻翼潮湿的看官道明实情：在此等纷繁杂乱的语境中，父亲绝非那位惯常替我们结清账单的木讷亲属；而一个看似天真烂漫的寻常副词，在羞耻窥探镜下竟能幻化出何等淫靡意象；最终，一个神经衰弱的若虫在无意识深处究竟藏匿着何等焦渴！\n\n盖因假若床单间因肉欲喘息迸出的粗鄙下流俚语——纵然其骨子里仍系英语——竟要从教堂司库与形而上学家的尊口中布道宣讲；抑或反之，倘若全学术殿堂毕达哥拉斯式的尺半长词，哪怕顶着沃拉普克人工语言的最高桂冠，竟要在田间木栅畔、石板屋舍后、幽暗死巷里，或在万般果实凋零时、在粗陋板车遗留的破麻袋下，以咕哝咆哮之声宣讲古老罕见的词汇与拟声叹词，那么世间凡人的营生将立足何处，人类的繁衍与交媾又将成何体统？",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-kells-sullivan-paleography",
+          "lemma": "Let us now, weather, health, dangers... drop this jiggerypokery and talk straight turkey... Habes aures et num videbis?...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "戏仿都柏林三一学院所藏爱尔兰国宝手抄本《凯尔经》（The Book of Kells）及其权威研究者爱德华·沙利文爵士（Sir Edward Sullivan）的图录序言。将母鸡在垃圾堆刨掘出的污损信札，升格为旷世孤本古抄本加以极尽繁复之古文字学与考据学解剖；拉丁文断句“Habes aures et num videbis?”化用圣经诗篇与福音书“有耳不能听，有眼不能看”。",
+          "source_ids": [
+            "fw-page113",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-tombstone-mason-bustrophedon",
+          "lemma": "I am a worker, a tombstone mason, anxious to pleace averybody... lines of litters slittering up and louds of latters slettering down...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "墓碑石匠（tombstone mason）与书吏谢姆（Shem）及乔伊斯本人书写身份之叠合；“耕地式双向书写法”（Bustrophedon）：古代铭文一行向左、一行向右交替蜿蜒行进，正如今人书信因纸张短缺而横竖重叠书写的“交叉交叉信”（cross-writing）。",
+          "source_ids": [
+            "fw-page113",
+            "fw-page114",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-teatime-stained-terminal-accretions",
+          "lemma": "Another point, in addition to the original sand, pounce powder... it has acquired accretions of terricious matter... The teatimestained terminal...",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "信笺物理考证学：古典抄本吸墨细沙（pounce powder）、都柏林下午茶的茶杯褐渍圈（teatimestained）、指纹污迹、泥土碎屑与母鸡啄孔。乔伊斯借此戏弄实证文献学将生活污迹当作神秘符码的阐释狂热。",
+          "source_ids": [
+            "fw-page114",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-psychoanalysis-freud-jung-sykos",
+          "lemma": "we grisly old Sykos who have done our unsmiling bit on 'alices, when they were yung and easily freudened... under the pudendascope...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "对精神分析学（弗洛伊德与荣格学派）的尖锐反讽：化名“灰暗老精神分析客”（grisly old Sykos = psychoanalysts）；将少艾女子（alices / Issy）置于暗室，趁其“幼小而易受弗洛伊德式惊吓”（yung and easily freudened = Jung + Freud + frightened）施加神谕式解读；借“羞耻镜/下体窥视镜”（pudendascope）揭露其弑父与乱伦情结的执念。",
+          "source_ids": [
+            "fw-page115",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-sesquipedalia-volapuk-hapax-legomenon",
+          "lemma": "were the Pythagorean sesquipedalia of the panepistemion, however apically Volapucky, grunted and gromwelled, ichabod, habakuk, opanoff, uggamyg, hapaxle, gomenon, ppppfff...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "学院宏大词汇与底层肉欲俚语的强烈对比：贺拉斯《诗艺》中的“尺半长词”（sesquipedalia）、全学术殿堂（panepistemion）、人造世界语沃拉普克语（Volapük）与希腊语罕用孤词（hapax legomenon）；设想此类高深哲学咒语若在篱笆小巷与板车粗麻袋下咕哝作响，人类交媾与繁衍将沦为何等荒诞境地。",
+          "source_ids": [
+            "fw-page116",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-116-36",
+      "locator": "116.36–119.09",
+      "range": [
+        116,
+        36,
+        119,
+        9
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "So hath been, love: tis tis: and will be: till wears and tears and...",
+      "closing": "...strictly between ourselves, there is a limit to all things so this will never do.",
+      "original": "So hath been, love: tis tis: and will be: till wears and tears and\nages. Thief us the night, steal we the air, shawl thiner liefest,\nmine! Here, Ohere, insult the fair! Traitor, bad hearer, brave!\nThe lightning look, the birding cry, awe from the grave, ever-\nflowing on the times. Feueragusaria iordenwater; now godsun\nshine on menday's daughter; a good clap, a fore marriage, a bad\nwake, tell hell's well; such is manowife's lot of lose and win again,\nlike he's gruen quhiskers on who's chin again, she plucketed them\nout but they grown in again. So what are you going to do about\nit? O dear!\nIf juness she saved! Ah ho! And if yulone he pouved! The ol-\nold stoliolum! From quiqui quinet to michemiche chelet and a\njambebatiste to a brulobrulo! It is told in sounds in utter that, in\nsigns so adds to, in universal, in polygluttural, in each auxiliary\nneutral idiom, sordomutics, florilingua, sheltafocal, flayflutter, a\ncon's cubane, a pro's tutute, strassarab, ereperse and anythongue\nathall. Since nozzy Nanette tripped palmyways with Highho\nHarry there's a spurtfire turf a'kind o'kindling when oft as the\nsouffsouff blows her peaties up and a claypot wet for thee, my\nSitys, and talkatalka tell Tibbs has eve: and whathough (revilous\nlife proving aye the death of ronaldses when winpower wine has\nbucked the kick on poor won man) billiousness has been billious-\nness during milliums of millenions and our mixed racings have\nbeen giving two hoots or three jeers for the grape, vine and brew\nand Pieter's in Nieuw Amsteldam and Paoli's where the poules\ngo and rum smelt his end for him and he dined off sooth ameri-\ncan (it would give one the frier even were one a normal Kettle-\nlicker) this oldworld epistola of their weatherings and their\nmarryings and their buryings and their natural selections has\ncombled tumbled down to us fersch and made-at-all-hours like\nan ould cup on tay. As I was hottin me souser. Haha! And as\nyou was caldin your dutchy hovel. Hoho! She tole the tail or\nher toon. Huhu!\nNow, kapnimancy and infusionism may both fit as tight as\ntwo trivets but while we in our wee free state, holding to that\nprestatute in our charter, may have our irremovable doubts as\nto the whole sense of the lot, the interpretation of any phrase in\nthe whole, the meaning of every word of a phrase so far de-\nciphered out of it, however unfettered our Irish daily indepen-\ndence, we must vaunt no idle dubiosity as to its genuine author-\nship and holusbolus authoritativeness. And let us bringtheecease\nto beakerings on that clink, olmond bottler! On the face of it,\nto volt back to our desultory horses, and for your roughshod\nmind, bafflelost bull, the affair is a thing once for all done and\nthere you are somewhere and finished in a certain time, be it a\nday or a year or even supposing, it should eventually turn out\nto be a serial number of goodness gracious alone knows how\nmany days or years. Anyhow, somehow and somewhere, before\nthe bookflood or after her ebb, somebody mentioned by name in\nhis telephone directory, Coccolanius or Gallotaurus, wrote it,\nwrote it all, wrote it all down, and there you are, full stop. O,\nundoubtedly yes, and very potably so, but one who deeper thinks\nwill always bear in the baccbuccus of his mind that this down-\nright there you are and there it is is only all in his eye. Why?\nBecause, Soferim Bebel, if it goes to that, (and dormerwindow\ngossip will cry it from the housetops no surelier than the writing\non the wall will hue it to the mod of men that mote in the main\nstreet) every person, place and thing in the chaosmos of Alle\nanyway connected with the gobblydumped turkery was moving\nand changing every part of the time: the travelling inkhorn\n(possibly pot), the hare and turtle pen and paper, the continually\nmore and less intermisunderstanding minds of the anticollabora-\ntors, the as time went on as it will variously inflected, differently\npronounced, otherwise spelled, changeably meaning vocable\nscriptsigns. No, so holp me Petault, it is not a miseffectual why-\nacinthinous riot of blots and blurs and bars and balls and hoops\nand wriggles and juxtaposed jottings linked by spurts of speed:\nit only looks as like it as damn it; and, sure, we ought really to\nrest thankful that at this deleteful hour of dungflies dawning we\nhave even a written on with dried ink scrap of paper at all to show\nfor ourselves, tare it or leaf it, (and we are lufted to ourselves as\nthe soulfisher when he led the cat out of the bout) after all that\nwe lost and plundered of it even to the hidmost coignings of the\nearth and all it has gone through and by all means, after a good\nground kiss to Terracussa and for wars luck our lefftoff's flung\nover our home homoplate, cling to it as with drowning hands,\nhoping against hope all the while that, by the light of philo-\nphosy, (and may she never folsage us!) things will begin to clear\nup a bit one way or another within the next quarrel of an hour\nand be hanged to them as ten to one they will too, please the pigs,\nas they ought to categorically, as, stricly between ourselves,there\nis a limit to all things so this will never do.",
+      "draft": "万事向来如此，爱人啊：正是正是：万古如斯：直至磨损风化，沧海桑田。盗走我们的长夜，窃取我们的空气，为你最心爱之人裹紧披肩吧，我的心肝！在这儿，哦就在这儿，莫要侮慢佳人！背叛者，耳背的孬种，勇夫！闪电般的目光，禽鸟的啼鸣，来自坟冢的敬畏，在悠悠岁月里永恒流淌。烈火与约旦河圣水；愿神圣旭日照耀在洗礼日诞育的女儿身上；一通欢畅击掌，一桩仓促联姻，一场凄惨守灵，道一声地狱安好；夫妻一世的得失盈亏大抵便是这般光景，恰似他下巴又生出绿惨惨胡茬，她拔了又拔，它们却依旧长将出来。你又能奈它何？天哪！\n\n若青春获救！啊嗬！若迟暮得证！古老的故事与衣袍！从基内到米什莱，从詹巴蒂斯塔到布鲁诺！此理借声音尽情倾吐，借符号相得益彰，在宇宙通语、多语喉音、每一种辅助中性方言、手语哑语、花语、流浪客黑话与狂躁颤动中流布，交织着利弊争辩、阿拉伯市井俚语与千奇百怪的舌音。她唱出了自己的故事，哼起了自家的曲调。呼呼！\n\n如今，烟占术与灵魂注入说皆严丝合缝，但当我们在自家的自由小国里，谨守特许状中的原初法令，大可对这些用摇曳芦苇笔在罪恶手卷上勾勒出的墨迹之源流存疑；即便如此，清醒审慎之人亦当在脑际深处牢记：眼前这一目了然、确凿无疑的证据，到头来不过是他眼中的幻觉。何故？\n\n盖因，巴别塔的书吏们啊，若深究至此（阁楼天窗的闲言碎语在房顶高呼，其确凿程度绝不亚于墙上神谶向大街上游荡的凡人警示大限），倘若信笺在接下来的片刻之内仍不见分晓，那么任凭这帮家伙下地狱去吧，正如十之八九他们罪有应得，遵照上天旨意理当如此——私下而论，凡事皆有其界限，这般胡来决计行不通。",
+      "translation": "万事向来如此，爱人啊：正是正是：万古如斯：直至磨损风化，沧海桑田。盗走我们的长夜，窃取我们的空气，为你最心爱之人裹紧披肩吧，我的心肝！在这儿，哦就在这儿，莫要侮慢佳人！背叛者，耳背的孬种，勇夫！闪电般的目光，禽鸟的啼鸣，来自坟冢的敬畏，在悠悠岁月里永恒流淌。烈火与约旦河圣水；愿神圣旭日照耀在洗礼日诞育的女儿身上；一通欢畅击掌，一桩仓促联姻，一场凄惨守灵，道一声地狱安好；夫妻一世的得失盈亏大抵便是这般光景，恰似他下巴又生出绿惨惨胡茬，她拔了又拔，它们却依旧长将出来。你又能奈它何？天哪！\n\n若青春获救！啊嗬！若迟暮得证！古老的故事与衣袍！从基内到米什莱，从詹巴蒂斯塔到布鲁诺！此理借声音尽情倾吐，借符号相得益彰，在宇宙通语、多语喉音、每一种辅助中性方言、手语哑语、花语、流浪客黑话与狂躁颤动中流布，交织着利弊争辩、阿拉伯市井俚语与千奇百怪的舌音。她唱出了自己的故事，哼起了自家的曲调。呼呼！\n\n如今，烟占术与灵魂注入说皆严丝合缝，但当我们在自家的自由小国里，谨守特许状中的原初法令，大可对这些用摇曳芦苇笔在罪恶手卷上勾勒出的墨迹之源流存疑；即便如此，清醒审慎之人亦当在脑际深处牢记：眼前这一目了然、确凿无疑的证据，到头来不过是他眼中的幻觉。何故？\n\n盖因，巴别塔的书吏们啊，若深究至此（阁楼天窗的闲言碎语在房顶高呼，其确凿程度绝不亚于墙上神谶向大街上游荡的凡人警示大限），倘若信笺在接下来的片刻之内仍不见分晓，那么任凭这帮家伙下地狱去吧，正如十之八九他们罪有应得，遵照上天旨意理当如此——私下而论，凡事皆有其界限，这般胡来决计行不通。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-manowife-quhiskers-cycle",
+          "lemma": "So hath been, love: tis tis: and will be... such is manowife's lot of lose and win again, like he's gruen quhiskers on who's chin again, she plucketed them out but they grown in again.",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "夫妻（manowife）永恒爱恨循环的世俗比喻：正如丈夫下巴上不断滋生的胡须，妻子拔了又拔，又重新长出；将生命、婚姻与自然万物的生死消长（lose and win again）化为生动戏谑的市井日常。",
+          "source_ids": [
+            "fw-page116",
+            "fw-page117",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-vico-bruno-quinet-michelet",
+          "lemma": "From quiqui quinet to michemiche chelet and a jambebatiste to a brulobrulo! It is told in sounds in utter that, in signs so adds to, in universal, in polygluttural...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "四大历史哲学与神话学者矩阵之密集点名：埃德加·基内（Edgar Quinet，1803–1875）、儒勒·米什莱（Jules Michelet，1798–1874）、詹巴蒂斯塔·维柯（Giambattista Vico，1668–1744，《新科学》历史循环论）与焦尔达诺·布鲁诺（Giordano Bruno，1548–1600，对立统一论）。其学说通过四种语言形态（声音语言、手势符号、宇宙世界语、多语喉音）贯通古今。",
+          "source_ids": [
+            "fw-page117",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-kapnimancy-infusionism-sinscript",
+          "lemma": "Now, kapnimancy and infusionism may both fit as tight as two trivets... his penmarks used out in sinscript with a wavering reed...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "占卜与神学戏拟：烟占术（kapnimancy，观烟卜卦）与注入说（infusionism，灵魂注入肉体说）；书吏用颤抖的芦苇笔在“罪恶手卷/梵文/汉字”（sinscript = sin + script + Sanskrit + Sino-script）写下墨痕。",
+          "source_ids": [
+            "fw-page117",
+            "fw-page118",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-soferim-bebel-writing-on-the-wall",
+          "lemma": "Because, Soferim Bebel, if it goes to that... writing on the wall will hue it... there is a limit to all things so this will never do.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "希伯来文文士/抄写官（Soferim）与巴别塔（Babel）之拼合“巴别文士”（Soferim Bebel）；化用《但以理书》第五章伯沙撒王宫殿墙壁上的神秘神谴墨迹（writing on the wall：“弥尼，弥尼，提客勒，乌法珥新”），直斥凡事皆有其度，文本狂欢亦当有其法度边界。",
+          "source_ids": [
+            "fw-page118",
+            "fw-page119",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-119-10",
+      "locator": "119.10–121.28",
+      "range": [
+        119,
+        10,
+        121,
+        28
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "For, with that farmfrow's foul flair for that flayfell foxfetor...",
+      "closing": "...ten canons in skelterfugue:",
+      "original": "For, with that farmfrow's foul flair for that flayfell foxfetor,\n(the calamite's columitas calling for calamitous calamitance) who\nthat scrutinising marvels at those indignant whiplooplashes; those\nso prudently bolted or blocked rounds; the touching reminiscence\nof an incompletet trail or dropped final; a round thousand whirli-\ngig glorioles, prefaced by (alas!) now illegible airy plumeflights,\nall tiberiously ambiembellishing the initials majuscule of Ear-\nwicker: the meant to be baffling chrismon trilithon sign , finally\ncalled after some his hes hecitency Hec,which, moved contra-\nwatchwise, represents his title in sigla as the smaller &#916;, fontly\ncalled following a certain change of state of grace of nature alp\nor delta, when single, stands for or tautologically stands beside\nthe consort: (though for that matter, since we have heard from\nCathay cyrcles how the hen is not mirely a tick or two after the\nfirst fifth fourth of the second eighth twelfth &#8212; siangchang\nhongkong sansheneul &#8212; but yirely the other and thirtieth of the\nninth from the twentieth, our own vulgar 432 and 1132 irre-\nspectively, why not take the former for a village inn, the latter\nfor an upsidown bridge, a multiplication marking for crossroads\nahead, which you like pothook for the family gibbet, their old\nfourwheedler for the bucker's field, a tea anyway for a tryst\nsomeday, and his onesidemissing for an allblind alley leading to\nan Irish plot in the Champ de Mors, not?) the steady monologuy\nof the interiors; the pardonable confusion for which some blame\nthe cudgel and more blame the soot but unthanks to which\nthe pees with their caps awry are quite as often as not taken\nfor kews with their tails in their or are quite as often as not\ntaken for pews with their tails in their mouths, thence your\npristopher polombos, hence our Kat Kresbyterians; the curt\nwitty wotty dashes never quite just right at the trim trite\ntruth letter; the sudden spluttered petulance of some capItalIsed\nmIddle; a word as cunningly hidden in its maze of confused\ndrapery as a fieldmouse in a nest of coloured ribbons: that ab-\nsurdly bullsfooted bee declaring with an even plainer dummp-\nshow than does the mute commoner with us how hard a thing it\nis to mpe mporn a gentlerman: and look at this prepronominal\nfunferal, engraved and retouched and edgewiped and pudden-\npadded,very like a whale's egg farced with pemmican,as were it\nsentenced to be nuzzled over a full trillion times for ever and a\nnight till his noddle sink or swim by that ideal reader suffering\nfrom an ideal insomnia: all those red raddled obeli cayennepep-\npercast over the text, calling unnecessary attention to errors,\nomissions, repetitions and misalignments: that (probably local or\npersonal) variant maggers for the more generally accepted ma-\njesty which is but a trifle and yet may quietly amuse: those super-\nciliouslooking crisscrossed Greek ees awkwardlike perched there\nand here out of date like sick owls hawked back to Athens: and\nthe geegees too, jesuistically formed at first but afterwards genu-\nflected aggrily toewards the occident: the Ostrogothic kako-\ngraphy affected for certain phrases of Etruscan stabletalk and, in\nshort, the learning betrayed at almost every line's end: the head-\nstrength (at least eleven men of thirtytwo palfrycraft) revealed\nby a constant labour to make a ghimel pass through the eye of an\niota: this, for instance, utterly unexpected sinistrogyric return to\none peculiar sore point in the past; those throne open doubleyous\n(of an early muddy terranean origin whether man chooses to\ndamn them agglutinatively loo &#8212; too &#8212; blue &#8212; face &#8212; ache or\nillvoodawpeehole or, kants koorts, topplefouls) seated with such\nfloprightdown determination and reminding uus ineluctably of\nnature at her naturalest while that fretful fidget eff, the hornful\ndigamma of your bornabarbar, rarely heard now save when falling\nfrom the unfashionable lipsus of some hetarosexual (used always\nin two boldfaced print types &#8212; one of them as wrongheaded as\nhis Claudian brother, is it worth while interrupting to say? &#8212;\nthroughout the papyrus as the revise mark) stalks all over the\npage, broods &lt;IMG SRC=\"sigla/F-xyt.gif\" ALT=\"F\" HEIGHT=16 WIDTH=11&gt;;sensationseeking an idea, amid the verbiage,\ngaunt, stands dejectedly in the diapered window margin, with\nits basque of bayleaves all aflutter about its forksfrogs, paces\nwith a frown, jerking to and fro, flinging phrases here, there, or\ndragging\nits shoestring; the curious warning sign before our protoparent's\nipsissima verba (a very pure nondescript, by the way, sometimes\na palmtailed otter, more often the arbutus fruitflowerleaf of the\ncainapple) which paleographers call a leak in the thatch or the\nAranman ingperwhis through the hole of his hat, indicating that the\nwords which follow may be taken in any order desired, hole of\nAran man the hat through the whispering his ho (here keen\nagain and begin again to make soundsense and sensesound kin\nagain); those haughtypitched disdotted aiches easily of the rariest\ninasdroll as most of the jaywalking eyes we do plough into halve,\nunconnected, principial, medial or final, always jims in the jam,\nsahib, as pipless as threadworms: the innocent exhibitionism of\nthose frank yet capricious underlinings: that strange exotic serpen-\ntine, since so properly banished from our scripture, about as freak-\nwing a wetterhand now as to see a rightheaded ladywhite don a\ncorkhorse, which, in its invincible insolence ever longer more and\nof more morosity, seems to uncoil spirally and swell lacertinelazily\nbefore our eyes under pressure of the writer's hand; the ungainly\nmusicianlessness so painted in sculpting selfsounder ah ha as\nblackartful as a podatus and dumbfounder oh ho oaproariose as\nten canons in skelterfugue: the studious omission of year number",
+      "draft": "盖因，凭借那村妇对剥皮狐狸臊臭的下流嗅觉，那位清晨报晓的歌者何以竟巧合地动摇并解开了那未梳理的大写字母P的交尾天性，并在倒悬卷曲的双尖塔下，轻而易举将一封原本属于大写宏伟贵族风范的高贵家族信札，降格为家用寻常小写字母的卑微水准？普天下究竟有谁——按锡脑钟表的报时者所言——能以这般超自然的精准度，将这纸信封四度交叠对折？那处烧焦且破损的火漆封印，在岁月风蚀的折痕处早已断裂；那条奇异、异域风情的蛇形饰线，自教会正典将之逐出经卷以来，在书写者腕力的压迫下，宛如长蛇般在我们眼前螺旋盘卷、如蜥蜴般慵懒膨胀；那等毫无音律美感的笨拙涂抹，在自我发声的雕琢中化作巫术般的足形纽姆音符，又如仓皇赋格中轰鸣交响的十声部卡农曲般教人目瞪口呆：",
+      "translation": "盖因，凭借那村妇对剥皮狐狸臊臭的下流嗅觉，那位清晨报晓的歌者何以竟巧合地动摇并解开了那未梳理的大写字母P的交尾天性，并在倒悬卷曲的双尖塔下，轻而易举将一封原本属于大写宏伟贵族风范的高贵家族信札，降格为家用寻常小写字母的卑微水准？普天下究竟有谁——按锡脑钟表的报时者所言——能以这般超自然的精准度，将这纸信封四度交叠对折？那处烧焦且破损的火漆封印，在岁月风蚀的折痕处早已断裂；那条奇异、异域风情的蛇形饰线，自教会正典将之逐出经卷以来，在书写者腕力的压迫下，宛如长蛇般在我们眼前螺旋盘卷、如蜥蜴般慵懒膨胀；那等毫无音律美感的笨拙涂抹，在自我发声的雕琢中化作巫术般的足形纽姆音符，又如仓皇赋格中轰鸣交响的十声部卡农曲般教人目瞪口呆：",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-farmfrow-foxfetor-letter-p",
+          "lemma": "For, with that farmfrow's foul flair for that flayfell foxfetor... unseat and dislace the copulative propensity of the uncombed letter P...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "“农妇对剥皮狐狸臊臭的下流嗅觉”：母鸡（farmfrow = farm-frau）以动物本能嗅出秘密；“解开大写字母 P 的交配性倾向”：字母 P 作为男性勃起象征（penis / Peter），在母鸡啄抓下从华贵大写字母（capital letter）降格为日常卑微小写字母（small letter），展现文字形体中隐蔽的性暗示与去势反讽。",
+          "source_ids": [
+            "fw-page119",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-envelope-folds-sealing-wax",
+          "lemma": "who in the world, say the time-counters, by all the clocks of tinwit... could have folded... with such preternatural precision... charred sealing wax...",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "信封物理形态学：考证信纸四度交叠对折（four cross-couples of folding）的超自然精度，烧焦破损的火漆封印（sealing wax），折痕处风化撕裂。乔伊斯借都柏林邮务法庭的司法质询，将一封家书的邮递折叠升格为宇宙几何与历史档案的裂变。",
+          "source_ids": [
+            "fw-page119",
+            "fw-page120",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-serpentine-lacertine-writer-hand",
+          "lemma": "that strange exotic serpentine, since so properly banished from our scripture... seems to uncoil spirally and swell lacertinelazily before our eyes under pressure of the writer's hand...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "凯尔经风格的“蛇形饰线”（serpentine）与“蜥蜴形盘绕”（lacertine）：中世纪岛屿手抄本中被教会严令禁止的异教缠绕纹样与蛇形笔划；在书写者（Shem）的手力压迫下，宛如活物般螺旋盘卷、慵懒膨胀，象征被压抑的原始欲力在文字线条中的盘踞。",
+          "source_ids": [
+            "fw-page121",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-podatus-skelterfugue-canons",
+          "lemma": "the ungainly musicianlessness so painted in sculpting selfsounder ah ha as blackartful as a podatus and dumbfounder oh ho oaproariose as ten canons in skelterfugue:",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "格里高利圣咏与复调音乐术语戏拟：“podatus”（中世纪纽姆记谱法中的双音音符，形如足部向上跃升）；“ten canons in skelterfugue”（十声部仓皇赋格卡农曲），形容手稿文字节奏失谐、光怪陆离，如黑魔法巫术般喧嚣震撼。",
+          "source_ids": [
+            "fw-page121",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-121-29",
+      "locator": "121.29–123.29",
+      "range": [
+        121,
+        29,
+        123,
+        29
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "the studious omission of year number and era name from the date, the one and...",
+      "closing": "...tickle me gander as game as your goose.",
+      "original": "and era name from the date, the one and only time when our\ncopyist seems at least to have grasped the beauty of restraint; the\nlubricitous conjugation of the last with the first: the gipsy mat-\ning of a grand stylish gravedigging with secondbest buns (an in-\nterpolation: these munchables occur only in the Bootherbrowth\nfamily of MSS., Bb &#8212; Cod IV, Pap II, Brek XI, Lun III, Dinn\nXVII, Sup XXX, Fullup M D C X C: the scholiast has hungrily\nmisheard a deadman's toller as a muffinbell): the four shortened\nampersands under which we can glypse at and feel for ourselves\nacross all those rushyears the warm soft short pants of the quick-\nscribbler: the vocative lapse from which it begins and the accu-\nsative hole in which it ends itself; the aphasia of that heroic agony\nof recalling a once loved number leading slip by slipper to a\ngeneral amnesia of misnomering one's own: next those ars, rrrr!\nthose ars all bellical, the highpriest's hieroglyph of kettletom and\noddsbones, wrasted redhandedly from our hallowed rubric prayer\nfor truce with booty, O'Remus pro Romulo, and rudely from the\nfane's pinnacle tossed down by porter to within an aim's ace of\ntheir quatrain of rubyjets among Those Who arse without the\nTemple nor since Roe's Distillery burn'd have quaff'd Night's\nfirefill'd Cup But jig jog jug as Day the Dicebox Throws, whang,\nloyal six I lead, out wi'yer heart's bluid, blast ye, and there she's\nfor you, sir, whang her, the fine ooman, rouge to her lobster\nlocks, the rossy, whang, God and O'Mara has it with his ruddy\nold Villain Rufus, wait, whang, God and you're another he\nhasn't for there's my spoil five of spuds's trumps, whang, whack\non his pigsking's Kisser for him, K.M. O'Mara where are you?;\nthen (coming over to the left aisle corner down) the cruciform\npostscript from which three basia or shorter and smaller oscula\nhave been overcarefully scraped away, plainly inspiring the tene-\nbrous Tunc page of the Book of Kells (and then it need not be\nlost sight of that there are exactly three squads of candidates for\nthe crucian rose awaiting their turn in the marginal panels of\nColumkiller, chugged in their three ballotboxes, then set apart for\nsuch hanging committees, where two was enough for anyone,\nstarting with old Matthew himself, as he with great distinction\nsaid then just as since then people speaking have fallen into the\ncustom, when speaking to a person, of saying two is company\nwhen the third person is the person darkly spoken of, and then\nthat last labiolingual basium might be read as a suavium if who-\never the embracer then was wrote with a tongue in his (or per-\nhaps her) cheek as the case may have been then) and the fatal\ndroopadwindle slope of the blamed scrawl, a sure sign of imper-\nfectible moral blindness; the toomuchness, the fartoomanyness\nof all those fourlegged ems: and why spell dear god with a big\nthick dhee (why, O why, O why?): the cut and dry aks and wise\nform of the semifinal; and, eighteenthly or twentyfourthly, but\nat least, thank Maurice, lastly when all is zed and done, the pene-\nlopean patience of its last paraphe, a colophon of no fewer than\nseven hundred and thirtytwo strokes tailed by a leaping lasso\nwho thus at all this marvelling but will press on hotly to see the\nvaulting feminine libido of those interbranching ogham sex up-\nandinsweeps sternly controlled and easily repersuaded by the\nuniform matteroffactness of a meandering male fist?\nDuff-Muggli, who now may be quoted by very kind arrange-\nment (his dectroscophonious photosensition under suprasonic\nlight control may be logged for by our none too distant futures\nas soon astone values can be turned out from Chromophilomos,\nLimited at a millicentime the microamp), first called this kind of\npaddygoeasy partnership the ulykkhean or tetrachiric or quad-\nrumane or ducks and drakes or debts and dishes perplex (v. Some\nForestallings over that Studium of Sexophonologistic Schizophre-\nnesis, vol. xxiv, pp. 2-555) after the wellinformed observation,\nmade miles apart from the Master by Tung-Toyd (cf. Later\nFrustrations amengst the Neomugglian Teachings abaft the Semi-\nunconscience, passim) that in the case of the littleknown periplic\nbestteller popularly associated with the names of the wretched\nmariner (trianforan deffwedoff our plumsucked pattern shape-\nkeeper) a Punic admiralty report, From MacPerson's Oshean\nRound By the Tides of Jason's Cruise, had been cleverly capsized\nand saucily republished as a dodecanesian baedeker of the every-\ntale-a-treat-in-itself variety which could hope satisfactorily to\ntickle me gander as game as your goose.",
+      "draft": "在日期中刻意隐去纪元年份与纪元名号，此乃我们这位抄写者唯一一次领悟克制之美的时刻；首尾之间的滑稽媾和：华丽送葬与次等松饼的吉普赛式偷欢（此处插注：此类嚼食点心仅现于布瑟布罗思家族手抄本群，古注注者饥肠辘辘，竟将丧钟误听作卖松饼的清脆铜铃）；四个缩写连字符&，透过悠悠飞逝的岁月，让我们真切感受到急就章书吏温热轻柔的短促喘息；信札自呼格之疏漏起始，至宾格之空洞终结；极力追忆昔日深爱号码的失语阵痛，一步步滑向遗忘自身姓名的全面失忆；接下来是那些字母R，呼噜噜的字母R，好斗的战鼓象形文，掷骰赌牌，牌桌上的怒吼与血光；随后，在左下侧过道角落里，十字形的附笔上三个亲吻印记遭人小心翼翼刮除，赫然启迪了《凯尔经》中阴郁昏黑的Tunc受难页面；随后便是那段该受咒诅之潦草涂鸦的致命下垂倾角，那是道德盲目无可救药的明证；大批长着四条腿的大写字母M何其过剩泛滥；为何要用又粗又壮的字母D来拼写上帝？最后，感谢上帝，大功告成之际，显露出佩涅洛佩式耐心的终卷花押——由多达七百三十二道笔划交织而成的题跋，末尾拖着一条飞跃的套索——目睹这一切奇迹，又有谁不愿热切探看那些如欧甘树木文字般向内向上翻卷的女性情欲冲动，在沉稳蜿蜒的男性铁拳下如何驯服降伏？\n\n达夫-穆格利教授首先将此类文献称作迦太基海军报告，借由麦克弗森的奥西安伪作与伊阿宋航海潮流，经巧妙颠覆而化作十二群岛旅行指南，巴望能让公鹅与母鹅皆大欢喜。",
+      "translation": "在日期中刻意隐去纪元年份与纪元名号，此乃我们这位抄写者唯一一次领悟克制之美的时刻；首尾之间的滑稽媾和：华丽送葬与次等松饼的吉普赛式偷欢（此处插注：此类嚼食点心仅现于布瑟布罗思家族手抄本群，古注注者饥肠辘辘，竟将丧钟误听作卖松饼的清脆铜铃）；四个缩写连字符&，透过悠悠飞逝的岁月，让我们真切感受到急就章书吏温热轻柔的短促喘息；信札自呼格之疏漏起始，至宾格之空洞终结；极力追忆昔日深爱号码的失语阵痛，一步步滑向遗忘自身姓名的全面失忆；接下来是那些字母R，呼噜噜的字母R，好斗的战鼓象形文，掷骰赌牌，牌桌上的怒吼与血光；随后，在左下侧过道角落里，十字形的附笔上三个亲吻印记遭人小心翼翼刮除，赫然启迪了《凯尔经》中阴郁昏黑的Tunc受难页面；随后便是那段该受咒诅之潦草涂鸦的致命下垂倾角，那是道德盲目无可救药的明证；大批长着四条腿的大写字母M何其过剩泛滥；为何要用又粗又壮的字母D来拼写上帝？最后，感谢上帝，大功告成之际，显露出佩涅洛佩式耐心的终卷花押——由多达七百三十二道笔划交织而成的题跋，末尾拖着一条飞跃的套索——目睹这一切奇迹，又有谁不愿热切探看那些如欧甘树木文字般向内向上翻卷的女性情欲冲动，在沉稳蜿蜒的男性铁拳下如何驯服降伏？\n\n达夫-穆格利教授首先将此类文献称作迦太基海军报告，借由麦克弗森的奥西安伪作与伊阿宋航海潮流，经巧妙颠覆而化作十二群岛旅行指南，巴望能让公鹅与母鹅皆大欢喜。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-kells-tunc-page-cruciform",
+          "lemma": "plainly inspiring the tenebrous Tunc page of the Book of Kells (and then it need not be lost sight of that there are exactly three squads of candidates for the crucian rose...)",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "都柏林三一学院爱尔兰国宝《凯尔经》第124页著名的“Tunc 页面”（Tunc Page）：书写《马太福音》27:38“Tunc crucifixerant cum eo duos latrones”（当时，有两个强盗和他同钉十字架）。整页由巨大且华丽错综的字母 T-U-N-C 与盘绕的人形、十字架图案构成；乔伊斯将信末十字形附言（cruciform postscript）与刮除的吻痕（basia / oscula），戏拟为凯尔经受难页的原型。",
+          "source_ids": [
+            "fw-page122",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-bootherbrowth-muffinbell-scholiast",
+          "lemma": "these munchables occur only in the Bootherbrowth family of MSS... the scholiast has hungrily misheard a deadman's toller as a muffinbell...",
+          "kind": "wordplay",
+          "certainty": "supported",
+          "text": "版本学与校勘学反讽：“布瑟布罗思家族手稿抄本群”（Bootherbrowth MSS）；古注学者饥肠辘辘，竟将丧礼为死者敲响的沉痛丧钟（deadman's toller）听成了街头叫卖下午茶小松饼的清脆摇铃（muffinbell），揭示文献考据中主观欲望的荒诞投射。",
+          "source_ids": [
+            "fw-page121",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-colophon-penelopean-paraphe-ogham",
+          "lemma": "the penelopean patience of its last paraphe, a colophon of no fewer than seven hundred and thirtytwo strokes tailed by a leaping lasso... vaulting feminine libido of those interbranching ogham sex up-andinsweeps...",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "手卷终卷题跋（colophon）与花押（paraphe）：具有荷马史诗佩涅洛佩（Penelopean）般织而复拆的执着耐心，包含多达732道笔划（对应两年润年之日数）；将古爱尔兰欧甘树木文字（ogham）纵横交错的笔划象征为女性旺盛里比多（feminine libido），在男性沉稳漫延的书写拳锋（meandering male fist）下达致两性对立统一。",
+          "source_ids": [
+            "fw-page123",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-duff-muggli-macpherson-oshean",
+          "lemma": "Duff-Muggli... a Punic admiralty report, From MacPerson's Oshean Round By the Tides of Jason's Cruise... tickle me gander as game as your goose.",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "现代笔迹心理学专家达夫-穆格利（Duff-Muggli）；化用苏格兰诗人詹姆斯·麦克弗森（James Macpherson）假托古盖尔盲诗人“奥西安”（Ossian / Oshean）之惊天伪作公案，将其与迦太基腓尼基海军航海志、伊阿宋阿耳戈金羊毛远航以及贝德克旅行指南熔冶一炉。",
+          "source_ids": [
+            "fw-page123",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i5-123-30",
+      "locator": "123.30–125.23",
+      "range": [
+        123,
+        30,
+        125,
+        23
+      ],
+      "source_id": "joyce-fp",
+      "lead_in": "The unmistaken identity of the persons in the Tiberiast duplex came to light...",
+      "closing": "...Shem the Penman.",
+      "original": "The unmistaken identity of the persons in the Tiberiast du-\nplex came to light in the most devious of ways. The original\ndocument was in what is known as Hanno O'Nonhanno's un-\nbrookable script, that is to say, it showed no signs of punctua-\ntion of any sort. Yet on holding the verso against a lit rush this\nnew book of Morses responded most remarkably to the silent\nquery of our world's oldest light and its recto let out the piquant\nfact that it was but pierced butnot punctured (in the university\nsense of the term) by numerous stabs and foliated gashes made\nby a pronged instrument. These paper wounds, four in type,\nwere gradually and correctly understood to mean stop, please\nstop, do please stop, and O do please stop respectively, and\nfollowing up their one true clue, the circumflexuous wall of a\nsingleminded men's asylum, accentuated by bi tso fb rok engl\na ssan dspl itch ina, &#8212; Yard inquiries pointed out &#8594;  that they\nad b&#238;n \"provoked\" ay &#x22c0; fork, of &#224; grave Brof&#232;sor; &#224;th &#233;'s Br&#232;ak\n&#8212; fast &#8212; table;&#160;; ac&#249;tely prof&#232;&#x161;&#x161;ionally piqu&#233;d, to=introd&#249;ce a\nnotion of time [&#249;pon &#224; plane (?) s&#249; &#x2019; &#x2019; f&#224;&#231;&#x2019;e&#x2019;] by p&#249;nct! ingh oles\n(sic) in iSpace?! Deeply religious by nature and position, and\nwarmly attached to Thee, and smearbread and better and Him\nand newlaidills, it was rightly suspected that such ire could not\nhave been visited by him Brotfressor Prenderguest even under-\nwittingly, upon the ancestral pneuma of one whom, with rheuma,\nhe venerated shamelessly at least once a week at Cockspur Com-\nmon as his apple in his eye and her first boys' best friend and,\nthough plain English for a married lady misled heaps by the way,\nyet when some peerer or peeress detected that the fourleaved\nshamrock or quadrifoil jab was more recurrent wherever the\nscript was clear and the term terse and that these two were the\nselfsame spots naturally selected for her perforations by Dame\nPartlet on her dungheap, thinkers all put grown in waterung-\nspillfull Pratiland only and a playful fowl and musical me and\nnot you in any case, two and two together, and, with a swarm\nof bisses honeyhunting after, a sigh for shyme (O, the petty-\nbonny rouge!) separated modest mouths. So be it. And it was.\nThe lettermaking of the explots of Fjorgn Camhelsson when he\nwas in the Kvinnes country with Soldru's men. With acknow-\nledgment of our fervour of the first instant he remains years most\nfainfully. For postscrapt see spoils. Though not yet had the sailor\nsipped that sup nor the humphar foamed to the fill. And fox and\ngeese still kept the peace around L'Auberge du P&#232;re Adam.\nSmall need after that, old Jeromesolem, old Huffsnuff, old\nAndycox, old Olecasandrum, for quizzing your weekenders come\nto the R.Q. with: shoots off in a hiss, muddles up in a mussmass\nand his whole's a dismantled noondrunkard's son. Howbeit we\nheard not a son of sons to leave by him to oceanic society in his\nold man without a thing in his ignorance, Tulko MacHooley.\nAnd it was thus he was at every time, that son, and the other\ntime, the day was in it and after the morrow Diremood is the\nname is on the writing chap of the psalter, the juxtajunctor of a\ndearmate and he passing out of one desire into its fellow. The\ndaughters are after going and loojing for him, Torba's nice-\nlookers of the fair neck. Wanted for millinary servance to\nolderly's person by the Totty Askinses. Formelly confounded\nwith amother. Maybe growing a moustache, did you say, with\nan adorable look of amuzement? And uses noclass billiardhalls\nwith an upandown ladder? Not Hans the Curier though had he\nhad have only had some little laughings and some less of cheeks\nand were he not so warried by his bulb of persecussion he could\nhave, ay, and would have, as true as Essex bridge. And not Go-\npheph go gossip, I declare to man! Noe! To all's much relief\none's half hypothesis of that jabberjaw ape amok the showering\njestnuts of Bruisanose was hotly dropped and his room taken up\nby that odious and still today insufficiently malestimated note-\nsnatcher (kak, pfooi, bosh and fiety, much earny, Gus, poteen?\nSez you!) Shem the Penman.",
+      "draft": "提比利亚斯那对二人双联的确凿身份，以最曲折隐秘的路径水落石出。原初文书系采用人称“汉诺·奥农汉诺”的无阻手笔写就，换言之，通篇全然不见任何标点符号的踪影。然而，当将信笺背面迎向点燃的灯芯草微光，这卷崭新的摩尔斯电码之书，竟以最惊人的灵异回应了人世间最古老光芒的无言垂询；其正面赫然泄露出耐人寻味的事实：它曾遭某种尖叉利器反复戳刺，留下一道道枝桠状伤痕。此类纸页伤痕共分四种，人们逐渐准确领悟其真意：分别对应“停下”、“请停下”、“千万请停下”以及“哦行行好千万停下！”；顺着这唯一的真确线索——一座收容偏执汉子的疯人院蜿蜒曲折的高墙，辅以碎玻璃与破瓷片——苏格兰场的侦探调查指出：这桩惨案乃是一位严肃教授在早餐桌上“挑起”的利叉之祸；他带着高度的学术愤慨，妄图借由在四维空间中戳刺破洞，向二维平面引入时间的维度！鉴于其天性与地位皆极度虔诚，热忱依恋上帝、黄油涂面包与新鲜鸡蛋，人们理所当然地认定：如此狂怒断无可能是普伦德加斯特教授故意降罪于其祖先元灵（纵然关节炎缠身，他在公牛角广场依然每周至少一次将其奉作掌上明珠与大儿子的至交密友）；当某位识破天机的名士发觉四叶草叉痕每每现于字迹清朗、辞藻简练之处，而这恰是母鸡帕特莱特在粪堆里本能挑选啄食的地点时，众思想家终于将这些蛛丝马迹拼凑完全：一切不过是戏谑家禽与乐天自我的顽皮恶作剧，绝非阁下的罪衍；群蜂嗡嗡追逐蜜糖，一声因羞惭而发出的叹息（哦，娇艳的口红！）分开了羞怯的双唇。就此作罢。确实如此。\n\n自此以后，老圣哲罗姆、老吹气鬼、老安迪考克斯、老亚历山大，何须再向造访客栈的周末酒客出谜打趣：“在嘶嘶声中喷射，在乱麻一团中混淆，其通体乃是正午醉汉的残破逆子”。那儿子向来如此，改天换日之后，圣咏经卷上的书写汉子唤作迪尔穆德，乃是亲密同伴的缝合者，从一种欲念迈向另一种同类欲念。姑娘们随后四出寻觅其踪迹。莫非蓄着小胡须，嘴角带着令人倾心的戏谑笑意？常去低级台球室顺梯子上下？并非信差汉斯，假若他多一点欢笑、少一点厚颜，未遭迫害妄想症这般折磨，他原本完全能够胜任，正如埃塞克斯桥那般确凿。亦非四处嚼舌的挪亚！令众人大松一口气的是，关于在布鲁斯诺斯乱掷栗子的碎嘴猿猴之半拉子假说早已彻底弃绝，他的席位最终为那位至今仍未获足够贬斥的可憎抄袭恶汉所取代——\n\n书吏谢姆。",
+      "translation": "提比利亚斯那对二人双联的确凿身份，以最曲折隐秘的路径水落石出。原初文书系采用人称“汉诺·奥农汉诺”的无阻手笔写就，换言之，通篇全然不见任何标点符号的踪影。然而，当将信笺背面迎向点燃的灯芯草微光，这卷崭新的摩尔斯电码之书，竟以最惊人的灵异回应了人世间最古老光芒的无言垂询；其正面赫然泄露出耐人寻味的事实：它曾遭某种尖叉利器反复戳刺，留下一道道枝桠状伤痕。此类纸页伤痕共分四种，人们逐渐准确领悟其真意：分别对应“停下”、“请停下”、“千万请停下”以及“哦行行好千万停下！”；顺着这唯一的真确线索——一座收容偏执汉子的疯人院蜿蜒曲折的高墙，辅以碎玻璃与破瓷片——苏格兰场的侦探调查指出：这桩惨案乃是一位严肃教授在早餐桌上“挑起”的利叉之祸；他带着高度的学术愤慨，妄图借由在四维空间中戳刺破洞，向二维平面引入时间的维度！鉴于其天性与地位皆极度虔诚，热忱依恋上帝、黄油涂面包与新鲜鸡蛋，人们理所当然地认定：如此狂怒断无可能是普伦德加斯特教授故意降罪于其祖先元灵（纵然关节炎缠身，他在公牛角广场依然每周至少一次将其奉作掌上明珠与大儿子的至交密友）；当某位识破天机的名士发觉四叶草叉痕每每现于字迹清朗、辞藻简练之处，而这恰是母鸡帕特莱特在粪堆里本能挑选啄食的地点时，众思想家终于将这些蛛丝马迹拼凑完全：一切不过是戏谑家禽与乐天自我的顽皮恶作剧，绝非阁下的罪衍；群蜂嗡嗡追逐蜜糖，一声因羞惭而发出的叹息（哦，娇艳的口红！）分开了羞怯的双唇。就此作罢。确实如此。\n\n自此以后，老圣哲罗姆、老吹气鬼、老安迪考克斯、老亚历山大，何须再向造访客栈的周末酒客出谜打趣：“在嘶嘶声中喷射，在乱麻一团中混淆，其通体乃是正午醉汉的残破逆子”。那儿子向来如此，改天换日之后，圣咏经卷上的书写汉子唤作迪尔穆德，乃是亲密同伴的缝合者，从一种欲念迈向另一种同类欲念。姑娘们随后四出寻觅其踪迹。莫非蓄着小胡须，嘴角带着令人倾心的戏谑笑意？常去低级台球室顺梯子上下？并非信差汉斯，假若他多一点欢笑、少一点厚颜，未遭迫害妄想症这般折磨，他原本完全能够胜任，正如埃塞克斯桥那般确凿。亦非四处嚼舌的挪亚！令众人大松一口气的是，关于在布鲁斯诺斯乱掷栗子的碎嘴猿猴之半拉子假说早已彻底弃绝，他的席位最终为那位至今仍未获足够贬斥的可憎抄袭恶汉所取代——\n\n书吏谢姆。",
+      "status": "draft",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i5-book-of-morses-lit-rush",
+          "lemma": "Yet on holding the verso against a lit rush this new book of Morses responded most remarkably to the silent query of our world's oldest light...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "“摩尔斯与摩西之书”（book of Morses = Morse code + Moses 五经）：将手卷背面迎向点燃的灯芯草火光，纸页上鸡喙啄出的孔洞在光照下化作摩尔斯电码的密契符码，回应古老火光的无言垂询；将现代电信密码技术与古老先知启示融于纸背透光实验。",
+          "source_ids": [
+            "fw-page123",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-stop-einstein-space-time-fork",
+          "lemma": "These paper wounds, four in type, were gradually and correctly understood to mean stop, please stop... to introduce a notion of time upon a plane surface by puncturing holes in Space...",
+          "kind": "allusion",
+          "certainty": "supported",
+          "text": "纸页孔洞的双重释义：既是电报行文中的“停/句号”（stop），亦是情欲纠缠中的恳求（“求求你停下！”）；爱因斯坦与闵可夫斯基“四维时空”（Space-Time）物理学戏拟：借教授在早餐桌上用叉子在纸页（二维平面）上戳洞，象征在空间平面上引入时间维度（time upon a plane surface）。",
+          "source_ids": [
+            "fw-page124",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-four-old-men-jeromesolem-riddle",
+          "lemma": "Small need after that, old Jeromesolem, old Huffsnuff, old Andycox, old Olecasandrum, for quizzing your weekenders...",
+          "kind": "culture",
+          "certainty": "supported",
+          "text": "四位老汉（马太、马克、路加、约翰）化身为古代教会教父与文法学家：圣哲罗姆（Jeromesolem = Jerome + Jerusalem）、奥古斯丁（Huffsnuff）、圣安德鲁或托马斯·阿奎那（Andycox）与亚历山大（Olecasandrum）；在客栈向周末酒客出谜，引向第六章肖恩的十二道谜题。",
+          "source_ids": [
+            "fw-page124",
+            "fw-page125",
+            "jjda-i5"
+          ]
+        },
+        {
+          "id": "i5-shem-the-penman-climax",
+          "lemma": "that odious and still today insufficiently malestimated notesnatcher... Shem the Penman.",
+          "kind": "structure",
+          "certainty": "supported",
+          "text": "第五章终曲最高潮：书吏谢姆（Shem the Penman）作为整封书信真正作者与伪造者的身份赫然昭雪。谢姆化身乔伊斯本人自我嘲讽的恶名（19世纪都柏林著名伪造犯詹姆斯·汤森·萨瓦德 James Townsend Saward 别号“笔仙吉姆”Jim the Penman）；定性为“可憎且至今仍未获足够贬斥的笔记窃贼”，直接呼应并引出全书关于孪生兄弟谢姆（艺术、叛逆与书写）与肖恩（正统、邮差与建制）的永恒论争。",
+          "source_ids": [
+            "fw-page125",
+            "jjda-i5"
+          ]
+        }
+      ],
+      "alternatives": []
+    }
+  ],
+  "coverage_review": "已完成第一卷第五章全部22页（104.01–125.23）共8个分段之底本录入、逐句初译与系统注疏；经对照 Viking 1939 底本页行逐行校核，全章767行无漏句无跳行。本章接续第四章末尾巴比伦河畔洗衣妇柳林悬心，自伊斯兰《古兰经》开篇大赞辞（Basmala）与《主祷文》双重神圣戏仿（奉至慈至悯安娜之名，In the name of Annah the Allmaziful...）启幕，铺陈出百余个光怪陆离的市井小调与历史辩白书标题目录大爆发（Mamafesta）；继而转入都柏林凤凰公园垃圾堆之文字原境，母鸡毕迪·多兰（Biddy Doran）于橙皮茶叶废墟中刨出波士顿家书（“引领吧，仁慈的家禽！”）；展开对《凯尔经》（Book of Kells）古抄本沙利文爵士图录之极尽繁复戏拟、吸墨细沙与下午茶渍之微观物质考证、弗洛伊德与荣格“老精神分析客”对少艾女子骑单车翻跌之羞耻镜窥探、毕达哥拉斯尺半长词与床单肉欲俚语之对撞；复归于四大思想家（基内、米什莱、维柯、布鲁诺）历史哲学矩阵与夫妻胡茬拔而复生之永恒轮回；考辨信纸四度交叠、火漆封泥、十字附笔与凯尔经 Tunc 受难页之呼应，终结于七百三十二道终卷花押与纸背透光摩尔斯电码实验，以普伦德加斯特教授餐桌戳纸向二维平面引入时间维度为戏核，最终在四老汉客栈出谜声中昭雪全案伪造元凶——书吏谢姆（Shem the Penman），全章圆满闭环，无缝衔接第六章肖恩的十二道谜题。"
+}

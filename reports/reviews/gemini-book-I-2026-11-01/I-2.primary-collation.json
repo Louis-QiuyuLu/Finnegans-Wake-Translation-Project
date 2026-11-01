@@ -1,0 +1,169 @@
+{
+  "chapter": "I.2",
+  "input_sha256": "1f93eda0fad56d4893ccaf4b752028c1a28c07a464e97cbcecefe170f27bfefb",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "030 through 047",
+  "primary_text_words": 5978,
+  "candidate_words": 5977,
+  "similarity": 0.9940610623170222,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "outs ide",
+      "candidate": "outside",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "of the cladstone allegibelling: Ive mies outs ide Bourn.) Comes the question are these"
+    },
+    {
+      "operation": "replace",
+      "witness": "presented,",
+      "candidate": "presented",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "more pondus to the copperstick he presented, (though this seems in some cumfusium"
+    },
+    {
+      "operation": "replace",
+      "witness": "ginger",
+      "candidate": "ginger,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "in some cumfusium with the chapstuck ginger which, as being of sours, acids,"
+    },
+    {
+      "operation": "replace",
+      "witness": "[FIGURE:E rotated 180°]!)",
+      "candidate": "Ǝ!)",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "(by ancientest signlore his gesture meaning: [FIGURE:E rotated 180°]!) pointed at an angle of thirtytwo"
+    },
+    {
+      "operation": "replace",
+      "witness": "Pomeranzia!)",
+      "candidate": "Pomranzia!)",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "(no persicks and armelians for thee, Pomeranzia!) but, slipping the clav in her"
+    },
+    {
+      "operation": "replace",
+      "witness": "accident—if,",
+      "candidate": "accident -- if,",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "Nolan and underreared, poul soul, by accident—if, that is, the incident it was"
+    },
+    {
+      "operation": "replace",
+      "witness": "Havvah-ban-Annah—to",
+      "candidate": "Havvah-ban-Annah -- to",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "of Hippo outpuffs the writress of Havvah-ban-Annah—to pianissime a slightly varied version of"
+    },
+    {
+      "operation": "replace",
+      "witness": "Mère",
+      "candidate": "Mere",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "varied version of Crookedribs confidentials, (what Mère Aloyse said but for Jesuphine's sake!)"
+    },
+    {
+      "operation": "insert",
+      "witness": "",
+      "candidate": "I’m",
+      "witness_tokens": 0,
+      "candidate_tokens": 1,
+      "witness_context": "dog, blue ruin and creeping jenny, Eglandine's choicest herbage, supplied by the"
+    },
+    {
+      "operation": "replace",
+      "witness": "further— intentions—apply—tomorrow",
+      "candidate": "further — intentions — apply — tomorrow",
+      "witness_tokens": 2,
+      "candidate_tokens": 7,
+      "witness_context": "of whackfolthediddlers was joined by a further— intentions—apply—tomorrow casual and a decent sort of"
+    },
+    {
+      "operation": "replace",
+      "witness": "fellow—me—lieder",
+      "candidate": "fellow — me — lieder",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "for. This, more krectly lubeen or fellow—me—lieder was first poured forth where Riau"
+    },
+    {
+      "operation": "replace",
+      "witness": "caster,",
+      "candidate": "easter,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "particularist prebendary pondering on the roman caster, the tonsure question and greek uniates,"
+    },
+    {
+      "operation": "replace",
+      "witness": "who, as",
+      "candidate": "who,as",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "to a few good old souls, who, as they were juiced after taking their"
+    },
+    {
+      "operation": "replace",
+      "witness": "Picta—and",
+      "candidate": "Picta — and",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "of the united states of Scotia Picta—and he who denays it, may his"
+    },
+    {
+      "operation": "delete",
+      "witness": "{ | Ardite, arditi! Music cue. \"The Ballad of Persse O'Reilly.\" [FIGURE:musical score]",
+      "candidate": "",
+      "witness_tokens": 13,
+      "candidate_tokens": 0,
+      "witness_context": "(All cla) Glass crash. The (klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot!). { | Ardite, arditi! Music cue. \"The Ballad of Persse O'Reilly.\" [FIGURE:musical score] Have you heard of one Humpty"
+    },
+    {
+      "operation": "replace",
+      "witness": "balbuccio!",
+      "candidate": "balbuccio!;",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the king of all ranns! Balbaccio, balbuccio! We had chaw chaw chops, chairs,"
+    },
+    {
+      "operation": "replace",
+      "witness": "[and",
+      "candidate": "and",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "chops, chairs, chewing gum, the chickenpox [and china chambers Universally provided by this"
+    },
+    {
+      "operation": "replace",
+      "witness": "And'tis",
+      "candidate": "And 'tis",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "all his trash, tricks and trumpery And'tis short till sheriff Clancy'll be winding"
+    },
+    {
+      "operation": "replace",
+      "witness": "Donnez- [moi",
+      "candidate": "Donnez-moi",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "from? roars Poolbeg. Cookingha'pence, he bawls Donnez- [moi scampitle, wick an wipin'fampiny Fingal Mac"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-01",
+  "decision": "needs_revision",
+  "publication": "withheld",
+  "parent": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "total_segments": 96,
+  "total_notes": 555,
+  "chapters": [
+    {
+      "chapter": "I.1",
+      "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94",
+      "segments": 31,
+      "original_words": 9779,
+      "chinese_characters": 16081,
+      "notes": 226,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.2",
+      "sha256": "1f93eda0fad56d4893ccaf4b752028c1a28c07a464e97cbcecefe170f27bfefb",
+      "segments": 10,
+      "original_words": 5978,
+      "chinese_characters": 8516,
+      "notes": 57,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.3",
+      "sha256": "d7ed8094a9b85ff36b1b654bdc578184f05f5d0932c70affea7f3f4bf49bbc1d",
+      "segments": 12,
+      "original_words": 9755,
+      "chinese_characters": 5934,
+      "notes": 51,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.4",
+      "sha256": "23d1dfc7119ccc74919374b08ae7786958ad678363bb5b02a80f706ddd4e97b1",
+      "segments": 12,
+      "original_words": 10466,
+      "chinese_characters": 17500,
+      "notes": 78,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.5",
+      "sha256": "4ede2d55e5416222ff6a6e3daf495bb80bb03b986596a7eb61a1add345111c22",
+      "segments": 8,
+      "original_words": 8226,
+      "chinese_characters": 7055,
+      "notes": 37,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.6",
+      "sha256": "3238b71900a3a3a97366205af30dd1e11db1380fc8e4842472c01cae53aba28f",
+      "segments": 12,
+      "original_words": 16161,
+      "chinese_characters": 9320,
+      "notes": 55,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.7",
+      "sha256": "d9a7342d5135c5f95af0c26ef0b85416df2656d5bf2fc7e4100c639df89b0a23",
+      "segments": 7,
+      "original_words": 9566,
+      "chinese_characters": 2597,
+      "notes": 33,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    },
+    {
+      "chapter": "I.8",
+      "sha256": "66d2fb1297939a8c9222253a3fe3e8bcfa92590416716a2eb8321a02afa2cca1",
+      "segments": 4,
+      "original_words": 7964,
+      "chinese_characters": 1555,
+      "notes": 18,
+      "claimed_coverage": "complete",
+      "reviewed_segments": 0
+    }
+  ],
+  "scope": {
+    "new_chapters_semantic_review": "I.2-I.8, 65 segments and 329 notes",
+    "chapter_1": "candidate exactly matches previously rejected frozen input; compared with current published revision",
+    "primary_text_collation": "Faded Page cached transcription, pages 030-216; Wiki direct retrieval pages030-216 and219",
+    "academic_limit": "source claims and quoted evidence checked within documented scope; no new human review or claim of full international scholarship census"
+  }
+}

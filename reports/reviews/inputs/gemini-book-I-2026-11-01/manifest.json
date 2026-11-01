@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-01",
+  "source_root": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project",
+  "files": [
+    {
+      "original_path": "manuscript/chapters/I-1.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-1.json",
+      "bytes": 339279,
+      "sha256": "00cbae2ea64a05ff4c2caaa535a455c5d30c7b94895bc018c9d3a94e8110fc94"
+    },
+    {
+      "original_path": "manuscript/chapters/I-2.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-2.json",
+      "bytes": 156881,
+      "sha256": "1f93eda0fad56d4893ccaf4b752028c1a28c07a464e97cbcecefe170f27bfefb"
+    },
+    {
+      "original_path": "manuscript/chapters/I-3.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-3.json",
+      "bytes": 132509,
+      "sha256": "d7ed8094a9b85ff36b1b654bdc578184f05f5d0932c70affea7f3f4bf49bbc1d"
+    },
+    {
+      "original_path": "manuscript/chapters/I-4.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-4.json",
+      "bytes": 239554,
+      "sha256": "23d1dfc7119ccc74919374b08ae7786958ad678363bb5b02a80f706ddd4e97b1"
+    },
+    {
+      "original_path": "manuscript/chapters/I-5.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-5.json",
+      "bytes": 132547,
+      "sha256": "4ede2d55e5416222ff6a6e3daf495bb80bb03b986596a7eb61a1add345111c22"
+    },
+    {
+      "original_path": "manuscript/chapters/I-6.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-6.json",
+      "bytes": 197899,
+      "sha256": "3238b71900a3a3a97366205af30dd1e11db1380fc8e4842472c01cae53aba28f"
+    },
+    {
+      "original_path": "manuscript/chapters/I-7.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-7.json",
+      "bytes": 97144,
+      "sha256": "d9a7342d5135c5f95af0c26ef0b85416df2656d5bf2fc7e4100c639df89b0a23"
+    },
+    {
+      "original_path": "manuscript/chapters/I-8.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-8.json",
+      "bytes": 67718,
+      "sha256": "66d2fb1297939a8c9222253a3fe3e8bcfa92590416716a2eb8321a02afa2cca1"
+    },
+    {
+      "original_path": "sources/catalog.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/sources__catalog.json",
+      "bytes": 96185,
+      "sha256": "5a28a250c0462f8edccf377d75dc096570c465f29bea3e0b882f013cdc2f7b56"
+    },
+    {
+      "original_path": "glossary/terms.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/glossary__terms.json",
+      "bytes": 1224,
+      "sha256": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+    },
+    {
+      "original_path": "progress/checkpoint.json",
+      "snapshot_path": "reports/reviews/inputs/gemini-book-I-2026-11-01/progress__checkpoint.json",
+      "bytes": 671,
+      "sha256": "5208bf11cbbac9fa464ee0c76aa4b3c00b1d527ba93c608ff1e97a90411d413f"
+    }
+  ]
+}

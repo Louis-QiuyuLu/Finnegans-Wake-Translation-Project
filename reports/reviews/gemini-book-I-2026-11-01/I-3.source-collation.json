@@ -1,0 +1,767 @@
+{
+  "chapter": "I.3",
+  "input_sha256": "d7ed8094a9b85ff36b1b654bdc578184f05f5d0932c70affea7f3f4bf49bbc1d",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_48",
+    "https://www.finnegansweb.com/wiki/index.php/Page_49",
+    "https://www.finnegansweb.com/wiki/index.php/Page_50",
+    "https://www.finnegansweb.com/wiki/index.php/Page_51",
+    "https://www.finnegansweb.com/wiki/index.php/Page_52",
+    "https://www.finnegansweb.com/wiki/index.php/Page_53",
+    "https://www.finnegansweb.com/wiki/index.php/Page_54",
+    "https://www.finnegansweb.com/wiki/index.php/Page_55",
+    "https://www.finnegansweb.com/wiki/index.php/Page_56",
+    "https://www.finnegansweb.com/wiki/index.php/Page_57",
+    "https://www.finnegansweb.com/wiki/index.php/Page_58",
+    "https://www.finnegansweb.com/wiki/index.php/Page_59",
+    "https://www.finnegansweb.com/wiki/index.php/Page_60",
+    "https://www.finnegansweb.com/wiki/index.php/Page_61",
+    "https://www.finnegansweb.com/wiki/index.php/Page_62",
+    "https://www.finnegansweb.com/wiki/index.php/Page_63",
+    "https://www.finnegansweb.com/wiki/index.php/Page_64",
+    "https://www.finnegansweb.com/wiki/index.php/Page_65",
+    "https://www.finnegansweb.com/wiki/index.php/Page_66",
+    "https://www.finnegansweb.com/wiki/index.php/Page_67",
+    "https://www.finnegansweb.com/wiki/index.php/Page_68",
+    "https://www.finnegansweb.com/wiki/index.php/Page_69",
+    "https://www.finnegansweb.com/wiki/index.php/Page_70",
+    "https://www.finnegansweb.com/wiki/index.php/Page_71",
+    "https://www.finnegansweb.com/wiki/index.php/Page_72",
+    "https://www.finnegansweb.com/wiki/index.php/Page_73",
+    "https://www.finnegansweb.com/wiki/index.php/Page_74"
+  ],
+  "candidate_words": 9727,
+  "witness_words": 9747,
+  "similarity": 0.9910650097565985,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "Eyrawyggla",
+      "candidate": "Eyrawyglaa",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "we-allhang-together",
+      "candidate": "we-all-hang-together",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Bucklovitch",
+      "candidate": "Buckleyitch",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "chawclates",
+      "candidate": "chaw-clates",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "wellnigh",
+      "candidate": "well-nigh",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Calomnequiller's",
+      "candidate": "Calomnequeller's",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "malpractices",
+      "candidate": "malfeasances",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "yearschaums",
+      "candidate": "yearweeksms",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Curchies",
+      "candidate": "Curranss",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "exrace eyes, lokil",
+      "candidate": "excommunicatedokil",
+      "witness_token_count": 3,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "southeast",
+      "candidate": "south-east",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "consummatory",
+      "candidate": "consequencey",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "malbellulo,",
+      "candidate": "malbelaulo,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "latitudinous baver",
+      "candidate": "latitudinarianismr",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "legomena",
+      "candidate": "legument",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "insteadily with",
+      "candidate": "insteadiferoush",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "(doerehmoose",
+      "candidate": "(doereheyose",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "tribune",
+      "candidate": "trivium",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "bannocks",
+      "candidate": "bankrupt",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Farseeingetherich",
+      "candidate": "Farseeingenoughch",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "succo, sabez.",
+      "candidate": "succursalbez.",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "tuvavnr",
+      "candidate": "tutuinr",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "portocallie.",
+      "candidate": "porcelanaie.",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "sabboth",
+      "candidate": "sabbath",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "ancestralolosis",
+      "candidate": "ancientalolosis",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "mutsohito liptails",
+      "candidate": "muttontuckliptails",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "adullescence",
+      "candidate": "adulteratore",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Maeromor Mournomates",
+      "candidate": "Maemuffinstirnomates",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "everintermutuomergent,",
+      "candidate": "evermoresmutuomergent,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "intouristing",
+      "candidate": "interestting",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "fireleaved",
+      "candidate": "firefountd",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "recepticle",
+      "candidate": "receivecle",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "bosom's",
+      "candidate": "bodiess",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "cockshyshooter's",
+      "candidate": "cockshypourson's",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "aginsst",
+      "candidate": "abovest",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "wildbroom,",
+      "candidate": "wildgander",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "tothink?",
+      "candidate": "totemsk?",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "kisker, kither,",
+      "candidate": "kiswastikither,",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "habit, watching",
+      "candidate": "habitualatching",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "multvult, magnoperous,",
+      "candidate": "multapromptagnoperous,",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "contestimony with",
+      "candidate": "conspicuouslywith",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "annuhulation.",
+      "candidate": "annulationon.",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "seufsighed:",
+      "candidate": "seufzerhed:",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Refuseleers!",
+      "candidate": "Refuselerss!",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "nodding,",
+      "candidate": "nodderg,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "santoys",
+      "candidate": "sangloc",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "elecutioner",
+      "candidate": "elementoner",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "viridable goddinpotty",
+      "candidate": "viridiurjanoddinpotty",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "propenomen is",
+      "candidate": "professionals",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Sevenchurches",
+      "candidate": "Sevendialshes",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "hashhoush",
+      "candidate": "hashtraph",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "skarlot",
+      "candidate": "skardly",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "murmured",
+      "candidate": "murmursd",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "coincident of",
+      "candidate": "coincidenceof",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Moirgan's",
+      "candidate": "Moiragall",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "cozydozy",
+      "candidate": "cozynook",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "accowding to my",
+      "candidate": "acknowledgingmy",
+      "witness_token_count": 3,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "fishshambles",
+      "candidate": "fishplateles",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "someone else",
+      "candidate": "somethinglse",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "silentioussuemeant",
+      "candidate": "silentioussueissnt",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "resurrection",
+      "candidate": "redoubtction",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "pharoah,",
+      "candidate": "phalanx,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "unknowable assailant",
+      "candidate": "undisclosedassailant",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "transparingly",
+      "candidate": "transparently",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Haveyoucaught-emerod's",
+      "candidate": "Haveyou-caught-emerod's",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "pseudojocax axplanation",
+      "candidate": "pseudofriendaxplanation",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "mormon halls",
+      "candidate": "mortalitylls",
+      "witness_token_count": 2,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "musikants'",
+      "candidate": "musicians'",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Fammfamm!",
+      "candidate": "Fammeamm!",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Scapolopolos,",
+      "candidate": "Scapologiaos,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "promiscious",
+      "candidate": "propertiess",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "blanchessance",
+      "candidate": "blanchingance",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "Edenberry,",
+      "candidate": "Edenquayy,",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "carcasses",
+      "candidate": "carbolics",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "topples",
+      "candidate": "toples",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "wallhole",
+      "candidate": "wall-hole",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    },
+    {
+      "operation": "replace",
+      "witness": "pigdirt",
+      "candidate": "pig-dirt",
+      "witness_token_count": 1,
+      "candidate_token_count": 1
+    }
+  ],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i3-048-01",
+      "note_id": "n-i3-48-blackfriars-treacle",
+      "lemma": "The Blackfriars treacle plaster outrage be liddled! ... kingsrick of Humidia"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "note_id": "n-i3-48-vergobretas-inkermann",
+      "lemma": "Vergobretas... crowd of Caraculacticors... zouave players of Inkermann"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "note_id": "n-i3-48-eyrawygla-buckley",
+      "lemma": "Eyrawygla saga... Blanco Fusilovna Buckley"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "note_id": "n-i3-50-we-all-hang-calomnequell",
+      "lemma": "we-all-hang-together... Calomnequell... palpitating Carmelite"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "note_id": "n-i3-51-haberdasher-currans",
+      "lemma": "Haberdasher, the two Currans... brogue"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "note_id": "n-i3-52-television-telephony",
+      "lemma": "Television kills telephony in brothers' broil. Our eyes demand that ear should be earless"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "note_id": "n-i3-52-spegulo-esperanto",
+      "lemma": "Spegulo ne helpas al malbela vizaĝo"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "note_id": "n-i3-52-desterre-tingmount-prigged",
+      "lemma": "d'Esterre... tales of the tingmount. (Prigged!)"
+    },
+    {
+      "segment_id": "fw-i3-053-07",
+      "note_id": "n-i3-53-irish-visavis",
+      "lemma": "Irish visavis... Upkingbilly and crow cru cramwells"
+    },
+    {
+      "segment_id": "fw-i3-053-07",
+      "note_id": "n-i3-54-rooks-sobranje",
+      "lemma": "parliament of rooks... sobranje"
+    },
+    {
+      "segment_id": "fw-i3-053-07",
+      "note_id": "n-i3-54-multilingual-pawn",
+      "lemma": "bumbac e meias de porcelana... piccolo"
+    },
+    {
+      "segment_id": "fw-i3-053-07",
+      "note_id": "n-i3-54-gowd-watch-smile",
+      "lemma": "Would you care to buy the gowd watch... (I tell you no story.) Smile!"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "note_id": "n-i3-55-house-atreox",
+      "lemma": "The house of Atreox is fallen indeedust (Ilyam, Ilyum! Maemuffinstir!)"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "note_id": "n-i3-55-hen-whallrhos",
+      "lemma": "hen and crusader... whallrhosmightiadd"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "note_id": "n-i3-56-formal-cause-kiwasti-porktroop",
+      "lemma": "formal cause... totems... Kiwasti, kiswasti... porktroop"
+    },
+    {
+      "segment_id": "fw-i3-057-16",
+      "note_id": "n-i3-57-brian-olinn",
+      "lemma": "Brian or Bride O'Linn"
+    },
+    {
+      "segment_id": "fw-i3-057-16",
+      "note_id": "n-i3-58-tapatagain-refuselers",
+      "lemma": "Tap and pat and tapatagain, (fire firstshot, Missiers the Refuselers!)"
+    },
+    {
+      "segment_id": "fw-i3-059-27",
+      "note_id": "n-i3-61-wepowtew-teaw",
+      "lemma": "Have you evew thought, wepowtew, that she shed a teaw"
+    },
+    {
+      "segment_id": "fw-i3-061-28",
+      "note_id": "n-i3-61-marchant-taylor",
+      "lemma": "marchant taylor's fablings... oddman rex"
+    },
+    {
+      "segment_id": "fw-i3-061-28",
+      "note_id": "n-i3-62-amenti-sixth-seal",
+      "lemma": "reading our Amenti in the sixth seal of the rubric"
+    },
+    {
+      "segment_id": "fw-i3-061-28",
+      "note_id": "n-i3-62-carman-glendalough",
+      "lemma": "Glendalough... Little Britain"
+    },
+    {
+      "segment_id": "fw-i3-063-20",
+      "note_id": "n-i3-63-parasoliloquisingly",
+      "lemma": "parasoliloquisingly truetoned... pseudofriend"
+    },
+    {
+      "segment_id": "fw-i3-063-20",
+      "note_id": "n-i3-64-musketeers-cherchons-famme",
+      "lemma": "musketeers! Cherchons la flamme! Famme!"
+    },
+    {
+      "segment_id": "fw-i3-063-20",
+      "note_id": "n-i3-64-nonobli-chepgone-finny",
+      "lemma": "ordinary man with that large big nonobli head... Chepgone face... Finny."
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "note_id": "n-i3-65-ack-clap-trap-dis",
+      "lemma": "Ack, ack, ack. With which clap, trap and soddenment, three to a loaf... he went Dis"
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "note_id": "n-i3-66-coffin-illusionist-hyde-cheek",
+      "lemma": "coffin, a triumph of the illusionist's art... Hyde and Cheek, Edenquay"
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "note_id": "n-i3-67-oxagiants-peeler-phizz",
+      "lemma": "nitrience of oxagiants... peeler. But his phizz fell."
+    },
+    {
+      "segment_id": "fw-i3-067-28",
+      "note_id": "fw-i3-067-28-n05",
+      "lemma": "applegate ... clodded"
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "note_id": "i3-betreffender-fall-adams",
+      "lemma": "there was a northroomer, Herr Betreffender, out for his zimmer hole-digs... making his reporterage on Der Fall Adams for the Frankofurto Siding..."
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "note_id": "i3-visitor-davy-titus-oates",
+      "lemma": "Humphrey's unsolicited visitor, Davy or Titus... blew some quaker's (for you! Oates!) in through the houseking's keyhole... weathering against him in mooxed metaphores from eleven thirty to two in the afternoon..."
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "note_id": "i3-ear-dionysius-conservatory",
+      "lemma": "Earwicker, that patternmind, that paradigmatic ear, receptoretentive as his of Dionysius... in the sititout corner of his conservatory... compiled... a long list of all abusive names he was called..."
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "note_id": "i3-catalogue-111-abusive-names",
+      "lemma": "Firstnighter, Informer, Old Fruit, Yellow Whigger... In Custody of the Polis, Boawwll's Alocutionist, Deposed..."
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "note_id": "i3-passive-resistance-kimmage",
+      "lemma": "chistically respectsful of the liberties of the noninvasive individual, did not respond a solitary wedgeword... ring up Kimmage Outer 17.67... howly rowsary..."
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "note_id": "i3-bully-acre-siege-closing",
+      "lemma": "And thus, with this rochelly exetur of Bully Acre, came to close that last stage in the siegings round our archicitadel... Dog-an-Doras..."
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "note_id": "i3-chambered-cairns-arthur-roland",
+      "lemma": "chambered cairns a cloudletlitter silent... testament of the rocks... wake from earthsleep... horn skall roll, orland, roll."
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "note_id": "i3-allprohome-animadiabolum",
+      "lemma": "Deyus shall ask of Allprohome... Add some... Animadiabolum, mene credidisti mortuum?..."
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "note_id": "i3-humph-in-doge-rain-sdops",
+      "lemma": "Humph is in his doge... Rain. When we sleep. Drops. But wait until our sleeping. Drain. Sdops."
+    }
+  ]
+}

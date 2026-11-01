@@ -1,0 +1,78 @@
+{
+  "captured_at": "2026-11-01T10:04:05.735140+00:00",
+  "source_root": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project",
+  "files": [
+    {
+      "path": "reports/revisions/fw-i2-030-01.r2.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__fw-i2-030-01.r2.json",
+      "bytes": 23721,
+      "sha256": "520c695500ff034978bffd6c58470e6a8083e5f9e7bcbb0c600114f453488c24"
+    },
+    {
+      "path": "reports/revisions/I-3-base-text.r2.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__I-3-base-text.r2.json",
+      "bytes": 44069,
+      "sha256": "a36a9670331edf8f84806bdb49bc37c7d6540e439359f51a8c053db110b9725e"
+    },
+    {
+      "path": "reports/revisions/gemini-book-I-disposition-ledger.r2.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/reports__revisions__gemini-book-I-disposition-ledger.r2.json",
+      "bytes": 4297,
+      "sha256": "e72dfaa52fb546258bda2477ee5952ea86acd6c67e9fa32fb68b569203793db6"
+    },
+    {
+      "path": "manuscript/chapters/I-2.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-2.json",
+      "bytes": 163,
+      "sha256": "5af36352022b942b65938943bf18f8109a1b7309df383c3d0becb8b987120c5d"
+    },
+    {
+      "path": "manuscript/chapters/I-3.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-3.json",
+      "bytes": 163,
+      "sha256": "f2d37c76655def1df833ec1f611bff2bc18f51c804c6fa78b3468f5981e14af9"
+    },
+    {
+      "path": "manuscript/chapters/I-4.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-4.json",
+      "bytes": 164,
+      "sha256": "0938f085df129d61b42d4f2b69f017556460ad1dee3145bfde45f546e3e202b5"
+    },
+    {
+      "path": "manuscript/chapters/I-5.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-5.json",
+      "bytes": 165,
+      "sha256": "89b095f8fb29c2c5e2d2eab4458b794c24d3f3415febb30b22865c37d6e091a3"
+    },
+    {
+      "path": "manuscript/chapters/I-6.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-6.json",
+      "bytes": 165,
+      "sha256": "43e911c2ddae1aceee408c1918495de7669664be239153d69ae6657234231e24"
+    },
+    {
+      "path": "manuscript/chapters/I-7.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-7.json",
+      "bytes": 165,
+      "sha256": "562dd3c7d9605ce9858daf342d2b6f85d2f638cd24f59c3fb217ba7a1fbf56ff"
+    },
+    {
+      "path": "manuscript/chapters/I-8.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/manuscript__chapters__I-8.json",
+      "bytes": 165,
+      "sha256": "d446c38f3d391ec2479f7554fc7e2d04b1e17cdfec068d83e6d976f1b8293708"
+    },
+    {
+      "path": "progress/checkpoint.json",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/progress__checkpoint.json",
+      "bytes": 590,
+      "sha256": "8c5c5eeebedd870a73cd52a27e2367dabb641c865e746e72562b994279536ca4"
+    },
+    {
+      "path": "progress/RESUME.md",
+      "snapshot": "reports/reviews/inputs/gemini-book-I-phase1-r2-2026-11-01/progress__RESUME.md",
+      "bytes": 1249,
+      "sha256": "79f9ee69422da854e420f1b41e2c4ff350b616ff5acd12fb48ed4ff3aa815c8f"
+    }
+  ]
+}
