@@ -156,7 +156,7 @@ JSON 章稿保存原文、初译和采用稿，Markdown、网页与 EPUB 从中�
 
 脚本默认参数为 `--model sisyphus --ref sisyphus2 --speed 1.05 --steps 32`。`sisyphus` 是脚本中的模型选项：优先加载 `Vertin-Sisyphus-v95.ckpt`，缺少时依次尝试 `Vertin-Sisyphus-e9.ckpt`、`Vertin-e10.ckpt`，搭配 `Vertin_e2_s154_l32.pth` 声学权重。也可用 `--model vertin` 或 `--model vertin2` 切换；权重、参考音频及完整训练记录未随仓库提供，不据文件名宣称已验证训练来源、准确率或音质。
 
-维护者提供的参考入口：[Vertin 音色页](https://www.ai-hobbyist.com/thread-159886-1-4.html) · [《西西弗神话》英语朗读](https://www.bilibili.com/video/BV1fSE4zBEox/)。页面内容和训练过程尚缺本项目核证记录，不能用这些链接代替逐段录音来源登记。
+[Vertin 音色页](https://www.ai-hobbyist.com/thread-159886-1-4.html) · [《西西弗神话》英语朗读](https://www.bilibili.com/video/BV1fSE4zBEox/)。
 
 默认参考音频 `references/sisyphus2.wav` 必须另备，缺失时脚本会中止；仅有原版 Vertin 权重与 `e1` 参考音频时，按 [朗读说明](audio/README.md) 显式指定参数。**网页首次播放默认1×**，与生成脚本的合成速度参数分别控制。
 
