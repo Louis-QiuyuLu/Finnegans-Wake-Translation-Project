@@ -143,6 +143,11 @@
       "original_sha256": "57d720579285cc10394980441009b45c79901743b4c29544f09561a8ce0dd623"
     },
     {
+      "segment_id": "fw-i2-030-01",
+      "file": "fw-i2-030-01.mp3",
+      "original_sha256": "dab89a84c1b6e4090bbb42c4eb0a45e83ec6d09c73c364915e79114dea0ac72e"
+    },
+    {
       "segment_id": "fw-i3-067-28",
       "file": "fw-i3-067-28.mp3",
       "original_sha256": "7ec001a0cc1f234eacf2af43139572ca2dff4f32d1b739946686a0cf84df4e84"

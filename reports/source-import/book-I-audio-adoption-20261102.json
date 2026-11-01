@@ -1,9 +1,9 @@
 {
   "date": "2026-11-02",
   "baseline_commit": "78f686eace3760887c8fd3e912c25b95954868b1",
-  "new_recordings": 19,
-  "new_bytes": 82123460,
-  "public_total": 28,
+  "new_recordings": 20,
+  "new_bytes": 86716528,
+  "public_total": 29,
   "book_I_segments": 91,
   "chapters": {
     "I.1": {
@@ -11,7 +11,7 @@
       "segments": 26
     },
     "I.2": {
-      "recordings": 0,
+      "recordings": 1,
       "segments": 10
     },
     "I.3": {
@@ -628,11 +628,43 @@
       "generation_provenance_sha256": "4f9ebb6623c04340199b953260155e1d4dae5e53e1da0f5ff26f405cae43993f",
       "acceptance": "technical_checks_passed",
       "human_listening": false
+    },
+    {
+      "segment_id": "fw-i2-030-01",
+      "file": "fw-i2-030-01.mp3",
+      "chapter": "I.2",
+      "original_sha256": "dab89a84c1b6e4090bbb42c4eb0a45e83ec6d09c73c364915e79114dea0ac72e",
+      "mp3_sha256": "c8d6580237810e8c63ef752c078c3e3d0d347acde6ced697780055751739ef2c",
+      "bytes": 4593068,
+      "duration_seconds": 191.31525,
+      "source_words": 583,
+      "words_per_minute": 182.84,
+      "codec": {
+        "codec_name": "mp3",
+        "sample_rate": "48000",
+        "channels": 1
+      },
+      "rms_db": -21.353308,
+      "peak_db": -1.753348,
+      "dc_to_rms": 2.3371974062079158e-05,
+      "max_silence_seconds": 0,
+      "silence_seconds": 0,
+      "sense_groups_completed": 25,
+      "actual_device": "cpu",
+      "decode_exit": 0,
+      "decode_stderr": "",
+      "errors": [],
+      "scope": "Source/file binding, complete decoding, whole-file signal diagnostics and logged group completion; no full transcription or human listening claimed.",
+      "generation_provenance": "audio/provenance/fw-i2-030-01.provenance.json",
+      "generation_provenance_sha256": "cc3dfb8f1bda1593b7a91d267ef22d8fc5228e64745cce2e649a9429e49849c0",
+      "acceptance": "technical_checks_passed",
+      "human_listening": false
     }
   ],
   "excluded": [
     "fw-i3-069-30: no completed current-original candidate; two attempts failed at punctuation-only sense group 58/63. Old recording remains excluded."
   ],
   "limits": "Mechanical and signal checks, not word-by-word listening, pronunciation certification or speech-recognition alignment.",
-  "provenance_note": "Generation proofs retain their original pending label. This adoption record attests technical checks only, not human listening or word-by-word transcription."
+  "provenance_note": "Generation proofs retain their original pending label. This adoption record attests technical checks only, not human listening or word-by-word transcription.",
+  "late_arrival": "fw-i2-030-01 completed during upload; received the same complete technical checks before inclusion."
 }
