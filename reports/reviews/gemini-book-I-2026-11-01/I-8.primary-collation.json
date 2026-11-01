@@ -1,0 +1,249 @@
+{
+  "chapter": "I.8",
+  "input_sha256": "66d2fb1297939a8c9222253a3fe3e8bcfa92590416716a2eb8321a02afa2cca1",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "196 through 216",
+  "primary_text_words": 7885,
+  "candidate_words": 7898,
+  "similarity": 0.9948678958372933,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "me—hike!—when",
+      "candidate": "me — hike! — when",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "loosen your talktapes. And don't butt me—hike!—when you bend. Or whatever it was"
+    },
+    {
+      "operation": "replace",
+      "witness": "derry's",
+      "candidate": "Derry's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a walking wiesel rat. And his derry's own drawl and his corksown blather"
+    },
+    {
+      "operation": "replace",
+      "witness": "H.C.E.",
+      "candidate": "H.C.E",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the waterbaby? Havemmarea, so he was! H.C.E. has a codfisck ee. Shyr she's"
+    },
+    {
+      "operation": "replace",
+      "witness": "virevlies,—",
+      "candidate": "virevlies,——",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "fan, anner frostivying tresses dasht with virevlies,— while the prom beauties sreeked nith"
+    },
+    {
+      "operation": "replace",
+      "witness": "skins!—in",
+      "candidate": "skins! — in",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "prom beauties sreeked nith their bearers' skins!—in a period gown of changeable jade"
+    },
+    {
+      "operation": "replace",
+      "witness": "and I",
+      "candidate": "andI",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Phoebe, dearest, tell, O tell me and I loved you better nor you knew."
+    },
+    {
+      "operation": "replace",
+      "witness": "wensum",
+      "candidate": "Wensum",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "dudheen, and every shirvant siligirl or wensum farmerette walking the pilend roads, Sawy,"
+    },
+    {
+      "operation": "replace",
+      "witness": "pack?",
+      "candidate": "|pack?",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "meanacuminamoyas. Olaph lamm et, all that pack? We won't have room in the"
+    },
+    {
+      "operation": "replace",
+      "witness": "Blœm,",
+      "candidate": "Bloem,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "where the Nore takes lieve of Blœm, not where the Braye divarts the"
+    },
+    {
+      "operation": "replace",
+      "witness": "SitterdagZindeh-Munaday",
+      "candidate": "Sitterdag-Zindeh-Munaday",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "put in the Mericy Cordial Mendicants' SitterdagZindeh-Munaday Wakeschrift (for once they sullied their"
+    },
+    {
+      "operation": "replace",
+      "witness": "hearing",
+      "candidate": "hoaring",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "even the snee that snowdon his hearing hair had a skunner against him."
+    },
+    {
+      "operation": "replace",
+      "witness": "hangnomen!",
+      "candidate": "hangnomen !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "Hing the Hong is his jove's hangnomen! Lilt a bolero, bulling a law!"
+    },
+    {
+      "operation": "replace",
+      "witness": "law!",
+      "candidate": "law !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "hangnomen! Lilt a bolero, bulling a law! She swore on croststyx nyne wyndabouts"
+    },
+    {
+      "operation": "replace",
+      "witness": "say!",
+      "candidate": "say !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "The linth of my hough, I say! She wore a ploughboy's nailstudded clogs,"
+    },
+    {
+      "operation": "replace",
+      "witness": "fainted!",
+      "candidate": "fainted !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "missed her! Sweet gumptyum and nobody fainted! But in whelk of her mouths?"
+    },
+    {
+      "operation": "replace",
+      "witness": "Wit-upon-Crutches",
+      "candidate": "Wit-uponCrutches",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Clarence's poison, sedges an to aneber, Wit-upon-Crutches to Master Bates: Between our two"
+    },
+    {
+      "operation": "replace",
+      "witness": "shell",
+      "candidate": "shell'",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a niester egg with a twicedated shell and a dynamight right for Pavl"
+    },
+    {
+      "operation": "replace",
+      "witness": "C_{3}",
+      "candidate": "C3",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "musquodoboits for Great Tropical Scott; a C_{3} peduncle for Karmalite Kane; a sunless"
+    },
+    {
+      "operation": "replace",
+      "witness": "me, for",
+      "candidate": "me,for",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "guilty goldeny bellows, below me blow me, for Ida Ida and a hushaby rocker,"
+    },
+    {
+      "operation": "replace",
+      "witness": "rocker, Elletrouvetout, for Who-issilvier—Where-is-he?;",
+      "candidate": "rocker,Elletrouvetout,for Who-issilvier —— Where-is-he?;",
+      "witness_tokens": 4,
+      "candidate_tokens": 4,
+      "witness_context": "for Ida Ida and a hushaby rocker, Elletrouvetout, for Who-issilvier—Where-is-he?; whatever you like to swilly to"
+    },
+    {
+      "operation": "replace",
+      "witness": "flossies!",
+      "candidate": "flossies !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "Altmuehler and a stone for his flossies! I know how racy they move"
+    },
+    {
+      "operation": "replace",
+      "witness": "Flip!",
+      "candidate": "Flip !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "them here now? Ay, we will. Flip! Spread on your bank and I'll"
+    },
+    {
+      "operation": "replace",
+      "witness": "Spread!",
+      "candidate": "Spread !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "mine. Flep! It's what I'm doing. Spread! It's churning chill. Der went is"
+    },
+    {
+      "operation": "delete",
+      "witness": "or",
+      "candidate": "",
+      "witness_tokens": 1,
+      "candidate_tokens": 0,
+      "witness_context": "kingdome gone or power to come or gloria be to them farther? Allalivial,"
+    },
+    {
+      "operation": "replace",
+      "witness": "me",
+      "candidate": "me.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "in the front. Do you tell me that now? I do in troth."
+    },
+    {
+      "operation": "replace",
+      "witness": "stiff.",
+      "candidate": "stiff",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "slop. Flap! Ireland sober is Ireland stiff. Lord help you, Maria, full of"
+    },
+    {
+      "operation": "replace",
+      "witness": "Elvenland!",
+      "candidate": "Elvenland !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "all that was was fair. Tys Elvenland! Teems of times and happy returns."
+    },
+    {
+      "operation": "replace",
+      "witness": "Lord!",
+      "candidate": "Lord !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "him, soft ones for orphans. Ho, Lord! Twins of his bosom. Lord save"
+    },
+    {
+      "operation": "replace",
+      "witness": "us!",
+      "candidate": "us !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "liffeying waters of. Ho, talk save us! My foos won't moos. I feel"
+    }
+  ]
+}

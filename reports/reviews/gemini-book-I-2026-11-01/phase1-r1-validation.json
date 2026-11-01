@@ -1,0 +1,614 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "decision": "needs_revision",
+  "scope": "phase-1 baseline restoration and claimed specialist fixes",
+  "head_before": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "public_chapters": [
+    {
+      "chapter": "I.1",
+      "coverage": "complete",
+      "segments": 26,
+      "sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609"
+    },
+    {
+      "chapter": "I.2",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "5af36352022b942b65938943bf18f8109a1b7309df383c3d0becb8b987120c5d"
+    },
+    {
+      "chapter": "I.3",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "f2d37c76655def1df833ec1f611bff2bc18f51c804c6fa78b3468f5981e14af9"
+    },
+    {
+      "chapter": "I.4",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "0938f085df129d61b42d4f2b69f017556460ad1dee3145bfde45f546e3e202b5"
+    },
+    {
+      "chapter": "I.5",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "89b095f8fb29c2c5e2d2eab4458b794c24d3f3415febb30b22865c37d6e091a3"
+    },
+    {
+      "chapter": "I.6",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "43e911c2ddae1aceee408c1918495de7669664be239153d69ae6657234231e24"
+    },
+    {
+      "chapter": "I.7",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "562dd3c7d9605ce9858daf342d2b6f85d2f638cd24f59c3fb217ba7a1fbf56ff"
+    },
+    {
+      "chapter": "I.8",
+      "coverage": "not_started",
+      "segments": 0,
+      "sha256": "d446c38f3d391ec2479f7554fc7e2d04b1e17cdfec068d83e6d976f1b8293708"
+    }
+  ],
+  "frozen_originals_unchanged": true,
+  "audio_index_equal_to_published": true,
+  "audio_files": [
+    {
+      "segment_id": "fw-i1-005-13",
+      "candidate": {
+        "sha256": "69c090ec33ed3be3f699dc374302f4f2d27c879550b1ca7757f5a359066193e7",
+        "git_blob_sha": "79e9f6398088df567ea41c54a5ee9dc13dc3f85b",
+        "duration_seconds": 57.081458,
+        "bytes": 1371500
+      },
+      "published": {
+        "sha256": "f0cb81302b1efb7a83108b3dbb440eaf6dcb7b8dad8c560a97c1a2e6ac975900",
+        "git_blob_sha": "6198fc49b6baf2db7f586efe98a9d3fd1c8f981f",
+        "duration_seconds": 151.672333,
+        "bytes": 3641516
+      }
+    },
+    {
+      "segment_id": "fw-i1-006-13",
+      "candidate": {
+        "sha256": "85470d13aea825abf5f273c77b9de34783f6d2eb4e31d359c579d6c1baa829a1",
+        "git_blob_sha": "f57fdfbb4e4e48d01750615a3d32e13333d5877f",
+        "duration_seconds": 82.545375,
+        "bytes": 1982636
+      },
+      "published": {
+        "sha256": "a4567593542178e81e254541ca10b818cfd5ea40b5504ff5fac7d7ffbd9b9b6b",
+        "git_blob_sha": "3d1940f24a8f5466650cf69159f18ba4c0c7e68f",
+        "duration_seconds": 181.571417,
+        "bytes": 4359212
+      }
+    }
+  ],
+  "referenced_source_differences": [
+    {
+      "id": "bylina-buslaev",
+      "published": {
+        "id": "bylina-buslaev",
+        "title": "Wikipedia：Vasily Buslayev（百科条目）",
+        "url": "https://en.wikipedia.org/wiki/Vasily_Buslayev",
+        "type": "commentary",
+        "accessed": "2026-10-31",
+        "use": "百科检索线索，未核古俄语诺夫哥罗德史诗原文，不能据此声称查阅史诗见证本。"
+      },
+      "candidate": {
+        "id": "bylina-buslaev",
+        "title": "Novgorod Byliny: Vasily Buslayev Cycle",
+        "url": "https://en.wikipedia.org/wiki/Vasily_Buslayev",
+        "type": "primary",
+        "accessed": "2026-10-31",
+        "use": "核俄罗斯诺夫哥罗德史诗英雄瓦西里·布斯拉耶夫（Vasily Buslayev）狂饮与民间武士形象。"
+      }
+    },
+    {
+      "id": "fw-page10",
+      "published": {
+        "id": "fw-page10",
+        "title": "FinnegansWiki：Page 10",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第10页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page10",
+        "title": "FinnegansWiki：Page 10",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_10",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第10页骆驼骑兵与索尔费里诺战役、双女林中惊逃、石墙威灵顿与杜利先生对话、印度西帕依雇佣兵击飞拿破仑帽及哥本哈根结局出馆叮嘱。"
+      }
+    },
+    {
+      "id": "fw-page11",
+      "published": {
+        "id": "fw-page11",
+        "title": "FinnegansWiki：Page 11",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第11页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page11",
+        "title": "FinnegansWiki：Page 11",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_11",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第11页三鸦报信、战后残骸清扫妇安娜·利维娅拾荒囊袋（nabsack）、停战夜与夏娃盗取历史原罪典故。"
+      }
+    },
+    {
+      "id": "fw-page12",
+      "published": {
+        "id": "fw-page12",
+        "title": "FinnegansWiki：Page 12",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第12页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page12",
+        "title": "FinnegansWiki：Page 12",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_12",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第12页负债度日（midst of debt）、文明牢笼（cell for citters）、卖泥炭妇吹旺营生（piff the business on）及矮胖子早餐煎蛋（eggs sunny side up）。"
+      }
+    },
+    {
+      "id": "fw-page13",
+      "published": {
+        "id": "fw-page13",
+        "title": "FinnegansWiki：Page 13",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第13页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page13",
+        "title": "FinnegansWiki：Page 13",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_13",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第13页视听仪（optophone）、惠斯通魔琴、都柏林呼号、四大师编年史（Mammon Lujius）与四省物象。"
+      }
+    },
+    {
+      "id": "fw-page14",
+      "published": {
+        "id": "fw-page14",
+        "title": "FinnegansWiki：Page 14",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第14页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page14",
+        "title": "FinnegansWiki：Page 14",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_14",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第14页四条编年史纪事（1132 A.D.、566 A.D.、双生子卡迪与普利马斯）、抄经僧失落手卷及四大师隐名。"
+      }
+    },
+    {
+      "id": "fw-page15",
+      "published": {
+        "id": "fw-page15",
+        "title": "FinnegansWiki：Page 15",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第15页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page15",
+        "title": "FinnegansWiki：Page 15",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_15",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第15页自由之地都柏林花卉（Goatstown、Rush、Knockmaroon）、弗摩尔人与丹麦人千年交战及四大师和平花束。"
+      }
+    },
+    {
+      "id": "fw-page16",
+      "published": {
+        "id": "fw-page16",
+        "title": "FinnegansWiki：Page 16",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第16页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page16",
+        "title": "FinnegansWiki：Page 16",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_16",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第16页史前古冢粗汉老乔（Sackerson/Partholon）、革命历月令、多语试探（丹麦语、挪威语、英语、盎格鲁撒克逊语）及穆特与朱特（Mutt and Jute）对话开篇。"
+      }
+    },
+    {
+      "id": "fw-page17",
+      "published": {
+        "id": "fw-page17",
+        "title": "FinnegansWiki：Page 17",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_17",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第17页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page17",
+        "title": "FinnegansWiki：Page 17",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_17",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第17页穆特与朱特对话续篇（布赖恩·博鲁、克朗塔夫之战、历史垃圾场、都柏林原野挽歌及爱与死之墓园）。"
+      }
+    },
+    {
+      "id": "fw-page18",
+      "published": {
+        "id": "fw-page18",
+        "title": "FinnegansWiki：Page 18",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_18",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第18页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page18",
+        "title": "FinnegansWiki：Page 18",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_18",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第18页穆特与朱特对话终曲（副王之墓 viceking's graab、石器时代 astoneaged 与雷殛 thonthorstrok）及泥土书（claybook）开篇。"
+      }
+    },
+    {
+      "id": "fw-page19",
+      "published": {
+        "id": "fw-page19",
+        "title": "FinnegansWiki：Page 19",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第19页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page19",
+        "title": "FinnegansWiki：Page 19",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_19",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第19页泥土书符文、字母表训诂（allforabit）、垃圾堆（middenhide）、驱蛇圣帕特里克与史前断代。"
+      }
+    },
+    {
+      "id": "fw-page20",
+      "published": {
+        "id": "fw-page20",
+        "title": "FinnegansWiki：Page 20",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_20",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第20页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page20",
+        "title": "FinnegansWiki：Page 20",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_20",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第20页波士顿来信（Boston Massachusetts）、母鸡贝琳达（Belinda / Biddy Doran）翻刨垃圾堆及羊皮纸泥印。"
+      }
+    },
+    {
+      "id": "fw-page21",
+      "published": {
+        "id": "fw-page21",
+        "title": "FinnegansWiki：Page 21",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第21页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page21",
+        "title": "FinnegansWiki：Page 21",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_21",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第21页恶作剧女王（Prankquean）传奇第一折、霍斯伯爵霍特（Jarl van Hoother）闭门及第一道谜题。"
+      }
+    },
+    {
+      "id": "fw-page22",
+      "published": {
+        "id": "fw-page22",
+        "title": "FinnegansWiki：Page 22",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_22",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第22页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page22",
+        "title": "FinnegansWiki：Page 22",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_22",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第22页恶作剧女王第二折与第三折、拐带双生子特里斯托弗与希拉里、四十年流浪与海盗盟约。"
+      }
+    },
+    {
+      "id": "fw-page23",
+      "published": {
+        "id": "fw-page23",
+        "title": "FinnegansWiki：Page 23",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_23",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第23页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page23",
+        "title": "FinnegansWiki：Page 23",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_23",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第23页伯爵盛怒全副武装迎敌、雷鸣闭门停战协定（Shut!）及菲尼克斯原罪犯（O foenix culprit!）神学沉思。"
+      }
+    },
+    {
+      "id": "fw-page24",
+      "published": {
+        "id": "fw-page24",
+        "title": "FinnegansWiki：Page 24",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_24",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第24页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page24",
+        "title": "FinnegansWiki：Page 24",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_24",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第24页新都柏林筑城、守灵夜场景、芬尼根灵前惊起（Anam muck an dhoul!）及吊唁酒客抚慰劝止。"
+      }
+    },
+    {
+      "id": "fw-page25",
+      "published": {
+        "id": "fw-page25",
+        "title": "FinnegansWiki：Page 25",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_25",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第25页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page25",
+        "title": "FinnegansWiki：Page 25",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_25",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第25页守灵吊客名单、奉献祭品礼物、劝告安息莫起、爱尔兰芬尼安会及都柏林新秩序。"
+      }
+    },
+    {
+      "id": "fw-page26",
+      "published": {
+        "id": "fw-page26",
+        "title": "FinnegansWiki：Page 26",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_26",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第26页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page26",
+        "title": "FinnegansWiki：Page 26",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_26",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第26页后继者取代逝者、市井万象生生不息、教堂修建与商业繁盛、安娜·利维娅主妇治家。"
+      }
+    },
+    {
+      "id": "fw-page27",
+      "published": {
+        "id": "fw-page27",
+        "title": "FinnegansWiki：Page 27",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第27页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page27",
+        "title": "FinnegansWiki：Page 27",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_27",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第27页最后安抚芬尼根（Aisy now, you decent man!）、明示时代更迭、逝者归天安眠（Finn no more!）。"
+      }
+    },
+    {
+      "id": "fw-page28",
+      "published": {
+        "id": "fw-page28",
+        "title": "FinnegansWiki：Page 28",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第28页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page28",
+        "title": "FinnegansWiki：Page 28",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_28",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第28页替罪继承者崛起、落幕散场哨声、第一章尾声长潮涌动及海鸥盘旋。"
+      }
+    },
+    {
+      "id": "fw-page29",
+      "published": {
+        "id": "fw-page29",
+        "title": "FinnegansWiki：Page 29",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_29",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第29页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page29",
+        "title": "FinnegansWiki：Page 29",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_29",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第29页第一章终曲、伊甸堡原罪喧嚣归结（hubbub caused in Edenborough）、首章落幕。"
+      }
+    },
+    {
+      "id": "fw-page8",
+      "published": {
+        "id": "fw-page8",
+        "title": "FinnegansWiki：Page 8",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第8页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page8",
+        "title": "FinnegansWiki：Page 8",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_8",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第8页威灵顿纪念碑巨冢、滑铁卢地景、二窥视村姑与国家博物馆全景俯瞰。"
+      }
+    },
+    {
+      "id": "fw-page9",
+      "published": {
+        "id": "fw-page9",
+        "title": "FinnegansWiki：Page 9",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "本轮读取第9页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+      },
+      "candidate": {
+        "id": "fw-page9",
+        "title": "FinnegansWiki：Page 9",
+        "url": "https://www.finnegansweb.com/wiki/index.php/Page_9",
+        "type": "community",
+        "accessed": "2026-11-01",
+        "use": "核第9页滑铁卢展厅、贝尔彻勋爵披风、薄红战线、枫丹白露战术、阿金库尔挑衅及布吕歇尔十二哩马靴与健力士黑啤互文。"
+      }
+    },
+    {
+      "id": "ibsen-solness",
+      "published": {
+        "id": "ibsen-solness",
+        "title": "Henrik Ibsen：Bygmester Solness（建筑大师）",
+        "url": "https://www.gutenberg.org/ebooks/4070",
+        "type": "primary",
+        "accessed": "2026-10-31",
+        "use": "Project Gutenberg 4070：Archer／Gosse 英译本及题录；本轮不声称查阅挪威语原文。"
+      },
+      "candidate": {
+        "id": "ibsen-solness",
+        "title": "Henrik Ibsen：Bygmester Solness（建筑大师）",
+        "url": "https://www.gutenberg.org/ebooks/4070",
+        "type": "primary",
+        "accessed": "2026-10-31",
+        "use": "核挪威文 Bygmester（建筑大师）及登高坠落母题对照。"
+      }
+    },
+    {
+      "id": "moret-egypt",
+      "published": {
+        "id": "moret-egypt",
+        "title": "Alexandre Moret: Rois et Dieux d'Égypte (1911)",
+        "url": "https://archive.org/details/roisetdieuxdgyp00moregoog",
+        "type": "primary",
+        "accessed": "2026-11-01",
+        "use": "实查1911年扉页、印刷页88及其后图版X：PDF第15、116、117页；图版题名与地点已核。未凭图像断言材质或Joyce阅读史。"
+      },
+      "candidate": {
+        "id": "moret-egypt",
+        "title": "Alexandre Moret: Rois et Dieux d'Égypte (1911)",
+        "url": "https://archive.org/details/roisetdieuxd00more",
+        "type": "secondary",
+        "accessed": "2026-10-31",
+        "use": "核第88页（see peegee ought he ought）奥西里斯于停尸灵榻平卧之照相插图（platterplate）。"
+      }
+    },
+    {
+      "id": "quran-arafat",
+      "published": {
+        "id": "quran-arafat",
+        "title": "The Holy Quran & Islamic Traditions: Kaaba, Mount Arafat, Black Stone, Ansars",
+        "url": "https://quran.com/",
+        "type": "primary",
+        "accessed": "2026-10-31",
+        "use": "原交稿所列检索入口；首页不支持本段整串伊斯兰典故。具体已核经句另列，余项保留查阅空白。"
+      },
+      "candidate": {
+        "id": "quran-arafat",
+        "title": "The Holy Quran & Islamic Traditions: Kaaba, Mount Arafat, Black Stone, Ansars",
+        "url": "https://quran.com/",
+        "type": "primary",
+        "accessed": "2026-10-31",
+        "use": "核麦加克尔白（cubehouse）、阿拉法特山神雷朝觐、自天坠落玄石（whitestone/Black Stone）及麦地那辅士（Ansars）典故。"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 scripts/project.py check",
+      "exit_code": 0
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v",
+      "exit_code": 0,
+      "tests": 31
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 scripts/project.py check-artifacts",
+      "exit_code": 0
+    },
+    {
+      "command": "trusted project module: generate_views/build/check_artifacts in temporary directories",
+      "exit_code": 0,
+      "root_project_mutated": false
+    }
+  ],
+  "new_revision_directory_exists": false,
+  "report_location": "/Users/louis.akisame/.gemini/antigravity/brain/7c05bf56-92cf-44c9-8131-a5a413a379d8/gemini-book-I-revision-disposition-r1.md",
+  "snapshot_directory": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01",
+  "figure_180_validation": [
+    "only E/F rotated by 90 degrees are supported"
+  ],
+  "publication_performed": false
+}

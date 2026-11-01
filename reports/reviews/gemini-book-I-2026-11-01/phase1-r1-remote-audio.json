@@ -1,0 +1,22 @@
+{
+  "commit": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "tree": "6d9936cb17711e8910764e47106565af7a893a98",
+  "audio": [
+    {
+      "path": "audio/fw-i1-005-13.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6198fc49b6baf2db7f586efe98a9d3fd1c8f981f",
+      "size": 3641516,
+      "url": "https://api.github.com/repos/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/git/blobs/6198fc49b6baf2db7f586efe98a9d3fd1c8f981f"
+    },
+    {
+      "path": "audio/fw-i1-006-13.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d1940f24a8f5466650cf69159f18ba4c0c7e68f",
+      "size": 4359212,
+      "url": "https://api.github.com/repos/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/git/blobs/3d1940f24a8f5466650cf69159f18ba4c0c7e68f"
+    }
+  ]
+}

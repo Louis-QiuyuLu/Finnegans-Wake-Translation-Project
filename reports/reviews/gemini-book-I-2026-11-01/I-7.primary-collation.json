@@ -1,0 +1,409 @@
+{
+  "chapter": "I.7",
+  "input_sha256": "d9a7342d5135c5f95af0c26ef0b85416df2656d5bf2fc7e4100c639df89b0a23",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "169 through 195",
+  "primary_text_words": 9447,
+  "candidate_words": 9458,
+  "similarity": 0.9913779423432955,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "111,",
+      "candidate": "III",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "garden nursery, Griefotrofio, at Phig Streat 111, Shuvlin, Old Hoeland, (would we go"
+    },
+    {
+      "operation": "replace",
+      "witness": "being—all",
+      "candidate": "being —— all",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "took the cake, the correct solution being—all give it up?—; when he is"
+    },
+    {
+      "operation": "replace",
+      "witness": "up?—;",
+      "candidate": "up? ——",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "the correct solution being—all give it up?—; when he is a—yours till the"
+    },
+    {
+      "operation": "replace",
+      "witness": "a—yours",
+      "candidate": "a —— yours",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "give it up?—; when he is a—yours till the rending of the rocks,—Sham."
+    },
+    {
+      "operation": "replace",
+      "witness": "rocks,—Sham.",
+      "candidate": "rocks, —— Sham.",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "a—yours till the rending of the rocks,—Sham. Shem was a sham and a"
+    },
+    {
+      "operation": "replace",
+      "witness": "lambs! Ex!",
+      "candidate": "lambs ! Ex !",
+      "witness_tokens": 2,
+      "candidate_tokens": 4,
+      "witness_context": "draws, quarters and pieces. Feel his lambs! Ex! Feel how sheap! Exex! His liver"
+    },
+    {
+      "operation": "replace",
+      "witness": "visanvrerssas, cruaching",
+      "candidate": "visanvrerssas,cruaching",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "fines he faces, and another moment visanvrerssas, cruaching three jeers (pah!) for his rotten"
+    },
+    {
+      "operation": "replace",
+      "witness": "Auborne-to-Auborne, with",
+      "candidate": "Auborne-to-Auborne,with",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "be streaking for home after their Auborne-to-Auborne, with thanks for the pleasant evening, one"
+    },
+    {
+      "operation": "replace",
+      "witness": "rubbers!)",
+      "candidate": "rubbers !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "old (none of your honeys and rubbers!) games for fun and element we"
+    },
+    {
+      "operation": "replace",
+      "witness": "neoclassical, which",
+      "candidate": "neoclassical,which",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "of septuncial lettertrumpets honorific, highpitched, erudite, neoclassical, which he so loved as patricianly to"
+    },
+    {
+      "operation": "replace",
+      "witness": "diverted, if",
+      "candidate": "diverted,if",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "after his name. It would have diverted, if ever seen, the shuddersome spectacle of"
+    },
+    {
+      "operation": "replace",
+      "witness": "seen, the",
+      "candidate": "seen,the",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "It would have diverted, if ever seen, the shuddersome spectacle of this semidemented zany"
+    },
+    {
+      "operation": "replace",
+      "witness": "probscenium, one",
+      "candidate": "probscenium,one",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "stitch they had off at his probscenium, one after the others, inamagoaded into ajustilloosing"
+    },
+    {
+      "operation": "replace",
+      "witness": "minutes, infinitely",
+      "candidate": "minutes,infinitely",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "like a boyd!) for fully five minutes, infinitely better than Baraton Mc Gluckin with"
+    },
+    {
+      "operation": "replace",
+      "witness": "gember! inkware! chonchambre! cinsero! zinnzabar!",
+      "candidate": "gember ! inkware ! chonchambre ! cinsero ! zinnzabar !",
+      "witness_tokens": 5,
+      "candidate_tokens": 10,
+      "witness_context": "themselves in the cries of girlglee: gember! inkware! chonchambre! cinsero! zinnzabar! tincture and gin!) Nibs never would"
+    },
+    {
+      "operation": "replace",
+      "witness": "wud!",
+      "candidate": "wud !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "not Edam reeked more rare. My wud! The warped flooring of the lair"
+    },
+    {
+      "operation": "replace",
+      "witness": "schoolgirls',",
+      "candidate": "schoolgirl's,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "spilt ink, blasphematory spits, stale shestnuts, schoolgirls', young ladies', milkmaids', washerwomen's, shopkeepers' wives,"
+    },
+    {
+      "operation": "replace",
+      "witness": "ladies',",
+      "candidate": "ladies,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "blasphematory spits, stale shestnuts, schoolgirls', young ladies', milkmaids', washerwomen's, shopkeepers' wives, merry widows',"
+    },
+    {
+      "operation": "replace",
+      "witness": "ego, a",
+      "candidate": "ego,a",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Thunder, self exiled in upon his ego, a nightlong a shaking betwixtween white or"
+    },
+    {
+      "operation": "replace",
+      "witness": "him!)",
+      "candidate": "him !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "(may the Shaper have mercery on him!) writing the mystery of himsel in"
+    },
+    {
+      "operation": "replace",
+      "witness": "hermana",
+      "candidate": "Hermana",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "of Mas blanca que la blanca hermana and Amarilla, muy bien, with cinnamon"
+    },
+    {
+      "operation": "replace",
+      "witness": "à",
+      "candidate": "a",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "de Soude, his ochiuri sowtay sowmmonay à la Monseigneur, his soufflosion of oogs"
+    },
+    {
+      "operation": "replace",
+      "witness": "Aguilar—not",
+      "candidate": "Aguilar —— not",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "Noble and Pastor Lucas and Padre Aguilar—not forgetting Layteacher Baudwin! Ah ho!) His"
+    },
+    {
+      "operation": "replace",
+      "witness": "dictators, on",
+      "candidate": "dictators,on",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "when Robber and Mumsell, the pulpic dictators, on the nudgment of their legal advisers,"
+    },
+    {
+      "operation": "replace",
+      "witness": "minxit, psalmum",
+      "candidate": "minxit,psalmum",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Medardi et Godardi laete ac melliflue minxit, psalmum qui incipit: Lingua mea calamus scribae"
+    },
+    {
+      "operation": "replace",
+      "witness": "low!)",
+      "candidate": "low !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "of Hogsober, killim our king, layum low!) and brandishing his bellbearing stylo, the"
+    },
+    {
+      "operation": "replace",
+      "witness": "zazimas, the",
+      "candidate": "zazimas,the",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "the zassy is souse for the zazimas, the blond cop who thought it was"
+    },
+    {
+      "operation": "replace",
+      "witness": "gallonts, as",
+      "candidate": "gallonts,as",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "coon at bringer at home two gallonts, as per royal, full poultry till his"
+    },
+    {
+      "operation": "replace",
+      "witness": "royal, full",
+      "candidate": "royal,full",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "at home two gallonts, as per royal, full poultry till his murder. Nip up"
+    },
+    {
+      "operation": "replace",
+      "witness": "Polthergeistkotzdondherhoploits!",
+      "candidate": "Polthergeistkotzdondherhoploits !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "murder. Nip up and nab it! Polthergeistkotzdondherhoploits! Kick? What mother? Whose porter? Which"
+    },
+    {
+      "operation": "replace",
+      "witness": "Keng, sept",
+      "candidate": "Keng,sept",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Silder Seas sing for Harreng our Keng, sept okt nov dez John Phibbs march!"
+    },
+    {
+      "operation": "replace",
+      "witness": "cannot, in",
+      "candidate": "cannot,in",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "nov dez John Phibbs march! We cannot, in mercy or justice nor on the"
+    },
+    {
+      "operation": "replace",
+      "witness": "labaryntos, stay",
+      "candidate": "labaryntos,stay",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "justice nor on the lovom for labaryntos, stay here for the residence of our"
+    },
+    {
+      "operation": "replace",
+      "witness": "existings, discussing",
+      "candidate": "existings,discussing",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "here for the residence of our existings, discussing Tamstar Ham of Tenman's thirst. JUSTIUS"
+    },
+    {
+      "operation": "replace",
+      "witness": "buttonlegs, you",
+      "candidate": "buttonlegs,you",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "still puerile in your tubsuit with buttonlegs, you got a handsome present of a"
+    },
+    {
+      "operation": "replace",
+      "witness": "delectations—a",
+      "candidate": "delectations —— a",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "you) alternating the morosity of my delectations—a philtred love, trysting by tantrums, small"
+    },
+    {
+      "operation": "replace",
+      "witness": "ppenmark—with",
+      "candidate": "ppenmark —— with",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "trysting by tantrums, small peace in ppenmark—with sensibility, sponsibility, passibility and prostability, your"
+    },
+    {
+      "operation": "replace",
+      "witness": "—all",
+      "candidate": "—— all",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "of this our popeyed world, scribblative! —all that too with cantreds of countless"
+    },
+    {
+      "operation": "replace",
+      "witness": "that",
+      "candidate": "hat",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "for you, myself), mutely aying for that natural knot, debituary vases or vessels"
+    },
+    {
+      "operation": "replace",
+      "witness": "the——groom!",
+      "candidate": "the ———— groom!",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "gladsome we'll all take shares in the——groom! Sniffer of carrion, premature gravedigger, seeker"
+    },
+    {
+      "operation": "replace",
+      "witness": "yes, another",
+      "candidate": "yes,another",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Irish stew. O, by the way, yes, another thing occurs to me. You let"
+    },
+    {
+      "operation": "replace",
+      "witness": "you, amid",
+      "candidate": "you,amid",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "his refreshment? There grew up beside you, amid our orisons of the speediest in"
+    },
+    {
+      "operation": "replace",
+      "witness": "worked!",
+      "candidate": "worked !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "to find out how his innards worked! Ever read of that greatgrand landfather"
+    },
+    {
+      "operation": "replace",
+      "witness": "cruelfiction!)",
+      "candidate": "cruelfiction !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "to the cross of your own cruelfiction!) to let you have your Sarday"
+    },
+    {
+      "operation": "replace",
+      "witness": "well!",
+      "candidate": "well !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "your dial in the rockingglass? Look well! Bend down a stigmy till I!"
+    },
+    {
+      "operation": "replace",
+      "witness": "lo, you",
+      "candidate": "lo,you",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "could not defend like a woman, lo, you there, Cathmon-Carbery, and thank Movies from"
+    },
+    {
+      "operation": "replace",
+      "witness": "heart, Wherein",
+      "candidate": "heart,Wherein",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "innermost depths of my still attrite heart, Wherein the days of youyouth are evermixed"
+    },
+    {
+      "operation": "replace",
+      "witness": "waywayway!",
+      "candidate": "waywayway !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "bab's baby walks at seven months, waywayway! bride leaves her raid at Punchestime,"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Quoiquoiquoiquoiquoiquoiquoiq!",
+      "candidate": "— Quoiquoiquoiquoiquoiquoiquoiq!",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "the lifewand and the dumb speak. —Quoiquoiquoiquoiquoiquoiquoiq!"
+    }
+  ]
+}

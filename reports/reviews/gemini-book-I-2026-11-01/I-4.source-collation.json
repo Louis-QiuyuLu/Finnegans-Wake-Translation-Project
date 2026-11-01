@@ -1,0 +1,384 @@
+{
+  "chapter": "I.4",
+  "input_sha256": "23d1dfc7119ccc74919374b08ae7786958ad678363bb5b02a80f706ddd4e97b1",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_75",
+    "https://www.finnegansweb.com/wiki/index.php/Page_76",
+    "https://www.finnegansweb.com/wiki/index.php/Page_77",
+    "https://www.finnegansweb.com/wiki/index.php/Page_78",
+    "https://www.finnegansweb.com/wiki/index.php/Page_79",
+    "https://www.finnegansweb.com/wiki/index.php/Page_80",
+    "https://www.finnegansweb.com/wiki/index.php/Page_81",
+    "https://www.finnegansweb.com/wiki/index.php/Page_82",
+    "https://www.finnegansweb.com/wiki/index.php/Page_83",
+    "https://www.finnegansweb.com/wiki/index.php/Page_84",
+    "https://www.finnegansweb.com/wiki/index.php/Page_85",
+    "https://www.finnegansweb.com/wiki/index.php/Page_86",
+    "https://www.finnegansweb.com/wiki/index.php/Page_87",
+    "https://www.finnegansweb.com/wiki/index.php/Page_88",
+    "https://www.finnegansweb.com/wiki/index.php/Page_89",
+    "https://www.finnegansweb.com/wiki/index.php/Page_90",
+    "https://www.finnegansweb.com/wiki/index.php/Page_91",
+    "https://www.finnegansweb.com/wiki/index.php/Page_92",
+    "https://www.finnegansweb.com/wiki/index.php/Page_93",
+    "https://www.finnegansweb.com/wiki/index.php/Page_94",
+    "https://www.finnegansweb.com/wiki/index.php/Page_95",
+    "https://www.finnegansweb.com/wiki/index.php/Page_96",
+    "https://www.finnegansweb.com/wiki/index.php/Page_97",
+    "https://www.finnegansweb.com/wiki/index.php/Page_98",
+    "https://www.finnegansweb.com/wiki/index.php/Page_99",
+    "https://www.finnegansweb.com/wiki/index.php/Page_100",
+    "https://www.finnegansweb.com/wiki/index.php/Page_101",
+    "https://www.finnegansweb.com/wiki/index.php/Page_102",
+    "https://www.finnegansweb.com/wiki/index.php/Page_103"
+  ],
+  "candidate_words": 10322,
+  "witness_words": 10322,
+  "similarity": 1.0,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i4-075-01",
+      "note_id": "i4-lion-teargarten-nile",
+      "lemma": "As the lion, in our teargarten remembers the nenuphars of his Nile... lililiths undeveiled..."
+    },
+    {
+      "segment_id": "fw-i4-075-01",
+      "note_id": "i4-teak-coffin-pugh-glass",
+      "lemma": "The teak coffin, Pughglasspanelfitted, feets to the east... protem grave in Moyelta of the best Lough Neagh pattern..."
+    },
+    {
+      "segment_id": "fw-i4-075-01",
+      "note_id": "i4-phallopharos-peurelachasse",
+      "lemma": "underground heaven, or mole's paradise which was probably also an inversion of a phallopharos... Mgr Peurelachasse..."
+    },
+    {
+      "segment_id": "fw-i4-075-01",
+      "note_id": "i4-mac-pelah-herewhippit-skidoo",
+      "lemma": "stone slab with the usual Mac Pelah address of velediction... Heer Herewhippit, overgiven it, skidoo!"
+    },
+    {
+      "segment_id": "fw-i4-077-28",
+      "note_id": "i4-funeral-emporium-honophreum",
+      "lemma": "Show coffins, winding sheets, goodbuy bierchepes, cinerary urns... glasstone honophreum..."
+    },
+    {
+      "segment_id": "fw-i4-077-28",
+      "note_id": "i4-heights-abraham-cian-dreyfus",
+      "lemma": "spring offensive on the heights of Abraham... septuply buried as the murdered Cian in Finntown... dreyfussed as ever..."
+    },
+    {
+      "segment_id": "fw-i4-077-28",
+      "note_id": "i4-hibernating-massa-ewacka",
+      "lemma": "hibernating Massa Ewacka... secretly and by suckage feeding on his own misplaced fat."
+    },
+    {
+      "segment_id": "fw-i4-077-28",
+      "note_id": "i4-kate-strong-scavenging-filthdump",
+      "lemma": "Kate Strong, a widow (Tiptip!) she pulls a lane picture for us... filthdump near the Serpentine in Phornix Park..."
+    },
+    {
+      "segment_id": "fw-i4-077-28",
+      "note_id": "i4-hide-leabhar-loveletter-cradle",
+      "lemma": "hide a leabhar from Thursmen's brandihands or a loveletter... first babe of reconcilement is laid in its last cradle of hume sweet hume... O men!"
+    },
+    {
+      "segment_id": "fw-i4-080-20",
+      "note_id": "i4-allhighest-zarathustra-hindu",
+      "lemma": "Allhighest sprack for krischnians as for propagana fidies... Agni araflammed and Mithra monished and Shiva slew... Zarathustra."
+    },
+    {
+      "segment_id": "fw-i4-080-20",
+      "note_id": "i4-viability-vicinals-brennan-pass",
+      "lemma": "viability of vicinals if invisible is invincible... Brennan's (now Malpasplace?) pass..."
+    },
+    {
+      "segment_id": "fw-i4-080-20",
+      "note_id": "i4-cropatkin-mugger-michelangelo",
+      "lemma": "the attackler, a cropatkin... engaged the Adversary... Michelangiolesque resemblance... three patrecknocksters..."
+    },
+    {
+      "segment_id": "fw-i4-080-20",
+      "note_id": "i4-nippoluono-wei-ling-taou-pautheen",
+      "lemma": "Nippoluono engaging Wei-Ling-Taou... Let me go, Pautheen! I hardly knew ye."
+    },
+    {
+      "segment_id": "fw-i4-080-20",
+      "note_id": "i4-wooden-webley-christchurch-cat-mouse",
+      "lemma": "woden affair in the shape of a webley... cat to that mouse in that tube of that christchurch organ... do you follow me, Capn?"
+    },
+    {
+      "segment_id": "fw-i4-082-30",
+      "note_id": "i4-hesitency-excelcism-jj-and-s",
+      "lemma": "hesitency carried to excelcism... advance you something like four and sevenpence... buy J. J. and S. with."
+    },
+    {
+      "segment_id": "fw-i4-082-30",
+      "note_id": "i4-dublin-pub-crawl-four-taverns",
+      "lemma": "Ruadh Cow at Tallaght... Good Woman at Ringsend... Conway's Inn at Blackrock... Adam and Eve's..."
+    },
+    {
+      "segment_id": "fw-i4-082-30",
+      "note_id": "i4-pax-poghue-danegeld-torgantruce",
+      "lemma": "pax in embrace or poghue puxy... torgantruce... seven and four in danegeld..."
+    },
+    {
+      "segment_id": "fw-i4-082-30",
+      "note_id": "i4-vicar-lane-redcrossed-blood-206-bones",
+      "lemma": "watchhouse in Vicar Lane... two hundred and six bones and five hundred and one muscles... Herwho?"
+    },
+    {
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-el-don-de-dunelli-butt-bridge",
+      "lemma": "politish leanings and town pursuits of our forebeer, El Don De Dunelli... Butt's, most easterly... of blackpool bridges..."
+    },
+    {
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-festy-king-maam-old-bailey",
+      "lemma": "child of Maam, Festy King... Old Bailey... flying cushats out of his ouveralls and making fesses immodst his forces on the field."
+    },
+    {
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-kersse-korduroy-karikature",
+      "lemma": "soaked in methylated... like Kersse's Korduroy Karikature, wearing, besides stains, rents and patches..."
+    },
+    {
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-tykingfest-rabworc-pedigree-pig",
+      "lemma": "Tykingfest and Rabworc... pedigree pig (unlicensed) and a hyacinth."
+    },
+    {
+      "segment_id": "fw-i4-084-28",
+      "note_id": "i4-qui-sta-troia-doubloons-arrears",
+      "lemma": "Qui Sta Troia... six doubloons fifteen arrears of his, the villain's not the rumbler's rent."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-ent-witness-medical-square",
+      "lemma": "Remarkable evidence was given, anon, by an eye, ear, nose and throat witness, whom Wesleyan chapelgoers suspected of being a plain clothes priest W.P., situate at Nullnull, Medical Square..."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-filth-of-november-tournay",
+      "lemma": "remember the filth of November, hatinaring, rowdy O... profane history, all one with Tournay, Yetstoslay and Temorah..."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-hyacinth-odonnell-sivispacem",
+      "lemma": "how Hyacinth O'Donnell, B.A., described in the calendar as a mixer and wordpainter, with part of a sivispacem (Gaeltact for dungfork)..."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-gush-mac-gale-roaring-ocrian",
+      "lemma": "another two of the old kings, Gush Mac Gale and Roaring O'Crian, Jr., both changelings, unlucalised, of no address..."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-deadmans-court-waterhose-abfalltree",
+      "lemma": "Deadman's Dark Scenery Court... by Waterhose's Meddle Europeic Time, near Stop and Think... abfalltree..."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-audible-visible-pancreates-bell",
+      "lemma": "audible-visible-gnosible-edible world existed... whenever he thought he heard he saw he felt he made a bell clipper-clipperclipperclipper."
+    },
+    {
+      "segment_id": "fw-i4-086-32",
+      "note_id": "i4-two-childspies-three-vuncouverers-blackpool",
+      "lemma": "The two childspies waapreesing him auza de Vologue but the renting of his rock was from the three wicked Vuncouverers... Blackpool."
+    },
+    {
+      "segment_id": "fw-i4-088-35",
+      "note_id": "i4-tem-dromio-duel-of-lentils",
+      "lemma": "But, of course, he could call himself Tem, too... Two dreamyums in one dromium... duel of lentils..."
+    },
+    {
+      "segment_id": "fw-i4-088-35",
+      "note_id": "i4-the-prince-macchevuole-fishup",
+      "lemma": "The prince in principel should not expose his person? Macchevuole!... Drunk as a fishup."
+    },
+    {
+      "segment_id": "fw-i4-088-35",
+      "note_id": "i4-grazing-rights-puck-goat",
+      "lemma": "The grazing rights (Mrs Magistra Martinetta) expired with the expiry of the goat's sire... Quare hircum?... danzzling on the age of a vulcano..."
+    },
+    {
+      "segment_id": "fw-i4-088-35",
+      "note_id": "i4-mickmichael-let-there-be-fight",
+      "lemma": "Mickmichael's soords shrieking shrecks... Let there be fight? And there was. Foght."
+    },
+    {
+      "segment_id": "fw-i4-088-35",
+      "note_id": "i4-camellus-gemellus-hole-in-the-wall",
+      "lemma": "And Camellus then said to Gemellus: I should know you?... whole in the wall... eluding from the whole of the woman."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-meirdreach-oincuish-pegger-festy",
+      "lemma": "Meirdreach an Oincuish! But a new complexion was put upon the matter... senior king of all, Pegger Festy..."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-cliopatrick-sow-story-bouchal",
+      "lemma": "relics of the bones of the story bouchal that was ate be Cliopatrick (the sow) princess of parked porkers... Tierney of Dundalgan..."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-amreeta-beaker-tyre-nan-og-iskybaush",
+      "lemma": "amreeta beaker coddling doom as an Inishman... Tyre-nan-Og... wassailhorn tot of iskybaush..."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-hilariohoot-tristitone-bruno-opposites",
+      "lemma": "The hilariohoot of Pegger's Windup cumjustled as neatly with the tristitone of the Wet Pinter's as were they isce et ille equals of opposites..."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-gentia-gemma-sheeshea-shayshaun",
+      "lemma": "Gentia Gemma of the Makegiddyculling Reeks... shaym of his hisu shifting into the shimmering of her hers... wild wishwish of her sheeshea melted most musically mid the dark deepdeep of his shayshaun."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-four-justicers-nolans-brumans",
+      "lemma": "the four justicers laid their wigs together, Untius, Muncius, Punchus and Pylax but could do no worse than promulgate their standing verdict of Nolans Brumans..."
+    },
+    {
+      "segment_id": "fw-i4-090-34",
+      "note_id": "i4-shun-the-punman-drinkbattle",
+      "lemma": "Shun the Punman!: safely and soundly soccered that fenemine Parish Poser... Drinkbattle's Dingy Dwellings..."
+    },
+    {
+      "segment_id": "fw-i4-093-22",
+      "note_id": "i4-elemental-letter-journey-hen",
+      "lemma": "The elm that whimpers... Wind broke it. Wave bore it. Reed wrote of it. Syce ran with it. Hand tore it and wild went war. Hen trieved it and plight pledged peace."
+    },
+    {
+      "segment_id": "fw-i4-093-22",
+      "note_id": "i4-riddle-primal-scene",
+      "lemma": "What was it? / A .......... ! / ? ..........O!"
+    },
+    {
+      "segment_id": "fw-i4-093-22",
+      "note_id": "i4-four-marshalsea-solans",
+      "lemma": "the four with them, setting around upin their judges' chambers, in the muniment room, of their marshalsea... Somany Solans to talk it over..."
+    },
+    {
+      "segment_id": "fw-i4-093-22",
+      "note_id": "i4-dirty-daddy-pantaloons",
+      "lemma": "Singabob, the badfather, the same, the great Howdoyoucallem, and his old nickname, Dirty Daddy Pantaloons..."
+    },
+    {
+      "segment_id": "fw-i4-093-22",
+      "note_id": "i4-telesmell-h2ce3-brewer-belch",
+      "lemma": "Sure, 'tis well I can telesmell him H2CE3 that would take a township's breath away!... pure mountain dew than enrich my acquaintance with that big brewer's belch."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-fourbottle-men-anschluss-sunfella",
+      "lemma": "the fourbottle men, the analists... their anschluss... Harik! Harik! Harik!... Sunfella's nose has got rhinoceritis from haunting the roes in the parik!"
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-niall-nine-corsages-lefanu",
+      "lemma": "Mrs Niall of the Nine Corsages and the old markiss... and the old house by the churpelizod..."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-father-whisperer-saucicissters-schenkusmore",
+      "lemma": "Milton's Park under lovely Father Whisperer... saucicissters... trickle trickle trickle triss... You're a liar, excuse me!... schenkusmore."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-securus-iudicat-playing-possum-brush",
+      "lemma": "securus iudicat orbis terrarum... playing possum our hagious curious encestor bestly saved his brush with his posterity..."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-humfries-chase-gundogs-townlands",
+      "lemma": "Gundogs of all breeds were beagling with renounced urbiandorbic bugles... Humfries Chase from Mullinahob and Peacockstown... Tankardstown... Cheeverstown..."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-deaf-fuchser-volpone-four-stomachs",
+      "lemma": "a deaf fuchser's volponism hid him close in covert... in rumer, reticule, onasum and abomasum, upon... cinnamon syllabub..."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-shipping-mogul-underlinen-overlord",
+      "lemma": "Vainly violence, virulence and vituperation sought wellnigh utterly to attax and abridge... the great shipping mogul and underlinen overlord."
+    },
+    {
+      "segment_id": "fw-i4-095-27",
+      "note_id": "i4-pigott-forgery-hesitancy-hesitency",
+      "lemma": "But the spoil of hesitants, the spell of hesitency. His atake is it ashe, tittery taw tatterytail, hasitense humponadimply..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-reynard-is-slow-fugger-newsletter",
+      "lemma": "Assembly men murmured. Reynard is slow!... Fugger's Newsletter..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-ss-finlandia-cornelius-magrath",
+      "lemma": "He had fled again... S.S. Finlandia, and was even now occupying, under an islamitic newhame in his seventh generation, a physical body Cornelius Magrath's... in Asia Major..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-lilypond-whitlock-piece-of-wood",
+      "lemma": "He had walked towards the middle of an ornamental lilypond... On Umbrella Street where he did drinks from a pumps a kind of workman, Mr Whitlock, gave him a piece of wood. What words of power..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-carpulenta-gygasta-omnibus",
+      "lemma": "A human pest cycling... Carpulenta Gygasta, hattracted hattention by harbitrary conduct with a homnibus..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-humpty-dumpty-nick-plugg-notice",
+      "lemma": "Move up, Mumpty! Mike room for Rumpty! By order, Nickekellous Plugg..."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-myles-the-slasher-red-hand-ulster",
+      "lemma": "Myles the Slasher in his person... real murder... MacMahon chaps... dexter handcoup wresterected in a pureede paumee bloody proper."
+    },
+    {
+      "segment_id": "fw-i4-097-28",
+      "note_id": "i4-beetly-dead-macfarlane-bartholoman",
+      "lemma": "Scatterbrains' Aftening Posht... genuinely quite beetly dead whether by land whither by water... Macfarlane lack of lamentation? He lay under leagues of it in deep Bartholoman's Deep."
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-multilingual-headlines-buttertower",
+      "lemma": "Achdung! Pozor! Attenshune! Vikeroy Besights Smucky Yung Pigeschoolies... Quintus Centimachus' porphyroid buttertower..."
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-dispersal-women-swift-loves",
+      "lemma": "Dispersal women wondered. Was she fast?... Was it Unity Moore or Estella Swifte or Varina Fay or Quarta Quaedam?"
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-buckley-and-russian-general",
+      "lemma": "who struck Buckley though nowadays... it was Buckleyself... who struck and the Russian generals, da! da!"
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-alp-devotion-crush-slander-head",
+      "lemma": "first warming creature of his early morn, bondwoman of the man of the house... she who shuttered him after his fall and waked him... to crush the slander's head."
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-seven-rainbow-girls-crippled-children",
+      "lemma": "Poppy Narancy, Giallia, Chlora, Marinka, Anileen, Parme... who but Crippled-with-Children would speak up for Dropping-with-Sweat?"
+    },
+    {
+      "segment_id": "fw-i4-100-05",
+      "note_id": "i4-lease-of-ninenineninetee-island-bridge",
+      "lemma": "Sold him her lease of ninenineninetee... At Island Bridge she met her tide. Attabom, attabom, attabombomboom!"
+    }
+  ]
+}

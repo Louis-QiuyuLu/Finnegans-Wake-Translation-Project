@@ -1,0 +1,149 @@
+{
+  "url": "https://www.fadedpage.com/books/20180126/html.php",
+  "date": "2026-11-01",
+  "captured_tool_lines": [
+    1119,
+    8107
+  ],
+  "missing_tool_lines": [],
+  "body_pages": [
+    30,
+    216
+  ],
+  "next_anchor_page": 219,
+  "raw_cache_committed": false,
+  "captures": [
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 1100,
+      "sha256": "de475804f050a3f562594fa26303a48e2f6ff6146686ec9340f5cb803a1d99cb",
+      "bytes": 27896
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 1270,
+      "sha256": "d8956ee9f11baa96d42464e18b19cf18cfe75961695421b6efda1ecda0a0fe81",
+      "bytes": 27828
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 1450,
+      "sha256": "80410e0bce0c6fe25aef6bdd922ddb5b10ff96eb64209a48721b24339bbed669",
+      "bytes": 26620
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 1800,
+      "sha256": "c077602618611912040f529663288dc89b91597387835f8d345e434969a1104e",
+      "bytes": 25930
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 2150,
+      "sha256": "ac9eff222423dc02c52d891020d85cd7d95e2f8d9372ea437a101f95f0b54547",
+      "bytes": 26427
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 2500,
+      "sha256": "39d2e8e9e5e7e3f38ba35f88d9f45137b7806f06da480c5d1564c3d468dbcc42",
+      "bytes": 26999
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 2850,
+      "sha256": "216a8d2277759d19082660c85604c3b39549f794e778cd785c107d01539160cc",
+      "bytes": 26816
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 3200,
+      "sha256": "1e3554b051e4cc1b0b5a06b56fa59c46af592a99e0abb9fc9a78781e92887a24",
+      "bytes": 27081
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 3550,
+      "sha256": "4a2173ed74a37634d925898b7ffc2bcdb55c6f7eb17dfe1580672be3f13cb88f",
+      "bytes": 26471
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 3900,
+      "sha256": "014a6a057967b31d936c1a3cad4367ceaa3e336689e33bc3b193994de1df8cad",
+      "bytes": 26860
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 4250,
+      "sha256": "83e0e912af39d43d741b57bf06f1393d028aba67cdca90171c667be1b2211610",
+      "bytes": 27887
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 4600,
+      "sha256": "38b61bfbb05632a21a30ab3fe38ac5768150b7108d60e6647508af432a3078d7",
+      "bytes": 27490
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 4950,
+      "sha256": "07630368fb796e5cfbfa2b6d7163361c61fcc8fddd4ec1f031202d4422e54253",
+      "bytes": 27016
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 5300,
+      "sha256": "61e51a4d0624838b8b9a54872b383dbfb819e6d6f74a090935618a2370128b1c",
+      "bytes": 26522
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 5650,
+      "sha256": "fb5b55247f06583455c6151650298bf3db5b0b3244e5df0c0facd83e6f33e4f4",
+      "bytes": 26359
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 6000,
+      "sha256": "46ef2420639c4bd0b77bf7b3ce161585fbf9e1fcfbbd22319034764279ae5393",
+      "bytes": 26881
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 6350,
+      "sha256": "c55162a9df8ec46a27a23b751fda59f5c2b493b6a9136727bdb8d641ec89e9ae",
+      "bytes": 27331
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 6700,
+      "sha256": "d51a31e1ad6374fd9d5f493a8e64ce07ce7708ebde2a9fba2668077edbba8e16",
+      "bytes": 26570
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 7050,
+      "sha256": "01995493e50b5eb787dd52a0d2d7c3db52c1f93998f5490522d9f9e21bd60949",
+      "bytes": 27123
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 7400,
+      "sha256": "ffe54710d05e7e9c1566e4d5c66f59cc7e80b370f052b16d2ba34fbdec64544c",
+      "bytes": 25697
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 7750,
+      "sha256": "06627a28a0bf259f0ee91df07949e65183a57e6abee7c666a4a8428e4dd839ef",
+      "bytes": 25889
+    },
+    {
+      "capture_method": "web_tool_cached_transcription",
+      "request_center": 8050,
+      "sha256": "79106afaf1a18f91253459e43550ee6b5ae496ec472a3530d6cca768eb1aca82",
+      "bytes": 25951
+    }
+  ]
+}

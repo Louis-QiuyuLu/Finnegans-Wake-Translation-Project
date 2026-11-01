@@ -1,0 +1,529 @@
+{
+  "chapter": "I.6",
+  "input_sha256": "3238b71900a3a3a97366205af30dd1e11db1380fc8e4842472c01cae53aba28f",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "126 through 168",
+  "primary_text_words": 15934,
+  "candidate_words": 15960,
+  "similarity": 0.994419012980498,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "1.",
+      "candidate": "I.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "in their own fine artful disorder.) 1. What secondtonone myther rector and maximost"
+    },
+    {
+      "operation": "replace",
+      "witness": "or",
+      "candidate": "of",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "sunset shower, red clay cloud, sorrow or Sahara, oxhide or Iren; arraigned and"
+    },
+    {
+      "operation": "replace",
+      "witness": "or",
+      "candidate": "on",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "clay cloud, sorrow or Sahara, oxhide or Iren; arraigned and attainted, listed and"
+    },
+    {
+      "operation": "replace",
+      "witness": "thick-in-thews",
+      "candidate": "thick-inthews",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "at eighty; boasts him to the thick-in-thews the oldest creater in Aryania and"
+    },
+    {
+      "operation": "replace",
+      "witness": "French-Egyptian",
+      "candidate": "FrenchEgyptian",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a young rose and his second's French-Egyptian and his whole means a slump"
+    },
+    {
+      "operation": "replace",
+      "witness": "eilerdich,",
+      "candidate": "eilerdich",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "in him all life long; comm, eilerdich, hecklebury and sawyer thee, warden; silent"
+    },
+    {
+      "operation": "replace",
+      "witness": "thee, warden;",
+      "candidate": "thee ,warden;",
+      "witness_tokens": 2,
+      "candidate_tokens": 2,
+      "witness_context": "long; comm, eilerdich, hecklebury and sawyer thee, warden; silent as the bee in honey,"
+    },
+    {
+      "operation": "replace",
+      "witness": "Barth-the-Grete-by-the-Exchange;",
+      "candidate": "Barth-the-Grete-by-theExchange;",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "dunstung in the Yeast, Pitre-le-Pore-in Petrin, Barth-the-Grete-by-the-Exchange; he hestens towards dames troth and"
+    },
+    {
+      "operation": "replace",
+      "witness": "mountaen",
+      "candidate": "mountain",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "sounds like a rude word; the mountaen view, some lumin pale round a"
+    },
+    {
+      "operation": "replace",
+      "witness": "Canterel—Cockran,",
+      "candidate": "Canterel —— Cockran,",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "likeliest villain of the place; Hennery Canterel—Cockran, eggotisters, limitated; we take our tays"
+    },
+    {
+      "operation": "replace",
+      "witness": "born",
+      "candidate": "bom",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "privace of the Mullingar Inn; was born with a nuasilver tongue in his"
+    },
+    {
+      "operation": "replace",
+      "witness": "girds",
+      "candidate": "gird",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "weight in the moon night but girds girder by the sundawn; with one"
+    },
+    {
+      "operation": "replace",
+      "witness": "morn",
+      "candidate": "mom",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "waked; is Timb to the pearly morn and Tomb to the mourning night;"
+    },
+    {
+      "operation": "replace",
+      "witness": "world:",
+      "candidate": "word:",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "most phillohippuc theobibbous paùpulation in the world: and harmonise your abecedeed responses? Answer:"
+    },
+    {
+      "operation": "replace",
+      "witness": "speech,",
+      "candidate": "speech.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "sinking ofter the soapstone of silvry speech, c) Nublid. Isha, why wouldn't we"
+    },
+    {
+      "operation": "replace",
+      "witness": "on",
+      "candidate": "on.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "why wouldn't we be happy, avourneen, on the mills'money he'll soon be leaving"
+    },
+    {
+      "operation": "replace",
+      "witness": "smuttyflesks, emptout",
+      "candidate": "smuttyflesks,emptout",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "slags of a loughladd would retten smuttyflesks, emptout old mans, melk vitious geit, scareoff"
+    },
+    {
+      "operation": "replace",
+      "witness": "hyelp",
+      "candidate": "hyelf",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "foottreats given to malafides, outshriek hyelp hyelp nor his hair efter buggelawrs, might"
+    },
+    {
+      "operation": "replace",
+      "witness": "you, sweet",
+      "candidate": "you,sweet",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "contempt of courting. That I chid you, sweet sir? You know I'm tender by"
+    },
+    {
+      "operation": "replace",
+      "witness": "Misi,",
+      "candidate": "Misi",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "divinely deluscious? But in't it bafforyou? Misi, misi! Tell me till my thrillme"
+    },
+    {
+      "operation": "replace",
+      "witness": "for",
+      "candidate": "foh",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "blighter, praying Dieuf and Domb Nostrums for thomethinks to eath; if he weapt"
+    },
+    {
+      "operation": "replace",
+      "witness": "theories",
+      "candidate": "theorics",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "of the whoo-whoo and where's hairs theories of Winestain. To put it all"
+    },
+    {
+      "operation": "replace",
+      "witness": "investigations—though",
+      "candidate": "investigations —— though",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "from the fruit of my own investigations—though the reason I went to Jericho"
+    },
+    {
+      "operation": "replace",
+      "witness": "secret—",
+      "candidate": "secret ——",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "remain for certain reasons a political secret— especially as I shall shortly be"
+    },
+    {
+      "operation": "replace",
+      "witness": "reasons—as",
+      "candidate": "reasons —— as",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "myself, for the same and other reasons—as being again hopelessly vitiated by what"
+    },
+    {
+      "operation": "replace",
+      "witness": "Sexe-Weiman-Eitelnaky",
+      "candidate": "SexeWeiman-Eitelnaky",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "my foes. Professor Levi-Brullo, F.D. of Sexe-Weiman-Eitelnaky finds, from experiments made by hinn"
+    },
+    {
+      "operation": "replace",
+      "witness": "Romeo), so",
+      "candidate": "Romeo),so",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "walking go (My hood! cries Antony Romeo), so one grandsumer evening, after a great"
+    },
+    {
+      "operation": "replace",
+      "witness": "brooder-on-low",
+      "candidate": "brooderon-low",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Mookse had never seen his Dubville brooder-on-low so nigh to a pickle. Adrian"
+    },
+    {
+      "operation": "replace",
+      "witness": "blague,",
+      "candidate": "blague?",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "cheek by jowel with his frisherman's blague, Bellua Triumphanes, his everyway addedto wallat's"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Good",
+      "candidate": "— Good",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "allnight sitting to Lio the Faultyfindth. —Good appetite us, sir Mookse! How do"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Rats!",
+      "candidate": "Rats!",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "it! O miserendissimest retempter! A Gripes! —Rats! bullowed the Mookse most telesphorously, the"
+    },
+    {
+      "operation": "replace",
+      "witness": "—I",
+      "candidate": "I",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "baldyqueens! Gather behind me, satraps! Rots! —I am till infinity obliged with you,"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Ask",
+      "candidate": "Ask",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "The pining peever! To a Mookse! —Ask my index, mund my achilles, swell"
+    },
+    {
+      "operation": "replace",
+      "witness": "—I",
+      "candidate": "I",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "voice that answered him! Culla vosellina. —I was just thinkling upon that, swees"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Your",
+      "candidate": "Your",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "ware. Incredible! Well, hear the inevitable. —Your temple, sus in cribro! Semperexcommunicambiambisumers. Tugurios-in-Newrobe"
+    },
+    {
+      "operation": "replace",
+      "witness": "side, thank",
+      "candidate": "side,thank",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "to feel contemption for him!). My side, thank decretals, is as safe as motherour's"
+    },
+    {
+      "operation": "replace",
+      "witness": "primas—but",
+      "candidate": "primas but",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "odd. This foluminous dozen odd. Quas primas—but 'tis bitter to compote my knowledge's"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Efter",
+      "candidate": "Efter",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "got the hoof from his philioquus. —Efter thousand yaws, O Gripes con my"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Ofter",
+      "candidate": "Ofter",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the world, enscayed Mookse the pius. —Ofter thousand yores, amsered Gripes the gregary,"
+    },
+    {
+      "operation": "replace",
+      "witness": "MacHammud's,",
+      "candidate": "acHammud's,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the gregary, be the goat of MacHammud's, yours may be still, O Mookse,"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Us",
+      "candidate": "Us",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "be still, O Mookse, more botheared. —Us shall be chosen as the first"
+    },
+    {
+      "operation": "replace",
+      "witness": "for, blissim.",
+      "candidate": "for,blissim.",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "is what Ruby and Roby fall for, blissim. The Pills, the Nasal Wash (Yardly's),"
+    },
+    {
+      "operation": "replace",
+      "witness": "Nuzuland... —Wee,",
+      "candidate": "Nuzuland . . . Wee,",
+      "witness_tokens": 2,
+      "candidate_tokens": 5,
+      "witness_context": "as when that brokenarched traveller from Nuzuland... —Wee, cumfused the Gripes limply, shall not"
+    },
+    {
+      "operation": "replace",
+      "witness": "but...",
+      "candidate": "but . . .",
+      "witness_tokens": 1,
+      "candidate_tokens": 4,
+      "witness_context": "might have been a happy evening but... And they viterberated each other, canis"
+    },
+    {
+      "operation": "replace",
+      "witness": "—Unuchorn! —Ungulant! —Uvuloid! —Uskybeak!",
+      "candidate": "Unuchorn! Ungulant! Uvuloid! Uskybeak!",
+      "witness_tokens": 4,
+      "candidate_tokens": 4,
+      "witness_context": "ever wielded since Tarriestinus lashed Pissasphaltium. —Unuchorn! —Ungulant! —Uvuloid! —Uskybeak! And bullfolly answered volleyball. Nuvoletta in"
+    },
+    {
+      "operation": "replace",
+      "witness": "conclaved",
+      "candidate": "[[conclaved[[",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "intrepifide fate and bungless curiasity, were conclaved with Heliogobbleus and Commodus and Enobarbarus"
+    },
+    {
+      "operation": "replace",
+      "witness": "la",
+      "candidate": "le",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "She tossed her sfumastelliacinous hair like la princesse de la Petite Bretagne and"
+    },
+    {
+      "operation": "replace",
+      "witness": "mignons arms",
+      "candidate": "[[mignons arms[[",
+      "witness_tokens": 2,
+      "candidate_tokens": 2,
+      "witness_context": "Petite Bretagne and she rounded her mignons arms like Mrs Cornwallis-West and she smiled"
+    },
+    {
+      "operation": "replace",
+      "witness": "—I",
+      "candidate": "I",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a dubliboused Catalick, wis pinefully obliviscent. —I see, she sighed. There are menner."
+    },
+    {
+      "operation": "replace",
+      "witness": "curillass",
+      "candidate": "curillass]",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "so baileycliaver though he's a nawful curillass and I must slav to methodiousness."
+    },
+    {
+      "operation": "replace",
+      "witness": "clean,—the",
+      "candidate": "clean, the",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "service sort to keep its boles clean,—the weeping beeches, Picea and Tillia, are"
+    },
+    {
+      "operation": "replace",
+      "witness": "it—ought",
+      "candidate": "it ought",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "are in a wild state about it—ought to be classified, as Cricketbutt Willowm"
+    },
+    {
+      "operation": "replace",
+      "witness": "Willowm",
+      "candidate": "Wilowm",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "it—ought to be classified, as Cricketbutt Willowm and his two nurserymen advisers suggested,"
+    },
+    {
+      "operation": "replace",
+      "witness": "Do, sweet",
+      "candidate": "Do,sweet",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "of things to look back on. Do, sweet Daniel! If I weren't a jones"
+    },
+    {
+      "operation": "replace",
+      "witness": "soldier-author-batman",
+      "candidate": "soldier - author - batman",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "been sort-of-nineknived and chewly removed (this soldier-author-batman for all his commontoryism is just"
+    },
+    {
+      "operation": "replace",
+      "witness": "fellow's",
+      "candidate": "follow's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "in his lofter while the other fellow's onni vesy milky indeedmymy. Laughing over"
+    },
+    {
+      "operation": "replace",
+      "witness": "and—this",
+      "candidate": "and — this",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "exiles or ambusheers, beggar and neighbour and—this is where the dimeshow advertisers advance"
+    },
+    {
+      "operation": "replace",
+      "witness": "plea—let",
+      "candidate": "plea — let",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "dimeshow advertisers advance the temporal relief plea—let us be tolerant of antipathies. Nex"
+    },
+    {
+      "operation": "replace",
+      "witness": "E!)",
+      "candidate": "E !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "both dress A L I K E!) which I titled The Very Picture"
+    },
+    {
+      "operation": "replace",
+      "witness": "excelsis",
+      "candidate": "excelsis),",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Rhomba, lady Trabezond (Marge in her excelsis also comprised the climactogram up which"
+    },
+    {
+      "operation": "replace",
+      "witness": "(Ill)—whose",
+      "candidate": "(Ill) whose",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "politic which Professor Ebahi-Ahuri of Philadespoinis (Ill)—whose bluebutterbust I have just given his"
+    },
+    {
+      "operation": "replace",
+      "witness": "to—neatly",
+      "candidate": "to neatly",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "just given his coupe de grass to—neatly names a boîte à surprises. The"
+    },
+    {
+      "operation": "replace",
+      "witness": "expense",
+      "candidate": "exponse",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "The word is my Wife, to expense and expound, to vend and to"
+    },
+    {
+      "operation": "replace",
+      "witness": "out?—ay!—were",
+      "candidate": "out? — ay! — were",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "and Mac Jeffet, four-in-hand, foot him out?—ay!—were he my own breastbrother, my doubled"
+    }
+  ]
+}

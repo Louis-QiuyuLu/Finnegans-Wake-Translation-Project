@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "review_baseline": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "review_report": "reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1-REVIEW.md",
+  "disposition_summary": {
+    "R1-01_audio_sync": "resolved",
+    "R1-02_sources_sync": "resolved",
+    "R1-03_revision_submission": "in_progress",
+    "R1-04_figures_claims": "retracted_unsupported_claim"
+  },
+  "issues": [
+    {
+      "id": "R1-01",
+      "title": "音频合并文件时长未同步",
+      "status": "resolved",
+      "action": "已从已发布公共工作树同步 fw-i1-005-13.mp3（3,641,516字节，ffprobe实测 151.672秒）与 fw-i1-006-13.mp3（4,359,212字节，ffprobe实测 181.571秒）。录音文件与 index.json 登记哈希及长度完全吻合。"
+    },
+    {
+      "id": "R1-02",
+      "title": "来源表未与公共I.1一并合并导致边界倒退",
+      "status": "resolved",
+      "action": "已将 sources/catalog.json 与公共版本逐字节对齐（diff 为空）。恢复 moret-egypt 的 1911 扫描本 roisetdieuxdgyp00moregoog 及图版定位（PDF第15、116、117页）；恢复 bylina-buslaev、ibsen-solness、quran-arafat 的严格查阅边界。"
+    },
+    {
+      "id": "R1-03",
+      "title": "专项整改只交说明，缺可审的r1译稿",
+      "status": "in_progress",
+      "action": "建立 reports/revisions/ 目录。补交 I.2 第一段完整自然段译稿 reports/revisions/fw-i2-030-01.r1.json（附中英逐句对照与6条注释定级依据）；补交 I.3 底本实词校勘与虚构注撤销稿 reports/revisions/I-3-base-text.r1.json。未完成整段逐句全译的条目一律诚实标为'待交稿／待复核'，不预先申报完成。"
+    },
+    {
+      "id": "R1-04",
+      "title": "图形与乐谱'已呈现'的说法缺实现和产物",
+      "status": "retracted_unsupported_claim",
+      "action": "撤销此前关于 180度F、镜像F及乐谱'已呈现'的失实断言。project.py 验证器当前严格限定只支持 E/F 及 ±90 度旋转；在未通过拓展 schema 检验和正式构建产物前，绝不将原文图形代码视同排版呈现。"
+    },
+    {
+      "id": "R-I2-01",
+      "segment_id": "fw-i2-030-01",
+      "status": "revised_and_submitted",
+      "delivered_file": "reports/revisions/fw-i2-030-01.r1.json",
+      "action": "撤销证实双宗法根系定论，降级 i2-sidlesham-wapentake；降级 i2-agnomen-prodromarith 等5条注释；统一昆虫名为'蠼螋'；正文严格依《中文的常态》润色，零被字、强动词，附中英行级对照矩阵。"
+    },
+    {
+      "id": "R-I3-01",
+      "chapter": "I.3",
+      "status": "base_text_resolved",
+      "delivered_file": "reports/revisions/I-3-base-text.r1.json",
+      "action": "纠正 12 处底本实词篡变（two Curchies, latitudinous baver, Maeromor Mournomates, Sevenchurches, Edenberry, carcasses 等）；撤销/降级 4 条虚构注。中文全译标记为'待交稿／待复核'。"
+    }
+  ],
+  "pending_chapters": {
+    "I.2": {
+      "segments_status": "fw-i2-030-01 已交审 r1；fw-i2-031-33 至 fw-i2-046-01 待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.3": {
+      "segments_status": "底本文字与虚构注已校订交审；全部 12 段中文正文待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.4": {
+      "segments_status": "全部 12 段待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.5": {
+      "segments_status": "全部 8 段待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.6": {
+      "segments_status": "全部 12 段待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.7": {
+      "segments_status": "全部 7 段待交稿／待复核",
+      "coverage": "not_started"
+    },
+    "I.8": {
+      "segments_status": "全部 4 段待交稿／待复核",
+      "coverage": "not_started"
+    }
+  }
+}

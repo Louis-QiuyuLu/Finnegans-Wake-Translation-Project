@@ -1,0 +1,1025 @@
+{
+  "chapter": "I.3",
+  "input_sha256": "d7ed8094a9b85ff36b1b654bdc578184f05f5d0932c70affea7f3f4bf49bbc1d",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "048 through 074",
+  "primary_text_words": 9716,
+  "candidate_words": 9727,
+  "similarity": 0.9824615542868899,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "Eyrawyggla",
+      "candidate": "Eyrawyglaa",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "zimzim. Of the persins sin this Eyrawyggla saga (which, thorough readable to int"
+    },
+    {
+      "operation": "replace",
+      "witness": "alone",
+      "candidate": "alone,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "with tenorist voice to match, not alone but a very major poet of"
+    },
+    {
+      "operation": "replace",
+      "witness": "Bucklovitch",
+      "candidate": "Buckleyitch",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the assumed name of Blanco Fusilovna Bucklovitch (spurious) after which the cawer and"
+    },
+    {
+      "operation": "replace",
+      "witness": "chawclates",
+      "candidate": "chaw-clates",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "leafless to old chap give, rawl chawclates for mouther-in-louth. Booil. Poor old dear"
+    },
+    {
+      "operation": "replace",
+      "witness": "said—as",
+      "candidate": "said — as",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "him as 'Promptboxer') to have solemnly said—as had the brief thot but fell"
+    },
+    {
+      "operation": "replace",
+      "witness": "them,—of",
+      "candidate": "them, — of",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "egourge as Micholas de Cusack calls them,—of all of whose I in my"
+    },
+    {
+      "operation": "replace",
+      "witness": "me—by",
+      "candidate": "me — by",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "hereinafter of course by recourse demission me—by the coincidance of their contraries reamalgamerge"
+    },
+    {
+      "operation": "replace",
+      "witness": "wellnigh",
+      "candidate": "well-nigh",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "might have prepared us we are wellnigh stinkpotthered by the mustardpunge in the"
+    },
+    {
+      "operation": "replace",
+      "witness": "Calomnequiller's",
+      "candidate": "Calomnequeller's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the French leaves unveilable out of Calomnequiller's Pravities) from the sourface of this"
+    },
+    {
+      "operation": "replace",
+      "witness": "malpractices",
+      "candidate": "malfeasances",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "canary!) and was semiprivately convicted of malpractices with his hotwashed tableknife (glossing over"
+    },
+    {
+      "operation": "replace",
+      "witness": "yearschaums",
+      "candidate": "yearweeksms",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "snob of the dunhill, fully several yearschaums riper, encountered by the General on"
+    },
+    {
+      "operation": "replace",
+      "witness": "Curchies",
+      "candidate": "Curranss",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "edventyres of the Haberdasher, the two Curchies and the three Enkelchums in their"
+    },
+    {
+      "operation": "replace",
+      "witness": "jongers, but",
+      "candidate": "jongers,but",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "in their Bearskin ghoats! Girles and jongers, but he has changed alok syne Thorkill's"
+    },
+    {
+      "operation": "replace",
+      "witness": "Shettledore-Juxta-Mare",
+      "candidate": "Shettledore - Juxta - Mare",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "regatta's eventualising is not of Battlecock Shettledore-Juxta-Mare only) and the request for a"
+    },
+    {
+      "operation": "replace",
+      "witness": "sisterisle—Meathman",
+      "candidate": "sisterisle — Meathman",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "the porty (a native of the sisterisle—Meathman or Meccan?—by his brogue, exrace eyes,"
+    },
+    {
+      "operation": "replace",
+      "witness": "Meccan?—by",
+      "candidate": "Meccan? — by",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "(a native of the sisterisle—Meathman or Meccan?—by his brogue, exrace eyes, lokil calour"
+    },
+    {
+      "operation": "replace",
+      "witness": "exrace eyes, lokil",
+      "candidate": "excommunicatedokil",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "the sisterisle—Meathman or Meccan?—by his brogue, exrace eyes, lokil calour and lucal odour which are"
+    },
+    {
+      "operation": "replace",
+      "witness": "craogs",
+      "candidate": "[[craogs",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "zees haul us back to the craogs and bryns of the Silurian Ordovices)"
+    },
+    {
+      "operation": "replace",
+      "witness": "bryns",
+      "candidate": "bryns]]",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "us back to the craogs and bryns of the Silurian Ordovices) who, the"
+    },
+    {
+      "operation": "replace",
+      "witness": "southeast",
+      "candidate": "south-east",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "pats' and pigs' older inselt, the southeast bluffs of the stranger stepshore, a"
+    },
+    {
+      "operation": "replace",
+      "witness": "pipe,",
+      "candidate": "pipe",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "some or so minutes (hit the pipe, dannyboy! Time to won, barmon. I'll"
+    },
+    {
+      "operation": "replace",
+      "witness": "consummatory",
+      "candidate": "consequencey",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "executing with Anny Oakley deadliness (the consummatory pairs of provocatives, of which remained"
+    },
+    {
+      "operation": "replace",
+      "witness": "malbellulo,",
+      "candidate": "malbelaulo,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "scaremakers (scoretaking: Spegulo ne helpas al malbellulo, Mi Kredas ke vi estas prava,"
+    },
+    {
+      "operation": "replace",
+      "witness": "latitudinous baver",
+      "candidate": "latitudinarianismr",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "like to know. The first Humphrey's latitudinous baver with puggaree behind, (calaboose belong bigboss"
+    },
+    {
+      "operation": "replace",
+      "witness": "legomena",
+      "candidate": "legument",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "his thunder, but in the befitting legomena of the smaller country, (probable words,"
+    },
+    {
+      "operation": "replace",
+      "witness": "œdor",
+      "candidate": "oedor",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "os across the wineless Ere no œdor nor mere eerie nor liss potent"
+    },
+    {
+      "operation": "replace",
+      "witness": "insteadily with",
+      "candidate": "insteadiferoush",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "oftafter, jauntyjogging, on an Irish visavis, insteadily with shoulder to shoulder Jehu will tell"
+    },
+    {
+      "operation": "replace",
+      "witness": "(doerehmoose",
+      "candidate": "(doereheyose",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "soft belling of the fallow deers (doerehmoose genuane!) advertising their milky approach as"
+    },
+    {
+      "operation": "replace",
+      "witness": "(letate!)",
+      "candidate": "(letate!),",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "as midnight was striking the hours (letate!) and how brightly the great tribune"
+    },
+    {
+      "operation": "replace",
+      "witness": "tribune",
+      "candidate": "trivium",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "(letate!) and how brightly the great tribune outed the sharkskin smokewallet (imitation!) from"
+    },
+    {
+      "operation": "replace",
+      "witness": "bannocks",
+      "candidate": "bankrupt",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "how he wished his Honour the bannocks of Gort and Morya and Bri"
+    },
+    {
+      "operation": "replace",
+      "witness": "—a",
+      "candidate": "— a",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "the pit of his St Tomach's, —a strange wish for you, my friend,"
+    },
+    {
+      "operation": "replace",
+      "witness": "found",
+      "candidate": "fount",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "him! See! Oilbeam they're lost we've found rerembrandtsers, their hours to date link"
+    },
+    {
+      "operation": "replace",
+      "witness": "Farseeingetherich",
+      "candidate": "Farseeingenoughch",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "wowhere are those yours of Yestersdays? Farseeingetherich and Poolaulwoman Charachthercuss and his Ann"
+    },
+    {
+      "operation": "replace",
+      "witness": "succo, sabez.",
+      "candidate": "succursalbez.",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "sahib? Despenseme Usted, senhor, en son succo, sabez. O thaw bron orm, A'Cothraige, thinkinthou"
+    },
+    {
+      "operation": "replace",
+      "witness": "tuvavnr",
+      "candidate": "tutuinr",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "gaily? Lick-Pa-flai-hai-pa-Pa-li-si-lang-lang. Epi alo, ecou, Batiste, tuvavnr dans Lptit boing going. Ismeme de"
+    },
+    {
+      "operation": "replace",
+      "witness": "portocallie.",
+      "candidate": "porcelanaie.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Ismeme de bumbac e meias de portocallie. O.O. Os pipos mios es demasiada"
+    },
+    {
+      "operation": "replace",
+      "witness": "sabboth",
+      "candidate": "sabbath",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "gllll (this was where the reverent sabboth and bottlebreaker with firbalk forthstretched touched"
+    },
+    {
+      "operation": "replace",
+      "witness": "ancestralolosis",
+      "candidate": "ancientalolosis",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "penny for it) whileas oleaginosity of ancestralolosis sgocciolated down the both pendencies of"
+    },
+    {
+      "operation": "replace",
+      "witness": "mutsohito liptails",
+      "candidate": "muttontuckliptails",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "down the both pendencies of his mutsohito liptails (Sencapetulo, a more modestuous conciliabulite never"
+    },
+    {
+      "operation": "replace",
+      "witness": "adullescence",
+      "candidate": "adulteratore",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a torn pocketmouth), cordially inwiting the adullescence who he was wising up to"
+    },
+    {
+      "operation": "replace",
+      "witness": "Maeromor Mournomates!)",
+      "candidate": "Maemuffinstirnomates !)",
+      "witness_tokens": 2,
+      "candidate_tokens": 2,
+      "witness_context": "Atreox is fallen indeedust (Ilyam, Ilyum! Maeromor Mournomates!) averging on blight like the mundibanks"
+    },
+    {
+      "operation": "replace",
+      "witness": "everintermutuomergent,",
+      "candidate": "evermoresmutuomergent,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "be forgotten, the hen and crusader everintermutuomergent, for later in the century one"
+    },
+    {
+      "operation": "replace",
+      "witness": "rundreisers, back",
+      "candidate": "rundreisers,back",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "awes the round eyes of the rundreisers, back to back, buck to bucker, on"
+    },
+    {
+      "operation": "replace",
+      "witness": "intouristing",
+      "candidate": "interestting",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "their airish chaunting car, beheld with intouristing anterestedness the clad pursue the bare,"
+    },
+    {
+      "operation": "replace",
+      "witness": "fireleaved",
+      "candidate": "firefountd",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "encirculingly abound the gigantig's lifetree, our fireleaved loverlucky blomsterbohm, phoenix in our woodlessness,"
+    },
+    {
+      "operation": "replace",
+      "witness": "recepticle",
+      "candidate": "receivecle",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Field and craving their auriculars to recepticle particulars before they got the bump"
+    },
+    {
+      "operation": "replace",
+      "witness": "bosom's",
+      "candidate": "bodiess",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "could simply imagine themselves in their bosom's inmost core, as pro tem locums,"
+    },
+    {
+      "operation": "replace",
+      "witness": "cockshyshooter's",
+      "candidate": "cockshypourson's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "they were seasiders, listening to the cockshyshooter's evensong evocation of the doomed but"
+    },
+    {
+      "operation": "replace",
+      "witness": "aginsst",
+      "candidate": "abovest",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "o'er Thounawahallya Reef!) silkhouatted, a whallrhosmightiadd, aginsst the dusk of skumring, (would that"
+    },
+    {
+      "operation": "replace",
+      "witness": "calling—holy places!—and",
+      "candidate": "calling — holy places! — and",
+      "witness_tokens": 2,
+      "candidate_tokens": 6,
+      "witness_context": "(would that fane be Saint Muezzin's calling—holy places!—and this fez brimless as brow of"
+    },
+    {
+      "operation": "replace",
+      "witness": "were—blessed",
+      "candidate": "were — blessed",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "of the ground, did wish it were—blessed be the bones! —the ghazi, power"
+    },
+    {
+      "operation": "replace",
+      "witness": "—the",
+      "candidate": "— the",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "wish it were—blessed be the bones! —the ghazi, power of his sword.) his"
+    },
+    {
+      "operation": "replace",
+      "witness": "wildbroom,",
+      "candidate": "wildgander",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "flaskneck, cracket cup, downtrodden brogue, turfsod, wildbroom, cabbageblad, stockfisch, longingly learn that there"
+    },
+    {
+      "operation": "replace",
+      "witness": "tothink?",
+      "candidate": "totemsk?",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "cause made a smile of that tothink? Who was he to whom? (O'Breen's"
+    },
+    {
+      "operation": "replace",
+      "witness": "kisker, kither,",
+      "candidate": "kiswastikither,",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "maid.) Whose are the placewheres? Kiwasti, kisker, kither, kitnabudja? Tal the tem of the"
+    },
+    {
+      "operation": "replace",
+      "witness": "habit, watching",
+      "candidate": "habitualatching",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "he sits sated, gowndabout, in clericalease habit, watching bland sol slithe dodgsomely into the"
+    },
+    {
+      "operation": "replace",
+      "witness": "multvult, magnoperous,",
+      "candidate": "multapromptagnoperous,",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "shadow of the huge outlander, maladik, multvult, magnoperous, had bulked at the bar of"
+    },
+    {
+      "operation": "replace",
+      "witness": "contestimony with",
+      "candidate": "conspicuouslywith",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "tried with Jedburgh justice, there acquitted contestimony with benefit of clergy. His Thing Mod"
+    },
+    {
+      "operation": "replace",
+      "witness": "Lou!",
+      "candidate": "Lou !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "ulvy came, envy saw, ivy conquered. Lou! Lou! They have waved his green"
+    },
+    {
+      "operation": "replace",
+      "witness": "annuhulation.",
+      "candidate": "annulationon.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "muertification and uxpiration and dumnation and annuhulation. With schreis and grida, deprofound souspirs."
+    },
+    {
+      "operation": "replace",
+      "witness": "fettle, O!",
+      "candidate": "fettle,O!",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "is not fit to fan his fettle, O! Have a ring and sing wohl!"
+    },
+    {
+      "operation": "replace",
+      "witness": "seufsighed:",
+      "candidate": "seufzerhed:",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the bog again. Bugge. But softsies seufsighed: Eheu, for gassies! But, lo! lo!"
+    },
+    {
+      "operation": "replace",
+      "witness": "Refuseleers!",
+      "candidate": "Refuselerss!",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "and tapatagain, (fire firstshot, Missiers the Refuseleers! Peingpeong! For saxonlootie!) three tommix, soldiers"
+    },
+    {
+      "operation": "replace",
+      "witness": "(pardonnez!), nodding,",
+      "candidate": "(pardonnez!, nodderg,",
+      "witness_tokens": 2,
+      "candidate_tokens": 2,
+      "witness_context": "opinion in which on either wide (pardonnez!), nodding, all the Finner Camps concurred (je"
+    },
+    {
+      "operation": "replace",
+      "witness": "santoys",
+      "candidate": "sangloc",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Marchison retro. (Terse!) Thus contenters with santoys play. One of our coming Vauxhall"
+    },
+    {
+      "operation": "replace",
+      "witness": "elecutioner",
+      "candidate": "elementoner",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "been callit by a noted stagey elecutioner a wastepacket Sittons) was interfeud in"
+    },
+    {
+      "operation": "replace",
+      "witness": "Halfmoon",
+      "candidate": "halfmoon",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "padouasoys, girdle and braces by the Halfmoon and Seven Stars, russets from the"
+    },
+    {
+      "operation": "replace",
+      "witness": "F... A...",
+      "candidate": "F . . . A . . .",
+      "witness_tokens": 2,
+      "candidate_tokens": 8,
+      "witness_context": "their Black and All Black, Mrs F... A... saidaside, half in stage of whisper"
+    },
+    {
+      "operation": "replace",
+      "witness": "(ahat!—and",
+      "candidate": "(ahat! — and",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "glass, while recoopering her cartwheel chapot (ahat!—and we now know what thimbles a"
+    },
+    {
+      "operation": "replace",
+      "witness": "viridable goddinpotty",
+      "candidate": "viridiurjanoddinpotty",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "of his burstday which was a viridable goddinpotty for the reinworms and the charlattinas"
+    },
+    {
+      "operation": "replace",
+      "witness": "propenomen is",
+      "candidate": "professionals",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "to his dictaphone an entychologist: his propenomen is a properismenon. A dustman nocknamed Sevenchurches"
+    },
+    {
+      "operation": "replace",
+      "witness": "Sevenchurches",
+      "candidate": "Sevendialshes",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "is a properismenon. A dustman nocknamed Sevenchurches in the employ of Messrs Achburn,"
+    },
+    {
+      "operation": "replace",
+      "witness": "hashhoush",
+      "candidate": "hashtraph",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "stenk and kitteney phie in a hashhoush and, thankeaven, responsed impulsively: We have"
+    },
+    {
+      "operation": "replace",
+      "witness": "See, I",
+      "candidate": "See,I",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Your hegg he must break himself. See, I crack, so, he sit in the"
+    },
+    {
+      "operation": "replace",
+      "witness": "skarlot",
+      "candidate": "skardly",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "floods her stable. It would be skarlot shame to jailahim in lockup, as"
+    },
+    {
+      "operation": "replace",
+      "witness": "\"Well",
+      "candidate": "Well",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "and enjoining such wicked illth, ehim! \"Well done, Drumcollakill! Kitty Tyrrel is proud"
+    },
+    {
+      "operation": "replace",
+      "witness": "board!)",
+      "candidate": "board !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "B.O.T. official (O blame gnot the board!) while the Daughters Benkletter murmured in"
+    },
+    {
+      "operation": "replace",
+      "witness": "murmured",
+      "candidate": "murmursd",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the board!) while the Daughters Benkletter murmured in uniswoon: Golforgilhisjurylegs! Brian Lynsky, the"
+    },
+    {
+      "operation": "replace",
+      "witness": "coincident of",
+      "candidate": "coincidenceof",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "the seventeenyearold revivalist, said concerning the coincident of interfizzing with grenadines and other respectable"
+    },
+    {
+      "operation": "replace",
+      "witness": "Moirgan's",
+      "candidate": "Moiragall",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "mutatus mutandus. Dauran's lord ('Sniffpox') and Moirgan's lady ('Flatterfun') took sides and crossed"
+    },
+    {
+      "operation": "replace",
+      "witness": "cozydozy",
+      "candidate": "cozynook",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "facets of the case in her cozydozy bachelure's flat, quite overlooking John a'Dream's"
+    },
+    {
+      "operation": "replace",
+      "witness": "accowding to my",
+      "candidate": "acknowledgingmy",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "sheew gweatness was his twadgedy? Nevewtheless accowding to my considewed attitudes fow this act he"
+    },
+    {
+      "operation": "replace",
+      "witness": "11,",
+      "candidate": "II,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "puwsuance, as pew Subsec. 32, section 11, of the C. L. A. act"
+    },
+    {
+      "operation": "replace",
+      "witness": "fishshambles",
+      "candidate": "fishplateles",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "granite cromlech setts of our new fishshambles for the usual aireating after the"
+    },
+    {
+      "operation": "replace",
+      "witness": "Hill—as",
+      "candidate": "Hill — as",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "about your two velvetthighs up Horniman's Hill—as hook and eye blame him or"
+    },
+    {
+      "operation": "replace",
+      "witness": "piscman?—but",
+      "candidate": "piscman? — but",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "eye blame him or any other piscman?—but I also think, Puellywally, by the"
+    },
+    {
+      "operation": "replace",
+      "witness": "someone else",
+      "candidate": "somethinglse",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "siege of his trousers there was someone else behind it—you bet your boughtem blarneys—about"
+    },
+    {
+      "operation": "replace",
+      "witness": "it—you",
+      "candidate": "it — you",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "trousers there was someone else behind it—you bet your boughtem blarneys—about their three"
+    },
+    {
+      "operation": "replace",
+      "witness": "blarneys—about",
+      "candidate": "blarneys — about",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "else behind it—you bet your boughtem blarneys—about their three drummers down Keysars Lane."
+    },
+    {
+      "operation": "replace",
+      "witness": "silentioussuemeant",
+      "candidate": "silentioussueissnt",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "a baggermalster, the hejirite had fled, silentioussuemeant under night's altosonority, shipalone, a raven"
+    },
+    {
+      "operation": "replace",
+      "witness": "incorruption of an",
+      "candidate": "incorruption-of-an",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "corruptible lay quick, all saints of incorruption of an holy nation, the common or ere-in-garden"
+    },
+    {
+      "operation": "replace",
+      "witness": "resurrection",
+      "candidate": "redoubtction",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "common or ere-in-garden castaway, in red resurrection to condemn so they might convince"
+    },
+    {
+      "operation": "replace",
+      "witness": "pharoah,",
+      "candidate": "phalanx,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "so they might convince him, first pharoah, Humpheres Cheops Exarchas, of their proper"
+    },
+    {
+      "operation": "replace",
+      "witness": "Us!)",
+      "candidate": "Us !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "We seem to us (the real Us!) to be reading our Amenti in"
+    },
+    {
+      "operation": "replace",
+      "witness": "unknowable assailant",
+      "candidate": "undisclosedassailant",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "words: you're shot, major: by an unknowable assailant (masked) against whom he had been"
+    },
+    {
+      "operation": "replace",
+      "witness": "twin alternatives",
+      "candidate": "[[twin alternatives]]",
+      "witness_tokens": 2,
+      "candidate_tokens": 2,
+      "witness_context": "a loaded Hobson's which left only twin alternatives as, viceversa, either he would surely"
+    },
+    {
+      "operation": "replace",
+      "witness": "transparingly",
+      "candidate": "transparently",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "was showery well able. But how transparingly nontrue, gentlewriter! His feet one is"
+    },
+    {
+      "operation": "replace",
+      "witness": "gentlewriter!",
+      "candidate": "gentlewriter !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "well able. But how transparingly nontrue, gentlewriter! His feet one is not a"
+    },
+    {
+      "operation": "replace",
+      "witness": "all, man.",
+      "candidate": "all,man.",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "not a tall man, not at all, man. No such parson. No such fender."
+    },
+    {
+      "operation": "replace",
+      "witness": "Haveyoucaught-emerod's",
+      "candidate": "Haveyou-caught-emerod's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "dark by the town guard at Haveyoucaught-emerod's temperance gateway was there in a"
+    },
+    {
+      "operation": "replace",
+      "witness": "pseudojocax axplanation",
+      "candidate": "pseudofriendaxplanation",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "hobbles the hoy of his then pseudojocax axplanation how, according to his own story,"
+    },
+    {
+      "operation": "replace",
+      "witness": "swan, Maurice",
+      "candidate": "swan,Maurice",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "gate for the boots about the swan, Maurice Behan, who hastily into his shoes"
+    },
+    {
+      "operation": "replace",
+      "witness": "mormon halls",
+      "candidate": "mortalitylls",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "he dreamed that he'd wealthes in mormon halls when wokenp by a fourth loud"
+    },
+    {
+      "operation": "replace",
+      "witness": "(oonagh! oonagh!)",
+      "candidate": "(oonagh!oonagh!)",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "blind pig and anything like it (oonagh! oonagh!) in the whole history of the"
+    },
+    {
+      "operation": "replace",
+      "witness": "musikants'",
+      "candidate": "musicians'",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "of the martiallawsey marses of foreign musikants' instrumongs or the overthrewer to the"
+    },
+    {
+      "operation": "replace",
+      "witness": "frolic!",
+      "candidate": "frolic !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "real cream! Now for a strawberry frolic! Filons, filoosh! Cherchons la flamme! Fammfamm!"
+    },
+    {
+      "operation": "replace",
+      "witness": "filoosh!",
+      "candidate": "filoosh !",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "Now for a strawberry frolic! Filons, filoosh! Cherchons la flamme! Fammfamm! Fammfamm! Come"
+    },
+    {
+      "operation": "replace",
+      "witness": "Fammfamm!",
+      "candidate": "Fammeamm!",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "frolic! Filons, filoosh! Cherchons la flamme! Fammfamm! Fammfamm! Come on, ordinary man with"
+    },
+    {
+      "operation": "replace",
+      "witness": "Scapolopolos,",
+      "candidate": "Scapologiaos,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "that blanko berbecked fischial ekksprezzion Machinsky Scapolopolos, Duzinascu or other. Your machelar's mutton"
+    },
+    {
+      "operation": "replace",
+      "witness": "goes!)",
+      "candidate": "goes !)",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "me to dance (so off she goes!) and that's how half the gels"
+    },
+    {
+      "operation": "replace",
+      "witness": "sly, where",
+      "candidate": "sly,where",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "large jugful!) for someplace on the sly, where Furphy he isn't by, old grum"
+    },
+    {
+      "operation": "replace",
+      "witness": "promiscious",
+      "candidate": "propertiess",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "other nachtistag among all kinds of promiscious individuals at all ages in private"
+    },
+    {
+      "operation": "replace",
+      "witness": "blanchessance",
+      "candidate": "blanchingance",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "seven divers stages of ink, from blanchessance to lavandaiette, every pothook and pancrook"
+    },
+    {
+      "operation": "replace",
+      "witness": "Edenberry,",
+      "candidate": "Edenquayy,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "afterwite, S.A.G., to Hyde and Cheek, Edenberry, Dubblenn, WC? Will whatever will be"
+    },
+    {
+      "operation": "replace",
+      "witness": "carcasses",
+      "candidate": "carbolics",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "on last epening after delivering some carcasses mattonchepps and meatjutes on behalf of"
+    },
+    {
+      "operation": "replace",
+      "witness": "time, look, she",
+      "candidate": "time,look,she",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "small for her and rapidly taking time, look, she rapidly took to necking, partying and"
+    },
+    {
+      "operation": "replace",
+      "witness": "topples",
+      "candidate": "toples",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "fido, eh eh tease fido, toos topples topple, stop, dug of a dog"
+    },
+    {
+      "operation": "replace",
+      "witness": "wallhole",
+      "candidate": "wall-hole",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "wall a was and such a wallhole did exist. Ere ore or ire"
+    },
+    {
+      "operation": "replace",
+      "witness": "pigdirt",
+      "candidate": "pig-dirt",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "thereof to keep out donkeys (the pigdirt hanging from the jags to this"
+    },
+    {
+      "operation": "replace",
+      "witness": "blessure, and",
+      "candidate": "blessure,and",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "wheil he was, swishing beesnest with blessure, and swobbing broguen eeriesh myth brockendootsch, making"
+    },
+    {
+      "operation": "replace",
+      "witness": "Godsoilman,",
+      "candidate": "Godsoilman",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Eighth Wonderful Wonder, Beat My Price, Godsoilman, Moonface the Murderer, Hoary Hairy Hoax,"
+    },
+    {
+      "operation": "replace",
+      "witness": "Edomite, —'Man",
+      "candidate": "Edomite,—'Man",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Sower Rapes, Armenian Atrocity, Sickfish Bellyup, Edomite, —'Man Devoyd of the Commoner Characteristics of"
+    },
+    {
+      "operation": "replace",
+      "witness": "Campbell, he",
+      "candidate": "Campbell,he",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "two and thirty straws, be Cacao Campbell, he didn't know what he wouldn't do"
+    },
+    {
+      "operation": "replace",
+      "witness": "abeyance",
+      "candidate": "obeyance",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Opus Elf, Thortytoe: My schemes into abeyance for This time has had to"
+    },
+    {
+      "operation": "replace",
+      "witness": "Bangen-op-Zoom.",
+      "candidate": "Bangen-opZoom.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "us, as Bar-le-Duc and Dog-an-Doras and Bangen-op-Zoom. Yed he med leave to many"
+    }
+  ]
+}

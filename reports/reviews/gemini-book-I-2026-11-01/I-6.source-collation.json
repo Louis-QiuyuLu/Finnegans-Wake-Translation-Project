@@ -1,0 +1,178 @@
+{
+  "chapter": "I.6",
+  "input_sha256": "3238b71900a3a3a97366205af30dd1e11db1380fc8e4842472c01cae53aba28f",
+  "witness_pages": [
+    "https://www.finnegansweb.com/wiki/index.php/Page_126",
+    "https://www.finnegansweb.com/wiki/index.php/Page_127",
+    "https://www.finnegansweb.com/wiki/index.php/Page_128",
+    "https://www.finnegansweb.com/wiki/index.php/Page_129",
+    "https://www.finnegansweb.com/wiki/index.php/Page_130",
+    "https://www.finnegansweb.com/wiki/index.php/Page_131",
+    "https://www.finnegansweb.com/wiki/index.php/Page_132",
+    "https://www.finnegansweb.com/wiki/index.php/Page_133",
+    "https://www.finnegansweb.com/wiki/index.php/Page_134",
+    "https://www.finnegansweb.com/wiki/index.php/Page_135",
+    "https://www.finnegansweb.com/wiki/index.php/Page_136",
+    "https://www.finnegansweb.com/wiki/index.php/Page_137",
+    "https://www.finnegansweb.com/wiki/index.php/Page_138",
+    "https://www.finnegansweb.com/wiki/index.php/Page_139",
+    "https://www.finnegansweb.com/wiki/index.php/Page_140",
+    "https://www.finnegansweb.com/wiki/index.php/Page_141",
+    "https://www.finnegansweb.com/wiki/index.php/Page_142",
+    "https://www.finnegansweb.com/wiki/index.php/Page_143",
+    "https://www.finnegansweb.com/wiki/index.php/Page_144",
+    "https://www.finnegansweb.com/wiki/index.php/Page_145",
+    "https://www.finnegansweb.com/wiki/index.php/Page_146",
+    "https://www.finnegansweb.com/wiki/index.php/Page_147",
+    "https://www.finnegansweb.com/wiki/index.php/Page_148",
+    "https://www.finnegansweb.com/wiki/index.php/Page_149",
+    "https://www.finnegansweb.com/wiki/index.php/Page_150",
+    "https://www.finnegansweb.com/wiki/index.php/Page_151",
+    "https://www.finnegansweb.com/wiki/index.php/Page_152",
+    "https://www.finnegansweb.com/wiki/index.php/Page_153",
+    "https://www.finnegansweb.com/wiki/index.php/Page_154",
+    "https://www.finnegansweb.com/wiki/index.php/Page_155",
+    "https://www.finnegansweb.com/wiki/index.php/Page_156",
+    "https://www.finnegansweb.com/wiki/index.php/Page_157",
+    "https://www.finnegansweb.com/wiki/index.php/Page_158",
+    "https://www.finnegansweb.com/wiki/index.php/Page_159",
+    "https://www.finnegansweb.com/wiki/index.php/Page_160",
+    "https://www.finnegansweb.com/wiki/index.php/Page_161",
+    "https://www.finnegansweb.com/wiki/index.php/Page_162",
+    "https://www.finnegansweb.com/wiki/index.php/Page_163",
+    "https://www.finnegansweb.com/wiki/index.php/Page_164",
+    "https://www.finnegansweb.com/wiki/index.php/Page_165",
+    "https://www.finnegansweb.com/wiki/index.php/Page_166",
+    "https://www.finnegansweb.com/wiki/index.php/Page_167",
+    "https://www.finnegansweb.com/wiki/index.php/Page_168"
+  ],
+  "candidate_words": 15960,
+  "witness_words": 15960,
+  "similarity": 1.0,
+  "normalization": "comparison only: HTML entities, Unicode whitespace, line-end hyphen joining; not an editorial acceptance rule",
+  "reading_limit": "independent community transcription, not print facsimile; pre extraction omits tables and images outside pre, notably page44 music",
+  "differences": [],
+  "raw_html_in_original": [],
+  "lemma_not_found": [
+    {
+      "segment_id": "fw-i6-126-01",
+      "note_id": "i6-shaun-briefdragger-quiz",
+      "lemma": "Shaun Mac Irewick, briefdragger, for the concern of Messrs Jhon Jhamieson and Song, rated one hundrick and thin per storehundred on this nightly quisquiquock of the twelve apostrophes..."
+    },
+    {
+      "segment_id": "fw-i6-126-01",
+      "note_id": "i6-secondtonone-pontifex-bridgesmaker",
+      "lemma": "What secondtonone myther rector and maximost bridgesmaker was daleaking vadicle priamuonitarian providentially and all-casually cashed..."
+    },
+    {
+      "segment_id": "fw-i6-126-01",
+      "note_id": "i6-rotshield-rockyfellow-plump",
+      "lemma": "some dub him Rotshield and more limn him Rockyfellow; shows he's fly to both demisfairs but thries to cover up his tracers..."
+    },
+    {
+      "segment_id": "fw-i6-126-01",
+      "note_id": "i6-seven-dovecotes-homer-dublin",
+      "lemma": "seven dovecotes cooclaim to have been pigeonheim to this homer, Smerrnion, Rhoebok, Kolonsreagh, Seapoint, Quayhowth, Ashtown, Ratheny..."
+    },
+    {
+      "segment_id": "fw-i6-129-27",
+      "note_id": "i6-illbelpaese-iceland-ear",
+      "lemma": "reeks like Illbelpaese and looks like Iceland's ear; lodged at quot places, lived through tot reigns..."
+    },
+    {
+      "segment_id": "fw-i6-129-27",
+      "note_id": "i6-nevermore-colombo-goaldkeeper",
+      "lemma": "what Nevermore missed and Colombo found; believes in everyman his own goaldkeeper..."
+    },
+    {
+      "segment_id": "fw-i6-129-27",
+      "note_id": "i6-invincibled-burked-united-irishmen",
+      "lemma": "quary was he invincibled and cur was he burked; partitioned Irskaholm, united Irishmen..."
+    },
+    {
+      "segment_id": "fw-i6-133-01",
+      "note_id": "i6-dan-oconnell-emigrants",
+      "lemma": "Costello, Kinsella, Mahony, Moran, though you rope Amrique your home ruler is Dan..."
+    },
+    {
+      "segment_id": "fw-i6-133-01",
+      "note_id": "i6-dismemberment-isobaric-patties",
+      "lemma": "figure right, he is hoisted by the scurve of his shaggy neck, figure left, he is rationed in isobaric patties among the crew..."
+    },
+    {
+      "segment_id": "fw-i6-133-01",
+      "note_id": "i6-assembled-asundered-cycle",
+      "lemma": "as far as wind dries and rain eats and sun turns and water bounds he is exalted and depressed, assembled and asundered; go away, we are deluded, come back, we are disghosted..."
+    },
+    {
+      "segment_id": "fw-i6-133-01",
+      "note_id": "i6-ostrov-inferus-mabbul",
+      "lemma": "bored the Ostrov, leapt the Inferus, swam the Mabbul and kissed the Spira..."
+    },
+    {
+      "segment_id": "fw-i6-136-09",
+      "note_id": "i6-uru-house-foundation-fate",
+      "lemma": "he has founded a house, Uru, a house he has founded to which he has assigned its fate..."
+    },
+    {
+      "segment_id": "fw-i6-136-09",
+      "note_id": "i6-timb-morn-tomb-night",
+      "lemma": "is Timb to the pearly morn and Tomb to the mourning night; and an he had the best bunbaked bricks in bould Babylon..."
+    },
+    {
+      "segment_id": "fw-i6-139-15",
+      "note_id": "i6-question2-mutter-mike-alp",
+      "lemma": "2. Does your mutter know your mike? Answer: When I turn meoptics... Ann alive, the lisp of her..."
+    },
+    {
+      "segment_id": "fw-i6-139-15",
+      "note_id": "i6-question4-four-cities-evangelists",
+      "lemma": "4. What Irish capitol city (a dea o dea!) of two syllables... Answer: a) Delfas... b) Dork... c) Dalway... d) Domkall..."
+    },
+    {
+      "segment_id": "fw-i6-139-15",
+      "note_id": "i6-question5-6-joe-kate",
+      "lemma": "5. Whad slags of a loughladd... Answer: Pore ole Joe!... 6. What means the saloon slogan Summon In The Housekeeper..."
+    },
+    {
+      "segment_id": "fw-i6-139-15",
+      "note_id": "i6-question7-8-twelve-morphios-maggies",
+      "lemma": "7. Who are those component partners... Answer: The Morphios!... 8. And how war yore maggies?... Sweet Peck-at-my-Heart picks one man more."
+    },
+    {
+      "segment_id": "fw-i6-143-03",
+      "note_id": "i6-question9-collideorscape",
+      "lemma": "Now, to be on anew and basking again in the panaroma of all flores of speech... Answer: A collideorscape!"
+    },
+    {
+      "segment_id": "fw-i6-143-03",
+      "note_id": "i6-question10-issy-mirror-pepette",
+      "lemma": "10. What bitter's love but yurning... Answer: I know, pepette, of course, dear, but listen to the dark..."
+    },
+    {
+      "segment_id": "fw-i6-146-17",
+      "note_id": "i6-engindear-french-college",
+      "lemma": "I was always meant for an engindear from the French college, to be musband, nomme d'engien..."
+    },
+    {
+      "segment_id": "fw-i6-148-33",
+      "note_id": "i6-question11-brother-keeper-shem",
+      "lemma": "11. If you met on the binge a poor acheseyeld from Ailing... Answer: No, blank ye! So you think I have impulsive instincts..."
+    },
+    {
+      "segment_id": "fw-i6-148-33",
+      "note_id": "i6-professor-jones-wyndham-lewis-spatime",
+      "lemma": "I would like to raise my voice and tell you... as a spatialist... Time and Western Man..."
+    },
+    {
+      "segment_id": "fw-i6-148-33",
+      "note_id": "i6-javanese-fable-announcement",
+      "lemma": "As none of you knows javanese I will give all my easyfree translation of the old fabulist's parable... The Mookse and The Gripes."
+    },
+    {
+      "segment_id": "fw-i6-163-29",
+      "note_id": "i6-margareen-cleopatra",
+      "lemma": "cowrymaid M. whom we shall often meet below who introduces herself upon us... to meet Margareen."
+    }
+  ]
+}

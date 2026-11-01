@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "revision_round": 1,
+  "scope": "I.3 底本实词篡变校勘与虚构注撤销",
+  "chapter": "I.3",
+  "input_binding": {
+    "manifest": "reports/reviews/inputs/gemini-book-I-2026-11-01/manifest.json",
+    "chapter_file": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-3.json",
+    "review_report": "reports/reviews/gemini-book-I-2026-11-01/I-2-I-3.semantic.r0.md",
+    "review_issue": "R-I3-01",
+    "phase1_review_issue": "R1-03"
+  },
+  "translation_status": "待交稿／待复核（中文正文大面积节译，待按自然段逐段重译交审，本件仅交验底本校勘与注释撤销）",
+  "base_text_corrections": [
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "048.11",
+      "before": "Eyrawyglaa",
+      "after": "Eyrawyggla",
+      "witness": "Faded Page / Wiki 048.11",
+      "note": "更正爱尔霍恩传奇拼写"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "048.22",
+      "before": "Buckleyitch",
+      "after": "Bucklovitch",
+      "witness": "Faded Page / Wiki 048.22",
+      "note": "更正布兰科·燧发枪手之女·巴克洛维奇假名"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "048.33",
+      "before": "malfeasances",
+      "after": "malpractices",
+      "witness": "Faded Page / Wiki 048.33",
+      "note": "更正餐刀违规行径词形"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "049.08",
+      "before": "yearweeksms",
+      "after": "yearschaums",
+      "witness": "Faded Page / Wiki 049.08",
+      "note": "更正年岁浮沫词形"
+    },
+    {
+      "segment_id": "fw-i3-048-01",
+      "locator": "049.19",
+      "before": "Calomnequeller's",
+      "after": "Calomnequiller's",
+      "witness": "Faded Page / Wiki 049.19",
+      "note": "更正造谣羽毛笔词形"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "locator": "051.14",
+      "before": "the two Curranss",
+      "after": "two Curchies",
+      "witness": "Faded Page / Wiki 051.14–15",
+      "note": "纠正实词篡变。撤销将错词附会为爱国演说家约翰·菲尔波特·柯兰的伪注"
+    },
+    {
+      "segment_id": "fw-i3-050-33",
+      "locator": "052.23",
+      "before": "latitudinarianismr",
+      "after": "latitudinous baver",
+      "witness": "Faded Page / Wiki 052.23–24",
+      "note": "纠正实词篡变。撤销'宽容派神学教条'，恢复宽边帽及后接衣饰清单"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "locator": "055.03",
+      "before": "Maemuffinstirnomates",
+      "after": "Maeromor Mournomates",
+      "witness": "Faded Page / Wiki 055.03–04",
+      "note": "纠正实词篡变。撤销捏造的松饼（muffin）释义，恢复阿伽门农与莫恩山脉双关"
+    },
+    {
+      "segment_id": "fw-i3-055-03",
+      "locator": "055.19",
+      "before": "firefountd",
+      "after": "fireleaved",
+      "witness": "Faded Page / Wiki 055.19",
+      "note": "更正火叶词形"
+    },
+    {
+      "segment_id": "fw-i3-057-16",
+      "locator": "059.16",
+      "before": "Sevendialshes",
+      "after": "Sevenchurches",
+      "witness": "Faded Page / Wiki 059.16–17",
+      "note": "更正格伦达洛'七教堂'地名，撤销伦敦伦巴底街七钟面假想"
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "locator": "066.17",
+      "before": "Edenquayy",
+      "after": "Edenberry",
+      "witness": "Faded Page / Wiki 066.17–18",
+      "note": "撤销指定都柏林伊甸码头的错注，恢复奥法利郡伊甸德里镇（Edenderry）与伊甸园双关"
+    },
+    {
+      "segment_id": "fw-i3-065-34",
+      "locator": "067.16",
+      "before": "carbolics",
+      "after": "carcasses",
+      "witness": "Faded Page / Wiki 067.16–17",
+      "note": "更正腐尸骸骨词形，撤销服石炭酸自尽的虚构剧情"
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "locator": "069.20",
+      "before": "propenomen is",
+      "after": "professionals",
+      "witness": "Faded Page / Wiki 069.20",
+      "note": "更正专业人士词形"
+    }
+  ],
+  "withdrawn_and_qualified_notes": [
+    {
+      "note_id": "n-i3-51-haberdasher-currans",
+      "action": "withdraw",
+      "reason": "原词为 two Curchies，无 Currans。附会约翰·菲尔波特·柯兰（John Philpot Curran）系据错词凭空增造，予以撤销。"
+    },
+    {
+      "note_id": "n-i3-55-house-atreox",
+      "action": "fix_lemma_and_remove_muffin_claim",
+      "reason": "原词为 Maeromor Mournomates，无 Maemuffinstir。修正 lemma，删除松饼（muffin）释义，确定性降为 proposal。"
+    },
+    {
+      "note_id": "n-i3-66-coffin-illusionist-hyde-cheek",
+      "action": "fix_lemma_and_remove_eden_quay",
+      "reason": "原词为 Edenberry，非 Edenquay。删除指向都柏林伊甸码头的说明，更正为 Edenderry 镇与伊甸园，确定性降为 proposal。"
+    },
+    {
+      "note_id": "fw-i3-067-28-n02",
+      "action": "remove_carbolic_claim",
+      "reason": "原词为 carcasses，非 carbolics。撤销服石炭酸自尽的释义。"
+    }
+  ]
+}

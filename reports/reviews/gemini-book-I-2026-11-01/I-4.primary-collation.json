@@ -1,0 +1,361 @@
+{
+  "chapter": "I.4",
+  "input_sha256": "23d1dfc7119ccc74919374b08ae7786958ad678363bb5b02a80f706ddd4e97b1",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "075 through 103",
+  "primary_text_words": 10327,
+  "candidate_words": 10322,
+  "similarity": 0.9928810111869825,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "system, Sowan",
+      "candidate": "system,Sowan",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "blasted by means of a hydromine, system, Sowan and Belting, exploded from a reinvented"
+    },
+    {
+      "operation": "replace",
+      "witness": "(Tiptip!)--she",
+      "candidate": "(Tiptip!) she",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "wheelbarrow, dungcart? Kate Strong, a widow (Tiptip!)--she pulls a lane picture for us,"
+    },
+    {
+      "operation": "replace",
+      "witness": "panes—Widow",
+      "candidate": "panes Widow",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "germs in gleefully through the smithereen panes—Widow Strong, then, as her weaker had"
+    },
+    {
+      "operation": "replace",
+      "witness": "b—y b—r's",
+      "candidate": "b y b r's",
+      "witness_tokens": 2,
+      "candidate_tokens": 4,
+      "witness_context": "them but he would cannonise the b—y b—r's life out of him and lay"
+    },
+    {
+      "operation": "replace",
+      "witness": "b—r",
+      "candidate": "b r",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "out contritely as smart as the b—r had his b—y nightprayers said, three"
+    },
+    {
+      "operation": "replace",
+      "witness": "b—y",
+      "candidate": "b y",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "smart as the b—r had his b—y nightprayers said, three patrecknocksters and a"
+    },
+    {
+      "operation": "replace",
+      "witness": "knobkerries",
+      "candidate": "knobkerries,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "tear, to know wanted, joking and knobkerries all aside laying, if his change"
+    },
+    {
+      "operation": "replace",
+      "witness": "leave. And,",
+      "candidate": "leave.And,",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "tap): and he tucked his friend's leave. And, with French hen or the portlifowlium"
+    },
+    {
+      "operation": "replace",
+      "witness": "that, the",
+      "candidate": "that,the",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "hastes and leisures, about to continue that, the queer mixture exchanged the pax in"
+    },
+    {
+      "operation": "replace",
+      "witness": "bridge, spitting",
+      "candidate": "bridge,spitting",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "a bull's run over the assback bridge, spitting his teeths on rooths, with the"
+    },
+    {
+      "operation": "replace",
+      "witness": "rooths, with",
+      "candidate": "rooths,with",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "assback bridge, spitting his teeths on rooths, with the seven and four in danegeld"
+    },
+    {
+      "operation": "replace",
+      "witness": "Thoorsday,",
+      "candidate": "Thoorday,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "middlewhite fair in Mudford of a Thoorsday, feishts of Peeler and Pole, under"
+    },
+    {
+      "operation": "replace",
+      "witness": "say, ate",
+      "candidate": "say,ate",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "she, Francie's sister, that is to say, ate a whole side of his (the"
+    },
+    {
+      "operation": "replace",
+      "witness": "tongue mor!",
+      "candidate": "tonguemor!",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Exhibit his relics! Bu! Use the tongue mor! Give lip less! But it oozed"
+    },
+    {
+      "operation": "replace",
+      "witness": "there—is—a—pain—aleland",
+      "candidate": "there —— is —— a —— pain —— aleland",
+      "witness_tokens": 1,
+      "candidate_tokens": 9,
+      "witness_context": "by the founts of bounty playing there—is—a—pain—aleland in Long's gourgling barral? A loss"
+    },
+    {
+      "operation": "replace",
+      "witness": "fe...?",
+      "candidate": "fe . . . ?",
+      "witness_tokens": 1,
+      "candidate_tokens": 5,
+      "witness_context": "Quare hircum? No answer. Unde gentium fe...? No ah. Are you not danzzling"
+    },
+    {
+      "operation": "replace",
+      "witness": "O'kehley",
+      "candidate": "O'- kehley",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "Ah! Augs and ohrs with Rhian O'kehley to put it tertianly, we wrong?"
+    },
+    {
+      "operation": "replace",
+      "witness": "bench,",
+      "candidate": "bench.",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "trelawney what he would impart, pleas bench, to the Llwyd Josus and the"
+    },
+    {
+      "operation": "replace",
+      "witness": "doom,",
+      "candidate": "doom",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "left Dublin, that, amreeta beaker coddling doom, as an Inishman was as good"
+    },
+    {
+      "operation": "replace",
+      "witness": "career",
+      "candidate": "caree",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "if ever in all his exchequered career he up or lave a chancery"
+    },
+    {
+      "operation": "replace",
+      "witness": "zdrst!—in",
+      "candidate": "zdrst! in",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "of the Roman Godhelic faix, (Xaroshie, zdrst!—in his excitement the laddo had broken"
+    },
+    {
+      "operation": "replace",
+      "witness": "through",
+      "candidate": "hrough",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "his senses about him, stincking thyacinths through his curls (O feen! O deur!)"
+    },
+    {
+      "operation": "replace",
+      "witness": "(O",
+      "candidate": "O",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "him, stincking thyacinths through his curls (O feen! O deur!) and bringing busses"
+    },
+    {
+      "operation": "delete",
+      "witness": "turn",
+      "candidate": "",
+      "witness_tokens": 1,
+      "candidate_tokens": 0,
+      "witness_context": "fortytudor ages rawdownhams tanyouhide as would turn the latten stomach even of a"
+    },
+    {
+      "operation": "replace",
+      "witness": "Rosa",
+      "candidate": "Rasa",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "and slipping like soap. From dark Rosa Lane a sigh and a weep,"
+    },
+    {
+      "operation": "replace",
+      "witness": "tribes",
+      "candidate": "tribes,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "by, from Timm Finn again's weak tribes loss of strenghth to his sowheel,"
+    },
+    {
+      "operation": "delete",
+      "witness": "on",
+      "candidate": "",
+      "witness_tokens": 1,
+      "candidate_tokens": 0,
+      "witness_context": "obster lumpky pumpkin and three meddlars on their slies. And that was how"
+    },
+    {
+      "operation": "replace",
+      "witness": "funfun,",
+      "candidate": "funfun",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Sin fromm Son, acity arose, finfin funfun, a sitting arrows. Now tell me,"
+    },
+    {
+      "operation": "replace",
+      "witness": ". . . . . . . . . .",
+      "candidate": "..........",
+      "witness_tokens": 10,
+      "candidate_tokens": 1,
+      "witness_context": "me then! What was it? A . . . . . . . . . . ! ? . . . ."
+    },
+    {
+      "operation": "replace",
+      "witness": ". . . . . . . . . O!",
+      "candidate": "..........O!",
+      "witness_tokens": 10,
+      "candidate_tokens": 1,
+      "witness_context": ". . . . ! ? . . . . . . . . . O! So there you are now there"
+    },
+    {
+      "operation": "replace",
+      "witness": "Ballybock",
+      "candidate": "Balllybock",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "the gush off the mon like Ballybock manure works on a tradewinds day."
+    },
+    {
+      "operation": "replace",
+      "witness": "H_{2} C E_{3}",
+      "candidate": "H2CE3",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "'tis well I can telesmell him H_{2} C E_{3} that would take a township's breath"
+    },
+    {
+      "operation": "replace",
+      "witness": "rime",
+      "candidate": "time",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "that used to be (up) that rime living and lying and rating and"
+    },
+    {
+      "operation": "replace",
+      "witness": "very",
+      "candidate": "vely",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "was she mushymushy, and wasn't that very both of them, the saucicissters, a"
+    },
+    {
+      "operation": "replace",
+      "witness": "OOOOOOOO",
+      "candidate": "O O O O O O O O",
+      "witness_tokens": 1,
+      "candidate_tokens": 8,
+      "witness_context": "kindness pet and the shape of OOOOOOOO Ourang's time. Well, all right, Lelly."
+    },
+    {
+      "operation": "replace",
+      "witness": "a white",
+      "candidate": "awhite",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "bearing right upon Tankardstown, the outlier, a white noelan which Mr Lœwensteil Fitz Urse's"
+    },
+    {
+      "operation": "replace",
+      "witness": "Lœwensteil",
+      "candidate": "Loewensteil",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "outlier, a white noelan which Mr Lœwensteil Fitz Urse's basset beaters had first"
+    },
+    {
+      "operation": "replace",
+      "witness": "in, fagged",
+      "candidate": "in,fagged",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "in Fugger's Newsletter, lain down, all in, fagged out, with equally melancholy death. For"
+    },
+    {
+      "operation": "replace",
+      "witness": "tank",
+      "candidate": "tank,",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "and ankered in a dutch bottom tank the Arsa, hod S.S. Finlandia, and"
+    },
+    {
+      "operation": "replace",
+      "witness": "Cassidy—Craddock",
+      "candidate": "Cassidy — Craddock",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "go cup and ball. And the Cassidy—Craddock rome and reme round e'er a"
+    },
+    {
+      "operation": "replace",
+      "witness": "it, a",
+      "candidate": "it,a",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "still immer and immor awagering over it, a cradle with a care in it"
+    },
+    {
+      "operation": "replace",
+      "witness": "Posht, so",
+      "candidate": "Posht,so",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "D. Blayncy's trilingual triweekly, Scatterbrains' Aftening Posht, so as to make certain sure onetime"
+    },
+    {
+      "operation": "replace",
+      "witness": "knows her",
+      "candidate": "knowher",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "of sevenscore moons or more who knows her intimologies and every colleen bawl aroof"
+    }
+  ]
+}

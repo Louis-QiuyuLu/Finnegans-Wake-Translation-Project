@@ -1,0 +1,265 @@
+{
+  "chapter": "I.5",
+  "input_sha256": "4ede2d55e5416222ff6a6e3daf495bb80bb03b986596a7eb61a1add345111c22",
+  "witness_url": "https://www.fadedpage.com/books/20180126/html.php",
+  "edition": "Viking 1958 eighth printing, electronic transcription",
+  "capture_method": "web_tool_cached_transcription",
+  "scope": "104 through 125",
+  "primary_text_words": 8097,
+  "candidate_words": 8103,
+  "similarity": 0.9928395061728396,
+  "normalization": "comparison only: HTML entities, whitespace and line-end hyphen joining; figure labels retained",
+  "limitations": [
+    "Not a print-facsimile collation. Differences include edition and transcription variants, punctuation, tables, graphics and actual omissions; automatic similarity does not grade translation."
+  ],
+  "differences": [
+    {
+      "operation": "replace",
+      "witness": "Friends,",
+      "candidate": "Friends],",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Me High He Waives Chiltern on Friends, Oremunds Queue Visits Amen Mart, E'en"
+    },
+    {
+      "operation": "replace",
+      "witness": "Orel",
+      "candidate": "Ore",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "to his Notylytl Dantsigirls, Prszss Orel Orel the King of Orlbrdsz, Intimier Minnelisp"
+    },
+    {
+      "operation": "replace",
+      "witness": "and",
+      "candidate": "end",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "Natures, The Mimic of Meg Neg and the Mackeys, Entered as the Lastest"
+    },
+    {
+      "operation": "replace",
+      "witness": "Life, The",
+      "candidate": "Life,The",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "was no Felon, Exat Delvin Renter Life, The Flash that Flies from Vuggy's Eyes"
+    },
+    {
+      "operation": "replace",
+      "witness": "oxhousehumper!)",
+      "candidate": "oxhousehumper!",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "lane of (it's as semper as oxhousehumper!) generations, more generations and still more"
+    },
+    {
+      "operation": "replace",
+      "witness": "hinted—has",
+      "candidate": "hinted has",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "profit some dull evening quietly be hinted—has any usual sort of ornery josser,"
+    },
+    {
+      "operation": "replace",
+      "witness": "incunabula, it",
+      "candidate": "incunabula,it",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "it looks when schtschupnistling alongside other incunabula, it has its cardinal points for all"
+    },
+    {
+      "operation": "replace",
+      "witness": "yet, dead",
+      "candidate": "yet,dead",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "Spartacus intercellular. We are not corknered yet, dead hand! We can recall, with voluntears,"
+    },
+    {
+      "operation": "replace",
+      "witness": "someathome's",
+      "candidate": "[[someathome's",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "that there is many asleeps between someathome's first and moreinausland's last and that"
+    },
+    {
+      "operation": "replace",
+      "witness": "last",
+      "candidate": "last]]",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "asleeps between someathome's first and moreinausland's last and that the beautiful presence of"
+    },
+    {
+      "operation": "replace",
+      "witness": "ourselves, there",
+      "candidate": "ourselves,there",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "ought to categorically, as, stricly between ourselves, there is a limit to all things"
+    },
+    {
+      "operation": "replace",
+      "witness": "[FIGURE:E on face],",
+      "candidate": ",",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "to be baffling chrismon trilithon sign [FIGURE:E on face], finally called after some his hes"
+    },
+    {
+      "operation": "replace",
+      "witness": "Hec, which,",
+      "candidate": "Hec,which,",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "called after some his hes hecitency Hec, which, moved contrawatchwise, represents his title in"
+    },
+    {
+      "operation": "replace",
+      "witness": "twelfth—siangchang",
+      "candidate": "twelfth — siangchang",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "fifth fourth of the second eighth twelfth—siangchang hongkong sansheneul—but yirely the other and"
+    },
+    {
+      "operation": "replace",
+      "witness": "sansheneul—but",
+      "candidate": "sansheneul — but",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "of the second eighth twelfth—siangchang hongkong sansheneul—but yirely the other and thirtieth of"
+    },
+    {
+      "operation": "replace",
+      "witness": "puddenpadded, very",
+      "candidate": "puddenpadded,very",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "engraved and retouched and edgewiped and puddenpadded, very like a whale's egg farced with"
+    },
+    {
+      "operation": "replace",
+      "witness": "pemmican, as",
+      "candidate": "pemmican,as",
+      "witness_tokens": 2,
+      "candidate_tokens": 1,
+      "witness_context": "like a whale's egg farced with pemmican, as were it sentenced to be nuzzled"
+    },
+    {
+      "operation": "replace",
+      "witness": "loo—too—blue—face—ache",
+      "candidate": "loo — too — blue — face — ache",
+      "witness_tokens": 1,
+      "candidate_tokens": 9,
+      "witness_context": "man chooses to damn them agglutinatively loo—too—blue—face—ache or illvoodawpeehole or, kants koorts, topplefouls)"
+    },
+    {
+      "operation": "replace",
+      "witness": "types—one",
+      "candidate": "types — one",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "(used always in two boldfaced print types—one of them as wrongheaded as his"
+    },
+    {
+      "operation": "replace",
+      "witness": "say?—",
+      "candidate": "say? —",
+      "witness_tokens": 1,
+      "candidate_tokens": 2,
+      "witness_context": "is it worth while interrupting to say?— throughout the papyrus as the revise"
+    },
+    {
+      "operation": "replace",
+      "witness": "[FIGURE:F rotated 180°] sensationseeking",
+      "candidate": "<IMG SRC=\"sigla/F-xyt.gif\" ALT=\"F\" HEIGHT=16 WIDTH=11>;sensationseeking",
+      "witness_tokens": 4,
+      "candidate_tokens": 5,
+      "witness_context": "stalks all over the page, broods [FIGURE:F rotated 180°] sensationseeking an idea, amid the verbiage, gaunt,"
+    },
+    {
+      "operation": "delete",
+      "witness": "returns inhibited, with some half-halted suggestion, [FIGURE:F mirrored vertically],",
+      "candidate": "",
+      "witness_tokens": 9,
+      "candidate_tokens": 0,
+      "witness_context": "fro, flinging phrases here, there, or returns inhibited, with some half-halted suggestion, [FIGURE:F mirrored vertically], dragging its shoestring; the curious warning"
+    },
+    {
+      "operation": "replace",
+      "witness": "Bb—Cod",
+      "candidate": "Bb — Cod",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "in the Bootherbrowth family of MSS., Bb—Cod IV, Pap II, Brek XI, Lun"
+    },
+    {
+      "operation": "replace",
+      "witness": "then);",
+      "candidate": "then)",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "as the case may have been then); and the fatal droopadwindle slope of"
+    },
+    {
+      "operation": "replace",
+      "witness": "lasso—",
+      "candidate": "lasso",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "thirtytwo strokes tailed by a leaping lasso— who thus at all this marvelling"
+    },
+    {
+      "operation": "replace",
+      "witness": "ina,—Yard",
+      "candidate": "ina, — Yard",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "rok engl a ssan dspl itch ina,—Yard inquiries pointed out⟶that they ad bîn"
+    },
+    {
+      "operation": "replace",
+      "witness": "out⟶that",
+      "candidate": "out → that",
+      "witness_tokens": 1,
+      "candidate_tokens": 3,
+      "witness_context": "ssan dspl itch ina,—Yard inquiries pointed out⟶that they ad bîn \"provoked\" ay Λ"
+    },
+    {
+      "operation": "replace",
+      "witness": "Λ",
+      "candidate": "⋀",
+      "witness_tokens": 1,
+      "candidate_tokens": 1,
+      "witness_context": "out⟶that they ad bîn \"provoked\" ay Λ fork, of à grave Brofèsor; àth"
+    },
+    {
+      "operation": "replace",
+      "witness": "—fast—table;",
+      "candidate": "— fast — table;",
+      "witness_tokens": 1,
+      "candidate_tokens": 4,
+      "witness_context": "à grave Brofèsor; àth é's Brèak —fast—table; ; acùtely profèššionally piquéd, to ="
+    },
+    {
+      "operation": "replace",
+      "witness": "to = introdùce",
+      "candidate": "to=introdùce",
+      "witness_tokens": 3,
+      "candidate_tokens": 1,
+      "witness_context": "Brèak —fast—table; ; acùtely profèššionally piquéd, to = introdùce a notion of time [ùpon à"
+    },
+    {
+      "operation": "replace",
+      "witness": "' ' fàç'e']",
+      "candidate": "’ ’ fàç’e’]",
+      "witness_tokens": 3,
+      "candidate_tokens": 3,
+      "witness_context": "time [ùpon à plane (?) sù ' ' fàç'e'] by pùnct! ingh oles (sic) in"
+    }
+  ]
+}

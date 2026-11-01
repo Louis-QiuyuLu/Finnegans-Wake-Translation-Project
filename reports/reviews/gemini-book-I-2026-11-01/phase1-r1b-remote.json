@@ -1,0 +1,28 @@
+{
+  "observed_date": "2026-11-01",
+  "mode": "read_only",
+  "main_sha": "4e2b13bd7256c347833305519230beeec64f3701",
+  "main_commit_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/commit/4e2b13bd7256c347833305519230beeec64f3701",
+  "compare_base": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "compare_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/compare/de234d723304a2fa8d39ccbc2a3a438ab1e95cfe...4e2b13bd7256c347833305519230beeec64f3701",
+  "compare_total_commits": 1,
+  "compare_files": [
+    {
+      "path": "README.md",
+      "status": "modified"
+    }
+  ],
+  "I2_at_fixed_main": {
+    "id": "I.2",
+    "book": "I",
+    "number": 2,
+    "pages": [
+      30,
+      47
+    ],
+    "title": "第一卷·第二章",
+    "coverage": "not_started",
+    "segments": []
+  },
+  "I2_fixed_url": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/blob/4e2b13bd7256c347833305519230beeec64f3701/manuscript/chapters/I-2.json"
+}

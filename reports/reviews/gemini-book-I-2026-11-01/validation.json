@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "decision": "needs_revision",
+  "publication": "withheld",
+  "report_sha256": {
+    "REVIEW.md": "42c3e86185ed4bbe7e966be5d8614d1f17be9aeaed88a766ad14ca00f1d57043",
+    "I-2-I-3.semantic.r0.md": "86ea9244d56c0b7b26e983e74c16388137c1b9aa205bf87c2a1a59331cd7b537",
+    "I-4-I-5.semantic.r0.md": "c9eed59051bbc842060a706a7dab68b2db8609b0fe58c8bb3b50ea1d6ee767db",
+    "I-6-I-8.semantic.r0.md": "61817fe7f090344eba43d5991b0919a890350c790feb9f8c9dd893770aac5776"
+  },
+  "frozen_input_hashes_rechecked": true,
+  "all_assigned_segments_and_notes_listed": {
+    "segments": 65,
+    "notes": 329
+  },
+  "candidate_validator_errors": [
+    "audio original changed: fw-i1-005-09; regenerate or recheck the recording",
+    "audio original changed: fw-i1-005-13; regenerate or recheck the recording",
+    "audio original changed: fw-i1-006-13; regenerate or recheck the recording"
+  ],
+  "test_scope": "Review only; no product code changed and no test-suite pass claimed for this candidate.",
+  "public_manuscript_sha256": "993815845fe516ce6de4baf4c1ee2b10fce85fe752a90cb91e165982b713e609",
+  "remote_head_before": "de234d723304a2fa8d39ccbc2a3a438ab1e95cfe",
+  "remote_mutation_performed": false
+}

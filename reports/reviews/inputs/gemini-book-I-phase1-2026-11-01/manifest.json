@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/gemini-book-I-revision-disposition-r1.md",
+      "sha256": "848bf64b7e616eb7f4ac05d2c876f94c70fa50144b90c1aa513b16e9a7022d04",
+      "bytes": 9702
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/audio__index.json",
+      "sha256": "fffae7b48590ce80198ddfe6008b6b93298ca60e0829cee0855dbf2bc3e826fb",
+      "bytes": 1996
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/progress__checkpoint.json",
+      "sha256": "8c5c5eeebedd870a73cd52a27e2367dabb641c865e746e72562b994279536ca4",
+      "bytes": 590
+    },
+    {
+      "path": "reports/reviews/inputs/gemini-book-I-phase1-2026-11-01/sources__catalog.json",
+      "sha256": "b3e24c67fcebf3741d46e6565f699b28f95a4004fe3975debbcd2d5cab8f770c",
+      "bytes": 97280
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "revision_round": 2,
+  "segment_id": "fw-i2-030-01",
+  "chapter": "I.2",
+  "locator": "030.01–031.33",
+  "range": [
+    30,
+    1,
+    31,
+    33
+  ],
+  "source_id": "joyce-fp",
+  "segment_scope": "首批片段／句群（030.01–031.33，包含6句；后续接续自031.33之'Comes the question'至033.13）",
+  "input_binding": {
+    "manifest": "reports/reviews/inputs/gemini-book-I-phase1-r1b-2026-11-01/manifest.json",
+    "chapter_file": "reports/reviews/inputs/gemini-book-I-2026-11-01/manuscript__chapters__I-2.json",
+    "review_report": "reports/reviews/gemini-book-I-2026-11-01/fw-i2-030-01.r1.md",
+    "review_issues": [
+      "R-I2-01",
+      "R-I2-R1-01",
+      "R-I2-R1-02",
+      "R-I2-R1-03",
+      "R-I2-R1-04"
+    ],
+    "phase1_review_issue": "R1-03"
+  },
+  "original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen (we are back in the presurnames prodromarith period, of course just when enos chalked halltraps) and discarding once for all those theories from older sources which would link him back with such pivotal ancestors as the Glues, the Gravys, the Northeasts, the Ankers and the Earwickers of Sidlesham in the Hundred of Manhood or proclaim him offsprout of vikings who had founded wapentake and seddled hem in Herrick or Eric, the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way. We are told how in the beginning it came to pass that like cabbaging Cincinnatus the grand old gardener was saving daylight under his redwoodtree one sultry sabbath afternoon, Hag Chivychas Eve, in prefall paradise peace by following his plough for rootles in the rere garden of mobhouse, ye olde marine hotel, when royalty was announced by runner to have been pleased to have halted itself on the highroad along which a leisureloving dogfox had cast followed, also at walking pace, by a lady pack of cocker spaniels. Forgetful of all save his vassal's plain fealty to the ethnarch Humphrey or Harold stayed not to yoke or saddle but stumbled out hotface as he was (his sweatful bandanna loose from his pocketcoat) hasting to the forecourts of his public in topee, surcingle, solascarf and plaid, plus fours, puttees and bulldog boots ruddled cinnabar with flagrant marl, jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care. On his majesty, who was, or often feigned to be, noticeably longsighted from green youth and had been meaning to inquire what, in effect, had caused yon causeway to be thus potholed, asking substitutionally to be put wise as to whether paternoster and silver doctors were not now more fancied bait for lobstertrapping honest blunt Haromphreyld answered in no uncertain tones very similarly with a fearless forehead: Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers. Our sailor king, who was draining a gugglet of obvious adamale, gift both and gorban, upon this, ceasing to swallow, smiled most heartily beneath his walrus moustaches and indulging that none too genial humour which William the Conk on the spindle side had inherited with the hereditary whitelock and some shortfingeredness from his greataunt Sophy, turned towards two of his retinue of gallowglasses, Michael, etheling lord of Leix and Offaly and the jubilee mayor of Drogheda, Elcock, (the two scatterguns being Michael M. Manning, protosyndic of Waterford and an Italian excellency named Giubilei according to a later version cited by the learned scholarch Canavan of Canmakenoise), in either case a triptychal religious family symbolising puritas of doctrina, business per usuals and the purchypatch of hamlock where the paddish preties grow and remarked dilsydulsily: Holybones of Saint Hubert how our red brother of Pouringrainia would audibly fume did he know that we have for surtrusty bailiwick a turnpiker who is by turns a pikebailer no seldomer than an earwigger! For he kinned Jom Pill with his court so gray and his haunts in his house in the mourning. (One still hears that pebble crusted laughta, japijap cheerycherrily, among the roadside tree the lady Holmpatrick planted and still one feels the amossive silence of the cladstone allegibelling: Ive mies outside Bourn.)",
+  "translation": "且说（关于艾丽斯·特里斯与百合猩暂且敛声少叙），论及哈罗德或汉弗莱·钦普登职业副名的由头（我等此刻已溯回尚无姓氏的先驱数算纪，恰是以挪士在门厅用粉笔画出落夹之时），且一举摒除旧书诸般附会——即妄图将他攀附于胶合氏、肉汁氏、东北氏、锚缆氏乃至男子汉百户区西德尔舍姆的埃尔威克诸显祖，抑或断言他为开辟兵械检阅区、安家赫里克或埃里克封邑的维京海盗苗裔；考据最确之本，即倒读《塔木德》之《埃达尔之子霍夫角录》，所载实乃如斯情状。相传太初之际，一如忙种卷心菜的辛辛纳图斯，这位老园丁某闷热安息日午后，正值哈格·奇维查节前夕，正于大红木下惜取天光，享坠落前乐园宁谧，在乌合之舍兼老水兵客栈后园扶犁掘薯，忽有信使飞报：御驾驾临，正于大路驻跸；沿途正有一只闲逸公狐引路徐行，身后一群雌可卡犬踱步紧随。汉弗莱或哈罗德唯念臣仆对君长纯朴忠心，未及套轭备鞍，满面赤汗奔突而出（汗渍头巾从大衣口袋晃荡垂挂），顶着遮阳盔，束着肚带，围着防晒巾，披着格子呢，蹬着灯笼裤、绑腿与厚底牛头犬重靴，周身染透赤泥，如涂朱砂，一路摇响收费闸门钥匙，直奔酒肆前院；在狩猎侍从林立的长矛之间，他高高擎起一根长杆，顶端倒扣装土花盆，精心绑固，谨防倾坠。国王陛下自少时起便显远视之态（或常佯作远视），本欲盘问眼前大路何以坑洼遍布，此刻却换了话题，探问主祷文多钩绳与银色飞蝇如今是否为更称心的捕虾诱饵；老实耿直的哈伦弗雷德毫无怯容，扬起坦荡前额，语调洪亮，断然应道：“哪能啊，陛下，俺方才不过是在逮那该死的蠼螋呢。”我等水手老王正仰脖痛饮一壶清水，权当贡物与圣献，闻言止住吞咽，海象浓髭下露出由衷笑意；他借着那股并不和善的幽默（如征服者威廉在母系一脉从太姑母索菲亚处遗传白发与短指那样），转向随从中的两名重装武士——莱克斯与奥法利领主麦克尔，以及德罗赫达禧年市长埃尔科克（依喧噪古寺学者卡纳万所引后世版本，双管枪护从实为沃特福德首席执政官迈克尔·曼宁与意大利贵胄朱比莱伊阁下），无论何版，均成三联宗教家族，象征教义纯正、照常营生与遍植爱尔兰土豆的毒芹庄田；老王戏谑道：“凭圣休伯特圣骨起誓，我等那满面通红的暴雨国弟兄若知我等忠信管区之内，竟有一位关卡守门人，其执矛卫道之勤，丝毫不逊于捕拿蠼螋，定当气得直冒粗烟！”盖因他深知约翰·皮尔与那灰色猎装，深知他清晨在宅邸出没的行迹。（人们至今仍听闻那碎石般的笑声，叽叽喳喳，欢快回荡于霍姆帕特里克夫人手植道旁林木之间；至今仍感应覆衣碑石苔痕深重的肃穆，仿佛无声宣告：距边界尚有五里。）",
+  "disposition_notes": [
+    {
+      "id": "R-I2-R1-01",
+      "target": "030.14 Hag Chivychas Eve",
+      "action": "fix",
+      "description": "补回原译遗漏的时间语'Hag Chivychas Eve'，正文保守译作'正值哈格·奇维查节前夕'；在注释 i2-dumlat-cincinnatus 中阐明希伯来节日 Chag、巫妪 hag 与追逐 chivvy 之多重双关，撤销住棚节之确定断言，定级为 proposal。"
+    },
+    {
+      "id": "R-I2-R1-02",
+      "target": "031.11–031.25 主句主语与动作承接",
+      "action": "fix",
+      "description": "纠正主语错接。原句主语为 Our sailor king，其接连动作包括 smiled、turned、remarked；从句 William the Conk on the spindle side... 仅为修饰 humour 之定语。修订后水手老王保持主语地位，征服者威廉严格限制在幽默渊源的修饰分句中。"
+    },
+    {
+      "id": "R-I2-R1-03",
+      "target": "030.03–030.04 结绳纪与算历场景",
+      "action": "fix",
+      "description": "撤销无文本依据的具体增补'结绳纪'与'画道算历'。原句 prodromarith 保守译为'先驱数算纪'（前驱+数算），enos chalked halltraps 保守译为'以挪士在门厅用粉笔画出落夹之时'；注释同步去除定论断言。"
+    },
+    {
+      "id": "R-I2-R1-04",
+      "target": "030.01–031.33 行级坐标与批次声明",
+      "action": "fix",
+      "description": "根据底本第30页仅24行之版面实际，纠正全部6组双语对照行号：S1为030.01–030.11；S2为030.11–030.19；S3为030.19–031.03；S4为031.03–031.11；S5为031.11–031.28；S6为031.28–031.33。段落 locator 修正为 030.01–031.33，范围声明明确为首批句群片段。"
+    },
+    {
+      "id": "R-I2-01",
+      "target": "全段6条注释语气与证据边界",
+      "action": "qualify",
+      "description": "6条注释全面去除'由此坐实'等确证断言，严格区分字面原形、项目推测与传统学术指认，全部定级为 proposal。"
+    }
+  ],
+  "notes": [
+    {
+      "id": "i2-agnomen-prodromarith",
+      "lemma": "concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen (we are back in the presurnames prodromarith period, of course just when enos chalked halltraps)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Iris Trees 兼指英国女诗人 Iris Tree 与鸢尾花；Lili O'Rangans 兼指女演员 Lily Elsie 与红毛猩猩（orangutan）。agnomen 为古罗马人第四名号（副名）。prodromarith 拼合前驱（prodrome）与算术（arithmetic），指人类姓氏确立前的远古先驱数算期。enos chalked halltraps 联想圣经人物以挪士（创 4:26 “那时人才求告耶和华的名”）或以诺（Enoch），以及在门厅地面用粉笔画记或设下落夹（halltraps / 陷阱）。撤销原候选关于“结绳纪”与“画道算历”的推测，保留词面原形。具体寓意学界尚无定论，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i2-sidlesham-wapentake",
+      "lemma": "discarding once for all those theories from older sources which would link him back with such pivotal ancestors as the Glues, the Gravys, the Northeasts, the Ankers and the Earwickers of Sidlesham in the Hundred of Manhood or proclaim him offsprout of vikings who had founded wapentake and seddled hem in Herrick or Eric",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "原文“discarding once for all”表明叙述者正在排除旧书对 HCE 家系的附会旧说。胶合（Glues）、肉汁（Gravys）、东北（Northeasts）、锚缆（Ankers）皆为平民词汇氏族化假想；西德尔舍姆（Sidlesham）与男子汉百户区（Hundred of Manhood）为萨塞克斯郡真实地名。wapentake 为英国古代丹麦法区行政与兵械检阅区；Herrick 与 Eric 指维京定居点。叙述者在此宣布排除维京贵胄等旧说，转而采信下文园丁相逢本。撤销原候选所谓证实双宗法根系的断言，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i2-dumlat-cincinnatus",
+      "lemma": "the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way... like cabbaging Cincinnatus the grand old gardener was saving daylight under his redwoodtree one sultry sabbath afternoon, Hag Chivychas Eve, in prefall paradise peace",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Dumlat 倒读即《塔木德》（Talmud），戏指拉比释经之学；Hofed-ben-Edar 指爱尔兰霍斯角（Howth / Ben Edar）。Cincinnatus 辛辛纳图斯为古罗马执政官，功成后退隐菜园躬耕（cabbaging 兼指种卷心菜与偷工减料）。红木（redwoodtree）与夏日午后勾勒未堕落前的伊甸园情境。Hag Chivychas Eve 拼缀希伯来语节日（Chag）或巫妪（hag）与追捕（chivvy）；旧说常引向住棚节前夕，亦兼有夏娃（Eve）双关；具体节日指向学界尚无定论，撤销住棚节定论，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i2-turnpike-earwuggers",
+      "lemma": "stumbled out hotface as he was (his sweatful bandanna loose from his pocketcoat) hasting to the forecourts of his public in topee, surcingle, solascarf and plaid, plus fours, puttees and bulldog boots ruddled cinnabar with flagrant marl, jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care... Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "汉弗莱盛装出迎，身着殖民防暑装备（topee 遮阳盔、solascarf 防晒巾）与乡绅狩猎服饰（plus fours 灯笼裤、puttees 绑腿）。在猎队侍从的长矛（pikes）丛中，他高擎挂有倒扣花盆的长杆。在英国传统园艺中，长杆倒扣装有干草的花盆是诱捕蠼螋（earwigs）的经典装置。方言“Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers”（不，陛下，俺方才不过是在抓那该死的蠼螋呢），音形上引向其“Earwicker”职业副名的由来猜测。撤销原报告“由此坐实”等确定语气，正文统一译为“蠼螋”，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i2-sailor-king-pouringrainia",
+      "lemma": "Our sailor king, who was draining a gugglet of obvious adamale, gift both and gorban... William the Conk on the spindle side... turned towards two of his retinue of gallowglasses, Michael, etheling lord of Leix and Offaly and the jubilee mayor of Drogheda, Elcock... Holybones of Saint Hubert how our red brother of Pouringrainia would audibly fume did he know that we have for surtrusty bailiwick a turnpiker who is by turns a pikebailer no seldomer than an earwigger!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "水手王（sailor king）学界传统指认英国国王威廉四世（早年曾服役于皇家海军）；adamale 杂揉清水（亚当之水）与麦芽酒。从句中 William the Conk 戏指征服者威廉（Conqueror / 大鼻子），母系（spindle side）遗传索菲亚太姑母之白发短指为汉诺威王室特征笑谈，为主句水手王打趣之修饰。gallowglasses 为爱尔兰中世纪重装武士。圣休伯特（Saint Hubert）为狩猎者主保圣人。Pouringrainia 拼缀普鲁士（Prussia）、第聂伯河古名（Borysthenia）与豪雨（pouring rain）。撤销此前关于王室封圣等定论，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i2-jom-pill-cladstone",
+      "lemma": "For he kinned Jom Pill with his court so gray and his haunts in his house in the mourning. (One still hears that pebble crusted laughta, japijap cheerycherrily, among the roadside tree the lady Holmpatrick planted and still one feels the amossive silence of the cladstone allegibelling: Ive mies outside Bourn.)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Jom Pill 戏拟坎伯兰传统著名猎歌《约翰·皮尔》（John Peel: \"D'ye ken John Peel with his coat so gray\"）。cladstone 融汇覆衣石、里程碑与英国首相格莱斯顿（Gladstone）。“Ive mies outside Bourn”谐拟都柏林五英里界碑铭文，兼指人生界限（bourn）。霍姆帕特里克夫人（Lady Holmpatrick）相传为都柏林当地种植道旁林荫树之名媛。撤销未经核实的具体碑石定论，作存疑推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "bilingual_alignment": [
+    {
+      "line_range": "030.01–030.11",
+      "english": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen (we are back in the presurnames prodromarith period, of course just when enos chalked halltraps) and discarding once for all those theories from older sources which would link him back with such pivotal ancestors as the Glues, the Gravys, the Northeasts, the Ankers and the Earwickers of Sidlesham in the Hundred of Manhood or proclaim him offsprout of vikings who had founded wapentake and seddled hem in Herrick or Eric, the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way.",
+      "chinese": "且说（关于艾丽斯·特里斯与百合猩暂且敛声少叙），论及哈罗德或汉弗莱·钦普登职业副名的由头（我等此刻已溯回尚无姓氏的先驱数算纪，恰是以挪士在门厅用粉笔画出落夹之时），且一举摒除旧书诸般附会——即妄图将他攀附于胶合氏、肉汁氏、东北氏、锚缆氏乃至男子汉百户区西德尔舍姆的埃尔威克诸显祖，抑或断言他为开辟兵械检阅区、安家赫里克或埃里克封邑的维京海盗苗裔；考据最确之本，即倒读《塔木德》之《埃达尔之子霍夫角录》，所载实乃如斯情状。"
+    },
+    {
+      "line_range": "030.11–030.19",
+      "english": "We are told how in the beginning it came to pass that like cabbaging Cincinnatus the grand old gardener was saving daylight under his redwoodtree one sultry sabbath afternoon, Hag Chivychas Eve, in prefall paradise peace by following his plough for rootles in the rere garden of mobhouse, ye olde marine hotel, when royalty was announced by runner to have been pleased to have halted itself on the highroad along which a leisureloving dogfox had cast followed, also at walking pace, by a lady pack of cocker spaniels.",
+      "chinese": "相传太初之际，一如忙种卷心菜的辛辛纳图斯，这位老园丁某闷热安息日午后，正值哈格·奇维查节前夕，正于大红木下惜取天光，享坠落前乐园宁谧，在乌合之舍兼老水兵客栈后园扶犁掘薯，忽有信使飞报：御驾驾临，正于大路驻跸；沿途正有一只闲逸公狐引路徐行，身后一群雌可卡犬踱步紧随。"
+    },
+    {
+      "line_range": "030.19–031.03",
+      "english": "Forgetful of all save his vassal's plain fealty to the ethnarch Humphrey or Harold stayed not to yoke or saddle but stumbled out hotface as he was (his sweatful bandanna loose from his pocketcoat) hasting to the forecourts of his public in topee, surcingle, solascarf and plaid, plus fours, puttees and bulldog boots ruddled cinnabar with flagrant marl, jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care.",
+      "chinese": "汉弗莱或哈罗德唯念臣仆对君长纯朴忠心，未及套轭备鞍，满面赤汗奔突而出（汗渍头巾从大衣口袋晃荡垂挂），顶着遮阳盔，束着肚带，围着防晒巾，披着格子呢，蹬着灯笼裤、绑腿与厚底牛头犬重靴，周身染透赤泥，如涂朱砂，一路摇响收费闸门钥匙，直奔酒肆前院；在狩猎侍从林立的长矛之间，他高高擎起一根长杆，顶端倒扣装土花盆，精心绑固，谨防倾坠。"
+    },
+    {
+      "line_range": "031.03–031.11",
+      "english": "On his majesty, who was, or often feigned to be, noticeably longsighted from green youth and had been meaning to inquire what, in effect, had caused yon causeway to be thus potholed, asking substitutionally to be put wise as to whether paternoster and silver doctors were not now more fancied bait for lobstertrapping honest blunt Haromphreyld answered in no uncertain tones very similarly with a fearless forehead: Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers.",
+      "chinese": "国王陛下自少时起便显远视之态（或常佯作远视），本欲盘问眼前大路何以坑洼遍布，此刻却换了话题，探问主祷文多钩绳与银色飞蝇如今是否为更称心的捕虾诱饵；老实耿直的哈伦弗雷德毫无怯容，扬起坦荡前额，语调洪亮，断然应道：“哪能啊，陛下，俺方才不过是在逮那该死的蠼螋呢。”"
+    },
+    {
+      "line_range": "031.11–031.28",
+      "english": "Our sailor king, who was draining a gugglet of obvious adamale, gift both and gorban, upon this, ceasing to swallow, smiled most heartily beneath his walrus moustaches and indulging that none too genial humour which William the Conk on the spindle side had inherited with the hereditary whitelock and some shortfingeredness from his greataunt Sophy, turned towards two of his retinue of gallowglasses, Michael, etheling lord of Leix and Offaly and the jubilee mayor of Drogheda, Elcock, (the two scatterguns being Michael M. Manning, protosyndic of Waterford and an Italian excellency named Giubilei according to a later version cited by the learned scholarch Canavan of Canmakenoise), in either case a triptychal religious family symbolising puritas of doctrina, business per usuals and the purchypatch of hamlock where the paddish preties grow and remarked dilsydulsily: Holybones of Saint Hubert how our red brother of Pouringrainia would audibly fume did he know that we have for surtrusty bailiwick a turnpiker who is by turns a pikebailer no seldomer than an earwigger!",
+      "chinese": "我等水手老王正仰脖痛饮一壶清水，权当贡物与圣献，闻言止住吞咽，海象浓髭下露出由衷笑意；他借着那股并不和善的幽默（如征服者威廉在母系一脉从太姑母索菲亚处遗传白发与短指那样），转向随从中的两名重装武士——莱克斯与奥法利领主麦克尔，以及德罗赫达禧年市长埃尔科克（依喧噪古寺学者卡纳万所引后世版本，双管枪护从实为沃特福德首席执政官迈克尔·曼宁与意大利贵胄朱比莱伊阁下），无论何版，均成三联宗教家族，象征教义纯正、照常营生与遍植爱尔兰土豆的毒芹庄田；老王戏谑道：“凭圣休伯特圣骨起誓，我等那满面通红的暴雨国弟兄若知我等忠信管区之内，竟有一位关卡守门人，其执矛卫道之勤，丝毫不逊于捕拿蠼螋，定当气得直冒粗烟！”"
+    },
+    {
+      "line_range": "031.28–031.33",
+      "english": "For he kinned Jom Pill with his court so gray and his haunts in his house in the mourning. (One still hears that pebble crusted laughta, japijap cheerycherrily, among the roadside tree the lady Holmpatrick planted and still one feels the amossive silence of the cladstone allegibelling: Ive mies outside Bourn.)",
+      "chinese": "盖因他深知约翰·皮尔与那灰色猎装，深知他清晨在宅邸出没的行迹。（人们至今仍听闻那碎石般的笑声，叽叽喳喳，欢快回荡于霍姆帕特里克夫人手植道旁林木之间；至今仍感应覆衣碑石苔痕深重的肃穆，仿佛无声宣告：距边界尚有五里。）"
+    }
+  ]
+}
