@@ -56,6 +56,101 @@
         "fw-i1-006-32"
       ],
       "processing": "按原顺序拼接，重编码为192 kbps MP3；未重新生成语音。"
+    },
+    {
+      "segment_id": "fw-i1-007-16",
+      "file": "fw-i1-007-16.mp3",
+      "original_sha256": "69fa1a801b388ed9c59114b585251f99c42877441068f483f6bbfd4f893f67df"
+    },
+    {
+      "segment_id": "fw-i1-008-06",
+      "file": "fw-i1-008-06.mp3",
+      "original_sha256": "82d3603fe903825e8793517c137c8e9d3e7a75772562c37385712bbff4b2ce94"
+    },
+    {
+      "segment_id": "fw-i1-010-25",
+      "file": "fw-i1-010-25.mp3",
+      "original_sha256": "1a5aa851700a1aefe8d5da477d00820e0618c900e2e4f175b7e14013bafe254e"
+    },
+    {
+      "segment_id": "fw-i1-012-18",
+      "file": "fw-i1-012-18.mp3",
+      "original_sha256": "3d2024bb8956786dc3176b44c28a8544d27dc16405a5a3b527721a51a4452e44"
+    },
+    {
+      "segment_id": "fw-i1-013-33",
+      "file": "fw-i1-013-33.mp3",
+      "original_sha256": "3ed21e32ed8bb6d39d2dfc317e0acab091391fb71fad740a403b4a24fb49d686"
+    },
+    {
+      "segment_id": "fw-i1-014-16",
+      "file": "fw-i1-014-16.mp3",
+      "original_sha256": "b96f543c3010fef135f7c743c527bdf1a2e0f949b22cfe0377b93fb4670e2b34"
+    },
+    {
+      "segment_id": "fw-i1-014-28",
+      "file": "fw-i1-014-28.mp3",
+      "original_sha256": "361f6ab91738f85cd18ce1ed69662bd5077eb6597d3eccbf84eaf886ef35ca7d"
+    },
+    {
+      "segment_id": "fw-i1-015-12",
+      "file": "fw-i1-015-12.mp3",
+      "original_sha256": "3ab4aeaec534e96952b81a4619b0d6fa2ef4dd825d315fff3f1367c735ed5be6"
+    },
+    {
+      "segment_id": "fw-i1-015-29",
+      "file": "fw-i1-015-29.mp3",
+      "original_sha256": "73650cd06910a75b6724ce54d6ed3358d2a54ff6b896f84a8bd5fbeacd1a53aa"
+    },
+    {
+      "segment_id": "fw-i1-016-10",
+      "file": "fw-i1-016-10.mp3",
+      "original_sha256": "d9c54b1167714e6d7343c62ec6efea7e69089a5a341fded4b6608b2b647aee8c"
+    },
+    {
+      "segment_id": "fw-i1-018-17",
+      "file": "fw-i1-018-17.mp3",
+      "original_sha256": "54352efc80ee0b8809e9bcc245494962260177f5d152b67ebc36606ccd8cfda5"
+    },
+    {
+      "segment_id": "fw-i1-019-20",
+      "file": "fw-i1-019-20.mp3",
+      "original_sha256": "b4c478f7847e59e14237f9c9ce5e214429d353b8aedd151067da1d25f264437f"
+    },
+    {
+      "segment_id": "fw-i1-021-05",
+      "file": "fw-i1-021-05.mp3",
+      "original_sha256": "0386ce26c6c66bf906f316322e4e77810a4df0228cd02b9297fc0c3f3fe45858"
+    },
+    {
+      "segment_id": "fw-i1-023-16",
+      "file": "fw-i1-023-16.mp3",
+      "original_sha256": "461c4c4fcf5ec95d8ad9eb78873d6931041b7eaa04240072a18c14853b911a9b"
+    },
+    {
+      "segment_id": "fw-i1-024-15",
+      "file": "fw-i1-024-15.mp3",
+      "original_sha256": "75d2072f784426656fdc51628757b32f345f2cb7e7f71a9f8fd4a461fb92a7e0"
+    },
+    {
+      "segment_id": "fw-i1-027-22",
+      "file": "fw-i1-027-22.mp3",
+      "original_sha256": "1c81ef9d1822c457918c1b76d625b53fd21221e9330f3f9e7da2675607e268db"
+    },
+    {
+      "segment_id": "fw-i1-028-35",
+      "file": "fw-i1-028-35.mp3",
+      "original_sha256": "57d720579285cc10394980441009b45c79901743b4c29544f09561a8ce0dd623"
+    },
+    {
+      "segment_id": "fw-i3-067-28",
+      "file": "fw-i3-067-28.mp3",
+      "original_sha256": "7ec001a0cc1f234eacf2af43139572ca2dff4f32d1b739946686a0cf84df4e84"
+    },
+    {
+      "segment_id": "fw-i3-072-17",
+      "file": "fw-i3-072-17.mp3",
+      "original_sha256": "c57d4a93bf4ca0e7fcc465d673fab738f56da089d69eb202124239fba1eea929"
     }
   ]
 }
