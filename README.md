@@ -148,7 +148,7 @@ JSON 章稿保存原文、初译和采用稿，Markdown、网页与 EPUB 从中�
 
 朗读采用 **GPT-SoVITS v4**，以 **Vertin（《重返未来：1999》角色音色）**合成英文原文。音频在本机预先生成，再转成 MP3；读者直接在网页播放，无需安装模型或提供 API 密钥。
 
-[生成脚本](scripts/generate_audio.py)默认选择 `sisyphus`：在 Vertin 基础上，以《西西弗神话》英语朗读语料微调语义与韵律，尝试保留沉稳英音及长句停顿。脚本优先加载 `Vertin-Sisyphus-v95.ckpt`，缺少时依次尝试 `Vertin-Sisyphus-e9.ckpt`、原版 `Vertin-e10.ckpt`，搭配 `Vertin_e2_s154_l32.pth` 声学权重；也可用 `--model vertin` 或 `--model vertin2` 切换。文件名 `v95` 不代表朗读准确率或音质评分。
+[生成脚本](scripts/generate_audio.py)默认选择 `sisyphus`：在 Vertin 基础上，以[《西西弗神话》](https://www.bilibili.com/video/BV1fSE4zBEox/)英语朗读语料微调语义与韵律，尝试保留沉稳英音及长句停顿。脚本优先加载 `Vertin-Sisyphus-v95.ckpt`，缺少时依次尝试 `Vertin-Sisyphus-e9.ckpt`、原版 `Vertin-e10.ckpt`，搭配 `Vertin_e2_s154_l32.pth` 声学权重；也可用 `--model vertin` 或 `--model vertin2` 切换。文件名 `v95` 不代表朗读准确率或音质评分。
 
 合成前按意群切分文本，再为 Joyce 生造词、雷词与多语拼缀补入[近似发音方案](scripts/joyce_phonetics.py)。这些处理属于项目试读，不代表作者指定读音，也不能还原全部谐音与多义。录音仍须逐段实听核对；模型权重、参考音频和训练语料不随网站发布。
 
