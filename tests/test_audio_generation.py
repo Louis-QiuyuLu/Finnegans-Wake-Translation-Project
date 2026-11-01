@@ -195,3 +195,76 @@ class CheckpointCompatibilityTests(unittest.TestCase):
         checkpoint = {'config': SimpleNamespace(model=SimpleNamespace(version='v4')), 'lora_rank': 32,
                       'weight': {'cfm.estimator.attn.to_q.lora_A.default.weight': object()}}
         self.assertEqual(api.checkpoint_model_kind(checkpoint, ('v1', 'v1', False)), ('v2', 'v4', True))
+
+
+class NumericSamples(list):
+    """Tiny ndarray stand-in; synthesis control-flow tests need no NumPy install."""
+    def astype(self, dtype):
+        return self
+
+    def mean(self):
+        return sum(self) / len(self)
+
+    def __mul__(self, other):
+        return NumericSamples(a * b for a, b in zip(self, other))
+
+
+class PunctuationGroupTests(unittest.TestCase):
+    def synthesize(self, groups):
+        import contextlib
+        import io
+        import math
+        from types import SimpleNamespace
+        from unittest.mock import patch
+        from scripts import joyce_phonetics
+
+        class TTS:
+            def __init__(self):
+                self.calls = []
+
+            def run(self, inputs):
+                self.calls.append(inputs['text'])
+                yield 48000, NumericSamples([1, -1])
+
+        numpy = SimpleNamespace(
+            zeros=lambda count, dtype: NumericSamples([0] * count),
+            int16='int16', float64='float64',
+            concatenate=lambda chunks: NumericSamples(item for chunk in chunks for item in chunk),
+            mean=lambda values: sum(values) / len(values), sqrt=math.sqrt,
+        )
+        tts = TTS()
+        with patch.dict('sys.modules', {'numpy': numpy}), \
+                patch.object(joyce_phonetics, 'segment_into_sense_groups', return_value=groups), \
+                contextlib.redirect_stdout(io.StringIO()):
+            sr, samples = api.synthesize_segment(tts, 'test text', Path('reference.wav'), 'reference')
+        return tts.calls, sr, samples
+
+    def test_standalone_dash_keeps_its_pause_without_calling_tts(self):
+        groups = [('Oh!', 0.12), ('—', 0.26), ('After.', 0.18)]
+        calls, sr, samples = self.synthesize(groups)
+        self.assertEqual(calls, ['Oh!', 'After.'])
+        expected = int(sr * 0.06) + 4 + int(sr * 0.12) + int(sr * 0.26) + int(sr * 0.4)
+        self.assertEqual(len(samples), expected)
+
+    def test_punctuation_at_segment_end_keeps_final_pause_floor(self):
+        calls, sr, samples = self.synthesize([('Word.', 0.12), ('—', 0.26)])
+        self.assertEqual(calls, ['Word.'])
+        self.assertEqual(len(samples), int(sr * 0.06) + 2 + int(sr * 0.12) + int(sr * 0.4))
+
+    def test_letters_numbers_and_symbols_are_never_skipped(self):
+        spoken = ['é', 'e\u0301', '—a—', '—９—', '2', 'Ⅳ', '×']
+        calls, _, _ = self.synthesize([(text, 0.01) for text in spoken] + [('“— … !”', 0.26)])
+        self.assertEqual(calls, spoken)
+
+    def test_real_069_30_keeps_every_spoken_group_and_every_pause(self):
+        from scripts.joyce_phonetics import segment_into_sense_groups
+        chapter = json.loads((SCRIPT.parents[1] / 'manuscript/chapters/I-3.json').read_text())
+        segment = next(s for s in chapter['segments'] if s['id'] == 'fw-i3-069-30')
+        groups = segment_into_sense_groups(segment['original'])
+        self.assertEqual(groups[57], ('—', 0.26))
+        calls, sr, samples = self.synthesize(groups)
+        self.assertEqual(calls, [text for i, (text, _) in enumerate(groups) if i != 57])
+        expected = int(sr * 0.06) + 2 * len(calls)
+        expected += sum(int(sr * (max(pause, 0.4) if i == len(groups) - 1 else pause))
+                        for i, (_, pause) in enumerate(groups))
+        self.assertEqual(len(samples), expected)

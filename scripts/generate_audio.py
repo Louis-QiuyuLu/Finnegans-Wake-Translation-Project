@@ -12,6 +12,7 @@ import os
 from pathlib import Path
 import subprocess
 import sys
+import unicodedata
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
@@ -147,6 +148,13 @@ def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, s
 
     for idx, (group_text, pause_sec) in enumerate(sense_groups):
         print(f"意群 {idx + 1}/{len(sense_groups)}: {group_text[:100]}", flush=True)
+        if idx == len(sense_groups) - 1:
+            pause_sec = max(pause_sec, 0.40)
+        if group_text.strip() and all(
+                char.isspace() or unicodedata.category(char).startswith("P") for char in group_text):
+            print(f"纯标点意群，保留 {pause_sec:.2f}s 停顿。", flush=True)
+            chunks.append(np.zeros(int(sr * pause_sec), dtype=np.int16))
+            continue
         inputs = {
             "text": group_text,
             "text_lang": "en",
@@ -176,10 +184,6 @@ def synthesize_segment(tts, original_text, ref_audio, prompt_text, speed=1.05, s
             chunks.append(group_audio)
         else:
             raise RuntimeError(f"意群未生成语音: {group_text[:100]}")
-
-        # 末尾标点停顿
-        if idx == len(sense_groups) - 1:
-            pause_sec = max(pause_sec, 0.40)
 
         chunks.append(np.zeros(int(sr * pause_sec), dtype=np.int16))
 
