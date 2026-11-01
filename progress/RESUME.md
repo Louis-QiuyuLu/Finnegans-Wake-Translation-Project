@@ -1,21 +1,21 @@
 # 续译断点
 
-更新：2026-11-01
+更新：2026-11-02
 
-当前顺序译章：**I.2 · 第一卷·第二章**。
+当前顺序译章：**II.1 · 第二卷·第一章**。
 
-下一段从 **030.01** 开始，原文锚句：
+下一段从 **219.01** 开始，原文锚句：
 
-> Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen
+> Every evening at lighting up o'clock sharp and until further notice in Feenichts Playhouse. (Bar and conveniences always open, Diddlem Club douncestears.)
 
 ## 已保存
 
 
 ## 未决问题
 
-- I.1正文003.01–029.36已核连续覆盖，共27页；本轮作AI首轮校订，非人工终审。
-- 新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。
-- I.2从030.01续译；开始前在见证本重核锚句，不沿用旧省略号锚句。
+- 第一卷I.1–I.8共91段、569条注释已录入；本轮Codex复核新交I.2–I.8并定点修正语义与注释问题，仍为revised、reviewers为空。
+- 全项目另有IV篇末1段4注，共92段573注；英文全本17章619正文页单独记录source_text，不计作中文完成。
+- 续译从II.1第219.01行锚句起；外部典故、词源与精确行号尚有复核限度，见本轮报告。第二卷临时底本包未经本轮逐段验收。
 
 ## 下次如何继续
 

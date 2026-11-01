@@ -1,0 +1,18 @@
+{
+  "chapter": "II.1",
+  "state": "in_progress",
+  "last_segment": null,
+  "translated_ranges": [],
+  "reviewed_segments": [],
+  "updated": "2026-11-02",
+  "next": [
+    219,
+    1
+  ],
+  "next_original": "Every evening at lighting up o'clock sharp and until further notice in Feenichts Playhouse. (Bar and conveniences always open, Diddlem Club douncestears.)",
+  "unresolved": [
+    "第一卷I.1–I.8共91段、569条注释已录入；本轮Codex复核新交I.2–I.8并定点修正语义与注释问题，仍为revised、reviewers为空。",
+    "全项目另有IV篇末1段4注，共92段573注；英文全本17章619正文页单独记录source_text，不计作中文完成。",
+    "续译从II.1第219.01行锚句起；外部典故、词源与精确行号尚有复核限度，见本轮报告。第二卷临时底本包未经本轮逐段验收。"
+  ]
+}

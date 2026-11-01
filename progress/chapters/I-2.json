@@ -1,18 +1,19 @@
 {
   "chapter": "I.2",
-  "state": "in_progress",
-  "last_segment": null,
-  "translated_ranges": [],
-  "reviewed_segments": [],
-  "updated": "2026-11-01",
-  "next": [
-    30,
-    1
+  "state": "completed",
+  "last_segment": "fw-i2-046-01",
+  "translated_ranges": [
+    "030.01–031.32",
+    "031.33–033.13",
+    "033.14–034.29",
+    "034.30–036.34",
+    "036.35–038.08",
+    "038.09–039.27",
+    "039.28–042.16",
+    "042.17–044.24",
+    "045.01–045.30",
+    "046.01–047.29"
   ],
-  "next_original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen",
-  "unresolved": [
-    "I.1正文003.01–029.36已核连续覆盖，共27页；本轮作AI首轮校订，非人工终审。",
-    "新增注释保proposal／uncertain，原页、历史指认及多语词源仍有未决项，见本轮r1报告。",
-    "I.2从030.01续译；开始前在见证本重核锚句，不沿用旧省略号锚句。"
-  ]
+  "reviewed_segments": [],
+  "updated": "2026-11-02"
 }

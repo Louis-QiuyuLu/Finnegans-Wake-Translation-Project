@@ -1,0 +1,606 @@
+{
+  "fw-i3-048-01": [
+    {
+      "id": "n-i3-48-chest-cee",
+      "lemma": "Chest Cee! 'Sdense! Corpo di barragio!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "男高音胸腔高音 C（Chest C），前接第二章末尾《皮尔斯·奥莱利歌谣》曲终余响；首字母 C.C. 呼应 H.C.E.；'Sdense 兼涉浓雾（it's dense）与旧式诅咒缩略（'Sdeath 等）；Corpo di barragio 叠合意大利语感叹词（Corpo di bacco 等）与火炮弹幕（barrage）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-48-blackfriars-treacle",
+      "lemma": "The Blackfriars treacle plaster outrage be liddled!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Blackfriars 指多明我会黑衣修士区；treacle plaster 指向黏稠糖浆膏药；be liddled 叠合盖上盖子（put a lid on）、轻描淡写（belittle）与《爱丽丝漫游仙境》原型姓氏 Liddell（书中另有蜜糖井故事）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-48-vergobretas-inkermann",
+      "lemma": "Vergobretas himself and the crowd of Caraculacticors",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Vergobretas 见于凯撒《高卢战记》，为高卢埃杜伊人最高执政官称号；Caraculacticors 变形自不列颠抗罗首领卡拉塔库斯（Caractacus / Caratacus）；后文 zouave players of Inkermann 则呼应克里米亚战争因克尔曼战役与军中剧团演出。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-48-eyrawygla-buckley",
+      "lemma": "Eyrawyggla saga",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "《埃尔威格拉萨迦》（Eyrawyggla saga）戏仿冰岛《埃尔比吉亚萨迦》（Eyrbyggja saga），并将主人公姓氏 Earwicker 植入其中；本段由此逐一交代歌谣传唱诸人（Osti-Fosti、A'Hara、Paul Horan、Sordid Sam、Langley、Father San Browne）的下落与消亡。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-50-we-all-hang-calomnequell",
+      "lemma": "a barefaced carmelite, to whose palpitating pulpit",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "barefaced 兼指不蓄须／赤面与厚颜无耻；carmelite 指加尔默罗会修士；语法核心为修士悸动的讲坛（palpitating pulpit），后接沉迷听道的社交界女妖（sinning society sirens）。前文 we-all-hang-together 戏仿本杰明·富兰克林名言，Calomnequiller's Pravities 则叠合诽谤（calumny）与败行（depravities）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-50-fuit-fuit",
+      "lemma": "jovesday and were they? Fuitfuit.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "jovesday 指朱庇特之日（星期四，对应拉丁语 dies Iovis 与雷神之日 Thursday）；Fuitfuit 重复拉丁语 fuit（曾存在／已成过去，前应上文各人物段尾的意大利语 Ei fù、丹麦语 Han var、爱尔兰语音转 Bhi she），同时拟声轻哨。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-050-33": [
+    {
+      "id": "n-i3-50-phishlin-phil",
+      "lemma": "When Phishlin Phil wants throws his lip 'tis pholly to be fortune flonting",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Phishlin Phil 借 ph 拼写串连吹口哨（whistling）、钓鱼（fishing）与爱尔兰歌曲《吹笛菲尔的舞会》（Phil the Fluter's Ball）；pholly 谐音愚蠢（folly），fortune flonting 叠合炫耀财运（flaunting fortune）与嘲弄命运。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-51-haberdasher-curchies",
+      "lemma": "the Haberdasher, the two Curchies and the three Enkelchums in their Bearskin ghoats!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "将公园奇遇化作鬼故事（ghoatstory，兼含山羊 goat 与幽灵 ghost）：Haberdasher（针线杂货商）指 HCE，two Curchies（两个行屈膝礼 curtsy／教堂 church 的姑娘）指两名少女，three Enkelchums in their Bearskin ghoats（三个戴熊皮帽／穿熊皮山羊大衣的脚踝伙伴／外孙）指三名士兵。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-52-spegulo-esperanto",
+      "lemma": "Spegulo ne helpas al malbellulo, Mi Kredas ke vi estas prava, Via dote la vizago rispondas fraulino",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "括号内嵌入三句世界语（含拼写变形）：Spegulo ne helpas al malbellulo（镜子帮不了丑人）、Mi Kredas ke vi estas prava（我相信你是对的）、Via dote la vizago rispondas fraulino（小姐，你的面容与你的嫁妆相称），夹在「记分」（scoretaking）之后，呼应镜像与求偶母题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-52-television-telephony",
+      "lemma": "Television kills telephony in brothers' broil. Our eyes demand their turn. Let them be seen!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "由听觉传闻转向视觉显像的转折句：电视（视觉）在兄弟阋墙中扼杀电话（听觉），眼睛要求轮到自己上场，召唤下文初代汉弗莱整套服饰行头逐件显形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-52-latitudinous-baver",
+      "lemma": "The first Humphrey's latitudinous baver with puggaree behind",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "初代汉弗莱的服饰清单以宽边海狸礼帽（latitudinous baver，即 beaver hat，后挂印度式防晒帽巾 puggaree）领起，依次列出四马挽具式领结（fourinhand bow）、宽大礼服大衣（elbaroom surtout）、姜黄色裤子（unmansionables）、石板灰雨伞、粗呢大衣（woolselywellesly，叠合 Wolseley 与 Wellesley 两位名将）与决斗长手套。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-52-desterre-tingmount-prigged",
+      "lemma": "the gauntlet upon the hand which in an hour not for him solely evil had struck down the might he mighthavebeen d'Esterre",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "指 1815 年丹尼尔·奥康奈尔（Daniel O'Connell）在决斗中击毙都柏林市政官诺科特·德埃斯特（Norcot d'Esterre）一事（奥康奈尔事后曾戴黑手套忏悔）；此处将汉弗莱的长手套置于击倒德埃斯特的那只手上。段末 tingmount 指都柏林维京议事丘（Thingmount），Prigged 双关偷窃／剽窃与抓获。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-053-07": [
+    {
+      "id": "n-i3-53-irish-visavis",
+      "lemma": "jauntyjogging, on an Irish visavis, insteadily with shoulder to shoulder Jehu will tell to Christianier",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "jauntyjogging 暗点爱尔兰双轮轻便马车（jaunting car），visavis 则指乘客面对面而坐的马车（vis-à-vis）；Jehu（《列王纪》中驱车狂奔的耶户）为马车夫代称，Christianier 指克里斯蒂安尼亚（奥斯陆旧称）居民，呼应HCE的北欧渊源与humphriad（戏仿《伊利亚特》的汉弗莱史诗）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-54-casaconcordia-parliaments",
+      "lemma": "ulemamen, sobranjewomen, storthingboys and dumagirls, as they pass its bleak and bronze portal of your Casaconcordia",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "将四方议事机构与人物性别年龄拼合：ulema（伊斯兰教法学者）、Sobranje（保加利亚国民议会）、Storting（挪威议会）、Duma（俄国杜马议会）；Casaconcordia（和谐之屋）反讽下文的巴别塔多语喧哗，bronze portal 亦呼应都柏林凤凰公园总督府或议会铜门。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-54-multilingual-greetings",
+      "lemma": "Huru more Nee, minny frickans? Hwoorledes har Dee det?",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "自此句至 Gomagh, thak 为穿行铜门者的多语寒暄与讨价还价连缀：含瑞典语（Huru mår ni, mina fröknar? 你们好吗，小姐们？）、丹麦—挪威语（Hvorledes har De det? 您近来如何？）、意大利语款目（1132 斯库多）、希腊语／印地语（茶、烤饼与黄油）、西葡语、爱尔兰语、拟声童语、法语、罗马尼亚语与葡萄牙语（Ismeme de bumbac e meias de portocallie 棉布内裤与橙色袜子）、匈牙利语（Kocsis, szabad? 马车夫，空车吗？）及爱尔兰语致谢（Go maith, thak / thanks）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-54-prise-of-a-liard",
+      "lemma": "Would you care to know the prise of a liard?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "liard 原为法国旧辅币（里亚尔铜币），此处双关说谎者（liar）与猪油（lard）；prise 兼指价格（price）与撬开／擒获（prise / prize）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-55-monument-boater-smile",
+      "lemma": "my guesthouse and cowhaendel credits will immediately stand ohoh open as straight as that neighbouring monument's fabrication",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "前应第二章 036.15–34 HCE 对烟斗客所发之誓（彼处作 before the Great Taskmaster's (I lift my hat!) 与威灵顿纪念碑），此处变奏为向宇宙作证、举起花一先令一便士买来的三色平顶草帽（tricoloured boater），并在大校长（Great Schoolmaster）面前收束于照相口令 Smile!。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-055-03": [
+    {
+      "id": "n-i3-55-house-atreox",
+      "lemma": "The house of Atreox is fallen indeedust (Ilyam, Ilyum! Maeromor Mournomates!)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Atreox 叠合古希腊悲剧阿特柔斯家族（House of Atreus）与公牛（ox / 拉丁语 atrox 残酷）；indeedust 将 indeed 与 into dust（化为尘土）嵌合；Ilyam, Ilyum 呼应特洛伊古称伊利昂（Ilium）；Maeromor Mournomates 叠合拉丁语哀伤（maeror）、爱尔兰语大哀（mór）与同悲的伙伴（mourn-mates）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-55-hen-whallrhos",
+      "lemma": "the hen and crusader everintermutuomergent",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "「母鸡与十字军战士」（hen and crusader）不断交互浮现（everintermutuomergent）；后文 whallrhosmightiadd 则将鲸（whale）、海象（walrus）与全能者（almighty）熔为一词，描摹鼓动家（Agitator）在暮色中的庞大剪影。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-56-bygning-traveller",
+      "lemma": "Inn the days of the Bygning would our Traveller remote, unfriended, from van Demon's Land",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Inn the days of the Bygning 戏仿《创世记》开篇（In the beginning），嵌客栈（Inn）与丹麦语／挪威语「建造、大厦」（bygning）；remote, unfriended 化用奥利弗·戈德史密斯长诗《漫游者》（The Traveller）首行「Remote, unfriended, melancholy, slow」（后文 Mr Melancholy Slow 再度呼应）；van Demon's Land 指塔斯马尼亚旧称范迪门之地（Van Diemen's Land，昔日流放地）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-56-formal-cause-kiwasti-porktroop",
+      "lemma": "Kiwasti, kisker, kither, kitnabudja?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "紧接亚里士多德「形式因」（formal cause）追问之后的一串跨语种疑问词，拟印地语／乌尔都语及斯拉夫语系疑问句式（为何、何人、何处、多少）；段末四方回应（Armagh、Clonakilty、Deansgrange、Barna）分别代表爱尔兰北、南、东、西四省，收束于 porktroop（叠合 park troop 公园巡兵与 pork 猪群）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-057-16": [
+    {
+      "id": "n-i3-57-unfacts",
+      "lemma": "Thus the unfacts, did we possess them, are too imprecisely few to warrant our certitude",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "以自造词 unfacts（非事实）领起本段对传闻与证词可靠性的怀疑：即便掌握这些「非事实」，也太过模糊稀少，不足以保证确信；下句 adjugers（审判者，約合三个士兵）与 judicandees（受审者／少女，负数成双）亦以数字错位强化荒诞。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-57-madams-toshowus",
+      "lemma": "Madam's Toshowus waxes largely more lifeliked (entrance, one kudos; exits, free)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Madam's Toshowus waxes 戏仿伦敦杜莎夫人蜡像馆（Madame Tussaud's Waxworks），字面拆解为「夫人给咱展示（to show us）蜡像（waxes）」；notional gullery 将国家美术馆（National Gallery）改写为「虚妄受骗画廊」（notional + gullery），后接贺拉斯《颂歌》名句 exegi monumentum aere perennius（我已筑起比青铜更恒久的纪念碑）之变形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-58-tapatagain-refuselers",
+      "lemma": "Tap and pat and tapatagain, (fire firstshot, Missiers the Refuseleers! Peingpeong! For saxonlootie!)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "戏仿 1745 年丰特努瓦战役（Battle of Fontenoy）中英法近卫军互让开火权的传世名言「Messieurs les gardes, tirez les premiers!」；Refuseleers 嵌合燧发枪步兵（Fusiliers）与拒绝者（refusers），引出下文走在都柏林红灯区蒙哥马利街（Montgomery Street）上的三名冷溪近卫军士兵（three tommix ... of the Coldstream. Guards）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-59-sevenchurches-dustman",
+      "lemma": "A dustman nocknamed Sevenchurches in the employ of Messrs Achburn, Soulpetre and Ashreborn, prairmakers, Glintalook",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Sevenchurches（七教堂）与 Glintalook 均指向威克洛郡古修道院遗址格伦达洛（Glendalough，素以「七教堂」闻名）；雇主名 Achburn, Soulpetre and Ashreborn 暗藏火药与灰烬（ash-burn、saltpetre 硝石、ash-reborn 灰中重生），呼应清道夫（dustman）身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-59-ginger-jane-lorry",
+      "lemma": "A more nor usually sober cardriver, who was jauntingly hosing his runabout, Ginger Jane, took a strong view. Lorry hosed her as he talked",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "Ginger Jane（红发简）是马车夫 Lorry（劳里，兼指货运马车 lorry）的轻便小马车（his runabout）之名，句尾 her 指代该车；本句末不加句号，直接跨段连入下一段首句「and this is what he told rewritemen:」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-059-27": [
+    {
+      "id": "n-i3-59-rewritemen-irewaker",
+      "lemma": "and this is what he told rewritemen: Irewaker is just a plain pink joint reformee in private life but folks all have it by brehemons laws he has parliamentary honours.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "承接上段末尾冲洗马车的车夫劳里，此处向报馆改稿员（rewritemen）转述市井评价。Irewaker 拼合激起怒火者（ire-waker）与埃尔威克（Earwicker）；brehemons laws 变形自爱尔兰古法「布雷恩法」（Brehon laws），与下句议会荣衔（parliamentary honours）并置。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-60-eiskaffier-tennises",
+      "lemma": "Eiskaffier said (Louigi's, you know that man's, brillant Savourain): Mon foie, you wish to ave some homelette, yes, lady!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Eiskaffier 杂糅法国名厨埃斯科菲耶（Auguste Escoffier）与德语冰咖啡（Eiskaffee）；brillant Savourain 谐音美食家布里亚-萨瓦兰（Brillat-Savarin）。话语以法、德、英三语双关：Mon foie（我的肝／凭我的信仰 Ma foi）、mein leber（我的肝／亲爱的 mein Lieber），借打破鸡蛋做煎蛋卷（homelette）影射汉pty Dumpty 式的跌落。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-60-wombwell",
+      "lemma": "Missioner Ida Wombwell, the seventeenyearold revivalist",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "十七岁的奋兴派传道女艾达·沃姆韦尔对公园骚扰风波发表感言，称「那个直立的家伙是个畜生！却是个了不起的畜生！」（That perpendicular person is a brut! But a magnificent brut!）。其姓 Wombwell 除字面「子宫／源泉之井」外，或亦呼应十九世纪英国巡回野兽展创办人 George Wombwell，与句末 brut（畜生／干型香槟）相映。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-61-sylvia-silence",
+      "lemma": "Have you evew thought, wepowtew, that sheew gweatness was his twadgedy?",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "说话者为少女侦探西尔维娅·赛伦斯（Sylvia Silence, the girl detective，源自二十世纪初英国少女连载故事侦探角色）。她将辅音 r 读作 w：wepowtew 即 reporter（记者），sheew gweatness 即 sheer greatness（纯粹的伟大），twadgedy 即 tragedy（悲剧）。她先反问是否「纯粹的伟大正是他的悲剧」，随即笔锋一转，主张依一八八五年《刑法修正案》（C. L. A. act 1885，即英国提高同意年龄并惩治风化犯罪之法案）第十一条第三十二款从严惩处。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-61-three-drummers-keysars",
+      "lemma": "three drummers down Keysars Lane. (Trite!).",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "海军水兵米格尔（Meagher）与两名未婚妻奎斯塔（Questa）、普埃拉（Puella）坐在新鱼市石座上乘凉交谈，既指责汉弗莱在霍尼曼山（Horniman's Hill）惹出两条天鹅绒大腿的风波，又怀疑裤子受围攻背后另有凯萨巷（Keysars Lane，都柏林中世纪街巷）那三名鼓手主使。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-061-28": [
+    {
+      "id": "n-i3-61-marchant-taylor",
+      "lemma": "Be these meer marchant taylor's fablings of a race referend with oddman rex? Is now all seenheard then forgotten?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "marchant taylor's 双关商贾裁缝行会（Merchant Taylors）与童话家编造（fablings）；oddman rex 结合公断人／替补工（odd man）与俄狄浦斯王（Oedipus Rex）。次句紧问「如今一切所见所闻，难道转眼便尽数遗忘？」（Is now all seenheard then forgotten?），质疑前文众说纷纭的市井证词。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-62-urovivla-pharoah",
+      "lemma": "first pharoah, Humpheres Cheops Exarchas, of their proper sins.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Humpheres Cheops Exarchas 嵌合 H.C.E. 首字母，将汉弗莱、埃及胡夫法老（Cheops）与拜占庭总督／主教（Exarch）叠合；前文叙述他流亡第七城 Urovivla、立下北欧杂语婚誓（For mine qvinne I thee giftake...），而翡翠岛（Emeraldilluim）万民却将自身罪责推到这位「初代法老」头上。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-62-amenti-sixth-seal",
+      "lemma": "reading our Amenti in the sixth sealed chapter of the going forth by black.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Amenti 指古埃及冥界；going forth by black 戏仿埃及《亡灵书》原题《白昼出行之书》（Book of Going Forth by Day），并与《启示录》揭开第六印（sixth seal）之黑夜异象相拼合。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-62-carman-glendalough",
+      "lemma": "Whenn the Waylayer (not a Lucalizod diocesan or even of the Glendalough see, but hailing fro' the prow of Little Britain)",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "括号以否定与转折（not ... or even ... but ...）交代拦路袭击者 Whenn the Waylayer 的来历：并非卢卡利佐德（Lucan + Chapelizod）教区或格伦达洛（Glendalough）主教辖区人氏，而是来自小不列颠街（Little Britain Street）。紧接着叙述者连用四个否定短句（No such parson. No such fender. No such lumber. No such race.）全盘推翻这段持枪拦路与壁炉围栏传闻。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-63-caught-emerods",
+      "lemma": "Haveyoucaught-emerod's temperance gateway",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Haveyoucaught-emerod's 谐音「你染上痔疮了吗」（Have you caught hemorrhoids / 钦定本圣经古词 emerods），同时嵌入爱尔兰翡翠岛（Emerald）与都柏林戒酒节制运动（temperance）纪念门。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-063-20": [
+    {
+      "id": "n-i3-63-parasoliloquisingly",
+      "lemma": "Yet how lamely hobbles the hoy of his then pseudojocax axplanation",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "段首 parasoliloquisingly 拼合阳伞（parasol）与独白（soliloquizing）；此处 pseudojocax axplanation 拼合假作戏谑的辩解（pseudo-jocular explanation）、哄骗（coax）与斧劈（axe）。涉案者辩称自己只是传票送达员（process server），拿大酒瓶（magnum bonum）磕门柱是为了开一瓶黑啤（a bottlop stoub），却遭客栈擦鞋侍役莫里斯·比恩（Maurice Behan）的证词驳斥。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-64-mormon-halls-musikants",
+      "lemma": "he dreamed that he'd wealthes in mormon halls",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "he'd wealthes in mormon halls 戏仿巴尔夫（Michael William Balfe）歌剧《波希米亚女郎》著名咏叹调〈我梦见自己住在大理石厅堂〉（I Dreamt I Dwelt in Marble Halls），将 marble 替换为摩门教／财神玛门（mormon / Mammon）。莫里斯·比恩继而作证，称门口巨响根本不像开酒瓶，倒像外国乐手（foreign musikants' instrumongs）演奏戒严《马赛曲》（martiallawsey marses）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-64-musketeers-cherchons-famme",
+      "lemma": "Filons, filoosh! Cherchons la flamme! Fammfamm! Fammfamm!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "上文 Alphos, Burkos and Caramis 变形自《三个火枪手》的阿托斯、波尔托斯、阿拉米斯；Cherchons la flamme! 改写法国俗谚「找女人」（Cherchez la femme!），将火焰（flamme）、女人（femme）与饥饿（faim）叠合。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-65-old-geeser-canoodle",
+      "lemma": "Take an old geeser who calls on his skirt.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "自此句至段末 Finny. 为嵌入正文的通俗歌舞唱段：老汉（old geeser / old grumpapar）向年轻姑娘求欢许愿，姑娘只想要彼得·罗宾逊百货店（Peter Robinson）的嫁妆现钞并嫌他太老（too dada for me to dance）；老汉暗地里却另有一位「二号姑娘」（gel number two），幻想与两女同乘梦幻救生艇兼独木舟亲热（canoodle 双关划独木舟 canoe 与搂抱温存）。末尾 Finny 兼涉 Finn、Finnegan、finny（多鱼／鱼翅）与拉丁语 finis（终结）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-065-34": [
+    {
+      "id": "n-i3-65-fender-bottle-bateau",
+      "lemma": "our mutual friends the fender and the bottle at the gate seem to be implicitly in the same bateau",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "叙述者将前两段出现的两桩传闻证物——062.36 的「壁炉围栏」（the fender）与 063.30 的「门口酒瓶」（the bottle at the gate）——并置在同一条船（bateau）上。紧接其后的 Federals' Uniteds' Transports' Unions' for Exultations' of Triumphants' Ecstasies 七词首字母连缀为拉丁语祈使式 FUTUETE。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-66-chain-envelope-edenberry",
+      "lemma": "a huge chain envelope, written in seven divers stages of ink, from blanchessance to lavandaiette, every pothook and pancrook bespaking the wisherwife, superscribed and subpencilled by yours A Laughable Party, with afterwite, S.A.G., to Hyde and Cheek, Edenberry, Dubblenn, WC?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "连环信封（chain envelope）预告全书核心「信件」母题：A Laughable Party 嵌合 A.L.P. 首字母；S.A.G. 为天主教信封常见祈祷缩写「圣安东尼引路」（Saint Anthony Guide）；Hyde and Cheek 双关《化身博士》（Jekyll and Hyde）与捉迷藏（hide and seek）；底本词形作 Edenberry, Dubblenn, WC（融汇爱尔兰城镇 Edenderry、伊甸园 Eden 与都柏林 Dublin，前稿据错词指认伊甸码头之说已撤回）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-66-coffin-handharp",
+      "lemma": "The coffin, a triumph of the illusionist's art, at first blench naturally taken for a handharp",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "从奥茨曼叔侄五金店（Oetzmann and Nephew，伦敦及都柏林著名家具五金商）运出的棺材，乍看之下让人错认作一架手竖琴（handharp）；括号内 jubabe、jabule、tubote 变形自《创世记》4:20–22 的雅巴尔（Jabal）、犹巴尔（Jubal，一切弹琴吹箫之人祖）与土巴该隐（Tubal-cain，铜铁匠之祖）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "n-i3-67-oxagiants-peeler-phizz",
+      "lemma": "And Phelps was flayful with his peeler. But his phizz fell.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本段末记录特警长腿拉利·托布基茨（Long Lally Tobkids）控告送肉屠夫踢门，以及麦克帕特兰（MackPartland）向汤姆金斯夫人（Madam Tomkins）行礼反驳「您已深陷大错，没过膝盖了」（You are deepknee in error）。末句 peeler 指英国首相罗伯特·皮尔创立的巡警（亦双关削皮器），phizz fell 指面孔（physiognomy）或气泡（fizz）垮落。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-067-28": [
+    {
+      "id": "fw-i3-067-28-n01",
+      "lemma": "From velveteens to dimities",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "粗平绒（velveteens）与细条棉纱（dimities）分属厚重外装与轻薄内衣织物，「相距不过五指一掌」（barely a fivefinger span）借衣料对比引出芦苇洼地两名女子（Lupita Lorette 与 Luperca Latouche）的传闻；两人名号首字母均为 L. L.，并嵌合母狼（拉丁语 lupa）与洛雷托（Loreto）等回声。前稿 `fw-i3-067-28-n02` 将 Lupita Lorette 坐实为罗拉·蒙特斯并断言服石炭酸自尽系十九世纪都柏林普遍轻生方式之说无文献依据，已予撤除。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-i3-067-28-n03",
+      "lemma": "hot coney a la Zingara",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "coney 字面指兔肉（英语俗语亦借指女性身体），a la Zingara 为吉普赛风味烹调名；后半句 our own little Graunya of the chilired cheeks dished up to the greatsire of Oscar, that son of a Coole 呼应爱尔兰芬尼亚传说中格兰尼亚（Gráinne）与库尔之子芬恩（Finn MacCool，即奥斯卡之祖父）及迪尔姆德（Diarmuid，下文 dearmud）的三角纠葛。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-i3-067-28-n04",
+      "lemma": "turn wheel again to the whole of the wall",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "紧接前句反问「敲诈勒索（levy of black mail）难道不正是紧随那桩私下流传的隐秘罪行盛名而来的吗？」，叙述者将话头转回高墙与墙洞（whole of the wall 双关 the whole of the wall 与 the hole of the wall），重返汉弗莱围墙堡垒的视角。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-i3-067-28-n05",
+      "lemma": "triplepatlockt on him on purpose by his faithful poorters to keep him inside probably",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "庄园装上苹果木大门（applegate）后，忠心的看门人兼搬运工（faithful poorters，双关 porters 与 poor）故意将铁栅门缺口加上三重挂锁（triplepatlockt），把主人关在屋内，以免他在百姓的「蛋日」（eggday，双关复活节与 Humpty Dumpty 坠墙之日）挺胸外出闲逛、招人投掷泥块（freely clodded）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-069-30": [
+    {
+      "id": "i3-betreffender-fall-adams",
+      "lemma": "Herr Betreffender, out for his zimmer holedigs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "德语 Betreffender 意为「当事人／有关人员」，zimmer holedigs 拼合德语房间（Zimmer）与英语假日／租屋（holidays / digs）。这位来自奥地利（Osterich）的商务记者下榻莱克斯利普（Laxlip，双关爱尔兰语「三文鱼跃」Leixlip 与松弛嘴唇），用夹杂破碎德语的爱尔兰土腔（broguen eeriesh myth brockendootsch），为《法兰克福支线报》（Frankofurto Siding，变形自 Frankfurter Zeitung）采写《亚当堕落案》（Der Fall Adams）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-visitor-davy-titus-oates",
+      "lemma": "Humphrey's unsolicited visitor, Davy or Titus",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "汉弗莱的不速之客名为戴维或泰特斯（Davy or Titus），下文 blew some quaker's (for you! Oates!) in through the houseking's keyhole 将英国十七世纪「教皇阴谋案」伪证告密者泰特斯·奥茨（Titus Oates）与贵格会燕麦片（Quaker Oats）叠合；此人继而从上午十一点半至下午两点在门外连珠炮般叫骂。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-ear-dionysius-conservatory",
+      "lemma": "Earwicker, that patternmind, that paradigmatic ear, receptoretentive as his of Dionysius",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "his of Dionysius 指西西里叙拉古采石场著名的「狄奥尼修斯之耳」（Ear of Dionysius）回音石窟。紧接其后的括号插叙（we have been compelled for the rejoicement of foinne loidies ... by Josephine Brewster in the collision known as Contrastations with Inkermann ...）戏仿出版编纂声明，随后引出整串辱骂诨号清单。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-catalogue-111-abusive-names",
+      "lemma": "Firstnighter, Informer, Old Fruit, Yellow Whigger",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "自 Firstnighter 至段末 Deposed 的辱骂名录，若按逗号切分共 112 个短语片段；若将带有内部逗号的「You're Welcome to Waterfood, signed the Ribbonmen」计作同一条具名诨号，则共 111 项（名录内亦嵌有 And at Number Wan Wan Wan 一项）。本段句尾在 Deposed 后接连词 but，径直跨入下一段首词 anarchistically，句法并未在 Deposed 处终结。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i3-072-17": [
+    {
+      "id": "i3-passive-resistance-kimmage",
+      "lemma": "anarchistically respectsful of the liberties of the noninvasive individual, did not respond a solitary wedgeword beyond such sedentarity",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "首词 anarchistically 承接上段末尾连词 but。面对门外叫骂，汉弗莱未回敬半句顶嘴之词（wedgeword），也未拨打基米奇外区（Kimmage Outer）17.67 号电话。下文 touchin his woundid feelins in the fuchsiar 中，in the fuchsiar 兼具场所「倒挂金钟花丛间」（fuchsia，呼应上段他静坐的温室花园 conservatory）与时间「日后」（in the future）双重声义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-cocoa-nobodyatall-wholyphamous",
+      "lemma": "like Potts Fracture did with Keddle Flatnose and nobodyatall with Wholyphamous and build rocks over him",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "上文 to cocoa come outside to Mockerloo 以口吃重复（co-co-come outside，同时与下文 be Cacao Campbell 构成可可豆双关）叫阵，勒令汉弗莱滚出屋外到滑铁卢／莫克卢（Mockerloo）应战。此处 nobodyatall（无人／乌有先生，即《奥德赛》卷九奥德修斯自报之化名 Outis）与 Wholyphamous（赫赫有名的独眼巨人波吕斐摩斯 Polyphemus，双关 wholly famous 与 holy）主客分明：奥德修斯刺瞎并击败波吕斐摩斯，巨人随后投掷巨石。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-bully-acre-siege-closing",
+      "lemma": "And thus, with this rochelly exetur of Bully Acre, came to close that last stage in the siegings round our archicitadel",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "rochelly exetur 拼合拉罗歇尔围城（La Rochelle）、英国埃克塞特（Exeter）与戏剧退场指令（exit / exeunt）；Bully Acre 指都柏林皇家医院旁古老平民墓地「恶霸英亩」（Bully's Acre）。句末 Dog-an-Doras 音译自爱尔兰语 deoch an dorais（临门辞别酒）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-chambered-cairns-arthur-roland",
+      "lemma": "his mighty horn skall roll, orland, roll.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "前文列举霍斯角（Howth）、库洛克（Coolock）、恩尼斯凯里（Enniskerry）周边的分室石冢（chambered cairns），将沉睡地下的巨汉与芬恩（some Finn, some Finn avant!，兼谐新芬党 Sinn Féin）、亚瑟王（Arthurhonoured）及吹响号角的罗兰／奥兰多（orland，呼应《罗兰之歌》）相叠合。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-allprohome-animadiabolum",
+      "lemma": "For in those deyes his Deyus shall ask of Allprohome and call to himm: Allprohome! And he make answer: Add some. Nor wink nor wunk. Animadiabolum, mene credidisti mortuum?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Allprohome 双关亚伯拉罕（Abraham）与「众生之父／全归家园」（all pro home）；Add some 谐音拉丁语点名应答词 Adsum（「我在此」，见《创世记》22:1 亚伯拉罕应答天主呼唤）。Animadiabolum, mene credidisti mortuum? 为拉丁文「魔鬼的灵魂啊，难道你以为我已经死了吗？」，呼应《芬尼根守灵夜》民谣中死而复生的尸首向守灵众人发出的质问。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i3-humph-in-doge-rain-sdops",
+      "lemma": "Humph is in his doge. Words weigh no no more to him than raindrips to Rethfernhim. Which we all like. Rain. When we sleep. Drops. But wait until our sleeping. Drain. Sdops.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "上句 Fengless, Pawmbroke, Chilblaimend and Baldowl 将都柏林四处郊区（Finglas、Pembroke、Kilmainham、Baldoyle）化作巨汉僵冷的四肢。Humph is in his doge 兼涉威尼斯总督（Doge）、老迈昏聩（dotage）与打盹（doze）；Rethfernhim 变形自都柏林南郊拉斯法纳姆（Rathfarnham）。章末自 Rain. 至 Sdops. 共六个句号短句单位（若自 Humph is in his doge. 起算则共九个句号单位）：Drain. Sdops. 通过辅音移位（spoonerism）将 Rain. Drops. 与 Stops 交错重组，在雨滴排干与话音止息中收束全章。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "id": "I.2",
+  "book": "I",
+  "number": 2,
+  "pages": [
+    30,
+    47
+  ],
+  "title": "第一卷·第二章",
+  "coverage": "complete",
+  "segments": [
+    {
+      "id": "fw-i2-030-01",
+      "locator": "030.01–031.32",
+      "range": [
+        30,
+        1,
+        31,
+        32
+      ],
+      "source_id": "joyce-fp",
+      "original": "Now (to forebare for ever solittle of Iris Trees and Lili O'Rangans), concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen (we are back in the presurnames prodromarith period, of course just when enos chalked halltraps) and discarding once for all those theories from older sources which would link him back with such pivotal ancestors as the Glues, the Gravys, the Northeasts, the Ankers and the Earwickers of Sidlesham in the Hundred of Manhood or proclaim him offsprout of vikings who had founded wapentake and seddled hem in Herrick or Eric, the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way. We are told how in the beginning it came to pass that like cabbaging Cincinnatus the grand old gardener was saving daylight under his redwoodtree one sultry sabbath afternoon, Hag Chivychas Eve, in prefall paradise peace by following his plough for rootles in the rere garden of mobhouse, ye olde marine hotel, when royalty was announced by runner to have been pleased to have halted itself on the highroad along which a leisureloving dogfox had cast followed, also at walking pace, by a lady pack of cocker spaniels. Forgetful of all save his vassal's plain fealty to the ethnarch Humphrey or Harold stayed not to yoke or saddle but stumbled out hotface as he was (his sweatful bandanna loose from his pocketcoat) hasting to the forecourts of his public in topee, surcingle, solascarf and plaid, plus fours, puttees and bulldog boots ruddled cinnabar with flagrant marl, jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care. On his majesty, who was, or often feigned to be, noticeably longsighted from green youth and had been meaning to inquire what, in effect, had caused yon causeway to be thus potholed, asking substitutionally to be put wise as to whether paternoster and silver doctors were not now more fancied bait for lobstertrapping honest blunt Haromphreyld answered in no uncertain tones very similarly with a fearless forehead: Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers. Our sailor king, who was draining a gugglet of obvious adamale, gift both and gorban, upon this, ceasing to swallow, smiled most heartily beneath his walrus moustaches and indulging that none too genial humour which William the Conk on the spindle side had inherited with the hereditary whitelock and some shortfingeredness from his greataunt Sophy, turned towards two of his retinue of gallowglasses, Michael, etheling lord of Leix and Offaly and the jubilee mayor of Drogheda, Elcock, (the two scatterguns being Michael M. Manning, protosyndic of Waterford and an Italian excellency named Giubilei according to a later version cited by the learned scholarch Canavan of Canmakenoise), in either case a triptychal religious family symbolising puritas of doctrina, business per usuals and the purchypatch of hamlock where the paddish preties grow and remarked dilsydulsily: Holybones of Saint Hubert how our red brother of Pouringrainia would audibly fume did he know that we have for surtrusty bailiwick a turnpiker who is by turns a pikebailer no seldomer than an earwigger! For he kinned Jom Pill with his court so gray and his haunts in his house in the mourning. (One still hears that pebble crusted laughta, japijap cheerycherrily, among the roadside tree the lady Holmpatrick planted and still one feels the amossive silence of the cladstone allegibelling: Ive mies outside Bourn.)",
+      "draft": "如今（且为鸢尾木与百合猩暂敛言语），论及哈罗德或汉弗莱·钦普登职业副名之渊源（我等此时已溯回无姓氏的前驱结绳纪，恰值以挪士以白垩在厅堂暗井画道记历），且一举摒除旧典诸般附会——即妄图将其攀连于胶合氏、肉汁氏、东北氏、泊锚氏乃至人道百户区西德尔舍姆埃尔威克诸显祖，抑或断言其系开辟兵械检阅区、安家赫里克或埃里克封邑的维京海盗苗裔；考据最确之本，即倒读《塔木德》之《本埃达尔霍斯角录》，所载实乃如斯光景。人道太初创世之际，一如种白菜的辛辛纳图斯，这位老园丁正于大红木下惜取天光。时值某酷热安息日午后，恰逢住棚围猎前夕，正享堕落前乐园宁谧，他在乌合之舍兼老水兵客栈后园扶犁掘薯，忽有信使飞报：御驾驾临，正于公道驻跸。沿途正有一只闲逸雄狐带路徐行，身后一群母可卡犬信步紧随。汉弗莱或哈罗德唯念臣仆对君长之纯朴忠悃，未暇套轭备鞍，满面赤热奔突而出（汗渍头巾从外套衣袋晃荡垂挂），顶着遮阳盔，束着肚带，围着防暑巾，披着格子呢，蹬着灯笼裤、绑腿与厚底牛头犬重靴，刺目红泥染透周身，如涂朱砂，一路摇响收费闸门钥匙，直奔公馆前坪；在狩猎扈从林立的长矛之间，高高擎起一根长杆，顶端倒扣着一只装泥花盆，严加绑缚，谨防倾坠。国王陛下自少壮起即显远视之疾（或常佯作远视），本欲盘问眼前大路何以坑洼遍布，却借题探问：主祷文多钩线与银色飞蝇，如今是否成了更称心的捕虾钓饵？老实耿直之哈伦弗雷德毫无惧色，抬起坦荡前额，语调朗朗，直截应道：“回禀皇上，俺方才不过是在逮那该死的耳夹子地蚕呢。”我等水手老王正仰脖痛饮一长颈陶壶清水，权当贡礼与奉献之物，闻言立止吞咽，海象浓髭下爆出由衷欢笑；顺带施展母系一脉从太姑母索菲亚处遗传之白发、短指与微刻薄谐谑，转向身后两名持斧重甲侍从——莱克斯与奥法利两邑领主麦克尔，以及德罗赫达的禧年市长埃尔科克（依喧噪古寺硕学卡纳万所引后世版本，双枪护从实为沃特福德首席执政官迈克尔·曼宁与意大利贵胄朱比莱伊阁下），无论何版，均成三联宗教家族，象征教义纯正、照常营生与遍植爱尔兰土豆的毒芹庄田；老王轻佻打趣道：“凭圣休伯特圣骨起誓，我等那满面通红的暴雨国弟兄若知我等股肱封邑之内，竟有一位关卡守门人，其执矛卫道之勤，丝毫不逊于捕拿地蚕，定当气得直冒粗烟！”盖因他深知约翰·皮尔与那阴森法庭，深知其宅邸在服丧清晨之鬼影游荡。（人们至今依稀可闻那碎石摩擦般欢笑，叽叽喳喳，欢畅跃动于霍姆帕特里克夫人手植道旁林木之间；至今仍能感应覆衣碑石苔痕深重之肃穆，仿佛无声宣告：距边界尚有五里。）",
+      "translation": "且说（关于艾丽斯·特里斯与百合猩暂且敛声少叙），论及哈罗德或汉弗莱·钦普登职业副名的由头（我们此刻已溯回尚无姓氏的先驱数算纪，恰是以挪士在门厅用粉笔画出落夹之时），且一举摒除旧书诸般附会——即妄图将他攀附于胶合氏、肉汁氏、东北氏、锚缆氏乃至男子汉百户区西德尔舍姆的埃尔威克诸显祖，抑或断言他为开辟兵械检阅区、安家赫里克或埃里克封邑的维京海盗苗裔；考据最确之本，即倒读《塔木德》之《埃达尔之子霍夫角录》，所载实乃如斯情状。相传太初之际，一如忙种卷心菜的辛辛纳图斯，这位老园丁在某个闷热安息日午后，正值哈格·奇维查节前夕，于大红木下惜取天光，享坠落前乐园宁谧，在乌合之舍兼老水兵客栈后园扶犁掘薯，忽有信使飞报：御驾驾临，正于大路驻跸；沿途有一只闲逸公狐引路徐行，身后一群雌可卡犬踱步紧随。汉弗莱或哈罗德唯念臣仆对君长的纯朴忠心，未及套轭备鞍，满面赤汗奔突而出（汗渍头巾从大衣口袋晃荡垂挂），顶着遮阳盔，束着肚带，围着防晒巾，披着格子呢，蹬着灯笼裤、绑腿与厚底牛头犬重靴，周身染透赤泥，如涂朱砂，一路摇响收费闸门钥匙，直奔酒肆前院；在狩猎侍从林立的长矛之间，他高高擎起一根长杆，顶端倒扣装土花盆，精心绑固，谨防倾坠。国王陛下自少时起便显远视之态（或常佯作远视），本欲盘问眼前大路何以坑洼遍布，此刻却换了话头，探问主祷文多钩绳与银色飞蝇如今是否为更称心的捕虾诱饵；老实耿直的哈伦弗雷德毫无怯容，扬起坦荡前额，语调洪亮，依样断然应道：“哪能啊，陛下，俺方才不过是在逮那该死的蠼螋呢。”我们的水手老王正仰脖痛饮一壶清水，权当贡物与圣献，闻言止住吞咽，海象浓髭下露出由衷笑意；他纵情发作起那股并不和善的幽默——这股幽默是大鼻威廉在母系一脉连同家传白发与几分短指从太姑母索菲亚处一并承受来的——随即转向随从中的两名重装武士：莱克斯与奥法利领主麦克尔，以及德罗赫达禧年市长埃尔科克（依喧噪古寺学者卡纳万所引后世版本，这两名散弹枪护从实为沃特福德首席执政官迈克尔·M·曼宁与意大利贵胄朱比莱伊阁下），无论何版，均成三联宗教家族，象征教义纯正、照常营生与遍植爱尔兰土豆的毒芹庄田；老王慢条斯理地戏谑道：“凭圣休伯特圣骨起誓，我们那满面通红的暴雨国弟兄若知我们忠信管区之内，竟有一位关卡守门人，其执矛清道之勤，丝毫不逊于捕拿蠼螋，定当气得直冒粗烟！”盖因他深知约翰·皮尔与那灰色庭院，深知他服丧之时在宅邸出没的行迹。（人们至今仍听闻那碎石般的笑声，叽叽喳喳，欢快回荡于霍姆帕特里克夫人手植道旁林木之间；至今仍感应覆衣碑石苔痕深重的肃穆，仿佛无声宣告：距边界尚有五里。）",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-agnomen-prodromarith",
+          "lemma": "concerning the genesis of Harold or Humphrey Chimpden's occupational agnomen (we are back in the presurnames prodromarith period, of course just when enos chalked halltraps)",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Iris Trees 字面作鸢尾树，或兼涉英国女诗人 Iris Tree；Lili O'Rangans 似拼合百合（lily）、红毛猩猩（orangutan）与奥兰治党人（Orangemen）。agnomen 指古罗马人第四名号（副名）。prodromarith 似拼合前驱（prodrome）与算术（arithmetic），指姓氏确立前的先驱数算期。enos chalked halltraps 字面作以挪士在门厅用粉笔画下落夹，enos 或联想《创世记》4:26 塞特之子以挪士（Enos）或以诺（Enoch）。以上双关与典故均为本项目依词形提出的推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-sidlesham-wapentake",
+          "lemma": "discarding once for all those theories from older sources which would link him back with such pivotal ancestors as the Glues, the Gravys, the Northeasts, the Ankers and the Earwickers of Sidlesham in the Hundred of Manhood or proclaim him offsprout of vikings who had founded wapentake and seddled hem in Herrick or Eric",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "原文“discarding once for all”表明叙述者在此排除旧书对 HCE 家系的附会之说。Glues（胶）、Gravys（肉汁）、Northeasts（东北）、Ankers（锚）均将日常词作氏族姓氏；西德尔舍姆（Sidlesham）与男子汉百户区（Hundred of Manhood）为英格兰萨塞克斯郡地名。wapentake 指英格兰古代丹麦法区行政与兵械检阅区；seddled hem in Herrick or Eric 借方言拼写指维京人定居封邑。叙述者排除上述世系假说，转而引述下文园丁版本。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-dumlat-cincinnatus",
+          "lemma": "the best authenticated version, the Dumlat, read the Reading of Hofed-ben-Edar, has it that it was this way",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Dumlat 字母倒排即 Talmud（《塔木德》）；Hofed-ben-Edar 以闪语人名格式改写都柏林霍斯角古名（Howth / Ben Edar）。下文 Cincinnatus（辛辛纳图斯）为古罗马退隐躬耕的执政官，cabbaging 兼涉种卷心菜与裁缝偷布。redwoodtree（红木）与 prefall paradise peace 勾勒坠落前乐园景象。Hag Chivychas Eve 含巫妪（hag）、追猎（chivvy chase）与前夕／夏娃（Eve）等字面回声，或亦涉希伯来语节期（Chag），具体节令指向证据不足，正文保守音译。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-turnpike-earwuggers",
+          "lemma": "jingling his turnpike keys and bearing aloft amid the fixed pikes of the hunting party a high perch atop of which a flowerpot was fixed earthside hoist with care",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "汉弗莱仓促出迎，身着热带防暑与乡绅狩猎杂糅服饰（topee 遮阳盔、solascarf 防晒巾、plus fours 灯笼裤、puttees 绑腿），手摇收费闸门钥匙，在随从长矛（pikes）间高举顶端倒扣装土花盆的长杆。园艺习俗常在长杆顶端倒扣塞草花盆以诱捕蠼螋（earwigs）。其方言答话“Naw, yer maggers, aw war jist a cotchin on thon bluggy earwuggers”（哪能啊，陛下，俺方才不过是在逮那该死的蠼螋呢）以 earwuggers 呼应 Earwicker 副名由来的传闻。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-sailor-king-pouringrainia",
+          "lemma": "indulging that none too genial humour which William the Conk on the spindle side had inherited with the hereditary whitelock and some shortfingeredness from his greataunt Sophy",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "sailor king（水手王）或联想曾服役于海军的英王威廉四世；adamale 拼合亚当之水（Adam's ale，即清水）与麦芽酒（ale）。关系从句中，William the Conk 字面作“大鼻威廉”（conk 俚语指鼻子），或兼戏拟征服者威廉（William the Conqueror）；关系代词 which 回指 humour，表明这股并不和善的幽默连同家传白发（whitelock）与短指（shortfingeredness）在母系一脉（spindle side）由太姑母索菲亚（Sophy）一并传来。gallowglasses 指爱尔兰中世纪重装雇佣兵；Saint Hubert 为狩猎主保圣人。Pouringrainia 字面作“暴雨国”（pouring rain），或兼涉普鲁士（Prussia）与波美拉尼亚（Pomerania）等国名谐音，属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-jom-pill-cladstone",
+          "lemma": "For he kinned Jom Pill with his court so gray and his haunts in his house in the mourning. (One still hears that pebble crusted laughta, japijap cheerycherrily, among the roadside tree the lady Holmpatrick planted and still one feels the amossive silence of the cladstone allegibelling: Ive mies outside Bourn.)",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Jom Pill with his court so gray 谐拟坎伯兰猎狐歌《约翰·皮尔》（John Peel: \"D'ye ken John Peel with his coat so gay\"），将猎装（coat so gay）改写为灰暗庭院或法庭（court so gray），并将清晨（in the morning）改写为服丧（in the mourning）。cladstone 拼合覆苔石碑与英国首相格莱斯顿（Gladstone）；Ive mies outside Bourn 似戏拟“距界五英里”（Five miles outside...）里程碑铭文，Bourn 兼指溪流与终界。以上均为本项目依字面声形提出的解释。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-031-33",
+      "locator": "031.33–033.13",
+      "range": [
+        31,
+        33,
+        33,
+        13
+      ],
+      "source_id": "joyce-fp",
+      "original": "Comes the question are these the facts of his nominigentilisation as recorded and accolated in both or either of the collateral andrewpaulmurphyc narratives. Are those their fata which we read in sibylline between the fas and its nefas? No dung on the road? And shall Nohomiah be our place like? Yea, Mulachy our kingable khan? We shall perhaps not so soon see. Pinck poncks that bail for seeks alicence where cumsceptres with scentaurs stay. Bear in mind, son of Hokmah, if so be you have metheg in your midness, this man is mountain and unto changeth doth one ascend. Heave we aside the fallacy, as punical as finikin, that it was not the king kingself but his inseparable sisters, uncontrollable nighttalkers, Skertsiraizde with Donyahzade, who afterwards, when the robberers shot up the socialights, came down into the world as amusers and were staged by Madame Sudlow as Rosa and Lily Miskinguette in the pantalime that two pitts paythronosed, Miliodorus and Galathee. The great fact emerges that after that historic date all holographs so far exhumed initialled by Haromphrey bear the sigla H.C.E. and while he was only and long and always good Dook Umphrey for the hungerlean spalpeens of Lucalizod and Chimbers to his cronies it was equally certainly a pleasant turn of the populace which gave him as sense of those normative letters the nickname Here Comes Everybody. An imposing everybody he always indeed looked, constantly the same as and equal to himself and magnificently well worthy of any and all such universalisation, every time he continually surveyed, amid vociferatings from in front of Accept these few nutties! and Take off that white hat!, relieved with Stop his Grog and Put It in the Log and Loots in his (bassvoco) Boots, from good start to happy finish the truly catholic assemblage gathered together in that king's treat house of satin alustrelike above floats and footlights from their assbawlveldts and oxgangs unanimously to clapplaud (the inspiration of his lifetime and the hits of their careers) Mr Wallenstein Washington Semperkelly's immergreen tourers in a command performance by special request with the courteous permission for pious purposes the homedromed and enliventh performance of the problem passion play of the millentury, running strong since creation, A Royal Divorce, then near the approach towards the summit of its climax, with ambitious interval band selections from The Bo' Girl and The Lily on all horserie show command nights from his viceregal booth (his bossaloner is ceilinged there a cuckoospit less eminent than the redritualhoods of Maccabe and Cullen) where, a veritable Napoleon the Nth, our worldstage's practical jokepiece and retired cecelticocommediant in his own wise, this folksforefather all of the time sat, having the entirety of his house about him, with the invariable broadstretched kerchief cooling his whole neck, nape and shoulderblades and in a wardrobe panelled tuxedo completely thrown back from a shirt well entitled a swallowall, on every point far outstarching the laundered clawhammers and marbletopped highboys of the pit stalls and early amphitheatre. The piece was this: look at the lamps. The cast was thus: see under the clock. Ladies circle: cloaks may be left. Pit, prommer and parterre, standing room only. Habituels conspicuously emergent.",
+      "draft": "问题随之而来：此等记录于安德鲁-保罗-墨菲旁系双本叙事并获御准推重者，究竟是否为其得名封族之实据？我等于神律正邪之隙以女先知神谕读出者，究竟是否为其宿命？道旁果真全无马粪残渣？尼希米古邑果真足为我等安身之地？抑或马拉基至高王真可为我等临朝汗王？我等恐难立见分晓。法警乒乓交锋，在那王杖权标与半人马侍卫驻跸之处申领执照。智慧之子切记，腹中若有智识嚼子勒定，当明此人雄峻如山，凡欲攀登者必历尽变易造化。且抛开那既弄巧又琐屑之谬说——声称当年驾临者并非国王本尊，而是其形影不离之姊妹，彻夜饶舌之夜语者山鲁佐德与多尼娅扎德；待后来强盗枪击名流社交圈，二女下凡俗世充当戏子，由萨德洛夫人以罗莎与百合·米斯丹盖艺名搬上皮特父子赞助之哑剧《海利奥多鲁斯与伽拉忒亚》。重大史实赫然浮现：自那具有历史意义之日以后，凡迄今出土由哈伦弗雷手签之一切亲笔信札手稿，尽皆署有巨字暗码 H.C.E.；而在卢卡利索德面黄肌瘦之乞儿与密友眼中，他长久以来固然始终只是施粥之好心汉弗莱公爵与密友钦伯斯，市井大众赋予这组规约字母最妙趣横生之谐解，则是将其呼作全城妇孺皆知之绰号：“人人到场先生”！他举手投足端的是堂皇恢弘之众生法相，始终如一，与自身恒等，绝不辱没一切普遍化称颂；每一次他俯瞰台下，在前排“尝尝这几颗硬坚果！”、“摘掉那顶大白帽！”等喧嚣叫骂，以及“停其烈酒”、“记入日志”、低音长嚎“鞋底藏赃”之杂沓声浪中，从开场至终局巡视那齐聚王家剧院缎面光辉浮灯与脚灯上方、自各处叫驴荒野与二牛庄田涌入城中齐声击掌喝彩之真正普世民众（此乃其毕生灵感与伶人职业生涯巅峰），欣赏瓦伦斯坦·华盛顿·森珀凯利先生常青巡回剧团应特别御请、准作虔敬之用的客场助兴呈演——自创世以来盛演不衰、此时正奔向高潮之千禧受难问题剧《王室婚变》，以及马术展之夜由其准总督包厢管弦乐团雄心勃勃奏响之《波希米亚少女》与《基拉尼百合》间奏选段（其包厢华盖天顶虽比麦凯布与库伦两位红衣主教大红祭披稍显矮了一口唾沫）。在此处，俨如第 N 号真拿破仑，我等世界大舞台之恶作剧活宝兼退休凯尔特喜剧伶人，这位万民老祖恒常端坐，满门妇孺围坐身旁，常年摊开宽幅大手绢护抚后颈、颈窝与肩胛以纳凉，身穿硬挺衣柜嵌板般大礼服，前襟全然敞开，露出足称“吞纳万物”之阔面衬衫，全方位教池座与早期露天看台上浆洗硬挺之燕尾服与阔少仕绅相形见绌。好戏如斯：且看排灯。演职如斯：且看钟下布告。淑女包厢：外袍可存。池座、长廊与花厅：尽皆满员，只余站席。熟客纷然现身，济济一堂。",
+      "translation": "问题随之而来：这些记录在安德鲁-保罗-墨菲旁系双本或单本叙事中并获核准并列的情节，果真是他得名入族的实情吗？我们在神律合法与非法之隙按女先知神谕读出的，果真是他们的宿命吗？路上果真没有马粪？尼希米果真会成为我们的归宿之地？马拉基果真会成为我们堪作君王的可汗？我们恐怕未必能很快见分晓。乒乓交锋，在那权杖与半人马驻留之处具保申领执照。智慧之子切记，倘若你心中有嚼子勒定，当知此人如山，凡攀登者必历尽变迁。且撇开那既弄巧又琐碎的谬说——即声称当年驾临者并非国王本人，而是他那形影不离的姊妹、口若悬河的彻夜健谈者山鲁佐德与多尼娅扎德；待后来强盗洗劫社交名流，二女沦落风尘充当艺人，由萨德洛夫人以罗莎与莉莉·米斯廷格特的艺名，搬上那出由两位皮特出资赞助的哑剧《米利奥多鲁斯与伽拉忒亚》。有桩要紧事实随之浮现：自那历史性日子以后，迄今出土、由哈伦弗雷签署首字母的一切亲笔手稿，均带有符号 H.C.E.；尽管在卢卡利佐德饥肠辘辘的散工眼里，他向来始终只是“好汉弗莱公爵”，在老友口中则唤作“钦伯斯”，坊间大众却同样妙趣横生，按这几个标准字母的字义给他起了个绰号：“人人皆来”。他瞧上去也确实始终是一派堂皇的“人人”气象，恒常与自身同一而相等，完全配得上任何这一类普遍化称誉；每逢他在前排“收下这几颗坚果吧！”与“摘掉那顶白帽子！”的喧哗声中——间或穿插着“停掉他的掺水烈酒”、“记进航海日志”以及低音高吼“靴里藏赃”的起哄——从圆满开场到欢喜结局，自始至终俯瞰那群真正包罗万象的会众：众人自叫驴荒原与二牛庄田涌来，齐聚于那座浮灯与脚灯上方闪烁缎面光泽的王家招宴剧场，一致鼓掌喝彩（这既是他们演艺生涯的巅峰，也是他毕生的灵感源泉），观赏瓦伦斯坦·华盛顿·森珀凯利先生麾下常青巡回剧团应特别请求、获虔敬用途之礼貌准许而作的御前演出——即那出创世以来长演不衰、此刻正逼近高潮顶峰的千年难题受难剧《王室婚变》第一百一十一回跑马场式盛演，并在所有马术展御前演出之夜，由他那准总督包厢（他那独坐包厢的天顶，仅比麦凯布与库伦两位红衣主教的红礼帽略低一口唾沫）伴以雄心勃勃的中场乐队选段《波希米亚少女》与《百合花》。这位万民老祖俨然是第 N 世拿破仑，是我们世界舞台上的恶作剧活宝兼自成一格的退休凯尔特喜剧伶人；他始终端坐包厢，合家老小环绕身旁，照例摊开宽手帕为整个脖颈、后颈窝与肩胛纳凉，身上那件衣柜嵌板般的无尾晚礼服从一件名副其实堪称“吞纳万物”的衬衫前彻底敞开，在每一处细节上都远比池座与早期圆形看台上那些浆洗硬挺的燕尾服与大理石面高脚柜式绅士更为笔挺夺目。剧目如下：请看排灯。演员表如下：请看钟下。女宾包厢：可寄存斗篷。池座、散步廊与正厅后座：仅余站席。常客赫然涌现。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-nominigentilisation-fata",
+          "lemma": "Comes the question are these the facts of his nominigentilisation as recorded and accolated in both or either of the collateral andrewpaulmurphyc narratives. Are those their fata which we read in sibylline between the fas and its nefas? No dung on the road? And shall Nohomiah be our place like? Yea, Mulachy our kingable khan?",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "nominigentilisation 拼合拉丁语 nomen（名字）与 gentilis（氏族），指得名入族；andrewpaulmurphyc 连缀常见教名与姓氏（Andrew, Paul, Murphy），戏拟民间旁系叙事。fas（神律允许）与 nefas（神律禁忌）为罗马宗教法律术语，与 fata（宿命）呼应。Nohomiah 与 Mulachy 在字面上似变形自《尼希米记》（Nehemiah，兼嵌 no home）与爱尔兰古王名马拉基（Malachi），属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-hokmah-scheherazade",
+          "lemma": "Bear in mind, son of Hokmah, if so be you have metheg in your midness, this man is mountain and unto changeth doth one ascend.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Hokmah 为希伯来语“智慧”；metheg 指希伯来圣经吟诵中的次重音与延音符号（字面意为马嚼子）。下文 Skertsiraizde 与 Donyahzade 变形自《一千零一夜》讲故事的姊妹山鲁佐德（Scheherazade）与多尼娅扎德（Dunyazad）；Rosa and Lily Miskinguette 兼涉双女名字与法国歌舞女伶 Mistinguett，pantalime 拼合哑剧（pantomime）与酸橙（lime）。以上跨语与剧场联想均为本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-here-comes-everybody",
+          "lemma": "The great fact emerges that after that historic date all holographs so far exhumed initialled by Haromphrey bear the sigla H.C.E. and while he was only and long and always good Dook Umphrey for the hungerlean spalpeens of Lucalizod and Chimbers to his cronies it was equally certainly a pleasant turn of the populace which gave him as sense of those normative letters the nickname Here Comes Everybody.",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "本句交代 H.C.E. 字母缩写的三种称呼：在卢卡利佐德（Lucalizod，拼合 Lucan 与 Chapelizod）饥瘦散工（spalpeens）眼中，他被唤作“好汉弗莱公爵”（good Dook Umphrey，英语俗语 to dine with Duke Humphrey 意为挨饿没饭吃，原文并无施粥动作）；在老友（cronies）口中，他被唤作“钦伯斯”（Chimbers，变形自 Chimpden）；而大众则按 H.C.E. 三个字母将他戏称为 Here Comes Everybody（人人皆来）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-theatre-royal-divorce",
+          "lemma": "A Royal Divorce, then near the approach towards the summit of its climax, with ambitious interval band selections from The Bo' Girl and The Lily on all horserie show command nights from his viceregal booth (his bossaloner is ceilinged there a cuckoospit less eminent than the redritualhoods of Maccabe and Cullen)",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "前文 Accept these few nutties、Take off that white hat、Stop his Grog 等均为剧场观众起哄口号。A Royal Divorce（《王室婚变》）为 W. G. Wills 编写的拿破仑与约瑟芬题材通俗剧；The Bo' Girl 与 The Lily 似指巴尔夫歌剧《波希米亚少女》（The Bohemian Girl）与本尼迪克特歌剧《基拉尼的百合花》（The Lily of Killarney）。Maccabe 与 Cullen 或指十九世纪都柏林天主教枢机主教 Edward McCabe 与 Paul Cullen。以上剧目与人物指涉属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-napoleon-swallowall",
+          "lemma": "in a wardrobe panelled tuxedo completely thrown back from a shirt well entitled a swallowall, on every point far outstarching the laundered clawhammers and marbletopped highboys of the pit stalls and early amphitheatre. The piece was this: look at the lamps. The cast was thus: see under the clock. Ladies circle: cloaks may be left. Pit, prommer and parterre, standing room only. Habituels conspicuously emergent.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "swallowall（吞纳万物）戏改燕尾服（swallowtail），clawhammers 亦为燕尾服俚称。段末连用剧场布告与节目单短句（排灯、钟下演员表、女宾存衣处、池座与站席），最后一词 Habituels conspicuously emergent 首字母再次构成 H.C.E. 缩写。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-033-14",
+      "locator": "033.14–034.29",
+      "range": [
+        33,
+        14,
+        34,
+        29
+      ],
+      "source_id": "joyce-fp",
+      "original": "A baser meaning has been read into these characters the literal sense of which decency can safely scarcely hint. It has been blurtingly bruited by certain wisecrackers (the stinks of Mohorat are in the nightplots of the morning), that he suffered from a vile disease. Athma, unmanner them! To such a suggestion the one selfrespecting answer is to affirm that there are certain statements which ought not to be, and one should like to hope to be able to add, ought not to be allowed to be made. Nor have his detractors, who, an imperfectly warmblooded race, apparently conceive him as a great white caterpillar capable of any and every enormity in the calendar recorded to the discredit of the Juke and Kellikek families, mended their case by insinuating that, alternately, he lay at one time under the ludicrous imputation of annoying Welsh fusiliers in the people's park. Hay, hay, hay! Hoq, hoq, hoq! Faun and Flora on the lea love that little old joq. To anyone who knew and loved the christlikeness of the big cleanminded giant H. C. Earwicker throughout his excellency long vicefreegal existence the mere suggestion of him as a lustsleuth nosing for trouble in a boobytrap rings particularly preposterous. Truth, beard on prophet, compels one to add that there is said to have been quondam (pfuit! pfuit!) some case of the kind implicating, it is interdum believed, a quidam (if he did not exist it would be necessary quoniam to invent him) abhout that time stambuling haround Dumbaling in leaky sneakers with his tarrk record who has remained topantically anonymos but (let us hue him Abdullah Gamellaxarksky) was, it is stated, posted at Mallon's at the instance of watch warriors of the vigilance committee and years afterwards, cries one even greater, Ibid, a commender of the frightful, seemingly, unto such as were sulhan sated, tropped head (pfiat! pfiat!) waiting his first of the month froods turn for thatt chopp pah kabbakks alicubi on the old house for the chargehard, Roche Haddocks off Hawkins Street. Lowe, you blondy liar, Gob scene you in the narked place and she what's edith ar home defileth these boyles! There's a cabful of bash indeed in the homeur of that meal. Slander, let it lie its flattest, has never been able to convict our good and great and no ordinary Southron Earwicker, that homogenius man, as a pious author called him, of any graver impropriety than that, advanced by some woodwards or regarders, who did not dare deny, the shomers, that they had, chin Ted, chin Tam, chinchin Taffyd, that day consumed their soul of the corn, of having behaved with ongentilmensky immodus opposite a pair of dainty maidservants in the swoolth of the rushy hollow whither, or so the two gown and pinners pleaded, dame nature in all innocency had spontaneously and about the same hour of the eventide sent them both but whose published combinations of silkinlaine testimonies are, where not dubiously pure, visibly divergent, as wapt from wept, on minor points touching the intimate nature of this, a first offence in vert or venison which was admittedly an incautious but, at its wildest, a partial exposure with such attenuating circumstances (garthen gaddeth green hwere sokeman brideth girling) as an abnormal Saint Swithin's summer and, (Jesses Rosasharon!) a ripe occasion to provoke it.",
+      "draft": "有人将更卑污之含义附会于此等字母，其字面丑陋令体面之人难启其齿。某些饶舌狂徒四处嚷嚷（莫霍拉之恶臭正潜伏于清晨阴谋），妄断他染有花柳恶疾。真我天灵在上，剥夺其体面！面对此等无耻谰言，唯一自重之答辩便是严正声明：世上确有若干言论根本不应存在；且容人们补上一句：根本不该获准宣之于口！诋毁者这帮冷血之辈，俨然将他构陷为一条能犯下恶名录上一切滔天罪愆之大白毛毛虫，其行径直教朱克与凯利卡克退化劣族相形失色；他们妄言他在人民公园骚扰威尔士皇家燧发枪兵，同样无济于补强其讼词。嘿呀，嘿呀，嘿！嚎呀，嚎呀，嚎！草地上的半羊林神与花仙女最爱这桩古老笑话。凡在其漫长洁白、毫无劣迹之准总督任上熟知并敬爱这位宽厚圣洁大巨人 H. C. 埃尔威克之人，闻听此等声称其为在圈套中嗅探是非的色欲侦探之诬蔑，无不觉其荒诞至极。凭先知胡须起誓，实情迫使人们补叙：当年确曾有过（呸！呸！）牵涉某无名之辈（若无此人，亦必因由捏造一具）之类似案由；此人身负案底，穿着漏水球鞋在都柏林四处游荡，隐其真容（且称其为阿卜杜拉·加梅拉夏尔克斯基），据传曾在纠察队警士敦促下遭马伦警局通缉；多年后，更有甚者长嚎，此君在霍金斯街老罗奇黑线鳕酒馆引颈企盼，单等月初配给之碎肉排果腹。“看哪，你这金发骗子，上帝在暗处盯着你呢，家里那泼妇正败坏这些疮疤！”这顿残羹冷炙里端的是盛满窝囊羞恼。诽谤即便极尽平铺直叙之能事，亦休想坐实我等伟大良善、卓尔不群之南部绅士埃尔威克（某虔敬作家称其为‘天生纯粹之人’）犯下任何比这更重的失检——几名林苑巡守官（泰德、汤姆、塔菲德三守卫心虚不敢否认，当天曾狂饮谷物烈酒）指控他于芦苇丛生之深凹低洼处，面对一双娇俏女仆，举止有失绅士体统、略显放浪；两名围裙侍女亦辩称，完全出于造化天真，适逢黄昏同一时辰前往解手；而其公开发表、如丝毛交织之证词，即便并非动机堪疑，在触及隐秘真相之细节处亦大相径庭，一如干涸迥异于啼泣；此节至多不过是侵犯林木猎鹿特权之初犯，诚属失慎鲁莽，穷极推论，亦不过是在异常酷热的圣斯威辛盛夏——且伴有极易诱发此举之大好时机（耶西之根与沙仑玫瑰啊！）等减轻罪责之情势下——稍微暴露体肤而已。",
+      "translation": "有人从这些字母中读出了更卑劣的含义，其字面意思体面人几乎难以启齿。某些自作聪明的饶舌之徒大肆张扬（清晨的密谋里满是莫霍拉的恶臭），声称他染有恶疾。阿特玛，教他们规矩点！面对此类暗示，唯一自重的回答便是断言：有些话根本不该说；而且人们还巴不得能补上一句：根本不该容许人说出口。诋毁他的人显然是一群热血未全的族类，把他看作一条白胖大毛虫，能干出朱克与凯利卡克家族恶名录上记载的一切滔天丑事；他们转而又含沙射影，说他曾一度蒙受在人民公园骚扰威尔士燧发枪兵的荒唐罪名，这同样无助于弥补他们的说辞。嘿，嘿，嘿！嗬，嗬，嗬！草地上的牧神与花神最爱这桩老笑话。对于任何在他漫长无瑕的准总督生涯中熟知并敬爱这位心地洁净、基督般的大巨人 H·C·埃尔威克的人来说，单是暗示他是个在愚人陷阱里四处嗅探麻烦的猎艳侦探，听上去就荒谬绝伦。凭先知的胡须起誓，实情迫使我们补叙一句：据传往昔确曾有过（呸！呸！）某一桩同类案件，有时人们认为此案牵涉某人（倘若世上并无此人，既然如此也非捏造一个不可）——那阵子此人背着黑案底，穿一双漏水胶鞋在都柏林四处游荡，至今在地方志上仍无名无姓（且让我们把他涂抹为阿卜杜拉·加梅拉夏尔克斯基），据称曾在纠察队警士的敦促下被张榜通缉于马伦警署；多年后，更有位大人物高呼，“同上”（这位号称统领畏惧者的头目，对那班苏丹般饱饫之徒而言似是如此）垂头丧气（随他去吧！随他去吧！），在霍金斯街旁老字号“罗奇黑线鳕”酒馆某处，苦等月初轮到他领那份老主顾赊账的碎肉排加卷心菜。“洛，你这金发骗子，上帝在暗处瞧见你了，家里那个伊迪丝正玷污这些脓疮呢！”那顿饭食的滋味里确实装满了一马车的羞臊。诽谤哪怕把谎撒得再平铺直叙，也从未能够坐实我们善良伟大、非同凡响的南方人埃尔威克（一位虔诚作者称他为“纯一不二之人”）犯有比这更重的失检——那是由几名林苑巡守或视察官提出的（泰德、汤姆、塔菲德这几名看守干杯复干杯，自己也不敢否认当天曾痛饮谷物烈酒），指控他在芦苇丛生的洼地闷热阴凉处，对着一对娇俏女仆举止有失绅士体统；照那两名穿长裙戴围裙的侍女辩称，纯粹出于造化天真，她俩恰好在黄昏同一时辰不约而同被自然召唤到彼处；然而她们公开发表、如丝毛混纺般的证词组合，即便不算纯属可疑，在触及这桩林木与鹿肉特权初犯的隐秘性质等细枝末节上，也明显互相龃龉，有如干湿殊途：这诚然是一次失慎之举，但往最狂野处说，也不过是在反常的圣斯威辛盛夏（翠园吐绿处，自由农迎娶俏女郎）、兼有（耶西之根与沙仑玫瑰啊！）极易诱发此事的成熟机缘等减轻情节下，稍微露了点肉体罢了。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-baser-meaning-mohorat",
+          "lemma": "A baser meaning has been read into these characters the literal sense of which decency can safely scarcely hint. It has been blurtingly bruited by certain wisecrackers (the stinks of Mohorat are in the nightplots of the morning), that he suffered from a vile disease. Athma, unmanner them!",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "谣言传述者称有人从 H.C.E. 字母中读出更卑劣的含义，指称他染有“恶疾”（vile disease）。Mohorat 词源未详（或联想伊斯兰历穆哈兰姆月 Muharram 或东方地名），Athma 兼涉梵语“我／灵”（Atman）与哮喘（asthma）。随后叙述者以维多利亚式道德训诫口吻宣称某些言论“根本不该容许人说出口”。以上词源与双关解释属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-caterpillar-welsh-fusiliers",
+          "lemma": "a great white caterpillar capable of any and every enormity in the calendar recorded to the discredit of the Juke and Kellikek families, mended their case by insinuating that, alternately, he lay at one time under the ludicrous imputation of annoying Welsh fusiliers in the people's park. Hay, hay, hay! Hoq, hoq, hoq! Faun and Flora on the lea love that little old joq.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "诋毁者将 HCE 比作“白胖大毛虫”，并提及 Juke and Kellikek families——此名似借用十九至二十世纪初美国优生学调查虚构的“朱克家族”（The Jukes）与“凯利卡克家族”（The Kallikak Family）退化案例贬称。people's park（人民公园）在都柏林语境中常联想凤凰公园，Welsh fusiliers 指威尔士燧发枪兵；Faun and Flora 双关罗马农牧神与花神，以及动植物群（fauna and flora）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-abdullah-mallon",
+          "lemma": "if he did not exist it would be necessary quoniam to invent him) abhout that time stambuling haround Dumbaling in leaky sneakers with his tarrk record who has remained topantically anonymos but (let us hue him Abdullah Gamellaxarksky) was, it is stated, posted at Mallon's at the instance of watch warriors of the vigilance committee",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "“if he did not exist it would be necessary quoniam to invent him”戏拟伏尔泰论上帝的名言（Si Dieu n'existait pas, il faudrait l'inventer）。叙述者把公园案归咎于一个穿漏水胶鞋游荡都柏林（Dumbaling，兼涉伊斯坦布尔 Stamboul）的无名替罪羊“阿卜杜拉·加梅拉夏尔克斯基”。Mallon's 或指十九世纪都柏林大都会警察局侦探督察 John Mallon，属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-rushy-hollow-maidservants",
+          "lemma": "some woodwards or regarders, who did not dare deny, the shomers, that they had, chin Ted, chin Tam, chinchin Taffyd, that day consumed their soul of the corn, of having behaved with ongentilmensky immodus opposite a pair of dainty maidservants in the swoolth of the rushy hollow",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "原文叙述几名林苑巡守官（woodwards or regarders，希伯来语 shomer 亦意为守望者）泰德（Ted）、汤姆（Tam）、塔菲德（Taffyd，常见英、苏、威昵称）指控埃尔威克在芦苇洼地两名女仆面前举止有失绅士体统，同时指出这几名看守自己也不敢否认当天喝了谷物烈酒（soul of the corn）。本句仅陈述看守饮酒与提出指控，并未断言他们醉酒窥视或坐实案情。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-vert-venison-swithin",
+          "lemma": "touching the intimate nature of this, a first offence in vert or venison which was admittedly an incautious but, at its wildest, a partial exposure with such attenuating circumstances (garthen gaddeth green hwere sokeman brideth girling) as an abnormal Saint Swithin's summer and, (Jesses Rosasharon!) a ripe occasion to provoke it.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "vert or venison 为英国古代森林法术语（林木权与猎鹿权）。叙述者替埃尔威克辩护，称即使在最狂野的估计下，此事也只是在反常的圣斯威辛盛夏（Saint Swithin's Day 为7月15日）与《雅歌》“沙仑的玫瑰”（Rose of Sharon）式诱因下的“部分暴露”（partial exposure）。注释保留原句辩护语气，不将控方传闻坐实为定案。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-034-30",
+      "locator": "034.30–036.34",
+      "range": [
+        34,
+        30,
+        36,
+        34
+      ],
+      "source_id": "joyce-fp",
+      "original": "We can't do without them. Wives, rush to the restyours! Ofman will toman while led is the lol. Zessid's our kadem, villapleach, vollapluck. Fikup, for flesh nelly, el mundo nov, zole flen! If she's a lilyth, pull early! Pauline, allow! And malers abushed, keep black, keep black! Guiltless of much laid to him he was clearly for once at least he clearly expressed himself as being with still a trace of his erstwhile burr and hence it has been received of us that it is true. They tell the story (an amalgam as absorbing as calzium chloereydes and hydrophobe sponges could make it) how one happygogusty Ides-of-April morning (the anniversary, as it fell out, of his first assumption of his mirthday suit and rights in appurtenance to the confusioning of human races) ages and ages after the alleged misdemeanour when the tried friend of all creation, tigerwood roadstaff to his stay, was billowing across the wide expanse of our greatest park in his caoutchouc kepi and great belt and hideinsacks and his blaufunx fustian and ironsides jackboots and Bhagafat gaiters and his rubberised inverness, he met a cad with a pipe. The latter, the luciferant not the oriuolate (who, the odds are, is still berting dagabout in the same straw bamer, carryin his overgoat under his schulder, sheepside out, so as to look more like a coumfry gentleman and signing the pledge as gaily as you please) hardily accosted him with: Guinness thaw tool in jew me dinner ouzel fin? (a nice how-do-you-do in Poolblack at the time as some of our olddaisers may still tremblingly recall) to ask could he tell him how much a clock it was that the clock struck had he any idea by cock's luck as his watch was bradys. Hesitency was clearly to be evitated. Execration as cleverly to be honnisoid. The Earwicker of that spurring instant, realising on fundamental liberal principles the supreme importance, nexally and noxally, of physical life (the nearest help relay being pingping K. O. Sempatrick's Day and the fenian rising) and unwishful as he felt of being hurled into eternity right then, plugged by a softnosed bullet from the sap, halted, quick on the draw, and replyin that he was feelin tipstaff, cue, prodooced from his gunpocket his Jurgensen's shrapnel waterbury, ours by communionism, his by usucapture, but, on the same stroke, hearing above the skirling of harsh Mother East old Fox Goodman, the bellmaster, over the wastes to south, at work upon the ten ton tonuant thunderous tenor toller in the speckled church (Couhounin's call!) told the inquiring kidder, by Jehova, it was twelve of em sidereal and tankard time, adding, buttall, as he bended deeply with smoked sardinish breath to give more pondus to the copperstick he presented, (though this seems in some cumfusium with the chapstuck ginger which, as being of sours, acids, salts, sweets and bitters compompounded, we know him to have used as chawchaw for bone, muscle, blood, flesh and vimvital,) that whereas the hakusay accusation againstm had been made, what was known in high quarters as was stood stated in Morganspost, by a creature in youman form who was quite beneath parr and several degrees lower than yore triplehydrad snake. In greater support of his word (it, quaint anticipation of a famous phrase, has been reconstricted out of oral style into the verbal for all time with ritual rhythmics, in quiritary quietude, and toosammenstucked from successive accounts by Noah Webster in the redaction known as the Sayings Attributive of H. C. Earwicker, prize on schillings, postlots free), the flaxen Gygas tapped his chronometrum drumdrum and, now standing full erect, above the ambijacent floodplain, scene of its happening, with one Berlin gauntlet chopstuck in the hough of his ellboge (by ancientest signlore his gesture meaning: Ǝ!) pointed at an angle of thirtytwo degrees towards his duc de Fer's overgrown milestone as fellow to his gage and after a rendypresent pause averred with solemn emotion's fire: Shsh shake, co-comeraid! Me only, them five ones, he is equal combat. I have won straight. Hence my nonation wide hotel and creamery establishments which for the honours of our mewmew mutual daughters, credit me, I am woowoo willing to take my stand, sir, upon the monument, that sign of our ruru redemption, any hygienic day to this hour and to make my hoath to my sinnfinners, even if I get life for it, upon the Open Bible and before the Great Taskmaster's (I lift my hat!) and in the presence of the Deity Itself andwell of Bishop and Mrs Michan of High Church of England as of all such of said my immediate withdwellers and of every living sohole in every corner wheresoever of this globe in general which useth of my British to my backbone tongue and commutative justice that there is not one tittle of truth, allow me to tell you, in that purest of fibfib fabrications.",
+      "draft": "我等少不得她们！妻子们，快快奔向各自的安歇之所！男人且在放浪享乐之际纵情放荡。前路乃远古开端，村落交织，各凭造化。抖擞精神，换个新天地！她若为夜魔莉莉丝，须早早拔足！波琳，且由她去！画匠恶徒蒙羞，自当深藏暗处！对于加诸其身的诸多罪名，他委实无辜；他至少有一回坦荡自白，口吻中仍带几分早年喉音，故而我等确信此乃实情。人们传讲这桩故事（其融汇杂糅之妙，正如氯化钙与疏水海绵）：某个春风骀荡的四月中旬早晨（正值其当年赤身披挂盛装、为人类各族混杂大混乱奠基的周年纪念日），在传闻中的越轨恶行发生千百年后，造物万灵的忠实老友手拄虎木拐杖，跨着大步，在我国最大的公园辽阔草地上如波浪起伏般穿行；他头戴橡胶便帽，束着大宽带，系着兽皮囊，外罩粗绒蓝袍，脚蹬铁骑长靴与薄伽梵护腿，身披涂胶因弗内斯斗篷；就在此处，他撞见一个嘴叼烟斗的无赖汉。后者手拈硫磺火柴，头无圣光光环（此人十有八九至今仍戴着同一顶破草帽到处闲逛，肩头搭着翻出羊毛的大衣，好装作乡绅模样，并随心所欲签署禁酒誓约），冒冒失失迎上前搭讪道：“健力士黑啤足下好呀先生借个火？”（那年月都柏林市井惯用的寒暄，若干老古董至今忆及仍心有余悸）；实则借题探问目下钟敲几点，只因他的表走得极慢，不知撞上何等时运。迟疑显然必须避免；辱骂更须巧妙消解。面临这促狭一瞬，埃尔威克深体自由主义基本原则，自知肉体生命不论自何维度而言皆至关重要（近处能赶来救援者只有隔年圣帕特里克节与芬尼亚起义），更不愿当场被暗壕中射出的软鼻钝弹送进永生；他当即止步，拔枪般敏捷，一面应声自称安好，一面从枪袋摸出于尔根森榴霰弹华特堡怀表（依共产之道归我等公有，依时效占有归其私蓄）；与此同一瞬间，越过刺骨东风，听到南方荒原上映斑教堂里老钟乐师福克斯·古德曼正全力撞响十吨重雷鸣男高音巨钟（库丘林之召！）；他当即指着耶和华向打听的滑头断言：此刻正是恒星时兼酒馆开桶之正午十二点整。随后，他深深躬身，喷出一口熏沙丁鱼般的口臭（好为自己呈现的指针增添分量），节外生枝地补充道：至于先前针对他的那桩传闻指控（即《摩根邮报》所载、上流阶层皆知之流言），纯属某个形同人类、实则远逊常人且比昔日三头九头毒蛇还要下作数倍的怪物蓄意罗织。为进一步佐证其誓言（此语奇妙预言了后世名言，已由诺亚·韦伯斯特从口述体原样记录为永恒韵律，收入题为《H.C.埃尔威克言行录》的定本之中，售价先令，邮资全免），亚麻发色的该亚斯巨人咚咚敲击怀表外壳；在案发当场的环周河漫滩平原上霍然挺直身躯，一只戴柏林长手套的手臂弯曲架在肘弯（依远古手势图谱，此姿势意为倒转巨字 Ǝ！），呈三十二度角指向铁公爵那座巍峨界碑方尖碑，当作决斗抵押信物；稍作停顿，他满腔激愤、庄严发誓：“握、握个手，同、同志！仅我一人，面对他们那五位，乃是公平决斗。我赢得光明磊落。由此始有我名扬全国之旅店与乳品工坊产业；为了我们共育爱女之体面，信我吧，先生，我随时甘愿站上那座丰碑——那象征我们救赎的记号，指着开卷《圣经》和至高大主宰，在神明本尊、在英国高教会派圣米尚堂主教与主教夫人面前，在所有同住街坊以及五湖四海讲我这纯正英国骨气话语、遵奉公道正义的每个生灵面前，向我等同胞赌咒起誓：即便为此判我终生监禁，在那桩至纯至净的捏造谎言之中，也绝无半点真实，容我当面奉告！”",
+      "translation": "我们少不得她们。人妻们，快奔向你们的歇脚馆吧！趁律法还管用，男人都要奔向女人。泽西德是我们的太初古风，编篱结社，任摘任采。振作起来，看在肉身奈莉份上，新世界，满地飞蝇！她若是夜魔莉莉丝，趁早抽身！波琳，行行好！埋伏树丛的画匠恶徒，躲进黑影，躲进黑影！对于加诸其身的诸多罪名，他显然是无辜的，因为至少有一回他亲口明确表白过自己的无辜，话音里还带着一丝早年的喉音，所以我们也就信以为真。人们传讲这样一个故事（其融汇吸收之妙，不亚于氯化钙与憎水海绵的造化）：在据称发生那桩越轨失检之事千百年后，某个春风得意、狂风大作的四月望日清晨（凑巧正是他当年首次穿上庆生赤身礼服、并获赋予搅乱人类各族之特权的周年纪念日），这位万物的忠实老友手拄虎木行路杖作支撑，头戴生胶军便帽，腰束大宽带，身挂兽皮袋，穿着粗绒蓝布衣，脚蹬铁甲骑兵长靴与薄伽梵护腿，披着涂胶因弗内斯斗篷，正在我国最大公园的辽阔草地上如波浪般大步穿行；就在那里，他遇上了一个叼烟斗的无赖汉。后者是擦硫磺火柴的，并非头顶圣光之辈（此人十有八九至今仍戴着同一顶破草帽四处游荡，肩下夹着翻出羊毛面的大衣，好瞧上去更像个乡绅，还兴高采烈地随便签署戒酒誓约），冒冒失失迎上前向他搭讪道：“健力士黑啤足下好呀先生借个火？”（这是当年黑池都柏林一句体面的问候语，我们有些老辈人至今忆及恐怕仍要发抖），借以打听他能否告知此刻钟敲几点、碰巧是否晓得时辰，只因他自己的表走慢了。迟疑显然必须避免；咒骂也须巧妙化除。在这紧迫一瞬间，埃尔威克基于自由主义根本原则，深知无论就契约还是就罪责而言，肉体性命皆至高无上（最近的求援接力只有砰砰击倒的圣帕特里克节与芬尼亚起义），且心中实在不愿当场被暗壕里射出的软鼻达姆弹送进永恒；他当即立定，如拔枪般敏捷，一面应声说自己身子骨硬朗如法警杖，一面依提示从枪袋里掏出他的于尔根森榴霰弹华特堡怀表（按共产原则归我们公有，按时效取得归他私有）；恰在同一记钟响之际，他越过刺骨东风的呼啸，听见南方荒原那边斑点教堂里，老钟师福克斯·古德曼正撞响那口十吨重、雷鸣般的男高音大钟（库丘林的呼唤！），便指着耶和华向那打听时辰的滑头小子说，此刻正是恒星时兼酒杯时辰十二点整；不过他又深深弯下腰，喷着熏沙丁鱼般的口气，好给自己亮出的法警铜棒增添分量（不过此处似与那根筷子般夹着的生姜有所混淆——那生姜由酸、酵、盐、甜、苦复方调成，据我们所知是他平日用来强健骨、肌、血、肉与生机元气的嚼食），补充说道：至于先前针对他的那番传闻指控，上层人士尽人皆知、且已白纸黑字登在《摩根邮报》上，纯属某个披着人形、实则水准低下、比往昔三头水蛇还要卑劣好几等的东西蓄意捏造。为进一步证实自己的话（这段话奇妙地预先道出了后世一句名言，已在罗马市民般的肃穆中，按仪式韵律由口头语体重构为永恒的书面辞令，并由诺亚·韦伯斯特从历次记述中纂辑成篇，收入题为《H·C·埃尔威克言行录》的编校本，定价若干先令，分批免邮寄送），这位亚麻发色的该亚斯巨人咚咚敲了敲自己的计时表，如今在案发现场四周的河漫滩平原上全然挺立，一只柏林长手套如筷子般夹在肘弯里（依最古老的手势学，他这姿势意为：Ǝ！），呈三十二度角指向他那位铁公爵杂草丛生的里程碑，拿它充当自己手套信物的配对见证，经历一阵裂帛般的停顿后，满怀庄严激昂的热火断言道：“握、握个手，同、同志！只我一人，对他们五个，算是势均力敌的交锋。我堂堂正正赢了。因此才有我那非全国性的大旅店与乳品坊产业；为了我们共育女儿们的名誉，请相信我，先生，直到此时此刻的任何一个卫生健康的日子里，我都甘愿站上那座纪念碑——那象征我们救赎的标记——哪怕为此判我终身监禁，我也甘愿按着开卷《圣经》，在至高大主宰跟前（我脱帽致敬！），并在神明本尊、英国高教会派米尚主教与夫人、我身边全体街坊邻里，以及普天之下四面八方凡讲我这澈底英国腔调、奉行交换正义的每一个生灵面前，向我那帮新芬同胞起誓：容我奉告，在那桩彻头彻尾的捏造谎言里，绝无半点实情！”",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-cad-pipe-ides-april",
+          "lemma": "how one happygogusty Ides-of-April morning (the anniversary, as it fell out, of his first assumption of his mirthday suit and rights in appurtenance to the confusioning of human races) ages and ages after the alleged misdemeanour when the tried friend of all creation, tigerwood roadstaff to his stay, was billowing across the wide expanse of our greatest park",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Ides-of-April 指罗马历四月望日（4月13日）；mirthday suit 戏改 birthday suit（赤身裸体）。下文叼烟斗的无赖汉（a cad with a pipe）以“Guinness thaw tool in jew me dinner ouzel fin?”搭讪问时，音形上似模拟爱尔兰语问候兼问时辰句式（如 Conas tá tú / Cén t-am é sin, a dhuine uasail fhéin?），属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-hesitency-phoenix-park",
+          "lemma": "Hesitency was clearly to be evitated. Execration as cleverly to be honnisoid. The Earwicker of that spurring instant, realising on fundamental liberal principles the supreme importance, nexally and noxally, of physical life (the nearest help relay being pingping K. O. Sempatrick's Day and the fenian rising) and unwishful as he felt of being hurled into eternity right then, plugged by a softnosed bullet from the sap, halted, quick on the draw",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "Hesitency 将 hesitancy（迟疑）拼作 -ency，常联想1880年代理查德·皮戈特（Richard Pigott）伪造帕内尔信件案中暴露伪造身份的拼写特征；honnisoid 戏拟英国嘉德勋章格言 Honi soit qui mal y pense。埃尔威克担心遭暗壕射出的软鼻子弹（softnosed bullet）袭击，故迅速掏出怀表应对。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-waterbury-goodman-cuchulainn",
+          "lemma": "prodooced from his gunpocket his Jurgensen's shrapnel waterbury, ours by communionism, his by usucapture, but, on the same stroke, hearing above the skirling of harsh Mother East old Fox Goodman, the bellmaster, over the wastes to south, at work upon the ten ton tonuant thunderous tenor toller in the speckled church (Couhounin's call!) told the inquiring kidder, by Jehova, it was twelve of em sidereal and tankard time",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "Jurgensen's shrapnel waterbury 混搭丹麦名表 Jürgensen、榴霰弹与廉价 Waterbury 怀表；Fox Goodman或指都柏林圣帕特里克座堂与基督堂的敲钟人兼爱尔兰风笛收集者 James Goodman，Couhounin's call 似谐音爱尔兰神话英雄库丘林（Cuchulainn）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-gygas-reversed-e",
+          "lemma": "the flaxen Gygas tapped his chronometrum drumdrum and, now standing full erect, above the ambijacent floodplain, scene of its happening, with one Berlin gauntlet chopstuck in the hough of his ellboge (by ancientest signlore his gesture meaning: Ǝ!) pointed at an angle of thirtytwo degrees towards his duc de Fer's overgrown milestone as fellow to his gage",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Gygas 指神话中的百臂巨人该亚斯。with one Berlin gauntlet chopstuck in the hough of his ellboge 意为将一只柏林长手套夹在肘弯里（ellboge 为德语 Ellbogen“手肘”变形，hough 指腿弯或关节弯处），原文括号指出这一手势在古手势学中表征倒转大写字母“Ǝ!”。duc de Fer（铁公爵）似指凤凰公园内的惠灵顿纪念碑。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-hce-oath-denial",
+          "lemma": "Shsh shake, co-comeraid! Me only, them five ones, he is equal combat. I have won straight. Hence my nonation wide hotel and creamery establishments which for the honours of our mewmew mutual daughters, credit me, I am woowoo willing to take my stand, sir, upon the monument, that sign of our ruru redemption, any hygienic day to this hour and to make my hoath to my sinnfinners, even if I get life for it, upon the Open Bible and before the Great Taskmaster's (I lift my hat!)",
+          "kind": "syntax",
+          "certainty": "proposal",
+          "text": "埃尔威克面对问时搭讪，以重复首音的结巴语态（Shsh shake, co-comeraid / mewmew / woowoo / ruru / fibfib）展开长篇宣誓，称“只我一人，对他们五个，算是势均力敌的交锋”，并在提及“至高大主宰”（the Great Taskmaster，借用弥尔顿诗句）时插入脱帽动作（I lift my hat!），按《圣经》赌咒否认传闻。无赖汉对此番自辩的反应见下一段叙述。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-036-35",
+      "locator": "036.35–038.08",
+      "range": [
+        36,
+        35,
+        38,
+        8
+      ],
+      "source_id": "joyce-fp",
+      "original": "Gaping Gill, swift to mate errthors, stern to checkself, (diagnosing through eustacetube that it was to make with a markedly postpuberal hypertituitary type of Heidelberg mannleich cavern ethics) lufted his slopingforward, bad Sweatagore good murrough and dublnotch on to it as he was greedly obliged, and like a sensible ham, with infinite tact in the delicate situation seen the touchy nature of its perilous theme, thanked um for guilders received and time of day (not a little token abock all the same that that was owl the God's clock it was) and, upon humble duty to greet his Tyskminister and he shall gildthegap Gaper and thee his a mouldy voids, went about his business, whoever it was, saluting corpses, as a metter of corse (one could hound him out had one hart to for the monticules of scalp and dandruff droppings blaze his trail) accompanied by his trusty snorler and his permanent reflection, verbigracious; I have met with you, bird, too late, or if not, too worm and early: and with tag for ildiot repeated in his secondmouth language as many of the bigtimer's verbaten words which he could balbly call to memory that same kveldeve, ere the hour of the twattering of bards in the twitterlitter between Druidia and the Deepsleep Sea, when suppertide and souvenir to Charlatan Mall jointly kem gently and along the quiet darkenings of Grand and Royal, ff, flitmansfluh, and, kk, 't crept i' hedge whenas to many a softongue's pawkytalk mude unswer u sufter poghyogh, Arvanda always aquiassent, while, studying castelles in the blowne and studding cowshots over the noran, he spat in careful convertedness a musaic dispensation about his hearthstone, if you please, (Irish saliva, mawshe dho hole, but would a respectable prominently connected fellow of Iro-European ascendances with welldressed ideas who knew the correct thing such as Mr Shallwesigh or Mr Shallwelaugh expectorate after such a callous fashion, no thank yous! when he had his belcher spuckertuck in his pucket, pthuck?) musefed with his thockits after having supped of the dish sot and pottage which he snobbishly dabbed Peach Bombay (it is rawly only Lukanpukan pilzenpie which she knows which senaffed and pibered him), a supreme of excelling peas, balled under minnshogue's milk into whitemalt winesour, a proviant the littlebilker hoarsely relished, chaff it, in the snevel season, being as fain o't as your rat wi'fennel; and on this celebrating occasion of the happy escape, for a crowning of pot valiance, this regional platter, benjamin of bouillis, with a spolish olive to middlepoint its zaynith, was marrying itself (porkograso!) erebusqued very deluxiously with a bottle of Phenice-Bruerie '98, followed for second nuptials by a Piessporter, Grand Cur, of both of which cherished tablelights (though humble the bounquet 'tis a leaman's farewell) he obdurately sniffed the cobwebcrusted corks.",
+      "draft": "瞠目吉尔敏于窥破破绽，严于自持收敛（其耳咽管断定，此人乃典型的青春期后脑垂体亢进型海德堡穴居巨兽）；他微抬前倾的帽檐，随口念诵‘圣母保佑’与都柏林问候，贪鄙顺从地应承对方；鉴于此等凶险话题何其微妙，他宛如深谙人情世故的市侩，审时度势，谢过赏赐的烟资与所报时辰（心下却深疑那绝非天主正点时间）；他恭谨拜别这位内阁重臣，任其自去填补深壑、填塞腐朽空虚；他自顾前行，例行公事般向过路行尸致敬（若有人存心追踪倒也不难，其头屑掉落堆成的小丘早已标出踪迹）；身旁紧随忠犬与内心恒常反思：“早鸟啊，我与你相逢太晚，抑或你这条早起肥虫撞见我过早！”当晚黄昏，在德鲁伊古境与深眠瀚海之间诸吟游诗人聚首长舌闲聊之际，他以转述口吻，将大人物那番结巴言辞尽可能一字不差地复述；时值晚餐与沙拉坦商场夜市降临，沿着大运河与皇家运河的沉沉暮色，耳语飞掠，潜入树篱。他一边遥望空中楼阁，一边在自家炉石旁故作虔诚地吐出一圈摩西十诫般的唾沫（此乃爱尔兰纯正唾沫，试问叹气先生或欢笑先生等衣冠楚楚、自命欧陆名门的体面仕绅，口袋里明明塞着手帕，又岂会这般肆意当街啐唾？）。他饱餐一顿被其附庸风雅命名为‘孟买仙桃’的糊烂肉汤炖菜（实则不过是卢坎粗制豆馅饼，经其婆娘撒了芥末与胡椒），佐以山羊奶白麦酸汁揉成的豌豆丸；在这鼻涕横流的湿冷寒季，老赖大快朵颐，馋嘴如鼠得茴香；为庆贺此番侥幸脱险，更兼借酒壮胆，这盘以波兰橄榄作为天顶中轴的本土炖肉杂烩，极其奢靡地（肥油猪肉啊！）配上一瓶1898年凤凰酒厂佳酿，随后又续上一瓶皮斯波特名庄特级白葡萄酒；对这两款照亮餐桌的琼浆，他固执地狠嗅其落满蛛网的陈年木塞。",
+      "translation": "瞠目吉尔敏于迎合失言者，严于自我检点（他透过耳咽管诊断出，这与海德堡穴居人伦理中一种显著的青春期后脑垂体亢进类型有关），便掀了掀前倾的帽檐，向这位汗血大汉道了声早安，又满怀贪婪感激地再三称谢；鉴于这桩凶险话题性质敏感，在这微妙局势下，他像个知趣的戏子般极尽圆滑之能事，谢过对方赏赐的荷兰盾钱币与所报时辰（不过心里依然颇为吃惊，暗想那究竟算哪门子天主钟点），又恭顺致礼问候这位德国公使，祝他用黄金填平裂隙、填满发霉的空洞；随后，无论这人是谁，他便自顾自忙活去了，照例向沿途死尸致敬（若有人狠下心肠倒不难追寻他的踪迹，只因沿路掉落堆成小丘的头皮与头屑早已标出他的去向），身旁跟着他那条忠实的呼噜狗，脑海里常年盘桓着这句格言：“鸟儿啊，我遇上你太晚了，不然就是你这虫儿太早太肥了！”当天傍晚，他添上给呆瓜的尾缀，用二手传舌的腔调，将自己结结巴巴能记起的大人物原话尽数复述出来；其时，德鲁伊古境与深眠海之间，吟游诗人在暮色杂沓中啾啾絮语的时辰将至，晚饭时分与往夏拉坦林荫道的晚风忆念一同轻柔降临，沿着大运河与皇家运河静谧渐暗的河岸，呼呼如飞蝠掠过，咔咔似潜入树篱；每逢软舌俏皮话挑逗，总有更柔的亲吻与软语回应，阿尔万达一贯顺从首肯；与此同时，他一边凝望风中楼阁、细看诺兰河畔牛粪斑斑，一边劳驾在自家炉石四周煞有介事地吐出一圈马赛克拼花般的摩西律法唾沫（纯正爱尔兰唾沫，但愿坑洞无恙；可试问像我们叹气先生或我们欢笑先生那样出身爱尔兰-欧陆显贵门第、思想衣冠楚楚、深谙得体规矩的体面名流，口袋里明明揣着斑点手帕，又怎会这般冷漠无礼地当众喀痰？不劳尊驾，呸！）；他吃完那盘被他势利地冠名为“孟买仙桃”的浓汤杂烩炖菜（其实不过是卢坎乡下粗制蘑菇豆馅饼，他婆娘心里明白，是她放了芥末和胡椒给他提味）——一道在羊奶与白麦芽酸酒下揉成丸子的上等豌豆浓汤，这赖账小人哪怕在流鼻涕的寒湿时节也嘶着嗓子大快朵颐，管别人怎么打趣，馋得活像耗子见了茴香——满腹思绪反刍着心中念头；况且在这庆贺侥幸脱险的良辰，为给借酒壮胆锦上添花，这盘本地菜肴、水煮炖肉中的宠儿，顶心正中点缀着一颗波兰橄榄，正极其奢华地（肥猪肉啊！）与一瓶1898年凤凰酒厂佳酿喜结良缘，随后又续娶一瓶皮斯波特特级名庄白葡萄酒作二度良宵；对着这两盏珍爱的餐桌华彩（酒香虽微薄，却是情郎惜别礼），他执拗地猛嗅那结满蛛网的软木塞。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-gaping-gill-heidelberg",
+          "lemma": "Gaping Gill, swift to mate errthors, stern to checkself, (diagnosing through eustacetube that it was to make with a markedly postpuberal hypertituitary type of Heidelberg mannleich cavern ethics) lufted his slopingforward, bad Sweatagore good murrough and dublnotch on to it as he was greedly obliged",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Gaping Gill 字面意为张大腮／嘴，亦与英格兰约克郡洞穴 Gaping Gill 同名；eustacetube 戏改耳咽管（Eustachian tube），Heidelberg mannleich 指海德堡直立人化石（Homo heidelbergensis）。good murrough 与 dublnotch 谐拟爱尔兰英语问候 Good morrow 与都柏林（Dublin）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-saluting-corpses-dandruff",
+          "lemma": "went about his business, whoever it was, saluting corpses, as a metter of corse (one could hound him out had one hart to for the monticules of scalp and dandruff droppings blaze his trail) accompanied by his trusty snorler and his permanent reflection, verbigracious; I have met with you, bird, too late, or if not, too worm and early",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "saluting corpses, as a metter of corse 以 corpses（死尸）与 corse（古体死尸／course）构成双关；“I have met with you, bird, too late, or if not, too worm and early”将谚语“早起的鸟儿有虫吃”（The early bird catches the worm）与“相逢恨晚”杂糅改写。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-twattering-musaic-dispensation",
+          "lemma": "whenas to many a softongue's pawkytalk mude unswer u sufter poghyogh, Arvanda always aquiassent, while, studying castelles in the blowne and studding cowshots over the noran, he spat in careful convertedness a musaic dispensation about his hearthstone",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "前文 Grand and Royal 似指都柏林大运河（Grand Canal）与皇家运河（Royal Canal）。“to many a softongue's pawkytalk mude unswer u sufter poghyogh, Arvanda always aquiassent”描摹运河暮色中男女调情问答（poghyogh 兼涉爱尔兰语 póg“亲吻”），Arvanda 顺从应承；随后无赖汉在炉石旁吐出一圈“马赛克／摩西律法式”（musaic dispensation）唾沫。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-peach-bombay-porkograso",
+          "lemma": "supped of the dish sot and pottage which he snobbishly dabbed Peach Bombay (it is rawly only Lukanpukan pilzenpie which she knows which senaffed and pibered him), a supreme of excelling peas, balled under minnshogue's milk into whitemalt winesour, a proviant the littlebilker hoarsely relished, chaff it, in the snevel season, being as fain o't as your rat wi'fennel",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "无赖汉把乡下粗菜吹嘘为“孟买仙桃”（Peach Bombay），括号点破那只是卢坎（Lucan）风味的蘑菇派／比尔森馅饼（pilzenpie，德语 Pilze 意为蘑菇），由他妻子撒上芥末（德语 Senf -> senaffed）与胡椒（拉丁语／德语 piper / Pfeffer -> pibered）。minnshogue 似涉爱尔兰语山羊（minseach）。以上跨语词源属本项目推测。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-phenice-bruerie-piessporter",
+          "lemma": "with a bottle of Phenice-Bruerie '98, followed for second nuptials by a Piessporter, Grand Cur, of both of which cherished tablelights (though humble the bounquet 'tis a leaman's farewell) he obdurately sniffed the cobwebcrusted corks.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "Phenice-Bruerie '98 拼合凤凰公园（Phoenix）、啤酒厂（brewery）与1798／1898年份；Piessporter, Grand Cur 戏改德国摩泽尔葡萄酒名庄 Piesporter Grand Cru（将 Cru 改为 Cur“恶狗”，Piess 兼涉 piss）。括号“though humble the bounquet 'tis a leaman's farewell”双关酒香／花束（bouquet）与情人告别（leman's farewell）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-038-09",
+      "locator": "038.09–039.27",
+      "range": [
+        38,
+        9,
+        39,
+        27
+      ],
+      "source_id": "joyce-fp",
+      "original": "Our cad's bit of strife (knee Bareniece Maxwelton) with a quick ear for spittoons (as the aftertale hath it) glaned up as usual with dumbestic husbandry (no persicks and armelians for thee, Pomeranzia!) but, slipping the clav in her claw, broke of the matter among a hundred and eleven others in her usual curtsey (how faint these first vhespers womanly are, a secret pispigliando, amad the lavurdy den of their manfolker!) the next night nudge one as was Hegesippus over a hup a' chee, her eys dry and small and speech thicklish because he appeared a funny colour like he couldn't stood they old hens no longer, to her particular reverend, the director, whom she had been meaning in her mind primarily to speak with (hosch, intra! jist a timblespoon!) trusting, between cuppled lips and annie lawrie promises (mighshe never have Esnekerry pudden come Hunanov for her pecklapitschens!) that the gossiple so delivered in his epistolear, buried teatoastally in their Irish stew would go no further than his jesuit's cloth, yet (in vinars venitas! volatiles valetotum!) it was this overspoiled priest Mr Browne, disguised as a vincentian, who, when seized of the facts, was overheard, in his secondary personality as a Nolan and underreared, poul soul, by accident—if, that is, the incident it was an accident for here the ruah of Ecclectiastes of Hippo outpuffs the writress of Havvah-ban-Annah—to pianissime a slightly varied version of Crookedribs confidentials, (what Mère Aloyse said but for Jesuphine's sake!) hands between hahands, in fealty sworn (my bravor best! my fraur!) and, to the strains of The Secret of Her Birth, hushly pierce the rubiend aurellum of one Philly Thurnston, a layteacher of rural science and orthophonethics of a nearstout figure and about the middle of his forties during a priestly flutter for safe and sane bets at the hippic runfields of breezy Baldoyle on a date (W. W. goes through the card) easily capable of rememberance by all pickersup of events national and Dublin details, the doubles of Perkin and Paullock, peer and prole, when the classic Encourage Hackney Plate was captured by two noses in a stablecloth finish, ek and nek, some and none, evelo nevelo, from the cream colt Bold Boy Cromwell after a clever getaway by Captain Chaplain Blount's roe hinny Saint Dalough, Drummer Coxon, nondepict third, at breakneck odds, thanks to you great little, bonny little, portey little, Winny Widger! you're all their nappies! who in his neverrip mud and purpular cap was surely leagues unlike any other phantomweight that ever toppitt our timber maggies. 'Twas two pisononse Timcoves (the wetter is pest, the renns are overt and come and the voax of the turfur is hurled on our lande) of the name of Treacle Tom as was just out of pop following the theft of a leg of Kehoe, Donnelly and Packenham's Finnish pork and his own blood and milk brother Frisky Shorty, (he was, to be exquisitely punctilious about them, both shorty and frisky) a tipster, come off the hulks, both of them awful poor, what was out on the bumaround for an oofbird game for a jimmy o'goblin or a small thick un as chanced, while the Seaforths was making the colleenbawl, to ear the passon in the motor clobber make use of his law language (Edzo, Edzo on), touchin the case of Mr Adams what was in all the sundays about it which he was rubbing noses with and having a gurgle off his own along of the butty bloke in the specs.",
+      "draft": "无赖汉那位浑家（娘家姓巴雷妮丝·麦克斯韦尔顿）生就一双听辨唾沫的灵耳，照例做完粗粝家务，趁在利爪中转动钥匙之际，于次夜就着一杯热茶，在一百一十一桩琐事中，微屈双膝向其私家神父倾诉此事；她双眼干瘪，语带迟疑，只因丈夫形容怪异，仿佛再也无法忍受那帮老母鸡；她深信双唇相附与《安妮·劳里》之誓，以为如此封进神父耳廓、深埋于爱尔兰炖肉香气中的闲话，绝不会越出耶稣会士僧袍半步。然而酒后吐真言，飞羽终传扬！正是这位备受纵容的布朗神父——乔装为遣使会修士，待获悉实情之后，却在其身为‘诺兰’的次生人格中，偶于鲍尔多伊尔海风习习的赛马场投注避险之机，教旁人听了个正着；在此处，希波教父《传道书》灵风压过夏娃之女的笔端，他借一曲《身世之谜》旋律，以最低极弱之语调，向一位年过四旬、略显发福的乡土科学与正音学兼职教师菲利·瑟斯顿那只微红耳朵倾吐‘夏娃歪肋骨密语’；彼时正值全城马迷牢记于心的经典赛事——圣达洛战驹抢先脱缰，在终点线前挫败大热门克伦威尔，矮个骑师维尼·维杰策骑夺魁！当时，恰有两名唤作‘糖蜜汤姆’与‘轻佻矮子’的无业游民在场——前者刚因偷窃一条芬兰猪腿刑满出狱，后者乃是其同一母乳喂大的把兄弟、刚从囚船爬出来的马场扒手；二人身无分文，正四处游荡寻觅金币横财；正值锡福斯步兵团军乐队高奏《风流浪女》之际，二人隔着车窗，恰好听见坐在汽车里的神父卖弄法言法语，一边与戴眼镜的矮胖同伴碰杯痛饮，一边大谈各家周报上闹得沸沸扬扬的‘亚当斯先生那桩丑案’。",
+      "translation": "我们那无赖汉的浑家（娘家本姓巴雷妮丝·麦克斯韦尔顿）生就一双专听痰盂动静的灵敏耳朵（照后话所传），照例做完哑剧般的家务活计，拾掇干净（波美拉尼亚，没你的桃子和杏子吃！），却在利爪里悄悄转动钥匙之际，于次夜就着一杯热茶，像赫格西普斯那样推肘示意，按她平素的行礼做派，在一百一十一桩闲事当中把这桩事向她心中本就打算首先倾诉的私家神父即灵修导师抖落出来（在男人们喧嚣的兽穴里，这些最初的妇人晚祷低语是何等微弱，简直是一阵隐秘的耳语！——嘘，请进！只消一顶针茶匙！）；她两眼干涩细小，说话舌头发硬，只因丈夫脸色古怪，活像再也受不了那帮老母鸡；在茶杯相碰的双唇与《安妮·劳里》式的诺言之间（但愿到了新年，她那群啄食小鸡仔不至于连埃斯内克里布丁也吃不上！），她深信这番送入神父耳中、伴着茶点彻头彻尾深埋在爱尔兰炖肉里的闲话福音，绝不会传出他的耶稣会黑袍之外；然而（酒里有虚空！飞鸟传万事！）正是这位宠坏了的布朗神父，乔装成遣使会修士，在获悉实情之后，竟以“诺兰”这一第二人格，在海风习习的鲍尔多伊尔赛马场小赌怡情、稳妥下注之际，可怜的灵魂，纯属偶然被人偷听到——倘若这桩事变果真是偶然的话，只因此处希波《传道书》的灵风压倒了安娜之女夏娃女书吏的气息——当时他伴着《她的身世之谜》的旋律，双手紧握在双掌之间，宣誓效忠（我最英勇的伴侣！我的妇人！），以极弱音悄悄倾吐了略加改动的“夏娃弯肋骨密闻”（看在耶稣芬份上，阿洛伊丝姆妈说了什么来着！），轻轻刺入一位名叫菲利·瑟斯顿、年过四旬、体态略胖的乡土科学兼正音伦理学俗家教师那只微红的耳廓；那日子（W·W包揽全盘赛事），凡搜罗国家大事与都柏林掌故的人，无论帕金与波洛克这类成双搭档，还是贵族与平民，全都极易记起：当时，在经典赛事“鼓励挽马大奖赛”中，随军牧师布朗特上尉名下的枣红骡马“圣达洛”巧妙抢闸脱出，在马衣紧挨的终点冲刺里，并驾齐驱、似有若无、难分伯仲，以极其悬殊的赔率、两鼻之微击败奶油色小公马“勇敢男孩克伦威尔”夺魁，鼓手考克森名列面目模糊的第三——这全要归功于你，了不起的小个子、俊俏的小个子、神气的小个子维尼·维杰！你是他们全体的稳赢首选！他身披撕不破的泥彩骑师服、头戴紫红骑帽，跟以往任何跨过我们木栏障碍的羽量级骑师相比，真可谓天差地别。当时在场的恰有两个惹是生非的蒂姆老哥们儿（风雨已过，赛事已毕，草皮赛场的声浪响彻我国大地）：一个名叫糖蜜汤姆，刚因偷窃基霍、唐纳利与帕肯汉商行的一条芬兰猪腿而蹲完班房出来；另一个是他的同胞加同乳把兄弟“欢蹦矮子”（若要对他们极其严谨地考究起来，他确实既矮小又欢蹦），是个刚从囚船下来的马场线人；两人全都穷得叮当响，正四处游荡寻摸肥羊勾当，想弄枚一镑金币或半镑小厚币；趁着锡福斯高地团军乐队吹奏《风流浪女》之际，他俩凑巧听见那位穿摩托行头的牧师卖弄起他的法律套话（如此这般，不一而足），谈及各家星期日报纸闹得沸沸扬扬的“亚当斯先生案”——当时那牧师正同那个戴眼镜的矮胖家伙碰鼻交头，自顾自咕咚痛饮。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-cad-wife-bareniece",
+          "lemma": "Our cad's bit of strife (knee Bareniece Maxwelton) with a quick ear for spittoons (as the aftertale hath it) glaned up as usual with dumbestic husbandry (no persicks and armelians for thee, Pomeranzia!) but, slipping the clav in her claw, broke of the matter among a hundred and eleven others in her usual curtsey",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "bit of strife 为伦敦考克尼押韵俚语“妻子”（trouble and strife = wife）；knee Bareniece Maxwelton 戏改婚前本姓（née），拼合苏格兰民歌《安妮·劳里》（Annie Laurie）中的地名 Maxwelton 与古埃及王后名 Berenice。persicks and armelians 指桃（persica）与杏（armeniaca）。她在一百一十一桩闲事中将丈夫夜里所说传给神父。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-browne-nolan-baldoyle",
+          "lemma": "it was this overspoiled priest Mr Browne, disguised as a vincentian, who, when seized of the facts, was overheard, in his secondary personality as a Nolan",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Browne 与 Nolan 借都柏林书商兼印书局“布朗与诺兰”（Browne and Nolan）之名，同时呼应诺拉的乔尔达诺·布鲁诺（Giordano Bruno of Nola）。神父在鲍尔多伊尔（Baldoyle，都柏林北郊赛马场）向俗家教师 Philly Thurnston 低声转述传闻（Crookedribs confidentials 借亚当肋骨造夏娃之典指妇人私房密话）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-winny-widger-baldoyle",
+          "lemma": "when the classic Encourage Hackney Plate was captured by two noses in a stablecloth finish, ek and nek, some and none, evelo nevelo, from the cream colt Bold Boy Cromwell after a clever getaway by Captain Chaplain Blount's roe hinny Saint Dalough, Drummer Coxon, nondepict third, at breakneck odds, thanks to you great little, bonny little, portey little, Winny Widger!",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "此句以赛马报道腔调虚构鲍尔多伊尔赛场冲刺：骑师 Winny Widger 策骑“圣达洛”（Saint Dalough，都柏林北郊圣杜拉赫教堂 St Doulagh's 变形）以两鼻之微击败“勇敢男孩克伦威尔”（Bold Boy Cromwell），鼓手考克森（Drummer Coxon）位列面目模糊的第三。此为小说戏拟赛况，不作真实历史赛史记录。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-treacle-tom-frisky-shorty",
+          "lemma": "of the name of Treacle Tom as was just out of pop following the theft of a leg of Kehoe, Donnelly and Packenham's Finnish pork and his own blood and milk brother Frisky Shorty, (he was, to be exquisitely punctilious about them, both shorty and frisky) a tipster, come off the hulks, both of them awful poor, what was out on the bumaround for an oofbird game",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "两名底层流民 Treacle Tom（糖蜜汤姆）与 Frisky Shorty（欢蹦矮子）登场。Kehoe, Donnelly and Packenham 为都柏林腌肉商行名号；out of pop 指当铺或班房出狱，hulks 指旧时充当水上监狱的废船，oofbird 俚语指有钱可诈的肥羊。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-mr-adams-case",
+          "lemma": "while the Seaforths was making the colleenbawl, to ear the passon in the motor clobber make use of his law language (Edzo, Edzo on), touchin the case of Mr Adams what was in all the sundays about it which he was rubbing noses with and having a gurgle off his own along of the butty bloke in the specs.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "the colleenbawl 戏改迪翁·布西科（Dion Boucicault）名剧与歌曲《科琳·鲍恩》（The Colleen Bawn）。两名游民听见穿摩托服饰的牧师与戴眼镜的矮胖同伴边喝边用法律腔调谈论星期日报纸上的“亚当斯先生案”（the case of Mr Adams，或兼涉人类始祖亚当），流言遂传入市井游民之耳。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-039-28",
+      "locator": "039.28–042.16",
+      "range": [
+        39,
+        28,
+        42,
+        16
+      ],
+      "source_id": "joyce-fp",
+      "original": "This Treacle Tom to whom reference has been made had been absent from his usual wild and woolly haunts in the land of counties capalleens for some time previous to that (he was, in fact, in the habit of frequenting common lodginghouses where he slept in a nude state, hailfellow with meth, in strange men's cots) but on racenight, blotto after divers tots of hell fire, red biddy, bull dog, blue ruin and creeping jenny, Eglandine's choicest herbage, supplied by the Duck and Doggies, the Galopping Primrose, Brigid Brewster's, the Cock, the Postboy's Horn, the Little Old Man's and All Swell That Aimswell, the Cup and the Stirrup, he sought his wellwarmed leababobed in a housingroom Abide With Oneanother at Block W.W., (why didn't he back it?) Pump Court, The Liberties, and, what with moltapuke on voltapuke, resnored alcoh alcoho alcoherently to the burden of I come, my horse delayed, nom num, the substance of the tale of the evangelical bussybozzy and the rusinurbean (the 'girls' he would keep calling them for the collarette and skirt, the sunbonnet and carnation) in parts (it seemed he was before the eyots of martas or otherwales the thirds of fossilyears, he having beham with katya when lavinias had her mens lease to sea in a psumpship doodly show whereat he was looking for fight niggers with whilde roarses) oft in the chilly night (the metagonistic! the epickthalamorous!) during uneasy slumber in their hearings of a small and stonybroke cashdraper's executive, Peter Cloran (discharged), O'Mara, an exprivate secretary of no fixed abode (locally known as Mildew Lisa), who had passed several nights, funnish enough, in a doorway under the blankets of homelessness on the bunk of iceland, pillowed upon the stone of destiny colder than man's knee or woman's breast, and Hosty, (no slouch of a name), an illstarred beachbusker, who, sans rootie and sans scrapie, suspicioning as how he was setting on a twoodstool on the verge of selfabyss, most starved, with melancholia over everything in general, (night birman, you served him with natigal's nano!) had been towhead tossing on his shakedown, devising ways and manners of means, of what he loved to ifidalicence somehow or other in the nation getting a hold of some chap's parabellum in the hope of taking a wing sociable and lighting upon a sidewheel dive somewhere off the Dullkey Downlairy and Bleakrooky tramaline where he could throw true and go and blow the sibicidal napper off himself for two bits to boldywell baltitude in the peace and quitybus of a one sure shot bottle, he after having being trying all he knew with the lady's help of Madam Gristle for upwards of eighteen calanders to get out of Sir Patrick Dun's, through Sir Humphrey Jervis's and into the Saint Kevin's bed in the Adelaide's hosspittles (from these incurable welleslays among those uncarable wellasdays through Sant Iago by his cocklehat, good Lazar, deliver us!) without after having been able to jerrywangle it anysides. Lisa O'Deavis and Roche Mongan (who had so much incommon, epipsychidically; if the phrase be permitted hostis et odor insuper petroperfractus) as an understood thing slept their sleep of the swimborne in the one sweet undulant mother of tumblerbunks with Hosty just how the shavers in the shaw the yokels in the yoats or, well, the wasters in the wilde, and the bustling tweenydawn-of-all-works (meed of anthems here we pant!) had not been many jiffies furbishing potlids, doorbrasses, scholars' applecheeks and linkboy's metals when, ashhopperminded like no fella he go make bakenbeggfuss longa white man, the rejuvenated busker (for after a goodnight's rave and rumble and a shinkhams topmorning with his coexes he was not the same man) and his broadawake bedroom suite (our boys, as our Byron called them) were up and ashuffle from the hogshome they lovenaned The Barrel, cross Ebblinn's chilled hamlet (thrie routes and restings on their then superficies curiously correspondant with those linea and puncta where our tubenny habenny metro maniplumbs below the oberflake underrails and stations at this time of riding) to the thrummings of a crewth fiddle which, cremoaning and cronauning, levey grevey, witty and wevey, appy, leppy and playable, caressed the ears of the subjects of King Saint Finnerty the Festive who, in brick homes of their own and in their flavory fraiseberry beds, heeding hardly cry of honeyman, soed lavender or foyneboyne salmon alive, with their priggish mouths all open for the larger appraisiation of this longawaited Messiagh of roaratorios, were only halfpast atsweeeep and after a brisk pause at a pawnbroking establishment for the prothetic purpose of redeeming the songster's truly admirable false teeth and a prolonged visit to a house of call at Cujas Place, fizz, the Old Sots' Hole in the parish of Saint Cecily within the liberty of Ceolmore not a thousand or one national leagues, that was, by Griffith's valuation, from the site of the statue of Primewer Glasstone setting a match to the march of a maker (last of the stewards peut-être), where, the tale rambles along, the trio of whackfolthediddlers was joined by a further— intentions—apply—tomorrow casual and a decent sort of the hadbeen variety who had just been touching the weekly insult, phewit, and all figblabbers (who saith of noun?) had stimulants in the shape of gee and gees stood by the damn decent sort after which stag luncheon and a few ones more just to celebrate yesterday, flushed with their firestuffostered friendship, the rascals came out of the licensed premises, (Browne's first, the small p.s. ex-exexecutive capahand in their sad rear like a lady's postscript: I want money. Pleasend), wiping their laughleaking lipes on their sleeves, how the bouckaleens shout their roscan generally (seinn fion, seinn fion's araun.) and the rhymers' world was with reason the richer for a wouldbe ballad, to the balledder of which the world of cumannity singing owes a tribute for having placed on the planet's melomap his lay of the vilest bogeyer but most attractionable avatar the world has ever had to explain for.",
+      "draft": "前文提及的糖蜜汤姆，此前已有好些时日未在各郡草莽旧地现身（实则常年混迹于下等大车店，与各路喝甲醇的潦倒汉赤身同榻而眠）；但在赛马之夜，饱饮‘地狱烈火’、‘红比蒂’、‘斗牛犬’、‘蓝劫难’与各色毒酒之后，醉卧于自由民区水泵院‘彼此相伴’廉租公寓，翻江倒海连环狂吐，带着浓烈酒气，含混结巴地发出鼾声，哼唱着‘我来也，座骑迟延’，断断续续将福音胖教士与城乡大巨人的秘闻吐露无遗（因其领圈裙裾与红石竹胸花，他一口咬定那是两名‘姑娘’）。在那寒气砭骨的夜里，这番烦躁梦呓全教同铺几个穷困潦倒的汉子听了去：被解职的小布商管事彼得·克洛兰，无定居之所的前私人秘书奥马拉（坊间戏称‘霉烂丽莎’，曾露宿冰岛门廊，枕着比人膝与妇人胸膛更为冰冷的命运石），以及落魄街头卖艺歌手霍斯蒂（好生响亮的名号！）。霍斯蒂无衣无食，深陷忧郁深渊，在草垫铺盖上辗转反侧，满心盘算如何弄到一把鲁格手枪，搭上电车奔赴沿线小酒馆，一枪崩掉自己这颗祸胎脑壳，在烈酒绝命弹中求个清净解脱。翌日清晨，天色微明，勤快杂役刚着手擦拭锅盖、门铜与学童红润脸蛋，这位重新振作的卖艺歌手与同卧铺友们（‘我等好儿郎’，正如拜伦所称）便从这处爱称为‘木桶’的猪窝客栈一跃而起，踏着都柏林清晨寒气穿街过巷；克鲁斯古提琴嘎吱嘎吱、如怨如诉、欢快跳跃，琴声拂过节日圣王芬纳蒂治下臣民的耳际——那些端坐红砖屋舍、耽于草莓甜梦之辈，微张着势利之口，期待这翘首以盼的弥赛亚咆哮巨作。行经当铺，他们稍事驻足，先去赎回歌手那副叹为观止的假牙；随后长驱直入圣塞西莉亚教区库雅斯广场之‘老酒鬼之窟’酒馆，离格莱斯顿首相雕像基座不远；在此处，这帮江湖浪子又逢上一位刚领了周薪津贴的失意绅士，后者慷慨解囊买单请客；在一顿单身汉酒席与烈酒催生的高昂义气中，这群无赖踏出酒肆，衣袖擦拭着笑咧的嘴角，如盖尔热血少年般放声高歌；押韵者的天地从此平添一曲绝妙歌谣，而大众合唱界委实欠这位民间歌手一份崇高致敬——皆因他将这首传唱世间至恶妖魔兼最具风骨化身之颂歌，永远镌刻于这颗星球的旋律版图之上。",
+      "translation": "前文提及的这位糖蜜汤姆，在此之前已有好些时日未曾涉足各郡小马之乡他惯常出没的荒野草莽旧地（事实上，他素来混迹于下等大车店，同喝甲基酒精的酒友称兄道弟，赤身裸体睡在陌生汉子的窄榻上）；但在赛马之夜，他灌下几盅由“鸭与小狗”、“飞奔报春花”、“布里吉德酿酒婆”、“公鸡”、“邮童号角”、“小老头”以及“瞄得准便万事顺”、“酒杯与马镫”诸酒馆供应的“地狱烈火”、“红比蒂”、“斗牛犬”、“蓝劫难”与“过路黄”（尽是野蔷薇家的上选草本烈饮），喝得烂醉如泥，随后在自由民区水泵院W·W栋（他怎么没押这匹马呢？）名叫“彼此同住”的合住屋里，寻到他那铺暖烘烘的床榻，加上连番翻江倒海、满嘴世界语般狂吐不止，竟借着《我来也，座骑迟延》（喃喃，嚼嚼）的曲调叠句，满身酒气、颠三倒四却又声声入耳地打着呼噜，把那位福音派多事佬兼城郊乡巴佬（只因领圈与裙子、遮阳软帽与康乃馨胸花，他一口一个“姑娘们”叫个不停）的故事梗概断断续续重述出来（听上去他像是赶在三月望日之前，抑或在别处正值燧发枪兵化石岁月的三分节点；当年拉维尼娅出海租满月期、在蒸汽船西洋景演出之际，他曾与卡佳厮混如培根贴火腿，其间还带着狂野咆哮四处寻衅，要找五个黑小子干架）；在这寒气袭人的夜里（何等对抗交锋！何等史诗新婚之恋！），他于不安的睡梦中屡屡呓语，全教同屋几人听进耳中：一位身材瘦小、身无分文的现款布店干事彼得·克洛兰（已遭解雇）；一位居无定所的前私人秘书奥马拉（当地人称“霉烂丽莎”），说来滑稽，此人已在冰岛冷铺的门洞里盖着无家可归的寒毯熬过数夜，头枕着比男人膝头或妇人胸膛还要冰冷的命运之石；还有霍斯蒂（这名号可不含糊），一个命途多舛的海滩卖艺人；此人既无面包又无残羹，疑心自己正坐在自我深渊边缘的毒蝇伞菌凳上，饿得前胸贴后背，对世间万事一概抱有忧郁症（值夜酒保啊，你端给他的真是夜莺般的袖珍绝命饮！），顶着一头乱麻似的浅黄发在草垫铺上辗转反侧，苦苦盘算着用什么门道法子（他平素最爱这般胡思乱想），无论如何在国内弄到哪个家伙的帕拉贝鲁姆手枪，指望搭上一趟联谊便车，在达尔基、敦劳费尔与布莱克罗克电车线旁某处侧轮下等小酒馆落脚，好在那里花两毛五分钱来上一瓶一枪毙命的烈酒，在安宁与总算账的解脱中准准扣动扳机，将自己这颗自寻死路的脑袋一枪轰上云霄；原来此前他靠着格里斯尔太太这位女贵人相助，已使尽浑身解数，折腾了十八个月历之久，想从帕特里克·邓恩爵士医院转出，经由汉弗莱·杰维斯爵士医院，住进阿德莱德医院的圣凯文病床（在这些无人照管的悲叹岁月里，面对这群无药可救的卫斯理威灵顿之辈，凭圣雅各的扇贝帽，好拉撒路啊，求你救拔我们！），到头来却左支右绌，怎么也没能走通门路。丽莎·奥戴维斯与罗奇·蒙根（此二人在灵肉交感上可谓同气连枝；若容借用成句，堪称“宿敌兼恶臭，外加岩石碎裂者”）照例心照不宣，同霍斯蒂挤在一张甜蜜起伏、摇晃欲倾的通铺大母床里，酣睡着斯温伯恩式的浮游大觉，活像树林里的毛头小子、燕麦田里的乡巴佬，抑或荒野里的败家浪子；那忙碌的破晓粗使小女佣（在此我们气喘吁吁献上赞歌之报！）擦亮锅盖、门铜、学童的苹果脸蛋与火把童的金属牌还没几眨眼工夫，这位重振精神的卖艺人（盖因同卧床友们闹腾轰鸣了一整夜，清晨又喝了顿火腿牛胫早酒，他已判若两人）满脑子灰斗思绪，活像不肯再给白人老爷做培根鸡蛋早饭的土著小子，便同他那群睡意全消的卧房随从（“我们的好儿郎”，正如我们那位拜伦所称）一骨碌爬起身，拖着脚步走出这处被他们昵称为“大木桶”的猪窝，穿过埃布林寒气袭人的村落（彼时他们在地表行经的三条路线与歇脚点，同眼下我们两便士半的地下铁在表层之下穿行铁轨与车站所测定的线与点，竟奇妙吻合），一路伴着克鲁斯古提琴的拨奏声——那琴音如克雷莫纳名琴般悲鸣低吟，轻快又深沉，机敏又婉转，欢欣跳跃而易于弹奏，轻抚着节庆圣王芬纳蒂治下臣民的耳廓；那些臣民睡在自家的红砖屋舍与芬芳的草莓床榻上，几乎不去理会卖蜜人、播种薰衣草或鲜活博因河三文鱼的叫卖声，正大大张开道学气的嘴巴，好更充分地领略这部久候的咆哮清唱剧弥赛亚，此时才睡到半梦半醒之间；他们在一家当铺麻利驻足片刻，以义齿修复兼词首添音之目的赎回歌者那副着实令人赞叹的假牙，接着又长久造访库雅斯广场的一处落脚酒馆，即大乐自由区圣塞西莉亚堂区的“老酒鬼之窟”——照格里菲斯土地估值算来，此处距格莱斯顿首相（或许是末代斯图亚特王室总管）点燃造物主进军火柴的雕像旧址不足一千零一民族同盟里；故事漫衍至此：在这酒馆里，哼着“发克福尔迪德尔”小调的三人组，又添了一名“日后意向明日请早”的临时工，外加一位刚领到那笔羞辱性周薪（吁！）的昔日体面人物；这帮多嘴饶舌之徒（谁管什么名词？），人人喝上了那位大好老兄作东请客的杜松子兑姜汁酒提神；在这顿单身汉午宴外加为庆贺昨日而续的几杯下肚之后，这群无赖借着烈酒催生的情谊满面红光，走出持牌酒肆（布朗打头，那位如矮小附笔般的前任再前任小干事手托帽子，像女眷信末附言似的落在他们凄凉的队尾：“我要钱。请寄来”），用衣袖擦拭笑得漏水的嘴唇，活像爱尔兰小伙子放声高呼战歌一般（奏响曲调吧，奏响芬恩的歌谣！）；押韵者的天地有理由因一首准歌谣而更为丰饶，社区合唱界也当向这位歌谣作者致敬，只因他将自己那首咏唱世间最卑劣的妖怪兼最富吸引力的化身的歌谣，标上了这颗星球的旋律版图——此人正是世间历来最难解释清楚的人物。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-treacle-tom-liberties",
+          "lemma": "supplied by the Duck and Doggies, the Galopping Primrose, Brigid Brewster's, the Cock, the Postboy's Horn, the Little Old Man's and All Swell That Aimswell, the Cup and the Stirrup, he sought his wellwarmed leababobed in a housingroom Abide With Oneanother at Block W.W., (why didn't he back it?) Pump Court, The Liberties",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "本句列出一串供应劣酒的酒肆名号（Duck and Doggies、Galopping Primrose 等）。leababobed 嵌爱尔兰语 leaba（床）；Abide With Oneanother 戏拟赞美诗《与我同住》（Abide with Me）；The Liberties（自由民区）为都柏林西南老城区。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-hosty-mildew-lisa",
+          "lemma": "he after having being trying all he knew with the lady's help of Madam Gristle for upwards of eighteen calanders to get out of Sir Patrick Dun's, through Sir Humphrey Jervis's and into the Saint Kevin's bed in the Adelaide's hosspittles (from these incurable welleslays among those uncarable wellasdays through Sant Iago by his cocklehat, good Lazar, deliver us!) without after having been able to jerrywangle it anysides.",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "通铺听众除被解雇的布店小干事 Peter Cloran 与外号“霉烂丽莎”（Mildew Lisa，下文又作 Lisa O'Deavis）的 O'Mara 外，核心人物为落魄卖艺人 Hosty（拉丁语 hostis“宿敌”见下文括号“hostis et odor insuper petroperfractus”，其中 petroperfractus 亦暗扣 Peter Cloran“岩石碎裂”）。本句交代霍斯蒂此前在格里斯尔太太协助下耗时十八个月，试图从都柏林帕特里克·邓恩爵士医院（Sir Patrick Dun's Hospital）经杰维斯街医院（Jervis Street Hospital）转入阿德莱德医院（Adelaide Hospital）圣凯文病床而未能办成。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-crewth-fiddle-pawn",
+          "lemma": "to the thrummings of a crewth fiddle which, cremoaning and cronauning, levey grevey, witty and wevey, appy, leppy and playable, caressed the ears of the subjects of King Saint Finnerty the Festive",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "crewth fiddle 指威尔士与凯尔特古弓弦乐器克鲁斯琴（crwth）；cremoaning and cronauning 拼合意大利名琴产地克雷莫纳（Cremona）、呻吟（moaning）与爱尔兰语低吟（crónán）。随后众人在当铺驻足赎回歌者的假牙（prothetic 双关义齿修复 prosthetic 与修辞词首添音 prothetic）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-old-sots-hole-glasstone",
+          "lemma": "a prolonged visit to a house of call at Cujas Place, fizz, the Old Sots' Hole in the parish of Saint Cecily within the liberty of Ceolmore not a thousand or one national leagues, that was, by Griffith's valuation, from the site of the statue of Primewer Glasstone",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "Saint Cecily（圣塞西莉亚）为天主教音乐主保圣人，爱尔兰语 ceol mór（Ceolmore）意为“大音乐”（亦指风笛正曲）。The Old Sots' Hole（老酒鬼之窟）为小说中的落脚酒馆名；Griffith's valuation 指十九世纪理查德·格里菲斯主持的爱尔兰地产估值调查；Primewer Glasstone 戏改英国首相格莱斯顿（Gladstone）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-melomap-bogeyer-avatar",
+          "lemma": "the rascals came out of the licensed premises, (Browne's first, the small p.s. ex-exexecutive capahand in their sad rear like a lady's postscript: I want money. Pleasend), wiping their laughleaking lipes on their sleeves, how the bouckaleens shout their roscan generally (seinn fion, seinn fion's araun.) and the rhymers' world was with reason the richer for a wouldbe ballad, to the balledder of which the world of cumannity singing owes a tribute for having placed on the planet's melomap his lay of the vilest bogeyer but most attractionable avatar the world has ever had to explain for.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "酒后走出酒馆的队伍中，布朗领头，前任小干事（ex-exexecutive）手托帽子落在队尾，如女眷信末附言（P.S.）般乞钱（“I want money. Pleasend”）。bouckaleens 源自爱尔兰语 buachaillín（小伙子），roscan 指古爱尔兰战歌或散文韵律诗；seinn fion 兼涉爱尔兰语“奏响曲调／芬恩之歌”与新芬党（Sinn Féin）。attractionable 兼含“有吸引力”与“可起诉／可追究”（actionable）双重回声。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-042-17",
+      "range": [
+        42,
+        17,
+        44,
+        24
+      ],
+      "locator": "042.17–044.24",
+      "source_id": "joyce-fp",
+      "lead_in": "This, more krectly lubeen or fellow — me — lieder was first...",
+      "closing": "...graddaghsemmihsammihnouithappluddyappladdypkonpkot!).",
+      "original": "This, more krectly lubeen or fellow—me—lieder was first poured forth where Riau Liviau riots and col de Houdo humps, under the shadow of the monument of the shouldhavebeen legislator (Eleutheriodendron! Spare, woodmann, spare!) to an overflow meeting of all the nations in Lenster fullyfilling the visional area and, as a singleminded supercrowd, easily representative, what with masks, whet with faces, of all sections and cross sections (wineshop and cocoahouse poured out to brim up the broaching) of our liffeyside people (to omit to mention of the mainland minority and such as had wayfared via Watling, Ernin, Icknild and Stane, in chief a halted cockney car with its quotal of Hardmuth's hacks, a northern tory, a southern whig, an eastanglian chronicler and a landwester guardian) ranging from slips of young dublinos from Cutpurse Row having nothing better to do than walk about with their hands in their kneepants, sucking airwhackers, weedulicet, jumbobricks, side by side with truant officers, three woollen balls and poplin in search of a croust of pawn to busy professional gentlemen, a brace of palesmen with dundrearies, nooning toward Daly's, fresh from snipehitting and mallardmissing on Rutland heath, exchanging cold sneers, massgoing ladies from Hume Street in their chairs, the bearers baited, some wandering hamalags out of the adjacent cloverfields of Mosse's Gardens, an oblate father from Skinner's Alley, bricklayers, a fleming, in tabinet fumant, with spouse and dog, an aged hammersmith who had some chisellers by the hand, a bout of cudgel players, not a few sheep with the braxy, two bluecoat scholars, four broke gents out of Simpson's on the Rocks, a portly and a pert still tassing Turkey Coffee and orange shrub in tickeyes door, Peter Pim and Paul Fry and then Elliot and, O, Atkinson, suffering hell's delights from the blains of their annuitants' acorns not forgetting a deuce of dianas ridy for the hunt, a particularist prebendary pondering on the roman caster, the tonsure question and greek uniates, plunk em, a lace lappet head or two or three or four from a window, and so on down to a few good old souls, who, as they were juiced after taking their pledge over at the uncle's place, were evidently under the spell of liquor, from the wake of Tarry the Tailor a fair girl, a jolly postoboy thinking off three flagons and one, a plumodrole, a half sir from the weaver's almshouse who clings and clings and chatchatchat clings to her, a wholedam's cloudhued pittycoat, as child, as curiolater, as Caoch O'Leary. The wararrow went round, so it did, (a nation wants a gaze) and the ballad, in the felibrine trancoped metre affectioned by Taiocebo in his Casudas de Poulichinello Artahut, stumpstampaded on to a slip of blancovide and headed by an excessively rough and red woodcut, privately printed at the rimepress of Delville, soon fluttered its secret on white highway and brown byway to the rose of the winds and the blew of the gaels, from archway to lattice and from black hand to pink ear, village crying to village, through the five pussyfours green of the united states of Scotia Picta—and he who denays it, may his hairs be rubbed in dirt! To the added strains (so peacifold) of his majesty the flute, that onecrooned king of inscrewments, Piggott's purest, ciello alsoliuto, which Mr Delaney (Mr Delacey?), horn, anticipating a perfect downpour of plaudits among the rapsods, piped out of his decentsoort hat, looking still more like his purseyful namesake as men of Gaul noted, but before of to sputabout, the snowycrested curl amoist the leader's wild and moulting hair, 'Ductor' Hitchcock hoisted his fezzy fuzz at bludgeon's height signum to his companions of the chalice for the Loud Fellow, boys' and silentium in curia! (our maypole once more where he rose of old) and the canto was chantied there chorussed and christened where by the old tollgate, Saint Annona's Street and Church. And around the lawn the rann it rann and this is the rann that Hosty made. Spoken. Boyles and Cahills, Skerretts and Pritchards, viersified and piersified may the treeth we tale of live in stoney. Here line the refrains of. Some vote him Vike, some mote him Mike, some dub him Llyn and Phin while others hail him Lug Bug Dan Lop, Lex, Lax, Gunne or Guinn. Some apt him Arth, some bapt him Barth, Coll, Noll, Soll, Will, Weel, Wall but I parse him Persse O'Reilly else he's called no name at all. Together. Arrah, leave it to Hosty, frosty Hosty, leave it to Hosty for he's the mann to rhyme the rann, the rann, the rann, the king of all ranns. Have you here? (Some ha) Have we where? (Some hant) Have you hered? (Others do) Have we whered? (Others dont) It's cumming, it's brumming! The clip, the clop! (All cla) Glass crash. The (klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot!). { | Ardite, arditi! Music cue. \"The Ballad of Persse O'Reilly.\"",
+      "status": "revised",
+      "translation": "这首曲子——更确切地说是爱尔兰对歌小调，或“跟着我唱”的同侪歌曲——最初倾泻传唱之处，正当利菲河汹涌喧嚣、霍斯山口隆起如驼峰之地，掩映在那位本该成为立法者的纪念碑阴影之下（自由之树啊！樵夫，手下留情，手下留情！）。当时伦斯特省万邦民众集会爆满，塞满了目力所及的整片区域；这支万众一心的超级人群，有的戴着面具，有的露着真容，轻而易举便代表了我们利菲河畔子民的各个阶层与横切面（酒坊与可可茶馆倾巢涌出，把开桶畅饮的场面挤得满满当当），更不必说来自大陆主岛的少数派，以及取道沃特林、厄尔敏、伊克尼尔德与斯泰恩古道跋涉而来的旅客——为首的是一辆停驻的伦敦佬马车，载着定额的哈德穆斯铅笔文丐：一名北方托利党人、一名南方辉格党人、一名东盎格利亚编年史家，外加一名西地卫报记者。人群五花八门：有从剪包街晃出来、闲得无聊只能双手插在及膝短裤兜里四处游荡的都柏林半大少年，嘴里吮着吹泡硬糖，也就是说大块头砖糖，身旁并肩走着逃学稽查员、三颗羊毛球当铺招牌与寻觅典当面包皮的爱尔兰府绸；直到步履匆忙的体面行业绅士；一对留着邓德里长连鬓胡、刚在拉特兰荒原打中沙锥鸟却打偏野鸭的外圈要塞区绅士，正午晃向达利俱乐部，彼此交换着冷笑；从休姆街乘轿赶去做弥撒的贵妇人，轿夫正在打尖歇脚；从毗邻莫斯花园的三叶草田里闲逛出来的几个流浪汉；来自皮匠巷的一位献身会神父；泥水匠；一个身穿冒烟爱尔兰毛葛、携妻带狗的弗拉芒人；一个手里牵着几个小毛头的老铁匠；一伙比试棍术的汉子；好几只染了快疫病的绵羊；两名蓝衣公学学童；从落魄辛普森医馆出来的四个破产绅士；在赊账铺门前继续啜饮土耳其咖啡与香橙甜酒的一胖一俏；彼得·皮姆与保罗·弗莱，接着是埃利奥特，噢，还有阿特金森，正因年金领受者的橡子脓疮痛得死去活来；当然也没落下两位整装待猎的狄安娜女猎手；一位苦苦琢磨罗马军营日历、修士剃发问题与希腊东仪派教会（管他们去死）的宗派主义牧师会教士；从窗口探出的一两个、三四个饰蕾丝垂带的妇人头颅；如此一路数下去，直到几个老好人——他们在当铺大叔那里发过戒酒誓后又灌饱了酒汁，显然正中了烈酒的魔咒；从“裁缝塔里”守灵夜走来的一位俊俏姑娘；一个心里盘算着三壶外加一壶酒的快活邮童；一个滑稽古怪、来自织工济贫院的半吊子先生，紧紧巴着、死死贴着、喋喋不休黏着她那件云彩色的整身衬裙，活像孩童，活像古玩迷，活像盲人奥赖利。传战箭四处飞传，可不是嘛（一个民族总想看热闹）；这首歌谣采用泰奥切博在《普钦内罗·阿塔胡特之屋》中所偏爱的费利布尔派切分韵律，匆匆拓印在一张空白纸条上，顶头印着一幅极其粗糙的红墨木刻，由德尔维尔韵律印刷所私下承印，转眼间便在白昼大道与褐色小径上，迎着罗盘风向玫瑰与盖尔人的狂风，从拱门吹向格窗，从黑手掌传入粉耳朵，村村传呼，将秘密传遍皮克特苏格兰合众国绿意盎然的五省四方——谁若敢矢口否认，就教他的头发在泥垢里摩擦！伴着长笛陛下——那乐器中独戴一冠的君王、皮戈特琴行最纯正的极品、高音直入云霄——额外奏出的（何等祥和繁复的）旋律，吹号手德拉尼先生（还是德拉西先生？）预料行吟诗人群中必将爆发倾盆大雨般的掌声，便从他那顶体面礼帽里吹响管乐，正如高卢人所留意到的，瞧上去越发酷似他那位腰包鼓鼓的同名人物；但未及四处喷溅唾沫，当那领唱者蓬乱脱落的头发间露出一绺雪白卷发之际，“指挥”希区柯克将他那顶毛茸茸的土耳其毡帽高举到短棒齐高处，向同饮圣杯的伙伴们发出召唤“大嗓门家伙”的信号：“小伙子们，法庭肃静！”（我们的五月花柱再度在往昔升起之处耸立），歌章便在彼处旧收费关卡、圣阿诺纳街与圣阿诺纳堂旁高声吟唱、齐声合唱并受洗得名。歌谣绕着草坪奔流，这便是霍斯蒂编出的歌谣。道白。博伊尔家与凯希尔家，斯克雷特家与普里查德家，既已入诗亦已穿刺化名，愿我们传述的真树在顽石中长存。此处排起副歌诗行。有人选他作维京，有人派他作迈克，有人封他作林恩与芬恩，另有人呼他作卢格、臭虫、丹、洛普、律法、三文鱼、大炮或吉恩。有人称他作亚瑟，有人为他施洗唤作巴思、科尔、诺尔、索尔、威尔、威耳、城墙，但我将他剖析为珀斯·奥赖利，否则他就根本无名无姓。齐唱。哎呀，交给霍斯蒂吧，冷峻的霍斯蒂，交给霍斯蒂吧，只因他是给歌谣押韵的好汉，这歌谣，这歌谣，万谣之王！你们这儿有吗？（有人答：有）我们哪儿有？（有人答：没）你们听见了吗？（旁人答：听见了）我们去哪儿找？（旁人答：没找着）来了，轰隆隆来了！啪嗒，啪嗒！（全体鼓掌）玻璃碎裂声。那一声（klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot！）。｛｜敢死队员们，拿出胆色来！音乐提示。《珀斯·奥赖利歌谣》。",
+      "notes": [
+        {
+          "id": "i2-lubeen-eleutheriodendron",
+          "lemma": "This, more krectly lubeen or fellow—me—lieder was first poured forth where Riau Liviau riots and col de Houdo humps, under the shadow of the monument of the shouldhavebeen legislator (Eleutheriodendron! Spare, woodmann, spare!)",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "lubeen 源自爱尔兰语 luibín（叠句对唱歌谣），fellow—me—lieder 双关英语 Follow my leader 与德语艺术歌曲（Lieder）。Riau Liviau 与 col de Houdo 为利菲河与霍斯角（Howth）变形。Eleutheriodendron 由希腊语 eleutheria（自由）与 dendron（树）合成，“Spare, woodmann, spare!”戏拟乔治·波普·莫里斯（George Pope Morris）诗作《樵夫，手下留情》（Woodman, Spare That Tree!）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-supercrowd-four-roads",
+          "lemma": "an overflow meeting of all the nations in Lenster fullyfilling the visional area and, as a singleminded supercrowd, easily representative, what with masks, whet with faces, of all sections and cross sections (wineshop and cocoahouse poured out to brim up the broaching) of our liffeyside people (to omit to mention of the mainland minority and such as had wayfared via Watling, Ernin, Icknild and Stane, in chief a halted cockney car with its quotal of Hardmuth's hacks, a northern tory, a southern whig, an eastanglian chronicler and a landwester guardian)",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "Watling, Ernin, Icknild and Stane 指不列颠岛四条古代干道（Watling Street, Ermine Street, Icknield Way, Stane Street）；车上四名来自北、南、东、西的报人（Tory, Whig, East Anglian Chronicler, Manchester Guardian 变形）与四方见证者结构相呼应。Hardmuth 指铅笔制造商 Koh-I-Noor Hardtmuth。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-dublin-social-panopticon",
+          "lemma": "ranging from slips of young dublinos from Cutpurse Row having nothing better to do than walk about with their hands in their kneepants, sucking airwhackers, weedulicet, jumbobricks, side by side with truant officers, three woollen balls and poplin in search of a croust of pawn to busy professional gentlemen",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "本段长句列举汇聚听歌的都柏林各色人群与地名：Cutpurse Row（剪包街）、Daly's（达利俱乐部）、Hume Street（休姆街）、Mosse's Gardens（罗伯特·莫斯医生设立的产科医院花园）、Skinner's Alley（皮匠巷）、Simpson's（辛普森盲人与痛风病患医馆），以及 Pim、Fry、Elliot、Atkinson 等都柏林织物与百货商号姓氏。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-wararrow-delville-press",
+          "lemma": "The wararrow went round, so it did, (a nation wants a gaze) and the ballad, in the felibrine trancoped metre affectioned by Taiocebo in his Casudas de Poulichinello Artahut, stumpstampaded on to a slip of blancovide and headed by an excessively rough and red woodcut, privately printed at the rimepress of Delville",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "wararrow 令人联想古苏格兰与爱尔兰召集部族的传战木十字（fiery cross / crann tara）。felibrine 指十九世纪普罗旺斯文学复兴团体“费利布尔派”（Félibrige）；Delville 为都柏林北郊格拉斯内文庄园名（十八世纪帕特里克·德拉尼博士与斯威夫特常往来之处）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-flute-hitchcock-maypole",
+          "lemma": "'Ductor' Hitchcock hoisted his fezzy fuzz at bludgeon's height signum to his companions of the chalice for the Loud Fellow, boys' and silentium in curia! (our maypole once more where he rose of old) and the canto was chantied there chorussed and christened where by the old tollgate, Saint Annona's Street and Church.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "Piggott's 指都柏林格拉夫顿街皮戈特琴行（Pigott & Co.）。'Ductor' Hitchcock（拉丁语 ductor“领队／指挥”）举帽杖高呼拉丁语“silentium in curia!”（法庭肃静！），众人遂在旧收费关卡与圣阿诺纳街堂旁合唱并为歌谣命名。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-rann-catalog-persse-oreilly",
+          "lemma": "Some vote him Vike, some mote him Mike, some dub him Llyn and Phin while others hail him Lug Bug Dan Lop, Lex, Lax, Gunne or Guinn. Some apt him Arth, some bapt him Barth, Coll, Noll, Soll, Will, Weel, Wall but I parse him Persse O'Reilly else he's called no name at all.",
+          "kind": "structure",
+          "certainty": "proposal",
+          "text": "rann 为爱尔兰语“诗节／四行诗”；the treeth we tale of live in stoney 并置树（tree）与石（stone）。紧接着通过单音节押韵名录罗列主人公各色化名，最终定名为 Persse O'Reilly（音同法语 perce-oreille“蠼螋／耳夹子虫”，呼应前文 Earwicker）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-thunderword-two",
+          "lemma": "The (klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot!). { | Ardite, arditi! Music cue. \"The Ballad of Persse O'Reilly.\"",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "括号内为全书第二记百字母雷鸣词，以密集的爆破音与拍击拟声词模拟玻璃碎裂与全场鼓掌轰鸣（末尾 appluddyappladdypkonpkot 嵌 applaud）。雷鸣词之后，1939年版与 Faded Page 底本在第44页底部印有四小节五线谱及舞台音乐提示“{ | Ardite, arditi! Music cue. \"The Ballad of Persse O'Reilly.\"”（Ardite, arditi 为意大利语“敢死队员们，拿出胆色来”；Faded Page 底本以图像 persseoreilly.jpg 呈现乐谱，本项目文本仅收录文字提示与曲名，不渲染乐谱图像）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "reviewers": [],
+      "draft": "此曲（更确切地说是叠句讽唱歌，或是跟我唱的领唱连环谣）初度放歌之处，正值利菲河（Riau Liviau）翻波、霍斯岬角（col de Houdo）驼隆之所，掩映于本该成就大业的立法家纪念碑之阴影下（自由之树啊！樵夫，手下留情，手下留情！）。集会溢出会场，全伦斯特省各邦万人空巷，填满目力所及的视界；这支万众一心的超迈人群，有的覆以面具，有的亮出真容，轻而易举便代表了我们利菲河畔子民的所有阶层与各界名流（酒肆与可可茶铺倾巢而出，倾杯注酒共赴狂欢），更毋庸赘述那来自英伦主岛的少数过客，以及沿着沃特林、厄尔敏、伊克尼尔德与斯泰恩四大古道跋涉而至的游人——领头的正是一辆驻足观望的伦敦佬敞篷马车，载着一整批哈德穆斯铅笔描摹的下等报贩：北境托利党人、南方辉格党人、东盎格利亚编年史客，外加一位西地卫报记者。群像包罗万象：自剪包街游荡而来的都柏林青葱少年，闲极无聊，双手插在紧身及膝裤兜里，吮吸着硬壳大糖块（即所谓巨无霸甜砖）；在他们身旁，逃学稽查员、织工当铺的三颗羊毛球与爱尔兰府绸正四处寻觅典当的面包皮；步履匆忙的体面士绅，几位留着邓德里长连鬓胡、从外圈要塞区来的老贵族正往达利俱乐部晃去赶午宴，刚在拉特兰荒野打了沙锥鸟却漏了野鸭，彼此交换着冰冷的嘲诮；从休姆街乘轿前去做弥撒的贵妇人，轿夫正在歇马受饵；从莫斯花园毗邻苜蓿地闲逛而出的流浪脚夫；来自皮匠巷的献身会修士；泥水匠；身着冒烟爱尔兰毛绦呢、携妻带犬的弗拉芒织工；手里牵着几个毛头小鬼的年迈铁匠；一伙挥棒互击的棍术好手；好几头染了羊肠疽的病羊；两名蓝袍公学门生；从辛普森破落避难所出来的四位破产先生；在挂账铺门前继续啜饮土耳其咖啡与香橙甜烈露的一胖一俊；彼得·皮姆与保罗·弗莱，随后还有埃利奥特，哎呀，更有阿特金森，正因领受年金者的痔疮痛得死去活来；当然少不了两位盛装待猎的狄安娜女猎手；一位钻牛角尖的教俸领受人，苦苦琢磨着罗马复活节日历、修士剃发式规制与希腊东仪天主教公案，管他们去死；从临街窗棂探出的一二三四顶饰蕾丝飘带发套的女眷；往下更有一撮老好人，在当铺掌柜跟前发过戒酒誓后痛饮饱蘸，显然仍在烈酒的魔力笼罩之下；从“缝纫匠塔里”守灵夜走来的一位姣好姑娘；一位心心念念想着三坛外加一坛美酒的快活邮童；一个傻头傻脑、来自织工济贫院的半吊子乡绅，紧紧贴着、死死抱住、嘁嘁喳喳黏附着她那如云似雾的完整衬裙，恰似孩童，恰似古玩狂人，恰似盲人奥莱利。传战箭绕境飞驰，正是如此（一个民族总渴求众目聚焦）；这首按泰奥切博在《普钦内罗阿塔胡特之屋》所钟爱的费利布尔切分断节韵律写就的歌谣，仓促拓印在一张空白传单上，顶头缀有一幅极粗糙的朱红木刻，由德尔维尔私人韵律印刷所秘密印制；转眼间，其机密便随风飘向白昼大道与幽暗小径，吹向罗盘八面风与盖尔风潮，自门廊直抵格窗，从乌黑手掌传入粉嫩耳廓，村村呐喊相闻，穿透皮克特苏格兰诸联合邦绿意葱茏的五省四区——谁若敢抵赖，就教他的毛发在泥垢里搓揉！伴随着长笛陛下那分外安详的合奏之声——那乐器中独一无二的至尊加冕之王，出自皮戈特琴坊的极品，宛如大提琴，又兼鲁特琴——德拉尼先生（抑或是德拉西先生？）持号角而出，预期吟诵盲侠中必将掀起一阵雷动的掌声，从他那顶体面礼帽中吹响管乐，高卢人见之，更觉其酷肖那囊囊满袋的同名先贤；然而未及唾沫横飞，在那领唱者散乱脱落的发丝间现出卷曲白霜之际，“指挥家”希区柯克将毛糙假发高悬于短杖顶端，作为向高脚杯诸位同侪示意“大嗓门先生”的信号：“小的们，法庭肃静！”（我们昔日拔地而起的五月花柱重现此间），歌篇便在此地高声吟咏、齐声合唱并获洗礼得名——就在那昔日旧收费关卡、圣阿诺纳街与圣阿诺纳教堂之侧。诗韵绕着草坪奔流，这便是霍斯蒂写就的歌谣诗节。道白。博伊尔家与凯希尔家，斯克雷特家与普里查德家，既已入诗亦已化石，愿我们传唱的真理之树在磐石中长青。此处排起副歌之行。有人选他作维京霸主，有人推他为迈克尔大公，有人称他为林恩与芬恩，另有人奉他作卢格、臭虫、丹、瘸子、法度、三文鱼、枪炮抑或吉尼斯。有人唤他亚瑟，有人为他施洗称巴塞洛缪、科尔、诺尔、索尔、威尔、威廉、城墙，但本人将他剖析为皮尔斯·奥莱利，否则他就根本无名无姓。齐声合唱。哎呀，全交给霍斯蒂，冷傲的霍斯蒂，全托付给霍斯蒂，因为他是押韵成诵的铁汉，这歌谣，这诗章，万谣之王！你们这里有吗？（有人答：有）我们哪里有？（有人答：无）你们听见了吗？（旁人答：听见了）我们去何处找？（旁人答：找不着）来了，轰隆隆来了！嗒嗒，嘚嘚！（全体拍手）玻璃粉碎。那一声（klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot！）。",
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-045-01",
+      "range": [
+        45,
+        1,
+        45,
+        30
+      ],
+      "locator": "045.01–045.30",
+      "source_id": "joyce-fp",
+      "lead_in": "Have you heard of one Humpty Dumpty...",
+      "closing": "...Universally provided by this soffsoaping salesman.",
+      "original": "Have you heard of one Humpty Dumpty How he fell with a roll and a rumble And curled up like Lord Olofa Crumple By the butt of the Magazine Wall, (Chorus) Of the Magazine Wall, Hump, helmet and all? He was one time our King of the Castle Now he's kicked about like a rotten old parsnip. And from Green street he'll be sent by order of His Worship To the penal jail of Mountjoy (Chorus) To the jail of Mountjoy! Jail him and joy. He was fafafather of all schemes for to bother us Slow coaches and immaculate contraceptives for the populace, Mare's milk for the sick, seven dry Sundays a week, Openair love and religion's reform, (Chorus) And religious reform, Hideous in form. Arrah, why, says you, couldn't he manage it? I'll go bail, my fine dairyman darling, Like the bumping bull of the Cassidys All your butter is in your horns. (Chorus) His butter is in his horns. Butter his horns! (Repeat) Hurrah there, Hosty, frosty Hosty, change that shirt on ye, Rhyme the rann, the king of all ranns! Balbaccio, balbuccio! We had chaw chaw chops, chairs, chewing gum, the chickenpox [and china chambers Universally provided by this soffsoaping salesman.",
+      "draft": "你可曾听说过矮胖子（Humpty Dumpty）？\n听他滚滚隆隆摔得粉碎，\n蜷缩得活像奥洛法·克伦威尔勋爵（Lord Olofa Crumple），\n瘫倒在弹药库高墙的底座根脚，\n    （副歌）在那弹药库的高墙下，\n            驼背、头盔，样样丢光？\n\n他曾是我们城堡的国王，\n如今像烂熟老欧洲防风草任人踢滚。\n尊贵的大法官下令，从绿街法庭押解他，\n径直关进芒特乔伊苦役苦牢，\n    （副歌）押进芒特乔伊大牢！\n            大牢关他，万民同乐。\n\n他是扰乱万民百般诡计的始作爹爹，\n给庶民开慢吞吞马车与无瑕避孕药，\n给病患喝母马奶，每周七天滴酒不沾，\n野外露天调情与宗教改制，\n    （副歌）还有宗教改革，\n            面目可憎！\n\n哎呀，你问他何以招架不住？\n我敢作保，我那俊俏的奶夫宝贝，\n活像卡西迪家乱撞的公牛，\n你浑身的黄油全长在角尖上。\n    （副歌）他的黄油长在犄角上。\n            抹油擦角！\n\n（重唱）霍斯蒂好样的，冷傲的霍斯蒂，换掉你身上那件衬衫，\n押你的诗韵，万谣之王！\n\n               恶结巴，丑口吃！\n我们嚼过咀嚼大肉排、坐过椅子、嚼过口香糖，得过水痘，用过夜壶瓷便盆，\n全由这巧舌如簧的推销奸商一手兜售。",
+      "translation": "你可曾听说过有个矮胖子，\n他连滚带响摔下墙头，\n蜷缩得活像奥洛法·克伦威尔勋爵，\n瘫在弹药库高墙根脚，\n    （副歌）在那弹药库高墙下，\n            驼背、头盔，一并摔垮？\n\n他曾是我们城堡的国王，\n如今像烂防风草任人踢踹。\n凭法官大人一道钧令，\n他将从绿街押往芒特乔伊苦役监牢，\n    （副歌）押往芒特乔伊大牢！\n            关进大牢，大家欢笑。\n\n他是折腾我们百般花招的结巴老爹，\n给百姓弄来慢吞吞马车与无染避孕套，\n给病人灌母马奶，一星期七个禁酒礼拜天，\n露天调情外加宗教改革，\n    （副歌）还有宗教改革，\n            形状丑恶！\n\n哎呀，你问他怎么应付不来？\n我敢打保票，我那俊俏的乳品商心肝，\n活像卡西迪家顶人的公牛，\n你满身黄油全长在牛角尖上。\n    （副歌）他的黄油全在角上。\n            往他角上抹黄油！\n\n（重唱）好样的，霍斯蒂，冷峻的霍斯蒂，换掉你身上那件衬衫，\n给歌谣押韵，万谣之王！\n\n               大结巴，臭口吃！\n我们有过碎肉排、椅子、口香糖、水痘［还有瓷夜壶，\n全由这抹肥皂奉承的推销员普遍供应。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-humpty-dumpty-crumple",
+          "lemma": "Have you heard of one Humpty Dumpty How he fell with a roll and a rumble And curled up like Lord Olofa Crumple By the butt of the Magazine Wall",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "歌谣首节将童谣人物矮胖子（Humpty Dumpty）从墙头跌落与凤凰公园弹药库高墙（Magazine Wall）并置；Lord Olofa Crumple 似拼合都柏林维京国王奥拉夫（Olaf）与奥利弗·克伦威尔（Oliver Cromwell，戏作 Crumple“蜷缩／起皱”）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-king-castle-green-mountjoy",
+          "lemma": "He was one time our King of the Castle Now he's kicked about like a rotten old parsnip. And from Green street he'll be sent by order of His Worship To the penal jail of Mountjoy",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "King of the Castle 指儿童占高地游戏“我是城堡王”，亦双关都柏林城堡。歌谣以将来时（he'll be sent）预言或咒骂他将奉法官大人（His Worship）之命，从都柏林绿街法庭（Green Street）被押往芒特乔伊监狱（Mountjoy Prison）；此系歌谣中的戏谑诅咒，并非已发生的司法记录。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-fafafather-schemes",
+          "lemma": "He was fafafather of all schemes for to bother us Slow coaches and immaculate contraceptives for the populace, Mare's milk for the sick, seven dry Sundays a week, Openair love and religion's reform",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "fafafather 以口吃模拟“百般烦人花招的始作之父”（改写《创世记》4:20-21“一切……之人的祖师”句式）。immaculate contraceptives 将天主教“圣母无染原罪”（Immaculate Conception）与避孕用具（contraceptives）拼合；seven dry Sundays a week 戏指周日禁酒规定。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-cassidy-bull-butter",
+          "lemma": "Arrah, why, says you, couldn't he manage it? I'll go bail, my fine dairyman darling, Like the bumping bull of the Cassidys All your butter is in your horns.",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "歌中将乳品商（dairyman）比作“卡西迪家乱撞的公牛，黄油全长在牛角上”，讥刺其徒具顶撞气势而产不出乳脂黄油（horns 亦常兼涉戴绿帽之角）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-balbaccio-soffsoaping",
+          "lemma": "Balbaccio, balbuccio! We had chaw chaw chops, chairs, chewing gum, the chickenpox [and china chambers Universally provided by this soffsoaping salesman.",
+          "kind": "sound",
+          "certainty": "proposal",
+          "text": "Balbaccio, balbuccio 源自意大利语 balbo / balbettare（结巴、口吃）加贬义后缀 -accio / -uccio；随后以 ch- 头韵连缀碎肉排（chops）、椅子（chairs）、口香糖（chewing gum）、水痘（chickenpox）与瓷夜壶（china chambers），底本在“[and china chambers”前保留折行方括号“[”。soffsoaping 双关抹软肥皂与花言巧语奉承（soft-soaping）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "fw-i2-046-01",
+      "range": [
+        46,
+        1,
+        47,
+        29
+      ],
+      "locator": "046.01–047.29",
+      "source_id": "joyce-fp",
+      "lead_in": "Small wonder He'll Cheat E'erawan our local lads nicknamed him...",
+      "closing": "...(bis) That's able to raise a Cain.",
+      "original": "Small wonder He'll Cheat E'erawan our local lads nicknamed him When Chimpden first took the floor (Chorus) With his bucketshop store Down Bargainweg, Lower. So snug he was in his hotel premises sumptuous But soon we'll bonfire all his trash, tricks and trumpery And'tis short till sheriff Clancy'll be winding up his unlimited company With the bailiff's bom at the door, (Chorus) Bimbam at the door. Then he'll bum no more. Sweet bad luck on the waves washed to our island The hooker of that hammerfast viking And Gall's curse on the day when Eblana bay Saw his black and tan man-o'-war. (Chorus) Saw his man-o'-war. On the harbour bar. Where from? roars Poolbeg. Cookingha'pence, he bawls Donnez- [moi scampitle, wick an wipin'fampiny Fingal Mac Oscar Onesine Bargearse Boniface Thok's min gammelhole Norveegickers moniker Og as ay are at gammelhore Norveegickers cod. (Chorus) A Norwegian camel old cod. He is, begod. Lift it, Hosty, lift it, ye devil ye! up with the rann, the rhyming rann! It was during some fresh water garden pumping Or, according to the Nursing Mirror, while admiring the monkeys That our heavyweight heathen Humpharey Made bold a maid to woo (Chorus) Woohoo, what'll she doo! The general lost her maidenloo! He ought to blush for himself, the old hayheaded philosopher, For to go and shove himself that way on top of her. Begob, he's the crux of the catalogue Of our antediluvial zoo, (Chorus) Messrs. Billing and Coo. Noah's larks, good as noo. He was joulting by Wellinton's monument Our rotorious hippopopotamuns When some bugger let down the backtrap of the omnibus And he caught his death of fusiliers, (Chorus) With his rent in his rears. Give him six years. 'Tis sore pity for his innocent poor children But look out for his missus legitimate! When that frew gets a grip of old Earwicker Won't there be earwigs on the green? (Chorus) Big earwigs on the green, The largest ever you seen. Suffoclose! Shikespower! Seudodanto! Anonymoses! Then we'll have a free trade Gaels' band and mass meeting For to sod the brave son of Scandiknavery. And we'll bury him down in Oxmanstown Along with the devil and Danes, (Chorus) With the deaf and dumb Danes, And all their remains. And not all the king's men nor his horses Will resurrect his corpus For there's no true spell in Connacht or hell (bis) That's able to raise a Cain.",
+      "draft": "难怪本地小伙给他起个绰号：“人人他都坑”（He'll Cheat E'erawan），\n当年钦普登初次登场亮家底，\n    （副歌）开着他那廉价投机铺，\n            就在下便宜路街头。\n\n他曾舒舒服服缩在奢华旅店宅第，\n但转眼我们要架起篝火，烧尽他的破烂、诡计与骗局，\n用不了多久，克兰西警长就会清算他那无限责任公司，\n更有法警的重锤砰砰擂门，\n    （副歌）乒乒乓乓砸大门。\n            看他还能无赖混多久。\n\n好一番晦气，浪涛冲上我们海岛，\n那铁锤维京蛮霸的破双桅船；\n异族人的诅咒降临那一天，埃布拉纳海湾\n眼睁睁见着他那黑褐双色铁甲战舰。\n    （副歌）见着他的铁甲战舰。\n            横在海港沙洲前。\n\n何方神圣？普尔贝格灯塔怒吼。哥本哈根铜板贩子，他高叫：“赏我两文，养活哭哭啼啼全家老小！”\n芬戈尔·麦克·奥斯卡·阿尼辛·肥腚·博尼法斯，\n那是老子古老的挪威海盗名号，\n如今我是个老挪威鳕鱼老光棍。\n    （副歌）一头老挪威骆驼老鳕鱼。\n            天晓得，他当真是。\n\n唱响它，霍斯蒂，唱响它，你这捣蛋鬼！高唱歌谣，高唱押韵连环诗！\n正当给鲜水花园汲水抽泵之际，\n抑或按《护士镜像》所言，正当他欣赏猴群之时，\n我们那重量级异教蛮霸汉弗莱，\n斗胆向一位纯真少女求欢，\n    （副歌）呜呼，她该如何是好！\n            将军失手，丢了滑铁卢处女堡！\n\n他真该自个儿脸红，这满头乱草的老哲学家，\n竟硬生生朝人家身上霸王硬上弓。\n凭上帝起誓，他是我们洪荒前动物园\n名录图鉴中的头号难题，\n    （副歌）卿卿我我两掌柜。\n            诺亚百鸟，完好如新。\n\n他曾在惠灵顿纪念碑前颠簸晃荡，\n我们那声名狼藉的河马巨兽，\n冷不防哪个混账撂下公共马车的后车门，\n燧发枪士兵当场将他逮个正着，\n    （副歌）屁股上裤管撕开大窟窿。\n            判他服苦役整整六年。\n\n可怜他那无辜苦命的儿女，\n但且留神他那明媒正娶的原配悍妻！\n一旦那黄脸婆死死揪住老埃尔威克，\n草坪上岂不大爆蠼螋恶斗？\n    （副歌）草坪上翻滚起大蠼螋，\n            天下未见的巨型地蚕。\n\n    窒息克勒斯！颤抖士比亚！伪但丁！无名摩西！\n\n接着我们组织自由贸易盖尔军乐队与群众集会，\n用草皮深埋这斯堪的纳维亚老流氓。\n我们把这恶徒深埋在牛人镇下，\n与魔鬼同列，同丹麦人作伴，\n    （副歌）伴着又聋又哑的丹麦人，\n            以及他们遗留的全数骨骸。\n\n国王所有的军马，以及所有的部下，\n谁也无法复活他那具腐尸；\n因为无论在康诺特还是地狱，全无半句真咒，\n    （重唱）能教该隐死而复生。",
+      "translation": "难怪我们本地小伙给他起绰号叫“人人他都骗”，\n想当初钦普登刚登场亮相，\n    （副歌）开着他那投机黑店，\n            就在下便宜道街上。\n\n他曾舒舒服服窝在豪华旅店房产里，\n但转眼我们要点起篝火，烧光他的破烂、花招与假货，\n用不了多久，克兰西警长就会清盘他那无限公司，\n法警在门前砰砰砸门，\n    （副歌）门前乒乒乓乓。\n            看他还怎么白吃白混。\n\n真是倒霉透顶，海浪冲上我们海岛，\n送来那铁锤海盗的破双桅船；\n异族人的诅咒落上那一天，埃布拉纳海湾\n瞧见了他那艘黑棕两色兵舰。\n    （副歌）瞧见了他的兵舰。\n            横在港湾沙洲前。\n\n从哪儿来？普尔贝格灯塔咆哮。哥本哈根半便士，他大吼：“赏［我点小钱，养活老婆和哭哭啼啼的一家子！\n芬戈尔·麦克·奥斯卡·阿尼辛·肥屁股·博尼法斯，\n那是我老挪威海盗的名号，\n而我也是条老挪威海盗老鳕鱼。”\n    （副歌）一头老挪威骆驼老鳕鱼。\n            凭天发誓，他真是。\n\n唱起来，霍斯蒂，唱起来，你这鬼家伙！把歌谣唱响，押韵的歌谣！\n那是在淡水花园抽水之际，\n抑或照《护士镜报》所说，正值观赏群猴之时，\n我们那重量级异教徒汉弗莱，\n放胆向一位少女求欢，\n    （副歌）呜呼，她可怎么办！\n            将军丢了她的滑铁卢处女关！\n\n他真该替自己害臊，这满头干草的老哲学家，\n竟那样硬往人家身上扑。\n凭天发誓，他是我们大洪水前动物园\n目录里的头号难题，\n    （副歌）卿卿与我我两位先生。\n            诺亚的百灵鸟，完好如新。\n\n他正沿着惠灵顿纪念碑颠簸摇晃，\n我们这头声名狼藉的大河马，\n冷不防哪个混账放下公共马车的后踏板，\n他便撞上燧发枪兵染了要命风寒，\n    （副歌）屁股裤裆撕开大裂缝。\n            给他判上六年！\n\n真可怜他那帮无辜苦命的孩儿，\n但且留神他那明媒正娶的浑家！\n一旦那婆娘揪住老埃尔威克，\n草坪上岂不爬满蠼螋打成一团？\n    （副歌）草坪上的大蠼螋，\n            你平生所见最大的一群。\n\n    窒息克勒斯！摇枪士比亚！伪但丁！无名摩西！\n\n接着我们要召集自由贸易盖尔乐队与民众大会，\n用草皮埋葬这斯堪的纳维亚无赖的好儿郎。\n我们要把他深埋在牛人镇下，\n同魔鬼与丹麦人作伴，\n    （副歌）同又聋又哑的丹麦人，\n            以及他们全部的遗骸。\n\n哪怕国王的全体人马齐出动，\n也休想叫他那具尸首复活；\n只因无论在康诺特还是地狱，全无半句真咒，\n    （重唱）能够重新唤起该隐。",
+      "status": "revised",
+      "reviewers": [],
+      "notes": [
+        {
+          "id": "i2-cheat-eerawan-clancy",
+          "lemma": "Small wonder He'll Cheat E'erawan our local lads nicknamed him When Chimpden first took the floor (Chorus) With his bucketshop store Down Bargainweg, Lower.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "He'll Cheat E'erawan 首字母构成 H.C.E.，音同“He'll cheat everyone”（人人他都骗），字形或兼涉塞缪尔·巴特勒小说《埃瑞璜》（Erewhon）。Bargainweg, Lower 似戏改都柏林下巴戈特街（Lower Baggot Street）。下文 sheriff Clancy 或指乔伊斯在《斯蒂芬英雄》与书信中提及的都柏林副治安官 John Clancy。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-viking-hooker-copenhagen",
+          "lemma": "Sweet bad luck on the waves washed to our island The hooker of that hammerfast viking And Gall's curse on the day when Eblana bay Saw his black and tan man-o'-war.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "hammerfast 兼指挪威北部港城哈默菲斯特（Hammerfest）与紧握雷神之锤；Gall 在爱尔兰语中指异族外邦人；Eblana 为托勒密地图所载都柏林古称；black and tan 兼指黑棕双色与爱尔兰独立战争时期的英军“黑棕部队”（Black and Tans）。下文 Cookingha'pence 戏改哥本哈根（Copenhagen），并夹杂英法丹挪混杂乞讨黑话。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-monkeys-humphrey-maidenloo",
+          "lemma": "It was during some fresh water garden pumping Or, according to the Nursing Mirror, while admiring the monkeys That our heavyweight heathen Humpharey Made bold a maid to woo (Chorus) Woohoo, what'll she doo! The general lost her maidenloo!",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "歌谣传述公园求欢的两种说法（花园抽水或照《护士镜报》所说观赏猴子）；副歌 maidenloo 将少女贞操（maidenhead）、滑铁卢（Waterloo）与便所（loo）拼合。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-hayheaded-antediluvial-zoo",
+          "lemma": "He ought to blush for himself, the old hayheaded philosopher, For to go and shove himself that way on top of her. Begob, he's the crux of the catalogue Of our antediluvial zoo, (Chorus) Messrs. Billing and Coo. Noah's larks, good as noo.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "antediluvial zoo 指大洪水前动物园，副歌 Noah's larks 将诺亚方舟（Noah's ark）改写为胡闹嬉戏（larks），Messrs. Billing and Coo 借鸽子交颈咕咕叫（bill and coo）戏拟商号名称。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-wellington-fusiliers-six-years",
+          "lemma": "He was joulting by Wellinton's monument Our rotorious hippopopotamuns When some bugger let down the backtrap of the omnibus And he caught his death of fusiliers, (Chorus) With his rent in his rears. Give him six years.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "he caught his death of fusiliers 将英语熟语“caught his death [of cold]”（染上要命风寒）中的 cold 替换为 fusiliers（燧发枪兵）；With his rent in his rears 双关裤子后臀撕裂（rent in his rear）与拖欠房租（rent in arrears）。末句“Give him six years”是副歌众人起哄叫喊“给他判上六年！”，并非法庭陪审团的正式判决记录。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-missus-frew-earwigs-green",
+          "lemma": "When that frew gets a grip of old Earwicker Won't there be earwigs on the green? (Chorus) Big earwigs on the green, The largest ever you seen.",
+          "kind": "wordplay",
+          "certainty": "proposal",
+          "text": "frew 拼合德语妻子（Frau）与泼妇（shrew）；earwigs on the green 将爱尔兰俗语“wigs on the green”（草坪上假发乱飞，指大打出手）改写为“草坪上爬满蠼螋”。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-four-masters-literature",
+          "lemma": "Suffoclose! Shikespower! Seudodanto! Anonymoses!",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "四个感叹词分别变形自索福克勒斯（Sophocles + suffocate / close）、莎士比亚（Shakespeare + shite /ikes / power）、但丁（Dante + pseudo）与摩西（Moses + anonymous）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-oxmanstown-devils-danes",
+          "lemma": "Then we'll have a free trade Gaels' band and mass meeting For to sod the brave son of Scandiknavery. And we'll bury him down in Oxmanstown Along with the devil and Danes",
+          "kind": "culture",
+          "certainty": "proposal",
+          "text": "Scandiknavery 拼合斯堪的纳维亚（Scandinavia）与无赖行径（knavery）；Oxmanstown（源自 Ostmanstown“东人／维京人镇”）为都柏林利菲河北岸街区，毗邻凤凰公园。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        },
+        {
+          "id": "i2-resurrect-connacht-cain",
+          "lemma": "And not all the king's men nor his horses Will resurrect his corpus For there's no true spell in Connacht or hell (bis) That's able to raise a Cain.",
+          "kind": "allusion",
+          "certainty": "proposal",
+          "text": "“not all the king's men nor his horses Will resurrect his corpus”化用《矮胖子》童谣末句（All the king's horses and all the king's men...）；Connacht or hell 呼应克伦威尔时期驱逐爱尔兰人的俗语“To Hell or to Connaught”；raise a Cain 兼指复活该隐（Cain）、大吵大闹（raise Cain）与举杖／阳具暗示（raise a cane）。",
+          "source_ids": [
+            "joyce-fp"
+          ]
+        }
+      ],
+      "alternatives": []
+    }
+  ],
+  "coverage_review": "已据 Faded Page（joyce-fp）底本核对第一卷第二章（030.01–047.29）全部10个分段的原文与坐标，补入044页雷鸣词后的舞台音乐提示与曲名；全章10段译文已完成逐句逐分句修订，补齐全部漏译括号、名单、医院路线、酒肆名录与对话交互；全章57条注释均已核验精确连续引文（lemma），统一绑定 joyce-fp 来源，将未核解释全部定级为 proposal，状态标为 revised 待人工审校。"
+}

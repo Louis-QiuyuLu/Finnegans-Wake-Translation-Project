@@ -1,0 +1,806 @@
+{
+  "fw-i4-075-01": [
+    {
+      "id": "i4-lion-teargarten-nile",
+      "lemma": "lililiths undeveiled",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "泪园困狮与尼罗河睡莲。字面写泪园（teargarten）困狮追忆尼罗河睡莲；teargarten 谐音德语 Tiergarten（动物园，或指柏林蒂尔加滕，或指都柏林凤凰公园动物园），睡莲与尼罗河亦引发伊西斯或莉莉丝之联想，存作候选推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-teak-coffin-pugh-glass",
+      "lemma": "The teak coffin, Pughglasspanelfitted, feets to the east",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "柚木棺椁与玻璃嵌板。字面写镶有 Pugh 玻璃嵌板的柚木棺椁足朝东方安放，并提及莫耶尔塔（Moyelta）与内伊湖（Lough Neagh）；或借都柏林玻璃商名号与基督教面东候复活葬俗构拟葬礼场景，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-attila-danube-bed",
+      "lemma": "like the erst curst Hun in the bed of his treubleu Donawhu.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "匈奴单于与多瑙河床。字面以受咒匈奴人（Hun）卧于深蓝多瑙河（treubleu Donawhu，兼谐法语 true blue 与爱尔兰姓氏 Donoghue）河床设喻；传统传说常联想到阿提拉河葬故事，存作候选推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-phallopharos-peurelachasse",
+      "lemma": "underground heaven, or mole's paradise which was probably also an inversion of a phallopharos",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "倒置阳具灯塔与拉雪兹神父。phallopharos 拼合阳具（phallus）与灯塔（Pharos）；Mgr Peurelachasse 戏拟巴黎拉雪兹神父公墓（Père Lachaise）之名，存作词形双关推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-mac-pelah-herewhippit-skidoo",
+      "lemma": "stone slab with the usual Mac Pelah address of velediction",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "麦比拉洞辞别铭文与 skidoo。Mac Pelah 谐音《创世记》族长墓穴麦比拉洞（Machpelah）；adamelegy 拼合亚当与哀歌（elegy）；句末以俚语 skidoo（快滚）收束碑文，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-077-28": [
+    {
+      "id": "i4-funeral-emporium-honophreum",
+      "lemma": "Show coffins, winding sheets, goodbuy bierchepes, cinerary urns",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "殡仪百货清单与 honophreum。段首铺陈棺木、裹尸布、廉价灵柩架、骨灰瓮等丧葬器物清单；后文 honophreum 将汉弗莱（Humphrey）名号熔入陵寝纪念堂词形，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-heights-abraham-cian-dreyfus",
+      "lemma": "spring offensive on the heights of Abraham",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "亚伯拉罕高地、基安与德雷福斯。原文串联亚伯拉罕高地（heights of Abraham，或指1759年魁北克战役及圣经族长）、七重深埋之基安（septuply buried Cian）与 dreyfussed（谐音德雷福斯冤案 Dreyfus），存作互文候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-hibernating-massa-ewacka",
+      "lemma": "hibernating Massa Ewacka",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "冬眠埃尔威克与每日七十条赤梢鱼。字面写冬眠的 Massa Ewacka 往昔在有生之年每日（per lifeday）可吞食七十条赤梢鱼（threescoreten of roach），如今则如鲑鱼般暗中吮吸自身错位体脂度日，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-kate-strong-scavenging-filthdump",
+      "lemma": "filthdump near the Serpentine in Phornix Park",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "寡妇凯特·斯特朗与蛇形湖倾倒场。小说借寡妇凯特·斯特朗的扫街证词勾勒昔日都柏林陋巷与凤凰公园蛇形湖（Serpentine）旁的垃圾堆积场；此系小说戏拟证言，不作十七世纪真实市政档案定论（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-hide-leabhar-loveletter-cradle",
+      "lemma": "hide a leabhar from Thursmen's brandihands or a loveletter",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "隐匿古书、情书与四手安放婴儿。leabhar 为爱尔兰语『书本』；Thursmen 指维京雷神托尔部众；末句写经由四只先见之手（four hands of forethought）将首个和解婴儿安放于甜蜜家园（hume sweet hume 谐音 home sweet home 与休谟 Hume）的最终摇篮，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-080-20": [
+    {
+      "id": "i4-allhighest-zarathustra-hindu",
+      "lemma": "Allhighest sprack for krischnians as for propagana fidies",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "至高者发言与三神意象。Allhighest 对应德语 Allerhöchste（至高者），krischnians 拼合基督徒与黑天（Krishna），propagana fidies 戏拟传信部（Propaganda Fide），后接印度教火神阿耆尼（Agni）、密特拉（Mithra）与湿婆（Shiva）及火把祭司驱赶众人之语，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-viability-vicinals-brennan-pass",
+      "lemma": "viability of vicinals if invisible is invincible",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "邻舍通衢与布伦南山口。vicinals 指邻里小道；后文串联汉尼拔行军、奥康奈尔大道与布伦南山口（Brennan's pass，或涉爱尔兰绿林民谣《荒原上的布伦南》），存作候选推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-cropatkin-mugger-michelangelo",
+      "lemma": "the attackler, a cropatkin",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "袭击者 cropatkin 与米开朗琪罗。cropatkin 在词形上叠合无政府主义者克鲁泡特金（Kropotkin）与剪耳强盗（crop-ear），在暴雨中纠缠容貌神似米开朗琪罗雕像的对手，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-nippoluono-wei-ling-taou-pautheen",
+      "lemma": "Nippoluono engaging Wei-Ling-Taou",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拿破仑对阵威灵顿与 Pautheen。Nippoluono 与 Wei-Ling-Taou 拟音拿破仑与威灵顿；后文 Let me go, Pautheen! I hardly knew ye! 杂揉爱尔兰私酿威士忌（poitín）与传统民谣《Johnny I Hardly Knew Ye》句式，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-wooden-webley-christchurch-cat-mouse",
+      "lemma": "woden affair in the shape of a webley",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "木制韦伯利假枪与基督堂管风琴猫鼠。入侵者身上掉落一柄形状如韦伯利（Webley）左轮手枪的木制物件（woden 兼谐北欧主神沃登 Woden）；后文以基督堂大教堂管风琴音管内猫捉耗子的典故比喻二人僵持，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-082-30": [
+    {
+      "id": "i4-hesitency-excelcism-jj-and-s",
+      "lemma": "hesitency carried to excelcism",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "hesitency 与四先令七便士。hesitency 重现皮戈特伪信案著名拼写异体；人物在旷野中提出垫付四先令七便士（后文又倒换作 seven and four），并提及都柏林詹姆森威士忌缩写 J. J. & S.，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-dublin-pub-crawl-four-taverns",
+      "lemma": "Ruadh Cow at Tallaght",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "原文依次列出塔拉特红牛客栈（Ruadh Cow at Tallaght）、环尾区善妇酒馆（Good Woman at Ringsend）、黑岩康韦客栈（Conway's Inn at Blackrock）与亚当夏娃酒馆（Adam and Eve's）。此处按小说名录对照，不据此确认各处真实营业史。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-pax-poghue-danegeld-torgantruce",
+      "lemma": "pax in embrace or poghue puxy",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拥吻议和、丹麦金与币值倒换。pax（拉丁语和平）与 poghue（爱尔兰语 póg，吻）并置；danegeld 指古代缴纳给维京人的丹麦金，torgantruce 嵌入维京雷神托尔格（Thorgil/Torgan）与休战（truce），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-vicar-lane-redcrossed-blood-206-bones",
+      "lemma": "watchhouse in Vicar Lane",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "牧师巷值班所与二百零六块骨头。德拉尼前往牧师巷（Vicar Lane）治安值班所展示满面交错血迹（redcrossed face of blood），自称除一处淤伤外全身二百零六块骨骼与五百零一块肌肉完好；段末以 Herwho? 悬置所涉女性身份，不作定案（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-084-28": [
+    {
+      "id": "i4-el-don-de-dunelli-butt-bridge",
+      "lemma": "politish leanings and town pursuits of our forebeer, El Don De Dunelli",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "先祖埃尔·唐·德·杜内利与巴特桥。El Don De Dunelli 拼合西语尊称与爱尔兰姓氏 Donnelly/Dunne（或联想奥康奈尔等政治人物），人物在都柏林利菲河巴特桥（Butt's bridge）头就座，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-festy-king-maam-old-bailey",
+      "lemma": "child of Maam, Festy King",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "马姆之子费斯蒂·金与老贝利法庭。费斯蒂·金（Festy King）号称马姆之子（child of Maam，戈尔韦郡山谷地名），在老贝利（Old Bailey）受提讯，面临在公共场所放牧与亵渎神明两项指控，其与 HCE／肖恩之叠影存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-kersse-korduroy-karikature",
+      "lemma": "soaked in methylated",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "甲醇气味与克尔斯灯芯绒滑稽装。被告浑身散发工业甲醇气味，身着成衣店统一裁制的干衣，形同『克尔斯灯芯绒滑稽画』（Kersse's Korduroy Karikature，预呼第二卷裁缝 Kersse），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-tykingfest-rabworc-pedigree-pig",
+      "lemma": "Tykingfest and Rabworc",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "化名 Tykingfest、Rabworc 与无照纯种猪。Tykingfest 为 Festy King 的音节移位，Rabworc 为撬棍（Crowbar）的字母倒序；控方声称他赴穆德福德中白猪集市时携带一头未领牌照的纯种猪和风信子。人名拆拼属本项目推测。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-qui-sta-troia-doubloons-arrears",
+      "lemma": "Qui Sta Troia",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Qui Sta Troia 与拖欠租金。Qui Sta Troia 戏拟拉丁名句『此处曾是特洛伊』（Hic Troia fuit）与意大利语 troia（母猪／特洛伊），后接六枚达布隆金币十五先令的欠租与猪圈纠纷，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-086-32": [
+    {
+      "id": "i4-ent-witness-medical-square",
+      "lemma": "Remarkable evidence was given, anon, by an eye, ear, nose and throat witness, whom Wesleyan chapelgoers suspected of being a plain clothes priest W.P., situate at Nullnull, Medical Square",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "眼耳鼻喉证人与医学广场。证人号称眼耳鼻喉专科证人，卫理公会信徒疑心其为便衣神父 W. P.，住址在医学广场（Medical Square，或影射都柏林梅里恩广场医生聚居区与王尔德之父威廉·王尔德），存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-filth-of-november-tournay",
+      "lemma": "remember the filth of November, hatinaring, rowdy O",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "十一月五日与古战场名号。the filth of November 谐拟英国十一月五日火药阴谋歌谣（Remember, remember, the fifth of November），后接 декабрь（decemb／十二月）及 Tournay、Yetstoslay、Temorah（或涉图尔奈战役与奥西安史诗特摩拉），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-hyacinth-odonnell-sivispacem",
+      "lemma": "how Hyacinth O'Donnell, B.A., described in the calendar as a mixer and wordpainter, with part of a sivispacem (Gaeltact for dungfork)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "海辛斯·奥唐奈与 sivispacem。叙述者括注戏称 sivispacem 为盖尔语『粪叉』，实则直引罗马军事家韦格蒂乌斯拉丁名言 Si vis pacem, para bellum（欲求和平，必先备战）前半句，存作词形解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-gush-mac-gale-roaring-ocrian",
+      "lemma": "another two of the old kings, Gush Mac Gale and Roaring O'Crian, Jr., both changelings, unlucalised, of no address",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "两位旧王名号与掉包儿。Gush Mac Gale 与 Roaring O'Crian, Jr 称作两位掉包旧王（old kings, both changelings），音形上或叠合爱尔兰古王（如 Cormac Mac Art、Rory O'Connor、Brian Boru）与双子形象，存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-deadmans-court-waterhose-abfalltree",
+      "lemma": "Deadman's Dark Scenery Court",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "亡魂幽景法庭、Waterhose 与堕落树。Waterhose 戏拟都柏林达姆街著名钟表珠宝商行 Waterhouse 大钟；abfalltree 结合德语 Abfall（坠落／废料）与英语 tree，暗指伊甸园堕落之树与公园现场林木，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-audible-visible-pancreates-bell",
+      "lemma": "audible-visible-gnosible-edible world existed",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "外在世界存在之问与铃声回应。法庭借鉴法国作家泰奥菲尔·戈蒂耶名言（『我是那种外在可见世界为其存在的人』）盘问四感世界是否存在；证人答以每有所感便敲响铃声（made a bell，音形亦兼谐 Abel／亚伯或 able），或亦引发条件反射联想，存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-here-comes-everybody-acrostic",
+      "lemma": "Helmingham Erchenwyne Rutter Egbert Crumwall Odin Maximus Esme Saxon Esa Vercingetorix Ethelwulf Rupprecht Ydwalla Bentley Osmund Dysart Yggdrasselmann",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "十八词藏头格言 HERE COMES EVERYBODY。原文自 Helmingham 至 Yggdrasselmann 共十八个专名或族名，各词首字母依次拼出 H-E-R-E C-O-M-E-S E-V-E-R-Y-B-O-D-Y（共计十八个字母），存作藏头词形解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-two-childspies-three-vuncouverers-blackpool",
+      "lemma": "The two childspies waapreesing him auza de Vologue but the renting of his rock was from the three wicked Vuncouverers",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "两名窥探孩童、三名伏击者与黑池。two childspies 指两名窥探孩童；three vuncouverersries 叠合温哥华（Vancouver）、发现者（discoverers）与覆盖林木，后文 Blackpool 则对应都柏林爱尔兰语名 Dubh Linn（黑池）字面义，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-088-35": [
+    {
+      "id": "i4-tem-dromio-duel-of-lentils",
+      "lemma": "But, of course, he could call himself Tem, too",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "双生德罗米奥与一对扁豆。Two dreamyums in one dromium 化用莎士比亚《错误的喜剧》双胞胎仆人 Dromio；as like as a duel of lentils 改写俗语 as like as two peas（一模一样），以扁豆（lentils，兼谐雅各与以扫红豆汤）与决斗（duel 谐音 dual 成双）设喻，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-the-prince-macchevuole-fishup",
+      "lemma": "The prince in principel should not expose his person? Macchevuole!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "君主原则与意大利语惊叹。The prince in principel 谐拟马基雅维利《君主论》（Il Principe）；Macchevuole 为意大利语口语 Ma che vuole!（哪有这回事／您想怎样），后文 fishup 拼合游鱼（fish）与主教（bishop），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-grazing-rights-puck-goat",
+      "lemma": "The grazing rights (Mrs Magistra Martinetta) expired with the expiry of the goat's sire",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "放牧权、公山羊与拉丁短问。原文提及放牧权随老山羊（goat's sire）终结而届满，后接拉丁短问 Quare hircum?（为何公羊？）与 Unde gentium?（出于何族？），并戏拟『在维苏威火山边缘跳舞』之危境，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-hankowchaff-second-tone-sunyetsun",
+      "lemma": "why this hankowchaff and whence this second tone, son-yet-sun? He had the cowtaw in his buxers flay of face.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "汉口调侃、第二声与 son-yet-sun。hankowchaff 拼合汉口（Hankow）与调侃（chaff，兼谐手帕 handkerchief）；second tone 指声调第二声；son-yet-sun 字面为『既是子嗣又是太阳』，读音同时谐拟孙逸仙（Sun Yat-sen），后接 kowtow（叩头）与 boxer（拳师／义和团），存作多义推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-mickmichael-let-there-be-fight",
+      "lemma": "Mickmichael's soords shrieking shrecks",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "弥额尔与尼克交锋及要有争战。Mickmichael（天使长弥额尔）与 Neckanicholas（老尼克／魔鬼）刀叉相向；Let there be fight? And there was. 戏仿《创世记》1:3『要有光，就有了光』句式，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-camellus-gemellus-hole-in-the-wall",
+      "lemma": "And Camellus then said to Gemellus: I should know you?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "孪生兄弟问答与墙中洞。Camellus 与 Gemellus（拉丁语 gemellus 意为孪生子）互认手足；后文 the hole in the wall 既指墙洞，亦或暗指都柏林凤凰公园围墙边的同名酒馆（Hole in the Wall），存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-monster-compound-word-whoredom",
+      "lemma": "Bladyughfoulmoecklenburgwhurawhorascortastrumpapornanennykocksapastippatappatupperstrippuckputtanach, eh?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "多语种复合詈词。此复合长词嵌入都柏林旧红灯区街道名 Mecklenburg 及英语 whore、strumpet、hussy、拉丁／意语 scorta、希腊语 porne 等多语种蔑称词根，存作词形拆解（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-090-34": [
+    {
+      "id": "i4-meirdreach-oincuish-pegger-festy",
+      "lemma": "Meirdreach an Oincuish! But a new complexion was put upon the matter",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "爱尔兰语詈词与钉鞋费斯蒂。Meirdreach 为爱尔兰语『娼妓』，Oincuish 音近爱尔兰语 óinseach（傻女）或金币／苦痛词形；后文 Pegger Festy（钉鞋匠费斯蒂）借布立吞语译员当庭起誓，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-cliopatrick-sow-story-bouchal",
+      "lemma": "relics of the bones of the story bouchal that was ate be Cliopatrick (the sow) princess of parked porkers",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "母猪克娄帕特里克与童子遗骨。Cliopatrick 拼合克娄巴特拉（Cleopatra）与圣帕特里克（Patrick），bouchal 源自爱尔兰语 buachaill（男孩），Dundalgan 指爱尔兰古地名敦达尔甘（Dundalk），存作词形解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-amreeta-beaker-tyre-nan-og-iskybaush",
+      "lemma": "wassailhorn tot of iskybaush",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "甘露杯、常青之地与生命之水。amreeta 对应梵语甘露（Amrita），Tyre-nan-Og 对应爱尔兰神话常青乐土（Tír na nÓg），iskybaush 拟音爱尔兰语威士忌『生命之水』（uisce beatha），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-hilariohoot-tristitone-bruno-opposites",
+      "lemma": "The hilariohoot of Pegger's Windup cumjustled as neatly with the tristitone of the Wet Pinter's as were they isce et ille equals of opposites",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "欢笑与悲调的对立重合。hilariohoot（狂喜欢呼）与 tristitone（凄凉悲调）对举，后文『由同一自然或精神力量演化为相反相等之两极，借相克之结合再度聚首』化用布鲁诺与库萨的尼古拉之对立面重合哲思，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-gentia-gemma-sheeshea-shayshaun",
+      "lemma": "Gentia Gemma of the Makegiddyculling Reeks",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "月相计数闺秀与麦克吉利库迪山岭。a pairless trentene, a lunarised score 以三十减一双（二十八）及月相周期指代前排闺秀；stincking thyacinths 兼含插入（sticking）与恶臭（stinking）风信子之反讽；后文 Gentia Gemma of the Makegiddyculling Reeks 戏拟爱尔兰最高山脉麦克吉利库迪山岭（MacGillycuddy's Reeks），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-four-justicers-nolans-brumans",
+      "lemma": "the four justicers laid their wigs together, Untius, Muncius, Punchus and Pylax but could do no worse than promulgate their standing verdict of Nolans Brumans",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "四位大法官与 Nolans Brumans 裁决。Untius、Muntius、Punchus、Pylax 四名法官暗合爱尔兰四省与本丢·彼拉多（Pontius Pilate）；Nolans Brumans 双关都柏林书商名号（Browne and Nolan）、布鲁诺（Nolan）与法律术语撤诉（nolle prosequi），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-shun-the-punman-drinkbattle",
+      "lemma": "Shun the Punman!: safely and soundly soccered that fenemine Parish Poser",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "避开双关犯与醉战暗宅。Shun the Punman! 谐拟『避开执笔人谢姆』（Shem the Penman），群女将被告踢出法庭轰入 Drinkbattle's Dingy Dwelling（戏拟谢姆的墨瓶居 Inkottle House）；其后 he shat in 保留排泄字面，也可听作 he sat in。正文暂取排泄一层，zoo／dun 原词并存，其他音形关系待考。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-sevenfold-shame-chorus",
+      "lemma": "Hon! Verg! Nau! Putor! Skam! Schams! Shames!",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "七重羞耻呼喝。段末并列七个近音感叹词，其中 Skam、Schams、Shames 明显对应斯堪的纳维亚语、德语及英语『羞耻』，Hon、Putor 或涉法语 honte（羞耻）与拉丁语 putor（恶臭），其余词源尚存多解（uncertain）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-093-22": [
+    {
+      "id": "i4-artha-kama-dharma-moksa",
+      "lemma": "And so it all ended. Artha kama dharma moksa. Ask Kavya for the kay.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "古印度人生四目的与梵语诗艺。Artha（实利）、Kama（爱欲）、Dharma（正法）、Moksa（解脱）为古印度传统四大人生目标（Purusharthas）；Kavya 指梵语古典诗艺，kay 双关钥匙（key），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-the-letter-the-litter",
+      "lemma": "The letter! The litter! And the soother the bitther! Of eyebrow pencilled, by lipstipple penned.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "书信与垃圾堆双关。The letter（书信）与 The litter（垃圾堆／一窝幼崽）并置，the soother the bitther 双关『越抚慰越苦涩』与『越柔和越美好』，并写信件由眉笔与唇彩书写，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-elemental-letter-journey-hen",
+      "lemma": "The elm that whimpers",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "榆石对话与信件流转六步。树顶呜咽之榆树向树下呻吟之顽石讲述信件经历：风折、浪载、苇写、马夫（syce）奔送、手撕引发战火、母鸡（Hen）啄拾带来和平，存作文本结构解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-riddle-primal-scene",
+      "lemma": "What was it? A",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "字母与虚点排版谜题。原文保留首尾字母 A 与 O（或呼应阿尔法与欧米茄起讫）、连续虚点及惊叹号、疑问号，故意悬置未填词句；中译照录原版字符与标点以保留未完成谜面（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-four-marshalsea-solans",
+      "lemma": "the four with them, setting around upin their judges' chambers, in the muniment room, of their marshalsea",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "马夏尔西档案室与四老。四人围坐于马夏尔西（Marshalsea，旧债务人监狱名）档案室的传统律法桌旁，Somany Solans 兼谐雅典立法者梭伦（Solon）与塘鹅（solan goose），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-dirty-daddy-pantaloons",
+      "lemma": "Singabob, the badfather, the same, the great Howdoyoucallem, and his old nickname, Dirty Daddy Pantaloons",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "邋遢老爹长裤汉。四老追忆恶父昔日绰号 Dirty Daddy Pantaloons，借意大利即兴喜剧老丑角潘塔隆（Pantalone）与宽松长裤（pantaloons）戏谑老汉形象，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-telesmell-h2ce3-brewer-belch",
+      "lemma": "pure mountain dew than enrich my acquaintance with that big brewer's belch.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "H2CE3 气味符号与啤酒厂饱嗝。H2CE3 将人物缩写 HCE 嵌作仿化学分子式（形近硫化氢 H2S 或亚硫酸 H2SO3），与段末大啤酒厂恶臭饱嗝（the big brewer's belch）及山间私酿（mountain dew）相对照，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-095-27": [
+    {
+      "id": "i4-fourbottle-men-anschluss-sunfella",
+      "lemma": "the fourbottle men, the analists",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "四瓶客、编年分析家与 anschluss。fourbottle men 指海量饮客，analists 双关编年史家（annalists）与精神分析家（analysts），anschluss 借德语『合并／联结』描述四人串讲男女过往，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-niall-nine-corsages-lefanu",
+      "lemma": "Mrs Niall of the Nine Corsages and the old markiss",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "九袭胸花之尼尔夫人与老宅。Mrs Niall of the Nine Corsages 戏仿爱尔兰古王『九质之尼尔』（Niall of the Nine Hostages）；后文提及小教堂伊索德旁的老宅（或涉勒法努《教堂墓地旁的老宅》），存作候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-father-whisperer-saucicissters-schenkusmore",
+      "lemma": "Milton's Park under lovely Father Whisperer",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "耳语神父、俏姐妹与添酒言和。四人追忆学生时代在米尔敦公园（Milltown Park，都柏林耶稣会学院所在地）随耳语神父（Father Whisperer）静修、与一对俏姐妹（saucicissters）调情，随后由拉利劝和并喊出德语谐音 schenkusmore（schenk uns mehr，再给我们斟酒），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-securus-iudicat-playing-possum-brush",
+      "lemma": "securus iudicat orbis terrarum",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拉丁断语与装死保尾。securus iudicat orbis terrarum（普世全地之审判确凿无疑）引自奥古斯丁神学名句；hagious curious encestor 嵌出 H.C.E. 首字母，写其借负鼠装死之计（playing possum）保全狐尾（brush），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-humfries-chase-gundogs-townlands",
+      "lemma": "Gundogs of all breeds were beagling with renounced urbiandorbic bugles",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "汉弗莱猎场与围猎路线。猎犬伴随教廷通谕式号角（urbiandorbicioty 谐拟 Urbi et Orbi）在汉弗莱猎场（Humfries Chase）追逐老狐狸，沿途串联 Mullinahob、Peacockstown、Tankardstown、Rath、Hollockstown、Chiverstown、Loughlinstown、Nutstown 等地名，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-deaf-fuchser-volpone-four-stomachs",
+      "lemma": "a deaf fuchser's volponism hid him close in covert",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "猎狐遁术、乌鸦哺喂与反刍四胃。fuchser 源自德语 Fuchs（狐狸），volponism 源自意大利语 volpone（老狐狸／本·琼森剧名）；老汉如先知以利亚般获乌鸦哺喂（ravenfed），并在瘤胃、网胃、瓣胃、皱胃（反刍动物四胃）中以香料甜酒续命，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-shipping-mogul-underlinen-overlord",
+      "lemma": "Vainly violence, virulence and vituperation sought wellnigh utterly to attax and abridge",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "三 V 头韵与航运巨擘兼内衣领主。句首以 violence, virulence and vituperation 连用 v 头韵，后接四个 un- 动词，刻画反对派企图扳倒这位航运巨擘与内衣领主却徒劳无功，存作修辞解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-pigott-forgery-hesitancy-hesitency",
+      "lemma": "But the spoil of hesitants, the spell of hesitency. His atake is it ashe, tittery taw tatterytail, hasitense humponadimply",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "迟疑之猎物与 hesitency 魔咒。段末以 hesitants 与皮戈特错拼词 hesitency 呼应，收束整场围猎与审判传闻，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-097-28": [
+    {
+      "id": "i4-reynard-is-slow-fugger-newsletter",
+      "lemma": "Assembly men murmured. Reynard is slow!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "雷纳德狐狸与富格尔快报。议员私语老狐狸雷纳德（Reynard）步履迟缓，后接十六世纪欧洲富格尔家族商业通讯《富格尔快报》（Fugger's Newsletter）关于其暴毙的传闻，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-ss-finlandia-cornelius-magrath",
+      "lemma": "He had fled again",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "芬兰号轮船、麦格拉斯与大亚细亚。传闻称他偷渡藏身芬兰号（S.S. Finlandia）底舱水箱，七世转生于大亚细亚（Asia Major，与小亚细亚 Asia Minor 相对）的十八世纪爱尔兰巨人科尼利厄斯·麦格拉斯（Cornelius Magrath）肉身之中，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-lilypond-whitlock-piece-of-wood",
+      "lemma": "He had walked towards the middle of an ornamental lilypond",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "睡莲池获救与惠特洛克赠木。传闻他微醺涉入观赏睡莲池（池水很可能有几尺深，原文为 very possibly several feel of demifrish water）获钓客搭救，后在雨伞街水泵处获工匠惠特洛克（Whitlock）赠予一截木块，叙述者连发三问探询其间所用密语与暗号，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-war-in-words-wood-is-world",
+      "lemma": "The war is in words and the wood is the world. Maply me, willowy we, hickory he and yew yourselves.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "言辞即争战与树木代词。The war is in words and the wood is the world 以头韵并置言辞与林莽世界，后句将枫木（Maply）、柳木（willowy）、山核桃（hickory）、紫杉（yew 谐音 you）分别配入人称代词 me、we、he、yourselves，存作修辞解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-carpulenta-gygasta-omnibus",
+      "lemma": "A human pest cycling",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "逍遥法外与还俗修女闹事。原文以 when 并列两桩传闻：他逍遥法外可能现身任何角落，而当时一位四十余岁、体格魁梧的乔装还俗修女 Carpulenta Gygasta 在公共马车上大闹惹人侧目；身份叠影存作候选，不径定为老汉易装（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-humpty-dumpty-nick-plugg-notice",
+      "lemma": "Move up. Mumpty! Mike room for Rumpty! By order, Nickekellous Plugg",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "后门揭帖与矮胖子谐音。后门揭帖 Move up, Mumpty! Mike room for Rumpty! 戏拟矮胖子（Humpty Dumpty）童谣与臀部（rump），署名 Nick Plugg 兼含老尼克（Old Nick／魔鬼）与塞子（plug），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-myles-the-slasher-red-hand-ulster",
+      "lemma": "Myles the Slasher in his person",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "猛砍迈尔斯与阿尔斯特红手。传闻借爱尔兰十七世纪英雄『猛砍迈尔斯』（Myles the Slasher）与布雷夫尼（Breffni）古王室领地渲染麦克马洪（MacMahon）族人行凶，其断腕右掌直立如阿尔斯特纹章上的血红之手（red hand of Ulster），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-beetly-dead-macfarlane-bartholoman",
+      "lemma": "Scatterbrains' Aftening Posht",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "借报求死讯确证与海渊挽歌。原文写拥趸借阅或求购《糊涂虫晚报》（Scatterbrains' Aftening Posht）以求确认（make dead sure）同宗是否当真如甲虫般死透（beetly dead），并非报纸已证实其死讯，存作语义辨析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i4-100-05": [
+    {
+      "id": "i4-multilingual-headlines-buttertower",
+      "lemma": "Achdung! Pozor! Attenshune! Vikeroy Besights Smucky Yung Pigeschoolies",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "多语种警示词与报章头条。段首并列德语 Achdung（Achtung 兼谐粪便 dung）、斯拉夫语 Pozor 与英语 Attenshune（Attention）三声『注意』，模仿报章大字标题播报总督视察学童，存作词形解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-tesseract-kurt-van-dijke",
+      "lemma": "the canonicity of his existence as a tesseract. Be still, O quick! Speak him dumb! Hush ye fronds of Ulma!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "四维超立方体与榆叶肃静。原文借库尔特·伊尔德·范戴克（Kurt Iuld van Dijke）之名讨论囚徒作为四维超立方体（tesseract）存在的正统性，并以祈使句呼唤生者静默、榆树（Ulma）枝叶肃静，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-dispersal-women-swift-loves",
+      "lemma": "Dispersal women wondered. Was she fast?",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "四位女性名字候选。妇人追问女主角究竟是 Unity Moore、Estella Swifte（谐拟斯威夫特笔下 Stella／Esther Johnson）、Varina Fay（谐拟斯威夫特早年致信求婚之 Jane 'Varina' Waryng，不同于『Vanessa』Esther Vanhomrigh）还是『某位第四佳人』（拉丁语 Quarta Quaedam），存作互文候选（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-buckley-and-russian-general",
+      "lemma": "who struck Buckley though nowadays",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "巴克利枪击俄国将军主客辨正。叙述者重申连年满一百四十个朔望月（sevenscore moons，约十一岁多）的女学童皆知是巴克利开枪射杀了俄国将军，而非巴克利遭将军射杀，存作母题对照（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-alp-devotion-crush-slander-head",
+      "lemma": "first warming creature of his early morn, bondwoman of the man of the house",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "妻子守灵护夫与击碎谗言蛇头。本段铺陈女主人公在丈夫坠落后掩窗守灵、盛装出征，以手袋中的棋子替冠军骑士击碎诽谤毒蛇之头（crush the slander's head，化用《创世记》3:15 踩碎蛇头意象），存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-seven-rainbow-girls-crippled-children",
+      "lemma": "Poppy Narancy, Giallia, Chlora, Marinka, Anileen, Parme",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "彩虹七色与夫妻绰号。Poppy（罂粟红）、Narancy（波斯／斯拉夫语系橙色）、Giallia（意语黄）、Chlora（希腊语浅绿）、Marinka（海蓝）、Anileen（苯胺靛青）、Parme（帕尔马紫罗兰）构成彩虹七色；末句以『儿女满堂妇』（Allalivial, allalluvial）与『大汗淋漓汉』收束，存作词形解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-lease-of-ninenineninetee-island-bridge",
+      "lemma": "Sold him her lease of ninenineninetee",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "九百九十九年租约歌谣与岛桥。歌谣首句提及售出九百九十九年租约（或联想吉尼斯酒厂长期租约及长期婚约），后节写她在利菲河潮水交汇处岛桥（Island Bridge）迎击浪潮，存作推测（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i4-waters-of-babalong-psalm-137",
+      "lemma": "For we, we have taken our sheet upon her stones where we have hanged our hearts in her trees; and we list, as she bibs us, by the waters of babalong.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "河石展单、柳枝悬心与巴比伦之水。章末句化用《诗篇》137篇（『我们在巴比伦的河边坐下……我们把琴挂在那里的柳树上』），将利菲河洗衣妇展单与摇篮曲（babalong 拼合 Babylon 与儿语 babble／along）融为一体，存作互文解析（proposal）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

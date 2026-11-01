@@ -4,7 +4,28 @@
 
 可核版本的 HTML 已够用时，直接核 HTML；不用为了复刻参考流程再下载 EPUB、安装 Calibre 或 Pandoc。用户提供 EPUB、PDF 或扫描件时，先查版本、目录和阅读顺序，再决定抽取工具。文件类型不是底本质量等级。
 
-临时解包、OCR 与整书缓存留在临时目录；只将本轮核过的短段和来源信息合入工程。转换成功只说明取到了文本，不能宣称已经校勘。
+临时解包、OCR 与整书缓存留在临时目录；分段译注只合入本轮核过的短段和来源信息；维护者要求全本英文时，按下节独立导入。转换成功只说明取到了文本，不能宣称已经校勘。
+
+## 本工程全本英文导入
+
+当前采用 Faded Page 20180126 的 HTML ZIP，Viking 1958年第八印本。先访问书目页，再以同一会话、书目页 Referer 请求下载链接；若只得到书目导航或锚句缺失，停止，不把它当正文。核扉页版本后，将 ZIP 留在仓库外。
+
+```bash
+# 默认只检查，不修改章稿；日期填实际导入日。
+python3 scripts/import_source.py /临时目录/20180126-h.zip --date 2026-11-01
+# 显式写入全章英文、必要图版和来源记录。
+python3 scripts/import_source.py /临时目录/20180126-h.zip --date 2026-11-01 --write --report reports/source-import/full-english-2026-11-01.json
+python3 scripts/project.py check
+python3 -m unittest discover -s tests -v
+python3 scripts/project.py build
+python3 scripts/project.py check-artifacts
+```
+
+脚本先核全部章的正文页码，再写 `source_text`；去空白正文指纹须与抽取前一致，图版保留 ZIP 原始字节。章界按公共章稿 `pages`；619页为十七章正文总页数，卷间分隔页不计。脚注、旁注与图形不能删除。HTML 限于白名单标签、局部锚点及本地图版；外部资源或脚本报错时查清来源，不放宽检查来凑通过。
+
+提交前比较基线，确认所有既有 `segments`、`progress/checkpoint.json`、音频索引未变。检查乐谱、II.2旁注与几何图、首尾文字在网页和 EPUB 中留存。记录机械核验和实际目视范围；全本导入不宣称逐页人工校勘，不证明页行正确，也不将翻译状态改为完成。
+
+重导同一见证须使用固定输入与日期核指纹；下载内容改变时另存来源记录，先查版本差异。已有分段 `original` 与全本不符时保留差异、定点处理，不用重导冲掉译文或更新朗读指纹。未改内容不重复生成语音。
 
 ## EPUB
 

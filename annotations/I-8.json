@@ -1,0 +1,220 @@
+{
+  "fw-i8-196-01": [
+    {
+      "id": "i8-washerwomen-opening-call",
+      "lemma": "O tell me all about Anna Livia! I want to hear all about Anna Livia.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "第八章开篇由两位洗衣妇隔河对喊展开，一边搓洗HCE污损的衣物一边追问安娜·利维亚往事，以水流节奏与市井闲话交织推进全章对白。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-anna-livia-plurabelle-symbol",
+      "lemma": "Anna Livia",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "安娜·利维亚（Anna Livia）对应都柏林利菲河（River Liffey，爱尔兰语 An Life），在全书阐释中常视作女性始祖ALP与众多河流意象的化身。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-huges-caput-earlyfouler",
+      "lemma": "Huges Caput Earlyfouler.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "HCE名号变体，嵌合法兰西卡佩王朝始祖休·卡佩（Hugh Capet）、拉丁语 caput（头／首领）与“早早弄脏者／捕鸟人”（early fouler/fowler）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-world-rivers-dialogue",
+      "lemma": "Pilcomayo! Suchcaughtawan!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谐音南美洲皮尔科马约河（Pilcomayo）与加拿大萨斯喀彻温河（Saskatchewan，且嵌“such caught a one”）；本章对白密集织入世界各地河流名称。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-ambushure-river-mouth",
+      "lemma": "of the saywint up me ambushure.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ambushure 叠合法语 embouchure（河流入海口、管乐器吹口）与英语 ambush（伏击），saywint 兼涉海风（sea wind），兼写河口迎风与妇人张口闲谈。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i8-201-21": [
+    {
+      "id": "i8-onon-teign-rivers",
+      "lemma": "Onon! Onon! tell me more. Tell me every tiny teign.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Onon 双关“on and on（接着讲）”与斡难河（Onon），teign 双关“tiny thing（细微末节）”与英格兰廷河（Teign）；洗衣妇借河名谐音急切催促下文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-hundred-eleven-pluhurabelle",
+      "lemma": "a hundred eleven, wan bywan bywan",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "一百一十一个（111）儿女对应安娜·利维亚随后获名 Pluhurabelle（多美之女），wan bywan bywan 谐音“one by one（一个接一个）”与苍白水流（wan）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-michael-arklow-luggelaw",
+      "lemma": "Michael Arklow was his riverend name",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "riverend 叠合 reverend（尊贵的教士）与 river-end（河端），Arklow 为威克洛郡海滨城镇与奥沃卡河入海处，引出隐士在拉格洛山谷抚发亲吻少女安娜的往事。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-drawers-with-bells",
+      "lemma": "The one with the bells on it.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "洗衣妇检视破损衬裤时认出缀有铃铛的那条裤腿，呼应市井歌谣与调情服饰意象。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-amstel-garonne-puns",
+      "lemma": "amstel waiting. Garonne, garonne!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "amstel waiting 谐音“I am still waiting（我还在等）”与阿姆斯特尔河（Amstel），Garonne 谐音“Go on, go on（快讲，快讲）”与加龙河（Garonne）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i8-205-16": [
+    {
+      "id": "i8-zakbag-mailsack",
+      "lemma": "she bergened a zakbag, a shammy mailsack",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "zakbag 叠合荷兰语 zak（袋）与英语 bag；shammy mailsack 兼指羚羊皮邮袋与 Shem/Shaun 兄弟音影。安娜向「邮差肖恩」借袋盛礼，引出后文圣诞老人式派礼长段。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-alp-bath-garland",
+      "lemma": "First she let her hair fal and down it flussed to her feet",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "206–207 页写安娜解发、赤身以河水香泥洗浴、用河草柳枝编花环、以卵石贝壳串饰物并盛装打扮；全段将河流地貌、植物与泥沙转化为女性梳妆细节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-111-children-gifts",
+      "lemma": "a thousand and one of them, and wickerpotluck for each of them.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "原文此处明言向「一千零一个」（a thousand and one）儿女逐一分赐礼物（呼应《一千零一夜》，有别于 201 页所提「一百一十一个」），随后以长串分号句列举吉普赛·李、谢默斯、双生吉姆、邮差谢默斯·奥肖恩及众少女所得之物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-hoangho-yellow-river",
+      "lemma": "Hoangho, my sorrow, I've lost it!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Hoangho（黄河）与 my sorrow 并置，呼应英语俗称黄河为 China's Sorrow；洗衣妇因水浑遗失碎花瓷片而发叹。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-gihon-paradise-river",
+      "lemma": "But O, gihon! I lovat a gabber.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "gihon 指《创世记》2:13 伊甸四河中的基训河（Gihon），又拟爱尔兰感叹语 go on；lovat 嵌苏格兰洛瓦特河（River Lovat）并谐音 love it。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-i8-213-11": [
+    {
+      "id": "i8-branches-taking-root",
+      "lemma": "Look, look, the dusk is growing! My branches lofty are taking root.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "暮色降临，岸边一位洗衣妇感到枝条生根、双腿化为梣木灰（ashley），预示终曲化树（榆树）与化石的平行变形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-we-are-umbas-all",
+      "lemma": "Ussa, Ulla, we're umbas all!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Ussa 与 Ulla 嵌入俄罗斯乌萨河与白俄罗斯乌拉河，umbas 兼拟拉丁语 umbrae（幽影、亡魂）与翁布里亚水系声影。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-anna-livia-triad-time",
+      "lemma": "Anna was, Livia is, Plurabelle's to be.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "将 Anna Livia Plurabelle 三名拆配过去（was）、现在（is）、未来（to be）三时态，紧承前句维柯循环（Ordovico or viricordo）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-old-as-elm",
+      "lemma": "My foos won't moos. I feel as old as yonder elm.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "foos/moos 混融德语 Fuß（脚）、英语 foot/move 与青苔（moss）；此妇双脚生根化为岸边老榆树，与下文对岸妇人化为磐石遥相呼应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-heavy-as-stone",
+      "lemma": "I feel as heavy as yonder stone.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "另一位洗衣妇头颅低垂、身体沉重如对岸磐石，与前文「老得像对岸那棵榆树」构成树（stem/elm）与石（stone）的终局对峙。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-rivering-waters-night-finale",
+      "lemma": "Beside the rivering waters of, hitherandthithering waters of. Night!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "hitherandthithering 以叠音模拟河水往复拍岸之声；介词 of 后宾语隐没于水声与夜色，收束第一卷。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

@@ -15,3 +15,7 @@ tools/gpt_sovits/
 datasets/
 audio/*.wav
 audio/test_*
+audio/.index.lock
+audio/.batch.lock
+audio/.generate-*/
+audio/.index.json.*.tmp

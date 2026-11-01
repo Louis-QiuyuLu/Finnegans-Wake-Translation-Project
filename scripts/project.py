@@ -16,6 +16,8 @@ import xml.etree.ElementTree as ET
 import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from scripts import source_text as full_source
 KINDS = {"wordplay": "双关", "culture": "文化", "allusion": "典故", "sound": "声音", "structure": "结构", "syntax": "句法", "translation": "译法"}
 CERTAINTY = {"supported": "据来源", "proposal": "译者判断", "uncertain": "存疑"}
 STATUS = {"draft": "试译", "revised": "修订待审", "reviewed": "已审校"}
@@ -75,6 +77,13 @@ def validate(data):
             errors.append(f"coverage inconsistent: {cid}")
         if coverage == "complete" and not chapter.get("coverage_review", "").strip():
             errors.append(f"complete chapter requires coverage reviewer and basis: {cid}")
+        if "source_text" in chapter:
+            source = chapter["source_text"]
+            if not isinstance(source, dict):
+                errors.append(f"invalid source text: {cid}")
+            else:
+                check_sources([source.get("source_id")], cid + " source text")
+                errors.extend(f"source text: {cid}: {e}" for e in full_source.validate_source(source, chapter))
         previous_end = None
         for segment in segments:
             sid = segment.get("id", "")
@@ -154,6 +163,11 @@ def statistics(data):
             "notes": sum(len(s["notes"]) for s in segments)}
 
 
+def source_statistics(data):
+    sources = [c["source_text"] for c in data["chapters"] if c.get("source_text")]
+    return {"chapters": len(sources), "pages": sum(len(s["pages"]) for s in sources)}
+
+
 def slug(chapter):
     return chapter["id"].replace(".", "-")
 
@@ -212,10 +226,29 @@ def source_links(ids, data, prefix=""):
     return " · ".join(f'<a href="{prefix}sources.html#source-{escape(sid)}">{escape(by_id[sid]["title"])}</a>' for sid in ids)
 
 
+def render_source_text(chapter, data, epub=False):
+    source = chapter.get("source_text")
+    if not source:
+        return ''
+    prefix = '../source/' if epub else '../assets/source/'
+    content = full_source.rendered_html(source, prefix)
+    page_links = ' '.join(f'<a href="#source-page-{p:03d}">{p}</a>' for p in source['pages'])
+    body = ('<nav class="source-pages" aria-label="英文底本页码">' + page_links + '</nav>'
+            + '<div class="source-transcription" lang="en">' + content + '</div>')
+    if not epub:
+        opened = '' if chapter['coverage'] == 'complete' else ' open'
+        body = f'<details class="full-source-details"{opened}><summary>全章英文 · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</summary>' + body + '</details>'
+    return ('<section class="full-source" id="full-source"><h2>英文原文</h2>'
+            + '<p class="muted">英文底本已录入；这项记录不计作中文翻译或人工校勘完成。来源：'
+            + source_links([source['source_id']], data, '../') + '</p>' + body + '</section>')
+
+
 def render_segments(chapter, data, epub=False):
     if not chapter["segments"]:
+        if chapter.get("source_text"):
+            return '<section class="empty"><h2>中文译注待补</h2><p>英文已完整录入本章。中文译稿按原断点逐段交审。</p></section>'
         return '<section class="empty"><h2>此章待译</h2><p>目录已建，正文尚未录入。后续将按页行逐段补齐。</p></section>'
-    chunks = []
+    chunks = ['<h2 id="translated-passages">现有中文试译与注释</h2>'] if chapter.get('source_text') else []
     for segment in chapter["segments"]:
         sid = escape(segment["id"])
         notes = segment["notes"]
@@ -319,7 +352,7 @@ def page(title, body, data, prefix="", current="", home=False):
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-serif-vf.css">'
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/source-han-vf@0.1.1/source-han-sans-vf.css">'
             + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css">'
-            + f'<link rel="stylesheet" href="{prefix}assets/style.css">' + home_styles
+            + f'<link rel="stylesheet" href="{prefix}assets/style.css"><link rel="stylesheet" href="{prefix}assets/source.css">' + home_styles
             + f'<script defer src="{prefix}assets/vendor/opencc-1.4.2.js"></script><script defer src="{prefix}assets/reader-model.js"></script><script defer src="{prefix}assets/reader.js"></script><script defer src="{prefix}assets/audio-reader.js"></script></head>'
             + ('<body class="home">' if home else '<body>')
             + '<a class="skip" href="#main">跳至正文</a><header class="topbar">'
@@ -348,16 +381,25 @@ def build_epub(data, out):
     for chapter in data["chapters"]:
         name = f'chapters/{slug(chapter)}.xhtml'
         body = f'<h1>{escape(chapter["title"])}</h1><p>{COVERAGE[chapter["coverage"]]} · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</p>'
+        body += render_source_text(chapter, data, epub=True).replace("sources.html#", "sources.xhtml#")
         body += render_segments(chapter, data, epub=True).replace("sources.html#", "sources.xhtml#")
         items[name] = xhtml(chapter["title"], body, "../style.css")
         nav.append(f'<li><a href="{name}">{escape(chapter["title"])}</a></li>')
     stats = statistics(data)
-    notice = ('<h1>' + escape(config["title"]) + f'</h1><p>James Joyce · 中文译注工程</p><p>当前收录 {stats["segments"]} 段译稿，{stats["reviewed"]} 段已审校。尚未录入的正文仅列待译目录。</p>'
+    original_stats = source_statistics(data)
+    source_notice = (f'英文底本已录入 {original_stats["chapters"]} 章、{original_stats["pages"]} 个正文页。' if original_stats['chapters'] else '尚未录入的正文仅列待译目录。')
+    notice = ('<h1>' + escape(config["title"]) + f'</h1><p>James Joyce · 中文译注工程</p><p>当前收录 {stats["segments"]} 段译稿，{stats["reviewed"]} 段已审校。{source_notice}</p>'
               + '<p>页行采用通行坐标；电子见证本、出处与存疑解读见各段注释和资料页。</p><p>中文试译及原创注释：CC BY-NC-SA 4.0。此许可不涵盖 Joyce 原著及第三方资料。来源站标示原著在加拿大属公有领域，其他地区请按当地规则使用。</p>'
               + '<p>本项目以 AI 辅助起草；没有人工审校记录的段落均保留“试译”状态。</p>')
     items["title.xhtml"] = xhtml(config["title"], notice)
     items["nav.xhtml"] = xhtml("目录", '<nav epub:type="toc" id="toc"><h1>目录</h1><ol><li><a href="title.xhtml">书名与许可</a></li>' + ''.join(nav) + '<li><a href="glossary.xhtml">译名</a></li><li><a href="sources.xhtml">资料</a></li></ol></nav>')
     manifest = '<item id="css" href="style.css" media-type="text/css"/>'
+    source_assets = sorted({name for c in data['chapters'] for name in c.get('source_text', {}).get('assets', [])})
+    for i, name in enumerate(source_assets):
+        if not (ROOT / 'manuscript/source-assets' / name).is_file():
+            raise ValueError('missing source asset: ' + name)
+        mime = 'image/jpeg' if name.endswith('.jpg') else 'image/png'
+        manifest += f'<item id="source-image-{i}" href="source/{escape(name)}" media-type="{mime}"/>'
     ordered = ["title.xhtml"] + [f'chapters/{slug(c)}.xhtml' for c in data["chapters"]] + ["glossary.xhtml", "sources.xhtml"]
     for i, name in enumerate(items):
         properties = (["nav"] if name == "nav.xhtml" else []) + (["svg"] if '<svg ' in items[name] else [])
@@ -367,13 +409,16 @@ def build_epub(data, out):
     opf = ('<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id" xml:lang="zh-Hans">'
            + '<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="book-id">' + escape(config["repository"] + "/" + config["version"])
            + '</dc:identifier><dc:title>' + escape(config["title"]) + '</dc:title><dc:creator>James Joyce</dc:creator><dc:language>zh-Hans</dc:language>'
+           + ('<dc:language>en</dc:language>' if original_stats['chapters'] else '')
            + '<dc:rights>Chinese translation and original notes: CC BY-NC-SA 4.0; third-party texts excluded.</dc:rights>'
            + '<meta property="dcterms:modified">' + config["date"] + 'T00:00:00Z</meta></metadata><manifest>' + manifest + '</manifest><spine>' + spine + '</spine></package>')
     with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as book:
         book.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         book.writestr("META-INF/container.xml", '<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="EPUB/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>')
         book.writestr("EPUB/package.opf", opf)
-        book.writestr("EPUB/style.css", "body{font-family:serif;line-height:1.85;margin:6%;}p{margin:1em 0;}h1{font-size:1.5em;}h2,h3{font-size:1.1em;}.original{color:#444;border-left:2px solid #777;padding-left:1em;}aside{margin:1.5em 0;}.tag,.muted,.source-links{font-size:.85em;}a{overflow-wrap:anywhere;}")
+        book.writestr("EPUB/style.css", "body{font-family:serif;line-height:1.85;margin:6%;}p{margin:1em 0;}h1{font-size:1.5em;}h2,h3{font-size:1.1em;}.original{color:#444;border-left:2px solid #777;padding-left:1em;}aside{margin:1.5em 0;}.tag,.muted,.source-links{font-size:.85em;}a{overflow-wrap:anywhere;}" + (ROOT / 'site/source.css').read_text(encoding='utf-8'))
+        for name in source_assets:
+            book.write(ROOT / 'manuscript/source-assets' / name, 'EPUB/source/' + name)
         for name, content in items.items():
             ET.fromstring(content)
             book.writestr("EPUB/" + name, content)
@@ -394,7 +439,10 @@ def render_home(data):
             + engraving + '<figcaption><span>河流 · 梦境 · 回环</span><span lang="en">riverrun</span></figcaption></figure></section>')
     stats_markup = ''.join(f'<div><strong>{stats[key]:02d}</strong><span>{label}</span></div>' for key, label in [("chapters", "章目录"), ("segments", "段试译"), ("notes", "条译注"), ("reviewed", "段已审校")])
     hero += ('<section class="progress"><div class="section-heading"><h2>译注札记</h2><span>WORK IN PROGRESS</span></div><div class="stats">' + stats_markup
-             + f'</div><p>据当前章稿统计 · {stats["complete"]} 章已核完整覆盖 · 试译仍待审校</p></section>')
+             + f'</div><p>据当前章稿统计 · {stats["complete"]} 章中文已核连续覆盖 · 试译仍待审校</p></section>')
+    original_stats = source_statistics(data)
+    if original_stats['chapters']:
+        hero += f'<p class="status-notice">英文底本：{original_stats["chapters"]} 章、{original_stats["pages"]} 个正文页已录入。英文录入与中文翻译进度分别统计。</p>'
     hero += ('<section class="approach"><div><p class="eyebrow">READ · LISTEN · RETURN</p><h2>读正文，也读字缝。</h2>'
              + '<p>译文尽量顺着中文呼吸。词源、典故、声音与歧义留在注内；证据不足便存疑。</p></div>'
              + f'<div class="return-note"><span class="return-word" aria-hidden="true" lang="en">riverrun</span><a href="chapters/{last}.html">到末尾听一次回声 <span aria-hidden="true">↗</span></a></div></section>')
@@ -424,10 +472,15 @@ def build(data, out):
     site = out / "site"
     for path in [site / "chapters", site / "assets", site / "downloads"]:
         path.mkdir(parents=True, exist_ok=True)
-    for name in ["style.css", "home.css", "reader-model.js", "reader.js", "audio-reader.js"]:
+    for name in ["style.css", "source.css", "home.css", "reader-model.js", "reader.js", "audio-reader.js"]:
         shutil.copyfile(ROOT / "site" / name, site / "assets" / name)
     shutil.copytree(ROOT / "site" / "vendor", site / "assets" / "vendor", dirs_exist_ok=True)
     publish_audio(data, site / "assets" / "audio")
+    source_assets = sorted({name for c in data['chapters'] for name in c.get('source_text', {}).get('assets', [])})
+    for name in source_assets:
+        destination = site / 'assets/source' / name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(ROOT / 'manuscript/source-assets' / name, destination)
     stats = statistics(data)
     (site / "index.html").write_text(page("译注工程", render_home(data), data, home=True), encoding="utf-8")
     for i, chapter in enumerate(data["chapters"]):
@@ -438,7 +491,7 @@ def build(data, out):
             edit_url = data["config"]["repository"] + '/edit/main/manuscript/chapters/' + slug(chapter) + '.json'
             source_api = 'https://api.github.com/repos/' + data["config"]["repository"].split('github.com/')[-1] + '/contents/manuscript/chapters/' + slug(chapter) + '.json?ref=main'
             embedded = json.dumps({"chapter": chapter, "edit_url": edit_url, "source_api": source_api, "repository": data["config"]["repository"]}, ensure_ascii=False).replace('<', '\\u003c').replace('&', '\\u0026')
-            controls = ('<div class="reader-controls"><label class="search-label">查找本章 <input type="search" id="reader-search" placeholder="词语或页行"></label><span class="reading-summary" id="reading-summary"></span></div>'
+            controls = ('<div class="reader-controls"><label class="search-label">查找译稿 <input type="search" id="reader-search" placeholder="词语或页行"></label><span class="reading-summary" id="reading-summary"></span></div>'
                         + '<details class="chapter-revisions"><summary>本章修订与提交</summary><p>在段落下方展开「修订本段」，可改译文及译注。保存后预览；确认后复制修订稿，到 GitHub 编辑页全选、粘贴并提交。</p>'
                         + '<div class="edit-actions"><button type="button" id="export-revisions">导出本章修订稿</button><button type="button" id="submit-revisions">复制修订并打开 GitHub</button>'
                         + f'<a class="button" href="{escape(edit_url)}" target="_blank" rel="noopener noreferrer">直接编辑仓库稿件 ↗</a></div><p id="revision-summary" role="status" aria-live="polite">当前显示公共译稿。</p></details>'
@@ -451,7 +504,7 @@ def build(data, out):
         if following:
             bottom += f'<a href="{slug(following)}.html">{escape(following["title"])} →</a>'
         bottom += '</nav>'
-        (site / "chapters" / (slug(chapter) + ".html")).write_text(page(chapter["title"], head + controls + render_segments(chapter, data) + bottom, data, "../", chapter["id"]), encoding="utf-8")
+        (site / "chapters" / (slug(chapter) + ".html")).write_text(page(chapter["title"], head + controls + render_source_text(chapter, data) + render_segments(chapter, data) + bottom, data, "../", chapter["id"]), encoding="utf-8")
     (site / "sources.html").write_text(page("资料", render_sources(data), data), encoding="utf-8")
     (site / "glossary.html").write_text(page("译名", render_glossary(data), data), encoding="utf-8")
     (site / ".nojekyll").write_text("", encoding="utf-8")
@@ -462,22 +515,30 @@ def build(data, out):
 
 def generate_views(data, root=ROOT):
     for chapter in data["chapters"]:
+        if chapter.get('source_text'):
+            path = root / 'raw-md' / (slug(chapter) + '.md')
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(f'# {chapter["title"]} · 英文底本\n\n<!-- 自动生成；请编辑 manuscript/chapters/{slug(chapter)}.json 的 source_text -->\n\n'
+                            + full_source.markdown(chapter['source_text']), encoding='utf-8')
         if not chapter["segments"]:
             continue
         for directory, field in [("raw-md", "original"), ("translated-md", "draft"), ("polish/dev", "translation")]:
+            if directory == 'raw-md' and chapter.get('source_text'):
+                continue
             path = root / directory / (slug(chapter) + ".md")
             path.parent.mkdir(parents=True, exist_ok=True)
             text = f'# {chapter["title"]}\n\n<!-- 自动生成；请编辑 manuscript/chapters/{slug(chapter)}.json -->\n\n'
             for segment in chapter["segments"]:
                 value = source_plain_text(segment) if field == "original" else segment[field]
                 text += f'## {segment["locator"]} {{#{segment["id"]}}}\n\n{value}\n\n'
-            path.write_text(text, encoding="utf-8")
+            path.write_text(text.rstrip() + '\n', encoding="utf-8")
         path = root / "annotations" / (slug(chapter) + ".json")
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps({s["id"]: s["notes"] for s in chapter["segments"]}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    progress = '# 译注进度\n\n自动生成；部分试译不等于整章完成。\n\n'
+    progress = '# 译注进度\n\n自动生成；英文底本录入与中文翻译分别统计，部分试译不等于整章完成。\n\n'
     for chapter in data["chapters"]:
-        progress += f'- {chapter["id"]} · pp. {chapter["pages"][0]}–{chapter["pages"][1]} · {COVERAGE[chapter["coverage"]]} · {len(chapter["segments"])} 段\n'
+        source_label = f'英文底本已录入 {len(chapter["source_text"]["pages"])} 页 · ' if chapter.get('source_text') else ''
+        progress += f'- {chapter["id"]} · pp. {chapter["pages"][0]}–{chapter["pages"][1]} · {source_label}中文{COVERAGE[chapter["coverage"]]} · {len(chapter["segments"])} 段\n'
     (root / "publish").mkdir(parents=True, exist_ok=True)
     (root / "publish/PROGRESS.md").write_text(progress, encoding="utf-8")
     if data.get("checkpoint"):
