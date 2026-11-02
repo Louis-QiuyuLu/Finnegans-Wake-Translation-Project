@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""串行续生成第一卷；冻结原文，保留现有有效录音。"""
+"""串行续生成英文录音；默认第一卷，也可读取底本语音工作包。"""
 import argparse
 from datetime import datetime, timezone
 import fcntl
@@ -13,7 +13,7 @@ import time
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
-from scripts.generate_audio import AUDIO_DIR, atomic_json, audio_is_current, load_segments, original_hash
+from scripts.generate_audio import AUDIO_DIR, atomic_json, audio_is_current, load_audio_segments, load_segments, original_hash
 
 PRIORITY = ['fw-i3-067-28', 'fw-i3-069-30', 'fw-i3-072-17']
 
@@ -27,8 +27,8 @@ def book_one(chapters_dir=None):
 
 
 def check_originals(frozen, current):
-    expected = {s['id']: original_hash(s) for s in frozen}
-    actual = {s['id']: original_hash(s) for s in current}
+    expected = {s['id']: (original_hash(s), s.get('source_binding')) for s in frozen}
+    actual = {s['id']: (original_hash(s), s.get('source_binding')) for s in current}
     if expected != actual:
         changed = sorted(sid for sid in expected.keys() | actual.keys() if expected.get(sid) != actual.get(sid))
         raise RuntimeError('原文已改变，停止批处理；请核对后另建运行目录: ' + ', '.join(changed))
@@ -38,6 +38,29 @@ def build_queue(segments, audio_dir=AUDIO_DIR):
     pending = [s for s in segments if not audio_is_current(s, audio_dir)]
     rank = {sid: i for i, sid in enumerate(PRIORITY)}
     return sorted(pending, key=lambda s: (rank.get(s['id'], len(rank)), segments.index(s)))
+
+
+def acquire_batch_lock(audio_dir, source_segments=None):
+    if source_segments is None:
+        name = ".batch.lock"
+    else:
+        books = [segment.get("source_binding", {}).get("book") for segment in source_segments]
+        if not books or any(book not in ("II", "III", "IV") for book in books) or len(set(books)) != 1:
+            raise ValueError("底本语音队列须属于同一已核卷号：II、III或IV")
+        name = f".source-{books[0]}.lock"
+    audio_dir = Path(audio_dir)
+    audio_dir.mkdir(parents=True, exist_ok=True)
+    lock = (audio_dir / name).open("a")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        lock.close()
+        raise SystemExit(f"已有音频批处理运行：{name}")
+    lock.seek(0)
+    lock.truncate()
+    lock.write(str(os.getpid()) + "\n")
+    lock.flush()
+    return lock
 
 
 def main():
@@ -51,32 +74,40 @@ def main():
     parser.add_argument('--steps', default=32, type=int)
     parser.add_argument('--attempts', default=2, type=int)
     parser.add_argument('--segment-timeout', default=21600, type=int)
+    parser.add_argument('--source-queue', type=Path, help='核验过的底本语音工作包')
+    parser.add_argument('--threads', type=int, default=8, help='每个合成进程的PyTorch CPU线程数，默认8')
     args = parser.parse_args()
+    if args.threads <= 0:
+        parser.error('threads 须为正整数')
+    if args.source_queue is not None:
+        args.source_queue = args.source_queue.resolve()
+        if args.source_snapshot:
+            parser.error('source-queue 与第一卷 source-snapshot 不能同时使用')
     if not 1 <= args.attempts <= 3 or args.segment_timeout <= 0:
         parser.error('attempts 须为1至3；timeout 须大于0')
+    # Validate canonical source and queue metadata before using its book as a lock domain.
+    validated_source = load_audio_segments(args.source_queue) if args.source_queue is not None else None
     args.run_dir.mkdir(parents=True, exist_ok=True)
-    AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    lock = (AUDIO_DIR / '.batch.lock').open('a')
-    try:
-        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-    except BlockingIOError:
-        raise SystemExit('已有音频批处理运行')
-    lock.seek(0)
-    lock.truncate()
-    lock.write(str(os.getpid()) + '\n')
-    lock.flush()
+    lock = acquire_batch_lock(AUDIO_DIR, validated_source)
     state_path = args.run_dir / 'state.json'
     frozen_path = args.run_dir / 'originals.json'
     candidate_dir = (args.run_dir / "candidates").resolve()
     child = None
     state = {'pid': os.getpid(), 'started_at': now(), 'status': 'starting', 'current_segment': None,
-             'device': args.device, 'review_status': 'pending', 'candidate_dir': str(candidate_dir), 'parameters': {'model': args.model, 'ref': args.ref,
+             'device': args.device, 'lock_file': str(lock.name), 'review_status': 'pending', 'candidate_dir': str(candidate_dir), 'parameters': {'model': args.model, 'ref': args.ref,
              'speed': args.speed, 'steps': args.steps, 'segment_timeout': args.segment_timeout,
-             'attempts': args.attempts}, 'successes': [], 'failures': [], 'fallbacks': []}
+             'attempts': args.attempts, 'threads': args.threads}, 'successes': [], 'failures': [], 'fallbacks': []}
 
     def save():
         state['updated_at'] = now()
         atomic_json(state_path, state)
+
+    def load_current():
+        return load_audio_segments(args.source_queue) if args.source_queue is not None else book_one()
+
+    if args.source_queue is not None:
+        state['source_queue'] = str(args.source_queue)
+        state['source_book'] = validated_source[0]['source_binding']['book']
 
     def stopped(signum, frame):
         raise KeyboardInterrupt(f'signal {signum}')
@@ -90,20 +121,25 @@ def main():
             frozen = book_one(args.source_snapshot / 'manuscript/chapters')
             atomic_json(frozen_path, frozen)
         else:
-            frozen = book_one()
+            frozen = load_current()
             atomic_json(frozen_path, frozen)
-        check_originals(frozen, book_one())
+        check_originals(frozen, load_current())
         official_queue = build_queue(frozen, AUDIO_DIR)
         queue = [s for s in official_queue if not audio_is_current(s, candidate_dir)]
-        state['total_book_I'] = len(frozen)
+        state['total_segments'] = len(frozen)
+        if args.source_queue is None:
+            state['total_book_I'] = len(frozen)
+        else:
+            state['total_source_segments'] = len(frozen)
         state['already_current'] = len(frozen) - len(official_queue)
         state['already_quarantined'] = len(official_queue) - len(queue)
         state['pending'] = [s['id'] for s in queue]
         state['status'] = 'running'
         save()
-        print(f"{now()} PID={os.getpid()} 第一卷共{len(frozen)}段；待生成{len(queue)}段，device={args.device}", flush=True)
+        scope = "底本语音队列" if args.source_queue is not None else "第一卷"
+        print(f"{now()} PID={os.getpid()} {scope}共{len(frozen)}段；待生成{len(queue)}段，device={args.device}", flush=True)
         for segment in queue:
-            check_originals(frozen, book_one())
+            check_originals(frozen, load_current())
             sid = segment['id']
             if audio_is_current(segment, AUDIO_DIR) or audio_is_current(segment, candidate_dir):
                 state['pending'].remove(sid)
@@ -115,8 +151,10 @@ def main():
                 log_path = args.run_dir / f'{sid}-pid-{os.getpid()}-attempt-{attempt}-{state["device"]}.log'
                 command = [sys.executable, '-u', str(ROOT / 'scripts/generate_audio.py'), '--segment', sid,
                            '--model', args.model, '--ref', args.ref, '--device', state['device'],
-                           '--speed', str(args.speed), '--steps', str(args.steps),
+                           '--speed', str(args.speed), '--steps', str(args.steps), '--threads', str(args.threads),
                            '--expected-original-sha256', original_hash(segment), '--audio-dir', str(candidate_dir)]
+                if args.source_queue is not None:
+                    command += ['--source-queue', str(args.source_queue)]
                 state.update({'attempt': attempt, 'segment_log': str(log_path), 'command': command})
                 print(f'{now()} 开始 {sid} attempt={attempt} device={state["device"]} log={log_path}', flush=True)
                 began = time.monotonic()
@@ -125,7 +163,7 @@ def main():
                     state['child_pid'] = child.pid
                     save()
                     while child.poll() is None:
-                        check_originals(frozen, book_one())
+                        check_originals(frozen, load_current())
                         if time.monotonic() - began > args.segment_timeout:
                             child.terminate()
                             try:
@@ -146,6 +184,8 @@ def main():
                                                'original_sha256': original_hash(segment),
                                                'parameters': dict(state['parameters']),
                                                'provenance': str(candidate_dir / (sid + '.provenance.json'))})
+                    if 'source_binding' in segment:
+                        state['successes'][-1]['source_binding'] = segment['source_binding']
                     print(f'{now()} 完成 {sid}', flush=True)
                     break
                 state['failures'].append({'segment_id': sid, 'attempt': attempt, 'device': state['device'],

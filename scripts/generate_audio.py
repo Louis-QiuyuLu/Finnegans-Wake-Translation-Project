@@ -47,6 +47,13 @@ def load_segments(chapters_dir=None):
     return segments
 
 
+def load_audio_segments(source_queue=None):
+    if source_queue is None:
+        return load_segments()
+    from scripts.audio_source import load_source_segments
+    return load_source_segments(source_queue, root=ROOT)
+
+
 def checkpoint_model_kind(checkpoint, detected):
     config = checkpoint.get("config", {})
     config = config if isinstance(config, dict) else vars(config)
@@ -61,16 +68,18 @@ def checkpoint_model_kind(checkpoint, detected):
     return tuple(detected)
 
 
-def init_tts_pipeline(model_dir, variant="vertin", device="cpu"):
+def init_tts_pipeline(model_dir, variant="vertin", device="cpu", threads=8):
+    if type(threads) is not int or threads <= 0:
+        raise ValueError("threads 须为正整数")
     os.chdir(TOOLS_DIR)
     sys.path.insert(0, str(TOOLS_DIR))
     sys.path.insert(0, str(TOOLS_DIR / "GPT_SoVITS"))
 
     import torch
-    torch.set_num_threads(8)
+    torch.set_num_threads(threads)
     if device == "mps" and not torch.backends.mps.is_available():
         raise RuntimeError("MPS 不可用")
-    print(f"正在加载模型，device={device}", flush=True)
+    print(f"正在加载模型，device={device}, threads={threads}", flush=True)
 
     from GPT_SoVITS.TTS_infer_pack.TTS import TTS, TTS_Config
 
@@ -268,14 +277,20 @@ def audio_is_current(segment, audio_dir=AUDIO_DIR):
                 and path.is_file() and path.stat().st_size > 0)
 
 
-def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None):
+def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None, source_queue=None):
+    if source_queue is not None and Path(audio_dir).resolve() == AUDIO_DIR.resolve():
+        raise ValueError("底本语音须写入隔离目录；请用 --audio-dir 指定正式 audio 以外的目录。")
     candidate = Path(candidate)
     if not candidate.is_file() or candidate.stat().st_size == 0:
         raise ValueError("MP3 文件为空")
     with audio_index_lock(audio_dir):
-        current = load_segments() if current_segments is None else current_segments
+        if source_queue is not None:
+            current = load_audio_segments(source_queue)
+        else:
+            current = load_segments() if current_segments is None else current_segments
         matches = [s for s in current if s["id"] == segment["id"]]
-        if len(matches) != 1 or matches[0]["original"] != segment["original"]:
+        if (len(matches) != 1 or matches[0]["original"] != segment["original"]
+                or matches[0].get("source_binding") != segment.get("source_binding")):
             raise RuntimeError(f"原文已改变，停止登记: {segment['id']}")
         candidate.replace(Path(audio_dir) / (segment["id"] + ".mp3"))
         _register_audio_unlocked(segment, audio_dir)
@@ -293,8 +308,16 @@ def main():
     parser.add_argument("--device", choices=["cpu", "mps"], default="cpu")
     parser.add_argument("--expected-original-sha256", help="批处理冻结原文指纹；不符则中止")
     parser.add_argument("--audio-dir", type=Path, default=AUDIO_DIR, help="输出目录；批处理另存候选录音")
+    parser.add_argument("--source-queue", type=Path, help="从核验过的底本语音工作包读取原文")
+    parser.add_argument("--threads", type=int, default=8, help="PyTorch CPU线程数，默认8")
     args = parser.parse_args()
+    if args.threads <= 0:
+        parser.error("threads 须为正整数")
+    if args.source_queue is not None:
+        args.source_queue = args.source_queue.resolve()
     audio_dir = args.audio_dir.resolve()
+    if args.source_queue is not None and audio_dir == AUDIO_DIR.resolve():
+        parser.error("--source-queue 须指定隔离 --audio-dir，不能写入正式 audio 目录")
 
     model_dir = find_model_dir(args.model_dir)
 
@@ -319,7 +342,7 @@ def main():
         prompt_text = Path(prompt_source).read_text(encoding="utf-8").strip()
 
     audio_dir.mkdir(parents=True, exist_ok=True)
-    segments = load_segments()
+    segments = load_audio_segments(args.source_queue)
     if args.segment:
         segments = [s for s in segments if s["id"] == args.segment]
         if len(segments) != 1:
@@ -344,7 +367,7 @@ def main():
 
         print(f"[{i}/{len(segments)}] 正在生成 {sid} ({seg['locator']})...")
         if tts_pipeline is None:
-            tts_pipeline = init_tts_pipeline(model_dir, variant=args.model, device=args.device)
+            tts_pipeline = init_tts_pipeline(model_dir, variant=args.model, device=args.device, threads=args.threads)
 
         sample_rate, full_audio = synthesize_segment(
             tts_pipeline,
@@ -378,15 +401,18 @@ def main():
                 "prompt_text_source": prompt_source,
                 "prompt_text_sha256": hashlib.sha256(prompt_text.encode("utf-8")).hexdigest(),
                 "parameters": {"model": args.model, "ref": args.ref, "speed": args.speed,
-                               "steps": args.steps, "sample_rate": sample_rate,
+                               "steps": args.steps, "threads": args.threads, "sample_rate": sample_rate,
                                "duration_sec": len(full_audio) / sample_rate},
                 "assets": [{"path": str(path), "sha256": file_hash(path)} for path in
                            [Path(tts_pipeline.configs.t2s_weights_path),
                             Path(tts_pipeline.configs.vits_weights_path), ref_audio]
                            + ([Path(prompt_source)] if Path(prompt_source).is_file() else [])],
             }
+            if "source_binding" in seg:
+                provenance["source_binding"] = seg["source_binding"]
+                provenance["source_queue"] = str(args.source_queue)
             atomic_json(audio_dir / (sid + ".provenance.json"), provenance)
-            publish_audio(seg, candidate, audio_dir)
+            publish_audio(seg, candidate, audio_dir, source_queue=args.source_queue)
 
         size_kb = mp3_path.stat().st_size / 1024
         duration = len(full_audio) / sample_rate
