@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-02",
+  "observed_at_utc": "2026-11-02T08:32:13.597106+00:00",
+  "method": "Successful CPU wall time divided by whitespace-separated source words. Wall time includes model initialization. Failed/MPS attempts excluded. Ranges allow different chunk lengths and retries; not a completion promise.",
+  "observed_cpu": {
+    "successful_samples": 50,
+    "wall_seconds": 64157.29134900001,
+    "source_words": 33614,
+    "seconds_per_word": 1.9086479249419885,
+    "recent_10_seconds_per_word": 1.900292338728191,
+    "parameters": {
+      "model": "vertin",
+      "ref": "e1",
+      "speed": 1.05,
+      "steps": 32,
+      "segment_timeout": 21600,
+      "attempts": 2
+    }
+  },
+  "book_I": {
+    "generated_local": 60,
+    "segments": 91,
+    "already_adopted": 29,
+    "remaining_including_one_failed": 31,
+    "remaining_words_including_current_job": 41185,
+    "nominal_hours": 21.8354624413155,
+    "planning_range_hours": [
+      18,
+      28
+    ]
+  },
+  "later_books": [
+    {
+      "book": "II",
+      "chapters": 4,
+      "pages": 181,
+      "items": 297,
+      "words": 62182,
+      "non_spoken_figure_occurrences": 6,
+      "source_character_coverage": 307549,
+      "queue_reloaded": 297,
+      "coverage_check": "Independent DOM extraction, excluding only page labels and inline note navigation, agrees with prepared tracks by non-whitespace character counts. Chunk ranges rebuilt and checked independently at load.",
+      "nominal_cpu_hours": 32.967651463539646
+    },
+    {
+      "book": "III",
+      "chapters": 4,
+      "pages": 188,
+      "items": 188,
+      "words": 66774,
+      "non_spoken_figure_occurrences": 0,
+      "source_character_coverage": 326970,
+      "queue_reloaded": 188,
+      "coverage_check": "Independent DOM extraction, excluding only page labels and inline note navigation, agrees with prepared tracks by non-whitespace character counts. Chunk ranges rebuilt and checked independently at load.",
+      "nominal_cpu_hours": 35.402237927798986
+    },
+    {
+      "book": "IV",
+      "chapters": 1,
+      "pages": 36,
+      "items": 36,
+      "words": 12724,
+      "non_spoken_figure_occurrences": 0,
+      "source_character_coverage": 63063,
+      "queue_reloaded": 36,
+      "coverage_check": "Independent DOM extraction, excluding only page labels and inline note navigation, agrees with prepared tracks by non-whitespace character counts. Chunk ranges rebuilt and checked independently at load.",
+      "nominal_cpu_hours": 6.746010054711628
+    }
+  ],
+  "later_total": {
+    "chapters": 9,
+    "pages": 405,
+    "items": 521,
+    "words": 141680,
+    "nominal_cpu_hours": 75.11589944605026,
+    "planning_range_days": [
+      3,
+      4
+    ],
+    "nominal_II_hours": 32.967651463539646,
+    "nominal_III_hours": 35.402237927798986,
+    "nominal_IV_hours": 6.746010054711628
+  },
+  "limits": [
+    "Continuous operation on the present CPU setup; sleep, load, failures and model changes alter elapsed time.",
+    "New source jobs are smaller than present translation segments; repeated model loading can add overhead.",
+    "II.2 uses an explicit page/role reading order; it is a project choice, not the only literary reading.",
+    "Generation, technical acceptance and human listening are separate; these ranges exclude full listening/editing and publication delay."
+  ],
+  "parallel_launch": {
+    "started_at_utc": "2026-11-02T08:58:27.978511+00:00",
+    "observed_at_utc": "2026-11-02T09:00:54.544520+00:00",
+    "hardware": {
+      "ram_gib": 32,
+      "cpu_cores": 12
+    },
+    "source_workers": [
+      {
+        "book": "II",
+        "pid": 69711,
+        "child_pid": 69716,
+        "status": "running",
+        "current_segment": "fw-source-ii1-219-main-001",
+        "device": "cpu",
+        "threads": 2,
+        "model_loaded": true,
+        "sense_group": [
+          3,
+          23
+        ],
+        "successes": 0,
+        "failures": 0
+      },
+      {
+        "book": "III",
+        "pid": 69712,
+        "child_pid": 69715,
+        "status": "running",
+        "current_segment": "fw-source-iii1-403-main-001",
+        "device": "cpu",
+        "threads": 2,
+        "model_loaded": true,
+        "sense_group": [
+          3,
+          29
+        ],
+        "successes": 0,
+        "failures": 0
+      },
+      {
+        "book": "IV",
+        "pid": 69713,
+        "child_pid": 69714,
+        "status": "running",
+        "current_segment": "fw-source-iv-593-main-001",
+        "device": "cpu",
+        "threads": 2,
+        "model_loaded": true,
+        "sense_group": [
+          3,
+          35
+        ],
+        "successes": 0,
+        "failures": 0
+      }
+    ],
+    "first_book_pid_preserved": 38620,
+    "memory_pressure_query": "The system has 34359738368 (2097152 pages with a page size of 16384).\nSystem-wide memory free percentage: 53%\n",
+    "eta_status": "Parallel ETA awaits representative completed jobs; single-process baseline above is not a concurrent forecast."
+  }
+}

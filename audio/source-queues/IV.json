@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "kind": "full_english_audio",
+  "book": "IV",
+  "reading_order": "page: main, left margin, right margin, footnotes",
+  "max_words": 600,
+  "sources": {
+    "IV": {
+      "source_id": "joyce-fp",
+      "html_sha256": "1640bdc9de5fcb54919c5ed1d979b57e4941247b83d78037d25838d8b91752e1",
+      "pages": [
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "fw-source-iv-593-main-001",
+      "chapter": "IV",
+      "page": 593,
+      "role": "main",
+      "start": 0,
+      "end": 1385,
+      "word_count": 232,
+      "original_sha256": "42ec1b17dba840c143d2310b10aa96295b8c788a73bd8da27893ff44e5d77a23"
+    },
+    {
+      "id": "fw-source-iv-594-main-001",
+      "chapter": "IV",
+      "page": 594,
+      "role": "main",
+      "start": 0,
+      "end": 2238,
+      "word_count": 361,
+      "original_sha256": "86625a849166497c9cd7012329bd6ada9c931d96f843f7ce9fa926ca75d9ec28"
+    },
+    {
+      "id": "fw-source-iv-595-main-001",
+      "chapter": "IV",
+      "page": 595,
+      "role": "main",
+      "start": 0,
+      "end": 2096,
+      "word_count": 337,
+      "original_sha256": "cd36a6d0f3b2f0d7ce3a0df68a99ee5c09a29de4635bb9ec5be1be58aeb7fe42"
+    },
+    {
+      "id": "fw-source-iv-596-main-001",
+      "chapter": "IV",
+      "page": 596,
+      "role": "main",
+      "start": 0,
+      "end": 2240,
+      "word_count": 350,
+      "original_sha256": "e8f47ed9506081dfd9728ef173420ce247df1e36d8422bbeccc95cf598569116"
+    },
+    {
+      "id": "fw-source-iv-597-main-001",
+      "chapter": "IV",
+      "page": 597,
+      "role": "main",
+      "start": 0,
+      "end": 2177,
+      "word_count": 376,
+      "original_sha256": "c1454944932b054dcab6c497886f96a2730ef1a5cfcb27960362cf17963fc5b4"
+    },
+    {
+      "id": "fw-source-iv-598-main-001",
+      "chapter": "IV",
+      "page": 598,
+      "role": "main",
+      "start": 0,
+      "end": 2054,
+      "word_count": 352,
+      "original_sha256": "15fe5be2b138357c20a4287c9d1842a0b7d743dc8875b709446236f8fb1fa54d"
+    },
+    {
+      "id": "fw-source-iv-599-main-001",
+      "chapter": "IV",
+      "page": 599,
+      "role": "main",
+      "start": 0,
+      "end": 2120,
+      "word_count": 348,
+      "original_sha256": "571534f4f76d4701799fdb9aafb5a15029c2c1f6fa69d06438b62abd015aedfb"
+    },
+    {
+      "id": "fw-source-iv-600-main-001",
+      "chapter": "IV",
+      "page": 600,
+      "role": "main",
+      "start": 0,
+      "end": 2220,
+      "word_count": 358,
+      "original_sha256": "c23d78dee29615ee4b4446a29efac7f1f680d510ab6cc9d8596f07f75114c4d7"
+    },
+    {
+      "id": "fw-source-iv-601-main-001",
+      "chapter": "IV",
+      "page": 601,
+      "role": "main",
+      "start": 0,
+      "end": 2011,
+      "word_count": 310,
+      "original_sha256": "307bbd7ecc8758a975ce508bb5d1d297f8d347fe1e681571457c7cc5452b019c"
+    },
+    {
+      "id": "fw-source-iv-602-main-001",
+      "chapter": "IV",
+      "page": 602,
+      "role": "main",
+      "start": 0,
+      "end": 2210,
+      "word_count": 364,
+      "original_sha256": "f6c2f03a7154884f30c95645909ced09e2ddcdc918e87659771ac67e71693cf7"
+    },
+    {
+      "id": "fw-source-iv-603-main-001",
+      "chapter": "IV",
+      "page": 603,
+      "role": "main",
+      "start": 0,
+      "end": 2175,
+      "word_count": 375,
+      "original_sha256": "4e33bb8470cc3e8ad6e9056ef1ebd93972373c405aeb798df45cab8816a84b80"
+    },
+    {
+      "id": "fw-source-iv-604-main-001",
+      "chapter": "IV",
+      "page": 604,
+      "role": "main",
+      "start": 0,
+      "end": 2178,
+      "word_count": 367,
+      "original_sha256": "b206e500c22870e986c91f1b3818245e2e3d388bea631a833351e9e39d332a4d"
+    },
+    {
+      "id": "fw-source-iv-605-main-001",
+      "chapter": "IV",
+      "page": 605,
+      "role": "main",
+      "start": 0,
+      "end": 2252,
+      "word_count": 345,
+      "original_sha256": "019c9b64f7d4df5613842b6950ee016e7f65f0bcc3b3590a67a6744553b8f96f"
+    },
+    {
+      "id": "fw-source-iv-606-main-001",
+      "chapter": "IV",
+      "page": 606,
+      "role": "main",
+      "start": 0,
+      "end": 2234,
+      "word_count": 370,
+      "original_sha256": "2a03113a515ea8b7b856de09cccac5af30c9292da94cc4fe65451a02e77e5986"
+    },
+    {
+      "id": "fw-source-iv-607-main-001",
+      "chapter": "IV",
+      "page": 607,
+      "role": "main",
+      "start": 0,
+      "end": 2071,
+      "word_count": 332,
+      "original_sha256": "725b501956d4df2bbc18ce89575d39bc2cbf76217a556d2dc1af9bfcf464774a"
+    },
+    {
+      "id": "fw-source-iv-608-main-001",
+      "chapter": "IV",
+      "page": 608,
+      "role": "main",
+      "start": 0,
+      "end": 1907,
+      "word_count": 314,
+      "original_sha256": "3572a4534e82c7904b52039c71c966813ac9ee54911e037b702917e78924169a"
+    },
+    {
+      "id": "fw-source-iv-609-main-001",
+      "chapter": "IV",
+      "page": 609,
+      "role": "main",
+      "start": 0,
+      "end": 1985,
+      "word_count": 292,
+      "original_sha256": "ec1e6335fb5e8876568eb5ba2ac6f19b39d8c1bc04b59f9488e629c1336ed2d7"
+    },
+    {
+      "id": "fw-source-iv-610-main-001",
+      "chapter": "IV",
+      "page": 610,
+      "role": "main",
+      "start": 0,
+      "end": 1580,
+      "word_count": 254,
+      "original_sha256": "7e89c95b07bdac0c04244c5f1bf8991aa074166fe0dd421c2e446d34862deb50"
+    },
+    {
+      "id": "fw-source-iv-611-main-001",
+      "chapter": "IV",
+      "page": 611,
+      "role": "main",
+      "start": 0,
+      "end": 2185,
+      "word_count": 312,
+      "original_sha256": "f649bc2e50d952d1258c8f773b5b403fba8b81ed4e3ff3818ffbf86d6ff19d9b"
+    },
+    {
+      "id": "fw-source-iv-612-main-001",
+      "chapter": "IV",
+      "page": 612,
+      "role": "main",
+      "start": 0,
+      "end": 2128,
+      "word_count": 298,
+      "original_sha256": "48ab32a094442f2f55a15372e1e31917399bc9d4a289eeeb957833aec139dd04"
+    },
+    {
+      "id": "fw-source-iv-613-main-001",
+      "chapter": "IV",
+      "page": 613,
+      "role": "main",
+      "start": 0,
+      "end": 1974,
+      "word_count": 295,
+      "original_sha256": "a4f2814c936d3d6f8e384ee1270c0afffe313cb50d475d62461b38d82c2911f0"
+    },
+    {
+      "id": "fw-source-iv-614-main-001",
+      "chapter": "IV",
+      "page": 614,
+      "role": "main",
+      "start": 0,
+      "end": 2059,
+      "word_count": 306,
+      "original_sha256": "d666a194bdc183eb37f89892d8e22e7668faee88bc95f652315a80e377f63c2a"
+    },
+    {
+      "id": "fw-source-iv-615-main-001",
+      "chapter": "IV",
+      "page": 615,
+      "role": "main",
+      "start": 0,
+      "end": 2226,
+      "word_count": 390,
+      "original_sha256": "bf6172b45fc414fd1437f79717168b116956bf7f7b970e01159de9397349a5c6"
+    },
+    {
+      "id": "fw-source-iv-616-main-001",
+      "chapter": "IV",
+      "page": 616,
+      "role": "main",
+      "start": 0,
+      "end": 2261,
+      "word_count": 387,
+      "original_sha256": "d1c00651bc7e05e40bd653a508ed975b0241953a8c87009af2433baf2f7a00af"
+    },
+    {
+      "id": "fw-source-iv-617-main-001",
+      "chapter": "IV",
+      "page": 617,
+      "role": "main",
+      "start": 0,
+      "end": 2244,
+      "word_count": 379,
+      "original_sha256": "55c1eee5cd51598f85e08e1880fe714feee633a47e4b91e253ada8eaf8cb2921"
+    },
+    {
+      "id": "fw-source-iv-618-main-001",
+      "chapter": "IV",
+      "page": 618,
+      "role": "main",
+      "start": 0,
+      "end": 2226,
+      "word_count": 401,
+      "original_sha256": "898c3fedcc83ba7e278145f966a75d2ab6a141e5b9caf46adb21fc2e6a73075c"
+    },
+    {
+      "id": "fw-source-iv-619-main-001",
+      "chapter": "IV",
+      "page": 619,
+      "role": "main",
+      "start": 0,
+      "end": 2138,
+      "word_count": 391,
+      "original_sha256": "e5a83f1bd224692a210585a487e78e971e43971afe4e55edf85a1c35e4d8efe5"
+    },
+    {
+      "id": "fw-source-iv-620-main-001",
+      "chapter": "IV",
+      "page": 620,
+      "role": "main",
+      "start": 0,
+      "end": 2282,
+      "word_count": 422,
+      "original_sha256": "53e603e131a55105bbc9f414771c5ba4daa545f42399d09ec89f7733f80fea65"
+    },
+    {
+      "id": "fw-source-iv-621-main-001",
+      "chapter": "IV",
+      "page": 621,
+      "role": "main",
+      "start": 0,
+      "end": 2313,
+      "word_count": 432,
+      "original_sha256": "10da4a061cc4ea019cb225ffaf82b55b0ff6963a0ae18cae3ff96ca48717d995"
+    },
+    {
+      "id": "fw-source-iv-622-main-001",
+      "chapter": "IV",
+      "page": 622,
+      "role": "main",
+      "start": 0,
+      "end": 2227,
+      "word_count": 399,
+      "original_sha256": "0b84102d10215e6bd556959f1dd9f356dc885a8afd42a481042f14666cf04774"
+    },
+    {
+      "id": "fw-source-iv-623-main-001",
+      "chapter": "IV",
+      "page": 623,
+      "role": "main",
+      "start": 0,
+      "end": 2224,
+      "word_count": 400,
+      "original_sha256": "4f8103b542c97b753705c6c61423f61bb65c388162b872ee77f499164e28b12e"
+    },
+    {
+      "id": "fw-source-iv-624-main-001",
+      "chapter": "IV",
+      "page": 624,
+      "role": "main",
+      "start": 0,
+      "end": 2245,
+      "word_count": 398,
+      "original_sha256": "4cf8f960c166b0419a7c78e80abf24aafdc615969f696a910075e65a39386e2c"
+    },
+    {
+      "id": "fw-source-iv-625-main-001",
+      "chapter": "IV",
+      "page": 625,
+      "role": "main",
+      "start": 0,
+      "end": 2289,
+      "word_count": 412,
+      "original_sha256": "a1c88f6a29f73a92335532aea4a92bb18a4c24b05c4c0fa34983dc085bccb8f2"
+    },
+    {
+      "id": "fw-source-iv-626-main-001",
+      "chapter": "IV",
+      "page": 626,
+      "role": "main",
+      "start": 0,
+      "end": 2301,
+      "word_count": 433,
+      "original_sha256": "58e06e8a53805b13878730dd7bc60a78d0b88fe70e35707089412411980475eb"
+    },
+    {
+      "id": "fw-source-iv-627-main-001",
+      "chapter": "IV",
+      "page": 627,
+      "role": "main",
+      "start": 0,
+      "end": 2315,
+      "word_count": 448,
+      "original_sha256": "3737c12269ba27e734d7271d1ab4c19946405d1653b8947d178f25f6303d41cc"
+    },
+    {
+      "id": "fw-source-iv-628-main-001",
+      "chapter": "IV",
+      "page": 628,
+      "role": "main",
+      "start": 0,
+      "end": 981,
+      "word_count": 184,
+      "original_sha256": "08d18d12e102cb51dba5c5000482e082ddde298464cce2f5976eaeb202292133"
+    }
+  ],
+  "non_spoken_figures": [],
+  "statistics": {
+    "chapters": 1,
+    "pages": 36,
+    "items": 36,
+    "words": 12724
+  }
+}

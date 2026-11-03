@@ -17,5 +17,6 @@ audio/*.wav
 audio/test_*
 audio/.index.lock
 audio/.batch.lock
+audio/.source-*.lock
 audio/.generate-*/
 audio/.index.json.*.tmp
