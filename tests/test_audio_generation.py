@@ -114,7 +114,7 @@ class AudioBatchTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, '原文'):
             batch.check_originals(before, [{'id': 'a', 'original': 'changed'}])
 
-    def run_fake_batch(self, child_success, source_queue=False, threads=None):
+    def run_fake_batch(self, child_success, source_queue=False, threads=None, pinned=False):
         from unittest.mock import patch
         import contextlib
         import io
@@ -132,6 +132,8 @@ sid=args[args.index('--segment')+1]
 hash_value=args[args.index('--expected-original-sha256')+1]
 (out/(sid+'.mp3')).write_bytes(b'candidate')
 (out/'index.json').write_text(json.dumps({'tracks':[{'segment_id':sid,'file':sid+'.mp3','original_sha256':hash_value}]}))
+if '--source-root' in args:
+    (out.parent/'received-source-root.txt').write_text(args[args.index('--source-root')+1])
 if '--threads' in args:
     (out.parent/'received-threads.txt').write_text(args[args.index('--threads')+1])
 '''
@@ -152,14 +154,18 @@ if '--threads' in args:
                 argv += ['--source-queue', str(queue)]
             if threads is not None:
                 argv += ['--threads', str(threads)]
+            if pinned:
+                argv += ['--source-root', str(root)]
             with patch.object(sys, 'argv', argv), patch.object(batch, 'ROOT', root), \
                     patch.object(batch, 'AUDIO_DIR', root / 'audio'), \
                     patch.object(batch, 'book_one', return_value=[] if source_queue else segments), \
-                    patch.object(batch, 'load_audio_segments', side_effect=lambda path: loader(path, root), create=True), \
+                    patch.object(batch, 'load_audio_segments', side_effect=lambda path, **kwargs: loader(path, kwargs.get('source_root', root)), create=True), \
                     patch.object(batch.time, 'sleep'), contextlib.redirect_stdout(io.StringIO()):
                 # The queue uses its explicit destination; no real repo file is touched.
                 result = batch.main()
             state = json.loads((root / 'run/state.json').read_text())
+            received_root = root / 'run/received-source-root.txt'
+            state['_received_source_root'] = received_root.read_text() if received_root.exists() else None
             received_threads = root / 'run/received-threads.txt'
             state['_received_threads'] = received_threads.read_text() if received_threads.exists() else None
             if source_queue:
@@ -372,7 +378,7 @@ class SourceQueueTests(unittest.TestCase):
         self.assertEqual(state['successes'][0]['source_binding']['html_sha256'], 'initial-source')
         self.assertFalse(published)
 
-    def run_source_generator(self, changed_source=False, wrong_hash=False, threads=None):
+    def run_source_generator(self, changed_source=False, wrong_hash=False, threads=None, pinned=False):
         import contextlib
         import io
         import sys
@@ -382,6 +388,9 @@ class SourceQueueTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             chapter, queue, segment, loader, calls = self.source_fixture(root)
+            pinned_root = root / 'snapshot'
+            if pinned:
+                self.source_fixture(pinned_root)
             model = root / 'model'
             (model / 'references').mkdir(parents=True)
             for name in ('tts.ckpt', 'vits.pth', 'references/e1.wav', 'references/e1.txt'):
@@ -411,6 +420,8 @@ class SourceQueueTests(unittest.TestCase):
                     '--expected-original-sha256', 'wrong' if wrong_hash else api.original_hash(segment)]
             if threads is not None:
                 argv += ['--threads', str(threads)]
+            if pinned:
+                argv += ['--source-root', str(pinned_root)]
             error = None
             with patch.object(sys, 'argv', argv), patch.object(api, 'ROOT', root), \
                     patch.dict('sys.modules', {'scripts.audio_source': SimpleNamespace(load_source_segments=loader),
@@ -508,6 +519,76 @@ class RealSourceQueueTests(unittest.TestCase):
             self.assertEqual(previous.read_bytes(), b'old audio')
             self.assertTrue(candidate.exists())
             self.assertFalse((output / 'index.json').exists())
+
+
+class PinnedSourceRootTests(unittest.TestCase):
+    def test_live_chapter_save_does_not_interrupt_pinned_source_publication(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            pinned = root / 'pinned'
+            queue = RealSourceQueueTests().copy_book_ii(pinned)
+            live = root / 'live'
+            cp = live / 'manuscript/chapters/II-1.json'
+            cp.parent.mkdir(parents=True)
+            # Gemini may temporarily omit source_text or truncate a live JSON file.
+            for text in ('{"book":"II","segments":[{"translation":"新译稿"}]}', '{'):
+                cp.write_text(text)
+                with patch.object(api, 'ROOT', live):
+                    segments = api.load_audio_segments(queue, source_root=pinned)
+                    output = root / 'candidates'; output.mkdir(exist_ok=True)
+                    candidate = output / 'new.mp3'; candidate.write_bytes(b'audio')
+                    api.publish_audio(segments[0], candidate, output,
+                                      source_queue=queue, source_root=pinned)
+                    self.assertTrue(api.audio_is_current(segments[0], output))
+                self.assertEqual(cp.read_text(), text)
+
+    def test_changed_pinned_english_is_rejected_before_publication(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder); pinned = root / 'pinned'
+            queue = RealSourceQueueTests().copy_book_ii(pinned)
+            with patch.object(api, 'ROOT', root):
+                segments = api.load_audio_segments(queue, source_root=pinned)
+                cp = pinned / 'manuscript/chapters/II-1.json'
+                chapter = json.loads(cp.read_text()); chapter['source_text']['html'] += ' Changed.'
+                cp.write_text(json.dumps(chapter))
+                output = root / 'candidates'; output.mkdir()
+                candidate = output / 'new.mp3'; candidate.write_bytes(b'audio')
+                with self.assertRaisesRegex(ValueError, 'source'):
+                    api.publish_audio(segments[0], candidate, output,
+                                      source_queue=queue, source_root=pinned)
+                self.assertFalse((output / 'index.json').exists())
+                self.assertTrue(candidate.exists())
+
+    def test_generator_cli_uses_snapshot_even_when_live_source_changes_during_synthesis(self):
+        result = SourceQueueTests().run_source_generator(changed_source=True, pinned=True)
+        self.assertIsNone(result['error'])
+        self.assertEqual(result['audio'], b'new audio')
+        self.assertTrue(result['indexed'])
+        self.assertTrue(result['provenance']['source_root'].endswith('/snapshot'))
+        self.assertEqual(result['provenance']['source_binding'], result['source_binding'])
+
+    def test_batch_passes_same_pinned_root_to_every_child(self):
+        result, state, published = AudioBatchTests().run_fake_batch(True, source_queue=True, pinned=True)
+        self.assertEqual(result, 0)
+        self.assertEqual(state['source_root'], state['_received_source_root'])
+        self.assertTrue(Path(state['source_root']).is_absolute())
+        self.assertFalse(published)
+
+    def test_source_root_without_queue_is_rejected_before_model_or_lock(self):
+        import sys
+        import contextlib
+        import io
+        from unittest.mock import patch
+        batch = AudioBatchTests().batch()
+        for module, argv in [(api, ['generate_audio.py', '--source-root', '/snapshot']),
+                             (batch, ['audio_batch.py', '--run-dir', '/unused', '--source-root', '/snapshot'])]:
+            with patch.object(sys, 'argv', argv), contextlib.redirect_stderr(io.StringIO()) as errors:
+                with self.assertRaises(SystemExit) as raised:
+                    module.main()
+            self.assertEqual(raised.exception.code, 2)
+            self.assertIn('source-queue', errors.getvalue())
 
 
 class SourceQueueIsolationTests(unittest.TestCase):

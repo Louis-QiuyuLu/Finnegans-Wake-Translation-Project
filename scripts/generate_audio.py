@@ -47,11 +47,13 @@ def load_segments(chapters_dir=None):
     return segments
 
 
-def load_audio_segments(source_queue=None):
+def load_audio_segments(source_queue=None, source_root=None):
+    if source_root is not None and source_queue is None:
+        raise ValueError("source-root 须与 source-queue 同用")
     if source_queue is None:
         return load_segments()
     from scripts.audio_source import load_source_segments
-    return load_source_segments(source_queue, root=ROOT)
+    return load_source_segments(source_queue, root=Path(source_root) if source_root is not None else ROOT)
 
 
 def checkpoint_model_kind(checkpoint, detected):
@@ -277,7 +279,7 @@ def audio_is_current(segment, audio_dir=AUDIO_DIR):
                 and path.is_file() and path.stat().st_size > 0)
 
 
-def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None, source_queue=None):
+def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None, source_queue=None, source_root=None):
     if source_queue is not None and Path(audio_dir).resolve() == AUDIO_DIR.resolve():
         raise ValueError("底本语音须写入隔离目录；请用 --audio-dir 指定正式 audio 以外的目录。")
     candidate = Path(candidate)
@@ -285,7 +287,7 @@ def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None
         raise ValueError("MP3 文件为空")
     with audio_index_lock(audio_dir):
         if source_queue is not None:
-            current = load_audio_segments(source_queue)
+            current = load_audio_segments(source_queue, source_root=source_root)
         else:
             current = load_segments() if current_segments is None else current_segments
         matches = [s for s in current if s["id"] == segment["id"]]
@@ -309,10 +311,15 @@ def main():
     parser.add_argument("--expected-original-sha256", help="批处理冻结原文指纹；不符则中止")
     parser.add_argument("--audio-dir", type=Path, default=AUDIO_DIR, help="输出目录；批处理另存候选录音")
     parser.add_argument("--source-queue", type=Path, help="从核验过的底本语音工作包读取原文")
+    parser.add_argument("--source-root", type=Path, help="独立英文快照根目录；须与 source-queue 同用")
     parser.add_argument("--threads", type=int, default=8, help="PyTorch CPU线程数，默认8")
     args = parser.parse_args()
     if args.threads <= 0:
         parser.error("threads 须为正整数")
+    if args.source_root is not None:
+        if args.source_queue is None:
+            parser.error("--source-root 须与 --source-queue 同用")
+        args.source_root = args.source_root.resolve()
     if args.source_queue is not None:
         args.source_queue = args.source_queue.resolve()
     audio_dir = args.audio_dir.resolve()
@@ -342,7 +349,7 @@ def main():
         prompt_text = Path(prompt_source).read_text(encoding="utf-8").strip()
 
     audio_dir.mkdir(parents=True, exist_ok=True)
-    segments = load_audio_segments(args.source_queue)
+    segments = load_audio_segments(args.source_queue, source_root=args.source_root)
     if args.segment:
         segments = [s for s in segments if s["id"] == args.segment]
         if len(segments) != 1:
@@ -411,8 +418,10 @@ def main():
             if "source_binding" in seg:
                 provenance["source_binding"] = seg["source_binding"]
                 provenance["source_queue"] = str(args.source_queue)
+                if args.source_root is not None:
+                    provenance["source_root"] = str(args.source_root)
             atomic_json(audio_dir / (sid + ".provenance.json"), provenance)
-            publish_audio(seg, candidate, audio_dir, source_queue=args.source_queue)
+            publish_audio(seg, candidate, audio_dir, source_queue=args.source_queue, source_root=args.source_root)
 
         size_kb = mp3_path.stat().st_size / 1024
         duration = len(full_audio) / sample_rate
