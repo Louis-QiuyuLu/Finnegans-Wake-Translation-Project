@@ -1,26 +1,39 @@
 # 续译断点
 
-更新：2026-11-02
+更新：2026-11-05
 
-当前顺序译章：**II.1 · 第二卷·第一章**。
+当前顺序译章：**IV · 第四卷·第一章**。
 
-下一段从 **219.01** 开始，原文锚句：
+顺序译稿已录至 **628.16**，无下一段。此为译稿录入状态，不代表人工终审完成。
 
-> Every evening at lighting up o'clock sharp and until further notice in Feenichts Playhouse. (Bar and conveniences always open, Diddlem Club douncestears.)
+首尾回环参照：
+
+> riverrun, past Eve and Adam's, from swerve of shore to bend of bay, brings us by a commodius vicus of recirculation back to Howth Castle and Environs.
 
 ## 已保存
 
+- 593.01–596.36 · fw-iv-593-01 · 修订待审
+- 597.01–601.36 · fw-iv-597-01 · 修订待审
+- 602.01–606.36 · fw-iv-602-01 · 修订待审
+- 607.01–611.36 · fw-iv-607-01 · 修订待审
+- 612.01–615.36 · fw-iv-612-01 · 修订待审
+- 616.01–619.36 · fw-iv-616-01 · 修订待审
+- 620.01–624.36 · fw-iv-620-01 · 修订待审
+- 625.01–628.14 · fw-iv-625-01 · 修订待审
+- 628.15–628.16 · fw-iv-628-15 · 修订待审
 
 ## 未决问题
 
-- 第一卷I.1–I.8共91段、569条注释已录入；本轮Codex复核新交I.2–I.8并定点修正语义与注释问题，仍为revised、reviewers为空。
-- 全项目另有IV篇末1段4注，共92段573注；英文全本17章619正文页单独记录source_text，不计作中文完成。
-- 续译从II.1第219.01行锚句起；外部典故、词源与精确行号尚有复核限度，见本轮报告。第二卷临时底本包未经本轮逐段验收。
+- 四卷十七章中文已录入，177段、1091条注释；采用稿为AI修订，reviewers为空，不能称人工终审完成。
+- 第二至四卷本轮补漏、撤无据增写，校正动作、否定、数字与接缝；范围及指纹见reports/revisions/release-parent-20261105/。
+- 外部史实、跨文本互文与多语词源尚有uncertain；未逐页核初版扫描，不声称全部典故已证。
+- 篇末停在628.16，不存在作为下一正文的628.17；cycle_original仅供首尾回环参照。
+- 后续据具名问题或新证据定点修订，保留初译、冻结交稿与历史裁定。
 
 ## 下次如何继续
 
-先读 AGENTS.md、本文、当前章 JSON 和来源表。核对上述锚句后，从下一段续译，不重译已保存段落。篇末回环样稿只作对读，不能据此跳过中间正文。
+顺序译稿已录完。后续从具名审校问题、读者意见或新证据续接；先读章稿及绑定版本报告，再定点修订。不得把首句回环当作新一轮译文，亦不补造篇末页行。
 
-每轮修改后更新 progress/checkpoint.json，运行检查、测试与构建，将稿件和断点一并提交。每章正文录入并核对覆盖后，再写 coverage_review、标 complete；工具会在 progress/chapters/ 留下章节记录。人工审校状态另记。
+每轮修改后更新 progress/checkpoint.json，运行检查、测试与构建，将稿件和断点一并提交。章节覆盖与人工审校分别登记。
 
-未完成全书前保留长期目标。版本以 git log 和 GitHub 提交为准，不凭聊天摘要判断进度。
+版本以 git log 和 GitHub 提交为准，不凭聊天摘要判断进度。

@@ -1,0 +1,399 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "review_reports": [
+    "manuscript/chapters/III-1.json",
+    "manuscript/chapters/III-2.json",
+    "manuscript/chapters/III-3.json",
+    "manuscript/chapters/III-4.json"
+  ],
+  "chapters_repaired": {
+    "III.1": {
+      "file": "manuscript/chapters/III-1.json",
+      "sha256": "62e971d7991953afdff8ddb0b20279948b829af72fb8561e99cc2138f63cff76",
+      "issues_count": 6
+    },
+    "III.2": {
+      "file": "manuscript/chapters/III-2.json",
+      "sha256": "42fb8132a795309cfa791ff79a2d9145cd656e5cc4f76e9ac5a12b891b5f0428",
+      "issues_count": 10
+    },
+    "III.3": {
+      "file": "manuscript/chapters/III-3.json",
+      "sha256": "f658b10842bfa5c0ac755cf657d20e835a0a47c5b660d77225c9ad337995a0a7",
+      "issues_count": 16
+    },
+    "III.4": {
+      "file": "manuscript/chapters/III-4.json",
+      "sha256": "805aa1c9058804c4d6d45f021469160bb74db6cd386b6391124c3b80247c9bbc",
+      "issues_count": 8
+    }
+  },
+  "disposition_summary": {
+    "total_issues": 40,
+    "resolved": 40,
+    "blocked": 0
+  },
+  "issues": [
+    {
+      "id": "R-III1-01",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-403-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "午夜钟声多语数法、服饰清单与肖恩出场修辞润色",
+      "action": "遵循余光中《中文的常态》精简冗余“的”与弱动词；紧缩子夜零点报时钟声、弗里斯长大衣与四餐大宴之多层修饰；核对四福音书老翁（格雷戈里、莱昂斯、塔尔佩、麦克杜格尔）与毛驴比喻；纠正被动语态与长句结构。"
+    },
+    {
+      "id": "R-III1-02",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-408-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "信鸽漫游自述、胃口神学与布鲁诺-诺兰哲思修辞",
+      "action": "纠正被动句“我可真是深受宽厚款待”为“我好生受了一番款待”；精简“在他宿命的膏脂汗水里挣得食宿”为“凭宿命脂膏汗水挣得食宿”；润色帕多瓦圣安东尼引路、信鸽漫游与月朔吹角之神学谐音；消除空洞套话。"
+    },
+    {
+      "id": "R-III1-03",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-413-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "凯尔特邮差契约、桑德斯太太遗产与翁特寓言发端",
+      "action": "紧缩缺席女助手遗嘱之长定语链；理顺格雷斯霍珀在夏日草甸狂舞纵乐的肌肉解剖词汇（触须、屈肌、收缩肌、伸肌）；清理弱动词“进行”与不必要复数后缀。"
+    },
+    {
+      "id": "R-III1-04",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-417-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "【重大遗漏修复】补齐格雷斯霍珀全篇30余行哲学韵诗",
+      "action": "彻底修复原稿截断漏译之重大缺陷：完整补译格雷斯霍珀讽喻诗全篇14个对句（FW 418.12–419.10），涵盖时间（Bergson/Shem）与空间（Wyndham Lewis/Ondt/Shaun）之哲学大论战、埃及神祇托特、跳蚤波尔卡与圣马丁节拍；严格遵照余光中押韵与节奏规范。"
+    },
+    {
+      "id": "R-III1-05",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-421-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "【无据增写撤回】修正纵火指控、天国邮名簿与退信地址清单",
+      "action": "撤回原稿妄加之伪造增写“那全是在疯癫狂人的幽暗脑膜深处孵化而生”，忠实底本改译为“那全因其充满纵火煽动的恶毒”；纠正“Kingdom of Heaven”为“天国邮名簿”；完整校对退信标记清单与第8雷鸣词。"
+    },
+    {
+      "id": "R-III1-06",
+      "chapter": "III.1",
+      "segment_id": "fw-iii1-425-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "肖恩夸口写信、桶落利菲河与告别挽歌修辞",
+      "action": "剔除空套语“然而在某种意义上，并非为了奉承于你”，改译为“说真格的，绝非阿谀奉承你”；精简肖恩仰天跌落大木桶、顺利菲河西漂的抒情长调；补齐段内全部6条译注之精确坐标（425.10至428.14）。"
+    },
+    {
+      "id": "R-III2-01",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-429-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "若昂夜行驻足、高底皮靴与圣雅纳略干血奇迹",
+      "action": "消除首段关于夜行第一程的长句拖沓；理顺拉扎尔步道、西古德森守卫与二十九位女学童之叙事铺陈；补齐全部6条译注之精确定位坐标（429.01至433.41）。"
+    },
+    {
+      "id": "R-III2-02",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-434-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "圣费布女校规训说教、戏剧反串与十二指肠节制",
+      "action": "润色若昂关于家庭德行与商业信义之道德训话；精准对译贝茜·萨德洛滑稽戏、夏洛特码头与圣诞老人消费诱惑；补齐全部6条译注之精确定位坐标（434.08至437.30）。"
+    },
+    {
+      "id": "R-III2-03",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-438-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "密室诱惑警惕、彼得·段落八卦与防身擀面杖",
+      "action": "清除弱动词“进行”、“提出居心叵测的探问”，紧缩登徒子动手动脚之动作链；准确传达迷迭香贞洁与巴兰毛驴之典故；补齐全部6条译注之精确定位坐标（438.02至441.33）。"
+    },
+    {
+      "id": "R-III2-04",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-442-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "外邦仇敌辨析、巡回法庭与西方大洋航程",
+      "action": "理顺爱尔兰凯里郡、海-巴西尔传说与黑皮异邦人双关；消除繁复定语，生动传达《丹尼男孩》词作者韦瑟利与利菲仙境之意象；补齐全部6条译注之精确定位坐标（442.01至445.35）。"
+    },
+    {
+      "id": "R-III2-05",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-446-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "伊佐德镜前密信、连字号私语与发辫情思",
+      "action": "严格保留伊佐德意识流情书中连字号短促跳跃的少女口吻；削减修饰性虚词，呈现呼吸急促的口语状态；补齐全部6条译注之精确定位坐标（446.01至449.36）。"
+    },
+    {
+      "id": "R-III2-06",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-450-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "急流清泉垂钓、修道院作息与末日烈火训诫",
+      "action": "修正米诺瓦哈泉水、麦克鳗鱼与吉拉鲁大鳟鱼之垂钓动作链；消除弱动词“进行”、“带来”，强化水流与光影动感；补齐全部6条译注之精确定位坐标（450.06至454.33）。"
+    },
+    {
+      "id": "R-III2-07",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-455-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "诸圣节守灵大巡游、伯恩家族与下尔恩街市井",
+      "action": "润色“Tomorrow and toburrow and tobarrow”戏拟麦克白独白之中文节奏；精简除夕盛宴排比设问，消除生硬长句；补齐全部6条译注之精确定位坐标（455.05至459.35）。"
+    },
+    {
+      "id": "R-III2-08",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-460-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "口红吻别、克拉达誓约之戒与引入替身戴夫",
+      "action": "准确传达蒙乔伊广场、三K党讽拟与流亡作家智性兄弟戴夫（谢姆）之对应；紧缩叙述线条，消灭不必要被动；补齐全部6条译注之精确定位坐标（460.09至464.33）。"
+    },
+    {
+      "id": "R-III2-09",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-465-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "戴夫·丹斯克尔登场、符号学调侃与大幕落下",
+      "action": "理顺“角落里的小杰克·霍纳”童谣人物双关与语言学符号学术语的幽默对译；精修“Siparioramoci”（大幕落下）戏剧散场修辞；补齐全部6条译注之精确定位坐标（465.04至468.31）。"
+    },
+    {
+      "id": "R-III2-10",
+      "chapter": "III.2",
+      "segment_id": "fw-iii2-469-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "若昂终极祝福、乘桶入流与拂晓信使远逝",
+      "action": "修正“引路吧，麦克亚当”戏拟麦克白名句的对译；准确传达埃及不死鸟贝努神鸟与拂晓信使路西法意象，消除冗长定语；补齐全部6条译注之精确定位坐标（469.09至473.24）。"
+    },
+    {
+      "id": "R-III3-01",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-474-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "约恩倒卧塔拉丘陵、长杖与四老翁开审",
+      "action": "消除首段“低沉地，悠长地”之欧化副词堆砌，强化中文叹咏：“低微，悠长，哀号四散。纯洁约恩俯卧平野”；补齐全部6条译注之精确定位坐标（474.02至478.30）。"
+    },
+    {
+      "id": "R-III3-02",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-479-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "青春不老乡、猎犬与西方故里审问",
+      "action": "理顺四福音书老翁（马修、马克、卢克、约翰）的追问口吻；精简梅奥郡海岸漫步与拉丁短颂的对译；补齐全部6条译注之精确定位坐标（479.02至483.35）。"
+    },
+    {
+      "id": "R-III3-03",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-484-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "八爪长者审讯、奥登圣堂朝拜与电报回音",
+      "action": "纠正领圣餐与坦白自辩之主谓宾关系，消除弱动词；润色降神会无线电杂音与电报回声之现代性修辞；补齐全部6条译注之精确定位坐标（484.02至488.38）。"
+    },
+    {
+      "id": "R-III3-04",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-489-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "哀悼逝者、双重十字勋章与黄金之门",
+      "action": "修正红狐上楼、乱发夹梯与奥西里斯复活神话之意象串联；消除生硬翻译腔；补齐全部6条译注之精确定位坐标（489.04至493.04）。"
+    },
+    {
+      "id": "R-III3-05",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-494-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "星相穹苍、倾斜弯拱与蛇夫座火山对峙",
+      "action": "修正七宝珍石名录（红宝、绿柱、橄榄石等）与蛇夫座神话对应；缩短长句；补齐全部6条译注之精确定位坐标（494.03至494.36）。"
+    },
+    {
+      "id": "R-III3-06",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-499-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "鬼魂复生、植物名录与普利特尔韦尔印刷所",
+      "action": "压缩冗长句式，清理“在某种意义上”等空洞修辞，理顺草药植物学与墓石复生之交叠；补齐全部6条译注之精确定位坐标（499.02至503.04）。"
+    },
+    {
+      "id": "R-III3-07",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-504-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "万王之王、竖琴手、李斯特练习曲与巴赫清音",
+      "action": "修正音乐大师李斯特、巴赫与都柏林街头竖琴手的双关对译；消除弱动词；补齐全部6条译注之精确定位坐标（504.03至508.31）。"
+    },
+    {
+      "id": "R-III3-08",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-509-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "晚祷全席、诉讼辩护卷宗与凯里四组舞",
+      "action": "消除弱动词“进行诉讼”、“起到作用”，强化法庭质询的利落交锋与舞步节律；补齐全部6条译注之精确定位坐标（509.03至513.26）。"
+    },
+    {
+      "id": "R-III3-09",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-514-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "诺曼史迹、酒中真理与巴尔布斯修墙",
+      "action": "修正拉丁谚语“酒后吐真言”（In vino veritas）与拉丁目名化史诗讽拟；补齐全部6条译注之精确定位坐标（514.03至518.25）。"
+    },
+    {
+      "id": "R-III3-10",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-519-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "恩格斯、新欧洲人政治、茧中隐秘与守夜警告",
+      "action": "修正政治哲学典故与守灵戒规之翻译；消除多余被动与虚饰字句；补齐全部6条译注之精确定位坐标（519.03至523.33）。"
+    },
+    {
+      "id": "R-III3-11",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-524-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "少女调情、公园滋扰申诉与越轨指控",
+      "action": "修正都柏林公园治安诉状中有关“随意行为”、“越轨翻栏”的法律口吻；补齐全部6条译注之精确定位坐标（524.03至528.27）。"
+    },
+    {
+      "id": "R-III3-12",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-529-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "市场巡查员、面粉掺假诉讼与唯物主义者讽拟",
+      "action": "理顺巡查员罚没掺假面粉、粗粮掺水之百分比与法律条文；补齐全部6条译注之精确定位坐标（529.03至533.32）。"
+    },
+    {
+      "id": "R-III3-13",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-534-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "【城市缔造者登场】终结圣诞泥泞、潮气回荡与HCE开宗明义",
+      "action": "本段进入乔伊斯最壮丽的市民自辩《子嗣遍天下》（Haveth Childers Everywhere）；修正嘀嗒钟声、水流嗡鸣与HCE宣誓清白之庄严修辞，消除“进行了”、“具有”等弱词；补齐全部6条译注之精确定位坐标（534.02至538.33）。"
+    },
+    {
+      "id": "R-III3-14",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-539-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "原初巨石、修桥筑路、罗氏蒸馏厂与都柏林城市基石",
+      "action": "修正HCE铺设大道、架设桥梁、排干沼泽、开凿运河、设立公共供水与商业学院之功业名录；补齐全部6条译注之精确定位坐标（539.02至543.20）。"
+    },
+    {
+      "id": "R-III3-15",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-544-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "市政名册、侯爵亲吻、波罗的海风味与公共建筑全景",
+      "action": "理顺都柏林各界租户、门牌地址、夜巡警报与市政法庭的名录式铺陈；精简多层定语；补齐全部6条译注之精确定位坐标（544.03至548.31）。"
+    },
+    {
+      "id": "R-III3-16",
+      "chapter": "III.3",
+      "segment_id": "fw-iii3-549-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "丹麦国旗勋章、圣母挂灯、皇家巡幸与四老翁终审收束",
+      "action": "极力展现都柏林城张灯结彩、彻夜通明、各色酒馆与教堂庆贺盛典的帝王级文采；补齐全部6条译注之精确定位坐标（549.02至554.08）。"
+    },
+    {
+      "id": "R-III4-01",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-555-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "四柱大床、四方视角、床幔窥探与往昔虱子岁月",
+      "action": "修正卧室空间四个方位角（马马卢乔化身四柱床四根柱子与四个角落）；纠正“由夜而夜，自虚无归于赤裸”的中文语流，消灭不必要的“被”；补齐全部6条译注之精确定位坐标（555.02至559.36）。"
+    },
+    {
+      "id": "R-III4-02",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-560-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "剧场布景升降、王后下子、双子卧房与夜半哭啼",
+      "action": "修正舞台戏剧场景转换、墙面侧景与聚光灯投射的对译；修正双生子（杰里与凯文）房中噩梦惊醒的描写；补齐全部6条译注之精确定位坐标（560.01至563.37）。"
+    },
+    {
+      "id": "R-III4-03",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-564-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "第二方位、男身掩蔽女躯与公园迷宫透视",
+      "action": "理顺英国普通法不动产限嗣继承（male entail）与已婚妇人人身受夫庇护（feme covert）的法律隐喻；修正凤凰公园白象与双重视角对应；补齐全部6条译注之精确定位坐标（564.03至567.36）。"
+    },
+    {
+      "id": "R-III4-04",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-568-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "毛瑟母起床、父母移步抚慰惊哭小儿",
+      "action": "修正波特夫妇从被窝起身、穿过走廊安抚做噩梦哭泣的小儿子杰里的温情场面；消除弱动词与长定语；补齐全部6条译注之精确定位坐标（568.01至571.30）。"
+    },
+    {
+      "id": "R-III4-05",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-572-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "奥努弗里乌斯案件、床笫特权与利菲河陪审团裁决",
+      "action": "严格翻译涉及复杂亲属、通奸与财产的荒诞教规法学案件（Honuphrius）；修正利菲河陪审团、曼岛哈里发诉讼与无权订约裁定的法律修辞；补齐全部6条译注之精确定位坐标（572.03至575.14）。"
+    },
+    {
+      "id": "R-III4-06",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-576-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "重返夫妻床榻、肉身交合与力竭未遂",
+      "action": "修正父母返回大床、试图重新温存交合却因年老体衰与惊扰而告吹的心理肉体描写；消除生硬欧化句式；补齐全部6条译注之精确定位坐标（576.04至580.18）。"
+    },
+    {
+      "id": "R-III4-07",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-581-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "单一神话（Monomyth）、多面明镜大厅与避雷针破晓",
+      "action": "纠正乔伊斯著名的单一神话（monomyth）与多重明镜大殿（multimirror megaron）的对应；消除虚饰形容词；补齐全部6条译注之精确定位坐标（581.02至585.24）。"
+    },
+    {
+      "id": "R-III4-08",
+      "chapter": "III.4",
+      "segment_id": "fw-iii4-586-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "公鸡报晓、晨光微露、七色虹彩与第四卷入海序曲",
+      "action": "修正终曲场景（Tableau final）、公鸡打鸣（cockcrow）、七重国度（heptark）与晨曦涌入窗扉；确保尾句自然衔接至第四卷开篇；补齐全部6条译注之精确定位坐标（586.01至590.28）。"
+    }
+  ]
+}

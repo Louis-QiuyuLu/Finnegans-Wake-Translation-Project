@@ -1,0 +1,498 @@
+{
+  "fw-iii4-555-01": [
+    {
+      "id": "fw-iii4-555-01-n01",
+      "lemma": "What was thaas",
+      "kind": "wordplay",
+      "text": "待核联想：德语Was war das（那是何物）与方言扭曲，在夜半梦回时拉开第四章惊醒探视的序幕。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-555-01-n02",
+      "lemma": "Too mult sleepth",
+      "kind": "wordplay",
+      "text": "复合沉重睡眠（too much sleep）与长眠死亡（sleep of death），描摹沉睡深沉混沌的生理状态。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-555-01-n03",
+      "lemma": "good old lousy days",
+      "kind": "wordplay",
+      "text": "反讽经典怀旧口吻“过去的美好时光”（good old days）与“长满跳蚤虱子的破败岁月”（lousy days）。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-555-01-n04",
+      "lemma": "Mesopotomac",
+      "kind": "wordplay",
+      "text": "待核联想：美索不达米亚（Mesopotamia）与美国华盛顿波托马克河（Potomac）合体，将两河文明之母投射于女主。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-555-01-n05",
+      "lemma": "nanny's gambit",
+      "kind": "wordplay",
+      "text": "待核联想：国际象棋“后翼弃兵”（Queen’s Gambit）与母山羊/老保姆（nanny）双关，指母亲仓促掀被下床的敏捷棋步。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-555-01-n06",
+      "lemma": "knightlamp",
+      "kind": "wordplay",
+      "text": "待核联想：国际象棋骑士马步（knight）与床头夜灯（night-lamp）融汇，描摹手提夜灯在暗室穿行的诡谲步态。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii4-560-01": [
+    {
+      "id": "fw-iii4-560-01-n01",
+      "lemma": "Fiammelle la Diva",
+      "kind": "allusion",
+      "text": "待核联想：薄伽丘《菲亚梅塔》（Fiammetta）与歌剧名伶（la Diva）之交融，指代卧室戏剧里风情万种的母亲形象。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-560-01-n02",
+      "lemma": "Shifting scene",
+      "kind": "structure",
+      "text": "舞台戏剧术语“换景”，标志着第四章由整体鸟瞰转向具体卧室与各子女房间的镜头推移。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-560-01-n03",
+      "lemma": "Vellicate nyche",
+      "kind": "wordplay",
+      "text": "复合轻微搔抓（vellicate）与壁龛（niche），描摹暗夜抚弄中细腻温存的触感。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-560-01-n04",
+      "lemma": "kerryjevin",
+      "kind": "wordplay",
+      "text": "待核联想：爱尔兰凯里郡（Kerry）、凯文（Kevin）与盖尔语亲昵词结合，化作母亲对幼子温存的道别。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-560-01-n05",
+      "lemma": "Still tosorrow",
+      "kind": "wordplay",
+      "text": "融汇明日（tomorrow）与悲伤（sorrow），预示晨曦破晓时无法避免的离别与忧思。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-560-01-n06",
+      "lemma": "Spotlight",
+      "kind": "culture",
+      "text": "舞台聚光灯指令，照亮舞台布景并引导读者审视家庭各成员在暗夜里的微观举止。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii4-564-01": [
+    {
+      "id": "fw-iii4-564-01-n01",
+      "lemma": "femecovert",
+      "kind": "culture",
+      "text": "待核联想：普通法法律术语“有夫之妇/受夫权庇护的女人”（feme covert），指卧房双人床上被丈夫身躯部分遮盖的女主。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-564-01-n02",
+      "lemma": "male entail",
+      "kind": "culture",
+      "text": "待核联想：限嗣继承地产（male entail），普通法中唯限定男性直系后裔继承的封地，双关男主身躯及其生殖主权。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-564-01-n03",
+      "lemma": "Tollacre",
+      "kind": "wordplay",
+      "text": "地租耕地（toll-acre）与丧钟鸣响（death toll），指代公园周围划分的采邑田亩与墓地归宿。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-564-01-n04",
+      "lemma": "lawncastrum",
+      "kind": "wordplay",
+      "text": "待核联想：草坪（lawn）与罗马军营城堡（castrum）复合，借指都柏林凤凰公园总督府邸与军营堡垒。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-564-01-n05",
+      "lemma": "guelflinks",
+      "kind": "wordplay",
+      "text": "待核联想：归尔甫派系（Guelph/Guelf，指英王汉诺威王室）与高尔夫球场链环（golf links）之双关，指代保皇派社交圈。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-564-01-n06",
+      "lemma": "Sibernian",
+      "kind": "wordplay",
+      "text": "爱尔兰（Hibernian）与冰雪西伯利亚（Siberian）复合，描摹爱尔兰寒冬凄冽严寒的气候景致。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii4-568-01": [
+    {
+      "id": "fw-iii4-568-01-n01",
+      "lemma": "Mauser Misma",
+      "kind": "wordplay",
+      "text": "本项目保留“老母／毛瑟母”音形叠读。Mutter、枪名Mauser或其他语言的牵连均待词典核查；不把Misme列作已核德语“老妪”。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-568-01-n02",
+      "lemma": "Provideforsacrifice",
+      "kind": "allusion",
+      "text": "连写的Provide、for、sacrifice读作“预备献祭”，与前后祈使语相接。是否定指亚伯拉罕献以撒，尚无本轮外证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-568-01-n03",
+      "lemma": "Wakenupriseandprove",
+      "kind": "syntax",
+      "text": "Wakenupriseandprove（醒来起立并求证）：复合祈使短语，融合 wake（守灵／醒来）、uprise（起身、复活）与 prove（检验、核实），模仿早课祷告及晨唤号令。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-568-01-n04",
+      "lemma": "bosomfoes",
+      "kind": "wordplay",
+      "text": "bosomfoes（贴心冤家／骨肉死敌）：反用成语 bosom friends（密友、知己），转指同床共枕的亲密对头或暗中潜伏的家庭敌意。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-568-01-n05",
+      "lemma": "chessganglions",
+      "kind": "wordplay",
+      "text": "chessganglions（棋局神经节／下层根节）：融合 chess（国际象棋）与 ganglion（神经节、淋巴结、地下组织结节）。暗喻下界组织网络如同神经脉络交错密布。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-568-01-n06",
+      "lemma": "saltklesters",
+      "kind": "wordplay",
+      "text": "待核联想：saltklesters（盐簇／晶结体）：融合 salt（盐分）、cluster（簇丛）与 kleister（德语浆糊、黏结物），指地下盐矿结晶与地质凝块。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii4-572-01": [
+    {
+      "id": "fw-iii4-572-01-n01",
+      "lemma": "Honuphrius",
+      "kind": "allusion",
+      "text": "待核联想：Honuphrius（奥努弗里乌斯／好色翁）：借用天主教圣徒圣奥努弗里乌斯（St. Onuphrius，旷野隐修者）之名，谐音 onanism（手淫）与拉丁语 honos（荣誉），在此指代充当教会法复杂奸淫案例核心主角的退役少校（HCE之化身）。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-572-01-n02",
+      "lemma": "droit d'oreiller",
+      "kind": "wordplay",
+      "text": "待核联想：droit d'oreiller（枕边特权）：仿法语封建法权 droit de seigneur（初夜权）造词，oreiller 为枕头，指奥努弗里乌斯借枕席交欢之名行背德奸通之实。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-572-01-n03",
+      "lemma": "Interrogarius Mealterum",
+      "kind": "wordplay",
+      "text": "待核联想：Interrogarius Mealterum（审问者兼另一自我）：伪拉丁法律术语，融合 interrogare（盘问、审讯）与 alterum（另一个），指教会法庭或诉讼中向控辩双方提出刁钻两难假设的代理检察人。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-572-01-n04",
+      "lemma": "subdolence",
+      "kind": "wordplay",
+      "text": "待核联想：subdolence（狡黠欺瞒／暗行诡计）：源自拉丁语 subdolus（狡诈、阴险的），指在教会法交媾履行中故意施展诡计导致行房不能或不完全。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-572-01-n05",
+      "lemma": "pickpackpanel",
+      "kind": "wordplay",
+      "text": "待核联想：pickpackpanel（暗箱操纵陪审团）：融合 packed panel（串通内定的陪审员名单）与 pickpack（背负、同谋勾结），指诉讼审判中预先串通、偏袒不公的陪审团。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-572-01-n06",
+      "lemma": "jurisfiction",
+      "kind": "wordplay",
+      "text": "待核联想：jurisfiction（司法虚构／法律拟制管辖）：融合 jurisdiction（司法管辖权）与 fiction（虚构、小说），讽刺法官逾越法定裁判权、自行编造法律神话。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii4-576-01": [
+    {
+      "id": "fw-iii4-576-01-n01",
+      "lemma": "mancipium",
+      "kind": "allusion",
+      "text": "此词在mamy’s与act之间，围着契约能力及人身支配构成法理戏仿。正文不据此认定真实存在一部母亲家父权法案；罗马法细义另核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-576-01-n02",
+      "lemma": "diamond wedding tour",
+      "kind": "culture",
+      "text": "原文以钻石婚巡礼写两人归来。此处不独自证明两人已婚六十年，也不能将戏拟称谓当成年表。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-576-01-n03",
+      "lemma": "electrickery",
+      "kind": "wordplay",
+      "text": "electrickery（电戏法／电幻术）：融合 electricity（电、电力）与 trickery（戏法、欺诈），戏拟现代旅店标榜的水电供暖与奢靡电气设施。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-576-01-n04",
+      "lemma": "screendoll Vedette",
+      "kind": "culture",
+      "text": "待核联想：screendoll Vedette（银幕娇娃明星）：vedette 为法语明星、台柱；搭配 Regies Producer（电影导演制片），指现代流行文化与影视名伶工业。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-576-01-n05",
+      "lemma": "flispering",
+      "kind": "sound",
+      "text": "flispering（细语飘飞）：融合 flirting（调情）、whispering（耳语低语）与 fluttering（飘动），描摹夜叶婆娑下的诱惑私语。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-576-01-n06",
+      "lemma": "licensed vintner",
+      "kind": "culture",
+      "text": "原文明写特许酒商，并说nine hosts in himself。后者保留“一身兼九主”的夸张，不据此断定他实际经营九座酒肆。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii4-581-01": [
+    {
+      "id": "fw-iii4-581-01-n01",
+      "lemma": "monomyth",
+      "kind": "wordplay",
+      "text": "本项目先按mono与myth保留“单一神话”字面。是否还叠入偏执狂，以及后来如何进入坎贝尔理论，须另核外部文献。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-581-01-n02",
+      "lemma": "multimirror megaron",
+      "kind": "allusion",
+      "text": "待核联想：multimirror megaron（多面镜大殿）：megaron 为迈锡尼卫城中心大厅（大殿）。在此指代四维万镜互映的循环大殿，呼应维柯的历史回圈理论。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-581-01-n03",
+      "lemma": "Cainmaker's mace",
+      "kind": "allusion",
+      "text": "待核联想：Cainmaker's mace（造该隐者之权杖／杀戮狼牙棒）：融合创世记该隐杀弟（Cain）与 kingmaker（立王者），暗指生殖繁衍中的暴力冲突与原罪遗传。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-581-01-n04",
+      "lemma": "paratonnerwetter",
+      "kind": "wordplay",
+      "text": "待核联想：paratonnerwetter（普罗米修斯式避雷雷暴针）：融合法语 paratonnerre（避雷针）与德语 Donnerwetter（雷雨、训斥），比喻避孕套或引导性欲雷击的保护装置。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-581-01-n05",
+      "lemma": "annastomoses",
+      "kind": "wordplay",
+      "text": "annastomoses（吻合连接／安娜交融）：医学术语 anastomosis（血管吻合、网络连通）融合 Anna（安娜），指河流脉络与夫妻肉体在地下根系中永恒汇流结合。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-581-01-n06",
+      "lemma": "Totumvir",
+      "kind": "wordplay",
+      "text": "Totumvir（全人／全体丈夫）：拉丁语 totum（全体）与 vir（男子、夫君）复合，对举 esquimeena（爱斯基摩娇妇），指涵盖万民万有的全人类原初丈夫（HCE）。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii4-586-01": [
+    {
+      "id": "fw-iii4-586-01-n01",
+      "lemma": "urbanorb",
+      "kind": "wordplay",
+      "text": "urbanorb（都会日轮／城邦天球）：融合 urban（城市的）与 orb（天体、日轮、宝球），比喻在商业发迹史中如烈日升腾的城市巨头HCE。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-586-01-n02",
+      "lemma": "heptark",
+      "kind": "allusion",
+      "text": "待核联想：heptark（七国君主／七国残主）：源自英国盎格鲁-撒克逊时期的“七国时代”（Heptarchy），指HCE作为分裂古国统治者的迟暮败落残骸。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-586-01-n03",
+      "lemma": "reignbolt",
+      "kind": "wordplay",
+      "text": "reignbolt（彩虹权栓／统治雷栓）：融合 rainbow（彩虹，象征神圣立约与和平）、reign（统治）与 bolt（门闩、雷击），宣告其权势与神圣彩虹的终结闭幕。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-586-01-n04",
+      "lemma": "Tableau final",
+      "kind": "structure",
+      "text": "Tableau final（终幕活人画／定格终局）：戏剧术语，指舞台全剧终了时所有角色定格静止构成的收尾全景画面。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii4-586-01-n05",
+      "lemma": "Nuah-Nuah",
+      "kind": "allusion",
+      "text": "待核联想：Nuah-Nuah（诺亚-诺亚）：重叠指涉圣经创世记造方舟度洪水的诺亚（Noah），呼应古埃及原初水神努（Nu），在此加冕为巨人之王。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii4-586-01-n06",
+      "lemma": "staggerhorned",
+      "kind": "wordplay",
+      "text": "词形可拆听为stag、horn与stagger；正文保留母蜂、角与摇晃联想。原文不证明雄蜂的生物学结局，本轮不采用交尾后虚脱的说明。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ]
+}

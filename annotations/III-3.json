@@ -1,0 +1,994 @@
+{
+  "fw-iii3-474-01": [
+    {
+      "id": "fw-iii3-474-01-n01",
+      "lemma": "Pure Yawn",
+      "kind": "wordplay",
+      "text": "待核联想：肖恩在第三卷第三章化身为横卧山丘的庞大身躯“纯洁的约恩”（Yawn），融合哈欠、沉睡与巨石土冢意象。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-474-01-n02",
+      "lemma": "staff of citron briar",
+      "kind": "allusion",
+      "text": "待核联想：香橼木石楠手杖，借用圣经中亚伦的发芽手杖与族长传承权杖，象征代代相传的父权法统。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-474-01-n03",
+      "lemma": "three kings of three suits and a crowner",
+      "kind": "allusion",
+      "text": "待核联想：扑克牌三种花色的三张K加上加冕者，指代四位古老福音书作者与审判长者（马修、马克、卢克与约翰尼）。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-474-01-n04",
+      "lemma": "Brosna's furzy",
+      "kind": "culture",
+      "text": "原文直接把Brosna与furzy连写，正文保留布罗斯纳与金雀花。不据此描摹现实全河岸植被或确定沿途郡界。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-474-01-n05",
+      "lemma": "unde derivatur",
+      "kind": "allusion",
+      "text": "待核联想：拉丁法律与语源学术语“何处派生”、“源自何处”，标志着四位长者对约恩起源与隐秘身世的正式盘诘。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-474-01-n06",
+      "lemma": "Trinathan partnick dieudonnay",
+      "kind": "wordplay",
+      "text": "待核联想：复合三位一体（Trinity）、爱尔兰主保圣徒帕特里克（Patrick）与天主赐予者（Dieudonné），戏拟多重宗教人格。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-479-01": [
+    {
+      "id": "fw-iii3-479-01-n01",
+      "lemma": "Tear-nan-Ogre",
+      "kind": "allusion",
+      "text": "待核联想：爱尔兰凯尔特神话中的青春之乡（Tír na nÓg），双关眼泪（tear）与食人魔（ogre），代指梅奥郡荒凉乡野。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-479-01-n02",
+      "lemma": "Polldoody",
+      "kind": "culture",
+      "text": "原文把claire oysters、Polldoody与County Conway连写。正文依此保留生蚝、地名与县名；不借此证明现实行政归属或生蚝品质。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-479-01-n03",
+      "lemma": "wolves of Fochlut",
+      "kind": "allusion",
+      "text": "待核联想：圣帕特里克《忏悔录》记载其在异象中听闻爱尔兰西方福克鲁特森林（Wood of Fochlut）呼唤其还乡传教，谐音恶狼群落。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-479-01-n04",
+      "lemma": "Marcantonio",
+      "kind": "allusion",
+      "text": "正文以blarneying Marcantonio责斥听者。本轮暂音译马可·安东尼奥；不据同名断定雕版家，也不保留印制春宫诗而入狱的断言。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-479-01-n05",
+      "lemma": "Puer",
+      "kind": "wordplay",
+      "text": "原文紧接ens innocens与fifteen primes，保留少年、无辜与十五个初春。永恒少年心理原型之说尚无外证，本轮不采用。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-479-01-n06",
+      "lemma": "meas minimas culpads",
+      "kind": "wordplay",
+      "text": "待核联想：戏拟天主教忏悔经文“我过失、我的弥天大罪”（mea culpa, mea maxima culpa），反转为“微不足道的最小过错”。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-484-01": [
+    {
+      "id": "fw-iii3-484-01-n01",
+      "lemma": "octopods",
+      "kind": "wordplay",
+      "text": "原文以八足称呼听者。四位长者合计八条腿；此处不应算成八条手臂再加双足。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-484-01-n02",
+      "lemma": "Saint Momuluius",
+      "kind": "wordplay",
+      "text": "待核联想：复合四福音作者兼审判长者马修、马克、卢克与约翰尼（Mamalujo）的戏谑圣徒化尊号。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-484-01-n03",
+      "lemma": "Negoist Cabler",
+      "kind": "wordplay",
+      "text": "待核联想：融汇利己主义者（egoist）、否定者（negoist）与跨海海底电报发报员（cabler），指代远方流亡的谢姆。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-484-01-n04",
+      "lemma": "Hullo Eve Cenograph",
+      "kind": "wordplay",
+      "text": "待核联想：复合万圣节前夕（All Hallows' Eve）、你好夏娃（Hullo Eve）与衣冠冢/空碑文（cenotaph/cenograph），暗扣招魂电讯。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-484-01-n05",
+      "lemma": "swiltersland",
+      "kind": "wordplay",
+      "text": "待核联想：复合瑞士（Switzerland）与大汗淋漓（swelter），指涉十九与二十世纪欧洲肺结核病患前往阿尔卑斯山疗养院之宿命。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-484-01-n06",
+      "lemma": "Graw McGree",
+      "kind": "allusion",
+      "text": "待核联想：爱尔兰盖尔语短语Grá mo chroí（我心中的至爱），此处用作痛惜爱国志士与流亡手足的热忱呼唤。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-489-01": [
+    {
+      "id": "fw-iii3-489-01-n01",
+      "lemma": "V.V.C.",
+      "kind": "wordplay",
+      "text": "待核联想：维多利亚十字勋章（Victoria Cross）与极度卑劣罪愆（Very Vile Crime）的戏谑复合，暗扣军功与丑闻。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-489-01-n02",
+      "lemma": "E. Obiit Nolan",
+      "kind": "wordplay",
+      "text": "待核联想：拉丁语obiit（已逝/辞世）与布鲁诺（Giordano Bruno of Nola）及爱尔兰常见姓氏诺兰（Nolan）融合，隐指故去哲学家的化身。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-489-01-n03",
+      "lemma": "Gates of Gold",
+      "kind": "allusion",
+      "text": "本段同时写金门、Osirises、开口与Nu-Men，暂按冥界及重生语境读。是否对应《亡灵书》某处，须另查；不标已核篇章。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-489-01-n04",
+      "lemma": "Irise, Osirises",
+      "kind": "wordplay",
+      "text": "待核联想：复合埃及冥神奥西里斯（Osiris）、爱尔兰人（Irish）与升起复活（Arise），在降神招魂中召唤四散残躯重新崛起。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-489-01-n05",
+      "lemma": "Nu-Men",
+      "kind": "wordplay",
+      "text": "本项目听作new men、numen等声音联想，亦可能牵出水神名号。本轮只核见证本文字，不断言某神执掌往生航道。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-489-01-n06",
+      "lemma": "Outis",
+      "kind": "allusion",
+      "text": "待核联想：希腊语“无人”（Outis），荷马《奥德赛》中奥德修斯在独眼巨人洞窟中自称的化名，暗指乔伊斯笔下隐匿匿名的叙述者。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-494-01": [
+    {
+      "id": "fw-iii3-494-01-n01",
+      "lemma": "chrome sweet home",
+      "kind": "wordplay",
+      "text": "融汇甜蜜家园（home sweet home）与铬黄彩虹（chrome），讽喻天际彩虹构筑的虚幻居所。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-494-01-n02",
+      "lemma": "farmament",
+      "kind": "wordplay",
+      "text": "苍穹（firmament）与农庄（farm）之交织，将宏阔宇宙天宇降格为都柏林乡野农庄之田园背景。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-494-01-n03",
+      "lemma": "iridecencies",
+      "kind": "wordplay",
+      "text": "复合虹彩辉光（iridescence）与不雅猥亵（indecency），讽喻天际光芒中暗含的丑闻放荡。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-494-01-n04",
+      "lemma": "Ophiuchus",
+      "kind": "allusion",
+      "text": "原文把Ophiuchus放在地平线上方，并接写妇人、蛇环与星体。译作蛇夫座；其余星名如何套入人物关系，尚待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-494-01-n05",
+      "lemma": "Parthenopea",
+      "kind": "allusion",
+      "text": "待核联想：古希腊海妖塞壬帕耳忒诺佩（Parthenope）与那不勒斯古名之交融，在此与小女星象遥相辉映。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-494-01-n06",
+      "lemma": "Apep",
+      "kind": "allusion",
+      "text": "待核联想：古埃及神话中象征黑暗与混沌的原初巨蟒阿佩普（Apophis/Apep），在太阳神夜行冥界时企图吞噬神舟。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-499-01": [
+    {
+      "id": "fw-iii3-499-01-n01",
+      "lemma": "rouseruction",
+      "kind": "wordplay",
+      "text": "复合复活（resurrection）与唤醒（rouse），暗指降神招魂中唤醒死者躯体的躁动过程。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-499-01-n02",
+      "lemma": "Bappy-go-gully",
+      "kind": "wordplay",
+      "text": "乐天知命（happy-go-lucky）的谐音错置，融入深沟（gully）与愚弄，化作众人狂欢的荒诞呼号。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-499-01-n03",
+      "lemma": "Thesaurus Plantarum",
+      "kind": "culture",
+      "text": "待核联想：拉丁语“植物宝库”，借指布朗与诺兰出版社印行的植物图鉴体系，暗扣都柏林与宇宙生命之树。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-499-01-n04",
+      "lemma": "The Prittlewell Press",
+      "kind": "allusion",
+      "text": "此词在Thesaurus Plantarum与Browne、Nolan之后出现，拟作出版署名。未核现实出版物，也未证实它与布鲁诺著作出版史有关。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-499-01-n05",
+      "lemma": "reignladen",
+      "kind": "wordplay",
+      "text": "兼融阴雨连绵（rain-laden）与统治重负（reign-laden），双关爱尔兰多雨气候与沉重政治压迫。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-499-01-n06",
+      "lemma": "Muerther",
+      "kind": "wordplay",
+      "text": "待核联想：德语Mörder（凶手）与英语murder（谋杀）交融，在招魂仪式的哀号中控诉原始罪案。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-504-01": [
+    {
+      "id": "fw-iii3-504-01-n01",
+      "lemma": "king of all crans",
+      "kind": "wordplay",
+      "text": "待核联想：爱尔兰盖尔语crann（树木）与英语crane（鹤）双关，象征贯通天地之生命巨树与禽鸟王者。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-504-01-n02",
+      "lemma": "bushle",
+      "kind": "allusion",
+      "text": "待核联想：蒲式耳（bushel）与灌木丛（bush）复合，化用《新约·马太福音》“人点灯不放在斗底下”之语。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-504-01-n03",
+      "lemma": "arpists",
+      "kind": "wordplay",
+      "text": "待核联想：爱尔兰传统竖琴乐师（harpists）与艺术家（artists）之融合，暗指宫廷行吟乐手与法庭作证者。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-504-01-n04",
+      "lemma": "liszted",
+      "kind": "wordplay",
+      "text": "待核联想：名录登记（listed）与匈牙利钢琴大师李斯特（Franz Liszt）谐音，借音乐术语化作法庭聆讯场景。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-504-01-n05",
+      "lemma": "Etoudies",
+      "kind": "wordplay",
+      "text": "待核联想：法语练习曲（études）与学术研究（studies）交织，指钢琴指法练习曲与案情推演。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-504-01-n06",
+      "lemma": "Gels bach",
+      "kind": "wordplay",
+      "text": "本项目暂听作girls与Bach相碰，保留少女与音乐两层。未核词源，不把Gels标作德语“少女”。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii3-509-01": [
+    {
+      "id": "fw-iii3-509-01-n01",
+      "lemma": "Vechers all",
+      "kind": "wordplay",
+      "text": "待核联想：俄语veche（人民大会）、德语Wächter（看守）与英语watchers交织，指全体监视审讯的四老审判团。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-509-01-n02",
+      "lemma": "watching brief",
+      "kind": "culture",
+      "text": "watching与brief在本段连续出现，连着监看及盘问。正文暂译“监看委托”，不把brief当成已经提交的辩护状；精确诉讼制度另候法源。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-509-01-n03",
+      "lemma": "witching longue",
+      "kind": "wordplay",
+      "text": "待核联想：巫魅时刻（witching hour）、冗长沉闷（longueur）与舌头言辞（tongue）的复合，形容法庭漫长窒息的盘诘气氛。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-509-01-n04",
+      "lemma": "Kerry quadrilles",
+      "kind": "culture",
+      "text": "待核联想：爱尔兰西南部凯里郡乡村四对舞（quadrilles），象征四位老者围坐步调杂乱却自成阵式的滑稽动作。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-509-01-n05",
+      "lemma": "Listowel lancers",
+      "kind": "culture",
+      "text": "原文将此词与Kerry quadrilles并列，描摹四老边饮边舞。本轮未核具体地方舞谱，不把lancers断言为轻骑兵舞曲。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-509-01-n06",
+      "lemma": "mastersinging",
+      "kind": "allusion",
+      "text": "待核联想：德意志名歌手（Meistersinger）歌唱传统，在此反讽四老走调刺耳、执着于连续平行五度的合唱。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-514-01": [
+    {
+      "id": "fw-iii3-514-01-n01",
+      "lemma": "Normand",
+      "kind": "allusion",
+      "text": "待核联想：诺曼底人（Normand）与四老审判团成员之交织，暗指爱尔兰历史上的诺曼征服血脉。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-514-01-n02",
+      "lemma": "mejical history",
+      "kind": "wordplay",
+      "text": "复合魔幻（magical）、医疗（medical）与中世纪历史（medieval history），讽喻审讯证词充满怪诞传奇色彩。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-514-01-n03",
+      "lemma": "In voina viritas",
+      "kind": "wordplay",
+      "text": "待核联想：拉丁语格言In vino veritas（酒后吐真言）与俄语война（战争）结合，扭曲为“战火之中见真理”。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-514-01-n04",
+      "lemma": "Ab chaos lex",
+      "kind": "allusion",
+      "text": "待核联想：拟拉丁语“律法源于混沌”，谐仿创世格言Ab chao lux（光出自混沌），指四老法庭秩序自无序争吵中确立。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-514-01-n05",
+      "lemma": "Thanksbeer to Balbus",
+      "kind": "wordplay",
+      "text": "待核联想：拉丁圣咏Deo gratias（感谢上帝）与啤酒（beer）及罗马筑墙传奇人物巴尔布斯（Balbus）融汇，指守夜饮宴后的筑墙防卫。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-514-01-n06",
+      "lemma": "christmians",
+      "kind": "wordplay",
+      "text": "复合基督徒（Christians）与圣诞节（Christmas），指代朝圣聚会与节日宴饮中的信众群氓。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii3-519-01": [
+    {
+      "id": "fw-iii3-519-01-n01",
+      "lemma": "engels opened to neuropeans",
+      "kind": "wordplay",
+      "text": "待核联想：融汇马克思主义理论家恩格斯（Friedrich Engels）、天使（angels）与新欧洲人（neuropeans），暗指欧陆政治革命与启示录意象。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-519-01-n02",
+      "lemma": "pattern pootsch",
+      "kind": "wordplay",
+      "text": "花样格式（pattern）与政变暴动（Putsch）交织，暗喻法庭争辩犹如不断重演的政治哗变。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-519-01-n03",
+      "lemma": "epscene licence",
+      "kind": "wordplay",
+      "text": "复合淫秽（obscene）、史诗（epic）与舞台演出执照（stage/scene licence），讽指公共场合的不端举止。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-519-01-n04",
+      "lemma": "So be vigil",
+      "kind": "allusion",
+      "text": "待核联想：拉丁语警诫vigilate（应当警醒守望），告诫证人与庭审众人时刻防范圈套与伪证。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-519-01-n05",
+      "lemma": "concoon",
+      "kind": "wordplay",
+      "text": "共谋（collusion/conspiracy）与蚕茧（cocoon）交叠，指代证人席间织就的私下合谋罗网。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-519-01-n06",
+      "lemma": "norsect",
+      "kind": "wordplay",
+      "text": "待核联想：北方教派（northern sect）与害虫（insect）融合，在此指代阿尔斯特北方清教徒派系法庭。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-524-01": [
+    {
+      "id": "fw-iii3-524-01-n01",
+      "lemma": "sweet fillies",
+      "kind": "wordplay",
+      "text": "待核联想：甜美小母马（sweet fillies），借赛马行话双关凤凰公园里嬉戏游荡的年轻女子。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-524-01-n02",
+      "lemma": "regrettable nuisance",
+      "kind": "culture",
+      "text": "本段故作公文口吻，说此事令人遗憾且滋扰公众。原文不能独自证明现实法定罪名或已成判例。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-524-01-n03",
+      "lemma": "arbitrary conduct",
+      "kind": "culture",
+      "text": "此语处在仿法令的长句中，连着公园细则与指控。正文按专断举止处理；本轮未查普通法法源，不称其为正式罪名。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-524-01-n04",
+      "lemma": "Jump the railchairs",
+      "kind": "wordplay",
+      "text": "待核联想：越过铁轨座垫/法庭围栏（railchairs），隐喻破坏法庭既定秩序与冲决制度藩篱。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-524-01-n05",
+      "lemma": "queskins",
+      "kind": "wordplay",
+      "text": "待核联想：盘问质询（questions）与兽皮小囊（skins）复合，指庭审中连番抛出的刁钻盘诘细节。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-524-01-n06",
+      "lemma": "skullabogue cheek",
+      "kind": "allusion",
+      "text": "待核联想：典出1798年爱尔兰起义中的斯卡拉博格谷仓惨案（Skullabogue Massacre），怒斥证人肆无忌惮的狂妄厚颜。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-529-01": [
+    {
+      "id": "fw-iii3-529-01-n01",
+      "lemma": "Hayden Wombwell",
+      "kind": "allusion",
+      "text": "待核联想：复合巡查官员海登（Hayden）与英国十九世纪著名沃姆韦尔巡回动物园（Wombwell’s Menagerie），暗讽市场稽查队伍犹如杂耍巡游班子。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-529-01-n02",
+      "lemma": "Shaun Shemsen",
+      "kind": "wordplay",
+      "text": "肖恩（Shaun）与谢姆（Shem）双胞兄弟之合体，指代二人在电台广播与市井喧嚣中化生为不可分割的对立统一体。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-529-01-n03",
+      "lemma": "Big Butter Boost",
+      "kind": "culture",
+      "text": "章末此句与电台般短促报词并置。本项目暂作黄油促销口号读；未核到具体广告，不指定农业部或黄油协会。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-529-01-n04",
+      "lemma": "kalebrose",
+      "kind": "culture",
+      "text": "待核联想：卷心菜燕麦肉汤（kale-brose），苏格兰与爱尔兰乡野贫民的传统廉价吃食，在此用作粗鄙世俗的象征。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-529-01-n05",
+      "lemma": "raw materialist",
+      "kind": "wordplay",
+      "text": "原料批发商（raw material）与哲学唯物主义者（materialist）之双关，讽喻商贾市侩骨子里的唯物算计。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-529-01-n06",
+      "lemma": "saywhen saywhen",
+      "kind": "wordplay",
+      "text": "倒酒习语“够了请说”（say when），在电报代码与酒吧喧闹中化作充满暗示的重复接头暗号。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii3-534-01": [
+    {
+      "id": "fw-iii3-534-01-n01",
+      "lemma": "muddy crushmess",
+      "kind": "wordplay",
+      "text": "泥泞圣诞节（muddy Christmas / crush-mess），讽喻都柏林冬日潮湿泥泞的节日宿醉与秩序溃散。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-534-01-n02",
+      "lemma": "Pelagios",
+      "kind": "allusion",
+      "text": "待核联想：古不列颠神学家伯拉纠（Pelagius），因主张自由意志否定原罪而被定为异端，在此象征爱尔兰异端精神。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-534-01-n03",
+      "lemma": "Stuttertub",
+      "kind": "wordplay",
+      "text": "待核联想：口吃讲坛/木桶（stuttering tub），暗指口吃布道者在公共集会木桶上的滑稽辩解。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-534-01-n04",
+      "lemma": "shrubbery trick",
+      "kind": "wordplay",
+      "text": "灌木丛诡计（shrubbery trick）与势利伪善（snobbery）谐音，指涉凤凰公园灌木遮蔽下的偷窥罪愆。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-534-01-n05",
+      "lemma": "Tiktak",
+      "kind": "sound",
+      "text": "拟声钟表嘀嗒节拍（tick-tock），象征降神会中幽灵传讯的电报脉冲与死亡倒计时。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-534-01-n06",
+      "lemma": "whitepot",
+      "kind": "culture",
+      "text": "待核联想：英国德文郡传统烤布丁“白罐”（whitepot），借指厨师或证人所戴的白色圆顶软帽。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-539-01": [
+    {
+      "id": "fw-iii3-539-01-n01",
+      "lemma": "Chistayas",
+      "kind": "wordplay",
+      "text": "待核联想：融汇基督（Christ）、洁白贞洁（chaste）与俄语чистая（纯净的），象征涤荡罪愆后的超脱境界。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-539-01-n02",
+      "lemma": "our mostmonolith",
+      "kind": "allusion",
+      "text": "待核联想：我们的至尊独石柱，指代公元十至十一世纪古代维京人在都柏林利菲河畔竖立的标志性“长石”（Long Stone）。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-539-01-n03",
+      "lemma": "longstone erectheion",
+      "kind": "wordplay",
+      "text": "待核联想：雅典卫城厄瑞克忒翁神庙（Erechtheion）与都柏林长石巨石碑（Longstone）结合，将爱尔兰殖民地标神圣化。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-539-01-n04",
+      "lemma": "allfirst manhere",
+      "kind": "wordplay",
+      "text": "原初第一人（all-first man here）与史前巨石纪念碑（menhir）交叠，指代始祖亚当与巨石文明的先驱。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-539-01-n05",
+      "lemma": "Roe's distillery",
+      "kind": "culture",
+      "text": "待核联想：乔治·罗氏蒸馏酿酒厂（George Roe & Co Distillery），都柏林托马斯街著名的威士忌酒厂，曾为欧洲最大蒸馏工场。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-539-01-n06",
+      "lemma": "correspondence courses",
+      "kind": "culture",
+      "text": "待核联想：函授培训课程，十九至二十世纪初爱尔兰城市平民自修提升身份的典型文化路径。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-544-01": [
+    {
+      "id": "fw-iii3-544-01-n01",
+      "lemma": "late marquess of Zetland",
+      "kind": "allusion",
+      "text": "待核联想：劳伦斯·登达斯，第一代泽特兰侯爵（Lawrence Dundas, 1st Marquess of Zetland），1889至1892年任爱尔兰总督，代表英国维多利亚晚期爱尔兰贵族统治。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-544-01-n02",
+      "lemma": "Baltic dishes",
+      "kind": "culture",
+      "text": "待核联想：波罗的海菜肴，借指都柏林下层移民杂居区散发的异国腌鱼与香料气味，勾勒出贫民窟的生活图景。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-544-01-n03",
+      "lemma": "aldritch cry",
+      "kind": "wordplay",
+      "text": "阴森惊怖之号叫（eldritch cry），借民间传说中女妖班西（banshee）的凄厉哀鸣，指代利菲河在降神征服下的悲啼。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-544-01-n04",
+      "lemma": "silents",
+      "kind": "wordplay",
+      "text": "双关无声默片（silent cinema）与河水静默无语（silence），暗扣古代神话中被夺去言辞的沉寂水域。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-544-01-n05",
+      "lemma": "king's count",
+      "kind": "culture",
+      "text": "待核联想：王家人口与财产清册盘点（king’s count），呼应威廉一世《末日审判书》式的封地丈量与臣属检视。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-544-01-n06",
+      "lemma": "shells of moyles marine",
+      "kind": "allusion",
+      "text": "待核联想：莫伊尔海（Sea of Moyle）贝壳，典出爱尔兰著名神话《李尔王儿女的悲歌》，化作天鹅的儿女在冰冷莫伊尔海峡漂泊受难。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii3-549-01": [
+    {
+      "id": "fw-iii3-549-01-n01",
+      "lemma": "Danabrog",
+      "kind": "allusion",
+      "text": "待核联想：丹麦大国旗勋章（Dannebrog），丹麦古老著名骑士勋章，象征北欧维京国王对都柏林的统治与封赐。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-549-01-n02",
+      "lemma": "Cunnig's great",
+      "kind": "wordplay",
+      "text": "待核联想：丹麦语Kongen er stor（国王伟大）的英语音译扭曲，指维京臣民对君主降临的欢呼高唱。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-549-01-n03",
+      "lemma": "Soll leve",
+      "kind": "culture",
+      "text": "待核联想：丹麦语与挪威语祝寿祝酒呼号Skal leve（万岁长存），在此用于都柏林守灵狂欢之夜的敬酒辞。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-549-01-n04",
+      "lemma": "Madonna lanthorns",
+      "kind": "culture",
+      "text": "待核联想：圣母壁灯（Madonna lanterns），爱尔兰天主教徒在沿街建筑与避风港湾前悬挂的庇护油灯。本轮仅核见证本文字，外部史实、词源及确切所指尚未核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii3-549-01-n05",
+      "lemma": "switcheries of the whip",
+      "kind": "wordplay",
+      "text": "抽打（switch）与巫术魅力（witchery）之双关，暗扣皮鞭挥舞带来的狂乱律动与感官快感。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii3-549-01-n06",
+      "lemma": "Joahanahanahana",
+      "kind": "sound",
+      "text": "四福音长者中约翰（John/Johnny）名字的放声大笑，与马太、马可、路加合唱狂笑声为第三卷第三章画上句号。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ]
+}

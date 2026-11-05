@@ -1,0 +1,48 @@
+[
+  {
+    "term": "HCE",
+    "translation": "HCE（保留字母）",
+    "status": "provisional",
+    "note": "须逐处记录变体，不将所有 HCE 都补作同一人名。开篇 Howth Castle and Environs 已见此字母组。",
+    "source_ids": [
+      "joyce-fp",
+      "fw-howth"
+    ]
+  },
+  {
+    "term": "ALP",
+    "translation": "ALP（保留字母）",
+    "status": "provisional",
+    "note": "人物名、河流与母性意象须依上下文辨认；当前首尾样稿尚未建立全书译名。",
+    "source_ids": [
+      "jjda-i1"
+    ]
+  },
+  {
+    "term": "Howth",
+    "translation": "霍斯",
+    "status": "provisional",
+    "note": "暂用音译。后续核对爱尔兰地名惯译与读音，再统一修订。",
+    "source_ids": [
+      "fw-howth"
+    ]
+  },
+  {
+    "term": "riverrun",
+    "translation": "河水流",
+    "status": "provisional",
+    "note": "为首尾接缝暂定；同时保留河流与动作。",
+    "source_ids": [
+      "joyce-fp"
+    ]
+  },
+  {
+    "term": "vicus",
+    "translation": "小径；注内联系维柯",
+    "status": "provisional",
+    "note": "一词多层，不全压进正文；各段仍须独立判断。",
+    "source_ids": [
+      "fw-vicus"
+    ]
+  }
+]

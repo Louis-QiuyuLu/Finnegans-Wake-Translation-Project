@@ -1,0 +1,714 @@
+{
+  "fw-ii2-260-01": [
+    {
+      "id": "ii2-unde-et-ubi",
+      "lemma": "unde et ubi",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "正文译作‘来自何处与身在何处’，保留起点与位置的分别；旧注‘何处去’误引目的地，现删。经院哲学范畴之说尚无本注列出的专门文献支持，不作定论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-tomtittot-totalitarian",
+      "lemma": "tomtittot to teetootomtotalitarian",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原词从tomtittot铺展到teetootomtotalitarian，末尾可辨totalitarian。译文保留由小向大、反复扩音的尺度；童话出处仍待另核，不能据此替原文补故事。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-broad-hairy-face",
+      "lemma": "With his broad and hairy face, to Ireland a disgrace",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此左旁注明写宽阔多毛的脸，称其有辱爱尔兰。HCE身份与具体市井歌谣出处均未在本注所引原文中坐实，暂只按嘲弄语气读。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-mater-mary-nipples",
+      "lemma": "Mater Mary Mercerycordial of the Dripping Nipples",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注把Mater、Mary与滴乳乳头、乳汁的奇异安排并列。可提议读为圣母祷词与肉身哺乳相混；说话者是否伊瑟、祷词准确出处，仍待专门证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-booming-cursowarries",
+      "lemma": "booming cursowarries",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "cursowarries可与cassowary、curse作声形比较；corsair也是候选，不能据候选径补海战。此处只译可辨的轰鸣鸟声，不把各成分当作已证词源。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-lutharius-sinobiled",
+      "lemma": "And he was a gay Lutharius anyway, Sinobiled",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Lutharius可与Lothario、Luther比较声形；Sinobiled如何拆读仍存疑。正文保留名字的陌生感，不再增公爵、贵族尊号或确定的HCE身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-262-mirror-loss",
+      "lemma": "O Evol, kool in the salg and ees how Dozi pits what a drows er.",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "本句若干词倒拼或拆拼：Evol可倒读love，kool倒读look，ees倒读see。译文只保留镜子、观看与睡意，未复造全部镜像拼写。salg与末串仍待核，不据猜读添正文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-264-01": [
+    {
+      "id": "ii2-archaic-zelotypia",
+      "lemma": "archaic zelotypia and the odium teleologicum",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "原右旁注并列archaic zelotypia与odium teleologicum，嫉妒与仇恨并置。兄弟学派、经院宗派之说只属读路；本轮未核术语史，不据此定人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-odium-teleologicum",
+      "lemma": "odium teleologicum",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "teleologicum与theologicum形近，正文暂以目的、宿怨相缠来译。神学术语的沿用史尚待词典或研究，不能只凭原作转为事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-anama-anamabapa",
+      "lemma": "Anama anamaba anamabapa",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "Anama、anamaba、anamabapa依次添音，末尾可听Mama、Papa一类儿语回声。译文保留递增，不把语言发生学当作已证作者用意。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-tarararat-ark",
+      "lemma": "All abunk for Tarararat!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Tarararat可与Tara、Ararat作声形比较；All abunk可听见上铺、胡扯等近音。具体地名典故待核，正文只保留登舟、山名与马槽铺位，不增洪水后情节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-doss-in-manger",
+      "lemma": "we've a doss in the manger",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注直接说在manger有一处doss，译作马槽里的铺位。基督降生与狗占马槽可作互文候选，本轮未核具体文献。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-fathering-law",
+      "lemma": "fathering law",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "fathering law把父亲、生育与law并放，亦近father-in-law。译文以岳父、法律父亲并列补偿，不据这串词新增家谱关系。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-268-01": [
+    {
+      "id": "ii2-telltale-annaryllies",
+      "lemma": "Telltale me all of annaryllies",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Telltale me all of annaryllies把告密、全说与annaryllies连起，可提议听到Anna及花名回声；本轮未重核I.8，不把旧注所列句子当作已核原文引句。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-arms-enlocked",
+      "lemma": "their arms enlocked",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "字面是双臂交锁。彩虹少女、姐妹环舞与镜像依恋可列解释，却不能仅凭这三个词确证角色与动作场面。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-understudy-understandings",
+      "lemma": "Understudy my understandings",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原注把understudy与understandings并列，译文兼留替演、下身与理解的交错。下装俗义及说话者身份尚待词典、研究，不认定伊瑟独白。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-gymnufleshed-genuflection",
+      "lemma": "gymnufleshed",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "gymnufleshed可与flesh、genuflection等词形比较，译作赤肉屈膝。体操词源与修道学堂场景未获外证，只留作候选。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-deadleaf-brown-quicksilver",
+      "lemma": "deadleaf brown with quicksilver appliques",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原注确有枯叶褐、水银贴花、家中衣装与想要另一件衣服的对照。维柯对应尚无此注所列来源支持，不作事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-slippering-snake-charmeuse",
+      "lemma": "slippering snake charmeuse",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "slippering、snake、charmeuse串起滑动、蛇与衣料。译文作滑蛇缎，保留触感；伊甸园互文仍是待核提议。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-272-01": [
+    {
+      "id": "ii2-leda-afraida",
+      "lemma": "Leda, Lada, aflutter-afraida",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Leda、Lada与aflutter-afraida连写，译文保留名字、扑翅与惊怕。天鹅神话和ALP身份可供研究，不据未核神话细节增写受孕。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-pappapassos-mammamanet",
+      "lemma": "Pappapassos, Mammamanet",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原字串是Pappapassos, Mammamanet，不是旧注所改写的pappa passus, mamma manet。译文保留儿语姓名，不再将‘父亲已逝’写成定意；拉丁语与英语回声须另核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-traduced-jinglish",
+      "lemma": "Traduced into jinglish janglage",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Traduced与translated形近，jinglish janglage带叮当音，译文兼留译、谤与乱语。是否自指全书，属本项目读路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-nusances-dolphins",
+      "lemma": "for the nusances of dolphins born",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "nusances可与nuisances比较，dolphins保留海豚字面；Dolph、Dauphin等身份与头衔回声未外核，不把多尔夫直接锁定为谢姆或王太子。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-girdle-grow-garden",
+      "lemma": "so does your girdle grow",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原句说腰带grow，未明说变紧。译文保留生长，garden童谣回声及怀孕解释仍待具体曲文与上下文补证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-boyjones-herodotus",
+      "lemma": "O boyjones and hairyoddities!",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "boyjones与hairyoddities可作姓名、古史的声形线索。本轮未查Boy Jones传记或希罗多德文本，旧注潜宫史实与明确出处均暂撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-276-01": [
+    {
+      "id": "ii2-twoheaded-dulcarnons",
+      "lemma": "twoheaded dulcarnons",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原旁注明写twoheaded dulcarnons，并与偷芜菁对照。译文保留双角、两难。阿拉伯词源、亚历山大称号及《几何原本》I.47沿用史均待专门来源，不作已证事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-dove-without-gall",
+      "lemma": "dove without gall",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "字面为无胆鸽子，和前面的gale、blost对照。古代博物学传统、圣徒身份及肖恩兄弟关系尚未核实，不以角色解释替换原词。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-amum-amum-amen",
+      "lemma": "Amum. Amum. And Amum again",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "Amum三次出现，可听作Amen、Mum的回声。译文作‘阿母’以兼留祷词与母亲，尚未证明这是作者唯一意图。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-surplice-money-bed",
+      "lemma": "it's the surplice money",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原注直接对照surplice money买床、wits借衣。译作白袍收入，保留金钱与衣床关系；具体教会规费种类待核，不另限定婚礼或洗礼。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-wits-borrows-clothes",
+      "lemma": "what buys the bed while wits borrows the clothes",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文以收入买床对照机智借衣。旧注把前后强配富贵肖恩与流亡谢姆，证据不足，现撤；正文不据此新增人物遭际。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-backslapping-gladhander",
+      "lemma": "the backslapping gladhander",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "字面写拍背、热情握手的汉子，可读为社交热络。市侩政客及肖恩钻营属于未证角色解释，现不作定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-280-01": [
+    {
+      "id": "ii2-bibelous-hicstory",
+      "lemma": "Bibelous hicstory and Barbarassa harestary",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Bibelous、hicstory、Barbarassa、harestary可听到书经、醉嗝、红胡子、异端等候选回声。腓特烈一世身份与官方历史论未获外证，不当原文已明言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-family-arithmetic-100",
+      "lemma": "Twelve buttles man, twentyeight bows of curls, forty bonnets woman",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原注列十二、二十八、四十，再写ever youthfully yours与alleven add the hundred。前三数相加为八十，余项怎样凑百尚未解；旧注补出二十，没有原文字面依据，现撤。译文保留数谜，不以人物体系冒充算清。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-run-phoenix-run",
+      "lemma": "Run, Phoenix, run!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注直接喊‘跑，凤凰，跑！’。赛马、猎犬赛事与HCE公园围捕均待证，译文不据这些候选补情节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-dreamoneire-dream",
+      "lemma": "Or dreamoneire.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "dreamoneire显出dream，亦可听富翁式结尾。希腊语词源仍待核，单词出现不能证明整章场景只有梦境一路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-road-to-rouen-ruin",
+      "lemma": "in the road to Rouen",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Rouen与ruin可作近音比较；正文兼留鲁昂与毁灭。拿破仑战败、家族衰败等历史剧情未获本注来源支持，现撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-slash-the-pill",
+      "lemma": "Slash-the-Pill lifts the pellet",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Slash-the-Pill、pellet使切药丸与小球动作相接。板球、手术、投毒均只是候选，不据此确定一场市井事件。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-284-01": [
+    {
+      "id": "ii2-median-hce",
+      "lemma": "median, hce che ech",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文median后明列hce che ech，字母次序不断移换。父权嵌入几何是解释，不等于这句话已指明人物身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-interecting-angles",
+      "lemma": "interecting at royde angles",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "interecting、royde可与intersecting、erecting、right比较，几何与肉身词形相缠。译文保留直角；性心理解释仍属提议。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-spider-wavetrap",
+      "lemma": "Will you walk into my wavetrap? said the spiter to the shy.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Will you walk into my wavetrap等句有诱入、网、吐唾者与羞怯者。可提议为蜘蛛诗互文，但作者、作品准确引句尚未在本轮重开查证，不保留旧注的引号原诗。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-four-strange-tongues",
+      "lemma": "Basqueesh, Finnican, Hungulash and Old Teangtaggle",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原注列Basqueesh、Finnican、Hungulash、Old Teangtaggle四个改造词。可按声形提议巴斯克、芬兰、匈牙利、古舌等回声；本轮不核语言谱系，撤去确定语系分类，也不把第四词径定为盖尔语。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-fearmanagh-height",
+      "lemma": "Height of County Fearmanagh",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "Fearmanagh可与Fermanagh比较，词头又显fear。译文保留地名；行政区划及北方战乱寓意尚待地名史、研究，不当已证事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-family-umbroglia",
+      "lemma": "family umbroglia",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "umbroglia可与imbroglio、umbra、umbrella作形近比较，译文以家庭阴伞纠纷补偿。外语确切词义与组合词源尚待词典。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-288-01": [
+    {
+      "id": "ii2-dillon-dollar-scholar",
+      "lemma": "for a dillon a dollar",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "dillon a dollar有重复d音与货币回声，但dillon不等于dime，不能径译一角钱。童谣出处与狄龙家族解释均待核，正文保留迪伦。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-plutonic-platonic-loveliaks",
+      "lemma": "Plutonic loveliaks twinnt Platonic yearlings",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文并列Plutonic与Platonic，两词一字之隔，译文以冥土与柏拉图保留差异。深成岩、精神恋与肉欲的解释可并存为提议，未证明作者每层均取。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-draw-the-line-somewhawre",
+      "lemma": "draw the line somewhawre",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "draw the line可同时读画线与划界，紧接几何作图。窥探母体隐私属于后文读路，不把伦理解释写成作者已说明的命令。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-buckley-russian-general-pumped",
+      "lemma": "Where Buickly of the Glass and Bellows pumped the Rudge engineral",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注是Buickly ... pumped the Rudge engineral，并未直接写shot the Russian General。可与巴克利传奇作声形互照，但本轮未核跨章原文；枪击、战争地点与确定器械情节不补入此句。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-matter-of-brettaine",
+      "lemma": "Matter of Brettaine and brut fierce",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Matter of Brettaine与brut fierce并列，可提议不列颠题材与野兽、粗暴的回声。中世纪三大题材、Brut文本及亚瑟王来源尚待专门文献。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-bussmullah-lord-wolsley",
+      "lemma": "Bussmullah, cried Lord Wolsley",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Bussmullah、Lord Wolsley与姨母将吵的感叹直接并列。Bismillah、Wolseley可作音形候选，具体埃及远征史未核，不留作已证背景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-293-01": [
+    {
+      "id": "ii2-coss-cossist-algebra",
+      "lemma": "Coss? Cossist?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Coss与Cossist并列，紧随作图数学语境，译文暂按未知数与代数家处理。意大利语至德语的词源链仍待历史词典，cause近音也只是候选。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-somnione-sciupiones",
+      "lemma": "somnione sciupiones",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "somnione sciupiones近Somnium Scipionis，可作西庇阿之梦的互文候选。意大利语挥霍词源及经院哲学讽刺未核，不作定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-ugol-egal-ogle",
+      "lemma": "Ugol egal ogle. Mi vidim Mi.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文是Ugol egal ogle. Mi vidim Mi，不能换成mi vidimo se再当同一句释义。译文暂以角、等、凝视与我看我试留重复；语言归属、人称数及互见关系均未坐实，仍待形态核查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-sangannons-dream-shannon",
+      "lemma": "It is, it is Sangannon's dream.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注只写It is, it is Sangannon's dream。可与Shannon比较声形，尚无具体歌谣出处，不称爱尔兰传统民谣，也不锁定河母身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-chape-dona-speranza",
+      "lemma": "The chape of Doña Speranza of the Nacion",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原注把chape、Doña Speranza、Nacion连起。斯佩兰莎身份及chape确切词义待传记、词典支持；正文暂保留夫人名号与斗篷形状，不将王尔德家谱混入原句。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-whangpoos-paddle-sound",
+      "lemma": "Whangpoos the paddle and whiss whee whoo.",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "Whangpoos可作黄浦声形候选，paddle与whiss whee whoo直接显出桨和呼哨拟声。全球水系论仅是解释，不当原文说明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-296-diagram-line-loss",
+      "lemma": "eelpie and paleale by trunkles",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "本轮看过geometricdiagram.jpg：上交点π、下交点P、左Aα、右λL；图中Aα—P与λL—P为虚线，Aα—π与λL—π为实线。正文保留四串音形，不将每串强定为某一对端点；eelpie还显出鳗鱼派，paleale显出淡麦酒。各词与图边的精确一一对应仍待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-298-01": [
+    {
+      "id": "ii2-ambages-role",
+      "lemma": "Ambages and Their Rôle",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Ambages与Rôle并列，正文暂译迂回与角色。拉丁词义史与具体兄弟心理戏尚未另核，不锁角色。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-paa-lickam-apl",
+      "lemma": "Paa lickam laa lickam, apl lpa!",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "apl、lpa都由a、p、l排列而成，lickam反复可引舔舐听感。译文保留字串与拟音；母体解释仍属读路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-this-is-an-her",
+      "lemma": "This it is an her. You see her it.",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "This it is an her等句不断移置it、her、whom，译文保留句法不顺。说话者、受话者及母亲解剖部位尚未由这句确证，不再直接定为多尔夫向凯夫揭谜。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-lifp-year-fends",
+      "lemma": "Lifp year fends you all and moe",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "所录文字确用f写Lifp、fends、foft、fummer、fnow等。可提议长s字形或咬舌拟音，但没有原刊字体证据，也未证lisp必将s读f；旧注的确定印刷史与发音规则均撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-fouvenirs-foft-snow",
+      "lemma": "fouvenirs foft as fummer fnow",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "原注以f反复替换常见s词形，声音、字形与夏雪相联。译文保留柔雪与留念，未重造全串字母替换。少女纪念册的确定场景仍待证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-plumpduffs-pants",
+      "lemma": "knacking spots of the Plumpduffs Pants",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原注把Macbeths Jerseys与Plumpduffs Pants并列，译文保留球衣、短裤及击点动作。具体橄榄球赛事与兄弟拳脚剧情尚待证，不由此断言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii2-303-01": [
+    {
+      "id": "ii2-force-centres-kundalini",
+      "lemma": "Force Centres of the Fire Serpentine: heart, throat, navel, spleen, sacral, fontanella, intertemporal eye",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原左旁注按序列心、喉、脐、脾、骶、囟、颞间眼七处。译文照列，不拿另一套脉轮次序替换。Kundalini传统及这份清单的来源仍待专门查证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-according-to-cocker",
+      "lemma": "according to cocker",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "according to cocker位于右旁注，译作照科克规矩。Edward Cocker身份、教材年代与俚语沿用史尚待词典书目，不以原著一项来源担保。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-jake-jack-sousoucie",
+      "lemma": "from jake, jack and little sousoucie",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "落款原序是jake、jack、little sousoucie；译文保留字串，避免把前两名颠倒。三者与谢姆、肖恩、伊瑟的对应及法语sans souci回声仍待研究，不能冒充正文已点名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-thumb-on-nose-forks",
+      "lemma": "Thumb on nose, with crossed forks below",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原图可见拇指抵鼻手势与下方交叉双叉，译文留图示说明。是否三兄妹各自签名是解释，不能据图断定。生成读本的实际排图另由构建核对。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-kish-anticheirst",
+      "lemma": "Kish is for anticheirst",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "第308页原注1写Kish与anticheirst，随后写free of my hand to him。译文保留掌击语气；灯船地名、确定儿语释义及伊瑟发言身份均待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-drawings-on-the-line",
+      "lemma": "our drawings on the line",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "drawings on the line可兼线条上的画与绳线晾物。译文保留两路，不再用圆满落幕代替正文覆盖检查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-counting-loss",
+      "lemma": "Aun Do Tri Car Cush1 Shay Shockt Ockt Ni Geg2",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "十项以变音字串计数，译文保留原音形，不只用一至十替换；精确语言归属未在本轮外核。jake、jack及sousoucie也照存落款次序，人物对应另待研究。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

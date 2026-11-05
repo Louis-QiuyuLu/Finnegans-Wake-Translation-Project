@@ -1,0 +1,756 @@
+{
+  "fw-ii3-309-01": [
+    {
+      "id": "ii3-tribalbalbutience",
+      "lemma": "tribalbalbutience",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "tribal与balbutience的词形相连，可按部族与结巴试读。原始史诗、人类初民语言是解释，未由此词证明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-brides-eye-stammpunct",
+      "lemma": "bride's eye stammpunct",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "bride’s eye带新娘视角；stammpunct可与Standpunkt、Stamm比较。德语语源与父性凝视论尚未外核，不把这些读路当固定释义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-hiberio-miletians",
+      "lemma": "Hiberio-Miletians and Argloe-Noremen",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "两串族名状混词置于捐献巨石的问句。Hiberio可与Hibernia比较，Argloe-Noremen可听盎格鲁、北方人；具体迁徙、血统融合尚未获原页支持。正文不径作希伯来。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-tolvtubular",
+      "lemma": "tolvtubular",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "tubular及随后接收器、扬声器支持电子管读路；tolv作十二须另核北欧词典。十二酒客与十二电子管的身份对应仍属解释。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-no-concern-guinness",
+      "lemma": "no concern of the Guinnesses",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Guinnesses在这句被说成“与之无关”。可与酒名联读；酒业家族史及全章人物对应另待证据，不能抹去no concern。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-tumbled-famas",
+      "lemma": "so no wumble she tumbled for his famas",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "tumbled、famas近跌落、倾心与fame的声音。正文保留倾倒，不能据此词组预告已确定的婚姻结局。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-315-01": [
+    {
+      "id": "ii3-butcheler-artsed",
+      "lemma": "butcheler artsed out of Cullege Trainity",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可比较butcher、bachelor、arts、Trinity的词形，头衔与肉身彼此戏拟。是否专讽某角色及学院史另待证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-shufflebotham",
+      "lemma": "Shufflebotham",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "可从字形读shuffle与bottom，暂作拖步屁股的姓名笑话。旧注“都柏林常见姓氏”未列名录，现撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-burniface",
+      "lemma": "Burniface",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "burn与Boniface近形，可提议烧红脸及姓名回声；Boniface作为掌柜通称的沿用史未外核，不据原著链接称已证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-publin",
+      "lemma": "Publin",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Publin可把pub与Dublin并听，译文作酒都声形。整座城市化为巨型酒肆是项目解释，非字面事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-prepatrickularly",
+      "lemma": "Prepatrickularly",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "词形可与particularly及Patrick比较。主保圣人生平与宗教史未在本轮核过，不扩作确定背景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-pukkelsen",
+      "lemma": "Pukkelsen",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "姓名状词近pukkel的读法待北欧词典；驼背、船长与移民身世也须分别取证。正文保留拟音，不靠词源猜测添履历。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-321-01": [
+    {
+      "id": "ii3-husbands-capture",
+      "lemma": "husband's capture",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "husband与capture可兼读丈夫和捕获，周围又有航海与缝衣。ship’s husband的行业释义须专门词典，现不将其定为南海领港船东。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-glasthule",
+      "lemma": "Glasthule",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文把Glasthule Bourne放在来路清单，正文保留地名拟音。确切方位、行政区及航路尚待地图或地名资料。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-boehernapark",
+      "lemma": "Boehernapark",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文作Boehernapark Nolagh，正文照音形保留。盖尔语原形、词义及都柏林近郊确指未核，撤原注的确定还原。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-wazwollenzee",
+      "lemma": "Wazwollenzee",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文接Haven，并写给来者beerings，可从港口与方位语境试读。旧注称swollen为德语不可靠；须德海对应与混词来源也待证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-irinwakes",
+      "lemma": "Irinwakes",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Irinwakes可与Erin、wake并听，紧接from Slumber Deep，爱尔兰醒来与守灵的读路可并存。具体歌名出处尚未核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-emptybolly",
+      "lemma": "Emptybolly",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可把Emptybolly与empty、bottle、belly比较。译文作空肚；字串本身不证明某一特定空酒瓶场景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-327-01": [
+    {
+      "id": "ii3-tina-bat-talur",
+      "lemma": "Tina-bat-Talur",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Tina、bat、Talur可与名字、bat及tailor比较。希伯来语“裁缝之女”的断言与确指凯尔斯女儿未得外证，现只列候选。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-filius-cara",
+      "lemma": "filius of a Cara",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文把Brandonius、filius of a Cara、spouse to Fynlogue相连。译文兼保留子与配偶；圣布兰登家谱对应须实际传记，不凭名字认定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-pianutunar",
+      "lemma": "pianutunar",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "字形可与piano tuner比较；周围有听觉、隔湾与说梦话。海潮调音是解释，不另添为真实声景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-dollimonde",
+      "lemma": "dollimonde",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "doll与monde是可比较的声形；demi-monde释义与特定性身份均未外核。正文保留拟音，不直接称烟花女子。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-norgeyborgey",
+      "lemma": "Norgeyborgey",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Norgeyborgey重复押尾音，可与Norge、Norwegian比较。挪威身份、儿歌来源与憨直性格均未据此坐实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-kaemper-daemper",
+      "lemma": "Kaemper Daemper",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文将Kaemper Daemper同Jetty de Waarft并列，前文又写落床。荷兰语词源、damper的器物释义及巨人确指均未外核，正文以拟音留余地。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-333-01": [
+    {
+      "id": "ii3-szeszame-open",
+      "lemma": "szeszame open",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "szeszame open近“芝麻开”。《一千零一夜》具体篇目及所谓波兰口音未重开文献；门、作为与存在的问答先按本文保留，不锁定电视显像管。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-pad-podomkin",
+      "lemma": "Pad Podomkin",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Pad Podomkin近Potemkin，前有shoehandschiner，擦鞋语感明确。历史爵位、街童姓名与克里米亚战争的具体连线尚待文献。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-slowjaneska",
+      "lemma": "slowjaneska",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "词形可听slow，亦有Slav式语尾候选；性别与语言归属未外核。正文保留缓慢语气，不将其当某语言规范词。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-katekattershin",
+      "lemma": "katekattershin",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可与Kate、Catherine等名字比较，clopped三次使脚步可闻。是否影射某位俄国女皇未证，不作人物同一性。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-chang-li-meng",
+      "lemma": "Chang-li-meng",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Chang-li-meng可试听Charlemagne及汉语姓名音形；邻句man d’airain可留铜人读法。没有剧目原页，撤去具体杂耍剧名与角色身份；这几条联想仍未穷尽。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bruyant-the-bref",
+      "lemma": "Bruyant the Bref",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "可提议把Bruyant、Bref同Brian、bruyant、bref比较。布赖恩·博鲁与丕平的历史身份和确定合成链未外核，不将并听当词源。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-333-prayer-loss",
+      "lemma": "lead us not into reformication",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "本项目试听reform与fornication，正文以“再淫改造”并留改与淫两层。原句又把kingdom of glory改成thingdom of gory，译作血荣之国。非规范祷文引句，也未证作者意图只有这一路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-339-01": [
+    {
+      "id": "ii3-cheloven",
+      "lemma": "Cheloven",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Cheloven可与chelovek比较，但俄语规范拼写及词义未在本轮查词典。正文暂留“凡人”读路，不据它给整段指定俄军身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-molodeztious",
+      "lemma": "Molodeztious",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可试听molodets一类俄语式声音，确切语言、词尾和赞语义待词典。未核前不说它必在讥讽粗鄙俄军。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-chromean",
+      "lemma": "Chromean",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可与Crimean、chrome比较；旁有服装、炮弹与色彩。战场和显像的交叠是读法，不把两个词的所有技术义都视为已证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-polikoffs",
+      "lemma": "Polikoff's",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文是Karrs and Polikoff’s，随后说men’s confessioners，可读男装商的戏拟。都柏林商号地址、业务与姓氏史待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-toadlebens",
+      "lemma": "Toadlebens",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Toadlebens可与Totleben及toad比较。将领爵位、工程防御事迹与本词确指均须另有军史资料，现不列定论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-krumlin",
+      "lemma": "Krumlin",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Krumlin可与Kremlin、Crumlin比较；原文又写生、洗礼与vatercan。具体地理与人物生平不由此词决定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-345-01": [
+    {
+      "id": "ii3-irmenial",
+      "lemma": "Irmenial",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Irmenial可与Armenian及Erin式声音比较。本文并未解释语言国族来源，正文暂按混名拟音，不补一场已确定的近东战局。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-gospolis",
+      "lemma": "Gospolis",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Gospolis可与Gospodi、polis或metropolis作声形比较。俄语与希腊语准确形态待核，不把“上帝都市”当规范词义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-creamtartery",
+      "lemma": "Creamtartery",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Creamtartery可把cream、tartar及Tartary并听。化学品名称、汗国历史与具体合成关系均未外核，暂保留奶油鞑靼读路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-novgolosh",
+      "lemma": "Novgolosh",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Novgolosh可与Novgorod、galoshes比较，前句确有换衣。套鞋和地名层是待核联想，不把它径定为下诺夫哥罗德。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-burkeleys",
+      "lemma": "Burkeley's",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Burkeley’s可同时引向Buckley、Berkeley式姓名。哲学家身份与全书对立体系须另核，不据近形把人物合并。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bompromifazzio",
+      "lemma": "Bompromifazzio",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "该呼号在酒杯、饮用之前，可提议进餐祝辞与Boniface的回声。意大利语原句和语法本轮未核，正文先留祝饮语气。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-351-01": [
+    {
+      "id": "ii3-knout-knittrick",
+      "lemma": "Knout Knittrick Kinkypeard",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Knout Knittrick Kinkypeard连续敲击k音，可比较knout、Knut、Sitric与beard。历史人物、名号和语言词义均待定点文献。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-chorney-choplain",
+      "lemma": "Chorney Choplain",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Chorney Choplain可与Charlie Chaplin、chaplain及cherniy比较，紧接Woodbine Willie与烟。俄语词义和电影人物对应尚未外核，不称规范词源。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-arcdesedo",
+      "lemma": "Arcdesedo",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "字形可与archdiocese、archduke比较，原文只是一个呼号。确切称谓与人物职司未证，不当正式头衔。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-woodbine-willie",
+      "lemma": "Woodbine Willie",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文明列Woodbine Willie，并写香烟和blued the air。旧注人物全名、战争年代与分烟传记没有对应来源，现撤，待传记原页补证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-banzaine",
+      "lemma": "Banzaine",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Banzaine可与Bazaine、banzai比较，前后都是祝饮呼号。军衔、战争与日语欢呼沿用史尚未核，不据此指定事件。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bonhamme",
+      "lemma": "Bonhamme",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Bonhamme近bonhomme，前有Paddy、后有vives。法语确切释义与姓名合成仍待词典，正文保留好汉欢呼的试读。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-357-01": [
+    {
+      "id": "ii3-aubeyron",
+      "lemma": "Aubeyron",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Aubeyron Birdslay可与Aubrey Beardsley、Oberon比较。版画、艺术与双重名字可作研究线索；艺术家生平与具体图像来源尚未核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bismillafoulties",
+      "lemma": "Bismillafoulties",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Bismillafoulties可与Bismillah、faults、faculties作声形比较。宗教术语的正确名称、范围与语源待外证，撤去将其等同完整清真言的说法。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-cunstuntonopolies",
+      "lemma": "Cunstuntonopolies",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "字形近Constantinople，旁句写Eonochs与manmade。可保留阉人与城名读路；cunning层及后宫史未证，不添具体制度。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-meschiameschianah",
+      "lemma": "Meschiameschianah",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此串名紧接琴师宣告与win a gain，正文保留拟音。玛什亚夫妇及琐罗亚斯德教始祖说须宗教原典或研究补证，不只引本书担保。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-perseoroyal",
+      "lemma": "Perseoroyal",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Perseoroyal可试听Persian royal、Perseus，原文又写flying，译文以旗号试读。王室与英雄关系未证，不裁唯一读法。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-fenegans",
+      "lemma": "Fenegans",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Fenegans可与Finnegan比较，后接Wick与Wildemanns。守灵、灯芯、周次与地名等读路尚有余地，不说已指明一场现实聚会。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-363-01": [
+    {
+      "id": "ii3-almayne",
+      "lemma": "Almayne",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Almayne可与Allemagne、all mine比较，原文称Deductive Almayne Rogers。具体国籍与“全归我”词义仍是候选，不将其确定为某职业侦探。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-missaunderstaid",
+      "lemma": "Missaunderstaid",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可把Miss、understood、staid并听，正文保留误解与小姐姿态。老处女性身份未由字串证明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-kinahaun",
+      "lemma": "Kinahaun",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文说be asservent to Kinahaun，译文保留人名。都柏林威士忌商的家族、品牌及厂址均未外核，暂撤确定商史。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-registower",
+      "lemma": "Registower",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Registower近Registrar、tower，旁有tribute、city与hall。可留登记与塔的声形，不确定是哪座都柏林官署。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bacchulus",
+      "lemma": "Bacchulus",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Bacchulus可与Bacchus、baculus、bacillus或bachelor作形近比较。各语言词义尚待词典；正文不因这些联想新增神话故事。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-tunpother",
+      "lemma": "Tunpother",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "tun、pother是可比较的组成；附近有prison和plotch。正文以桶与喧嚣试读，不能据此扩写酒客全套动作。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-369-01": [
+    {
+      "id": "ii3-brunos",
+      "lemma": "Bruno's",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Bruno’s出现在地址St. Bruno’s Toboggan Drive。可供布鲁诺研究，但不能据单个姓氏断言全书思想系统或此处所指哲学家。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-bellchimbers",
+      "lemma": "Bellchimbers",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Bellchimbers可与bell、chamber比较，列在地址清单。常见姓氏和打烊钟声的确定归属尚无名录、文本证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-carolan",
+      "lemma": "Carolan",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Carolan是地址Carolan Crescent的一部分。音乐家O’Carolan可作候选，生平、盲人身份及具体互文待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-dieudonney",
+      "lemma": "Dieudonney",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Dieudonney近Dieudonné，属姓名清单。法语神赐词义与都柏林街坊身份须各自核证，不以人名样式确认籍贯。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-pandoria",
+      "lemma": "Pandoria",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Pandoria可与Pandora比较，后接Paullabucca及秘书鸟。Dorian柱式、灾厄之盒等链条未列资料，现不作已证典故。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-paullabucca",
+      "lemma": "Paullabucca",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Paullabucca可与Poulaphouca比较。具体瀑布、地名盖尔语原形和“恶魔之潭”词源均待地名资料。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii3-376-01": [
+    {
+      "id": "ii3-roderick-oconor",
+      "lemma": "Roderick O'Conor",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文明称Roderick O’Conor与最后的“前电气”爱尔兰国王，且随即反复修正“最后”的说法。历史王朝年代与他等同HCE的解释待外证，不能把笑谈当史实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-obryan-macbruiser",
+      "lemma": "O'Bryan MacBruiser",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "O’Bryan、MacBruiser与bet Norris Nobnut相连，可保留击打、拳赛和名字的读路。布赖恩·博鲁、克隆塔夫及维京战争的具体映射未核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-clontarf",
+      "lemma": "Clontarf",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文是Clontarf voterloost，已兼有Waterloo式声音。1014战役及爱尔兰民族史论须另引史料，正文不预设所影射者就是唯一一场战役。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-hymernians",
+      "lemma": "Hymernians",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Hymernians可把Hibernians与Hymen比较，周围又有婚晨与敲门。神名来源与“古称”的沿用史待核，不把声音组合直接列成词源。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-maccormick",
+      "lemma": "MacCormick",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "MacCormick处于长串Mac-名字中，可试听McCormack。歌唱家John McCormack的生平及统领演唱语境之说未获此注来源支持。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-clanruckard",
+      "lemma": "Clanruckard",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文以Clanruckard for ever欢呼。Clanricarde伯爵名称可供后续核查，省份、家族血统与爵位史未在本轮查阅。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "status": "partial_revision",
+  "input_sha256": "3479cf4404d2209f668cca05e8dcbc642a355be041e6219b712dc3c0154c3d67",
+  "output_sha256": "c578e375a40bdb828ec1238d16a48910de06bb6aa0f7a055dad97899315cdce0",
+  "changes": [
+    {
+      "id": "fw-iv-593-01-n02",
+      "before": {
+        "id": "fw-iv-593-01-n02",
+        "lemma": "Calling all downs... Array! Surrection!",
+        "page_col_line": "593.02",
+        "kind": "wordplay",
+        "certainty": "supported",
+        "text": "呼应都柏林群丘（Downs）、羽绒枕与落魄者，dayne 融汇黎明（dawn）与丹麦人（Dane）；Surrection 融起义（insurrection）与复活（resurrection），唤醒沉睡者。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n02",
+        "lemma": "Calling all downs. Calling all downs to dayne. Array! Surrection!",
+        "page_col_line": "593.02",
+        "kind": "wordplay",
+        "certainty": "proposal",
+        "text": "呼应都柏林群丘（Downs）、羽绒枕与落魄者，dayne 融汇黎明（dawn）与丹麦人（Dane）；Surrection 融起义（insurrection）与复活（resurrection），唤醒沉睡者。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    },
+    {
+      "id": "fw-iv-593-01-n03",
+      "before": {
+        "id": "fw-iv-593-01-n03",
+        "lemma": "Eireweeker to the wohld bludyn world",
+        "page_col_line": "593.03",
+        "kind": "wordplay",
+        "certainty": "supported",
+        "text": "耳语客（Earwicker）谐音‘爱尔兰苏醒者’（Eire-waker），面向整座血红初升的血气世界（whole bloody world）宣告苏醒。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n03",
+        "lemma": "Eireweeker to the wohld bludyn world",
+        "page_col_line": "593.03",
+        "kind": "wordplay",
+        "certainty": "proposal",
+        "text": "耳语客（Earwicker）谐音‘爱尔兰苏醒者’（Eire-waker），面向整座血红初升的血气世界（whole bloody world）宣告苏醒。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    },
+    {
+      "id": "fw-iv-593-01-n04",
+      "before": {
+        "id": "fw-iv-593-01-n04",
+        "lemma": "Pu Nuseht... Defmut",
+        "page_col_line": "593.23",
+        "kind": "allusion",
+        "certainty": "supported",
+        "text": "埃及《死者之书》冥界掌阳之神，Pu Nuseht 倒读即 The Sun Up（太阳升起）；Nuahs 与 Mehs 分别倒读为 Shaun 与 Shem；Defmut 融寝室（dormitory）与沉寂死境（deaf-mute）。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n04",
+        "lemma": "Pu Nuseht",
+        "page_col_line": "593.23",
+        "kind": "allusion",
+        "certainty": "proposal",
+        "text": "Pu Nuseht、Nuahs、Mehs 倒读，可分别听出 the sun up、Shaun、Shem。本项目将其视作日出与人物名号的倒写游戏；这里不把 Pu Nuseht 当作已核实的古埃及神名。Defmut 的神名或 deaf-mute 联想尚待外证。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    },
+    {
+      "id": "fw-iv-593-01-n05",
+      "before": {
+        "id": "fw-iv-593-01-n05",
+        "lemma": "Vah! Suvarn Sur!",
+        "page_col_line": "594.01",
+        "kind": "culture",
+        "certainty": "supported",
+        "text": "梵文 Suvarṇa Sūrya（金阳）；Vah 意为吹拂、承载或欢呼。晨礼以金光炽盛的太阳神驱散梦境阴翳。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n05",
+        "lemma": "Vah! Suvarn Sur!",
+        "page_col_line": "594.01",
+        "kind": "culture",
+        "certainty": "uncertain",
+        "text": "本项目暂取金阳、欢呼等读路，与下文天空、火与日出的词群连读。Suvarn Sur、Vah 的确切语种、词形与语法尚未核准，不将拟读写成规范梵语释义。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    },
+    {
+      "id": "fw-iv-593-01-n06",
+      "before": {
+        "id": "fw-iv-593-01-n06",
+        "lemma": "Svapnasvap. Sws.",
+        "page_col_line": "594.02",
+        "kind": "allusion",
+        "certainty": "supported",
+        "text": "《奥义书》关于意识诸态的划分：svapna（梦态）与 suṣupti（深眠态）；Sws 拟睡息微弱声，标志梦境向觉醒态过渡。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n06",
+        "lemma": "Svap",
+        "page_col_line": "594.02",
+        "kind": "allusion",
+        "certainty": "uncertain",
+        "text": "原文在雄鸡叫声后写 Svap，紧接 slap、sap。本项目暂保留睡息与拍击的声音回响。撤回旧注不存在于本段的 Svapnasvap. Sws.，不再据此断言《奥义书》的意识诸态。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    },
+    {
+      "id": "fw-iv-593-01-n07",
+      "before": {
+        "id": "fw-iv-593-01-n07",
+        "lemma": "Loughlin's Salts... make a newman",
+        "page_col_line": "596.36",
+        "kind": "wordplay",
+        "certainty": "proposal",
+        "text": "都柏林矿盐通便药，双关洗心革面成为新人（new man / 纽曼枢机 Newman）；历经宿醉与疲惫，晨光洗礼重塑肉身。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      },
+      "after": {
+        "id": "fw-iv-593-01-n07",
+        "lemma": "Loughlin's Salts",
+        "page_col_line": "596.36",
+        "kind": "wordplay",
+        "certainty": "uncertain",
+        "text": "Salts 与下文 make a newman 连读，可拟出矿盐药物及成为新人的双关。具体商品、通便用途与 Newman 人物指认尚缺外证，不作事实定说。",
+        "source_ids": [
+          "joyce-fp"
+        ]
+      }
+    }
+  ],
+  "limits": "仅核第一段注释锚句和无据断言。其余正文及全章外部考据未完成，不能据此放行IV。"
+}

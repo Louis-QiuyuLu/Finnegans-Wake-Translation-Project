@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-05",
+  "root": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project",
+  "sha256": {
+    "II-1": "611e514306c9250f0297b40b0809f7d37aa0ea7dcb0938681cbb83f0d9b9bbcb",
+    "II-2": "eb196e547a891cf94a8e54b08bbb0c1884d28b002d6721627d59c3d8f7b90cfa",
+    "II-3": "701dd86643e9157e7b0cfd20af208a7246cf00efe6e3a5d3808dabbc38f43094",
+    "II-4": "3e63a160fcda61bef391d651611f2ea90b5e809a88ee45993a74e5a25abe8f53",
+    "sources/catalog.json": "707e0358bd04a1b30f4fe6f213eb6f49f9e993cd0e242b3c5c809cb0c432881d",
+    "glossary/terms.json": "46e5486f2e52f7aabd7758c1aa202fe7d3df71c81ed3aa950910be03bb095f96"
+  }
+}

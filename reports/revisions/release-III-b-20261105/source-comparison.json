@@ -1,0 +1,198 @@
+[
+  {
+    "chapter": "III-3",
+    "comparison": "HTML实体解码、去空白、去页码标记，按全章segments顺序连接original",
+    "original_sha256": "16bed8f1a7eda6a753654c55ebe1edb1ee62736f14ed8a24172a1b7de7f127f8",
+    "source_text_normalized_sha256": "945f9991d7793add6fddd0c3d24af9fbbad6c85720f3826ee25e14ed1132876b",
+    "differences": [
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 3742
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 3793
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 17825
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 19874
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 24381
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 30075
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 36260
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 37618
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 40387
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 51884
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 64440
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 82460
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 84322
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 88026
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 96726
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 100138
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 104736
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 110261
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 116017
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 118116
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 118333
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 119246
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 120547
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 127419
+      }
+    ]
+  },
+  {
+    "chapter": "III-4",
+    "comparison": "HTML实体解码、去空白、去页码标记，按全章segments顺序连接original",
+    "original_sha256": "a53d9ebb07a7c4e2dab5472bbbb335d7978000dc052d143f083b5b6495b574c4",
+    "source_text_normalized_sha256": "3310498885929ae59f485c3c82db3e7be4dd84d8ffaf7989ddce24f7fff90187",
+    "differences": [
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 22189
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 25534
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 29906
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 30042
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 36717
+      },
+      {
+        "type": "insert",
+        "original": "",
+        "source_text": "-",
+        "original_offset": 38923
+      }
+    ]
+  }
+]

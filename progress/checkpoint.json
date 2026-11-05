@@ -1,14 +1,13 @@
 {
-  "chapter": "II.1",
-  "next": [
-    219,
-    1
-  ],
-  "next_original": "Every evening at lighting up o'clock sharp and until further notice in Feenichts Playhouse. (Bar and conveniences always open, Diddlem Club douncestears.)",
-  "updated": "2026-11-02",
+  "chapter": "IV",
+  "updated": "2026-11-05",
   "notes": [
-    "第一卷I.1–I.8共91段、569条注释已录入；本轮Codex复核新交I.2–I.8并定点修正语义与注释问题，仍为revised、reviewers为空。",
-    "全项目另有IV篇末1段4注，共92段573注；英文全本17章619正文页单独记录source_text，不计作中文完成。",
-    "续译从II.1第219.01行锚句起；外部典故、词源与精确行号尚有复核限度，见本轮报告。第二卷临时底本包未经本轮逐段验收。"
-  ]
+    "四卷十七章中文已录入，177段、1091条注释；采用稿为AI修订，reviewers为空，不能称人工终审完成。",
+    "第二至四卷本轮补漏、撤无据增写，校正动作、否定、数字与接缝；范围及指纹见reports/revisions/release-parent-20261105/。",
+    "外部史实、跨文本互文与多语词源尚有uncertain；未逐页核初版扫描，不声称全部典故已证。",
+    "篇末停在628.16，不存在作为下一正文的628.17；cycle_original仅供首尾回环参照。",
+    "后续据具名问题或新证据定点修订，保留初译、冻结交稿与历史裁定。"
+  ],
+  "translation_complete": true,
+  "cycle_original": "riverrun, past Eve and Adam's, from swerve of shore to bend of bay, brings us by a commodius vicus of recirculation back to Howth Castle and Environs."
 }

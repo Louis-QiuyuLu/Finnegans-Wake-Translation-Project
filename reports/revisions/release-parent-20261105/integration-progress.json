@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-05",
+  "role": "integrator_ai_revision",
+  "status": "text_revision_integrated_pending_validation_and_push",
+  "adopted": [
+    "II.1定点修订script；保留原文与draft",
+    "II.1与II.4逐注修订，撤无据外部事实，不冒称查过文献",
+    "II.2采用66条注释修订，保留另增三条译法损失注；补262左旁注",
+    "II.3完整重建fw-ii3-321-01并联改327段首；撤全章完成声明",
+    "II.3 fw-ii3-327-01完整修订：恢复叩门问答、Tim Tommy警告、地貌和人物清单；与321段首尾联读",
+    "II.3 333–376八段完成本轮原文/译文定点复核：26+11+46项处置；修72条旧注，另加1条译法损失说明；恢复王朝括注、名录与章末短句",
+    "II.3前两段重建与11处接缝完成本轮核对",
+    "II.1/II.2/II.4定点修订及非空边注/原注层次复核",
+    "III/IV采用实际工作稿与处置记录，III.1开篇撤无据点钟单位",
+    "撤628.17，明确顺序录入完成与人工终审区别"
+  ],
+  "remaining": [
+    "生成派生稿、完整验证、文本推送"
+  ],
+  "chapters": {
+    "II-1": {
+      "sha256": "734d624c16b7ecc70d8f60590f6cd3962d20a94748d9522843c8d622266ffa9b",
+      "segments": 10,
+      "notes": 60,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "II-2": {
+      "sha256": "10a6841428c713f2f608ea5dab57a27a8be2935503709ac084074695196bdf61",
+      "segments": 11,
+      "notes": 69,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "II-3": {
+      "sha256": "c8e12204149ef620e5a89bf27c0e7c21c3bd61a4810df8feaf6b5ff041a7b365",
+      "segments": 12,
+      "notes": 73,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "II-4": {
+      "sha256": "3b7e9428223beebd968714c6728e84a3d8e05a53a507eb8049ef3c3ae647c684",
+      "segments": 4,
+      "notes": 24,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "III-1": {
+      "sha256": "7bd718f60e527d4f60fe538eeda1762ad1b546c37c5525467af00335811299f1",
+      "segments": 6,
+      "notes": 36,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "III-2": {
+      "sha256": "07ae0ba1733b91b87c9cf576f43b270dc7b5c90708a29a7e907e8534876a3c8b",
+      "segments": 10,
+      "notes": 60,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "III-3": {
+      "sha256": "7208c10f5e570bca629fb8097e9d4122933e95c6be8cc1d96eb913975bd0a824",
+      "segments": 16,
+      "notes": 96,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "III-4": {
+      "sha256": "f89563089e6ede302a1d111552b76f6f32f0243e7edc9789390f2e41299c2f1a",
+      "segments": 8,
+      "notes": 48,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    },
+    "IV": {
+      "sha256": "512a3c06ef7770dbd423fe9680a8c6be91aa1657f5e766cbaf1b47524cee149e",
+      "segments": 9,
+      "notes": 56,
+      "coverage": "complete",
+      "preserved_english_draft_ids_ranges": true,
+      "reviewed_segments": 0
+    }
+  },
+  "audio_addendum": {
+    "pr": "https://github.com/Louis-QiuyuLu/Finnegans-Wake-Translation-Project/pull/8",
+    "tracks": 70,
+    "status": "pushed"
+  }
+}

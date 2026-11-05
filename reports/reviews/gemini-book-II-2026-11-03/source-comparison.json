@@ -1,0 +1,768 @@
+{
+  "basis": "Historical external Faded Page HTML acquired 2026-11-01; fresh programmatic retrieval 2026-11-03 returned403; current web tool opened primary full transcription. Not a print scan.",
+  "historical_external_html": "/private/tmp/fw-full-source-faded-20261101.html",
+  "external_file_sha256": "f712a1eb8e4f073b3d4f14cef8003fc150e060798254489709df21de59f96c56",
+  "chapters": [
+    {
+      "chapter": "II.1",
+      "source_html_equal_historical_external_extraction": true,
+      "source_text_equal_historical_external_extraction": true,
+      "source_words": 14198,
+      "segment_words": 14186,
+      "segments": 10,
+      "notes": 60,
+      "note_certainty": {
+        "proposal": 60
+      },
+      "note_source_ids": {
+        "joyce-fp": 60
+      },
+      "lemma_not_exact_substring": [],
+      "raw_token_diff_blocks": 12,
+      "diffs": [
+        {
+          "kind": "replace",
+          "expected": "sojest- iveness",
+          "actual": "sojestiveness"
+        },
+        {
+          "kind": "replace",
+          "expected": "wor- rawarrawurms.",
+          "actual": "worrawarrawurms."
+        },
+        {
+          "kind": "replace",
+          "expected": "no- vembrance.",
+          "actual": "novembrance."
+        },
+        {
+          "kind": "replace",
+          "expected": "nar- rowedknee",
+          "actual": "narrowedknee"
+        },
+        {
+          "kind": "replace",
+          "expected": "might- whomight",
+          "actual": "mightwhomight"
+        },
+        {
+          "kind": "replace",
+          "expected": "accomoda- tionnooks",
+          "actual": "accomodationnooks"
+        },
+        {
+          "kind": "replace",
+          "expected": "wib- frufrocksfull",
+          "actual": "wibfrufrocksfull"
+        },
+        {
+          "kind": "replace",
+          "expected": "nudge- meroughgorude",
+          "actual": "nudgemeroughgorude"
+        },
+        {
+          "kind": "replace",
+          "expected": "brooch- bronze",
+          "actual": "broochbronze"
+        },
+        {
+          "kind": "replace",
+          "expected": "spouse- founderess?",
+          "actual": "spousefounderess?"
+        },
+        {
+          "kind": "replace",
+          "expected": "hooker- crookers.",
+          "actual": "hookercrookers."
+        },
+        {
+          "kind": "replace",
+          "expected": "Lukkedoerendunandurraskewdylooshoofermoyportertoo- ryzooysphalnabortansporthaokansakroidverjkapakkapuk.",
+          "actual": "Lukkedoerendunandurraskewdylooshoofermoyportertooryzooysphalnabortansporthaokansakroidverjkapakkapuk."
+        }
+      ]
+    },
+    {
+      "chapter": "II.2",
+      "source_html_equal_historical_external_extraction": true,
+      "source_text_equal_historical_external_extraction": true,
+      "source_words": 15442,
+      "segment_words": 15376,
+      "segments": 11,
+      "notes": 66,
+      "note_certainty": {
+        "proposal": 66
+      },
+      "note_source_ids": {
+        "joyce-fp": 66
+      },
+      "lemma_not_exact_substring": [],
+      "raw_token_diff_blocks": 80,
+      "diffs": [
+        {
+          "kind": "replace",
+          "expected": "highly- fictional,",
+          "actual": "highlyfictional,"
+        },
+        {
+          "kind": "replace",
+          "expected": "an- tisipiences",
+          "actual": "antisipiences"
+        },
+        {
+          "kind": "replace",
+          "expected": "constitu- tion",
+          "actual": "constitution"
+        },
+        {
+          "kind": "replace",
+          "expected": "constitu- tionable",
+          "actual": "constitutionable"
+        },
+        {
+          "kind": "replace",
+          "expected": "constitu- tional.",
+          "actual": "constitutional."
+        },
+        {
+          "kind": "replace",
+          "expected": "proba- possible prolego- mena",
+          "actual": "probapossible prolegomena"
+        },
+        {
+          "kind": "replace",
+          "expected": "bounce- the-baller's",
+          "actual": "bouncethe-baller's"
+        },
+        {
+          "kind": "replace",
+          "expected": "Castil- lian-Emeratic-Hebridian, Espanol-Cymric- Smith,",
+          "actual": "Castillian-Emeratic-Hebridian, Espanol-CymricSmith,"
+        },
+        {
+          "kind": "replace",
+          "expected": "seriol- cosmically,",
+          "actual": "seriolcosmically,"
+        },
+        {
+          "kind": "replace",
+          "expected": "tel- eologicum.",
+          "actual": "teleologicum."
+        },
+        {
+          "kind": "replace",
+          "expected": "locali- sation",
+          "actual": "localisation"
+        },
+        {
+          "kind": "replace",
+          "expected": "legali- sation",
+          "actual": "legalisation"
+        },
+        {
+          "kind": "replace",
+          "expected": "helio- trope.",
+          "actual": "heliotrope."
+        },
+        {
+          "kind": "replace",
+          "expected": "pug- gatory,",
+          "actual": "puggatory,"
+        },
+        {
+          "kind": "replace",
+          "expected": ",",
+          "actual": "[FIGURE:F] [FIGURE:F mirrored],"
+        },
+        {
+          "kind": "replace",
+          "expected": "influ- ence",
+          "actual": "influence"
+        },
+        {
+          "kind": "replace",
+          "expected": "lebbens- quatsch.",
+          "actual": "lebbensquatsch."
+        },
+        {
+          "kind": "replace",
+          "expected": "concomi- tance",
+          "actual": "concomitance"
+        },
+        {
+          "kind": "replace",
+          "expected": "dis- tribution",
+          "actual": "distribution"
+        },
+        {
+          "kind": "replace",
+          "expected": "prin- ciples.",
+          "actual": "principles."
+        },
+        {
+          "kind": "replace",
+          "expected": "pre- sentation",
+          "actual": "presentation"
+        },
+        {
+          "kind": "insert",
+          "expected": "",
+          "actual": "[FIGURE:musical bar]"
+        },
+        {
+          "kind": "replace",
+          "expected": "Cow- dung",
+          "actual": "Cowdung"
+        },
+        {
+          "kind": "replace",
+          "expected": "ceno- genetic",
+          "actual": "cenogenetic"
+        },
+        {
+          "kind": "replace",
+          "expected": "concili- ance",
+          "actual": "conciliance"
+        },
+        {
+          "kind": "replace",
+          "expected": "ma- croscope",
+          "actual": "macroscope"
+        },
+        {
+          "kind": "replace",
+          "expected": "birch- leaves",
+          "actual": "birchleaves"
+        },
+        {
+          "kind": "replace",
+          "expected": "aship- wracked,",
+          "actual": "ashipwracked,"
+        },
+        {
+          "kind": "replace",
+          "expected": "par- rotbook",
+          "actual": "parrotbook"
+        },
+        {
+          "kind": "replace",
+          "expected": "dul- carnons",
+          "actual": "dulcarnons"
+        },
+        {
+          "kind": "replace",
+          "expected": "mon- grel",
+          "actual": "mongrel"
+        },
+        {
+          "kind": "replace",
+          "expected": "dung- mound. signifi- cance",
+          "actual": "dungmound. significance"
+        },
+        {
+          "kind": "replace",
+          "expected": "infra- liminal",
+          "actual": "infraliminal"
+        },
+        {
+          "kind": "replace",
+          "expected": "abso- lute",
+          "actual": "absolute"
+        },
+        {
+          "kind": "replace",
+          "expected": "Porter- stown.",
+          "actual": "Porterstown."
+        },
+        {
+          "kind": "replace",
+          "expected": "Flumi- nian",
+          "actual": "Fluminian"
+        },
+        {
+          "kind": "replace",
+          "expected": "bud- ders deossiphys- ing",
+          "actual": "budders deossiphysing"
+        },
+        {
+          "kind": "replace",
+          "expected": "pon- dus",
+          "actual": "pondus"
+        },
+        {
+          "kind": "replace",
+          "expected": "in- termissio.",
+          "actual": "intermissio."
+        },
+        {
+          "kind": "replace",
+          "expected": "coa- lescing",
+          "actual": "coalescing"
+        },
+        {
+          "kind": "replace",
+          "expected": "pupil- teacher's",
+          "actual": "pupilteacher's"
+        },
+        {
+          "kind": "replace",
+          "expected": "cop- pingers",
+          "actual": "coppingers"
+        },
+        {
+          "kind": "replace",
+          "expected": "por- rish",
+          "actual": "porrish"
+        },
+        {
+          "kind": "replace",
+          "expected": "belletri- sticks",
+          "actual": "belletristicks"
+        },
+        {
+          "kind": "replace",
+          "expected": "bellum- pax-bellum. mutuomor- phomutation.",
+          "actual": "bellumpax-bellum. mutuomorphomutation."
+        },
+        {
+          "kind": "replace",
+          "expected": "vir- ginianae.",
+          "actual": "virginianae."
+        },
+        {
+          "kind": "replace",
+          "expected": "ambi- dual",
+          "actual": "ambidual"
+        },
+        {
+          "kind": "replace",
+          "expected": "uncer- tainty jus- tified",
+          "actual": "uncertainty justified"
+        },
+        {
+          "kind": "replace",
+          "expected": "certi- tude.",
+          "actual": "certitude."
+        },
+        {
+          "kind": "replace",
+          "expected": "pickpocket- point,",
+          "actual": "pickpocketpoint,"
+        },
+        {
+          "kind": "replace",
+          "expected": "pere- grine",
+          "actual": "peregrine"
+        },
+        {
+          "kind": "replace",
+          "expected": "cashel- lum",
+          "actual": "cashellum"
+        },
+        {
+          "kind": "replace",
+          "expected": "An- gleshman",
+          "actual": "Angleshman"
+        },
+        {
+          "kind": "replace",
+          "expected": "na- turally",
+          "actual": "naturally"
+        },
+        {
+          "kind": "replace",
+          "expected": "apo- theosis",
+          "actual": "apotheosis"
+        },
+        {
+          "kind": "replace",
+          "expected": "low- ered",
+          "actual": "lowered"
+        },
+        {
+          "kind": "replace",
+          "expected": "con- vergence",
+          "actual": "convergence"
+        },
+        {
+          "kind": "replace",
+          "expected": "contrapul- siveness.",
+          "actual": "contrapulsiveness."
+        },
+        {
+          "kind": "replace",
+          "expected": "maryamyriamelia- murphies,",
+          "actual": "maryamyriameliamurphies,"
+        },
+        {
+          "kind": "insert",
+          "expected": "",
+          "actual": "[FIGURE:Geometric diagram]"
+        },
+        {
+          "kind": "replace",
+          "expected": "Maya- Thaya. Tamas- Rajas-Sattvas.",
+          "actual": "MayaThaya. TamasRajas-Sattvas."
+        },
+        {
+          "kind": "replace",
+          "expected": "Wiederher- stellung.",
+          "actual": "Wiederherstellung."
+        },
+        {
+          "kind": "insert",
+          "expected": "",
+          "actual": "[FIGURE:Doodles family]"
+        },
+        {
+          "kind": "replace",
+          "expected": "Ultimo- geniture.",
+          "actual": "Ultimogeniture."
+        },
+        {
+          "kind": "replace",
+          "expected": "Fe- male",
+          "actual": "Female"
+        },
+        {
+          "kind": "replace",
+          "expected": "Over- man.",
+          "actual": "Overman."
+        },
+        {
+          "kind": "replace",
+          "expected": "Smith- Jones-Orbison?)",
+          "actual": "SmithJones-Orbison?)"
+        },
+        {
+          "kind": "replace",
+          "expected": "inter- temporal",
+          "actual": "intertemporal"
+        },
+        {
+          "kind": "replace",
+          "expected": "super- seding",
+          "actual": "superseding"
+        },
+        {
+          "kind": "replace",
+          "expected": "pro- cessus",
+          "actual": "processus"
+        },
+        {
+          "kind": "replace",
+          "expected": "cunctiti-titilatio?",
+          "actual": "cunctitititilatio?"
+        },
+        {
+          "kind": "replace",
+          "expected": "thigh-thight-tickelly-thigh,",
+          "actual": "thighthighttickellythigh,"
+        },
+        {
+          "kind": "replace",
+          "expected": "Ap- petites",
+          "actual": "Appetites"
+        },
+        {
+          "kind": "replace",
+          "expected": "Oppo- sitional",
+          "actual": "Oppositional"
+        },
+        {
+          "kind": "replace",
+          "expected": "Interchangeabil- ity.",
+          "actual": "Interchangeability."
+        },
+        {
+          "kind": "replace",
+          "expected": "Interpenetrative- ness. Predicam- ent.",
+          "actual": "Interpenetrativeness. Predicament."
+        },
+        {
+          "kind": "replace",
+          "expected": "Amallaga- mated.",
+          "actual": "Amallagamated."
+        },
+        {
+          "kind": "replace",
+          "expected": "kakao- poetic",
+          "actual": "kakaopoetic"
+        },
+        {
+          "kind": "replace",
+          "expected": "ungump- tious.",
+          "actual": "ungumptious."
+        },
+        {
+          "kind": "insert",
+          "expected": "",
+          "actual": "[FIGURE:Thumb on nose, with crossed forks below]"
+        }
+      ]
+    },
+    {
+      "chapter": "II.3",
+      "source_html_equal_historical_external_extraction": true,
+      "source_text_equal_historical_external_extraction": true,
+      "source_words": 26461,
+      "segment_words": 26423,
+      "segments": 12,
+      "notes": 72,
+      "note_certainty": {
+        "proposal": 72
+      },
+      "note_source_ids": {
+        "joyce-fp": 72
+      },
+      "lemma_not_exact_substring": [],
+      "raw_token_diff_blocks": 37,
+      "diffs": [
+        {
+          "kind": "replace",
+          "expected": "Finn- fannfawners,",
+          "actual": "Finnfannfawners,"
+        },
+        {
+          "kind": "replace",
+          "expected": "Bothallchoractorschumminaroundgansumuminarumdrum- strumtruminahumptadumpwaultopoofoolooderamaunsturnup!",
+          "actual": "Bothallchoractorschumminaroundgansumuminarumdrumstrumtruminahumptadumpwaultopoofoolooderamaunsturnup!"
+        },
+        {
+          "kind": "replace",
+          "expected": "newbuckle- noosers",
+          "actual": "newbucklenoosers"
+        },
+        {
+          "kind": "replace",
+          "expected": "sala- magunnded",
+          "actual": "salamagunnded"
+        },
+        {
+          "kind": "replace",
+          "expected": "filli- bustered,",
+          "actual": "fillibustered,"
+        },
+        {
+          "kind": "replace",
+          "expected": "giel- gaulgalls",
+          "actual": "gielgaulgalls"
+        },
+        {
+          "kind": "replace",
+          "expected": "louth- mouthing",
+          "actual": "louthmouthing"
+        },
+        {
+          "kind": "replace",
+          "expected": "Pappappapparrassannuaragheallachnatull- aghmonganmacmacmacwhackfalltherdebblenonthedubblandadd- ydoodled",
+          "actual": "Pappappapparrassannuaragheallachnatullaghmonganmacmacmacwhackfalltherdebblenonthedubblandaddydoodled"
+        },
+        {
+          "kind": "replace",
+          "expected": "up- stored,",
+          "actual": "upstored,"
+        },
+        {
+          "kind": "replace",
+          "expected": "lang- thorn,",
+          "actual": "langthorn,"
+        },
+        {
+          "kind": "replace",
+          "expected": "tree- coloured",
+          "actual": "treecoloured"
+        },
+        {
+          "kind": "replace",
+          "expected": "waggon- horchers,",
+          "actual": "waggonhorchers,"
+        },
+        {
+          "kind": "replace",
+          "expected": "lettera- cettera,",
+          "actual": "letteracettera,"
+        },
+        {
+          "kind": "replace",
+          "expected": "bulchri- chudes",
+          "actual": "bulchrichudes"
+        },
+        {
+          "kind": "replace",
+          "expected": "pres- entment",
+          "actual": "presentment"
+        },
+        {
+          "kind": "replace",
+          "expected": "stable- crashers",
+          "actual": "stablecrashers"
+        },
+        {
+          "kind": "replace",
+          "expected": "Hippo- hopparray",
+          "actual": "Hippohopparray"
+        },
+        {
+          "kind": "replace",
+          "expected": "shum- mering",
+          "actual": "shummering"
+        },
+        {
+          "kind": "replace",
+          "expected": "Luckluckluckluck- luckluckluck!",
+          "actual": "Luckluckluckluckluckluckluck!"
+        },
+        {
+          "kind": "replace",
+          "expected": "popo- porportiums).",
+          "actual": "popoporportiums)."
+        },
+        {
+          "kind": "replace",
+          "expected": "sa- toniseels",
+          "actual": "satoniseels"
+        },
+        {
+          "kind": "replace",
+          "expected": "be- cause",
+          "actual": "because"
+        },
+        {
+          "kind": "replace",
+          "expected": "raw- recruitioners,",
+          "actual": "rawrecruitioners,"
+        },
+        {
+          "kind": "replace",
+          "expected": "Bluddy- muddymuzzle!",
+          "actual": "Bluddymuddymuzzle!"
+        },
+        {
+          "kind": "replace",
+          "expected": "ex- polodotonates",
+          "actual": "expolodotonates"
+        },
+        {
+          "kind": "replace",
+          "expected": "deter- mining",
+          "actual": "determining"
+        },
+        {
+          "kind": "replace",
+          "expected": "over- listingness.",
+          "actual": "overlistingness."
+        },
+        {
+          "kind": "replace",
+          "expected": "re- doubtedly",
+          "actual": "redoubtedly"
+        },
+        {
+          "kind": "replace",
+          "expected": "corvino- phobe",
+          "actual": "corvinophobe"
+        },
+        {
+          "kind": "replace",
+          "expected": "vvol- lusslleepp",
+          "actual": "vvollusslleepp"
+        },
+        {
+          "kind": "replace",
+          "expected": "hemi- semidemicolons!",
+          "actual": "hemisemidemicolons!"
+        },
+        {
+          "kind": "replace",
+          "expected": "Hunphy- dunphyville'll",
+          "actual": "Hunphydunphyville'll"
+        },
+        {
+          "kind": "replace",
+          "expected": "Wimme- game's",
+          "actual": "Wimmegame's"
+        },
+        {
+          "kind": "replace",
+          "expected": "three- quickenthrees",
+          "actual": "threequickenthrees"
+        },
+        {
+          "kind": "replace",
+          "expected": "lewd- ningbluebolteredallucktruckalltraumconductor!",
+          "actual": "lewdningbluebolteredallucktruckalltraumconductor!"
+        },
+        {
+          "kind": "replace",
+          "expected": "pan- prestuberian",
+          "actual": "panprestuberian"
+        },
+        {
+          "kind": "replace",
+          "expected": "cheeriubi- cundenances,",
+          "actual": "cheeriubicundenances,"
+        }
+      ]
+    },
+    {
+      "chapter": "II.4",
+      "source_html_equal_historical_external_extraction": true,
+      "source_text_equal_historical_external_extraction": true,
+      "source_words": 6139,
+      "segment_words": 6131,
+      "segments": 4,
+      "notes": 24,
+      "note_certainty": {
+        "proposal": 24
+      },
+      "note_source_ids": {
+        "joyce-fp": 24
+      },
+      "lemma_not_exact_substring": [],
+      "raw_token_diff_blocks": 8,
+      "diffs": [
+        {
+          "kind": "replace",
+          "expected": "Palmer- stown",
+          "actual": "Palmerstown"
+        },
+        {
+          "kind": "replace",
+          "expected": "rockby- suckerassousyoceanal",
+          "actual": "rockbysuckerassousyoceanal"
+        },
+        {
+          "kind": "replace",
+          "expected": "pru- misceous",
+          "actual": "prumisceous"
+        },
+        {
+          "kind": "replace",
+          "expected": "North- umberland",
+          "actual": "Northumberland"
+        },
+        {
+          "kind": "replace",
+          "expected": "Arrah-na- Poghue,",
+          "actual": "Arrah-naPoghue,"
+        },
+        {
+          "kind": "replace",
+          "expected": "Ab- botabishop?",
+          "actual": "Abbotabishop?"
+        },
+        {
+          "kind": "replace",
+          "expected": "con- tradicting",
+          "actual": "contradicting"
+        },
+        {
+          "kind": "replace",
+          "expected": "schoon- masters,",
+          "actual": "schoonmasters,"
+        }
+      ]
+    }
+  ]
+}

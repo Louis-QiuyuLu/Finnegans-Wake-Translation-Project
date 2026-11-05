@@ -135,14 +135,21 @@ def validate(data):
     checkpoint = data.get("checkpoint")
     if checkpoint:
         chapter = next((c for c in data["chapters"] if c["id"] == checkpoint.get("chapter")), None)
-        position = checkpoint.get("next", [])
-        if chapter is None or len(position) != 2 or not all(type(n) is int and n > 0 for n in position):
-            errors.append("invalid checkpoint chapter or next position")
-        elif not chapter["pages"][0] <= position[0] <= chapter["pages"][1]:
-            errors.append("checkpoint outside current chapter")
-        elif chapter["segments"] and tuple(position) <= tuple(chapter["segments"][-1]["range"][2:]):
-            errors.append("checkpoint must follow latest sequential segment")
-        require_text(checkpoint, ["next_original", "updated"], "checkpoint")
+        if checkpoint.get("translation_complete") is True:
+            if chapter is None or chapter["id"] != "IV" or any(c["coverage"] != "complete" for c in data["chapters"]):
+                errors.append("checkpoint completion requires all chapters complete and final chapter IV")
+            if "next" in checkpoint or "next_original" in checkpoint:
+                errors.append("completed checkpoint cannot contain a next anchor")
+            require_text(checkpoint, ["cycle_original", "updated"], "checkpoint")
+        else:
+            position = checkpoint.get("next", [])
+            if chapter is None or len(position) != 2 or not all(type(n) is int and n > 0 for n in position):
+                errors.append("invalid checkpoint chapter or next position")
+            elif not chapter["pages"][0] <= position[0] <= chapter["pages"][1]:
+                errors.append("checkpoint outside current chapter")
+            elif chapter["segments"] and tuple(position) <= tuple(chapter["segments"][-1]["range"][2:]):
+                errors.append("checkpoint must follow latest sequential segment")
+            require_text(checkpoint, ["next_original", "updated"], "checkpoint")
     segments = {s["id"]:s for c in data["chapters"] for s in c["segments"]}
     audio_ids = set()
     for track in data.get("audio", []):
@@ -565,16 +572,28 @@ def generate_views(data, root=ROOT):
                       "reviewed_segments": [s["id"] for s in chapter["segments"] if s["status"] == "reviewed"],
                       "updated": checkpoint["updated"]}
             if chapter["id"] == current["id"]:
-                record.update({"next": checkpoint["next"], "next_original": checkpoint["next_original"], "unresolved": checkpoint["notes"]})
+                record["unresolved"] = checkpoint["notes"]
+                if checkpoint.get("translation_complete") is True:
+                    record.update({"translation_complete": True, "cycle_original": checkpoint["cycle_original"]})
+                else:
+                    record.update({"next": checkpoint["next"], "next_original": checkpoint["next_original"]})
             (records / (slug(chapter) + ".json")).write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        p, line = checkpoint["next"]
-        resume = ('# 续译断点\n\n' + f'更新：{checkpoint["updated"]}\n\n当前顺序译章：**{current["id"]} · {current["title"]}**。\n\n'
-                  + f'下一段从 **{p:03d}.{line:02d}** 开始，原文锚句：\n\n> {checkpoint["next_original"]}\n\n'
+        heading = '# 续译断点\n\n' + f'更新：{checkpoint["updated"]}\n\n当前顺序译章：**{current["id"]} · {current["title"]}**。\n\n'
+        if checkpoint.get("translation_complete") is True:
+            end_page, end_line = current["segments"][-1]["range"][2:]
+            cursor = (f'顺序译稿已录至 **{end_page:03d}.{end_line:02d}**，无下一段。此为译稿录入状态，不代表人工终审完成。\n\n'
+                      + f'首尾回环参照：\n\n> {checkpoint["cycle_original"]}\n\n')
+            continuation = '顺序译稿已录完。后续从具名审校问题、读者意见或新证据续接；先读章稿及绑定版本报告，再定点修订。不得把首句回环当作新一轮译文，亦不补造篇末页行。'
+        else:
+            p, line = checkpoint["next"]
+            cursor = f'下一段从 **{p:03d}.{line:02d}** 开始，原文锚句：\n\n> {checkpoint["next_original"]}\n\n'
+            continuation = '先读 AGENTS.md、本文、当前章 JSON 和来源表。核对上述锚句后，从下一段续译，不重译已保存段落。篇末回环样稿只作对读，不能据此跳过中间正文。'
+        resume = (heading + cursor
                   + '## 已保存\n\n' + ''.join(f'- {s["locator"]} · {s["id"]} · {STATUS[s["status"]]}\n' for s in current["segments"])
                   + '\n## 未决问题\n\n' + ''.join(f'- {note}\n' for note in checkpoint["notes"])
-                  + '\n## 下次如何继续\n\n先读 AGENTS.md、本文、当前章 JSON 和来源表。核对上述锚句后，从下一段续译，不重译已保存段落。篇末回环样稿只作对读，不能据此跳过中间正文。\n\n'
-                  + '每轮修改后更新 progress/checkpoint.json，运行检查、测试与构建，将稿件和断点一并提交。每章正文录入并核对覆盖后，再写 coverage_review、标 complete；工具会在 progress/chapters/ 留下章节记录。人工审校状态另记。\n\n'
-                  + '未完成全书前保留长期目标。版本以 git log 和 GitHub 提交为准，不凭聊天摘要判断进度。\n')
+                  + '\n## 下次如何继续\n\n' + continuation + '\n\n'
+                  + '每轮修改后更新 progress/checkpoint.json，运行检查、测试与构建，将稿件和断点一并提交。章节覆盖与人工审校分别登记。\n\n'
+                  + '版本以 git log 和 GitHub 提交为准，不凭聊天摘要判断进度。\n')
         (root / "progress/RESUME.md").write_text(resume, encoding="utf-8")
 
 
