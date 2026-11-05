@@ -296,10 +296,16 @@ def render_segments(chapter, data, epub=False):
             audio = ('<div class="audio-reading"><div class="audio-heading"><span>英文朗读</span><span class="audio-label" title="AI 合成英文朗读">GPT-SoVITS · 重返未来1999 瓦尔汀</span></div>'
                      + f'<audio controls preload="none" src="../assets/audio/{sid}.mp3" aria-label="朗读英文原文 FW {escape(segment["locator"])}"></audio>'
                      + '<p class="audio-feedback" role="status" aria-live="polite"></p></div>')
+        original = '<div class="original" lang="en"><h3>原文</h3>' + source_paragraphs(segment) + '</div>'
+        translation = paragraphs(segment["translation"])
+        if chapter["id"] == "II.2" and not epub:
+            original = ('<details class="original nightlessons-original"><summary>对照本段英文</summary>'
+                        '<div lang="en">' + source_paragraphs(segment) + '</div></details>')
+            translation = '<div class="nightlessons-text">' + translation + '</div>'
         chunks.append(f'<section class="segment" id="{sid}"><h2 class="locator">FW {escape(segment["locator"])} <span class="tag">{STATUS[segment["status"]]}</span></h2>'
                       + audio
-                      + '<div class="original" lang="en"><h3>原文</h3>' + source_paragraphs(segment) + '</div>'
-                      + '<div class="translation"><h3>中文试译</h3>' + paragraphs(segment["translation"]) + '</div>'
+                      + original
+                      + '<div class="translation"><h3>中文试译</h3>' + translation + '</div>'
                       + f'<p class="note-refs">译注 {refs}</p>'
                       + '<div class="notes"><h3>译注与出处</h3>' + ''.join(note_items) + '</div>'
                       + ('<section class="alternatives"><h3>备选译法</h3>' + alternatives + '</section>' if alternatives else '') + editor

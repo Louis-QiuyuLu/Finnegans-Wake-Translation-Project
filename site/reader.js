@@ -113,7 +113,7 @@
   const converter = typeof OpenCC === 'object' ? OpenCC.Converter({from:'cn', to:'tw'}) : null;
   const variants = FWReader.createTextVariantStore(converter || (text => text));
   let script = 'hans';
-  const attributeExcluded = 'script,style,code,pre,[contenteditable],.original,[lang="en"],[data-no-convert]';
+  const attributeExcluded = 'script,style,code,pre,[contenteditable],[lang="en"],[data-no-convert]';
   const excluded = `textarea,input,${attributeExcluded}`;
   const attributes = new WeakMap();
   const renderScript = () => {
@@ -217,11 +217,58 @@
       container.insertBefore(p,before);
     }
   };
+  const renderNightlessons = (container, text) => {
+    const output = document.createDocumentFragment();
+    let page = output;
+    let footnotes = null;
+    for (const block of FWReader.parseNightlessons(text)) {
+      if (block.kind !== 'footnote') footnotes = null;
+      if (block.kind === 'page') {
+        page = document.createElement('section');
+        page.className = 'nightlessons-page';
+        const heading = document.createElement('h4');
+        heading.textContent = block.label;
+        page.append(heading);
+        output.append(page);
+        continue;
+      }
+      const paragraph = document.createElement('p');
+      if (block.kind === 'margin' || block.kind === 'footnote') {
+        const label = document.createElement('strong');
+        label.className = 'nightlessons-label';
+        label.textContent = block.label;
+        paragraph.append(label, ' ');
+      }
+      paragraph.append(block.text);
+      if (block.kind === 'footnote') {
+        if (!footnotes) {
+          footnotes = document.createElement('details');
+          footnotes.className = 'nightlessons-footnotes';
+          const summary = document.createElement('summary');
+          summary.textContent = '原作脚注';
+          footnotes.append(summary);
+          page.append(footnotes);
+        }
+        footnotes.append(paragraph);
+      } else if (block.kind === 'margin') {
+        const margin = document.createElement('aside');
+        margin.className = 'nightlessons-margin';
+        margin.append(paragraph);
+        page.append(margin);
+      } else {
+        page.append(paragraph);
+      }
+    }
+    container.replaceChildren(output);
+  };
   const paint = () => {
     const result=FWReader.mergeRevisions(canonical,revisions);
     for (const segment of result.chapter.segments) {
       const section=document.getElementById(segment.id);
-      replaceParagraphs(section.querySelector('.translation'),segment.translation);
+      const translation = section.querySelector('.translation');
+      const nightlessons = translation.querySelector('.nightlessons-text');
+      if (nightlessons) renderNightlessons(nightlessons, segment.translation);
+      else replaceParagraphs(translation, segment.translation);
       for (const note of segment.notes) {
         const container=document.getElementById(`note-${note.id}`);
         replaceParagraphs(container,note.text,':scope > p:not(.source-links)',container.querySelector('.source-links'));

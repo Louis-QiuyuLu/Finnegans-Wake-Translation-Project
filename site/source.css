@@ -37,3 +37,37 @@
 .source-recordings ol { padding-inline-start: 1.5rem; }
 .source-recordings li { margin-block: .8rem; }
 .source-recordings audio { display: block; max-width: 100%; width: 28rem; margin-top: .4rem; }
+
+/* Nightlessons: follow the manuscript's reading order at every width. */
+.nightlessons-original { border: 1px solid var(--line); border-radius: 8px; padding: 0 1rem; }
+.nightlessons-original > summary,
+.nightlessons-footnotes > summary {
+  min-height: 44px;
+  padding: .6rem 0;
+  color: var(--accent);
+  font: 600 .875rem/1.6 var(--sans);
+}
+.nightlessons-text > p { white-space: pre-line; }
+.nightlessons-page { margin-block: 1.5em; }
+.nightlessons-page > h4 {
+  margin: 0 0 .9rem;
+  padding-block: .65rem;
+  border-block-start: 1px solid var(--line);
+  color: var(--accent);
+  font: 600 .875rem/1.5 var(--sans);
+}
+.nightlessons-text p { margin: 0 0 .65em; }
+.nightlessons-margin,
+.nightlessons-footnotes {
+  margin: .65em 0;
+  padding-inline: clamp(.6rem, 2vw, 1rem);
+  font-size: .85em;
+}
+.nightlessons-margin {
+  border-inline-start: 2px solid var(--accent);
+  background: var(--panel);
+  padding-block: .4em;
+}
+.nightlessons-margin p { margin: 0; }
+.nightlessons-label { font: 600 .75rem/1.5 var(--sans); color: var(--accent); }
+.nightlessons-footnotes { border-block: 1px solid var(--line); }
