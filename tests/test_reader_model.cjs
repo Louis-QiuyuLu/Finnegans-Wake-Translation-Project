@@ -105,3 +105,19 @@ test('an unchanged live manuscript can export a local revision', () => {
   assert.deepEqual(result.conflicts,[]);
   assert.equal(result.chapter.segments[0].translation,'新译');
 });
+
+test('Nightlessons keeps body and margin notes in manuscript order', () => {
+  const { parseNightlessons } = require('../site/reader-model.js');
+  const text = '【第260页】\r\n【正文】桥在上。¹\r\n【左旁注】铃声。\r\n续行。\r\n【正文】跨过去。\r\n【原注1】<镜像>\r\n\r\n【第261页】\r\n【右旁注】如是。';
+  assert.deepEqual(parseNightlessons(text), [
+    {kind:'page', label:'第260页', text:''},
+    {kind:'body', label:'正文', text:'桥在上。¹'},
+    {kind:'margin', label:'左旁注', text:'铃声。'},
+    {kind:'body', label:'', text:'续行。'},
+    {kind:'body', label:'正文', text:'跨过去。'},
+    {kind:'footnote', label:'原注1', text:'<镜像>'},
+    {kind:'page', label:'第261页', text:''},
+    {kind:'margin', label:'右旁注', text:'如是。'},
+  ]);
+  assert.deepEqual(parseNightlessons('普通修订【未识别】'), [{kind:'body', label:'', text:'普通修订【未识别】'}]);
+});

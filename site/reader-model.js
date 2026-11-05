@@ -25,6 +25,17 @@
       originals.set(node, {source, display});
     }};
   }
+  function parseNightlessons(text) {
+    return text.split(/\r?\n/).filter(line => line.trim()).map(line => {
+      const page = /^【(第\d+页)】\s*$/.exec(line);
+      if (page) return {kind:'page', label:page[1], text:''};
+      const block = /^【(正文|左旁注|右旁注|原注\d+)】(.*)$/.exec(line);
+      if (!block) return {kind:'body', label:'', text:line};
+      const [, label, content] = block;
+      const kind = label === '正文' ? 'body' : label.startsWith('原注') ? 'footnote' : 'margin';
+      return {kind, label, text:content};
+    });
+  }
   function mergeRevisions(source, revisions = {}) {
     const chapter = JSON.parse(JSON.stringify(source));
     const conflicts = [];
@@ -66,5 +77,5 @@
     if (JSON.stringify(source) !== JSON.stringify(latest)) return {chapter:null,conflicts:['仓库章稿已更新。请刷新页面，对照现稿后继续；本机修订仍会保留。']};
     return mergeRevisions(source,revisions);
   }
-  return {normalizePreferences, normalizeTheme, normalizeScript, createTextVariantStore, mergeRevisions, rebaseRevision, prepareExport};
+  return {normalizePreferences, normalizeTheme, normalizeScript, createTextVariantStore, parseNightlessons, mergeRevisions, rebaseRevision, prepareExport};
 });
