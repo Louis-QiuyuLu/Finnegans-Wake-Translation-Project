@@ -32,3 +32,8 @@
 .source-transcription .p_II2,.source-transcription .p_II2indent,.source-transcription .p_II2line_in{margin-left:0;margin-right:0}
 .source-transcription table{font-size:.85em}
 }
+
+.source-recordings { margin-block: 1rem; }
+.source-recordings ol { padding-inline-start: 1.5rem; }
+.source-recordings li { margin-block: .8rem; }
+.source-recordings audio { display: block; max-width: 100%; width: 28rem; margin-top: .4rem; }

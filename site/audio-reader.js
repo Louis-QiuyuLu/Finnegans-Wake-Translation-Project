@@ -16,7 +16,7 @@
     };
   }
   function attach(doc) {
-    const players = [...doc.querySelectorAll('.audio-reading audio')];
+    const players = [...doc.querySelectorAll('.audio-reading audio, .source-recordings audio')];
     const group = coordinatePlayers(players);
     const control = doc.getElementById('audio-speed');
     const key = 'fw:audio-speed';
@@ -31,12 +31,12 @@
     control?.addEventListener('change', () => save(setSpeed(control.value)));
     doc.getElementById('reset-reading')?.addEventListener('click', () => save(setSpeed(1)));
     players.forEach(player => {
-      const feedback = player.closest('.audio-reading').querySelector('.audio-feedback');
-      player.addEventListener('error', () => { feedback.textContent='音频暂时无法播放，请刷新后重试。'; });
-      player.addEventListener('playing', () => { feedback.textContent=''; });
+      const feedback = player.closest('.audio-reading')?.querySelector('.audio-feedback');
+      player.addEventListener('error', () => { if (feedback) feedback.textContent='音频暂时无法播放，请刷新后重试。'; });
+      player.addEventListener('playing', () => { if (feedback) feedback.textContent=''; });
     });
     doc.getElementById('reader-search')?.addEventListener('input', () => {
-      players.forEach(player => { if (player.closest('.segment').hidden) player.pause(); });
+      players.forEach(player => { if (player.closest('.segment')?.hidden) player.pause(); });
     });
     doc.defaultView.addEventListener('pagehide', () => group.pauseAll());
   }

@@ -34,6 +34,8 @@ def load_project(root=ROOT):
         data["checkpoint"] = read(root / "progress/checkpoint.json")
     if (root / "audio/index.json").exists():
         data["audio"] = read(root / "audio/index.json")["tracks"]
+    if (root / "audio/source-index.json").exists():
+        data["source_audio"] = read(root / "audio/source-index.json")["tracks"]
     return data
 
 
@@ -151,6 +153,8 @@ def validate(data):
         audio_ids.add(sid)
         if track.get("original_sha256") != hashlib.sha256(segments[sid]["original"].encode("utf-8")).hexdigest():
             errors.append(f"audio original changed: {sid}; regenerate or recheck the recording")
+    from scripts.source_audio_reader import validate_tracks
+    errors.extend(validate_tracks(data))
     return errors
 
 
@@ -236,6 +240,8 @@ def render_source_text(chapter, data, epub=False):
     body = ('<nav class="source-pages" aria-label="英文底本页码">' + page_links + '</nav>'
             + '<div class="source-transcription" lang="en">' + content + '</div>')
     if not epub:
+        from scripts.source_audio_reader import render_tracks
+        body = render_tracks(chapter, data) + body
         opened = '' if chapter['coverage'] == 'complete' else ' open'
         body = f'<details class="full-source-details"{opened}><summary>全章英文 · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</summary>' + body + '</details>'
     return ('<section class="full-source" id="full-source"><h2>英文原文</h2>'
@@ -452,6 +458,10 @@ def render_home(data):
 def publish_audio(data, destination):
     destination = Path(destination)
     tracks = data.get("audio", [])
+    for track in data.get("source_audio", []):
+        source = ROOT / "audio" / track["file"]
+        if not source.is_file() or source.stat().st_size == 0:
+            raise ValueError(f"missing or empty source audio file: {track['file']}")
     for track in tracks:
         source = ROOT / "audio" / track["file"]
         if not source.is_file() or source.stat().st_size == 0:
