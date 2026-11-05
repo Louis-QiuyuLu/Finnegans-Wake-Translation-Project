@@ -48,3 +48,7 @@ python3 scripts/project.py generate
 ```
 
 自动生成稿不要手改。若删除最后一段、移动章文件或更改 ID，须同时清理失效的旧便读稿，并在 PR 说明链接变动。
+
+## 顺序译稿完成状态
+
+译稿已录到IV篇末、全章覆盖均经核对时，`progress/checkpoint.json`可用`translation_complete: true`，并以`cycle_original`保存首句回环参照；此时不填写`next`或`next_original`。工具拒绝覆盖未完成或同时另填下一锚句的完成状态。生成页明确写“无下一段”，不补造628.17。这个标记只说明顺序译稿录入结束；各段是否经人工审校仍由`status`与`reviewers`分别决定。

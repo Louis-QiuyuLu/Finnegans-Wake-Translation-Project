@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-03T08:40:48.192721+00:00",
+  "executor": "OpenAI Codex parent review",
+  "scope": "定点核普通词义、基本语系与神话文本，不是三语学术文献综述；中日译本原页未查。",
+  "source_records": [
+    {
+      "id": "E-FW383",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "title": "James Joyce, Finnegans Wake, Viking 1958 witness via Faded Page",
+      "read_state": "passage_read",
+      "source_kind": "primary_text",
+      "read_ranges": "printed p383; web lines15572–15590",
+      "observation": "开篇仅有暗中寻衬衫与斑点裤等动作，没有现译的糠皮交易、蜗牛、手推轮车与晾衫段落。",
+      "limitations": "主页面实际打开并定点find；未查看印本影像。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-FW388",
+      "url": "https://www.fadedpage.com/books/20180126/html.php",
+      "title": "James Joyce, Finnegans Wake",
+      "read_state": "passage_read",
+      "source_kind": "primary_text",
+      "read_ranges": "printed p388; web lines15756–15766",
+      "observation": "a lovely morning后接at about aleven thirty-two，保留十一点三十二的时刻读法；后文另出现year及1132，不能把前者也仅译作年。",
+      "limitations": "页行按转录本，未看扫描。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-SPAE",
+      "url": "https://dsl.ac.uk/entry/snd/spae",
+      "title": "Dictionaries of the Scots Language, SND, Spae",
+      "read_state": "passage_read",
+      "source_kind": "reference",
+      "read_ranges": "I v.1 Combs.(ix); web lines113,127–137",
+      "observation": "spae-wife释女占卜者，并有spaewife历史例；词典不支持现注把spa拆成温泉。",
+      "limitations": "只核常规词义；不排除Joyce另有spa声影，后者须另证，不能作为已知词源。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-CITIES",
+      "url": "https://celt.ucc.ie/document/T300011/",
+      "title": "The Second Battle of Moytura, edited by Whitley Stokes, UCC CELT",
+      "read_state": "passage_read",
+      "source_kind": "primary_text",
+      "read_ranges": "sections1–7; printed pp57,59; web lines112–143",
+      "observation": "四城是神族学艺地点，带出的是石、矛、剑、鼎，不是把四座城带到爱尔兰。",
+      "limitations": "英译转录相关段落实读，不称爱尔兰语手稿已读，也不独立证明Joyce直接采用此版本。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-CORSAIR",
+      "url": "https://www.merriam-webster.com/dictionary/corsair",
+      "title": "Merriam-Webster, corsair",
+      "read_state": "passage_read",
+      "source_kind": "reference",
+      "read_ranges": "noun definition; web lines32–42",
+      "observation": "常规释义为海盗，尤指巴巴里海岸私掠者，不能径写成巡洋舰。",
+      "limitations": "仅核词典释义，不确认cursowarries唯一拆词。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-PATIOR",
+      "url": "https://dcc.dickinson.edu/latin-core/patior",
+      "title": "Dickinson College Commentaries, Latin Core Vocabulary, PATIOR",
+      "read_state": "passage_read",
+      "source_kind": "reference",
+      "read_ranges": "headword/definition; web lines16–24",
+      "observation": "patior的主要形式列passus sum，释permit/endure；不能不加论证将pappa passus直接作为父亲已逝去的规范拉丁语。",
+      "limitations": "不否认英语passes/dies等声义联想，后者须标项目推读。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-SHROVE",
+      "url": "https://www.dictionary.com/browse/shrove-sunday",
+      "title": "Dictionary.com, Shrove Sunday",
+      "read_state": "passage_read",
+      "source_kind": "reference",
+      "read_ranges": "noun definition; web lines14–20",
+      "observation": "Shrove Sunday为圣灰星期三之前的星期日，不能直接改成Shrove Tuesday。",
+      "limitations": "这里只核Sunday/Tuesday，不推定小说具体年份。",
+      "capture_method": "web_tool_cached_transcription"
+    },
+    {
+      "id": "E-IRISH",
+      "url": "https://www.tcd.ie/gaeloifig/en/international.php/1000/",
+      "title": "Trinity College Dublin, Irish Language Office, international students",
+      "read_state": "passage_read",
+      "source_kind": "institutional_reference",
+      "read_ranges": "Irish language classification paragraph",
+      "observation": "页面将Irish列为Indo-European/Celtic；若注释将Old Teangtaggle认作爱尔兰盖尔古语，就不能又将所列四语统称非印欧语。",
+      "limitations": "只核语系事实，不确定Teangtaggle唯一所指。",
+      "capture_method": "web_tool_cached_transcription"
+    }
+  ],
+  "retrieval_limit": "urllib目录/ZIP请求HTTP403，另存retrieval.json；web工具可读原著转录与所列词典段落。未将403称作取得全文。",
+  "unverified_claims": [
+    {
+      "note": "ii3-chang-li-meng",
+      "status": "unresolved",
+      "reason": "定点检索未取得现注所称十九世纪法国剧目角色原页；不把未找到当成不存在之证。"
+    },
+    {
+      "note": "ii2-lutharius-sinobiled",
+      "status": "unresolved",
+      "reason": "未取得所谓西诺贝尔公爵的可定位来源。"
+    }
+  ]
+}

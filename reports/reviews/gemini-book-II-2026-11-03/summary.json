@@ -1,0 +1,455 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-03",
+  "executor": "OpenAI Codex review team",
+  "role": "ai_review",
+  "status": "needs_revision",
+  "blocks_integration": true,
+  "snapshot_manifest": "reports/reviews/inputs/gemini-book-II-2026-11-03/manifest.json",
+  "snapshot_manifest_sha256": "cf897e49c4f4de390d9579eba0820f308fad0a387c08e94feb1bd43709c4d630",
+  "chapters": [
+    {
+      "chapter": "II.1",
+      "input_path": "reports/reviews/inputs/gemini-book-II-2026-11-03/manuscript/chapters/II-1.json",
+      "input_sha256": "5b6225652a5802915450a993519bbfbd1eea4315bd372475313001249af764d0",
+      "report": "reports/reviews/gemini-book-II-2026-11-03/II-1.semantic.r0.md",
+      "report_sha256": "954f2d08b0329b7fb93b720d4efdb6764cae1320716fc2added02ec1402e2ead",
+      "decision": "needs_revision",
+      "segments": 10,
+      "project_notes": 60,
+      "issues": [
+        {
+          "id": "R-II1-01",
+          "title": "R-II1-01 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-02",
+          "title": "R-II1-02 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-03",
+          "title": "R-II1-03 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-04",
+          "title": "R-II1-04 [P2]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-05",
+          "title": "R-II1-05 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-06",
+          "title": "R-II1-06 [P2]",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II1-07",
+          "title": "R-II1-07 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-08",
+          "title": "R-II1-08 [P2]",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II1-09",
+          "title": "R-II1-09 [P2]",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II1-10",
+          "title": "R-II1-10 [P2]",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II1-11",
+          "title": "R-II1-11 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-12",
+          "title": "R-II1-12 [P2]",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II1-13",
+          "title": "R-II1-13 [P2]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-14",
+          "title": "R-II1-14 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-15",
+          "title": "R-II1-15 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-16",
+          "title": "R-II1-16 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-17",
+          "title": "R-II1-17 [P1]",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II1-18",
+          "title": "R-II1-18 [P2] 跨工作段重译同一位置",
+          "blocks_integration": false
+        }
+      ]
+    },
+    {
+      "chapter": "II.2",
+      "input_path": "reports/reviews/inputs/gemini-book-II-2026-11-03/manuscript/chapters/II-2.json",
+      "input_sha256": "92b5e3f9103804655e85163fe726a024b079d8914e72aed008102bd234ca47b4",
+      "report": "reports/reviews/gemini-book-II-2026-11-03/II-2.semantic.r0.md",
+      "report_sha256": "a805da8d8ff7ba75fa32668491c4340653ecdf87f99f7710454e5ea6cae280f0",
+      "decision": "needs_revision",
+      "segments": 11,
+      "project_notes": 66,
+      "issues": [
+        {
+          "id": "R-II2-01",
+          "title": "R-II2-01：正文、左右旁注与原作脚注混层",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-02",
+          "title": "R-II2-02：把一句对白扩写成死亡场景",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-03",
+          "title": "R-II2-03：p260–262 原作脚注漏译，编号错挂",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-04",
+          "title": "R-II2-04：数词误算，四百之数消失",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-05",
+          "title": "R-II2-05：教父改成叔父",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-06",
+          "title": "R-II2-06：p270 脚注缺失，p271 连锁动作缩成改写",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-07",
+          "title": "R-II2-07：p273–275 旁注缺项",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-08",
+          "title": "R-II2-08：p276、278 漏掉旁注地址与称谓",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-09",
+          "title": "R-II2-09：p281–282 漏掉两条完整左旁注",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-10",
+          "title": "R-II2-10：「百数体系」注释无依据，数字自相矛盾",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-11",
+          "title": "R-II2-11：几何段把拉丁片段、谐语与知识事实混成定说",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-12",
+          "title": "R-II2-12：p290 大片正文与原注失落",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-13",
+          "title": "R-II2-13：几何作图丢掉标记与连线操作",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-14",
+          "title": "R-II2-14：`Mi vidim Mi` 注释用另一字串代释，未交代差异",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-15",
+          "title": "R-II2-15：旁注切断肚脐与顶点，挤进正文空间关系",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-16",
+          "title": "R-II2-16：p302 左旁注漏译，古印本长 s 成无据事实",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-17",
+          "title": "R-II2-17：`less is the pity` 反成「更为遗憾」",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-18",
+          "title": "R-II2-18：p305 连续正文整段跳失",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-19",
+          "title": "R-II2-19：p303 旁注成帕内尔动作对象；章末题单失去并行关系",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-20",
+          "title": "R-II2-20：p304–307 原作脚注多处漏失或只剩尾句",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-21",
+          "title": "R-II2-21：词典、人物与学术来源未落实，不能用原著兜底",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II2-22",
+          "title": "R-II2-22：章末署名对应待核，位置说明有误",
+          "blocks_integration": false
+        }
+      ]
+    },
+    {
+      "chapter": "II.3",
+      "input_path": "reports/reviews/inputs/gemini-book-II-2026-11-03/manuscript/chapters/II-3.json",
+      "input_sha256": "f495511eeaa099f23cd20aef3ea83d09b5ee643264561cd60caf9e19749b422b",
+      "report": "reports/reviews/gemini-book-II-2026-11-03/II-3.semantic.r0.md",
+      "report_sha256": "96ecc260b0999ecd0e9051b45564a3fbe2f1c5bfe92f8a8cb4fbab45b7753636",
+      "decision": "needs_revision",
+      "segments": 12,
+      "project_notes": 72,
+      "issues": [
+        {
+          "id": "R-II3-01",
+          "title": "R-II3-01 — 漏译／无据增补",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-02",
+          "title": "R-II3-02 — 误词／术语",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-03",
+          "title": "R-II3-03 — 无据增补／漏译",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-04",
+          "title": "R-II3-04 — 漏译／误词／无据增补",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-05",
+          "title": "R-II3-05 — 漏译",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-06",
+          "title": "R-II3-06 — 漏译",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-07",
+          "title": "R-II3-07 — 人称／人物关系",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-08",
+          "title": "R-II3-08 — 误译／无据增补",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-09",
+          "title": "R-II3-09 — 漏译／梗概替正文",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-10",
+          "title": "R-II3-10 — 否定／语气反向",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-11",
+          "title": "R-II3-11 — 漏译／无据增补",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-12",
+          "title": "R-II3-12 — 漏译／列表",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-13",
+          "title": "R-II3-13 — 无据增补／越界接续",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-14",
+          "title": "R-II3-14 — 数目",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-15",
+          "title": "R-II3-15 — 出处／外部事实",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-16",
+          "title": "R-II3-16 — 漏译／专名清单",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-17",
+          "title": "R-II3-17 — 数目／声形",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-18",
+          "title": "R-II3-18 — 军阶／误词",
+          "blocks_integration": false
+        },
+        {
+          "id": "R-II3-19",
+          "title": "R-II3-19 — 漏译／时间与情态",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-20",
+          "title": "R-II3-20 — 动作方向倒置",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-21",
+          "title": "R-II3-21 — 条件否定倒置／误词",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-22",
+          "title": "R-II3-22 — 漏译／人物关系",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-23",
+          "title": "R-II3-23 — 无据增补／声形",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-24",
+          "title": "R-II3-24 — 误词",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-25",
+          "title": "R-II3-25 — 动作／因果倒置",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-26",
+          "title": "R-II3-26 — 计量／出处",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II3-27",
+          "title": "R-II3-27 — 覆盖声明／验收",
+          "blocks_integration": true
+        }
+      ]
+    },
+    {
+      "chapter": "II.4",
+      "input_path": "reports/reviews/inputs/gemini-book-II-2026-11-03/manuscript/chapters/II-4.json",
+      "input_sha256": "84a484bcc01b3658663bad69dc0036dbf4c5cafd6284bad5fa89f9e48625e16b",
+      "report": "reports/reviews/gemini-book-II-2026-11-03/II-4.semantic.r0.md",
+      "report_sha256": "84119f1b859e6ac32e1388076dddd4570669f1593fdcc24b8a3daf734dd7ec98",
+      "decision": "needs_revision",
+      "segments": 4,
+      "project_notes": 24,
+      "issues": [
+        {
+          "id": "R-II4-01",
+          "title": "R-II4-01 / P1",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-02",
+          "title": "R-II4-02 / P1",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-03",
+          "title": "R-II4-03 / P1",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-04",
+          "title": "R-II4-04 / P1",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-05",
+          "title": "R-II4-05 / P1",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-06",
+          "title": "R-II4-06 / P2",
+          "blocks_integration": true
+        },
+        {
+          "id": "R-II4-07",
+          "title": "R-II4-07 / P2",
+          "blocks_integration": true
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "chapters": 4,
+    "segments": 37,
+    "project_notes": 222,
+    "review_items": 74
+  },
+  "limits": [
+    "不是人工审校，不改reviewers或coverage。",
+    "74项为审查意见，含重叠问题、出处补证与非阻断分歧，不等于74个独立坐实错误。",
+    "外部文献仅定点核查，非222注全量外核；未对照中日译本原页或初版扫描。"
+  ],
+  "artifacts": {
+    "source-comparison.json": {
+      "sha256": "68a43310f1ed5cbd58e04c76e659ad3a608aea78a60ac9b82edb3292c3664c8a"
+    },
+    "evidence.json": {
+      "sha256": "3a4b5137b172811c46f7ff14457660ee4a6b89d1238d947e2a8478a7a9d702a5"
+    },
+    "retrieval.json": {
+      "sha256": "33d1c6b79184b2184a191d04d9408b725d8d0927fd38fa7e6aa94e6ccb49701b"
+    },
+    "validation.json": {
+      "sha256": "65f4bd4ef47f1bba0675d43d78a641d663cad9af494d184817cad5ab181f8be2"
+    }
+  }
+}

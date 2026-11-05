@@ -1,0 +1,250 @@
+{
+  "fw-ii4-383-01": [
+    {
+      "id": "ii4-three-quarks",
+      "lemma": "Three quarks",
+      "text": "原文以三声 quarks 呼马克，随后群鸟齐唱，故正文保留鸟叫与欢呼的声音。德语凝乳与盖尔曼命名粒子的历史关系未外核，不作本文语义依据。",
+      "certainty": "uncertain",
+      "kind": "wordplay",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-wreneagle",
+      "lemma": "Wreneagle Almighty",
+      "text": "字形可辨 wren 与 eagle，又接 Almighty，正文试合鹪鹰与全能呼告。鹪鹩藏鹰背的民间故事未外核，暂不详述。",
+      "certainty": "uncertain",
+      "kind": "wordplay",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-arrah-na-pogue",
+      "lemma": "Arrah-na-pogue",
+      "text": "原文把标题与 Dion Boucicault、亲吻并列。剧作年份、剧情与爱尔兰语 póg 释义待外证，不以原著见证代替戏剧史。",
+      "certainty": "uncertain",
+      "kind": "allusion",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-four-waves",
+      "lemma": "four maaster waves of Erin",
+      "text": "原文明确将四位倾听者写成 four maaster waves of Erin，并列四名。古爱尔兰守护巨浪的具体传说及福音书对应待外核。",
+      "certainty": "uncertain",
+      "kind": "allusion",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-miracle-squeer",
+      "lemma": "Miracle Squeer",
+      "text": "可按字面试读奇迹广场。Merrion Square 与狄更斯 Squeers 双指未外核，不把声音近似当已证地名或人物。",
+      "certainty": "uncertain",
+      "kind": "wordplay",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-dion-boucicault",
+      "lemma": "Dion Boucicault",
+      "text": "原文列此人名，紧接 Arrah-na-pogue。生卒年、出生地与戏剧史地位待核，撤回无外证的传记说明。",
+      "certainty": "uncertain",
+      "kind": "culture",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii4-387-01": [
+    {
+      "id": "ii4-kram-llawnroc",
+      "lemma": "Kram of Llawnroc",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Kram 可倒读 Mark，Llawnroc 可倒读 Cornwall，字母关系可直接核算。亚瑟传奇与背叛的确定寓意仍待研究。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-natsirt",
+      "lemma": "natsirt",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "natsirt 倒写成 Tristan，可由字母逐项核算，与前句反写的名字相应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-curragh",
+      "lemma": "Curragh",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此地名承接上段赛马、军队与拍卖长列。基尔代尔地理、军营及赛马史未外核，正文先保留拟音。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-strathlyffe",
+      "lemma": "Strathlyffe",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "词尾近 Liffey，词首近 Strath。与 Strathclyde 的确切嵌合待地名资料或具名研究，不径改成另一地名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-momonian",
+      "lemma": "Momonian",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此词修饰昔日岁月，后文各省名可互照。芒斯特拉丁旧称及马库斯代表南方的说法待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-cornyngwham",
+      "lemma": "Cornyngwham",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文称他为城堡退休官员，随后写溺亡。Cunningham 确指及《都柏林人》《尤利西斯》跨作关系待另核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii4-391-01": [
+    {
+      "id": "ii4-erminia-reginia",
+      "lemma": "Erminia Reginia",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "字形可听 ermine、Erin 与 regina。具体人物是否伊索尔德尚待研究，正文只留王后式呼告。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-clan-dougals",
+      "lemma": "clan of the Dougals",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文明列道格尔族，并称 poor Scuitsman。四老与爱尔兰方向省份的对应待证，不并称康诺特与北方已定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-marcus-bowandcoat",
+      "lemma": "Marcus Bowandcoat",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "名中 bow、coat 字形可见，正文保留马库斯与躬身衣装语感。与芒斯特省的确定对应待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-matt-emeritus",
+      "lemma": "Matt Emeritus",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "emeritus 可按退职名誉者试读，原文另列教会学衔。阿尔斯特及北方代表身分待核，不先锁定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-gordon-heighland",
+      "lemma": "Gordon Heighland",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "字形近 Gordon Highland，邻近有受难与军事语气。苏格兰步兵团的确切对应与方言词源未外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-andrew-martin-cunningham",
+      "lemma": "Andrew Martin Cunningham",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文列复合人名并说可怜。与 Martin Cunningham、《尤利西斯》送葬群体的对应未外核，不当人物同一性证明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii4-395-01": [
+    {
+      "id": "ii4-abstrew-adim",
+      "lemma": "abstrew adim",
+      "text": "字形可听抽象与 Adam 的近音，周围明确谈自我与大我。希伯来语源及创世之人对应待核，不把乳清写成已证创世场景。",
+      "certainty": "uncertain",
+      "kind": "wordplay",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-lakes-of-coma",
+      "lemma": "lakes of Coma",
+      "text": "Coma 与 narcolepts 并列，昏睡语感明确；Lake Como 的具体地理对应未外核，暂留湖与昏迷的试读。",
+      "certainty": "uncertain",
+      "kind": "wordplay",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-queeleetlecree",
+      "lemma": "queeleetlecree",
+      "text": "原文让姑娘发出这串叫声，紧接 joysis crisis。可确认尖叫与欢乐危机关头；法语 couic、cri de joie 的复合词源待核。",
+      "certainty": "uncertain",
+      "kind": "sound",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-senchus-mor",
+      "lemma": "Senchus Mor",
+      "text": "原文把此名同旧抄本、除夕、诵读列在一起。法典名称、编纂史及 Brehon 法的具体地位待外证，正文暂保留书名试译。",
+      "certainty": "uncertain",
+      "kind": "allusion",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-lambeg-drum",
+      "lemma": "Lambeg drum",
+      "text": "原文以四组近音并排鼓、簧管、风笛、铜号。Lambeg 鼓的尺寸、宗派游行用途与军鼓分类未外核，暂撤历史细节。",
+      "certainty": "uncertain",
+      "kind": "culture",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-cross-of-cong",
+      "lemma": "cross of Cong",
+      "text": "原文确用此物名起誓。十字架年代、木材金属、订制者与圣物用途均须馆藏或史料证据，本轮未核，不保留材质断言。",
+      "certainty": "uncertain",
+      "kind": "allusion",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

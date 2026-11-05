@@ -1,0 +1,531 @@
+{
+  "date": "2026-11-05",
+  "result": "needs_revision",
+  "status_counts": {
+    "resolved_local": 25,
+    "partial": 24,
+    "open": 22,
+    "deferred": 1,
+    "restored_pending_review": 2
+  },
+  "items": [
+    {
+      "id": "R-II1-01",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "十二名已删，改成一月成束。"
+    },
+    {
+      "id": "R-II1-02",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "星期二改星期日；整个人名双关未外核。"
+    },
+    {
+      "id": "R-II1-03",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "热内卢已删，改格兰德河；具体河流仍未定，宜保留Rio Grande。"
+    },
+    {
+      "id": "R-II1-04",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补回沉没动作。"
+    },
+    {
+      "id": "R-II1-05",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补回yours/ours对举。"
+    },
+    {
+      "id": "R-II1-06",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复六个十三，不凭此判实有人数。"
+    },
+    {
+      "id": "R-II1-07",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "删强配色号；所谓A—Z完整序列未核，原串并非逐字母齐全。"
+    },
+    {
+      "id": "R-II1-08",
+      "chapter": "II-1",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "把grandson改成四重玄孙，仍错代际；祖母也误用曾祖母。"
+    },
+    {
+      "id": "R-II1-09",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "I/O/U仍只留汉字对应，thou/千的声形层未补。"
+    },
+    {
+      "id": "R-II1-10",
+      "chapter": "II-1",
+      "status": "deferred",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "herblord人物映射未有独立证据，不裁唯一身份。"
+    },
+    {
+      "id": "R-II1-11",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复32与纪年前后层；不宣称已穷尽句法。"
+    },
+    {
+      "id": "R-II1-12",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "未再直写女地质学家。"
+    },
+    {
+      "id": "R-II1-13",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "片刻改成到时/一小时内；in an hour时间层尚待定稿。"
+    },
+    {
+      "id": "R-II1-14",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补入不作杀戮。"
+    },
+    {
+      "id": "R-II1-15",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "四城学艺、携宝已改；仍只列原著，省份/四老对应未举证。"
+    },
+    {
+      "id": "R-II1-16",
+      "chapter": "II-1",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "撤温泉基本释义，但并无温泉含义排除过强，仍须限定。"
+    },
+    {
+      "id": "R-II1-17",
+      "chapter": "II-1",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "外部事实仍只引原著；祷文中文基督与英文Lord内部不合。"
+    },
+    {
+      "id": "R-II1-18",
+      "chapter": "II-1",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "海湾仅留前段一次；未据此坐实都柏林地名。"
+    },
+    {
+      "id": "R-II2-01",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "已分正文/旁注/原注，仍大面积重分类、替写与重复。"
+    },
+    {
+      "id": "R-II2-02",
+      "chapter": "II-2",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "删除胸膛中枪、倒地及都柏林湾补景。"
+    },
+    {
+      "id": "R-II2-03",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补编号，但261注1和地址串仍与源文不符；262正文改成另一故事。"
+    },
+    {
+      "id": "R-II2-04",
+      "chapter": "II-2",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复400与63。"
+    },
+    {
+      "id": "R-II2-05",
+      "chapter": "II-2",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "叔父改教父。"
+    },
+    {
+      "id": "R-II2-06",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "270注有文但与正文重复；原作注层与正文层尚未可靠分开。"
+    },
+    {
+      "id": "R-II2-07",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补若干旁注名目，但273—275正文及原注仍需按页复原。"
+    },
+    {
+      "id": "R-II2-08",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "276、278补称谓与信件旁注，伴有旁注重复进正文。"
+    },
+    {
+      "id": "R-II2-09",
+      "chapter": "II-2",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "281法文整段与282正文未充分转达，不能用补旁注算完成。"
+    },
+    {
+      "id": "R-II2-10",
+      "chapter": "II-2",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "原无依据算式换成12+28+40+20，20仍无证据；283整页正文另有漏失。"
+    },
+    {
+      "id": "R-II2-11",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "注中已纠正盖尔语属印欧；正文仍有唯一纯正之道的无据定说。"
+    },
+    {
+      "id": "R-II2-12",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "290长段补回；289、291、292仍替写，原注亦不符。"
+    },
+    {
+      "id": "R-II2-13",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "标λ与P，但295正文大片消失，296连线不应独断L—π。"
+    },
+    {
+      "id": "R-II2-14",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "交代字串差异；塞克语规范说法仍无词典/语法出处。"
+    },
+    {
+      "id": "R-II2-15",
+      "chapter": "II-2",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "Prometheus旁注已从肚脐空间句分开。"
+    },
+    {
+      "id": "R-II2-16",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补Ensouling旁注，撤十八世纪断言；302余下正文仍大量缺失。"
+    },
+    {
+      "id": "R-II2-17",
+      "chapter": "II-2",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "更为遗憾改为倒也不甚可惜。"
+    },
+    {
+      "id": "R-II2-18",
+      "chapter": "II-2",
+      "status": "restored_pending_review",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "305补回陋室重复、命令、巡礼等；本轮未重新穷核每个混词。"
+    },
+    {
+      "id": "R-II2-19",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "303移出旁注，306—307恢复穿插；仍须对每个旁注锚与脚注核映射。"
+    },
+    {
+      "id": "R-II2-20",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "304—307补若干原注；265、281、294、296等处仍误把正文摘要充作原注。"
+    },
+    {
+      "id": "R-II2-21",
+      "chapter": "II-2",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "Latin等外部词义仍只引原著；新增算式也未得证。"
+    },
+    {
+      "id": "R-II2-22",
+      "chapter": "II-2",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补souci忧虑层；jake/jack先后与正文中文顺序、人物对应仍未可靠交代。"
+    },
+    {
+      "id": "R-II3-01",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "收音机系统清单仍缺；地下管道输酒与电讯仍在。"
+    },
+    {
+      "id": "R-II3-02",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "希伯来改希伯尼亚；但新句重复盎格鲁—诺斯，另须清理。"
+    },
+    {
+      "id": "R-II3-03",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "拔湖塞仍改喝马奶酒。"
+    },
+    {
+      "id": "R-II3-04",
+      "chapter": "II-3",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补鞋匠/织工等，却删白镴匠、彩纸工、教区文书；整串仍不齐。"
+    },
+    {
+      "id": "R-II3-05",
+      "chapter": "II-3",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "加脚手架/踢空提要，但周围计价与证词问答仍不全。"
+    },
+    {
+      "id": "R-II3-06",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "裤子、烘房、山羊问答仍缺。"
+    },
+    {
+      "id": "R-II3-07",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "he仍作主妇/她。"
+    },
+    {
+      "id": "R-II3-08",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "干酪/墙缝改整幅全景画卷。"
+    },
+    {
+      "id": "R-II3-09",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "天气/新闻/广告串仍缩作流言鸟兆。"
+    },
+    {
+      "id": "R-II3-10",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "诅咒仍作受福。"
+    },
+    {
+      "id": "R-II3-11",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "叩门问答与Tim Tommy警告仍让位于新婚密室补景。"
+    },
+    {
+      "id": "R-II3-12",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "地貌/聚落长清单仍缺。"
+    },
+    {
+      "id": "R-II3-13",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "删巴特/塔夫登台预告，恢复三短句。"
+    },
+    {
+      "id": "R-II3-14",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复三十二，十一。"
+    },
+    {
+      "id": "R-II3-15",
+      "chapter": "II-3",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "撤十九世纪法国具体剧名断言；仍拟杂耍戏名，未有原页。"
+    },
+    {
+      "id": "R-II3-16",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "三马名字仍全缺。"
+    },
+    {
+      "id": "R-II3-17",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复1132。"
+    },
+    {
+      "id": "R-II3-18",
+      "chapter": "II-3",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "下士改列兵；狗腿军衔条仍是未证解释，宜注而不定说。"
+    },
+    {
+      "id": "R-II3-19",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "多重条件比较仍压成并不比往昔更好。"
+    },
+    {
+      "id": "R-II3-20",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复从馅饼捞出。"
+    },
+    {
+      "id": "R-II3-21",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复无罪条件，撤酸黄瓜。"
+    },
+    {
+      "id": "R-II3-22",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补妻子后来成为侄女。"
+    },
+    {
+      "id": "R-II3-23",
+      "chapter": "II-3",
+      "status": "partial",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "撤七重风暴；斜杠与括注暂存候选，不是成熟定稿。"
+    },
+    {
+      "id": "R-II3-24",
+      "chapter": "II-3",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "恢复小麦。"
+    },
+    {
+      "id": "R-II3-25",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "仍骑马步行、循母马踪迹；因果关系未改。"
+    },
+    {
+      "id": "R-II3-26",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "naggin仍擅作夸脱。"
+    },
+    {
+      "id": "R-II3-27",
+      "chapter": "II-3",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "coverage_review称全部27项已改，与现稿残留直接冲突。"
+    },
+    {
+      "id": "R-II4-01",
+      "chapter": "II-4",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "开篇鸟歌恢复找衬衫/裤子、挣钱名声。"
+    },
+    {
+      "id": "R-II4-02",
+      "chapter": "II-4",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "臀部/刷鞋/母亲等仍让位于旧日过犯/巡城补景。"
+    },
+    {
+      "id": "R-II4-03",
+      "chapter": "II-4",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "瘟疫、克隆塔夫、金发拥吻等长篇增写仍在。"
+    },
+    {
+      "id": "R-II4-04",
+      "chapter": "II-4",
+      "status": "restored_pending_review",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补清痰到reunited并连下一段selfdom；尚不等于两段全审通过。"
+    },
+    {
+      "id": "R-II4-05",
+      "chapter": "II-4",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "四Kill名称及1132/1169/bis括语仍缺。"
+    },
+    {
+      "id": "R-II4-06",
+      "chapter": "II-4",
+      "status": "open",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "实际aleven thirty-two仍作1132年；另在前文洪水纪年处误插时刻。"
+    },
+    {
+      "id": "R-II4-07",
+      "chapter": "II-4",
+      "status": "resolved_local",
+      "scope": "旧报告问题定点复核；非全章重新逐句审定",
+      "disposition": "补一码、132与罗马天主教双臂；计量全部双关未外核。"
+    }
+  ]
+}

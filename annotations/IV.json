@@ -1,8 +1,525 @@
 {
+  "fw-iv-593-01": [
+    {
+      "id": "fw-iv-593-01-n01",
+      "lemma": "Sandhyas! Sandhyas! Sandhyas!",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原稿拟将Sandhyas连读为saṃdhyā，取晨昏交替及祈愿之意。本轮只核三次呼号与后续拂晓词群；确切梵语词形及仪轨尚未查证，不据此断言梦境已终结。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n02",
+      "lemma": "Calling all downs. Calling all downs to dayne. Array! Surrection!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本项目在downs、dayne、Surrection之间听群丘、羽绒、落下、Dane/dawn及起身、复起等回声。正文取唤醒群丘一路，其他声音仍有损失，不独指现实地名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n03",
+      "lemma": "Eireweeker to the wohld bludyn world",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）谐音‘爱尔兰苏醒者’（Eire-waker），面向整座血红初升的血气世界（whole bloody world）宣告苏醒。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n04",
+      "lemma": "Pu Nuseht",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Pu Nuseht、Nuahs、Mehs 倒读，可分别听出 the sun up、Shaun、Shem。本项目将其视作日出与人物名号的倒写游戏；这里不把 Pu Nuseht 当作已核实的古埃及神名。Defmut 的神名或 deaf-mute 联想尚待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n05",
+      "lemma": "Vah! Suvarn Sur!",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本项目暂取金阳、欢呼等读路，与下文天空、火与日出的词群连读。Suvarn Sur、Vah 的确切语种、词形与语法尚未核准，不将拟读写成规范梵语释义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n06",
+      "lemma": "Svap",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文在雄鸡叫声后写 Svap，紧接 slap、sap。本项目暂保留睡息与拍击的声音回响。撤回旧注不存在于本段的 Svapnasvap. Sws.，不再据此断言《奥义书》的意识诸态。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-593-01-n07",
+      "lemma": "Loughlin's Salts",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Salts 与下文 make a newman 连读，可拟出矿盐药物及成为新人的双关。具体商品、通便用途与 Newman 人物指认尚缺外证，不作事实定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-597-01": [
+    {
+      "id": "fw-iv-597-01-n01",
+      "lemma": "Lamfadar’s arm",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原稿把此名连到长臂卢格。本轮只确认名字与arm连写；确切神名、太阳神身份及第一缕阳光的指认尚无外证，不把它们列为见证本已证事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-597-01-n02",
+      "lemma": "systomy dystomy",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "本项目拟将此音串与 systole、diastole（收缩、舒张）连读，兼听 systomy/dystomy 的相对节奏；不把改词当作规范医学术语，也不限定为心房。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-597-01-n03",
+      "lemma": "snakked mid a fish",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "snakked 可拟挪威语交谈与英语 snack。原文只说 a fish，不直接命名鲑鱼；芬恩与智慧鲑鱼的联系留作待核典故，不据此把鱼种写入正文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-597-01-n04",
+      "lemma": "Nuctumbulumbumus wanderwards",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融夜行游荡（noctambulous）与含混咕哝（bumble），写夜游者在黑夜残影中摸索醒转。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-597-01-n05",
+      "lemma": "Molly Vardant",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Molly Vardant可使人联想到Dolly Varden等名号及verdant的绿意；本轮未核狄更斯原页，不把此名径改多莉，也不确定它在此等同安娜。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-597-01-n06",
+      "lemma": "Milenesia waits. Be smark.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Milenesia 可连读地名及千年等声音；smark 可听出 smart、mark 或 spark。本项目暂保留混词音形，具体地域、族群或帝国指认尚缺证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-602-01": [
+    {
+      "id": "fw-iv-602-01-n01",
+      "lemma": "Kevin... Glendalough",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文把Kevin、Glendalough及退隐、湖中套岛的浴盆祭坛连写。本轮只按此核行程、时辰与圣秩称谓；撤未经外证的生卒年、地名词源及濯足传说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-602-01-n02",
+      "lemma": "Ciwareke, may he live for river!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）化作市民尊号 Ciwareke，将常青祝颂‘万岁’（live for ever）化为‘随河永流’（live for river），紧扣利菲河贯通全书的水脉主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-602-01-n03",
+      "lemma": "lust in Wooming",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Wooming可听wooing，也可能牵入其他名号；本轮未核外语词源。旧注Kathleen并不出现于本段，亦无证据支持在此叙述圣者推女子入潭，故撤该故事。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-602-01-n04",
+      "lemma": "Nelly Nettle",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "荨麻（nettle）与苦修笞楚，以抚平野刺喻节欲克己的修道意志。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-602-01-n05",
+      "lemma": "in the concentric centre of the translated water",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "本段依次套入湖、湖心岛、岛内湖与湖内小岛，再以掘穴、七次搬水、盆坛水位构成同心层次。并未明说独木舟状石池，也未写水波从体温扩展至外洋。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-602-01-n06",
+      "lemma": "perpetually chaste",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "此语修饰holy sister water。凯文对水行驱邪礼，令水注到盆坛半高；不把这一步改成驱走水。末句谈施水洗礼与全人类再生，未独断夜间丑闻已洗净。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-607-01": [
+    {
+      "id": "fw-iv-607-01-n01",
+      "lemma": "Missas in Massas... Marino",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文相邻摆出Missas、Massas与Marino，容许弥撒、群聚及名字的叠读。关于现实地方史或异教与基督教初逢，本轮未核，不作断言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-607-01-n02",
+      "lemma": "Balkelly... Bilkilly-Belkelly",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此处同一德鲁伊名号多次变形，与Patholic对话并论颜色、反射及物自体。或使人联想到贝克莱和帕特里克；本轮未核哲学原著或具名研究，不把人物直接等同，也不附未核生卒年与教职。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-607-01-n03",
+      "lemma": "Weisingchetaoli",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本项目暂把声音听作“为生之道理”，也保留其他切分可能；未核语言来源。即使拟作汉语日常短语，也不能据此升级为道家与西方经验主义的确定对峙。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-607-01-n04",
+      "lemma": "Ut vivat volumen sic pereat pouradosus!",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "正文暂取书卷存、天堂逝一路。volumen与pouradosus的切分、语气及“天堂”是否为确切所指尚未核准，不把拟拉丁语当成已查明的规范引文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-607-01-n05",
+      "lemma": "Heliotrope",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此名在赛马般短讯中领跑Harem。本轮暂保花名与色彩联想；未重核第二卷谜题或作者意图，不用本条断言七色在三叶草中合一。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-607-01-n06",
+      "lemma": "boiled spinasses",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "色彩论辩在此把藏红花短裙写成煮菠菜色，句子还接往下一段。原文字面支持颜色的突转；不据此宣布某方已胜，或将短裙另归一位身侧同侪。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-612-01": [
+    {
+      "id": "fw-iv-612-01-n01",
+      "lemma": "four three two agreement",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文保留four、three、two的逆序。本轮补回译文漏掉的four。旧词目Rory! Rory! Eureka!不在本段，所附人名史实与破晓语源均撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-612-01-n02",
+      "lemma": "Good safe firelamp!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "向阳者以此欢呼火灯，紧接Goldselforelump等变形音串。太阳、灯与歌呼可互相叠听，不能据此指认都柏林某处现实安全灯。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-612-01-n03",
+      "lemma": "Owned or grazeheifer",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文在配偶选择、所有权与牲畜语汇之间转换。grazeheifer可听放牧母牛；确切所指未解。旧词目Biddy Doran不在本段，不能据同段纸上母鸡便补成毕蒂刨信的既成剧情。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-612-01-n04",
+      "lemma": "letter from litter",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "letter与litter只差一字母，正文保留“从废物到信”的叠读。这里允许文献从残余中重组的解释，不把它断成全书唯一辩证法。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-612-01-n05",
+      "lemma": "type by tope",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "type与tope相邻，正文保留按字重排的节奏。tope究竟叠进佛塔、地名或别义，尚无外证；不把不同语言词源串作定论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-612-01-n06",
+      "lemma": "forget him their trespasses",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "forget取代祈祷句中常见的forgive，是本项目拟读；此句跨接下一段against Molloyd O’Reilly。译文保遗忘/宽免的回响，不先把他、他们与被指控者化作单一人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-616-01": [
+    {
+      "id": "fw-iv-616-01-n01",
+      "lemma": "Molloyd O’Reilly",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "名字接在前段trespasses之后，并连着蜷卧、起身与Coolock。关于现实民谣人物或作者的同名指认，本轮未核，暂保音译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-616-01-n02",
+      "lemma": "Stores Humphreys",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文以Mrs、Mr及Stores Humphreys作对话称谓。正文保汉弗莱斯夫妇；仓栈、货物及人名可叠读，不把它当现实敬称定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-616-01-n03",
+      "lemma": "Levia",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "本段实际写Levia，旧词目Leviathan不在原文。也许可联到大兽名号，但尚无外证；正文保利维亚，不添海怪丈夫身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-616-01-n04",
+      "lemma": "Swees Aubumn",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原稿将此声形连到Sweet Auburn及哥德史密斯《荒村》。本轮未核诗页，故只保可能回声，不借此叙述晨光村庄为已证实背景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-616-01-n05",
+      "lemma": "felicious coolpose",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本项目拟听felicitous/felix、cool pose及其他潜在音层。正文暂取美妙清凉之姿；不据此断言夫妻已经圆满和解。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-616-01-n06",
+      "lemma": "iverol and everthelest your / umbr",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前段以your悬住，下段才接umbr，衣物递送尚未完。正文保外套与伞的接缝；overall、ever与其他变形的多层声音仍未尽译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-620-01": [
+    {
+      "id": "fw-iv-620-01-n01",
+      "lemma": "umbr. And stand up tall!",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "umbr承前段悬置的your，正文暂接成“雨伞”。独白早在Soft morning, city!处已响起，不把此句另称全段第一声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-620-01-n02",
+      "lemma": "dirty clothes to publish",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "脏衣与公开发表并置，容许家丑外扬的读法。原文不因此证明衣物已经洗毕，或四老已经失去窥探能力。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-620-01-n03",
+      "lemma": "them four old windbags",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "四位老风袋在此可与四老相叠读；叙述者说不带灯，免得他们吹。这是她的决定，不是四老从此不能审判的既成结局。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-620-01-n04",
+      "lemma": "falskin begins. Smoos as",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "刚说脱去手套、手热且有毛，随后写falskin与如婴儿般光滑。此词可叠听false skin与foreskin，正文留假皮、包皮两层；撤“前额发线”，原文并未将触摸部位限定为额头。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-620-01-n05",
+      "lemma": "Every letter is a hard",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "letter可指字母或信。本段连着写、拼补、交付与寄送，正文暂保写信艰难一路；不能据此给全部信函确定收件人与用途。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-620-01-n06",
+      "lemma": "eat the crushts of lobsters",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "原文称对方能吃龙虾硬壳，正文保夸张动作。它不独自证明现实都柏林宴席或潮水冲刷史，不把比喻解释当事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-iv-625-01": [
+    {
+      "id": "fw-iv-625-01-n01",
+      "lemma": "Marienne Sherry",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "本项目保Marienne、酒名般的Sherry与误认语气。确切人物和酒名如何叠合尚未查外证；未将虚构名字认作现实女郎。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n02",
+      "lemma": "Londub",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融伦敦（London）与都柏林（爱尔兰语 Dubhlinn 黑池），利菲河出海口面向爱尔兰海与对岸英伦。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n03",
+      "lemma": "cold mad father",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "冰冷父亲与海量、盐、浪及回返相邻，本项目读作河水归海的父亲形象。不能据此径定外洋名称或声称地理全貌已经核实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n04",
+      "lemma": "Avelaval",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "告别（拉丁文 ave / vale）与流水淘洗（lave / avalanche），树叶顺流漂尽，象征生命衰朽随波消逝。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n05",
+      "lemma": "Whish! A gull. Gulls. Far calls.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "单只海鸥转为群鸥，呼声渐远，短句与气音相接。正文保此声序；海潮吞没与重归母体只是解释，不是新增情节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n06",
+      "lemma": "Bussoftlhee, mememormee! Till thousendsthee.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "本项目听buss、soft、remember me、thousand等回声，取轻吻与记忆一路。thousendsthee的词界与告别对象仍有歧义；希腊记忆女神及死亡语源未查，不列定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "fw-iv-625-01-n07",
+      "lemma": "Lps. The keys to. Given!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Lps可听lips；The keys to.把to的承接悬住，随后骤写Given!。本轮不把交付者或受领者确定为母女，也不称此处全书已经结束；它紧接A way片段。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
   "fw-iv-628-15": [
     {
       "id": "iv-fragment",
       "lemma": "A way a lone a last a loved a long the",
+      "page_col_line": "628.15",
       "kind": "structure",
       "certainty": "supported",
       "text": "原著末尾留在 the，没有句号。此处也不补句号；读罢可跳回 003.01。页行定位只覆盖末尾片段，不代表本段独白完整译出。",
@@ -13,6 +530,7 @@
     {
       "id": "iv-spacing",
       "lemma": "A way / a lone / a long",
+      "page_col_line": "628.15",
       "kind": "wordplay",
       "certainty": "proposal",
       "text": "拆开的词群可听成 away、alone、along。试译保留短促分节，以“一路／独行／长长沿着”承接离去、孤独与延续，英语 a 音反复仍有损失。",
@@ -23,9 +541,10 @@
     {
       "id": "iv-loved",
       "lemma": "a last / a loved",
+      "page_col_line": "628.15",
       "kind": "translation",
       "certainty": "uncertain",
-      "text": "试译暂作“终了／爱过”，保留告别语气。a loved 亦可读成“所爱”；这里的词性与说话对象仍有歧义，待联系末章全文审校。",
+      "text": "正文暂作“终了／爱过”，保留告别语气。a loved也可读“所爱”；全章连读后，本轮仍不消除此词性与对象歧义。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -33,12 +552,35 @@
     {
       "id": "iv-loop",
       "lemma": "the → riverrun",
+      "page_col_line": "628.16",
       "kind": "structure",
       "certainty": "proposal",
       "text": "将“长长沿着”与首句“河水流”接读，可听见水势续行。中文接缝尚显生硬，留作两处联动修订；不得单独把末尾补成完整句。",
       "source_ids": [
         "joyce-fp",
         "jjda-i1"
+      ]
+    },
+    {
+      "id": "iv-awaya",
+      "lemma": "A way a lone",
+      "page_col_line": "628.15",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拆写的A way a lone可连听away、alone。正文保离去与独行；未查《青年艺术家的画像》末页，不据此断言跨作品主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "iv-the-article",
+      "lemma": "the",
+      "page_col_line": "628.16",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "全书在the处停住，无末尾句号；与开篇小写riverrun接读，未完语法得以续行。本轮已联读原文两处；维柯理论属于解释，不能仅由此接缝证明。",
+      "source_ids": [
+        "joyce-fp"
       ]
     }
   ]

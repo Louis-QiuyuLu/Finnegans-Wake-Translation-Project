@@ -1,0 +1,1605 @@
+[
+  {
+    "segment_id": "fw-iv-593-01",
+    "old": "度过摩西蜷缩温罐之夜",
+    "new": "度过让梅斯蜷缩温罐之夜",
+    "reason": "Mehs倒写Shem，不能确定为摩西；保留父任务倒写注"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "old": "痛风消散！饮下洛夫林矿盐，任谁倦怠不堪，也立刻脱胎换骨。",
+    "new": "尝尝！洛夫林矿盐，威尔，能让任何旧人换新。",
+    "reason": "Goute不当已治愈痛风；末句广告语保原名及条件，不添立刻药效"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "old": "何以如此？言谈终有止境，恰如尸身苏生经所载",
+    "new": "何以如此？言谈各有停驻，沙瓦桑吉瓦纳为证",
+    "reason": "Shavarsanjivana未核书名，不把名字当尸身苏生经"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "old": "极宜供慌乱的人群所需；，",
+    "new": "极宜供慌乱的人群所需；",
+    "reason": "去重复标点，保父任务补译"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "old": "其娇媚的多莉·瓦登",
+    "new": "其俏丽的莫莉·瓦丹特",
+    "reason": "Molly Vardant不擅改Dolly Varden；典故待核"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "old": "其面容若肖其子",
+    "new": "他的脸是一张儿子的脸",
+    "reason": "a son不能擅定其子"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "old": "直抵极顶湖心之岛；拂晓清晨，凯文凭博学明澈行抵水流环绕之腹心，湖心泛岛，岛复生湖，登临沙洲，以副执事浴盆架设祭坛，敷以至圣香膏，伴以祈祷，圣凯文驻守直至晨曦三刻",
+    "new": "直抵极顶湖心岛，湖面成为它离心延展的领土；晨一时，凯文凭博学明澈行抵水流环绕的圆心，伊什加菲纳与伊什加菲尤纳之间：岛内小湖，湖中小岛。他在那里把木筏停岸，让副执事浴盆伴在祭坛旁，敷以至圣香膏，伴以祈祷，圣凯文驻守直至晨三时",
+    "reason": "补Yshgafiena/Yshgafiuna与湖岛再嵌套，canonical hours不译分钟；bath propter altar不改浴盆架祭坛"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "old": "正午六刻东向长跪七巡",
+    "new": "午六时七度朝东屈膝",
+    "reason": "sextnoon不是六刻"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "old": "圣凯文驱除圣洁水之姊妹，令其永葆贞洁，盈满半身祭坛浴盆；至圣凯文九度端坐于水波交叠之圆心",
+    "new": "蒙福凯文向永葆贞洁的圣洁水姊妹行驱邪礼，令她明白，应将盆坛注至半高；至福凯文登上第九重座，处在移来水体的同心圆心",
+    "reason": "exorcise water是对水行驱邪，不是驱走水；midheight指容器水位非人半身，ninthly不擅称重复九次"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "old": "手握默想之门钥，发扬潜思，精研哲理",
+    "new": "守默想之门，记忆即席提出，理智依式考察",
+    "reason": "保memory/intellect两种机能而不压成泛称潜思哲理"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "old": "早于腊月十二日之前",
+    "new": "早在第十二之第四以前",
+    "reason": "fourth of twelfth不能误置12月12日，保数序未定的表达"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "old": "朱瓦：何以至尊者唇间浮现机警狡黠之冷笑？",
+    "new": "穆塔：何以至尊者唇间浮现机警狡黠之冷笑？",
+    "reason": "纠正Muta发问者署名"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "old": "宣称世人毫无真知，言辞如醉酒难醒",
+    "new": "他说，不，人的话没有自由，他吞下言辞，明天也醒不回来",
+    "reason": "补speeching/noh man liberty/he drink up words/tomorrow recover否定串，保洋泾浜句法"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "old": "而身侧身着埃塞克斯绿呢法衣之同侪，其藏红花法裙望去竟俨然一锅水煮菠菜！",
+    "new": "再看他那六色家织毛呢服，配套的藏红花短裙，望去同煮菠菜一个颜色，",
+    "reason": "essixcoloured保six不是确定埃塞克斯地名；fellow指配套短裙不凭空添同侪，原句跨段未完"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "old": "三二之契合",
+    "new": "四三二之契合",
+    "reason": "补four three two首数"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "old": "纵是傲慢巴克利亦无从辩驳",
+    "new": "连比尔基利—贝尔凯利—巴尔卡利也一路撞上去",
+    "reason": "原文up-to-putty/put down/name chain不明说无从辩驳，撤单方获胜结论"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "old": "诸般家传产业将永恒哀怨地自洗涤宅邸归返",
+    "new": "诸般家传产业将永恒哀怨地自安诺尼·威什沃什胡兹、奥姆皮埃尔小屋、德鲁姆斯沙丘归返",
+    "reason": "补Annone Wishwashwhose/Ormepierre Lodge/Doone of Drumes洗衣地名串"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "拼凑出四分之三的人形",
+    "new": "拼凑出他们那三——七十五分之——一个人",
+    "reason": "threi sevelty filfths不能静默改3/4；保数词歧形待核"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "在抵达终点前速速订购",
+    "new": "赶在拉格斯拥挤时节到来前速速订购",
+    "reason": "Ruggers Rush不是无名终点，保名词"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "论及《已婚妇女财产法》",
+    "new": "论及《已婚妇女不当财产法》",
+    "reason": "Improperty的失当/非财产不能抹作真实法规名"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "伴着主审法官，在四点三十二分或八点二十二分，协同秘书与圣母修女会",
+    "new": "伴着P.C.Q.，约4.32，或8与22.5，协同季审的主事、书记及玛丽修复者一群",
+    "reason": "不把未解数字擅改精确钟点，保P.C.Q.而不虚构职务"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "难道我们未获优待，当巡警与众人齐齐躬身致意",
+    "new": "说我们没受多大礼遇，可巡警与众人都躬身致意",
+    "reason": "保treated not very grand否定，不用反问消成正面定论"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "当清晨降临，宛若往昔青春，为我日日求欢，稚子依偎",
+    "new": "他会起身，挺立，自信而英勇；一如往昔年轻，在我日日的清新告解里，只消一个小人儿来求爱",
+    "reason": "补get himself up and erect confident heroic主动作，撤无据清晨条件"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "四十重长夜飘落于我之长发",
+    "new": "四十又四十个夜晚，都落在我长发上",
+    "reason": "Folty and folty保两次数字"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "三刻伴琴师，六刻伴欢宴，九刻归长眠",
+    "new": "晨三时给琴师，午六时给欢宴者，午九时给科尔",
+    "reason": "Terce/sext/none时辰与Cole专名，不改分钟及无据长眠"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "坚毅斯托克斯深为你折服",
+    "new": "壮实的斯托克斯会把你摹得入木",
+    "reason": "take you off拟作模仿，不是折服"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "五十七岁零三月，身躯健硕",
+    "new": "五十七加三，呵，鼓鼓囊囊",
+    "reason": "Fiftyseven and three未标岁月，不添年龄月数"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "两兄弟水火不容",
+    "new": "两兄弟，如北与南一般相异",
+    "reason": "different不等于敌对不容"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "弃儿易成逃奴，逃奴化作流寇",
+    "new": "弃儿变出走者，出走而迷路",
+    "reason": "runaways/astray不可擅改奴隶或流寇"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "此处便是前额发线之端绪",
+    "new": "这儿就是那假皮、包皮的开头",
+    "reason": "falskin与手套及smooth相连，不是前额发线，保false skin/foreskin歧义"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "下度竞选你必当选。\n\n言辞入耳，切记于心！",
+    "new": "下回彼得投票时你必当选，否则我就不是你那热心的新娘。金塞拉女人的丈夫绝不能把我压下去。一个麦克加拉思—奥卡拉赫—奥默克—麦克菲尼，绕着号角菲奥恩纳加拉的小屋，吸吸咯咯、扫扫唧唧！这简直像把夜壶摆上碗柜教人羞，或把蒂姆叔的帽子扣在副王鹰额上。步子别这么大，摇头晃脑的！你会踩坏我存了好久钱才买来的羚羊皮鞋。佩尼索尔出品。最好最乖的两只小鞋。几乎还不到克努特的一哩，或七哩，小宝。清晨走走，很有益健康。布阿布阿相伴。周围轻轻动着。慢步悠悠。自助星游疗法也容易。仿佛过去好久，好多世。仿佛你长久身在远方。远去的白日，远去的夜晚，我却在暗中和你相伴。哪天你会告诉我，我能否全信。你知道我带你去哪儿吗？记得吗？当年我追着黑果、山楂去采，你在土丘上张开双臂，用弹弓拿榛子打我。我们的喊声。我能领你去，哪怕还在床上挨着你。咱们平分着去丹麦墓地，好么？除了咱俩，再无一人。时间？手上多得很。直到吉利根与哈利根再来胡闹。还有其余枪炮。苏利根八声，从左到右。哎哟，你这狐狸婆！莫斯科客本想把你保出来。或是野林独角兽主人、纳尔来的巴格利队长，拉着腔到了门口，伴着可敬的惠尔普、尊敬的波因特与塔利霍、巴利亨特斯的两位帕吉特女爵，猎帽紧得像谜，举杯祝他们健壮的东主——雄鹿，永远的卡尔顿雄鹿。递给他那杯总也喝不完的酒时，你可不用带着鸭子与职责出来做东。把这顶智慧扣在头上，把这话塞进耳朵，扭扭虫！",
+    "reason": "补竞选誓言、名讳长串、鞋履步距、旧游、墓地行程、猎队来访与不必做东的连续漏译"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "自希斯敦、港口镇、雪镇、四丘直至德尔文河畔",
+    "new": "自希斯敦、港口镇、雪镇、四丘，经过弗莱明敦、博丁敦，直至德尔文河上的法因渡口",
+    "reason": "补追捕乡镇路径漏项"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "我亦当伏地向天朝三跪九叩",
+    "new": "我便向蒙唐叩首作揖",
+    "reason": "原文homage/kow bow tow不表三跪九叩具体仪制"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "old": "牢记战袍锦带",
+    "new": "记住博姆索马纽，维姆、瓦姆、沃姆，亨格里格。制服、链带、肩章，闹哄哄的锦衣",
+    "reason": "补Bomthomanew...Hungerig名字及附带制服清单"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "old": "纵使恶魔亦难将我们拆散",
+    "new": "纵使死魔真把我们分开",
+    "reason": "though dev do espart肯定发生分离，不可增难而反转"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "old": "双唇。钥匙。已付！",
+    "new": "双唇。通向的钥匙。交付！",
+    "reason": "The keys to保悬置的to，不把交付对象确定成女儿；保紧接未完片段"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n01",
+    "before": {
+      "id": "fw-iv-593-01-n01",
+      "lemma": "Sandhyas! Sandhyas! Sandhyas!",
+      "page_col_line": "593.01",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "梵语 saṃdhyā（三陀夜），指晨昏交替之际的冥思与祷告。第四卷在此以梵文破晓祈愿开篇，标志长夜梦境终结，晨光降临。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n01",
+      "lemma": "Sandhyas! Sandhyas! Sandhyas!",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原稿拟将Sandhyas连读为saṃdhyā，取晨昏交替及祈愿之意。本轮只核三次呼号与后续拂晓词群；确切梵语词形及仪轨尚未查证，不据此断言梦境已终结。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n02",
+    "before": {
+      "id": "fw-iv-593-01-n02",
+      "lemma": "Calling all downs. Calling all downs to dayne. Array! Surrection!",
+      "page_col_line": "593.02",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "呼应都柏林群丘（Downs）、羽绒枕与落魄者，dayne 融汇黎明（dawn）与丹麦人（Dane）；Surrection 融起义（insurrection）与复活（resurrection），唤醒沉睡者。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n02",
+      "lemma": "Calling all downs. Calling all downs to dayne. Array! Surrection!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本项目在downs、dayne、Surrection之间听群丘、羽绒、落下、Dane/dawn及起身、复起等回声。正文取唤醒群丘一路，其他声音仍有损失，不独指现实地名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n03",
+    "before": {
+      "id": "fw-iv-593-01-n03",
+      "lemma": "Eireweeker to the wohld bludyn world",
+      "page_col_line": "593.03",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）谐音‘爱尔兰苏醒者’（Eire-waker），面向整座血红初升的血气世界（whole bloody world）宣告苏醒。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n03",
+      "lemma": "Eireweeker to the wohld bludyn world",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）谐音‘爱尔兰苏醒者’（Eire-waker），面向整座血红初升的血气世界（whole bloody world）宣告苏醒。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n04",
+    "before": {
+      "id": "fw-iv-593-01-n04",
+      "lemma": "Pu Nuseht",
+      "page_col_line": "593.23",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Pu Nuseht、Nuahs、Mehs 倒读，可分别听出 the sun up、Shaun、Shem。本项目将其视作日出与人物名号的倒写游戏；这里不把 Pu Nuseht 当作已核实的古埃及神名。Defmut 的神名或 deaf-mute 联想尚待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n04",
+      "lemma": "Pu Nuseht",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Pu Nuseht、Nuahs、Mehs 倒读，可分别听出 the sun up、Shaun、Shem。本项目将其视作日出与人物名号的倒写游戏；这里不把 Pu Nuseht 当作已核实的古埃及神名。Defmut 的神名或 deaf-mute 联想尚待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n05",
+    "before": {
+      "id": "fw-iv-593-01-n05",
+      "lemma": "Vah! Suvarn Sur!",
+      "page_col_line": "594.01",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本项目暂取金阳、欢呼等读路，与下文天空、火与日出的词群连读。Suvarn Sur、Vah 的确切语种、词形与语法尚未核准，不将拟读写成规范梵语释义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n05",
+      "lemma": "Vah! Suvarn Sur!",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本项目暂取金阳、欢呼等读路，与下文天空、火与日出的词群连读。Suvarn Sur、Vah 的确切语种、词形与语法尚未核准，不将拟读写成规范梵语释义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n06",
+    "before": {
+      "id": "fw-iv-593-01-n06",
+      "lemma": "Svap",
+      "page_col_line": "594.02",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文在雄鸡叫声后写 Svap，紧接 slap、sap。本项目暂保留睡息与拍击的声音回响。撤回旧注不存在于本段的 Svapnasvap. Sws.，不再据此断言《奥义书》的意识诸态。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n06",
+      "lemma": "Svap",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文在雄鸡叫声后写 Svap，紧接 slap、sap。本项目暂保留睡息与拍击的声音回响。撤回旧注不存在于本段的 Svapnasvap. Sws.，不再据此断言《奥义书》的意识诸态。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-593-01",
+    "note_id": "fw-iv-593-01-n07",
+    "before": {
+      "id": "fw-iv-593-01-n07",
+      "lemma": "Loughlin's Salts",
+      "page_col_line": "596.36",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Salts 与下文 make a newman 连读，可拟出矿盐药物及成为新人的双关。具体商品、通便用途与 Newman 人物指认尚缺外证，不作事实定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-593-01-n07",
+      "lemma": "Loughlin's Salts",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Salts 与下文 make a newman 连读，可拟出矿盐药物及成为新人的双关。具体商品、通便用途与 Newman 人物指认尚缺外证，不作事实定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n01",
+    "before": {
+      "id": "fw-iv-597-01-n01",
+      "lemma": "Lamfadar's arm",
+      "page_col_line": "597.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "盖尔神话太阳神卢格·拉姆法达（Lugh Lámhfhada，意为‘长臂卢格’），其神臂伸展化作清晨第一缕阳光。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n01",
+      "lemma": "Lamfadar’s arm",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原稿把此名连到长臂卢格。本轮只确认名字与arm连写；确切神名、太阳神身份及第一缕阳光的指认尚无外证，不把它们列为见证本已证事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n02",
+    "before": {
+      "id": "fw-iv-597-01-n02",
+      "lemma": "systomy dystomy",
+      "page_col_line": "597.21",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "本项目拟将此音串与 systole、diastole（收缩、舒张）连读，兼听 systomy/dystomy 的相对节奏；不把改词当作规范医学术语，也不限定为心房。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n02",
+      "lemma": "systomy dystomy",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "本项目拟将此音串与 systole、diastole（收缩、舒张）连读，兼听 systomy/dystomy 的相对节奏；不把改词当作规范医学术语，也不限定为心房。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n03",
+    "before": {
+      "id": "fw-iv-597-01-n03",
+      "lemma": "snakked mid a fish",
+      "page_col_line": "597.36",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "snakked 可拟挪威语交谈与英语 snack。原文只说 a fish，不直接命名鲑鱼；芬恩与智慧鲑鱼的联系留作待核典故，不据此把鱼种写入正文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n03",
+      "lemma": "snakked mid a fish",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "snakked 可拟挪威语交谈与英语 snack。原文只说 a fish，不直接命名鲑鱼；芬恩与智慧鲑鱼的联系留作待核典故，不据此把鱼种写入正文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n04",
+    "before": {
+      "id": "fw-iv-597-01-n04",
+      "lemma": "Nuctumbulumbumus wanderwards",
+      "page_col_line": "598.05",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融夜行游荡（noctambulous）与含混咕哝（bumble），写夜游者在黑夜残影中摸索醒转。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n04",
+      "lemma": "Nuctumbulumbumus wanderwards",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融夜行游荡（noctambulous）与含混咕哝（bumble），写夜游者在黑夜残影中摸索醒转。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n05",
+    "before": {
+      "id": "fw-iv-597-01-n05",
+      "lemma": "Molly Vardant",
+      "page_col_line": "600.32",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "狄更斯《巴纳比·拉奇》中的多莉·瓦登（Dolly Varden），此处以 Molly 与翠绿（verdant）结合，显露安娜·利维亚在晨雾中的草木生机。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n05",
+      "lemma": "Molly Vardant",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Molly Vardant可使人联想到Dolly Varden等名号及verdant的绿意；本轮未核狄更斯原页，不把此名径改多莉，也不确定它在此等同安娜。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-597-01",
+    "note_id": "fw-iv-597-01-n06",
+    "before": {
+      "id": "fw-iv-597-01-n06",
+      "lemma": "Milenesia waits. Be smark.",
+      "page_col_line": "601.36",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Milenesia 可连读地名及千年等声音；smark 可听出 smart、mark 或 spark。本项目暂保留混词音形，具体地域、族群或帝国指认尚缺证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-597-01-n06",
+      "lemma": "Milenesia waits. Be smark.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Milenesia 可连读地名及千年等声音；smark 可听出 smart、mark 或 spark。本项目暂保留混词音形，具体地域、族群或帝国指认尚缺证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n01",
+    "before": {
+      "id": "fw-iv-602-01-n01",
+      "lemma": "Kevin... Glendalough",
+      "page_col_line": "602.12",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "爱尔兰隐修圣徒凯文（Saint Kevin，约498–618），于威克洛郡格兰达洛（Glendalough，意为两湖之谷）筑室隐修，以弃绝红尘、静水濯足著称。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n01",
+      "lemma": "Kevin... Glendalough",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文把Kevin、Glendalough及退隐、湖中套岛的浴盆祭坛连写。本轮只按此核行程、时辰与圣秩称谓；撤未经外证的生卒年、地名词源及濯足传说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n02",
+    "before": {
+      "id": "fw-iv-602-01-n02",
+      "lemma": "Ciwareke, may he live for river!",
+      "page_col_line": "602.21",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）化作市民尊号 Ciwareke，将常青祝颂‘万岁’（live for ever）化为‘随河永流’（live for river），紧扣利菲河贯通全书的水脉主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n02",
+      "lemma": "Ciwareke, may he live for river!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "耳语客（Earwicker）化作市民尊号 Ciwareke，将常青祝颂‘万岁’（live for ever）化为‘随河永流’（live for river），紧扣利菲河贯通全书的水脉主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n03",
+    "before": {
+      "id": "fw-iv-602-01-n03",
+      "lemma": "Kathleen... lust in Wooming",
+      "page_col_line": "603.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "凯文传奇中爱慕圣者的女子凯瑟琳追至崖穴，圣徒为护贞洁将其推入深潭；Wooming 融求爱（wooing）与子宫（womb）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n03",
+      "lemma": "lust in Wooming",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Wooming可听wooing，也可能牵入其他名号；本轮未核外语词源。旧注Kathleen并不出现于本段，亦无证据支持在此叙述圣者推女子入潭，故撤该故事。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n04",
+    "before": {
+      "id": "fw-iv-602-01-n04",
+      "lemma": "Nelly Nettle",
+      "page_col_line": "604.36",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "荨麻（nettle）与苦修笞楚，以抚平野刺喻节欲克己的修道意志。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n04",
+      "lemma": "Nelly Nettle",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "荨麻（nettle）与苦修笞楚，以抚平野刺喻节欲克己的修道意志。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n05",
+    "before": {
+      "id": "fw-iv-602-01-n05",
+      "lemma": "concentric waters",
+      "page_col_line": "605.15",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "凯文在独木舟状石池中受浸，水波由体温之盆、修院之泉、幽谷双湖逐层扩散至浩瀚外洋，隐喻从个体洗礼升华至普世救赎。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n05",
+      "lemma": "in the concentric centre of the translated water",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "本段依次套入湖、湖心岛、岛内湖与湖内小岛，再以掘穴、七次搬水、盆坛水位构成同心层次。并未明说独木舟状石池，也未写水波从体温扩展至外洋。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-602-01",
+    "note_id": "fw-iv-602-01-n06",
+    "before": {
+      "id": "fw-iv-602-01-n06",
+      "lemma": "perpetually chaste",
+      "page_col_line": "606.01",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "童贞永洁与圣水圣化，在第四卷破晓时分洗净夜间原罪与丑闻秽迹。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-602-01-n06",
+      "lemma": "perpetually chaste",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "此语修饰holy sister water。凯文对水行驱邪礼，令水注到盆坛半高；不把这一步改成驱走水。末句谈施水洗礼与全人类再生，未独断夜间丑闻已洗净。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n01",
+    "before": {
+      "id": "fw-iv-607-01-n01",
+      "lemma": "Missas in Massas... Marino",
+      "page_col_line": "607.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "拉丁文弥撒（Missa）与都柏林北部马里诺（Marino）；借天主教弥撒与都柏林地方历史切入异教与基督教在爱尔兰的初逢。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n01",
+      "lemma": "Missas in Massas... Marino",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文相邻摆出Missas、Massas与Marino，容许弥撒、群聚及名字的叠读。关于现实地方史或异教与基督教初逢，本轮未核，不作断言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n02",
+    "before": {
+      "id": "fw-iv-607-01-n02",
+      "lemma": "Archdruid Balkelly",
+      "page_col_line": "607.25",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "大德鲁伊巴克利即爱尔兰哲学家乔治·贝克莱（George Berkeley，1685–1753，曾任克洛因主教），倡导‘存在即被感知’（esse est percipi）与视觉新论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n02",
+      "lemma": "Balkelly... Bilkilly-Belkelly",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此处同一德鲁伊名号多次变形，与Patholic对话并论颜色、反射及物自体。或使人联想到贝克莱和帕特里克；本轮未核哲学原著或具名研究，不把人物直接等同，也不附未核生卒年与教职。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n03",
+    "before": {
+      "id": "fw-iv-607-01-n03",
+      "lemma": "Weisingchetaoli",
+      "page_col_line": "609.08",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "汉语‘为生之道理’音译，融合东方道家哲思与洋泾浜英语，与西方经验主义认识论形成跨文明对峙。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n03",
+      "lemma": "Weisingchetaoli",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本项目暂把声音听作“为生之道理”，也保留其他切分可能；未核语言来源。即使拟作汉语日常短语，也不能据此升级为道家与西方经验主义的确定对峙。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n04",
+    "before": {
+      "id": "fw-iv-607-01-n04",
+      "lemma": "Ut vivat volumen sic pereat pouradosus!",
+      "page_col_line": "610.14",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "拉丁文套语拟作‘书卷永存，天堂消隐’；以写本的流传对抗虚妄的幻象。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n04",
+      "lemma": "Ut vivat volumen sic pereat pouradosus!",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "正文暂取书卷存、天堂逝一路。volumen与pouradosus的切分、语气及“天堂”是否为确切所指尚未核准，不把拟拉丁语当成已查明的规范引文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n05",
+    "before": {
+      "id": "fw-iv-607-01-n05",
+      "lemma": "Heliotrope",
+      "page_col_line": "610.35",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "向日葵/天芥菜紫，亦为第二卷第一章哑谜谜底；德鲁伊眼中折射的七色光谱最终被帕特里克以三叶草的朴素青绿融为一体。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n05",
+      "lemma": "Heliotrope",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此名在赛马般短讯中领跑Harem。本轮暂保花名与色彩联想；未重核第二卷谜题或作者意图，不用本条断言七色在三叶草中合一。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-607-01",
+    "note_id": "fw-iv-607-01-n06",
+    "before": {
+      "id": "fw-iv-607-01-n06",
+      "lemma": "boiled spinasses",
+      "page_col_line": "611.36",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "水煮菠菜色，圣帕特里克将德鲁伊高僧的藏红花法袍与七彩虚饰彻底打回原形，以质朴大地之色获胜。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-607-01-n06",
+      "lemma": "boiled spinasses",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "色彩论辩在此把藏红花短裙写成煮菠菜色，句子还接往下一段。原文字面支持颜色的突转；不据此宣布某方已胜，或将短裙另归一位身侧同侪。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n01",
+    "before": {
+      "id": "fw-iv-612-01-n01",
+      "lemma": "Rory! Rory! Eureka!",
+      "page_col_line": "612.30",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "爱尔兰末代至高王罗里·奥康纳（Rory O'Conor）融拉丁语破晓红光（aurora）与阿基米德‘我找到了’（Eureka），宣告日光大盛与理性清明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n01",
+      "lemma": "four three two agreement",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文保留four、three、two的逆序。本轮补回译文漏掉的four。旧词目Rory! Rory! Eureka!不在本段，所附人名史实与破晓语源均撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n02",
+    "before": {
+      "id": "fw-iv-612-01-n02",
+      "lemma": "Good safe firelamp!",
+      "page_col_line": "613.01",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "呼应都柏林港口与凤凰公园之安全灯火，亦将太阳赞为照亮幽暗梦海的救生神灯。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n02",
+      "lemma": "Good safe firelamp!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "向阳者以此欢呼火灯，紧接Goldselforelump等变形音串。太阳、灯与歌呼可互相叠听，不能据此指认都柏林某处现实安全灯。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n03",
+    "before": {
+      "id": "fw-iv-612-01-n03",
+      "lemma": "grazeheifer... Biddy Doran",
+      "page_col_line": "614.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "母鸡毕蒂·多兰（Biddy Doran）在垃圾堆刨食，呼应第一卷第五章母鸡刨出历史残信，信件在天明时分再度破土。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n03",
+      "lemma": "Owned or grazeheifer",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文在配偶选择、所有权与牲畜语汇之间转换。grazeheifer可听放牧母牛；确切所指未解。旧词目Biddy Doran不在本段，不能据同段纸上母鸡便补成毕蒂刨信的既成剧情。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n04",
+    "before": {
+      "id": "fw-iv-612-01-n04",
+      "lemma": "letter from litter",
+      "page_col_line": "615.01",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "信件（letter）脱胎于垃圾堆（litter），文字（word）在守护（ward）下流传；全书核心辩证法：最崇高的文明文献源自市井废弃物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n04",
+      "lemma": "letter from litter",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "letter与litter只差一字母，正文保留“从废物到信”的叠读。这里允许文献从残余中重组的解释，不把它断成全书唯一辩证法。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n05",
+    "before": {
+      "id": "fw-iv-612-01-n05",
+      "lemma": "type by tope",
+      "page_col_line": "615.01",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "排字铅字（type）与佛塔（tope / 希腊语 topos 地方），摹写重写本（palimpsest）层层剥离、文字显形的考古过程。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n05",
+      "lemma": "type by tope",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "type与tope相邻，正文保留按字重排的节奏。tope究竟叠进佛塔、地名或别义，尚无外证；不把不同语言词源串作定论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-612-01",
+    "note_id": "fw-iv-612-01-n06",
+    "before": {
+      "id": "fw-iv-612-01-n06",
+      "lemma": "forget him their trespasses",
+      "page_col_line": "615.36",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "主祷文‘免我们的债/罪过，如同我们免了人的债’（forgive us our trespasses）；在此化为祈求尘世宽宥耳语客与凡人的过错。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-612-01-n06",
+      "lemma": "forget him their trespasses",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "forget取代祈祷句中常见的forgive，是本项目拟读；此句跨接下一段against Molloyd O’Reilly。译文保遗忘/宽免的回响，不先把他、他们与被指控者化作单一人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n01",
+    "before": {
+      "id": "fw-iv-616-01-n01",
+      "lemma": "Molloyd O'Reilly",
+      "page_col_line": "616.01",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "融都柏林民谣恶棍与巴拉德抒情歌谣作者，信件在此再次正面驳斥指向耳语客的凤凰公园猥亵诽谤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n01",
+      "lemma": "Molloyd O’Reilly",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "名字接在前段trespasses之后，并连着蜷卧、起身与Coolock。关于现实民谣人物或作者的同名指认，本轮未核，暂保音译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n02",
+    "before": {
+      "id": "fw-iv-616-01-n02",
+      "lemma": "Stores Humphreys",
+      "page_col_line": "616.36",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "亨弗利·钱普登·耳语客（HCE）的市井敬称；将巨人和旅店主称为百货栈商汉弗莱斯先生。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n02",
+      "lemma": "Stores Humphreys",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原文以Mrs、Mr及Stores Humphreys作对话称谓。正文保汉弗莱斯夫妇；仓栈、货物及人名可叠读，不把它当现实敬称定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n03",
+    "before": {
+      "id": "fw-iv-616-01-n03",
+      "lemma": "Leviathan",
+      "page_col_line": "617.02",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "旧约利维坦巨兽，借指横卧都柏林原野沉睡的庞大巨人丈夫。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n03",
+      "lemma": "Levia",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "本段实际写Levia，旧词目Leviathan不在原文。也许可联到大兽名号，但尚无外证；正文保利维亚，不添海怪丈夫身份。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n04",
+    "before": {
+      "id": "fw-iv-616-01-n04",
+      "lemma": "Swees Aubumn",
+      "page_col_line": "617.36",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "奥立弗·哥德史密斯《荒村》（The Deserted Village）首句‘甜蜜的奥本’（Sweet Auburn）；晨光中的村落静谧祥和。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n04",
+      "lemma": "Swees Aubumn",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原稿将此声形连到Sweet Auburn及哥德史密斯《荒村》。本轮未核诗页，故只保可能回声，不借此叙述晨光村庄为已证实背景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n05",
+    "before": {
+      "id": "fw-iv-616-01-n05",
+      "lemma": "felicious coolpose",
+      "page_col_line": "618.01",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融幸福（felicitous / 幸运 felix）与惬意姿态（cool pose），写夫妻在晨曦被衾中的温存与圆满。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n05",
+      "lemma": "felicious coolpose",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本项目拟听felicitous/felix、cool pose及其他潜在音层。正文暂取美妙清凉之姿；不据此断言夫妻已经圆满和解。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "note_id": "fw-iv-616-01-n06",
+    "before": {
+      "id": "fw-iv-616-01-n06",
+      "lemma": "iverol and everthelest",
+      "page_col_line": "619.36",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "防水斗篷（overall）与常青保暖衣物（ever-all / nevertheless）；为丈夫递上雨衣与围巾，在下一段开头接上雨伞（umbr）。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-616-01-n06",
+      "lemma": "iverol and everthelest your / umbr",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前段以your悬住，下段才接umbr，衣物递送尚未完。正文保外套与伞的接缝；overall、ever与其他变形的多层声音仍未尽译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n01",
+    "before": {
+      "id": "fw-iv-620-01-n01",
+      "lemma": "umbr. And stand up tall!",
+      "page_col_line": "620.01",
+      "kind": "syntax",
+      "certainty": "supported",
+      "text": "承接上一段末尾‘your’并入伞（umbrella）缩写，同时引出安娜·利维亚（ALP）终曲独白的第一声亲昵唤醒：‘站直挺起！’",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n01",
+      "lemma": "umbr. And stand up tall!",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "umbr承前段悬置的your，正文暂接成“雨伞”。独白早在Soft morning, city!处已响起，不把此句另称全段第一声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n02",
+    "before": {
+      "id": "fw-iv-620-01-n02",
+      "lemma": "dirty clothes to publish",
+      "page_col_line": "620.21",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "呼应第一卷第八章（洗妇洗衣）的脏衣家丑（wash dirty linen in public），此时晨光升起，漂洗完毕，家丑不再公开曝光。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n02",
+      "lemma": "dirty clothes to publish",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "脏衣与公开发表并置，容许家丑外扬的读法。原文不因此证明衣物已经洗毕，或四老已经失去窥探能力。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n03",
+    "before": {
+      "id": "fw-iv-620-01-n03",
+      "lemma": "them four old",
+      "page_col_line": "620.43",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "指四位福音书老翁（马马卢乔），此时老迈干枯，不再能窥探或审判河水与山丘的幽会。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n03",
+      "lemma": "them four old windbags",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "四位老风袋在此可与四老相叠读；叙述者说不带灯，免得他们吹。这是她的决定，不是四老从此不能审判的既成结局。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n04",
+    "before": {
+      "id": "fw-iv-620-01-n04",
+      "lemma": "falskin begins. Smoos as",
+      "page_col_line": "621.25",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前额发线（foreskin / false skin）光滑（smooth）如脂，妻子轻抚苍老丈夫的面颊与额发，抚摩岁月的痕迹。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n04",
+      "lemma": "falskin begins. Smoos as",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "刚说脱去手套、手热且有毛，随后写falskin与如婴儿般光滑。此词可叠听false skin与foreskin，正文留假皮、包皮两层；撤“前额发线”，原文并未将触摸部位限定为额头。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n05",
+    "before": {
+      "id": "fw-iv-620-01-n05",
+      "lemma": "Every letter is a hard",
+      "page_col_line": "623.32",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "读信之难与人生之苦（hard）；安娜感慨自己所写、世人所读的辩解信，字字浸透辛酸。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n05",
+      "lemma": "Every letter is a hard",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "letter可指字母或信。本段连着写、拼补、交付与寄送，正文暂保写信艰难一路；不能据此给全部信函确定收件人与用途。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-620-01",
+    "note_id": "fw-iv-620-01-n06",
+    "before": {
+      "id": "fw-iv-620-01-n06",
+      "lemma": "eat the crushts of lobsters",
+      "page_col_line": "624.36",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "都柏林海湾的龙虾甲壳，隐喻往昔豪饮盛宴与刚硬岁月已被潮水冲刷研磨得粉碎。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-620-01-n06",
+      "lemma": "eat the crushts of lobsters",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "原文称对方能吃龙虾硬壳，正文保夸张动作。它不独自证明现实都柏林宴席或潮水冲刷史，不把比喻解释当事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n01",
+    "before": {
+      "id": "fw-iv-625-01-n01",
+      "lemma": "Marienne Sherry",
+      "page_col_line": "625.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "双关雪莉酒与少女玛丽安，安娜回忆初见丈夫时他将自己误认为雪莉酒般的年轻女郎。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n01",
+      "lemma": "Marienne Sherry",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "本项目保Marienne、酒名般的Sherry与误认语气。确切人物和酒名如何叠合尚未查外证；未将虚构名字认作现实女郎。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n02",
+    "before": {
+      "id": "fw-iv-625-01-n02",
+      "lemma": "Londub",
+      "page_col_line": "625.36",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融伦敦（London）与都柏林（爱尔兰语 Dubhlinn 黑池），利菲河出海口面向爱尔兰海与对岸英伦。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n02",
+      "lemma": "Londub",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "融伦敦（London）与都柏林（爱尔兰语 Dubhlinn 黑池），利菲河出海口面向爱尔兰海与对岸英伦。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n03",
+    "before": {
+      "id": "fw-iv-625-01-n03",
+      "lemma": "cold mad father",
+      "page_col_line": "628.01",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "利菲河奔流入海（都柏林湾与大西洋），将浩瀚冰冷的外海唤作狂乱严厉的‘冰冷父亲’。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n03",
+      "lemma": "cold mad father",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "冰冷父亲与海量、盐、浪及回返相邻，本项目读作河水归海的父亲形象。不能据此径定外洋名称或声称地理全貌已经核实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n04",
+    "before": {
+      "id": "fw-iv-625-01-n04",
+      "lemma": "Avelaval",
+      "page_col_line": "628.06",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "告别（拉丁文 ave / vale）与流水淘洗（lave / avalanche），树叶顺流漂尽，象征生命衰朽随波消逝。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n04",
+      "lemma": "Avelaval",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "告别（拉丁文 ave / vale）与流水淘洗（lave / avalanche），树叶顺流漂尽，象征生命衰朽随波消逝。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n05",
+    "before": {
+      "id": "fw-iv-625-01-n05",
+      "lemma": "Whish! A gull. Gulls. Far calls.",
+      "page_col_line": "628.13",
+      "kind": "sound",
+      "certainty": "supported",
+      "text": "海鸥尖鸣，预示海潮吞没河口；远方的呼唤既是生之遗响，亦是重归母体大洋的序奏。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n05",
+      "lemma": "Whish! A gull. Gulls. Far calls.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "单只海鸥转为群鸥，呼声渐远，短句与气音相接。正文保此声序；海潮吞没与重归母体只是解释，不是新增情节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n06",
+    "before": {
+      "id": "fw-iv-625-01-n06",
+      "lemma": "Bussoftlhee, mememormee! Till thousendsthee.",
+      "page_col_line": "628.14",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "融亲吻（buss）、轻柔（soft）、记住我（remember me / 希腊记忆女神 Mnemosyne）与千次（thousands / 死亡 to die）；利菲河在融入大洋前最后的深情呢喃。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n06",
+      "lemma": "Bussoftlhee, mememormee! Till thousendsthee.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "本项目听buss、soft、remember me、thousand等回声，取轻吻与记忆一路。thousendsthee的词界与告别对象仍有歧义；希腊记忆女神及死亡语源未查，不列定说。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-625-01",
+    "note_id": "fw-iv-625-01-n07",
+    "before": {
+      "id": "fw-iv-625-01-n07",
+      "lemma": "Lps. The keys to. Given!",
+      "page_col_line": "628.15",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "双关双唇（lips）欲语还休，与屋门钥匙（keys）交付女儿；母亲把执掌家庭与生命的钥匙交予后代，独白于此告终。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "fw-iv-625-01-n07",
+      "lemma": "Lps. The keys to. Given!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Lps可听lips；The keys to.把to的承接悬住，随后骤写Given!。本轮不把交付者或受领者确定为母女，也不称此处全书已经结束；它紧接A way片段。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-628-15",
+    "note_id": "iv-loved",
+    "before": {
+      "id": "iv-loved",
+      "lemma": "a last / a loved",
+      "page_col_line": "628.15",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "试译暂作“终了／爱过”，保留告别语气。a loved 亦可读成“所爱”；这里的词性与说话对象仍有歧义，待联系末章全文审校。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "iv-loved",
+      "lemma": "a last / a loved",
+      "page_col_line": "628.15",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "正文暂作“终了／爱过”，保留告别语气。a loved也可读“所爱”；全章连读后，本轮仍不消除此词性与对象歧义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-628-15",
+    "note_id": "iv-awaya",
+    "before": {
+      "id": "iv-awaya",
+      "lemma": "A way a lone",
+      "page_col_line": "628.15",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "词群拆开写成 A way a lone，声响上连读为 away alone（独自远去），暗合乔伊斯在《青年艺术家的画像》末尾‘去迎接现实经验’的孤身上路主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "iv-awaya",
+      "lemma": "A way a lone",
+      "page_col_line": "628.15",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拆写的A way a lone可连听away、alone。正文保离去与独行；未查《青年艺术家的画像》末页，不据此断言跨作品主题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-628-15",
+    "note_id": "iv-the-article",
+    "before": {
+      "id": "iv-the-article",
+      "lemma": "the",
+      "page_col_line": "628.16",
+      "kind": "syntax",
+      "certainty": "supported",
+      "text": "全书以定冠词 the 戛然而止，既无名词承接，亦无标点终结；与开篇第3页首行小写 riverrun 构成闭环回流（vicus of recirculation），体现维柯历史循环论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "after": {
+      "id": "iv-the-article",
+      "lemma": "the",
+      "page_col_line": "628.16",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "全书在the处停住，无末尾句号；与开篇小写riverrun接读，未完语法得以续行。本轮已联读原文两处；维柯理论属于解释，不能仅由此接缝证明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    "reason": "以实际出现的词目核注，外说存疑，撤未核行号"
+  },
+  {
+    "segment_id": "fw-iv-616-01",
+    "old": "正如恶中见善，利维坦，我之面颊俨然一片空白",
+    "new": "正如恶中见善，利维亚，我之面颊俨然一片空白",
+    "reason": "原文Levia不展开成Leviathan，与修订注一致"
+  }
+]

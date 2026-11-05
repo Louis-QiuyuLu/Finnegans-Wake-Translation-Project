@@ -1,0 +1,374 @@
+{
+  "fw-iii1-403-01": [
+    {
+      "id": "iii1-tegmine-sub-fagi",
+      "lemma": "Tegmine-sub-Fagi",
+      "kind": "allusion",
+      "text": "此名紧接 Gascon Titubante。旧注指向维吉尔《牧歌》开篇，但这里只列原著，未列诗篇见证；典故待核，不据此添「漫步」。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-anastashie",
+      "lemma": "Anastashie",
+      "kind": "wordplay",
+      "text": "原文称她为 his Anastashie，随后另述祷语。旧注所列俄语、希腊语及爱尔兰语词源链尚无词典证据，暂不采作事实。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-apagemonite",
+      "lemma": "Apagemonite",
+      "kind": "wordplay",
+      "text": "后接 Come not nere! Black! Switch out!，可听作驱斥呼喊。具体教派名与驱魔祷语待核；原文不足以坐实反帕奈尔政治指涉。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-duke-humphrey",
+      "lemma": "Duke Humphrey",
+      "kind": "allusion",
+      "text": "此处先说 ne’er would nunch，随即列大吃大喝。暂按不肯挨饿理解；俗谚来源及墓道掌故待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-anne-lynch",
+      "lemma": "Anne Lynch",
+      "kind": "culture",
+      "text": "人名与 Houseanna! Tea is the Highest! 连写，茶与颂赞声彼此牵连。茶商身分、商号与创立年未核，撤回旧注断言。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-st-jilians",
+      "lemma": "St Jilian's",
+      "kind": "allusion",
+      "text": "此名出现在食物、美酒与啤酒壶的连写中。圣徒身分及主保职能待核，原文未直接说明。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii1-408-01": [
+    {
+      "id": "iii1-saint-anthony-guide",
+      "lemma": "Saint Anthony Guide",
+      "kind": "culture",
+      "text": "原文把这呼喊置于问答转换处。旧注所说信封 S.A.G. 习俗待核，不能只凭原著确认邮政史实。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-solvitur-palumballando",
+      "lemma": "Solvitur palumballando",
+      "kind": "wordplay",
+      "text": "词形可使人想到 solvitur、行走与鸽子的声音。旧注引拉丁格言并断定复合语源，尚缺外证；译文只保留行走解难这一试读。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-pantokreator",
+      "lemma": "Pantokreator",
+      "kind": "wordplay",
+      "text": "它是肖恩宣誓所向，邻近 Geity、fleshfettered、apossels 等词。全能者与肉食的语源叠合待核，不把胃口神学当已证解释。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-buccinate-in-emenia",
+      "lemma": "Buccinate in Emenia",
+      "kind": "allusion",
+      "text": "这里插入拉丁语状的吹号呼喊。旧注援引《诗篇》精确节次，但未附该处见证，暂撤节次，典故待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-nolaner-and-browno",
+      "lemma": "Nolaner and Browno",
+      "kind": "allusion",
+      "text": "二名列在 my publickers 之后，可读作出版者名。布鲁诺及书商双指尚待具名来源，不据此断言乔伊斯思想渊源。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-tighe",
+      "lemma": "Tighe",
+      "kind": "allusion",
+      "text": "原文以 Tune in, tune on, old Tighe 呼唤。具体人物未定，旧注所列玛丽·泰伊及生卒年撤回，待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii1-413-01": [
+    {
+      "id": "iii1-cadenus-and-goat",
+      "lemma": "cadenus and goat",
+      "kind": "allusion",
+      "text": "两词紧随 kidding、totether，牵动山羊与捆绑的语感。与斯威夫特诗题的联系待核；不把人物情史带入正文。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-gracehoper",
+      "lemma": "Gracehoper",
+      "kind": "wordplay",
+      "text": "词形可拆听作 grace 与 hoper，又近 grasshopper。正文保留格雷斯霍珀，避免固定成谢姆；寓言与兄弟的对应仍是读法。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-ondt",
+      "lemma": "Ondt",
+      "kind": "wordplay",
+      "text": "与 Gracehoper 对举，后文兼见 ant、and、andt 的字形变奏。丹麦语语源尚未查词典，不据此断定「邪恶」本义。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-book-of-breathings",
+      "lemma": "Book of Breathings",
+      "kind": "allusion",
+      "text": "原文出现书名状词组，并以 bed him 连接。具体古埃及文献版本、用途及本文关系待核，不能只凭原著证明丧葬史实。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-tingsomingenting",
+      "lemma": "Tingsomingenting",
+      "kind": "wordplay",
+      "text": "寓言先用此词称格雷斯霍珀住所，随后让他离开此地。德语、北欧方言与议会语源链均待核；正文保留拟音。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-hegelstomes",
+      "lemma": "hegelstomes",
+      "kind": "wordplay",
+      "text": "此词处在六月雪与暴风描写中；可试听 hailstones，并留意 Hegel 字形。墓石与黑格尔体系之说待核，不坐实哲学埋葬寓意。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii1-417-01": [
+    {
+      "id": "iii1-baile-atha-cliath",
+      "lemma": "Baile-Atha-Cliath",
+      "kind": "allusion",
+      "text": "原文把它列在地址及日期之间。旧注的爱尔兰语释义须另核地名资料；不以「永恒退信邮戳」概括全部地址。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-culex",
+      "lemma": "Culex",
+      "kind": "allusion",
+      "text": "与 Pulex 构成问句对偶，周围贯穿虫类词形。旧注关于伪维吉尔同名诗的典故未核，暂不采为事实。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-pulex",
+      "lemma": "Pulex",
+      "kind": "wordplay",
+      "text": "与 Culex 配对，句中一方惊扰另一方。分类学词源待核；保留这层互相牵动，不推成凡人存在定论。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-homo-vulgaris",
+      "lemma": "Homo Vulgaris",
+      "kind": "wordplay",
+      "text": "原文以拉丁双名状词组指称这一双念头所拨动的人。译作凡夫俗客，是按词形提出的试读，非正式物种名称。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-ad-majorem-lsd",
+      "lemma": "Ad majorem l.s.d.",
+      "kind": "wordplay",
+      "text": "l.s.d. 插入拉丁语状赞辞，后面另接 Divi gloriam。可试读为钱币缩写侵入宗教话语；耶稣会格言来源另待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-miss-take",
+      "lemma": "Miss Take",
+      "kind": "wordplay",
+      "text": "连在 Opened by 之后，字面是小姐姓名，连读又近 mistake。译作错失小姐，保留误拆信与人名两层。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    }
+  ],
+  "fw-iii1-421-01": [
+    {
+      "id": "iii1-boston-mass",
+      "lemma": "Boston (Mass)",
+      "kind": "culture",
+      "text": "地址连写中的地点，紧接不可能的日期 31 Jun. 13, 12。保留原文数字，不把它归并成1912年；离散族群通信终点的解释未证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-thunderword-8",
+      "lemma": "Ullhodturdenweirmudgaardgringnirurdrmolnirfenrirlukkilokkibaugimandodrrerinsurtkrinmgernrackinarockar",
+      "kind": "sound",
+      "text": "保留雷鸣长词的连续音节。后接 Thor’s for yo!，可确认文本把它同托尔之声相连；旧注所列各神名、语源与「完全由古诺斯语构成」尚待逐项核证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-tcd",
+      "lemma": "TCD",
+      "kind": "allusion",
+      "text": "它紧随 leave your libber，缩写未在此展开。圣三一学院的解释及宗教教育对照待核，不凭原著证明校史。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-cecilias-treat",
+      "lemma": "Cecilia's treat",
+      "kind": "allusion",
+      "text": "此处同 pick up Galen 连写。医学院地点与乔伊斯就学经历须另据生平资料核实；原著本身不能证明。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-jon-jacobsen",
+      "lemma": "Jon Jacobsen",
+      "kind": "wordplay",
+      "text": "此名同 swigged a slug 相连，因而译文保留饮酒动作。威士忌品牌与丹麦作家的双指待核，暂不坐实异教文学寓意。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-flannelfeet",
+      "lemma": "Flannelfeet",
+      "kind": "wordplay",
+      "text": "列在一串辱骂中，可按 flannel、feet 的字面试译「法兰绒足」。俚语义与谢姆具体行动均待核，不添阴谋情节。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ],
+  "fw-iii1-425-01": [
+    {
+      "id": "fw-iii1-425-01-n01",
+      "lemma": "Shemese",
+      "kind": "wordplay",
+      "text": "词形以 Shem 开头，后文又有 Siamanish。译作谢姆话，保留人名与语言名叠合；是否还直接含 Chinese，尚待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii1-425-01-n02",
+      "lemma": "Outragedy of poetscalds",
+      "kind": "wordplay",
+      "text": "可听 outrage 与 tragedy 互撞，poet 与 scald 并置。译文兼留暴行与诗人；北欧诗人语源及自相残杀寓意待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii1-425-01-n03",
+      "lemma": "pibrook",
+      "kind": "sound",
+      "text": "词尾 brook 可见，邻近 creppt、donkness、reek，声息随远行渐弱。与 pibroch 的语源关系待核；风笛只是试读。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii1-425-01-n04",
+      "lemma": "Sireland",
+      "kind": "wordplay",
+      "text": "可见 sire 与 Ireland 叠写，紧接 calls you。译作父邦，未纳海妖；Siren 这层联系仍待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "fw-iii1-425-01-n05",
+      "lemma": "Samoanesia",
+      "kind": "allusion",
+      "text": "此名与乡亲、长老、草席相连。萨摩亚、波利尼西亚及史蒂文森掌故的具体联系尚未外核，暂不据此定叙事地点。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "fw-iii1-425-01-n06",
+      "lemma": "foggy dews",
+      "kind": "culture",
+      "text": "此处祝愿雾露替桶箍镶钻。旧注指定1916年挽歌，未核歌曲文本与版本，撤回确定对应，保留送别中的露珠意象。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-05",
+  "check": {
+    "chapters": 17,
+    "started": 17,
+    "complete": 17,
+    "segments": 177,
+    "reviewed": 0,
+    "notes": 1091
+  },
+  "python_unittest": {
+    "tests": 88,
+    "result": "OK"
+  },
+  "build": "passed",
+  "check_artifacts": "passed",
+  "source_english_draft_ids_ranges": "unchanged against frozen input",
+  "audio": "retained merged main audio; incremental audio remains in PR8",
+  "limits": "工程检查不能证明译文或全部学术主张正确。"
+}

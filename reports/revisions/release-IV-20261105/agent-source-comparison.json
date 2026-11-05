@@ -1,0 +1,14 @@
+{
+  "chapter": "IV",
+  "comparison": "解析HTML实体，去空白与-----页码-----标记；按segments顺序连接original",
+  "original_normalized_sha256": "f60b7cec57563a4a118092fa4a088fdd037f8ca7f927d814a4086081558b463c",
+  "source_text_normalized_sha256": "63c5b27fde5b993a6a50244810009b07955ee07a9eb156984f6f0d6b61fd4fa1",
+  "differences": [
+    {
+      "type": "insert",
+      "original": "",
+      "source_text": "Paris,1922-1939.",
+      "original_offset": 63047
+    }
+  ]
+}

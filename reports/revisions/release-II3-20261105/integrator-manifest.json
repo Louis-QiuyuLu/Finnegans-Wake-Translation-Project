@@ -1,0 +1,93 @@
+{
+  "role": "integrator_ai_review_and_revision",
+  "date": "2026-11-05",
+  "chapter": "II.3",
+  "chapter_sha256": "c8e12204149ef620e5a89bf27c0e7c21c3bd61a4810df8feaf6b5ff041a7b365",
+  "scope": "12段原文和中文、72条旧注、11处接缝；前两段另存补译文件，后文改动见actions",
+  "external_sources_opened_this_pass": [],
+  "status": "revised_pending_human_review",
+  "unchanged_fields": [
+    "original",
+    "draft",
+    "source_text",
+    "id",
+    "range",
+    "locator",
+    "source_id"
+  ],
+  "segments": [
+    {
+      "id": "fw-ii3-309-01",
+      "original_sha256": "bff59b4270317adc047deeea22ee1bf30f0eb3ed8e160205fa155c0c2aaece71",
+      "translation_sha256": "73e4e7ce0c2038bec9f410d45d01180b62cf6dcd59126a6c5ab471a80b84fc46",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-315-01",
+      "original_sha256": "de1748d10d05ef42d352548f6c2e9666cf6247b038b4b63284a6c547029f3d42",
+      "translation_sha256": "7f60727f8447305855bea7f285d2456ac3a36f2bf8f33c675b762eb3667da612",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-321-01",
+      "original_sha256": "9f6acacdf2578317c409c41238fae2b5a45caa2881929be17a307082f6719131",
+      "translation_sha256": "8dd88e8b39af20a9e3ba2ec662e29915edc59ceb1c6b202823e036e02415fe93",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-327-01",
+      "original_sha256": "be902c510bfc8a5ef0904e5fefd62e191dbc9a9e740bd4fbd8922635eea60dad",
+      "translation_sha256": "b2a1c5dd28cb19b0eeb5c6c6629cfee50a402b21a3521012df0a5805531d3728",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-333-01",
+      "original_sha256": "b182635a8c21f400ce2646eea8f0fa67cfe70e1261244876acae2a53e653204e",
+      "translation_sha256": "4ec5904ba8cf263757023db28b3e84dc8297d34a64b4e7f8d4934088fa7b8d19",
+      "notes": 7
+    },
+    {
+      "id": "fw-ii3-339-01",
+      "original_sha256": "e448a86c76c2b72e67b33f5ed18b112006b1291999d953927137a94dfe4862cc",
+      "translation_sha256": "42cf9b1794d197bb6fe10ed4d7714dc19b659fbb4dd7fce26f06c5f44e969a7b",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-345-01",
+      "original_sha256": "85dc08070d96ac29c1d1d1c0feebac1a6c9b66eb48c8c85accac39d6f809dbb3",
+      "translation_sha256": "62381b8823503b3962f5602948121573a4d06b198606333ddca3ef93cf2f1438",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-351-01",
+      "original_sha256": "81909bfac20cb221719862a2b5a3140356c2a9111334aff40fc129cf65e69ea7",
+      "translation_sha256": "ef8b7b40f07f4aa37d00bf4fdbd0a12bfc93df384c98114d6e75cc8ec6ff7916",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-357-01",
+      "original_sha256": "c786e638f56c765c6c80658b430ce1d71b92b9f6a1095e3b51aa6a4e2f7fed36",
+      "translation_sha256": "cb0ba4198ced68e54762005db06b5c694e1490edfd20f90e4a308ce09f3fc58b",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-363-01",
+      "original_sha256": "ec9f5fbff6026443c394aeb65680086b9fdf184099296985954d0dc1828f762b",
+      "translation_sha256": "12fa9712e7f252742b6caecb6970eec003bf424486b9514e2563328a8e5af91b",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-369-01",
+      "original_sha256": "3d8320748563943b6e412b5c1302044d2f28a926f2057b1eca04696cb124ba8a",
+      "translation_sha256": "9adc59b8cf7dd1aa100c83fea6b97baccb946161e89daf7cc43538a2851e56ae",
+      "notes": 6
+    },
+    {
+      "id": "fw-ii3-376-01",
+      "original_sha256": "818c699c45e967e60e722409e33b1d15e804293bbe55202d9b515bf704a11264",
+      "translation_sha256": "448a78708742dbeb2c993db6e9ad8b6197f6095fa65908764733ee2f25023e0d",
+      "notes": 6
+    }
+  ],
+  "limits": "按所录文字见证核译义与覆盖；未重核扫描页、全部典故或任何既有中日译本。保留实际存疑，不以格式检查证明语义。"
+}

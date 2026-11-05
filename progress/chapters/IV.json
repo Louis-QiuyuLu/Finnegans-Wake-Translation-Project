@@ -1,0 +1,27 @@
+{
+  "chapter": "IV",
+  "state": "completed",
+  "last_segment": "fw-iv-628-15",
+  "translated_ranges": [
+    "593.01–596.36",
+    "597.01–601.36",
+    "602.01–606.36",
+    "607.01–611.36",
+    "612.01–615.36",
+    "616.01–619.36",
+    "620.01–624.36",
+    "625.01–628.14",
+    "628.15–628.16"
+  ],
+  "reviewed_segments": [],
+  "updated": "2026-11-05",
+  "unresolved": [
+    "四卷十七章中文已录入，177段、1091条注释；采用稿为AI修订，reviewers为空，不能称人工终审完成。",
+    "第二至四卷本轮补漏、撤无据增写，校正动作、否定、数字与接缝；范围及指纹见reports/revisions/release-parent-20261105/。",
+    "外部史实、跨文本互文与多语词源尚有uncertain；未逐页核初版扫描，不声称全部典故已证。",
+    "篇末停在628.16，不存在作为下一正文的628.17；cycle_original仅供首尾回环参照。",
+    "后续据具名问题或新证据定点修订，保留初译、冻结交稿与历史裁定。"
+  ],
+  "translation_complete": true,
+  "cycle_original": "riverrun, past Eve and Adam's, from swerve of shore to bend of bay, brings us by a commodius vicus of recirculation back to Howth Castle and Environs."
+}

@@ -1,0 +1,276 @@
+{
+  "III-1": {
+    "frozen_sha256": "62e971d7991953afdff8ddb0b20279948b829af72fb8561e99cc2138f63cff76",
+    "before_snapshot_sha256": "66f13193a51ad5433c3aec70e6f3b0a36adf13b0d4e94c3d53cab798ac77b1ce",
+    "after_sha256": "5b13bb62bbb277b520fd4205b5f93a23295ce841bc8ae2d7deef5068e2eda93f",
+    "source_text_unchanged": true,
+    "independent_source_comparison": "去页码、空白和ASCII行末连字符后，全章source_text与按顺序连拼的segments.original完全相等。",
+    "segments": [
+      {
+        "id": "fw-iii1-403-01",
+        "locator": "403.01–407.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "88867b89e97098027cf7df8958c2cf4c39d860e6bd086f874707378e88c3b637",
+        "translation_before_sha256": "d7d5b2399c09e710ff6a1eb16ab170af41a5a0e0a7cf018852d2b4beca0628be",
+        "translation_after_sha256": "efea8ebfee7000c8e1d57f76486d7e8104e2c6dc2d0174704b29174093443d3f",
+        "note_ids": [
+          "iii1-tegmine-sub-fagi",
+          "iii1-anastashie",
+          "iii1-apagemonite",
+          "iii1-duke-humphrey",
+          "iii1-anne-lynch",
+          "iii1-st-jilians"
+        ]
+      },
+      {
+        "id": "fw-iii1-408-01",
+        "locator": "408.01–412.35",
+        "source_id": "joyce-fp",
+        "original_sha256": "a71e325d0dd440115e0a6a583f55a2b4846afbc9fa7c51463523a56b95afc6c9",
+        "translation_before_sha256": "0214958a8e6eb3944591a74532abce84d87e64aa401e8f8d1266e89bea0a2eb8",
+        "translation_after_sha256": "fa7fc1ced135746887aeb253a5fe7389dc389879a1c6f18acbb9fbcfb180e1f3",
+        "note_ids": [
+          "iii1-saint-anthony-guide",
+          "iii1-solvitur-palumballando",
+          "iii1-pantokreator",
+          "iii1-buccinate-in-emenia",
+          "iii1-nolaner-and-browno",
+          "iii1-tighe"
+        ]
+      },
+      {
+        "id": "fw-iii1-413-01",
+        "locator": "413.01–416.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "ef81df5c59fbfddd6aecc45fd025b6a53e991bf0d718c47d74b50891cc46978c",
+        "translation_before_sha256": "0bf2e4e2e2a7dd6a804230c225fd2352cb6ab6b30cfed94ebd5c538a7e96d6d6",
+        "translation_after_sha256": "2a6fcc9ddecae1d5898fed78eb01f918738d5f5fd53fe0931309883856a194ff",
+        "note_ids": [
+          "iii1-cadenus-and-goat",
+          "iii1-gracehoper",
+          "iii1-ondt",
+          "iii1-book-of-breathings",
+          "iii1-tingsomingenting",
+          "iii1-hegelstomes"
+        ]
+      },
+      {
+        "id": "fw-iii1-417-01",
+        "locator": "417.01–420.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "b5529dca46f580f92e0b8224c30907571c234f23bdea8682a3582c8632b9c693",
+        "translation_before_sha256": "a7761a36f6e398232fdab71c2f2abad4f45f6dafda952c99f45094d08637abc1",
+        "translation_after_sha256": "75313a2f166bc14f78e6396f3c511088326e27cb7c12796da1ef225da7fa4c08",
+        "note_ids": [
+          "iii1-baile-atha-cliath",
+          "iii1-culex",
+          "iii1-pulex",
+          "iii1-homo-vulgaris",
+          "iii1-ad-majorem-lsd",
+          "iii1-miss-take"
+        ]
+      },
+      {
+        "id": "fw-iii1-421-01",
+        "locator": "421.01–424.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "a4b224b39231537c82fbe44996d0511c744b5d1f7d3d63ff383f574659741163",
+        "translation_before_sha256": "badc352866143a6182d09e1b9d938c79fc25eb81ce62afdde60863bead0827b7",
+        "translation_after_sha256": "17c3e4c7cc568e47db7f5d2456c782f5fde70131b68822abf99b42ab1df708e5",
+        "note_ids": [
+          "iii1-boston-mass",
+          "iii1-thunderword-8",
+          "iii1-tcd",
+          "iii1-cecilias-treat",
+          "iii1-jon-jacobsen",
+          "iii1-flannelfeet"
+        ]
+      },
+      {
+        "id": "fw-iii1-425-01",
+        "locator": "425.01–428.27",
+        "source_id": "joyce-fp",
+        "original_sha256": "3a8a1da09f9090e46063970a6dce8246ce3fc98b7d6a01775865c8915ab6df5d",
+        "translation_before_sha256": "5ad76f49181a277da9ef1d62a0d3dbcd20a52c2aa20135bff0da528c39bc210e",
+        "translation_after_sha256": "15325d971d0bf3bfcb9ebf2e80407c0710bb714e962619eff123ce184a6a31d6",
+        "note_ids": [
+          "fw-iii1-425-01-n01",
+          "fw-iii1-425-01-n02",
+          "fw-iii1-425-01-n03",
+          "fw-iii1-425-01-n04",
+          "fw-iii1-425-01-n05",
+          "fw-iii1-425-01-n06"
+        ]
+      }
+    ]
+  },
+  "III-2": {
+    "frozen_sha256": "42fb8132a795309cfa791ff79a2d9145cd656e5cc4f76e9ac5a12b891b5f0428",
+    "before_snapshot_sha256": "05e45463e5a39eb7bed1b6af5669d2b87e7aaa16ae262aec2e42f3ea46406b6e",
+    "after_sha256": "07ae0ba1733b91b87c9cf576f43b270dc7b5c90708a29a7e907e8534876a3c8b",
+    "source_text_unchanged": true,
+    "independent_source_comparison": "去页码、空白和ASCII行末连字符后，全章source_text与按顺序连拼的segments.original完全相等。",
+    "segments": [
+      {
+        "id": "fw-iii2-429-01",
+        "locator": "429.01–433.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "aefe851bdb4b08063245e6e664b72e9d2df51e666345ecbd7f2bb32db29fbb71",
+        "translation_before_sha256": "f9e946ed3ba73d91c972814c48b70bbb8b1f9e4677aeba201ee7192b22c6bb98",
+        "translation_after_sha256": "d9f50e11a70b0ae4a9a0c31be8ee26ea50346de39da76871e179ac12c84d419b",
+        "note_ids": [
+          "fw-iii2-429-01-n01",
+          "fw-iii2-429-01-n02",
+          "fw-iii2-429-01-n03",
+          "fw-iii2-429-01-n04",
+          "fw-iii2-429-01-n05",
+          "fw-iii2-429-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-434-01",
+        "locator": "434.01–437.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "d32574d6bfe07370b815b766d43ed1b691f1e083b4e92ce1ef497e357b512d40",
+        "translation_before_sha256": "1057e131ad651b408e5ffd092c7fa2b34a78c9c23b86a561ea782437263724a3",
+        "translation_after_sha256": "c562e7240b73d4005e957f8aa2afec7ff3bc1f56e35dd24e4909013090461e7e",
+        "note_ids": [
+          "fw-iii2-434-01-n01",
+          "fw-iii2-434-01-n02",
+          "fw-iii2-434-01-n03",
+          "fw-iii2-434-01-n04",
+          "fw-iii2-434-01-n05",
+          "fw-iii2-434-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-438-01",
+        "locator": "438.01–441.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "8c6827ce329841949e4d1b5d428a29a56c9753048ec965551b43f73b93a6b20e",
+        "translation_before_sha256": "40c0656bd49750b007dd0f9b6cf874bab08a7ec75c9f6c377c5d045626423513",
+        "translation_after_sha256": "93cfc8b7d2e16e549feb9ae7d7ef182d735d5d5b31d89469b99cd2af0db60739",
+        "note_ids": [
+          "fw-iii2-438-01-n01",
+          "fw-iii2-438-01-n02",
+          "fw-iii2-438-01-n03",
+          "fw-iii2-438-01-n04",
+          "fw-iii2-438-01-n05",
+          "fw-iii2-438-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-442-01",
+        "locator": "442.01–445.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "db851027f5d061a92511f3f30d38f3319ae446344bf2875ea81c5b6ebd58beec",
+        "translation_before_sha256": "d2e28dc1ab2ba7d64ed0eacfea7ddcce5da95d104d78fbf6ea165c5f3930f7aa",
+        "translation_after_sha256": "a43a34be0e6eb7fbde008dc345f52d1b0b68b9f31f72bb99f42ae4bb2042640c",
+        "note_ids": [
+          "fw-iii2-442-01-n01",
+          "fw-iii2-442-01-n02",
+          "fw-iii2-442-01-n03",
+          "fw-iii2-442-01-n04",
+          "fw-iii2-442-01-n05",
+          "fw-iii2-442-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-446-01",
+        "locator": "446.01–449.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "d4efe32e0aeb692dae4f23d72c92487ccc611048511e3d9ae6f32a75aad238bf",
+        "translation_before_sha256": "354c51c0b91d84a77210adbade1acae0301347f6eb79af6340a651c31ddb36d8",
+        "translation_after_sha256": "ef19c9a934941be0056061b41afbfa77552b167c86653eef1c4e740330f690b1",
+        "note_ids": [
+          "fw-iii2-446-01-n01",
+          "fw-iii2-446-01-n02",
+          "fw-iii2-446-01-n03",
+          "fw-iii2-446-01-n04",
+          "fw-iii2-446-01-n05",
+          "fw-iii2-446-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-450-01",
+        "locator": "450.01–454.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "ded694dc9ffdccbddc38000f6ac8021f91b8dfeccfcddc5f95512b5567e09458",
+        "translation_before_sha256": "d2b45209aee5fc5addd99e913043e5ba5ffad0a15510451b6bf743ce8cfa3207",
+        "translation_after_sha256": "6d41df5f80dc2bbac88dcb8327387c915c895e64ce530aa64dc177a8e2b0f3e2",
+        "note_ids": [
+          "fw-iii2-450-01-n01",
+          "fw-iii2-450-01-n02",
+          "fw-iii2-450-01-n03",
+          "fw-iii2-450-01-n04",
+          "fw-iii2-450-01-n05",
+          "fw-iii2-450-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-455-01",
+        "locator": "455.01–459.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "18620a1fe8098ac16eea540a790a4ca2c5e2830a3fc67ade3504faaeab701336",
+        "translation_before_sha256": "2a9b5f14c1897b0e370fc512ad843437e09025e410c3a39c8458d4dcb6db3f32",
+        "translation_after_sha256": "5ca5889af2c2a8230de961405857d483d9e7bb0e43672b567b3458e02d17b1bb",
+        "note_ids": [
+          "fw-iii2-455-01-n01",
+          "fw-iii2-455-01-n02",
+          "fw-iii2-455-01-n03",
+          "fw-iii2-455-01-n04",
+          "fw-iii2-455-01-n05",
+          "fw-iii2-455-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-460-01",
+        "locator": "460.01–464.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "07709dc5efa440ece211980587edecba02b7f1202dfb968127908208f2a1828b",
+        "translation_before_sha256": "00ec74ab314e9dc6b90cd4703c49c5028d3ec029456f9bc16fae862f76df9d7a",
+        "translation_after_sha256": "fd9f39384c34ed14b1d3c0747144073350df9a238309457b50da20f3a87f3003",
+        "note_ids": [
+          "fw-iii2-460-01-n01",
+          "fw-iii2-460-01-n02",
+          "fw-iii2-460-01-n03",
+          "fw-iii2-460-01-n04",
+          "fw-iii2-460-01-n05",
+          "fw-iii2-460-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-465-01",
+        "locator": "465.01–468.36",
+        "source_id": "joyce-fp",
+        "original_sha256": "c81b90e4feb2c8d51299034160d45f904cf062a21bcde85ca9c3192f07192c84",
+        "translation_before_sha256": "4a06d3f60b4d5d0ca5a395598ff4a5745bb2f95f8b699e42b01e93a6c0e2eda2",
+        "translation_after_sha256": "71d8dc81ec2d50aab339839e9b6a936d407c1716ce1caba0a5e03bd0464ed76e",
+        "note_ids": [
+          "fw-iii2-465-01-n01",
+          "fw-iii2-465-01-n02",
+          "fw-iii2-465-01-n03",
+          "fw-iii2-465-01-n04",
+          "fw-iii2-465-01-n05",
+          "fw-iii2-465-01-n06"
+        ]
+      },
+      {
+        "id": "fw-iii2-469-01",
+        "locator": "469.01–473.25",
+        "source_id": "joyce-fp",
+        "original_sha256": "2b8027a2a259c4f57b1bef3fdfa9f8ea523eb1ffdc93e905bd75745eb86bade1",
+        "translation_before_sha256": "3b9741bf9e94e4c5f3378452ee841b500178c62f21982a9b9cb1743b481e6dff",
+        "translation_after_sha256": "dc1848509ff94a920e8d6ababb86e57f1d658477fa2b51f3ebf1461a43f0ac2a",
+        "note_ids": [
+          "fw-iii2-469-01-n01",
+          "fw-iii2-469-01-n02",
+          "fw-iii2-469-01-n03",
+          "fw-iii2-469-01-n04",
+          "fw-iii2-469-01-n05",
+          "fw-iii2-469-01-n06"
+        ]
+      }
+    ]
+  }
+}

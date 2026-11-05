@@ -1,0 +1,161 @@
+{
+  "chapter": "II.1",
+  "role": "ai_review",
+  "executor": "OpenAI Codex /root/review_book_ii_1",
+  "draft_sha256": "5b6225652a5802915450a993519bbfbd1eea4315bd372475313001249af764d0",
+  "manifest_sha256": "cf897e49c4f4de390d9579eba0820f308fad0a387c08e94feb1bd43709c4d630",
+  "full_text_read": true,
+  "segments_read": 10,
+  "notes_read": 60,
+  "external_source_access": "parent performed targeted reads; this subagent did not open external pages",
+  "issues": [
+    {
+      "id": "R-II1-01",
+      "priority": "P1",
+      "segment_id": "fw-ii1-219-01",
+      "page_and_supplied_locator": "220页；所给219.01–222.36",
+      "anchor": "a month's bunch of pretty maidens",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-02",
+      "priority": "P1",
+      "segment_id": "fw-ii1-227-01",
+      "page_and_supplied_locator": "227页；所给227.01–230.36",
+      "anchor": "Shrove Sundy MacFearsome",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-03",
+      "priority": "P1",
+      "segment_id": "fw-ii1-231-01",
+      "page_and_supplied_locator": "232页；所给231.01–234.36",
+      "anchor": "as her lucky for the Rio Grande",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-04",
+      "priority": "P2",
+      "segment_id": "fw-ii1-231-01",
+      "page_and_supplied_locator": "232页；所给231.01–234.36",
+      "anchor": "a glaciator to submerger an Atlangthis",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-05",
+      "priority": "P1",
+      "segment_id": "fw-ii1-239-01",
+      "page_and_supplied_locator": "239页；所给239.01–242.36",
+      "anchor": "we are but yours ... we shall ope to be ores",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-06",
+      "priority": "P2",
+      "segment_id": "fw-ii1-247-01",
+      "page_and_supplied_locator": "248页；所给247.01–250.36",
+      "anchor": "Six thirteens at Blanche de Blanche's",
+      "blocks_integration": false
+    },
+    {
+      "id": "R-II1-07",
+      "priority": "P1",
+      "segment_id": "fw-ii1-247-01",
+      "page_and_supplied_locator": "247页；所给247.01–250.36",
+      "anchor": "apple, bacchante ... quasimodo ... xray, yesplease, zaza, philomel, theerose",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-08",
+      "priority": "P2",
+      "segment_id": "fw-ii1-251-01",
+      "page_and_supplied_locator": "252页；所给251.01–254.36",
+      "anchor": "grandson's grandson's grandson's grandson / grandmother of the grandmother of his grandmother's grandmother",
+      "blocks_integration": false
+    },
+    {
+      "id": "R-II1-09",
+      "priority": "P2",
+      "segment_id": "fw-ii1-251-01",
+      "page_and_supplied_locator": "251页；所给251.01–254.36",
+      "anchor": "I is a femaline person ... U unisingular case ... for the prize of a thou",
+      "blocks_integration": false
+    },
+    {
+      "id": "R-II1-10",
+      "priority": "P2",
+      "segment_id": "fw-ii1-251-01",
+      "page_and_supplied_locator": "254页；所给251.01–254.36",
+      "anchor": "Longabed ... the herblord the gillyflowrets so fain fan to flatter about",
+      "blocks_integration": false
+    },
+    {
+      "id": "R-II1-11",
+      "priority": "P1",
+      "segment_id": "fw-ii1-255-01",
+      "page_and_supplied_locator": "256页；所给255.01–259.10",
+      "anchor": "what happened to our eleven in thirtytwo antepostdating the Valgur Eire",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-12",
+      "priority": "P2",
+      "segment_id": "fw-ii1-255-01",
+      "page_and_supplied_locator": "257页；所给255.01–259.10",
+      "anchor": "pleating a pattern Gran Geamatron showed them",
+      "blocks_integration": false
+    },
+    {
+      "id": "R-II1-13",
+      "priority": "P2",
+      "segment_id": "fw-ii1-255-01",
+      "page_and_supplied_locator": "259页；所给255.01–259.10",
+      "anchor": "Grant sleep in hour's time, O Loud!",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-14",
+      "priority": "P1",
+      "segment_id": "fw-ii1-255-01",
+      "page_and_supplied_locator": "259页；所给255.01–259.10",
+      "anchor": "That they do ming no merder.",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-15",
+      "priority": "P1",
+      "segment_id": "fw-ii1-219-01",
+      "page_and_supplied_locator": "219页；所给219.01–222.36",
+      "anchor": "Findrias, Murias, Gorias and Falias / ii1-four-coroners-cities",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-16",
+      "priority": "P1",
+      "segment_id": "fw-ii1-239-01",
+      "page_and_supplied_locator": "242页；所给239.01–242.36",
+      "anchor": "spawife / ii1-cooley-couley-manna",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-17",
+      "priority": "P1",
+      "segment_id": "多段；具体注ID见逐注登记",
+      "page_and_supplied_locator": "219–259页；精确行号未重核",
+      "anchor": "外部事实均只列 source_ids: [joyce-fp]",
+      "blocks_integration": true
+    },
+    {
+      "id": "R-II1-18",
+      "priority": "P2",
+      "segment_id": [
+        "fw-ii1-247-01",
+        "fw-ii1-251-01"
+      ],
+      "page_and_supplied_locator": "250/251页；247.01–250.36及251.01–254.36；精确行号未重核",
+      "anchor": "Will any dubble dabble / on the bay?",
+      "blocks_integration": false
+    }
+  ],
+  "conclusion": "needs_revision"
+}

@@ -1,0 +1,622 @@
+{
+  "fw-ii1-219-01": [
+    {
+      "id": "ii1-feenichts-playhouse",
+      "lemma": "Feenichts Playhouse",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文以戏院名开场。可试听 Phoenix 与 nichts 的声音；具体戏院、德语整词与不死鸟典故均待外证，不据此固定场所。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-genesius-archimimus",
+      "lemma": "Holy Genesius Archimimus",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文称 Holy Genesius Archimimus，为排演祝福。圣徒的演员主保职司与古罗马丧礼模仿职责待核，原著不足以证明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-four-coroners-cities",
+      "lemma": "Findrias, Murias, Gorias and Falias",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文明列四地名，与四隅长老相连。前轮报告按 CELT《The Second Battle of Moytura》区分学艺四城与携出圣物；本轮未重开该书，暂不扩述神族史，更不说四城本身遭搬走。四省与四老对应仍待研究。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-soundscript-polyglot",
+      "lemma": "cellelleneteutoslavzendlatinsoundscript",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "长词可分辨 Celt、Hellene、Teuto、Slav、Zend、Latin 等近形，串作多语声音文字。各语言规范名称与词源未逐项外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-mime-title-trio",
+      "lemma": "The Mime of Mick, Nick and the Maggies",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "标题列 Mick、Nick、Maggies。正文另列格拉格、肖夫、伊佐德与少女队；米迦勒／魔鬼、谢姆／肖恩对应是读法，未据本段确认玛吉女郎人数，不保留二十八人的确定断言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-chuffy-nangel-sword",
+      "lemma": "Chuffy was a nangel then and his soard fleshed light like likening",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "nangel、soard、light、likening 使天使与剑光的读法可见，后文以 Glugger 的硫磺相对。米迦勒和兄弟身分的确指仍待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-223-01": [
+    {
+      "id": "ii1-rainbow-colors-roll",
+      "lemma": "Not Rose, Sevilla nor Citronelle; not Esmeralde, Pervinca nor Indra; not Viola even nor all of them four themes over",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文明列七组花名／色名状词，且反复说 not，不能把任何一项径当谜底。内衣与天芥菜紫的确定解谜须另有出处。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-holytroopers-isot",
+      "lemma": "What is that, O holytroopers? Isot givin yoe?",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "holytroopers 可试听 heliotrope，Isot 又近人物名。具体语音重构属试读，不称已核词源；正文保留发问。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-guess-monbreamstone",
+      "lemma": "Have you monbreamstone?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "这是第一猜，随后答 No。可试听 moonstone 与 brimstone；褐红宝石及确定黄色之说未证，撤回。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-guess-hellfeuersteyn",
+      "lemma": "Or Hellfeuersteyn?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "这是第二猜，同样遭否定。词形有 Hell、feuer、steyn 等近形；德语整词及「燧石或硫磺石」词典义待核，不作定论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-guess-coral-pearl",
+      "lemma": "Or Van Diemen's coral pearl?",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "这是第三猜，含 coral、pearl。范迪门地名史及粉红橙色对应待核；原文未把它们给作答案。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-raynbow-cadenza",
+      "lemma": "R is Rubretta and A is Arancia, Y is for Yilla and N for greeneriN",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原文明确排 R—A—Y—N—B—O—W。Rubretta、Arancia、Yilla、greeneriN、Boyblue 可读作色彩变形；O 与 W 不直接等于靛、紫，正文保留字母，不添固定色号。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-227-01": [
+    {
+      "id": "ii1-wiles-of-winsure",
+      "lemma": "wiles of Winsure",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "wiles、Winsure 可使人想到温莎妇人与诡计。与莎剧的确切对应待核，正文只作题目式声形试读。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-epistol-hibruws",
+      "lemma": "his farced epistol to the hibruws",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "词形近 Epistle to the Hebrews，farced 又有塞馅、闹剧的语感。Hibernians 及谢姆作者身分仍是解释，未作确指。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-ulysses-parody-titles",
+      "lemma": "Ukalepe. Loathers' leave. Had Days. Nemo in Patria. The Luncher Out. Skilly and Carubdish. A Wondering Wreck. From the Mermaids' Tavern. Bullyfamous. Naughtsycalves. Mother of Misery. Walpurgas Nackt",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "本段连续列十二个题名状短语。可试与《尤利西斯》篇目比照，但本轮未核前作与具名研究，不保留逐一对应的确定目录。正文按现有词形保留其顺序。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-four-provinces-composite",
+      "lemma": "Leimuncononnulstria",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "此长词可试辨 Leinster、Munster、Connacht、Ulster 的近形。四省缀名是试读，「天下苍生」并非词面已证之义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-sindbook-peoples",
+      "lemma": "sindbook for all the peoples",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "sindbook 可听 sin-book，周围有书写、听审、悲叹。辛巴达、天主教祷书及「即本书全篇」的多重确定对应未证，暂撤。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-castle-throwen-baroque",
+      "lemma": "Remember thee, castle throwen? Ones propsperups treed, now stohong baroque",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文从 propsperups treed 转到 stohong baroque，树／石与繁盛／强固彼此叠声。哈姆雷特、霍斯、巴别塔、维柯四条外部连线尚待各自取证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-231-01": [
+    {
+      "id": "ii1-rattle-juniverse",
+      "lemma": "the first rattle of his juniverse",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可听 juvenile 与 universe，rattle 又带摇铃声。童年意识的读法来自本文声形，未确定人物即谢姆。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-joshua-croesus",
+      "lemma": "Joshua Croesus, son of Nunn",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文把 Joshua、Croesus、son of Nunn 连成惊叹。约书亚族谱、克罗索斯生平及 nun 的语言层待外核，不以人名并列证明神谱。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-jove-chronides",
+      "lemma": "Jove Chronides, Seed of Summ",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此名置于起誓句。Jove、Chronides、Summ 的神谱与语源须分别核实，正文先保留誓语，不判为狂傲心理的唯一投影。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-contrite-attrition",
+      "lemma": "contrite attrition",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文问是否凭 contrite attrition 复原，随即答 Nay。两种悔罪神学定义尚未另核，不只凭原著释为教义论辩。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-adelphus-brother",
+      "lemma": "Adelphus",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "此词同 adolphted、girlycums 连写，又遥应开篇 Adelphi。兄弟与戏院是可比较的声形，希腊语／拉丁化语源待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-hopops-goholden",
+      "lemma": "O, the swinginging hopops so goholden!",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "swinginging 与 goholden 反复增音，形成摇摆和金光的听感。hopops 兼听希望或戴胜鸟，仍属候选，不排尽其他读法。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-235-01": [
+    {
+      "id": "ii1-salat-nabis",
+      "lemma": "their salat, the madiens' prayer to the messiager of His Nabis",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原文写 salat、Nabis、Fateha，又写俯身、合手、低头。可确认祈祷姿态；具体伊斯兰礼仪名称及肖夫神明身分待外证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-holiodrops-heliotrope",
+      "lemma": "holiodrops",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "可听 holy、drops、heliotrope 的近音。正文留圣滴与香气的试读，不把神秘汁液说成已有研究结论。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-xanthos-thrice",
+      "lemma": "Xanthos! Xanthos! Xanthos!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文三呼 Xanthos，紧接感谢 mighty innocent。希腊语词义、阿喀琉斯神马及金发少年确指均待外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-gizzygazelle-bimboowood",
+      "lemma": "here in Gizzygazelle",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "gazelle 字形可辨，地名状组合跨接下一段 Tark’s bimboowood。正文暂留拟音，不据此另添童话竹林实景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-teomeo-daurdour",
+      "lemma": "Teomeo! Daurdour!",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "这两个叹声插在蜜蜂与花粉之后。盖尔语来源未给原词或词典，暂按声音呼号处理。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-wych-elm-ranelagh",
+      "lemma": "the wych elm of Manelagh is still flourishing",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原文说 Manelagh 的 wych elm 仍在露天生长。地名是否 Ranelagh、树种及 ALP 化身各须外证，暂不据此改地名身分。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-239-01": [
+    {
+      "id": "ii1-vania-ecclesiastes",
+      "lemma": "Vania, Vania Vaniorum, Domne Vanias!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Vania 与 Vaniorum 构成反复，近 Vanitas 的声音可供比较。拉丁经句原文、俄语人名与具体典故本轮未外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-cooley-couley-manna",
+      "lemma": "Madame Cooley-Couley, spawife to laird of manna",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文为 spawife，正文试译占卜娇妻，未添温泉地点。前轮报告以 DSL spae 条说明女占卜者；本轮未重开词典，词典事实不冒作原著自释。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-tarks-bimboowood",
+      "lemma": "Tark's bimboowood",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "bimboowood 可试听 bamboo wood 与 bimbo wood。它承接上一工作段末 Gizzygazelle，不把人工分段当成原书叙事结构。具体树林位置未定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-brood-blackmail-allbigenesis",
+      "lemma": "brood blackmail, dooly redecant allbigenesis",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "可辨 brood、blackmail、Genesis 的近形。阿尔比派教义史及谢姆写作反抗须外证，不把字形并置直接转成历史论断。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-master-of-snakes",
+      "lemma": "master of snakes",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文称呼蛇之主，后接 sloughchange、napple。可试联想蜕皮与苹果；伊甸、阿波菲斯、帕特里克三条典故均未外核，不合称已证。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-wintermantle-pointefox",
+      "lemma": "wintermantle of pointefox",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文把胸针与冬日斗篷相连，fox 字形可见。具体都柏林地名未给证据，撤回旧注地名断言。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-243-01": [
+    {
+      "id": "ii1-ani-mama-bustles",
+      "lemma": "Ani Mama and her fiertey bustles",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Ani Mama 与裙撑相连，可试读作安娜母亲的声音。Anu 女神及 ALP 身分仍须另证，不据此确定神话人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-zoravarn-lhorde",
+      "lemma": "her zoravarn lhorde and givnergenral",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "可试听 sovereign lord 与 governor-general，原文又叙收留与婚姻约束。俄语沙皇、波斯统帅与 HCE 确指均待外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-durant-coverture",
+      "lemma": "durant coverture",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原文紧接 bound her，并说 so as she could not steal from him，确有婚姻束缚和财物语境。英国普通法中的完整法律效果待法史证据，不凭原著确认妻子财产权范围。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-maccumhal-funeral",
+      "lemma": "Hetman MacCumhal foots the funeral",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "foot the funeral 在此可按承担葬礼费用读。Hetman 与 MacCumhal 的人物、语言和神话联系待外核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-jeremy-chastenot-coulter",
+      "lemma": "Jeremy, the chastenot coulter",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "coulter 可按犁头试读，chastenot 又写不受训。Jeremy 与格拉格／谢姆对应尚属读法，不定为唯一身分。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-danger-solitude-pause",
+      "lemma": "Else there is danger of. Solitude.",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "原文将 danger of 与 Solitude 各自截停。正文保留两次顿挫；不额外断言幽暗宿命或固定少女心理。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-247-01": [
+    {
+      "id": "ii1-timekiller-spacemaker",
+      "lemma": "timekiller to his spacemaker",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文直写消磨时间者与营造空间者，又往返树石。对应肖恩／谢姆及温德姆·路易斯思想史的说法未外核，暂保留对举，不锁人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-elmstree-to-stene",
+      "lemma": "Elmstree to Stene",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原文自 Elmstree 到 Stene 再返回，树与石的声形可辨。ALP／HCE 的确定对应与「最核心」排行非本句可证，撤回。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-holy-santalto",
+      "lemma": "Holy Santalto",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "此名用作感叹，随后还有 cursing saint。圣阿尔托生平、年代及定居地未核，不保留确定传记。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-subliminal-personality",
+      "lemma": "subliminal of his invaded personality",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "原文有 control number thrice、subliminal、invaded personality。可确认控制与人格的词汇层；弗洛伊德、迈尔斯的学说归属须独立证据。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-piebold-nig",
+      "lemma": "piebold nig",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文有押注之语，可试读 piebald nag。是否隐指格拉格最后一搏仍待上下文及研究，不以马色确定人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-dubble-dabble-bay",
+      "lemma": "Will any dubble dabble",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "dubble、dabble 可兼听 double 与涉水，下一工作段才接 on the bay。正文两段联动，只留一次海湾，未自行确定都柏林湾。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-251-01": [
+    {
+      "id": "ii1-attila-goths-scourge",
+      "lemma": "Attilad! Attattilad! Get up, Goth's scourge on you!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文写 Attilad、Goth’s scourge。可见阿提拉式名字与鞭的呼号；历史年代、称号与确指格拉格须另核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-apophotorejected-thrust",
+      "lemma": "Thrust from the light, apophotorejected",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "前句已明写 Thrust from the light，可据此译遭逐出光明。希腊词根拆分待词典，不把黑暗魔怪身分当事实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-jocubus-nic-jay",
+      "lemma": "Nor far jocubus? Nic for jay?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "原文连写 jocubus、Nic、jay。人名与鸟名可并听；雅各布即肖恩、尼克即谢姆的确定关系未据此证实。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-foul-deed-thoughts",
+      "lemma": "foul deed thougths, wishmarks of mad imogenation",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "原文以 foul deed thougths、wishmarks、mad imogenation 描写污斑与念头。Imogen 人名联想可存，不能据此断定人物自谴。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-impluvium-visitation",
+      "lemma": "There's a visitation in your impluvium",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "visitation 可兼来访与灾厄；impluvium 译中庭承水池是词义试读。古罗马住宅形制尚待外部辞典或史料，不扩作搜检实景。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-herblord-gillyflowrets",
+      "lemma": "the herblord the gillyflowrets so fain fan to flatter about",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "附近有 largely longsuffering laird、heavy Humph、Longabed、more than man。正文不锁肖夫；父亲、巨人与群芳关系保留为待核解释。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ],
+  "fw-ii1-255-01": [
+    {
+      "id": "ii1-thunderword-seven-lukkedoeren",
+      "lemma": "Lukkedoerendunandurraskewdylooshoofermoyportertooryzooysphalnabortansporthaokansakroidverjkapakkapuk",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "词目实有100个ASCII字母，终场紧接关幕、逃散与门禁。全书排序与丹麦语 lukkede døre 的释义未在本轮外核，不称已证词源。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-come-indoor-scoffynosey",
+      "lemma": "Come indoor, Scoffynosey, and shed your swank!",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "本句直接喝令进屋、收起派头，周围另有保姆威胁。可据文本说明归家训斥，不把它认定为现成市井俗谚。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-play-schouwburgst-curtain",
+      "lemma": "The play thou schouwburgst, Game, here endeth. The curtain drops by deep request.",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原文说戏终与落幕，故正文保留终场。莎剧某篇致辞及荷兰语剧院义待外证，不指定唯一出处。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-loud-hear-us-litany",
+      "lemma": "Loud, hear us! Loud, graciously hear us!",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Loud 与 Lord 近音，原文两呼都为 Loud，不能把第二句静默换成 Christ。正文兼留主与高声的试读；正式连祷文版本待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-tree-stone-vico-formula",
+      "lemma": "Till tree from tree, tree among trees, tree over tree become stone to stone, stone between stones, stone under stone for ever.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "三组树的介词关系转为三组石的介词关系；正文保留重复与层叠。ALP／HCE、维柯终局与永恒死寂的确定解释未证，不设名句排行。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii1-ha-he-hi-ho-hu-mummum",
+      "lemma": "Ha he hi ho hu. Mummum.",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "Ha he hi ho hu 依次呈 a—e—i—o—u，末尾 Mummum 合唇。可听低笑、母亲或哑剧的回声，皆属试读，不裁唯一含义。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    }
+  ]
+}

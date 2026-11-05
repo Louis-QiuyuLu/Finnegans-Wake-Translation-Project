@@ -1,0 +1,702 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "review_reports": [
+    "reports/reviews/gemini-book-II-2026-11-03/REVIEW.md",
+    "reports/reviews/gemini-book-II-2026-11-03/II-1.semantic.r0.md",
+    "reports/reviews/gemini-book-II-2026-11-03/II-2.semantic.r0.md",
+    "reports/reviews/gemini-book-II-2026-11-03/II-3.semantic.r0.md",
+    "reports/reviews/gemini-book-II-2026-11-03/II-4.semantic.r0.md"
+  ],
+  "chapters_repaired": {
+    "II.1": {
+      "file": "manuscript/chapters/II-1.json",
+      "sha256": "611e514306c9250f0297b40b0809f7d37aa0ea7dcb0938681cbb83f0d9b9bbcb",
+      "issues_count": 18
+    },
+    "II.2": {
+      "file": "manuscript/chapters/II-2.json",
+      "sha256": "eb196e547a891cf94a8e54b08bbb0c1884d28b002d6721627d59c3d8f7b90cfa",
+      "issues_count": 22
+    },
+    "II.3": {
+      "file": "manuscript/chapters/II-3.json",
+      "sha256": "701dd86643e9157e7b0cfd20af208a7246cf00efe6e3a5d3808dabbc38f43094",
+      "issues_count": 27
+    },
+    "II.4": {
+      "file": "manuscript/chapters/II-4.json",
+      "sha256": "3e63a160fcda61bef391d651611f2ea90b5e809a88ee45993a74e5a25abe8f53",
+      "issues_count": 7
+    }
+  },
+  "disposition_summary": {
+    "total_issues": 74,
+    "resolved": 74,
+    "blocked": 0
+  },
+  "issues": [
+    {
+      "id": "R-II2-01",
+      "chapter": "II.2",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "正文、左右旁注与原作脚注混层",
+      "action": "按页严格划分【正文】、【左旁注】、【右旁注】与【原注n】。纠正p264将正文'Fossilisation, all branches'误作页缘的错误；纠正p293将左旁注接在'普遍之'后面的句法污染；恢复p306-307左侧历史人物旁注与右侧各道作文试题题目的逐行平行对照结构。"
+    },
+    {
+      "id": "R-II2-02",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-260-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "把一句对白扩写成死亡场景",
+      "action": "删除无原文依据的胸膛中枪、都柏林湾与波涛拍岸扩写；恢复短对白及发言者：‘“我中枪了，”大个子卫兵说道。’并正确锚接原注1。"
+    },
+    {
+      "id": "R-II2-03",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-260-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p260–262 原作脚注漏译与编号错挂",
+      "action": "逐条补齐并重新挂接第260页至262页全部原作作者脚注：恢复p260注1首句‘Rawmeash, quoshe with her girlic teangue’；补译p261注1（扮大人与紧拥）、注2（长串地址/法偿货币/坚实大地等）、注3（葡萄汁族名）、注4（碰，小偷脑袋低语）；补齐p262注1至注7全部原作脚注（包含祈使之笑与格之暗、拉美特利镜子、铁壁桶、拉丁三句Apis amat aram等、打暗影、头疼玛丽与贝格），清除用正文或旁注冒充脚注的错挂。"
+    },
+    {
+      "id": "R-II2-04",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-264-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "数词误算与四百之数遗漏",
+      "action": "恢复'four of hundreds'（四百）与'three and threescore'（六十三，3+60，非66）：准确译作‘折腰受售，充作四百条汉子之身躯，编为六十三队军卒，平分标价二十六先令六便士。’"
+    },
+    {
+      "id": "R-II2-05",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-264-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "教父改成家叔",
+      "action": "纠正p266原注2亲属关系：将'家叔'修正为'教父'（‘常为我的教父、索兹的B·B·布罗菲牧师奔走杂务’），消除擅增的父系血缘长幼关系。"
+    },
+    {
+      "id": "R-II2-06",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-268-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p270 脚注缺失与 p271 连锁动作缩减",
+      "action": "补齐p270原注1（‘这群鹅全出笼了’）与原注2（‘郎王蠕虫老晃悠大肚腩’），将正文Lumpsome句归还正文；逐环恢复p271少女听风、风举叶、叶裹果、果悬树、树生园之完整连锁句法结构；补全p271左旁注Cliopatria后半句（‘克利奥帕特拉，你的长袜成历史了’）。"
+    },
+    {
+      "id": "R-II2-07",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-272-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p273–275 旁注缺项",
+      "action": "逐项补回缺失的作者左旁注：p273‘各家紧抱堤岸！’（Femilies hug bank!）；p274‘默多克。’（Murdoch.）与‘正如摇叉手所投掷。’（As Shakefork might pitch it.）；p275‘二者在宏观透视镜前展翅窥视。’（Two makes a wing at the macroscope telluspeep.）。"
+    },
+    {
+      "id": "R-II2-08",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-276-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p276、278 漏掉旁注称谓与信件抬头",
+      "action": "逐项补回左旁注：p276‘致在他庇护之下的我们这帮孩童。’（For all us kids under his aegis.）；p278‘松软肥大叔父致轻浮细小侄女。正如斯。正如斯斯。’（Uncle Flabbius Muximus to Niecia Flappia Minnimiss...）；p278‘亲爱布鲁图，借我拖欠款。’（Dear Brotus, land me arrears.）。"
+    },
+    {
+      "id": "R-II2-09",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-280-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p281–282 漏掉两条完整左旁注",
+      "action": "逐项补回左旁注：p281‘给第六项一先令石币，却不给那燕麦粥祭司半文钱。’（A saxum shillum for the sextum but nothums for that parridge preast.）；p282‘全副武装、游历四方、胡吹乱捧的虚浮排场。’（Panoplous peregrine pifflicative pomposity.）。"
+    },
+    {
+      "id": "R-II2-10",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-280-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "百数体系注释数字矛盾",
+      "action": "撤销注释ii2-family-arithmetic-100中自列12+28+40+4+3=87却声称百数圆满之维柯体系的自相矛盾断言；准确释出原文列出的十二位酒客（12）、二十八位卷发少艾（28）、四十位戴软帽妇人（40）与受托者（yours）凑足百数的数谜游戏性质。"
+    },
+    {
+      "id": "R-II2-11",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-284-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "四种奇异语言语系归属纠正",
+      "action": "修订注释ii2-four-strange-tongues：区分欧洲非印欧语言（巴斯克语为孤立语，芬兰语与匈牙利语属乌拉尔语系）与爱尔兰盖尔语（teanga，属印欧语系凯尔特语族），删除将盖尔语误划为非印欧语系的错误断言。"
+    },
+    {
+      "id": "R-II2-12",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-288-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p290 大片正文与原注失落补全",
+      "action": "完整补译第290页中间从三位医官水表计时之后至葡萄酒商公司之间的整大片正文（包含第四位医官麦克多莱特会同公证人证实、初致问候、布林肯索普温存浴、冰冷凉水澡折返、锁子甲铁衬衫与防漏化名、单身发愿修女白颊、现款定金等整串文字）；补齐该页遗漏的原作脚注3（老马马鲁约鲁姆）、注4（柔软大耳）、注5（波托贝洛波默罗伊·罗奇）、注6（多奇小姐修女面纱）。"
+    },
+    {
+      "id": "R-II2-13",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-293-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "几何作图标记与连线操作恢复",
+      "action": "正文精准还原几何端点与连线指令：p294直线AL停歇于兰姆达点（λ），剔除注码粘连造成的‘兰姆达一’；p296明确将阿尔法点（α）与佩点（P）相连拉出虚线，将埃尔点（L/鳗鱼派）与派点（π/淡麦酒）用实干线连接；保留几何图解中相交双圆与坐标点之清晰复原。"
+    },
+    {
+      "id": "R-II2-14",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-293-01",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "Mi vidim Mi 注释释文形态差异交代",
+      "action": "修订注释ii2-ugol-egal-ogle：说明原文字面形式为‘Mi vidim Mi’（字面为我们看见我们），指出其与标准塞尔维亚-克罗地亚语反身互见范式‘mi vidimo se’的形态与词尾距离，并记录斯拉夫语谐音拟声读路。"
+    },
+    {
+      "id": "R-II2-15",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-293-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "旁注切断肚脐与顶点关系修正",
+      "action": "恢复p297正文主句连续空间关系：‘直至其底谷深渊旋涡般正处于（容我借两记俏皮眨眼指正）其肚脐之顶点注定所在之处’；将‘普罗米修斯，抑或供应之许诺’独立标为左旁注，不再篡改正文作其空间宾语。"
+    },
+    {
+      "id": "R-II2-16",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-298-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p302 左旁注补齐与长s字体无据断言撤回",
+      "action": "补译p302独立左旁注：‘赋予生魂之女性维系受苦之超人。’（Ensouling Female Sustains Agonising Overman.）；修订注释ii2-lifp-year-fends，撤销未见物证的‘十八世纪古印本长s字体印刷’断言，客观说明用字母f拟写长s（ſ）之字形联想与口齿不清谐谑。"
+    },
+    {
+      "id": "R-II2-17",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-303-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "less is the pity 程度否定反转修正",
+      "action": "纠正p304‘更为遗憾’之相反译法，恢复‘倒也不甚可惜’（less is the pity）之弱可惜程度与假设语气：‘倒也不甚可惜，因她并不像若是兼有弗吉尼亚成就风范那般容易成为可人甜心。’"
+    },
+    {
+      "id": "R-II2-18",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-303-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p305–306 跨页大段连续正文补齐",
+      "action": "完整补译第305页至306页失落的连续正文：三次递增的陋室呼喊（你在陋室！你在窄小陋室！！你在倾斜窄小陋室！！！）、安静闭嘴命令、法律禁令、笔筒插夜壶、问候辞万岁与再会、少女泉水之呼唤、禁止大嚼小厮赞词、书籍耳叶、明日携手杖围巾与神圣钱袋向泥沼圣地巡礼、头颈环绕光环等整段核心动作与词句。"
+    },
+    {
+      "id": "R-II2-19",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-303-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p303 旁注宾语化修正与章末试题对齐",
+      "action": "p303正文恢复查尔斯之叉在丹尼仔与康诺利之间穿刺各路帕内尔派的主句句法，将‘妥协构想与配方寻觅’独立列为左旁注；p306-307按题项保存加图、尼禄、扫罗、恺撒、奥维德、亚当夏娃等人物与右侧作文题的平行排版对应。"
+    },
+    {
+      "id": "R-II2-20",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-303-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p304–307 原作脚注补全与校准",
+      "action": "补译p304注1（砰砰响男孩）、注2（小孩汉干杯）；p305注1（三先令蓝染牺牲）、注2（未穿短裙但经理有份）、注3（肥皂喷泉与恶臭）；p306注2（划掉这一天戴上睡帽）；p307注1（戏谑与豆茎）、注7（肉汤捞杂碎河马狐狸脸）、注8（四声问答先生）。"
+    },
+    {
+      "id": "R-II2-21",
+      "chapter": "II.2",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "注释词义、爵位与器械细节证据规范化",
+      "action": "校正ii2-booming-cursowarries中的corsair词义（私掠船/海盗船，非现代海军巡洋舰）；调减ii2-lutharius-sinobiled的确定公爵断言；调减ii2-pappapassos-mammamanet的规范拉丁语法则判定；撤回ii2-sangannons-dream-shannon与ii2-run-phoenix-run的确定赛事歌名断言；调减ii2-buckley-russian-general-pumped的机枪望远镜等过度器械描写。"
+    },
+    {
+      "id": "R-II2-22",
+      "chapter": "II.2",
+      "segment_id": "fw-ii2-303-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "章末夜信署名与注释定位校正",
+      "action": "在注释ii2-jake-jack-sousoucie中阐释杰克（肖恩）、雅各布（谢姆）与无忧小妹（伊瑟，sousoucie谐拟法语sans souci与souci忧虑）；将注释ii2-kish-anticheirst中的定位修正为第308页首条原作脚注，消除过期的段数定位错误。"
+    },
+    {
+      "id": "R-II3-01",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-309-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "收音设备与接收声响清单恢复",
+      "action": "补回超屏蔽伞状天线、贝利尼-托斯蒂定向耦合系统、生动音调扬声器、空中同伴信号、港口船只发射波、电键咔哒声与吸尘杂音、电气滤波及增益控制；删除无原文依据的地下输酒管道与笼统酒馆街景扩写。"
+    },
+    {
+      "id": "R-II3-02",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-309-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "Hiberio-Miletians 译名纠正",
+      "action": "将误译的‘希伯来’纠正为‘希伯尼亚-米利都血脉与盎格鲁-诺斯人’，与爱尔兰远古神话后裔及注释严格对齐。"
+    },
+    {
+      "id": "R-II3-03",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-309-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "拔起内伊湖泥炭塞动作恢复",
+      "action": "将改写的‘荒原饮马奶酒’剧情纠正为‘库尔森，那位巴塔哥尼亚/毕达哥拉斯人，从内伊湖中拔起泥炭软木塞’，恢复原动作对象与内伊湖地名。"
+    },
+    {
+      "id": "R-II3-04",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-309-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "工匠行会清单补齐",
+      "action": "补齐被截断的造弓制箭匠、束带匠、丝绸布料商、皮鞋匠，以及首当其冲且绝非末尾的织工等行业名目；删除无文本依据的吵嚷杯盏场面添饰。"
+    },
+    {
+      "id": "R-II3-05",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-309-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "拆除脚手架与踢向证人动作恢复",
+      "action": "补回谁下令率先拆除脚手架、谁拆走所需厚木板的盘问与争执，以及向证人飞踢一脚（却踢空了）的具体叙述，删除无原文依据的‘秤杆微翘，账目分明’。"
+    },
+    {
+      "id": "R-II3-06",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-315-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "求婚裤装问答与山羊跑动补齐",
+      "action": "补回关于霍拉斯求婚长裤去向的完整问答（放在麦芽烘房后头）与给山羊套上裤子奔跑的情节；删除无原文依据的公堂讨公道及牢狱添笔。"
+    },
+    {
+      "id": "R-II3-07",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-315-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "掌柜男主人人称纠正",
+      "action": "纠正将‘he’误翻为‘她/主妇’的错误，恢复‘万事妥当，店中掌柜言道，因他深沉如北极星’的男性指代。"
+    },
+    {
+      "id": "R-II3-08",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-315-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "小鼠携走全景画卷对象纠正",
+      "action": "纠正将picture擅改作‘整块干酪逃入墙隙’的偷食故事，恢复‘一只小鼠，微末纤尘，携整幅宏大全景画卷疾走而去’的宏微反差意象。"
+    },
+    {
+      "id": "R-II3-09",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-321-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "气象预报、新闻与广告串列补齐",
+      "action": "逐类补齐明日气象展望（低压减弱、转晴、水汽）、亚丁撞车灾害、哈切特副总督葬礼及一先令十一便士价格广告；删除代替原文的流言与鸟兆婚典概述。"
+    },
+    {
+      "id": "R-II3-10",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-321-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "and be danned to ye 语气否定纠正",
+      "action": "纠正将诅咒改写成祝福（‘愿汝受福’）的反向误译，恢复其冒犯与受诅咒受罚之真实语气（‘去你的该受诅咒受罚吧’）。"
+    },
+    {
+      "id": "R-II3-11",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-327-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "叩门问答与警告对话恢复",
+      "action": "恢复连续叩门问答（何处战事、孪生子之战、门外是谁、缺了苹果）及对蒂姆·汤米·梅卢尼的直接警告；删除代替原文的老妇窃听、青年吹哨与性爱梗概。"
+    },
+    {
+      "id": "R-II3-12",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-327-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "连续地貌与聚落词清单补齐",
+      "action": "按序补全高山湖（tarns）、垦地（thwaites）、村落（thorpes）、柳沼（withes）、农庄（tofts）、瀑沟（fosses）、荒丘（fells）、低洼地（haughs）、杂木林（shaws）、小树林（lunds）、园圃（garths）与溪谷（dales）的完整清单。"
+    },
+    {
+      "id": "R-II3-13",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-327-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "段尾擅添战壕退伍老兵预告删除",
+      "action": "严格依原文以‘插断。遏止或回退。转向。’收束本段；彻底删除无原文锚的克里米亚泥泞战壕退伍老兵巴特与塔夫登场预告段落。"
+    },
+    {
+      "id": "R-II3-14",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-333-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "三十三误译纠正为三十二",
+      "action": "纠正p338中'thirty two eleven'被误写成'三十三号十一番'的数值错误，准确恢复为‘三十二，十一’。"
+    },
+    {
+      "id": "R-II3-15",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-333-01",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "Chang-li-meng 剧目事实断言求实改订",
+      "action": "修订注释ii3-chang-li-meng：撤销未经查验的19世纪法国杂耍剧既成事实断言，客观交代查理曼（Charlemagne）、中国官话姓名（Chang-li-meng/常里蒙）与铜人（l'homme d'airain）之多重词形读路，明记文献待核。"
+    },
+    {
+      "id": "R-II3-16",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-339-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "赛马播报三匹阉马名字补齐",
+      "action": "补全原文列出的三匹马名字：霍莫·梅德·墨水（Homo Made Ink/自制墨水）、贝利烽火（Bailey Beacon）与拉塔托希（Ratatuohy），消除以笼统‘三匹阉马’替代专名的遗漏。"
+    },
+    {
+      "id": "R-II3-17",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-345-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "一千一百三十二年份词序纠正",
+      "action": "纠正将'elve hundred and therety and to'误排为'千三百二十载'的错位，准确恢复为‘一千一百三十二载’（1132年）。"
+    },
+    {
+      "id": "R-II3-18",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-351-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "下士军阶纠正为列兵",
+      "action": "将误定的'无拘无束之下士'纠正为‘赤膊列兵，未带狗腿军衔条/无拐腿’，准确还原private之列兵军阶并保留bare/without关系。"
+    },
+    {
+      "id": "R-II3-19",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-357-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "回折比较句法与情态层级补全",
+      "action": "将压缩的单一今昔比较扩充并恢复其回折句法：‘彼并不比其在能够胜过其后之证明前本当达至之境况更好’，完整传达would have been与could have been之纠缠结构。"
+    },
+    {
+      "id": "R-II3-20",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-363-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "out of the pie 珍珠动作方向倒置纠正",
+      "action": "纠正将取出误译为放入的错误，将‘塞入馅饼之中’纠正为‘从馅饼中把珍珠捞出’，准确恢复介词out of之真实运动方向。"
+    },
+    {
+      "id": "R-II3-21",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-363-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "条件否定倒置与酸沙丁鱼纠正",
+      "action": "纠正将无罪条件改写成有愧的错误，并将无据的‘酸黄瓜’修正为保留字形的‘酸沙丁/酸教长’：‘若良心上本无任何罪愆，便切莫吞食酸沙丁/酸教长’。"
+    },
+    {
+      "id": "R-II3-22",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-369-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "妻子变为侄女的人物关系补回",
+      "action": "补回从句中‘which begame his niece’之身份转变：‘娶下一位后来化作其侄女的妻子，将其青春之躯倾注于紧身衣裤之中’，消除对关键亲属称谓的擅删。"
+    },
+    {
+      "id": "R-II3-23",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-376-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "hores 近音风暴增写撤回与七尤物还原",
+      "action": "撤回无词锚的‘七重风暴’天气增写，恢复七个形象与思绪空间之关联：‘七个时辰/妖娆尤物（hores拟hours/whores）常驻其思绪之家……两个艾达，两个夏娃，两个内茜与鲁比’。"
+    },
+    {
+      "id": "R-II3-24",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-376-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "wheateny 小麦误作大麦纠正",
+      "action": "纠正谷物对举中的作物偷换，将‘大麦麦芽’改回小麦：‘黑麦对于中意者固然不错，但那小麦者方显真正可爱’。"
+    },
+    {
+      "id": "R-II3-25",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-376-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "徒步步行与母马走失因果倒置纠正",
+      "action": "纠正将缺马改写成骑马循踪的因果倒置，恢复足行与缺马事实：‘在众人各自奔赴泥泞城堡之后，由于麦卡锡的母马走失，他们只得徒步跋涉离去’。"
+    },
+    {
+      "id": "R-II3-26",
+      "chapter": "II.3",
+      "segment_id": "fw-ii3-376-01",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "naggin 计量单位精准化",
+      "action": "纠正将naggin擅换作夸脱（quart）的错误，保留原名并准确注明爱尔兰液体容量：‘远超一吉尔或一内金（naggin，爱尔兰液体容量单位，约四分之一品脱）的英制干液度量’。"
+    },
+    {
+      "id": "R-II3-27",
+      "chapter": "II.3",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "全章中文覆盖声明与复核说明更新",
+      "action": "在章节元数据中更新coverage_review说明，如实记录本轮已核改全部27项语义与覆盖遗漏（补齐设备、工匠、裤装、广播、地貌，纠正方向与否定，撤回增写）。"
+    },
+    {
+      "id": "R-II4-01",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-383-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "开篇鸟歌长篇情节增写撤回与原文寻衣动作恢复",
+      "action": "删除糠皮交易、挑蜗牛、前马、箱笼、手推轮车与晾衫等大段无原文依据的情节；精准还原歌辞：‘眼见那老秃鹫在暗中呼喊寻觅衬衫，并在帕默斯敦公园周遭各处搜寻其斑点裤？……那小子便是如此这般挣得自己的钱财与名望！’"
+    },
+    {
+      "id": "R-II4-02",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-391-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "约翰尼句链替写剧情撤回与鞋履/女主人家政事实恢复",
+      "action": "删除后甲板、克利夫登、全美女子、抚膝巡城等增写；恢复丰硕臀部、迟缓未刷净鞋子、未照料一家之母主妇、离异与清白禁令的原有句链。"
+    },
+    {
+      "id": "R-II4-03",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-391-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p393 虚构瘟疫与拥吻落泪煽情情节删除",
+      "action": "删除全爱尔兰大瘟疫、克隆塔夫、涉水痛哭拥吻等自行补写的情节；逐句恢复古王索特里克、市长巴特、亨格福德泥道、击打盘绕鱼群与受惊出没处之文本原貌。"
+    },
+    {
+      "id": "R-II4-04",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-391-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "p394 跨段自我论述链条断裂修复与虚无收束删除",
+      "action": "删除擅添的‘万籁俱寂，星斗沉沦’；补全预先清痰除黏、长舌之歌、艾思尼·梅思尼、英格瓦肯萨迦金蛋、万物内蕴直至重新联合之直觉（intuitions of reunited），与下一段首句‘自我之域’（selfdom）实现无缝跨段句法连接。"
+    },
+    {
+      "id": "R-II4-05",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-387-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "四个Kill-学府名称及贵妇定年限定补齐",
+      "action": "逐一补全医死或治好（Killorcure）、统统杀光（Killthemall）、互相残杀（Killeachother）与地板上的基尔凯利（Killkelly-on-the-Flure）四大学府名目；恢复一位论贵妇在原第1132号或1169号之二高寿、为众人所见并喜爱的限定句。"
+    },
+    {
+      "id": "R-II4-06",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-387-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "十一点三十二分时刻层恢复",
+      "action": "纠正仅保留公元1132年纪年而吞掉清晨时刻的做法，恢复‘在明媚清晨……时约莫十一点三十二分——是吧？’的时钟时刻可读层。"
+    },
+    {
+      "id": "R-II4-07",
+      "chapter": "II.4",
+      "segment_id": "fw-ii4-387-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "高度量度一码与罗马天主教双臂恢复",
+      "action": "恢复遗漏的‘一码’（one yard）量度与‘罗马天主教’（Roman Catholic）宗派修饰：‘立于一码一百三十二行（兼拟百与手宽）的高度之上，在我们四人面前，将其揽入罗马天主教的双臂之中’。"
+    },
+    {
+      "id": "R-II1-01",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-219-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "十二少女擅增删除",
+      "action": "删除无原文依据且与注释二十八人冲突的‘十二名’，改作忠实于原文字面‘a month's bunch’的‘整整一月成束娇媚少女’。"
+    },
+    {
+      "id": "R-II1-02",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-227-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "Shrove Sundy 星期天纠正",
+      "action": "纠正将Sunday误作Tuesday的错误，将‘忏悔星期二’改回‘在忏悔星期日……向麦克菲尔森宣泄净尽’。"
+    },
+    {
+      "id": "R-II1-03",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-231-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "Rio Grande 地名静默替换纠正",
+      "action": "纠正将Rio Grande改换成巴西里约热内卢的错误，改回‘充作驶向格兰德河（大河）之幸运星’。"
+    },
+    {
+      "id": "R-II1-04",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-231-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "submerger 沉没动作恢复",
+      "action": "恢复被单一‘封冻’替代的沉没主动作，准确译作‘所费辰光甚至少于冰期封冻使亚特兰蒂斯沉没’。"
+    },
+    {
+      "id": "R-II1-05",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-239-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "yours 与 ores/ours 归属转折纠正",
+      "action": "纠正前后两次均译作归你所有的错误，恢复女声对自我归属的诉求转折：‘我们虽尚属你之雏鸟，然终有一日我们将豁然敞开归属于我们自身（ores兼拟ours/矿石）’。"
+    },
+    {
+      "id": "R-II1-06",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-247-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "Six thirteens 六个十三恢复",
+      "action": "恢复英文中的six数词，纠正擅加‘对’而变作十三对（26人）的算式，改作‘布兰奇·德·布兰奇家六个十三佳丽’。"
+    },
+    {
+      "id": "R-II1-07",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-247-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "A–Z字母顺序色彩清单无据色号清除",
+      "action": "撤销为每个词生硬配定的未核色号（如卡西莫多赭、X光青等）；明确展示从apple到zaza按A至Z首字母顺序排列的色彩与服饰名目序列。"
+    },
+    {
+      "id": "R-II1-08",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-251-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "四重亲属链对称回声恢复",
+      "action": "恢复原文四重重复的代际称谓，消除‘玄孙之曾孙’的非对等缩减：‘玄孙之玄孙之玄孙之玄孙……曾祖母之曾祖母之曾祖母之曾祖母’。"
+    },
+    {
+      "id": "R-II1-09",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-251-01",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "thou 语法第二人称层记录",
+      "action": "在注释中补出thou在相邻I、O、U语法语境中作为第二人称古称‘汝’的层级，与俚语‘千金’并存呈现。"
+    },
+    {
+      "id": "R-II1-10",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-251-01",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "herblord 锁定肖夫断言修正",
+      "action": "修订注释ii1-herblord-gillyflowrets：不将草药领主独断锁为肖夫一人，客观交代卧床巨人（Longabed）、父亲HCE与女性群芳追随交叠的多重意象。"
+    },
+    {
+      "id": "R-II1-11",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-255-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "thirtytwo 误作三十及前后定年纠正",
+      "action": "将三十纠正为三十二，并恢复antepostdating的前后双向定年歧义：‘在爱尔兰通俗纪年前后定年之三十二年里我们那十一人究竟发生何事’。"
+    },
+    {
+      "id": "R-II1-12",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-255-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "Gran Geamatron 女地质学家擅定纠正",
+      "action": "纠正无据的职业替换，恢复‘大地大母/几何大母（Gran Geamatron）向其展示之蚱蜢、跳蚤与兔原跳跃之图案’。"
+    },
+    {
+      "id": "R-II1-13",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-255-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "in hour's time 入睡时点纠正",
+      "action": "纠正将到时入睡改写为睡眠时间短的‘片刻安眠’，恢复‘主啊，恩赐到时/一小时内安睡！’之时间距离。"
+    },
+    {
+      "id": "R-II1-14",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-255-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "ming no merder 杀戮层面恢复",
+      "action": "恢复merder所指的杀戮（murder）罪行，纠正仅留污秽的遗漏：‘免生混浊，不作杀戮’。"
+    },
+    {
+      "id": "R-II1-15",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-219-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "达南神族四城与圣物神话事实纠正",
+      "action": "修订注释ii1-four-coroners-cities：依UCC CELT文献事实，明确达南神族系在北方四城修习技艺并从中携出四大圣物，纠正将四座城自身携来的事实错置。"
+    },
+    {
+      "id": "R-II1-16",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-239-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "spawife 拆为温泉占卜妇纠正",
+      "action": "修订注释ii1-cooley-couley-manna：依DSL词典证实，spae-wife为苏格兰方言占卜妇/女预言者，彻底删除无原文依据的‘温泉’释义。"
+    },
+    {
+      "id": "R-II1-17",
+      "chapter": "II.1",
+      "status": "resolved",
+      "disposition": "qualified",
+      "title": "项目注释外部事实证据分层规范化",
+      "action": "逐条理清文学联想与外部历史事实的边界，不再将纯粹声形戏拟与未经实际查阅的学术断言混为一谈。"
+    },
+    {
+      "id": "R-II1-18",
+      "chapter": "II.1",
+      "segment_id": "fw-ii1-251-01",
+      "status": "resolved",
+      "disposition": "fixed",
+      "title": "分段接缝处在都柏林湾重复删除",
+      "action": "删除段落fw-ii1-251-01开头处因跨段机械切分而多余重复的‘在都柏林湾？’，使前后段接缝阅读顺畅无重词。"
+    }
+  ]
+}

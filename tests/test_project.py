@@ -97,6 +97,44 @@ class ProjectTests(unittest.TestCase):
             self.assertEqual(record["last_segment"], "fw-i1-003-01")
             self.assertEqual(record["state"], "in_progress")
 
+    def completed_translation(self):
+        data = sample()
+        data["chapters"][0].update(coverage="complete", coverage_review="unit fixture")
+        end = copy.deepcopy(data["chapters"][0])
+        end.update(id="IV", book="IV", pages=[628, 628], title="第四卷")
+        end["segments"][0].update(id="fw-iv-628-15", locator="628.15–628.16", range=[628, 15, 628, 16], notes=[])
+        data["chapters"].append(end)
+        data["checkpoint"] = {"chapter": "IV", "translation_complete": True,
+                              "cycle_original": "riverrun", "notes": ["待人工终审"], "updated": "2026-11-05"}
+        return data
+
+    def test_completed_translation_has_no_fictitious_next_line(self):
+        data = self.completed_translation()
+        self.assertEqual(self.api_ready().validate(data), [])
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "manuscript/chapters").mkdir(parents=True)
+            (root / "progress").mkdir()
+            self.api_ready().generate_views(data, root)
+            resume = (root / "progress/RESUME.md").read_text()
+            self.assertIn("顺序译稿已录至", resume)
+            self.assertIn("628.16", resume)
+            self.assertIn("待人工终审", resume)
+            self.assertNotIn("下一段从", resume)
+            record = json.loads((root / "progress/chapters/IV.json").read_text())
+            self.assertTrue(record["translation_complete"])
+            self.assertNotIn("next", record)
+
+    def test_completed_translation_rejects_missing_chapter_coverage(self):
+        data = self.completed_translation()
+        data["chapters"][0]["coverage"] = "partial"
+        self.assertTrue(any("checkpoint" in e for e in self.api_ready().validate(data)))
+
+    def test_completed_translation_rejects_conflicting_next_anchor(self):
+        data = self.completed_translation()
+        data["checkpoint"].update(next=[628, 17], next_original="riverrun")
+        self.assertTrue(any("checkpoint" in e for e in self.api_ready().validate(data)))
+
     def test_audio_manifest_only_publishes_registered_tracks(self):
         import hashlib
         from unittest.mock import patch
