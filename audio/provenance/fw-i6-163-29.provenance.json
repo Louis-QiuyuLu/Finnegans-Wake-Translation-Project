@@ -1,0 +1,38 @@
+{
+  "segment_id": "fw-i6-163-29",
+  "original_sha256": "38c6c0a277cc00bfe98036aa51e3a86f9b96750bc66bae98a11e517bd57f4699",
+  "audio_sha256": "94e16523ef269c67a11dfe21640b41d0be06acd2c73857ad89c5590909779c59",
+  "review_status": "pending",
+  "generated_at": "2026-11-03T09:47:02.940828+00:00",
+  "actual_device": "cpu",
+  "model_version": "v4",
+  "prompt_text_source": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+  "prompt_text_sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa",
+  "parameters": {
+    "model": "vertin",
+    "ref": "e1",
+    "speed": 1.05,
+    "steps": 32,
+    "threads": 8,
+    "sample_rate": 48000,
+    "duration_sec": 544.3845
+  },
+  "assets": [
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin-e10.ckpt",
+      "sha256": "5ce26ddbf226825fc82e57b1415cbeaa4448d167960e1bc78744d343f79a315c"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin_e2_s154_l32.pth",
+      "sha256": "42d56e9df68814bdb47d1c668d7f9d2399f25823060ee52baa170280b7c2cfd1"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.wav",
+      "sha256": "2cd40690e2e1c6f23a9e229bc5144096bc96e52bef969a7416424c35920185d3"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+      "sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa"
+    }
+  ]
+}

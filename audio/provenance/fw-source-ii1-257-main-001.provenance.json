@@ -1,0 +1,97 @@
+{
+  "segment_id": "fw-source-ii1-257-main-001",
+  "original_sha256": "b2d6975a41bb19b7b1a20113e13df6a788bc9361c8bd4570f3f08657946b329e",
+  "audio_sha256": "ef9e54b6369dbf2f9d42a96229cbad1f4ec7a1c2d3528b141d7932c50e9d9011",
+  "review_status": "pending",
+  "generated_at": "2026-11-03T13:48:03.567625+00:00",
+  "actual_device": "cpu",
+  "model_version": "v4",
+  "prompt_text_source": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+  "prompt_text_sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa",
+  "parameters": {
+    "model": "vertin",
+    "ref": "e1",
+    "speed": 1.05,
+    "steps": 32,
+    "threads": 2,
+    "sample_rate": 48000,
+    "duration_sec": 123.35727083333333
+  },
+  "assets": [
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin-e10.ckpt",
+      "sha256": "5ce26ddbf226825fc82e57b1415cbeaa4448d167960e1bc78744d343f79a315c"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin_e2_s154_l32.pth",
+      "sha256": "42d56e9df68814bdb47d1c668d7f9d2399f25823060ee52baa170280b7c2cfd1"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.wav",
+      "sha256": "2cd40690e2e1c6f23a9e229bc5144096bc96e52bef969a7416424c35920185d3"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+      "sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa"
+    }
+  ],
+  "source_binding": {
+    "kind": "full_english_audio",
+    "book": "II",
+    "id": "fw-source-ii1-257-main-001",
+    "chapter": "II.1",
+    "page": 257,
+    "role": "main",
+    "start": 0,
+    "end": 2053,
+    "word_count": 341,
+    "original_sha256": "b2d6975a41bb19b7b1a20113e13df6a788bc9361c8bd4570f3f08657946b329e",
+    "source_id": "joyce-fp",
+    "html_sha256": "59e4c09e5ad3f44cd83f91001408e883a370551eb93fb11782e14bd6e2e290b9",
+    "pages": [
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259
+    ]
+  },
+  "source_queue": "/private/tmp/fw-source-II-20261102/source/audio/source-queues/II.json",
+  "source_root": "/private/tmp/fw-source-II-20261102/source"
+}

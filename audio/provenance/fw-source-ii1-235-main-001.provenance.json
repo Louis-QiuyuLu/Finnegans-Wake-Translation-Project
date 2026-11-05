@@ -1,0 +1,96 @@
+{
+  "segment_id": "fw-source-ii1-235-main-001",
+  "original_sha256": "35a1448a79d904931f992ef3fce20ed9558f851b88825e238bb00abc6f9cd4d3",
+  "audio_sha256": "664934326e8eb4388836312ba30429f204e71f9563183137d95e3e30042e5855",
+  "review_status": "pending",
+  "generated_at": "2026-11-02T20:22:18.768603+00:00",
+  "actual_device": "cpu",
+  "model_version": "v4",
+  "prompt_text_source": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+  "prompt_text_sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa",
+  "parameters": {
+    "model": "vertin",
+    "ref": "e1",
+    "speed": 1.05,
+    "steps": 32,
+    "threads": 2,
+    "sample_rate": 48000,
+    "duration_sec": 134.74133333333333
+  },
+  "assets": [
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin-e10.ckpt",
+      "sha256": "5ce26ddbf226825fc82e57b1415cbeaa4448d167960e1bc78744d343f79a315c"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/Vertin_e2_s154_l32.pth",
+      "sha256": "42d56e9df68814bdb47d1c668d7f9d2399f25823060ee52baa170280b7c2cfd1"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.wav",
+      "sha256": "2cd40690e2e1c6f23a9e229bc5144096bc96e52bef969a7416424c35920185d3"
+    },
+    {
+      "path": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/models/Vertin/references/e1.txt",
+      "sha256": "f8f0db89e1ac3a719957ce246b4af42d5b1f10b6104d1a2d24cd9a6daefd43aa"
+    }
+  ],
+  "source_binding": {
+    "kind": "full_english_audio",
+    "book": "II",
+    "id": "fw-source-ii1-235-main-001",
+    "chapter": "II.1",
+    "page": 235,
+    "role": "main",
+    "start": 0,
+    "end": 2270,
+    "word_count": 374,
+    "original_sha256": "35a1448a79d904931f992ef3fce20ed9558f851b88825e238bb00abc6f9cd4d3",
+    "source_id": "joyce-fp",
+    "html_sha256": "59e4c09e5ad3f44cd83f91001408e883a370551eb93fb11782e14bd6e2e290b9",
+    "pages": [
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259
+    ]
+  },
+  "source_queue": "/Users/louis.akisame/Downloads/Finnegans-Wake-Translation-Project/audio/source-queues/II.json"
+}
