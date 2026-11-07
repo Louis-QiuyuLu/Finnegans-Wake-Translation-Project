@@ -1,0 +1,11 @@
+{
+  "segment_id": "fw-i3-069-30",
+  "groups": 63,
+  "duration_sec": 328.007938,
+  "bytes": 7873388,
+  "rms_db": -21.350796,
+  "original_sha256": "a016176fe659772a551f0e83e4725afbaed74894658212d42937fb28a553ed20",
+  "audio_sha256": "4022166c0e3295391d8f3d921bfd4a81a954b6c3cba543af1e19fa2cfc7167a0",
+  "result": "passed",
+  "limits": "技术验收，未逐字听校"
+}

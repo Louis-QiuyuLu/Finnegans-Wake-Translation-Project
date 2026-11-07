@@ -461,6 +461,11 @@
       "segment_id": "fw-i8-213-11",
       "file": "fw-i8-213-11.mp3",
       "original_sha256": "da003e44253a44e64f04cf9510445a200357f98ac72087a797cd97d7619dade8"
+    },
+    {
+      "segment_id": "fw-i3-069-30",
+      "file": "fw-i3-069-30.mp3",
+      "original_sha256": "a016176fe659772a551f0e83e4725afbaed74894658212d42937fb28a553ed20"
     }
   ]
 }

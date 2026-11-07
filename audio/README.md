@@ -80,3 +80,7 @@ python3 scripts/generate_audio.py --model-dir /path/to/model --model vertin --re
 追加144轨。第二卷297轨、第三卷188轨、第四卷36轨，共521轨，覆盖这三卷全部工作包。逐轨核对英文指纹、音频指纹、完整解码、声音信号与生成日志。读者可从各章「全章英文」打开播放器。见[本批验收记录](../reports/source-import/audio-adoption-20261107.json)。
 
 第一卷段落播放器登记90轨，`fw-i3-069-30` 尚缺。
+
+## 2026-11-07 第一卷补录
+
+单独重合成第三章 069.30–072.16，第一卷现登记91段。沿用 Vertin v4 模型和 e1 参考，63个意群全部处理；原先引发静音的独立标点按原定停顿保留。核对原文与音频指纹、完整解码和信号，详见[验收记录](../reports/source-import/book-I-audio-069-30-20261107.json)。
