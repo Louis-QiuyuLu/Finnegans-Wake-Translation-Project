@@ -22,6 +22,14 @@ KINDS = {"wordplay": "双关", "culture": "文化", "allusion": "典故", "sound
 CERTAINTY = {"supported": "据来源", "proposal": "译者判断", "uncertain": "存疑"}
 STATUS = {"draft": "试译", "revised": "修订待审", "reviewed": "已审校"}
 COVERAGE = {"not_started": "待译", "partial": "部分试译", "complete": "整章录入"}
+CANONICAL_CHAPTERS = [
+    ("I.1", [3, 29]), ("I.2", [30, 47]), ("I.3", [48, 74]), ("I.4", [75, 103]),
+    ("I.5", [104, 125]), ("I.6", [126, 168]), ("I.7", [169, 195]), ("I.8", [196, 216]),
+    ("II.1", [219, 259]), ("II.2", [260, 308]), ("II.3", [309, 382]), ("II.4", [383, 399]),
+    ("III.1", [403, 428]), ("III.2", [429, 473]), ("III.3", [474, 554]), ("III.4", [555, 590]),
+    ("IV", [593, 628])
+]
+CANONICAL_CHAPTER_PAGES = dict(CANONICAL_CHAPTERS)
 
 
 def load_project(root=ROOT):
@@ -39,8 +47,20 @@ def load_project(root=ROOT):
     return data
 
 
-def validate(data):
+def validate(data, *, full_book=False):
     errors = []
+    checkpoint = data.get("checkpoint")
+    if full_book:
+        chapters = data["chapters"]
+        if {c.get("id") for c in chapters} != set(CANONICAL_CHAPTER_PAGES):
+            errors.append("project requires all 17 canonical chapters")
+        if not checkpoint:
+            errors.append("project requires a checkpoint")
+        for chapter in chapters:
+            if chapter.get("pages") != CANONICAL_CHAPTER_PAGES.get(chapter.get("id")):
+                errors.append(f"incorrect canonical page range: {chapter.get('id')}")
+            if not chapter.get("source_text"):
+                errors.append(f"missing English source: {chapter.get('id')}")
     sources = data["sources"]
     source_ids = {s.get("id") for s in sources}
     for sid, count in Counter(s.get("id") for s in sources).items():
@@ -75,10 +95,18 @@ def validate(data):
             continue
         coverage = chapter.get("coverage")
         segments = chapter.get("segments", [])
+        if (coverage == "complete" or (checkpoint and checkpoint.get("translation_complete") is True)) and cid in CANONICAL_CHAPTER_PAGES and pages != CANONICAL_CHAPTER_PAGES[cid]:
+            errors.append(f"complete chapter {cid} pages do not match canonical range: expected {CANONICAL_CHAPTER_PAGES[cid]}, got {pages}")
         if coverage not in COVERAGE or (coverage == "not_started" and segments) or (coverage != "not_started" and not segments):
             errors.append(f"coverage inconsistent: {cid}")
-        if coverage == "complete" and not chapter.get("coverage_review", "").strip():
-            errors.append(f"complete chapter requires coverage reviewer and basis: {cid}")
+        if coverage == "complete":
+            if not chapter.get("coverage_review", "").strip():
+                errors.append(f"complete chapter requires coverage reviewer and basis: {cid}")
+            if segments:
+                if segments[0].get("range", [])[:2] != [pages[0], 1]:
+                    errors.append(f"complete chapter {cid} must start at {pages[0]:03d}.01")
+                if segments[-1].get("range", [])[2] != pages[1]:
+                    errors.append(f"complete chapter {cid} must end on page {pages[1]:03d}")
         if "source_text" in chapter:
             source = chapter["source_text"]
             if not isinstance(source, dict):
@@ -106,8 +134,11 @@ def validate(data):
                     errors.append(f"range outside chapter: {sid}")
                 if (p1, l1) > (p2, l2):
                     errors.append(f"reversed range: {sid}")
-                if previous_end is not None and (p1, l1) <= previous_end:
-                    errors.append(f"overlapping or unordered range: {sid}")
+                if previous_end is not None:
+                    if (p1, l1) <= previous_end:
+                        errors.append(f"overlapping or unordered range: {sid}")
+                    elif not ((p1 == previous_end[0] and l1 == previous_end[1] + 1) or (p1 == previous_end[0] + 1 and l1 == 1)):
+                        errors.append(f"non-contiguous range: {sid}; expected start following {previous_end[0]:03d}.{previous_end[1]:02d}")
                 previous_end = (p2, l2)
                 expected = f"{p1:03d}.{l1:02d}–{p2:03d}.{l2:02d}"
                 if segment.get("locator") != expected:
@@ -115,9 +146,15 @@ def validate(data):
             status = segment.get("status")
             if status not in STATUS:
                 errors.append(f"invalid status: {sid}")
-            reviewers = segment.get("reviewers", [])
-            if status == "reviewed" and (not reviewers or not all(isinstance(r, str) and r.strip() for r in reviewers)):
-                errors.append(f"reviewed segment requires named reviewer: {sid}")
+            reviewers = segment.get("reviewers")
+            if not isinstance(reviewers, list):
+                errors.append(f"reviewers must be a list: {sid}")
+            elif status == "reviewed":
+                if not reviewers or not all(isinstance(r, str) and r.strip() for r in reviewers):
+                    errors.append(f"reviewed segment requires named reviewer: {sid}")
+            else:
+                if reviewers:
+                    errors.append(f"unreviewed segment must have empty reviewers: {sid}")
             for note in segment.get("notes", []):
                 nid = note.get("id", "")
                 if nid in seen_notes or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", nid):
@@ -132,15 +169,23 @@ def validate(data):
     for term in data.get("glossary", []):
         require_text(term, ["term", "translation", "note"], "glossary")
         check_sources(term.get("source_ids"), term.get("term"))
-    checkpoint = data.get("checkpoint")
     if checkpoint:
         chapter = next((c for c in data["chapters"] if c["id"] == checkpoint.get("chapter")), None)
         if checkpoint.get("translation_complete") is True:
+            present_cids = {c.get("id") for c in data.get("chapters", [])}
+            missing_cids = [cid for cid, _ in CANONICAL_CHAPTERS if cid not in present_cids]
+            if missing_cids:
+                errors.append(f"translation completion requires all 17 canonical chapters, missing: {', '.join(missing_cids)}")
             if chapter is None or chapter["id"] != "IV" or any(c["coverage"] != "complete" for c in data["chapters"]):
                 errors.append("checkpoint completion requires all chapters complete and final chapter IV")
             if "next" in checkpoint or "next_original" in checkpoint:
                 errors.append("completed checkpoint cannot contain a next anchor")
             require_text(checkpoint, ["cycle_original", "updated"], "checkpoint")
+            cycle_orig = checkpoint.get("cycle_original", "")
+            first_chapter = next((c for c in data.get("chapters", []) if c.get("id") == "I.1"), None)
+            first_segment = first_chapter["segments"][0] if first_chapter and first_chapter.get("segments") else None
+            if not isinstance(cycle_orig, str) or not cycle_orig or not first_segment or first_segment.get("original") != cycle_orig:
+                errors.append("checkpoint cycle_original does not match first chapter opening text")
         else:
             position = checkpoint.get("next", [])
             if chapter is None or len(position) != 2 or not all(type(n) is int and n > 0 for n in position):
@@ -471,14 +516,28 @@ def render_home(data):
 def publish_audio(data, destination):
     destination = Path(destination)
     tracks = data.get("audio", [])
-    for track in data.get("source_audio", []):
-        source = ROOT / "audio" / track["file"]
-        if not source.is_file() or source.stat().st_size == 0:
-            raise ValueError(f"missing or empty source audio file: {track['file']}")
-    for track in tracks:
+    for track in tracks + data.get("source_audio", []):
         source = ROOT / "audio" / track["file"]
         if not source.is_file() or source.stat().st_size == 0:
             raise ValueError(f"missing or empty audio file: {track['file']}")
+        sid = track["segment_id"]
+        expected_hashes = []
+        if "audio_sha256" in track:
+            expected_hashes.append(track["audio_sha256"])
+        for folder in (source.parent, source.parent / "provenance"):
+            receipt_path = folder / (sid + ".provenance.json")
+            if receipt_path.is_file():
+                receipt = json.loads(receipt_path.read_text(encoding="utf-8"))
+                if receipt.get("original_sha256") != track["original_sha256"]:
+                    raise ValueError(f"audio receipt does not match original: {sid}")
+                expected_hashes.append(receipt.get("audio_sha256"))
+        if expected_hashes:
+            digest = hashlib.sha256()
+            with source.open("rb") as stream:
+                for block in iter(lambda: stream.read(1 << 20), b""):
+                    digest.update(block)
+            if any(expected != digest.hexdigest() for expected in expected_hashes):
+                raise ValueError(f"audio checksum mismatch: {sid}")
     if destination.exists():
         shutil.rmtree(destination)
     if tracks:
@@ -646,13 +705,18 @@ def check_artifacts(out):
     site = out / "site"
     if not (site / "index.html").exists():
         errors.append("missing site index")
-    inspect({str(p.relative_to(site)): p.read_bytes() for p in site.rglob("*") if p.is_file()})
+    site_files = {}
+    for p in site.rglob("*"):
+        if p.is_file():
+            rel = str(p.relative_to(site))
+            site_files[rel] = p.read_bytes() if rel.endswith((".html", ".xhtml")) else b""
+    inspect(site_files)
     epub = out / "finnegans-wake-zh.epub"
     if not epub.exists():
         errors.append("missing EPUB")
         return errors
     with zipfile.ZipFile(epub) as book:
-        files = {name: book.read(name) for name in book.namelist()}
+        files = {name: (book.read(name) if name.endswith((".xhtml", ".xml", ".opf")) else b"") for name in book.namelist()}
         for name, content in files.items():
             if name.endswith((".xhtml", ".xml", ".opf")):
                 ET.fromstring(content)
@@ -679,7 +743,7 @@ def main():
         errors = check_artifacts(args.out)
     else:
         data = load_project()
-        errors = validate(data)
+        errors = validate(data, full_book=True)
         if not errors and args.command == "generate":
             generate_views(data)
         elif not errors and args.command == "build":

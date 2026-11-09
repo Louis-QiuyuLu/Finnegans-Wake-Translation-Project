@@ -39,10 +39,26 @@
   function mergeRevisions(source, revisions = {}) {
     const chapter = JSON.parse(JSON.stringify(source));
     const conflicts = [];
+    if (!revisions || typeof revisions !== 'object' || Array.isArray(revisions)) {
+      return {chapter, conflicts};
+    }
     for (const [id, revision] of Object.entries(revisions)) {
       const segment = chapter.segments.find(s => s.id === id);
       if (!segment) { conflicts.push(`${id}：正文段落已更改，请重新对照。`); continue; }
+      if (!revision || typeof revision !== 'object' || Array.isArray(revision)) {
+        conflicts.push(`${id}：草稿数据已损坏，无法合并。`);
+        continue;
+      }
       const problems = [];
+      if (revision.baseOriginal !== undefined && revision.baseOriginal !== segment.original) {
+        problems.push('底本原文已更新');
+      }
+      if (revision.baseRange && JSON.stringify(revision.baseRange) !== JSON.stringify(segment.range)) {
+        problems.push('段落范围已更改');
+      }
+      if (revision.baseSourceId && revision.baseSourceId !== segment.source_id) {
+        problems.push('底本来源已更改');
+      }
       const proposed = typeof revision.translation === 'string' ? revision.translation.trim() : '';
       if (!proposed) problems.push('译文不能为空');
       const translationChanged = proposed !== revision.baseTranslation;
@@ -57,6 +73,12 @@
         if (note.text !== baseline && text.trim() !== note.text) problems.push('公共译注已更新');
         else noteUpdates.push([note, text.trim()]);
       }
+      const changedDraft = translationChanged || noteUpdates.length > 0;
+      if (changedDraft && (revision.baseOriginal === undefined ||
+          (segment.range !== undefined && revision.baseRange === undefined) ||
+          (segment.source_id !== undefined && revision.baseSourceId === undefined))) {
+        problems.push('旧草稿缺底本记录，请对照现稿');
+      }
       if (problems.length) { conflicts.push(`${id}：${[...new Set(problems)].join('；')}。`); continue; }
       const changed = (translationChanged && proposed !== segment.translation) || noteUpdates.some(([note, text]) => note.text !== text);
       if (translationChanged) segment.translation = proposed;
@@ -66,12 +88,21 @@
     return {chapter, conflicts};
   }
   function rebaseRevision(current, revision) {
-    const notes = Object.fromEntries(current.notes.map(note => {
-      const proposed = (revision.notes || {})[note.id];
-      const edited = proposed !== undefined && proposed !== (revision.baseNotes || {})[note.id];
+    const rev = revision && typeof revision === 'object' && !Array.isArray(revision) ? revision : {};
+    const notes = Object.fromEntries((current.notes || []).map(note => {
+      const proposed = (rev.notes || {})[note.id];
+      const edited = proposed !== undefined && proposed !== (rev.baseNotes || {})[note.id];
       return [note.id, edited ? proposed : note.text];
     }));
-    return {baseTranslation:current.translation, baseNotes:Object.fromEntries(current.notes.map(n => [n.id,n.text])), translation:revision.translation !== revision.baseTranslation ? revision.translation : current.translation, notes};
+    return {
+      baseOriginal: current.original,
+      baseRange: current.range,
+      baseSourceId: current.source_id,
+      baseTranslation: current.translation,
+      baseNotes: Object.fromEntries((current.notes || []).map(n => [n.id, n.text])),
+      translation: rev.translation !== rev.baseTranslation && typeof rev.translation === 'string' ? rev.translation : current.translation,
+      notes
+    };
   }
   function prepareExport(source, revisions, latest) {
     if (JSON.stringify(source) !== JSON.stringify(latest)) return {chapter:null,conflicts:['仓库章稿已更新。请刷新页面，对照现稿后继续；本机修订仍会保留。']};

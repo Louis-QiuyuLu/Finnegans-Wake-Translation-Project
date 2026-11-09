@@ -24,11 +24,24 @@ MODEL_DIRS = [
 ]
 
 
-def find_model_dir(preferred=None):
-    for d in ([Path(preferred)] if preferred else MODEL_DIRS):
-        if (d / "Vertin-e10.ckpt").exists() and (d / "Vertin_e2_s154_l32.pth").exists():
-            return d
-    raise FileNotFoundError("未找到模型，请用 --model-dir 指定模型目录。")
+def find_model_dir(preferred=None, variant="vertin"):
+    def has_weights(d):
+        if not d.is_dir():
+            return False
+        if variant == "vertin2":
+            return (d / "Vertin2-e15.ckpt").exists() and (d / "Vertin2_e3_s237_l32.pth").exists()
+        if variant == "sisyphus":
+            has_t2s = ((d / "Vertin-Sisyphus-v95.ckpt").exists() or
+                       (d / "Vertin-Sisyphus-e9.ckpt").exists() or
+                       (d / "Vertin-e10.ckpt").exists())
+            return has_t2s and (d / "Vertin_e2_s154_l32.pth").exists()
+        return (d / "Vertin-e10.ckpt").exists() and (d / "Vertin_e2_s154_l32.pth").exists()
+
+    candidates = [Path(preferred)] if preferred else MODEL_DIRS
+    for d in candidates:
+        if has_weights(d):
+            return d.resolve()
+    raise FileNotFoundError(f"缺少 {variant} 模型权重，请用 --model-dir 指定目录。")
 
 
 def load_segments(chapters_dir=None):
@@ -47,11 +60,13 @@ def load_segments(chapters_dir=None):
     return segments
 
 
-def load_audio_segments(source_queue=None):
+def load_audio_segments(source_queue=None, source_root=None):
+    if source_root is not None and source_queue is None:
+        raise ValueError("source-root 须与 source-queue 同用")
     if source_queue is None:
         return load_segments()
     from scripts.audio_source import load_source_segments
-    return load_source_segments(source_queue, root=ROOT)
+    return load_source_segments(source_queue, root=Path(source_root) if source_root is not None else ROOT)
 
 
 def checkpoint_model_kind(checkpoint, detected):
@@ -246,11 +261,39 @@ def atomic_json(path, data):
         temporary.unlink(missing_ok=True)
 
 
+def is_valid_mp3(path):
+    path = Path(path)
+    if not path.is_file() or path.stat().st_size == 0:
+        return False
+    ffmpeg = shutil.which("ffmpeg")
+    if not ffmpeg:
+        raise RuntimeError("核验 MP3 须安装 FFmpeg")
+    result = subprocess.run(
+        [ffmpeg, "-nostdin", "-v", "error", "-xerror", "-f", "mp3", "-i",
+         str(path), "-map", "0:a:0", "-f", "null", "-"],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=False,
+    )
+    return result.returncode == 0
+
+
 def _register_audio_unlocked(segment, audio_dir):
     path = Path(audio_dir) / "index.json"
-    index = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+    if path.exists():
+        try:
+            index = json.loads(path.read_text(encoding="utf-8"))
+            if not isinstance(index, dict) or "tracks" not in index:
+                index = {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+        except Exception:
+            index = {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+    else:
+        index = {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+
+    media_file = Path(audio_dir) / (segment["id"] + ".mp3")
     entry = {"segment_id": segment["id"], "file": segment["id"] + ".mp3",
              "original_sha256": original_hash(segment)}
+    if media_file.is_file() and media_file.stat().st_size > 0:
+        entry["audio_sha256"] = hashlib.sha256(media_file.read_bytes()).hexdigest()
+
     index["tracks"] = [t for t in index["tracks"] if t["segment_id"] != segment["id"]] + [entry]
     index["tracks"].sort(key=lambda t: t["segment_id"])
     atomic_json(path, index)
@@ -261,39 +304,118 @@ def register_audio(segment, audio_dir):
         _register_audio_unlocked(segment, audio_dir)
 
 
-def audio_is_current(segment, audio_dir=AUDIO_DIR):
+def audio_is_current(segment, audio_dir=AUDIO_DIR, *, published_source=False):
     audio_dir = Path(audio_dir)
     with audio_index_lock(audio_dir):
-        index_path = audio_dir / "index.json"
+        index_path = audio_dir / ("source-index.json" if published_source else "index.json")
         if not index_path.exists():
             return False
-        index = json.loads(index_path.read_text(encoding="utf-8"))
-        matches = [t for t in index.get("tracks", []) if t["segment_id"] == segment["id"]]
+        try:
+            index = json.loads(index_path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            return False
+        if not isinstance(index, dict) or not isinstance(index.get("tracks"), list):
+            return False
+        if any(not isinstance(track, dict) for track in index["tracks"]):
+            return False
+        matches = [t for t in index["tracks"] if t.get("segment_id") == segment["id"]]
         if len(matches) != 1:
             return False
         track = matches[0]
+        if track.get("file") != segment["id"] + ".mp3":
+            return False
+        if track.get("original_sha256") != original_hash(segment):
+            return False
+        if published_source and track.get("source_binding") != segment.get("source_binding"):
+            return False
         path = audio_dir / track["file"]
-        return (track.get("original_sha256") == original_hash(segment)
-                and path.is_file() and path.stat().st_size > 0)
+        if not is_valid_mp3(path):
+            return False
+        if "audio_sha256" in track:
+            try:
+                actual_sha = hashlib.sha256(path.read_bytes()).hexdigest()
+                if track["audio_sha256"] != actual_sha:
+                    return False
+            except OSError:
+                return False
+        return True
 
 
-def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None, source_queue=None):
+def publish_audio(segment, candidate, audio_dir=AUDIO_DIR, current_segments=None, source_queue=None, source_root=None, provenance=None):
     if source_queue is not None and Path(audio_dir).resolve() == AUDIO_DIR.resolve():
         raise ValueError("底本语音须写入隔离目录；请用 --audio-dir 指定正式 audio 以外的目录。")
     candidate = Path(candidate)
     if not candidate.is_file() or candidate.stat().st_size == 0:
         raise ValueError("MP3 文件为空")
+    if not is_valid_mp3(candidate):
+        raise ValueError("无效的 MP3 文件")
+    audio_dir = Path(audio_dir)
     with audio_index_lock(audio_dir):
+        index_path = audio_dir / "index.json"
+        if index_path.exists():
+            try:
+                index_data = json.loads(index_path.read_text(encoding="utf-8"))
+                if not isinstance(index_data, dict) or "tracks" not in index_data:
+                    raise ValueError("损坏的音频索引")
+            except Exception as exc:
+                raise ValueError(f"无法读取音频索引: {exc}") from exc
+        else:
+            index_data = {"engine": "GPT-SoVITS", "language": "en", "tracks": []}
+
         if source_queue is not None:
-            current = load_audio_segments(source_queue)
+            current = load_audio_segments(source_queue, source_root=source_root)
         else:
             current = load_segments() if current_segments is None else current_segments
         matches = [s for s in current if s["id"] == segment["id"]]
         if (len(matches) != 1 or matches[0]["original"] != segment["original"]
                 or matches[0].get("source_binding") != segment.get("source_binding")):
             raise RuntimeError(f"原文已改变，停止登记: {segment['id']}")
-        candidate.replace(Path(audio_dir) / (segment["id"] + ".mp3"))
-        _register_audio_unlocked(segment, audio_dir)
+
+        cand_sha = file_hash(candidate)
+        if provenance is not None and provenance.get("audio_sha256") != cand_sha:
+            raise ValueError("候选录音与生成凭据不符")
+        entry = {
+            "segment_id": segment["id"],
+            "file": segment["id"] + ".mp3",
+            "original_sha256": original_hash(segment),
+            "audio_sha256": cand_sha,
+        }
+        updated_tracks = [t for t in index_data["tracks"] if t.get("segment_id") != segment["id"]] + [entry]
+        updated_tracks.sort(key=lambda t: t["segment_id"])
+        new_index = {**index_data, "tracks": updated_tracks}
+
+        media = audio_dir / entry["file"]
+        receipt = audio_dir / (segment["id"] + ".provenance.json")
+        if candidate.resolve() == media.resolve():
+            raise ValueError("候选录音须与正式文件分开")
+        with tempfile.TemporaryDirectory(prefix=".generate-", dir=audio_dir) as temporary:
+            stage = Path(temporary)
+            staged_media = stage / "candidate.mp3"
+            shutil.copyfile(candidate, staged_media)
+            targets = [media] + ([receipt] if provenance is not None else [])
+            backups = {}
+            for target in targets:
+                if target.exists():
+                    backup = stage / (target.name + ".previous")
+                    os.link(target, backup)
+                    backups[target] = backup
+            replaced = []
+            try:
+                staged_media.replace(media)
+                replaced.append(media)
+                if provenance is not None:
+                    atomic_json(receipt, provenance)
+                    replaced.append(receipt)
+                atomic_json(index_path, new_index)
+            except BaseException:
+                for target in reversed(replaced):
+                    if target in backups:
+                        backups[target].replace(target)
+                    else:
+                        target.unlink(missing_ok=True)
+                raise
+        candidate.unlink()
+
 
 
 def main():
@@ -309,40 +431,50 @@ def main():
     parser.add_argument("--expected-original-sha256", help="批处理冻结原文指纹；不符则中止")
     parser.add_argument("--audio-dir", type=Path, default=AUDIO_DIR, help="输出目录；批处理另存候选录音")
     parser.add_argument("--source-queue", type=Path, help="从核验过的底本语音工作包读取原文")
+    parser.add_argument("--source-root", type=Path, help="独立英文快照根目录；须与 source-queue 同用")
     parser.add_argument("--threads", type=int, default=8, help="PyTorch CPU线程数，默认8")
     args = parser.parse_args()
     if args.threads <= 0:
         parser.error("threads 须为正整数")
+    if args.source_root is not None:
+        if args.source_queue is None:
+            parser.error("--source-root 须与 --source-queue 同用")
+        args.source_root = args.source_root.resolve()
     if args.source_queue is not None:
         args.source_queue = args.source_queue.resolve()
     audio_dir = args.audio_dir.resolve()
     if args.source_queue is not None and audio_dir == AUDIO_DIR.resolve():
         parser.error("--source-queue 须指定隔离 --audio-dir，不能写入正式 audio 目录")
 
-    model_dir = find_model_dir(args.model_dir)
+    model_dir = find_model_dir(args.model_dir, variant=args.model)
 
     # 1. 注入发音词典
     from scripts.joyce_phonetics import update_engdict_hot
     update_engdict_hot(TOOLS_DIR)
 
     # 2. 读取参考音频与提示文本
-    ref_audio = model_dir / f"references/{args.ref}.wav"
-    ref_text_file = model_dir / f"references/{args.ref}.txt"
+    ref_name = args.ref
+    ref_audio = model_dir / f"references/{ref_name}.wav"
     if not ref_audio.exists():
-        raise FileNotFoundError(f"缺少参考音频文件: {ref_audio}")
+        if ref_name == "sisyphus2" and (model_dir / "references/e1.wav").exists():
+            ref_name = "e1"
+            ref_audio = model_dir / "references/e1.wav"
+            print("参考音频 sisyphus2 不存在，回退至 e1", flush=True)
+        else:
+            raise FileNotFoundError(f"缺少参考音频文件: {ref_audio}")
 
-    if ref_text_file.exists() and ref_text_file.stat().st_size > 0:
-        prompt_text = ref_text_file.read_text(encoding="utf-8").strip()
+    ref_text_file = model_dir / f"references/{ref_name}.txt"
+    prompt_text = ref_text_file.read_text(encoding="utf-8").strip() if ref_text_file.is_file() else ""
+    if prompt_text:
         prompt_source = str(ref_text_file)
-    elif args.ref == "e3":
+    elif ref_name == "e3":
         prompt_source = "builtin:e3"
         prompt_text = "I've signed a peace agreement with O'Connor, and the price of breaking it is death. Yes."
     else:
-        prompt_source = str(model_dir / "references/e1.txt")
-        prompt_text = Path(prompt_source).read_text(encoding="utf-8").strip()
+        raise FileNotFoundError(f"缺少参考文本: {ref_text_file}")
 
     audio_dir.mkdir(parents=True, exist_ok=True)
-    segments = load_audio_segments(args.source_queue)
+    segments = load_audio_segments(args.source_queue, source_root=args.source_root)
     if args.segment:
         segments = [s for s in segments if s["id"] == args.segment]
         if len(segments) != 1:
@@ -351,7 +483,7 @@ def main():
         if len(segments) != 1 or original_hash(segments[0]) != args.expected_original_sha256:
             raise RuntimeError("原文与批处理冻结指纹不符")
 
-    print(f"找到 {len(segments)} 个段落需处理。音色参考: {args.ref}，设定语速: {args.speed}x，CFM步数: {args.steps}")
+    print(f"找到 {len(segments)} 个段落需处理。音色参考: {ref_name}，设定语速: {args.speed}x，CFM步数: {args.steps}")
     tts_pipeline = None
 
     import soundfile as sf
@@ -400,7 +532,7 @@ def main():
                 "model_version": tts_pipeline.configs.version,
                 "prompt_text_source": prompt_source,
                 "prompt_text_sha256": hashlib.sha256(prompt_text.encode("utf-8")).hexdigest(),
-                "parameters": {"model": args.model, "ref": args.ref, "speed": args.speed,
+                "parameters": {"model": args.model, "ref": ref_name, "requested_ref": args.ref, "speed": args.speed,
                                "steps": args.steps, "threads": args.threads, "sample_rate": sample_rate,
                                "duration_sec": len(full_audio) / sample_rate},
                 "assets": [{"path": str(path), "sha256": file_hash(path)} for path in
@@ -411,8 +543,18 @@ def main():
             if "source_binding" in seg:
                 provenance["source_binding"] = seg["source_binding"]
                 provenance["source_queue"] = str(args.source_queue)
-            atomic_json(audio_dir / (sid + ".provenance.json"), provenance)
-            publish_audio(seg, candidate, audio_dir, source_queue=args.source_queue)
+                if args.source_root is not None:
+                    provenance["source_root"] = str(args.source_root)
+            try:
+                publish_audio(seg, candidate, audio_dir, source_queue=args.source_queue,
+                              source_root=args.source_root, provenance=provenance)
+            except (OSError, RuntimeError, ValueError):
+                if candidate.exists():
+                    retained = Path(tempfile.mkdtemp(prefix=".generate-failed-", dir=audio_dir))
+                    candidate.replace(retained / (sid + ".mp3"))
+                    atomic_json(retained / (sid + ".provenance.json"), provenance)
+                    print(f"候选录音保存在 {retained}", file=sys.stderr)
+                raise
 
         size_kb = mp3_path.stat().st_size / 1024
         duration = len(full_audio) / sample_rate

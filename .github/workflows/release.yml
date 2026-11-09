@@ -27,8 +27,16 @@ jobs:
               version = json.load(stream)['version']
           assert os.environ['GITHUB_REF_NAME'] == 'v' + version, 'Tag and book version differ'
           PY
+      - run: python3 scripts/project.py check
       - run: python3 -m unittest discover -s tests -v
       - run: python3 scripts/project.py build
+      - name: Verify generated manuscript views
+        run: |
+          generated_changes="$(git status --porcelain --untracked-files=all -- raw-md translated-md polish annotations publish/PROGRESS.md progress/RESUME.md progress/chapters)"
+          if [ -n "$generated_changes" ]; then
+            printf '%s\n' "$generated_changes"
+            exit 1
+          fi
       - run: python3 -m zipfile -c dist/finnegans-wake-reader.zip dist/site
       - name: Publish downloads
         env:

@@ -50,7 +50,7 @@ test('display conversion always returns to the exact source instead of reverse c
 
 test('edited translation and note preserve source data and require another review', () => {
   const source=chapter();
-  const result=mergeRevisions(source, {s1:{baseTranslation:'现译',baseNotes:{n1:'原注'},translation:'修订译文',notes:{n1:'修订注'}}});
+  const result=mergeRevisions(source, {s1:{baseOriginal:'riverrun',baseTranslation:'现译',baseNotes:{n1:'原注'},translation:'修订译文',notes:{n1:'修订注'}}});
   assert.deepEqual(result.conflicts, []);
   const segment=result.chapter.segments[0];
   assert.equal(segment.translation,'修订译文');
@@ -101,7 +101,7 @@ test('export is refused when the live repository gained a paragraph after page l
 });
 
 test('an unchanged live manuscript can export a local revision', () => {
-  const result=prepareExport(chapter(), {s1:{baseTranslation:'现译',baseNotes:{n1:'原注'},translation:'新译',notes:{n1:'原注'}}},chapter());
+  const result=prepareExport(chapter(), {s1:{baseOriginal:'riverrun',baseTranslation:'现译',baseNotes:{n1:'原注'},translation:'新译',notes:{n1:'原注'}}},chapter());
   assert.deepEqual(result.conflicts,[]);
   assert.equal(result.chapter.segments[0].translation,'新译');
 });
@@ -120,4 +120,52 @@ test('Nightlessons keeps body and margin notes in manuscript order', () => {
     {kind:'margin', label:'右旁注', text:'如是。'},
   ]);
   assert.deepEqual(parseNightlessons('普通修订【未识别】'), [{kind:'body', label:'', text:'普通修订【未识别】'}]);
+});
+
+test('public source change flags conflict against local draft with baseOriginal', () => {
+  const ch = {id: 'I.1', segments: [
+    {id: 'fw-demo', original: 'new source', translation: '旧译', notes: []}
+  ]};
+  const draft = {
+    baseOriginal: 'old source', baseTranslation: '旧译', translation: '本机新译', notes: {}, baseNotes: {}
+  };
+  const result = mergeRevisions(ch, {'fw-demo': draft});
+  assert.equal(result.conflicts.length, 1);
+  assert.match(result.conflicts[0], /底本原文已更新/);
+});
+
+test('editing unrelated segment does not conflict with draft on another segment', () => {
+  const ch = {id: 'I.1', segments: [
+    {id: 's1', original: 'orig1', translation: '公共已更新译文1', notes: []},
+    {id: 's2', original: 'orig2', translation: '旧译2', notes: []}
+  ]};
+  const draft = {
+    baseOriginal: 'orig2', baseTranslation: '旧译2', translation: '本机新译2', notes: {}, baseNotes: {}
+  };
+  const result = mergeRevisions(ch, {'s2': draft});
+  assert.deepEqual(result.conflicts, []);
+  assert.equal(result.chapter.segments[0].translation, '公共已更新译文1');
+  assert.equal(result.chapter.segments[1].translation, '本机新译2');
+});
+
+test('corrupt draft value like null or non-object does not crash mergeRevisions', () => {
+  const ch = {id: 'I.1', segments: [
+    {id: 'fw-demo', original: 'source', translation: '译文', notes: []}
+  ]};
+  for (const bad of [null, undefined, 'string', 123, []]) {
+    const result = mergeRevisions(ch, {'fw-demo': bad});
+    assert.equal(result.conflicts.length, 1);
+    assert.match(result.conflicts[0], /草稿数据已损坏/);
+  }
+});
+
+test('legacy draft requires explicit confirmation before export', () => {
+  const source = chapter();
+  source.segments[0].original = 'corrected original';
+  const legacy = {baseTranslation:'现译',baseNotes:{n1:'原注'},translation:'新译',notes:{}};
+  const blocked = prepareExport(source,{s1:legacy},source);
+  assert.match(blocked.conflicts[0], /旧草稿缺底本记录/);
+  assert.equal(blocked.chapter.segments[0].translation,'现译');
+  const checked = rebaseRevision(source.segments[0],legacy);
+  assert.equal(prepareExport(source,{s1:checked},source).chapter.segments[0].translation,'新译');
 });

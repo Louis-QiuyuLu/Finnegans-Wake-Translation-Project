@@ -31,9 +31,12 @@
     control?.addEventListener('change', () => save(setSpeed(control.value)));
     doc.getElementById('reset-reading')?.addEventListener('click', () => save(setSpeed(1)));
     players.forEach(player => {
-      const feedback = player.closest('.audio-reading')?.querySelector('.audio-feedback');
-      player.addEventListener('error', () => { if (feedback) feedback.textContent='音频暂时无法播放，请刷新后重试。'; });
-      player.addEventListener('playing', () => { if (feedback) feedback.textContent=''; });
+      const container = player.closest('.audio-reading, .source-recordings li, li');
+      const feedback = container?.querySelector('.audio-feedback');
+      const onError = () => { if (feedback) feedback.textContent = '音频暂时无法播放，请刷新后重试。'; };
+      player.addEventListener('error', onError, true);
+      player.querySelector('source')?.addEventListener('error', onError);
+      player.addEventListener('playing', () => { if (feedback) feedback.textContent = ''; });
     });
     doc.getElementById('reader-search')?.addEventListener('input', () => {
       players.forEach(player => { if (player.closest('.segment')?.hidden) player.pause(); });

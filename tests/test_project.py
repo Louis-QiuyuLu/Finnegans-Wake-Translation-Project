@@ -99,13 +99,34 @@ class ProjectTests(unittest.TestCase):
 
     def completed_translation(self):
         data = sample()
-        data["chapters"][0].update(coverage="complete", coverage_review="unit fixture")
-        end = copy.deepcopy(data["chapters"][0])
-        end.update(id="IV", book="IV", pages=[628, 628], title="第四卷")
-        end["segments"][0].update(id="fw-iv-628-15", locator="628.15–628.16", range=[628, 15, 628, 16], notes=[])
-        data["chapters"].append(end)
+        chapters = []
+        for cid, (pstart, pend) in self.api_ready().CANONICAL_CHAPTERS:
+            c = {
+                "id": cid,
+                "book": cid.split(".")[0],
+                "number": int(cid.split(".")[1]) if "." in cid else 1,
+                "pages": [pstart, pend],
+                "title": f"第{cid}章",
+                "coverage": "complete",
+                "coverage_review": "unit fixture",
+                "segments": [{
+                    "id": f"fw-{cid.lower().replace('.', '')}-{pstart:03d}-01",
+                    "locator": f"{pstart:03d}.01–{pend:03d}.16" if cid == "IV" else f"{pstart:03d}.01–{pend:03d}.36",
+                    "range": [pstart, 1, pend, 16] if cid == "IV" else [pstart, 1, pend, 36],
+                    "source_id": "text",
+                    "original": "riverrun, past Eve and Adam's" if cid == "I.1" else f"text {cid}",
+                    "draft": "草稿",
+                    "translation": "译文",
+                    "status": "draft",
+                    "reviewers": [],
+                    "notes": [],
+                    "alternatives": []
+                }]
+            }
+            chapters.append(c)
+        data["chapters"] = chapters
         data["checkpoint"] = {"chapter": "IV", "translation_complete": True,
-                              "cycle_original": "riverrun", "notes": ["待人工终审"], "updated": "2026-11-05"}
+                              "cycle_original": chapters[0]["segments"][0]["original"], "notes": ["待人工终审"], "updated": "2026-11-05"}
         return data
 
     def test_completed_translation_has_no_fictitious_next_line(self):
@@ -239,6 +260,58 @@ class ProjectTests(unittest.TestCase):
             html = (Path(folder) / 'site/chapters/I-1.html').read_text()
             self.assertIn('id="reading-settings-toggle"', html)
             self.assertIn('id="reading-settings"', html)
+
+    def test_validation_rejects_missing_canonical_chapter(self):
+        data = self.completed_translation()
+        data['chapters'] = [c for c in data['chapters'] if c['id'] != 'I.6']
+        errors = self.api_ready().validate(data)
+        self.assertTrue(any('missing' in e and 'I.6' in e for e in errors))
+
+    def test_validation_rejects_non_contiguous_or_missing_segment(self):
+        data = self.completed_translation()
+        ch = next(c for c in data['chapters'] if c['id'] == 'II.4')
+        # Add two segments then remove the middle gap
+        ch['segments'] = [
+            {"id": "fw-ii4-383-01", "locator": "383.01–386.36", "range": [383, 1, 386, 36],
+             "source_id": "text", "original": "a", "draft": "a", "translation": "a", "status": "draft", "reviewers": [], "notes": [], "alternatives": []},
+            {"id": "fw-ii4-387-01", "locator": "387.01–390.36", "range": [387, 1, 390, 36],
+             "source_id": "text", "original": "b", "draft": "b", "translation": "b", "status": "draft", "reviewers": [], "notes": [], "alternatives": []},
+            {"id": "fw-ii4-391-01", "locator": "391.01–399.34", "range": [391, 1, 399, 34],
+             "source_id": "text", "original": "c", "draft": "c", "translation": "c", "status": "draft", "reviewers": [], "notes": [], "alternatives": []},
+        ]
+        ch['segments'].pop(1)
+        errors = self.api_ready().validate(data)
+        self.assertTrue(any('non-contiguous' in e for e in errors))
+
+    def test_validation_rejects_non_list_reviewers(self):
+        data = sample()
+        data['chapters'][0]['segments'][0]['reviewers'] = 'x'
+        errors = self.api_ready().validate(data)
+        self.assertTrue(any('reviewers must be a list' in e for e in errors))
+
+    def test_validation_rejects_unreviewed_segment_with_reviewers(self):
+        data = sample()
+        data['chapters'][0]['segments'][0]['status'] = 'draft'
+        data['chapters'][0]['segments'][0]['reviewers'] = ['Alice']
+        errors = self.api_ready().validate(data)
+        self.assertTrue(any('unreviewed segment must have empty reviewers' in e for e in errors))
+
+    def test_validation_rejects_mismatched_cycle_original(self):
+        data = self.completed_translation()
+        for anchor in ('unrelated text', 'r', None):
+            with self.subTest(anchor=anchor):
+                data['checkpoint']['cycle_original'] = anchor
+                errors = self.api_ready().validate(data)
+                self.assertTrue(any('cycle_original does not match' in e for e in errors))
+
+    def test_full_book_requires_chapters_source_and_checkpoint(self):
+        data = self.completed_translation()
+        data['chapters'].pop()
+        data.pop('checkpoint')
+        errors = self.api_ready().validate(data, full_book=True)
+        self.assertIn('project requires all 17 canonical chapters', errors)
+        self.assertIn('project requires a checkpoint', errors)
+        self.assertIn('missing English source: I.1', errors)
 
 
 if __name__ == "__main__":

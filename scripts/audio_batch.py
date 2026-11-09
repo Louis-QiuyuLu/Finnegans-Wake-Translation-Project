@@ -34,8 +34,14 @@ def check_originals(frozen, current):
         raise RuntimeError('原文已改变，停止批处理；请核对后另建运行目录: ' + ', '.join(changed))
 
 
+def published_audio_is_current(segment, audio_dir):
+    if segment.get("source_binding"):
+        return audio_is_current(segment, audio_dir, published_source=True)
+    return audio_is_current(segment, audio_dir)
+
+
 def build_queue(segments, audio_dir=AUDIO_DIR):
-    pending = [s for s in segments if not audio_is_current(s, audio_dir)]
+    pending = [s for s in segments if not published_audio_is_current(s, audio_dir)]
     rank = {sid: i for i, sid in enumerate(PRIORITY)}
     return sorted(pending, key=lambda s: (rank.get(s['id'], len(rank)), segments.index(s)))
 
@@ -75,18 +81,30 @@ def main():
     parser.add_argument('--attempts', default=2, type=int)
     parser.add_argument('--segment-timeout', default=21600, type=int)
     parser.add_argument('--source-queue', type=Path, help='核验过的底本语音工作包')
+    parser.add_argument('--source-root', type=Path, help='独立英文快照根目录；须与 source-queue 同用')
     parser.add_argument('--threads', type=int, default=8, help='每个合成进程的PyTorch CPU线程数，默认8')
     args = parser.parse_args()
     if args.threads <= 0:
         parser.error('threads 须为正整数')
+    if args.source_root is not None:
+        if args.source_queue is None:
+            parser.error("--source-root 须与 --source-queue 同用")
+        args.source_root = args.source_root.resolve()
     if args.source_queue is not None:
         args.source_queue = args.source_queue.resolve()
         if args.source_snapshot:
             parser.error('source-queue 与第一卷 source-snapshot 不能同时使用')
     if not 1 <= args.attempts <= 3 or args.segment_timeout <= 0:
         parser.error('attempts 须为1至3；timeout 须大于0')
-    # Validate canonical source and queue metadata before using its book as a lock domain.
-    validated_source = load_audio_segments(args.source_queue) if args.source_queue is not None else None
+    def load_current():
+        if args.source_queue is None:
+            return book_one()
+        if args.source_root is not None:
+            return load_audio_segments(args.source_queue, source_root=args.source_root)
+        return load_audio_segments(args.source_queue)
+
+    # Validate the selected source and queue before using its book as a lock domain.
+    validated_source = load_current() if args.source_queue is not None else None
     args.run_dir.mkdir(parents=True, exist_ok=True)
     lock = acquire_batch_lock(AUDIO_DIR, validated_source)
     state_path = args.run_dir / 'state.json'
@@ -102,11 +120,10 @@ def main():
         state['updated_at'] = now()
         atomic_json(state_path, state)
 
-    def load_current():
-        return load_audio_segments(args.source_queue) if args.source_queue is not None else book_one()
-
     if args.source_queue is not None:
         state['source_queue'] = str(args.source_queue)
+        if args.source_root is not None:
+            state['source_root'] = str(args.source_root)
         state['source_book'] = validated_source[0]['source_binding']['book']
 
     def stopped(signum, frame):
@@ -141,7 +158,7 @@ def main():
         for segment in queue:
             check_originals(frozen, load_current())
             sid = segment['id']
-            if audio_is_current(segment, AUDIO_DIR) or audio_is_current(segment, candidate_dir):
+            if published_audio_is_current(segment, AUDIO_DIR) or audio_is_current(segment, candidate_dir):
                 state['pending'].remove(sid)
                 save()
                 continue
@@ -155,6 +172,8 @@ def main():
                            '--expected-original-sha256', original_hash(segment), '--audio-dir', str(candidate_dir)]
                 if args.source_queue is not None:
                     command += ['--source-queue', str(args.source_queue)]
+                    if args.source_root is not None:
+                        command += ['--source-root', str(args.source_root)]
                 state.update({'attempt': attempt, 'segment_log': str(log_path), 'command': command})
                 print(f'{now()} 开始 {sid} attempt={attempt} device={state["device"]} log={log_path}', flush=True)
                 began = time.monotonic()
