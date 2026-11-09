@@ -18,7 +18,47 @@ def register_worker(folder, number, gate):
         api.register_audio({'id': f'{number}-{j}', 'original': str(j)}, folder)
 
 
+def mock_audio_decoder(test):
+    from unittest.mock import patch
+    def mock_decode(path):
+        return Path(path).is_file() and Path(path).stat().st_size > 0
+    for module in (api, 'scripts.generate_audio'):
+        context = (patch.object(module, 'is_valid_mp3', side_effect=mock_decode)
+                   if module is api else patch(module + '.is_valid_mp3', side_effect=mock_decode))
+        context.start()
+        test.addCleanup(context.stop)
+
+
 class AudioGenerationTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
+    def test_media_failure_preserves_published_index_and_candidate(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            segment = {'id': 'a', 'original': 'text'}
+            media = root / 'a.mp3'
+            media.write_bytes(b'old audio')
+            candidate = root / 'candidate.mp3'
+            candidate.write_bytes(b'new audio')
+            api.register_audio(segment, root)
+            index = root / 'index.json'
+            before = index.read_bytes()
+            replace = Path.replace
+
+            def fail_media(self, target):
+                if Path(target) == media:
+                    raise OSError('injected media failure')
+                return replace(self, target)
+
+            with patch.object(Path, 'replace', fail_media), patch.object(api, 'is_valid_mp3', return_value=True):
+                with self.assertRaisesRegex(OSError, 'injected media failure'):
+                    api.publish_audio(segment, candidate, root, current_segments=[segment])
+            self.assertEqual(index.read_bytes(), before)
+            self.assertEqual(media.read_bytes(), b'old audio')
+            self.assertEqual(candidate.read_bytes(), b'new audio')
+
     def test_registering_a_regenerated_track_preserves_other_tracks(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
@@ -90,6 +130,9 @@ class AudioGenerationTests(unittest.TestCase):
 
 
 class AudioBatchTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
     def batch(self):
         spec = importlib.util.spec_from_file_location('audio_batch', SCRIPT.with_name('audio_batch.py'))
         module = importlib.util.module_from_spec(spec)
@@ -114,7 +157,7 @@ class AudioBatchTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, '原文'):
             batch.check_originals(before, [{'id': 'a', 'original': 'changed'}])
 
-    def run_fake_batch(self, child_success, source_queue=False, threads=None):
+    def run_fake_batch(self, child_success, source_queue=False, threads=None, pinned=False):
         from unittest.mock import patch
         import contextlib
         import io
@@ -132,6 +175,8 @@ sid=args[args.index('--segment')+1]
 hash_value=args[args.index('--expected-original-sha256')+1]
 (out/(sid+'.mp3')).write_bytes(b'candidate')
 (out/'index.json').write_text(json.dumps({'tracks':[{'segment_id':sid,'file':sid+'.mp3','original_sha256':hash_value}]}))
+if '--source-root' in args:
+    (out.parent/'received-source-root.txt').write_text(args[args.index('--source-root')+1])
 if '--threads' in args:
     (out.parent/'received-threads.txt').write_text(args[args.index('--threads')+1])
 '''
@@ -152,14 +197,18 @@ if '--threads' in args:
                 argv += ['--source-queue', str(queue)]
             if threads is not None:
                 argv += ['--threads', str(threads)]
+            if pinned:
+                argv += ['--source-root', str(root)]
             with patch.object(sys, 'argv', argv), patch.object(batch, 'ROOT', root), \
                     patch.object(batch, 'AUDIO_DIR', root / 'audio'), \
                     patch.object(batch, 'book_one', return_value=[] if source_queue else segments), \
-                    patch.object(batch, 'load_audio_segments', side_effect=lambda path: loader(path, root), create=True), \
+                    patch.object(batch, 'load_audio_segments', side_effect=lambda path, **kwargs: loader(path, kwargs.get('source_root', root)), create=True), \
                     patch.object(batch.time, 'sleep'), contextlib.redirect_stdout(io.StringIO()):
                 # The queue uses its explicit destination; no real repo file is touched.
                 result = batch.main()
             state = json.loads((root / 'run/state.json').read_text())
+            received_root = root / 'run/received-source-root.txt'
+            state['_received_source_root'] = received_root.read_text() if received_root.exists() else None
             received_threads = root / 'run/received-threads.txt'
             state['_received_threads'] = received_threads.read_text() if received_threads.exists() else None
             if source_queue:
@@ -289,8 +338,35 @@ class PunctuationGroupTests(unittest.TestCase):
                         for i, (_, pause) in enumerate(groups))
         self.assertEqual(len(samples), expected)
 
+    def test_unpunctuated_newline_keeps_both_lines(self):
+        from scripts.joyce_phonetics import segment_into_sense_groups
+        groups = segment_into_sense_groups('First line\nSecond line.')
+        texts = [g[0] for g in groups]
+        self.assertEqual(texts, ['First line', 'Second line.'])
+
+    def test_cross_line_hyphen_is_rejoined(self):
+        from scripts.joyce_phonetics import segment_into_sense_groups
+        groups = segment_into_sense_groups('con-\nversation continues.')
+        self.assertIn('conversation continues.', [g[0] for g in groups])
+
+    def test_sense_groups_preserve_all_tokens_in_021_05_and_024_15(self):
+        import re
+        from scripts.joyce_phonetics import segment_into_sense_groups, normalize_joyce_text
+        chapter = json.loads((SCRIPT.parents[1] / 'manuscript/chapters/I-1.json').read_text())
+        for sid in ('fw-i1-021-05', 'fw-i1-024-15'):
+            seg = next(s for s in chapter['segments'] if s['id'] == sid)
+            norm = normalize_joyce_text(seg['original'])
+            norm = re.sub(r'(\b\w+)-\s*\n\s*(\w+\b)', r'\1\2', norm)
+            expected_words = re.findall(r'\b\w+\b', norm)
+            groups = segment_into_sense_groups(seg['original'])
+            actual_words = re.findall(r'\b\w+\b', ' '.join(g[0] for g in groups))
+            self.assertEqual(expected_words, actual_words)
+
 
 class SourceQueueTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
     def source_fixture(self, root):
         chapter = root / 'manuscript/chapters/II-1.json'
         chapter.parent.mkdir(parents=True)
@@ -372,7 +448,7 @@ class SourceQueueTests(unittest.TestCase):
         self.assertEqual(state['successes'][0]['source_binding']['html_sha256'], 'initial-source')
         self.assertFalse(published)
 
-    def run_source_generator(self, changed_source=False, wrong_hash=False, threads=None):
+    def run_source_generator(self, changed_source=False, wrong_hash=False, threads=None, pinned=False):
         import contextlib
         import io
         import sys
@@ -382,6 +458,9 @@ class SourceQueueTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             chapter, queue, segment, loader, calls = self.source_fixture(root)
+            pinned_root = root / 'snapshot'
+            if pinned:
+                self.source_fixture(pinned_root)
             model = root / 'model'
             (model / 'references').mkdir(parents=True)
             for name in ('tts.ckpt', 'vits.pth', 'references/e1.wav', 'references/e1.txt'):
@@ -411,6 +490,8 @@ class SourceQueueTests(unittest.TestCase):
                     '--expected-original-sha256', 'wrong' if wrong_hash else api.original_hash(segment)]
             if threads is not None:
                 argv += ['--threads', str(threads)]
+            if pinned:
+                argv += ['--source-root', str(pinned_root)]
             error = None
             with patch.object(sys, 'argv', argv), patch.object(api, 'ROOT', root), \
                     patch.dict('sys.modules', {'scripts.audio_source': SimpleNamespace(load_source_segments=loader),
@@ -457,6 +538,9 @@ class SourceQueueTests(unittest.TestCase):
 
 
 class RealSourceQueueTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
     def copy_book_ii(self, root):
         import shutil
         source = SCRIPT.parents[1]
@@ -508,6 +592,78 @@ class RealSourceQueueTests(unittest.TestCase):
             self.assertEqual(previous.read_bytes(), b'old audio')
             self.assertTrue(candidate.exists())
             self.assertFalse((output / 'index.json').exists())
+
+
+class PinnedSourceRootTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
+    def test_live_chapter_save_does_not_interrupt_pinned_source_publication(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            pinned = root / 'pinned'
+            queue = RealSourceQueueTests().copy_book_ii(pinned)
+            live = root / 'live'
+            cp = live / 'manuscript/chapters/II-1.json'
+            cp.parent.mkdir(parents=True)
+            for text in ('{"book":"II","segments":[{"translation":"新译稿"}]}', '{'):
+                cp.write_text(text)
+                with patch.object(api, 'ROOT', live):
+                    segments = api.load_audio_segments(queue, source_root=pinned)
+                    output = root / 'candidates'; output.mkdir(exist_ok=True)
+                    candidate = output / 'new.mp3'; candidate.write_bytes(b'audio')
+                    api.publish_audio(segments[0], candidate, output,
+                                      source_queue=queue, source_root=pinned)
+                    self.assertTrue(api.audio_is_current(segments[0], output))
+                self.assertEqual(cp.read_text(), text)
+
+    def test_changed_pinned_english_is_rejected_before_publication(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder); pinned = root / 'pinned'
+            queue = RealSourceQueueTests().copy_book_ii(pinned)
+            with patch.object(api, 'ROOT', root):
+                segments = api.load_audio_segments(queue, source_root=pinned)
+                cp = pinned / 'manuscript/chapters/II-1.json'
+                chapter = json.loads(cp.read_text()); chapter['source_text']['html'] += ' Changed.'
+                cp.write_text(json.dumps(chapter))
+                output = root / 'candidates'; output.mkdir()
+                candidate = output / 'new.mp3'; candidate.write_bytes(b'audio')
+                with self.assertRaisesRegex(ValueError, 'source'):
+                    api.publish_audio(segments[0], candidate, output,
+                                      source_queue=queue, source_root=pinned)
+                self.assertFalse((output / 'index.json').exists())
+                self.assertTrue(candidate.exists())
+
+    def test_generator_cli_uses_snapshot_even_when_live_source_changes_during_synthesis(self):
+        result = SourceQueueTests().run_source_generator(changed_source=True, pinned=True)
+        self.assertIsNone(result['error'])
+        self.assertEqual(result['audio'], b'new audio')
+        self.assertTrue(result['indexed'])
+        self.assertTrue(result['provenance']['source_root'].endswith('/snapshot'))
+        self.assertEqual(result['provenance']['source_binding'], result['source_binding'])
+
+    def test_batch_passes_same_pinned_root_to_every_child(self):
+        result, state, published = AudioBatchTests().run_fake_batch(True, source_queue=True, pinned=True)
+        self.assertEqual(result, 0)
+        self.assertEqual(state['source_root'], state['_received_source_root'])
+        self.assertTrue(Path(state['source_root']).is_absolute())
+        self.assertFalse(published)
+
+    def test_source_root_without_queue_is_rejected_before_model_or_lock(self):
+        import sys
+        import contextlib
+        import io
+        from unittest.mock import patch
+        batch = AudioBatchTests().batch()
+        for module, argv in [(api, ['generate_audio.py', '--source-root', '/snapshot']),
+                             (batch, ['audio_batch.py', '--run-dir', '/unused', '--source-root', '/snapshot'])]:
+            with patch.object(sys, 'argv', argv), contextlib.redirect_stderr(io.StringIO()) as errors:
+                with self.assertRaises(SystemExit) as raised:
+                    module.main()
+            self.assertEqual(raised.exception.code, 2)
+            self.assertIn('source-queue', errors.getvalue())
 
 
 class SourceQueueIsolationTests(unittest.TestCase):
@@ -633,6 +789,9 @@ class BatchLockScopeTests(unittest.TestCase):
 
 
 class ThreadConfigurationTests(unittest.TestCase):
+    def setUp(self):
+        mock_audio_decoder(self)
+
     def test_batch_defaults_to_eight_threads_and_passes_two_when_requested(self):
         result, state, _ = AudioBatchTests().run_fake_batch(True)
         self.assertEqual(result, 0)

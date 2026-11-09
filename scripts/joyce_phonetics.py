@@ -461,11 +461,13 @@ def segment_into_sense_groups(text: str):
     """
     切分意群：依据文学诵读节奏将段落切分为呼吸意群单位，并返回 (意群文本, 停顿秒数)。
     完全对齐《西西弗神话》沉稳连贯的叙事节奏：完整子句一口气诵读，不作机械逗号切碎。
+    覆盖换行、跨行连字符、段首及纯标点停顿，确保无标点换行不漏读正文。
     """
     text = normalize_joyce_text(text).strip()
+    text = re.sub(r"(\b\w+)-\s*\n\s*(\w+\b)", r"\1\2", text)
 
-    # 按照主要标点（句号、感叹号、问号、分号、冒号、长破折号）切分出完整语法意群子句
-    pattern = r"([^.!?;:—\n]+(?:[.!?—;:]+[)'\"”’]*|\Z))"
+    # 按照主要标点（句号、感叹号、问号、分号、冒号、长破折号）或换行切分出完整语法意群子句
+    pattern = r"(?:[^.!?;:—\n]+(?:[.!?—;:]+[)'\"”’]*|\n+|\Z)|[.!?—;:…]+)"
     raw_clauses = re.findall(pattern, text)
     if not raw_clauses:
         raw_clauses = [text]
@@ -491,7 +493,7 @@ def segment_into_sense_groups(text: str):
                 pause = 0.42 if last_char in (".", "!", "?") else 0.26
                 groups.append((sub_accum.strip(), pause))
         else:
-            # 句末给 0.42s 深呼吸；分号/冒号/破折号给 0.26s 中级停顿
+            # 句末给 0.42s 深呼吸；分号/冒号/破折号/行末给 0.26s 中级停顿
             pause = 0.42 if last_char in (".", "!", "?") else 0.26
             groups.append((clause_str, pause))
 

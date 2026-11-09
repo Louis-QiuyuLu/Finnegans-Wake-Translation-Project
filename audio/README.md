@@ -2,7 +2,9 @@
 
 网页播放离线生成的 GPT-SoVITS 英文 MP3，无需运行本机模型或开放推理服务。每段使用浏览器原生播放、暂停、进度及音量控件；顶部阅读设置可选语速。音频按需加载，一次只播放一段。
 
-2026-11-02批次的`index.json`登记29段第一卷录音：I.1为26/26段，I.2为1/10段，I.3为2/12段，全卷29/91段。本批新增20段，逐项核验记录见 [采用清单](../reports/source-import/book-I-audio-adoption-20261102.json)。`original_sha256` 绑定网页对应原文，防止后续改字后静默沿用旧录音；初次登记不等于逐字转写或音质审校。合成使用近似读音，不代表作者指定读法。页面标签为「GPT-SoVITS · 重返未来1999 瓦尔汀」，提示文字注明 AI 合成。首次播放默认1×；手动选择的语速只保存在当前浏览器。
+截至 2026-11-07，在线读本已接入全书 **612 轨离线英文朗读 MP3**：包括第一卷 **91/91 段** 中文段落上方分段朗读（`audio/index.json`），以及第二至四卷 **521/521 轨** 逐页朗读（`audio/source-index.json`，第二卷 297 轨、第三卷 188 轨、第四卷 36 轨，覆盖 405 正文页、14.17 万词）。全书 612 轨均通过完整 MP3 解码、时长波形及 SHA-256 校验；人工听校状态统一标为待听校（`pending`）。
+
+历史批次中，2026-11-02 批次的 `index.json` 初次登记第一卷 29 段录音（本批新增 20 段，逐项核验记录见 [采用清单](../reports/source-import/book-I-audio-adoption-20261102.json)）；2026-11-07 完成 `fw-i3-069-30` 破折号停顿补录（见 [验收记录](../reports/source-import/book-I-audio-069-30-20261107.json)），第一卷分段录音全满。后三卷 521 轨逐页朗读技术验收记录见 [本批验收记录](../reports/source-import/audio-adoption-20261107.json)。`original_sha256` 绑定网页对应原文，防止后续改字后静默沿用旧录音；技术登记不等于逐字人工听校。页面标签为「GPT-SoVITS · 重返未来1999 瓦尔汀」，提示文字注明 AI 合成。首次播放默认1×；手动选择的语速只保存在当前浏览器。
 
 `original_sha256` 校验原文字串，不校验 MP3 文件内容。播放索引仍只保存原文绑定；本批20份另在 `audio/provenance/` 保存生成指纹与实际参数，采用清单登记MP3哈希、时长及技术检查。九份旧录音仍缺完整逐段模型记录；生成凭据也不等于完整底模环境锁定或训练来源证明。两份合并录音另经文件哈希与时长复核，见 [阶段复核记录](../reports/reviews/gemini-book-I-2026-11-01/PHASE1-R1B-REVIEW.md)。
 
@@ -14,9 +16,9 @@
 
 生成语音另需完整的 GPT-SoVITS v4 环境及其预训练组件、PyTorch、NumPy、SoundFile，以及支持 `libmp3lame` 的 FFmpeg。它们不属于读本构建所需的 Python 标准库环境。
 
-工具放在 `tools/gpt_sovits`，模型默认放 `models/Vertin`，也可用 `--model-dir` 指定**绝对路径**。当前目录检查要求同时存在 `Vertin-e10.ckpt` 与 `Vertin_e2_s154_l32.pth`；使用 `vertin2` 时还需该变体的两份权重。
+工具放在 `tools/gpt_sovits`，模型默认放 `models/Vertin`，也可用 `--model-dir` 指定**绝对路径**。脚本按所选变体检查两份权重。
 
-脚本默认选 `sisyphus`，按 `Vertin-Sisyphus-v95.ckpt` → `Vertin-Sisyphus-e9.ckpt` → `Vertin-e10.ckpt` 回退，声学权重仍为 `Vertin_e2_s154_l32.pth`。默认参考为 `references/sisyphus2.wav`，不是仓库自带资源；缺失时不会自动换成 `e1.wav`，而会中止。参考提示文本优先读同名 `.txt`，除 `e3` 特例外，缺失或为空时改读 `references/e1.txt`。使用者应核对提示文本与参考录音一致。
+脚本默认选 `sisyphus`，按 `Vertin-Sisyphus-v95.ckpt` → `Vertin-Sisyphus-e9.ckpt` → `Vertin-e10.ckpt` 回退，声学权重仍为 `Vertin_e2_s154_l32.pth`。默认参考为 `references/sisyphus2.wav`，不是仓库自带资源；缺少该录音时可回退至 `e1.wav`。除 `e3` 可用内置提示词外，其他参考录音须配同名且非空的 `.txt`。
 
 若已备好原版 Vertin 权重及 `references/e1.wav`、`references/e1.txt`，可显式运行：
 
@@ -75,12 +77,8 @@ python3 scripts/generate_audio.py --model-dir /path/to/model --model vertin --re
 
 另增70份已核英文逐页录音，源播放器累计377轨；第一卷仍为90轨。原文绑定、文件指纹、完整解码、信号与末意群日志均通过，未作逐词人工听校。见[追加采用记录](../reports/source-import/audio-adoption-20261105-r2.json)。逐页MP3继续由仓库raw链接读取，不扩大Pages音频包。
 
-## 2026-11-07 英文逐页录音
+## 2026-11-07 英文逐页录音与第一卷补录
 
-追加144轨。第二卷297轨、第三卷188轨、第四卷36轨，共521轨，覆盖这三卷全部工作包。逐轨核对英文指纹、音频指纹、完整解码、声音信号与生成日志。读者可从各章「全章英文」打开播放器。见[本批验收记录](../reports/source-import/audio-adoption-20261107.json)。
+后三卷追加144轨，第二卷297轨、第三卷188轨、第四卷36轨，共521轨，完整覆盖后三卷工作包。逐轨核对英文指纹、音频指纹、完整解码、声音信号与生成日志。读者可从各章「全章英文」打开播放器。见[本批验收记录](../reports/source-import/audio-adoption-20261107.json)。
 
-第一卷段落播放器登记90轨，`fw-i3-069-30` 尚缺。
-
-## 2026-11-07 第一卷补录
-
-单独重合成第三章 069.30–072.16，第一卷现登记91段。沿用 Vertin v4 模型和 e1 参考，63个意群全部处理；原先引发静音的独立标点按原定停顿保留。核对原文与音频指纹、完整解码和信号，详见[验收记录](../reports/source-import/book-I-audio-069-30-20261107.json)。
+第一卷完成第三章 069.30–072.16（`fw-i3-069-30`）补录，第一卷现登记91/91段。沿用 Vertin v4 模型和 e1 参考，63个意群全部处理；原先引发静音的独立标点按原定停顿保留。核对原文与音频指纹、完整解码和信号，详见[验收记录](../reports/source-import/book-I-audio-069-30-20261107.json)。全书共接入 91 轨分段录音与 521 轨逐页录音，听校状态均为 `pending`。

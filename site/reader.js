@@ -208,7 +208,13 @@
   if (typeof revisions !== 'object' || Array.isArray(revisions)) revisions={};
   const editors=[...document.querySelectorAll('.revision-editor')];
   const summary=document.getElementById('revision-summary');
-  const baseFor = (segment) => ({baseTranslation:segment.translation,baseNotes:Object.fromEntries(segment.notes.map(n => [n.id,n.text]))});
+  const baseFor = (segment) => ({
+    baseOriginal: segment.original,
+    baseRange: segment.range,
+    baseSourceId: segment.source_id,
+    baseTranslation: segment.translation,
+    baseNotes: Object.fromEntries(segment.notes.map(n => [n.id, n.text]))
+  });
   const replaceParagraphs = (container, text, selector=':scope > p', before=null) => {
     container.querySelectorAll(selector).forEach(p => p.remove());
     for (const part of text.split('\n\n')) {

@@ -20,3 +20,8 @@ audio/.batch.lock
 audio/.source-*.lock
 audio/.generate-*/
 audio/.index.json.*.tmp
+
+# External reference books, scans and web caches
+sources/*.pdf
+sources/wiki_pages/
+.cache/
