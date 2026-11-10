@@ -190,11 +190,13 @@
       toggle.checked = true;
       toggle.dispatchEvent(new Event('change'));
     }
-    if (target.matches('details')) target.open = true;
+    for (let disclosure = target.closest('details'); disclosure; disclosure = disclosure.parentElement?.closest('details')) {
+      disclosure.open = true;
+    }
     requestAnimationFrame(() => target.scrollIntoView({block: 'start'}));
   };
   addEventListener('hashchange', openHash);
-  document.querySelectorAll('.noteref').forEach(link => link.addEventListener('click', () => {
+  document.querySelectorAll('.noteref, .source-recordings li > a').forEach(link => link.addEventListener('click', () => {
     if (link.hash === location.hash) openHash();
   }));
   if (location.hash) openHash();

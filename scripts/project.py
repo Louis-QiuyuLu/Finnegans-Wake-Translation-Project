@@ -291,12 +291,13 @@ def render_source_text(chapter, data, epub=False):
     page_links = ' '.join(f'<a href="#source-page-{p:03d}">{p}</a>' for p in source['pages'])
     body = ('<nav class="source-pages" aria-label="英文底本页码">' + page_links + '</nav>'
             + '<div class="source-transcription" lang="en">' + content + '</div>')
+    recordings = ""
     if not epub:
         from scripts.source_audio_reader import render_tracks
-        body = render_tracks(chapter, data) + body
+        recordings = render_tracks(chapter, data)
         opened = '' if chapter['coverage'] == 'complete' else ' open'
         body = f'<details class="full-source-details"{opened}><summary>全章英文 · pp. {chapter["pages"][0]}–{chapter["pages"][1]}</summary>' + body + '</details>'
-    return ('<section class="full-source" id="full-source"><h2>英文原文</h2>'
+    return (recordings + '<section class="full-source" id="full-source"><h2>英文原文</h2>'
             + '<p class="muted">英文底本已录入；这项记录不计作中文翻译或人工校勘完成。来源：'
             + source_links([source['source_id']], data, '../') + '</p>' + body + '</section>')
 

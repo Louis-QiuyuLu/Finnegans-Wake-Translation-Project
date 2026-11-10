@@ -14,6 +14,15 @@ class SourceAudioReaderTests(unittest.TestCase):
    html=project.render_source_text(c,data)
   self.assertIn('https://raw.githubusercontent.com/example/book/'+'b'*40+'/audio/',html);self.assertNotIn('../assets/audio/',html);self.assertIn('<audio controls',html);self.assertIn('preload="none"',html);self.assertIn(data['source_audio'][0]['file'],html)
   self.assertNotIn('<audio',project.render_source_text(c,data,epub=True))
+ def test_chapter_audio_entry_is_visible_without_opening_source_text(self):
+  c,data=self.fixture()
+  c['coverage']='complete'
+  html=project.render_source_text(c,data)
+  audio_entry=html.index('<details class="source-recordings">')
+  source_entry=html.index('<details class="full-source-details">')
+  self.assertLess(audio_entry,source_entry)
+  self.assertIn('</details>',html[audio_entry:source_entry])
+  self.assertIn('href="#source-page-593"',html[audio_entry:source_entry])
  def test_source_change_and_duplicate_are_rejected(self):
   from scripts.source_audio_reader import validate_tracks
   c,data=self.fixture();self.assertEqual(validate_tracks(data),[])
