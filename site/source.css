@@ -33,7 +33,19 @@
 .source-transcription table{font-size:.85em}
 }
 
-.source-recordings { margin-block: 1rem; }
+.source-recordings {
+  margin-block: 1.5rem;
+  padding-inline: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+.source-recordings > summary {
+  min-height: 44px;
+  padding-block: .65rem;
+  color: var(--accent);
+  font-weight: 600;
+}
 .source-recordings ol { padding-inline-start: 1.5rem; }
 .source-recordings li { margin-block: .8rem; }
 .source-recordings audio { display: block; max-width: 100%; width: 28rem; margin-top: .4rem; }
