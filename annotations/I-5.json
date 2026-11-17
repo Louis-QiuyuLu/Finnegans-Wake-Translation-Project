@@ -5,9 +5,11 @@
       "lemma": "In the name of Annah the Allmaziful, the Everliving, the Bringer of Plurabilities, haloed be her eve, her singtime sung, her rill be run, unhemmed as it is uneven!",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文以“In the name of Annah the Allmaziful, the Everliving, the Bringer of Plurabilities”领起，并接“haloed be her eve, her singtime sung, her rill be run”。据字面词形与句法结构，此处可能叠合伊斯兰诵辞（Basmala：“奉至仁至慈安拉之名”）与基督教《主祷文》（“Hallowed be thy name, thy kingdom come, thy will be done”）：Annah 谐音 Allah 与 Anna，Allmaziful 拼合 All-merciful 与 mazeful（迷宫般繁复），rill（溪流）替换 will（旨意）；若跨词提取 Annah、Everliving（或 Allmaziful）、Plurabilities 等字首音节，亦与安娜·利维亚·普卢拉贝尔（ALP）呼应。",
+      "text": "奉名句可与《古兰经》1:1 对读。Annah 近 Anna 和 Allah，Allmaziful 的慈悯声里夹进 maze。后半连用三个祈愿句，可与《马太福音》6:9–10 对读；rill 和 will 音近，译文用奔溪接回上一章水声。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "quran-fatihah-1",
+        "bible-matthew-6-usccb"
       ]
     },
     {
@@ -15,7 +17,7 @@
       "lemma": "Her untitled mamafesta memorialising the Mosthighest has gone by many names at disjointed times.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "原文称该文献为“untitled mamafesta memorialising the Mosthighest”，在错乱失序的年代里曾冠以众多名号。mamafesta 拼合 manifesto（宣言）、mama（母亲）与 festa（节庆）；Mosthighest 呼应至高者及 HCE 的各类尊号。随后展开百余个滑稽标题，将家书、辩护词、民间歌谣、戏剧与小报体裁熔于一炉。",
+      "text": "mamafesta 同时让人听见 mama 和 manifesto，也近 festa。译作「妈妈宣言」，保留母亲、宣告两层。文书明称无题，却随即带出一长串题名；题名横跨申辩、歌谣、戏剧与小报。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -24,8 +26,8 @@
       "id": "i5-tristram-siseule-swift-hesterdays",
       "lemma": "Which of your Hesterdays Mean Ye to Morra?",
       "kind": "wordplay",
-      "certainty": "proposal",
-      "text": "前文“Amoury Treestam and Icy Siseule”变形自崔斯坦与伊索尔德（Tristram and Iseult）及霍斯家族始祖 Amory Tristram；本句“Hesterdays”在 yesterdays（昨日）中嵌入女性教名 Hester（或 Esther），或可联想斯威夫特（Jonathan Swift）与 Hester Johnson（Stella）、Esther Vanhomrigh（Vanessa）的往事，同时保字面“昨日与明日（to Morra）”的时间对举。",
+      "certainty": "uncertain",
+      "text": "Hesterdays 将女性名 Hester 与 yesterday 挤在一处，to Morra 照应明日。前文 Amoury Treestam 与 Icy Siseule 可令人想到崔斯坦和伊索尔德，仍保留变形姓名。斯威夫特姓名联想待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -35,7 +37,7 @@
       "lemma": "Cleopater's Nedlework Ficturing Aldborougham on the Sahara with the Coombing of the Cammmels and the Parlourmaids of Aegypt",
       "kind": "culture",
       "certainty": "proposal",
-      "text": "字面拼合 Cleopater（克利奥帕特拉 Cleopatra + pater 父亲）、Nedlework（针线活 needlework，亦谐音方尖碑 Cleopatra's Needle）、Aldborougham（或指都柏林 Aldborough House 与亚伯拉罕 Abraham）及 Coombing（梳理 combing 与都柏林地名 the Coombe）、Cammmels（骆驼）与 Aegypt（埃及），将北非沙漠异域意象与都柏林地方名号交织。",
+      "text": "Nedlework 近 needlework，和 Cleopater 连读又近 Cleopatra’s Needle。Coombing、Cammmels 保留梳理与骆驼声；具体地名所指待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -45,9 +47,10 @@
       "lemma": "I have not Stopped Water Where It Should Flow and I Know the Twentynine Names of Attraente",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "前半句“流水当过之处我未曾阻拦”在句式上呼应古埃及《死者之书》中亡灵在冥界法庭所作的“无罪告白”（Negative Confession），亦贴合利菲河（ALP）奔流不息的自然属性；后半句“Twentynine Names of Attraente”（迷人者的二十九种芳名）对应书中代表闰年二月二十九日的二十九名少女群体。",
+      "text": "Budge 英译转录所见《亡灵书》审判章有不阻水流的自陈，后列向 Ari-em-ab-f 作的否认也说不曾拦水。首半可据此对读；二十九名是否另指本书其他人物或闰日，留待核查。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "book-dead-budge-water-transcript"
       ]
     },
     {
@@ -55,7 +58,7 @@
       "lemma": "First and Last Only True Account all about the Honorary Mirsu Earwicker, L.S.D., and the Snake (Nuggets!) by a Woman of the World",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "目录末尾压轴长题仿街头申冤传单与小报实录体裁。“L.S.D.”既为旧制英币“镑、先令、便士”（librae, solidi, denarii）缩写，亦拟作头衔勋称；末尾提及“Privates Earwicker”（双关列兵与下体阴私）、一对邋遢泼妇以及围绕“Raincoats”（雨衣，研究者或联想防水胶衣 Mackintosh 及其避孕套俚语旁义）的妄加指控，以流言与辩诬收束整串题名。",
+      "text": "长题以独家实录口气招徕听众，末尾转出谣言和雨衣指控。L.S.D. 可读作旧钱币单位，也像挂在姓名后的头衔。Privates 可作列兵或私处，译文将两层挤在一起。Lucalizod 是此处唯一明列的地名。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -67,7 +70,7 @@
       "lemma": "The proteiform graph itself is a polyhedron of scripture.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文以“proteiform graph”（千变万化的普罗透斯式字迹／图卷）与“polyhedron of scripture”（经文／书写的多面体）界定手稿；后文括号内“it's as semper as oxhousehumper!”拼合拉丁语 semper（永远）与 simple（简单），ox-house-humper（牛—屋—驼）或借西闪米特字母前三个字母的传统表意名称（Aleph 牛、Beth 房屋、Gimel 骆驼）指代字母表本身。",
+      "text": "proteiform graph 将千变万化与字迹、图形叠在一起，scripture 既指经文，也牵动书写。后面的 semper 呈现恒久，也近 simple 的声音；牛、屋、驼先保留作连串意象，字母名称的历史对应待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -76,8 +79,8 @@
       "id": "i5-baroun-lousadoor-authorship",
       "lemma": "Say, baroun lousadoor, who in hallhagal wrote the durn thing anyhow?",
       "kind": "wordplay",
-      "certainty": "proposal",
-      "text": "紧接前文多人格与明暗交融的讨论，叙述者连珠炮似地追问作者身份与书写姿态：站立、端坐、骑背还是抵着隔墙（partywall），用鹅毛笔（quill）还是铁笔（style），怀着混浊还是清澈的心智（turbid or pellucid mind），是泥土里冲出的老手还是满载学问的才子。baroun lousadoor 与 hallhagal 含男爵、路西法（Lucifer）与地狱／瓦尔哈拉（Valhalla）等声影。",
+      "certainty": "uncertain",
+      "text": "问句先骂一声，再列书写姿势、工具、周遭动静与写手来历；问遍仍无署名。baroun 可闻男爵，hallhagal 则暂拟其声，未坐实为瓦尔哈拉。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -87,9 +90,10 @@
       "lemma": "Kung's doctrine of the meang or the propriety codestruces of Carprimustimus is just to think of all the sinking fund of patience possessed in their conjoint names by both brothers Bruce with whom are incorporated their Scotch spider and Elberfeld's Calculating Horses.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "叙述者劝读者保持耐心，并举出焦虑商人的排解良方：若无暇钻研孔子的《中庸》（Kung's doctrine of the meang）或礼法条文，只需想想布鲁斯兄弟（苏格兰王 Robert the Bruce 及其弟 Edward Bruce）联名拥有的耐心基金、苏格兰蜘蛛（传说布鲁斯观蜘蛛结网而重振耐心）以及德国埃尔伯费尔德的算术马（Elberfeld's Calculating Horses，二十世纪初著名的识数马匹）。后文“Aludin's Cove of our cagacity”将阿拉丁藏宝洞（Aladdin's Cave）与囚笼（cage）、精明（sagacity）拼合。",
+      "text": "此处把耐性开成联名偿债基金，又拉蜘蛛和算术马入伙。1912 年《达姆施塔特日报》载克拉尔在埃尔伯费尔德试验所谓算术马，足供核对名称。孔子中庸、蜘蛛传说与阿卢丁洞窟可供读者联想，布鲁斯兄弟的确切所指待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "darmstadt-elberfeld-horses-1912"
       ]
     },
     {
@@ -97,7 +101,7 @@
       "lemma": "ever looked sufficiently longly at a quite everydaylooking stamped addressed envelope?",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "原文问寻常汉子（of the dime a dozen type，一抓一大把的普通人）是否曾长久端详过一只贴好邮票写明地址的日常信封（everydaylooking stamped addressed envelope），并由此展开信封与女性衣饰的长篇比喻：若只看文献字面意思或心理内容而忽略信封外在事实，便如只想象女子赤裸胴体而无视其充满地方色彩与私人香气的衣物；进而连发五问，探讨衣饰（事实）与内在（女性虚构）能否分离、能否同时观赏或轮流审视。",
+      "text": "先问谁肯久看贴票写址的信封，再说外壳如衣服。后四问依次保留事实与虚构并在、拆开、同时看、分开看。feminine fiction 不必等同于衣服底下的裸身。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -107,9 +111,10 @@
       "lemma": "probably in Harrystotalies or the vivle will go out of his way to applaud him on the onboiassed back of his remark for utterly impossible as are all these events they are probably as like those which may have taken place as any others which never took person at all are ever likely to be.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "前文“Mayhappy Mayhapnot”谐音都柏林三一学院学者马哈菲（John Pentland Mahaffy，常引格言“在爱尔兰，不可避免之事从不发生，意料之外之事经常发生”）；本句“Harrystotalies or the vivle”拼合亚里士多德（Aristotle）与《圣经》（Bible / vivle），并戏仿《诗学》关于“可信的不可能之事”与“不可信的可能之事”的辨析，以连环绕口句式调侃历史事件与虚构叙事的概率。",
+      "text": "Harrystotalies 与 vivle 可闻亚里士多德与 Bible 的变音。《诗学》第25章对举可信而不可能与可能而不可信；乔伊斯又让可能、不大可能、躲不了彼此掉换。Mayhappy Mayhapnot 先摹音，马哈菲及归名格言待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "aristotle-poetics-butcher-25"
       ]
     }
   ],
@@ -119,9 +124,10 @@
       "lemma": "About that original hen.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文由“original hen”（原初母鸡）切入：冰霜中瑟缩的幼童（后文称小凯文 Kevin，并比附海滩寻获阿达圣杯 Ardagh chalice 的逸事及掘取生土豆的喧嚷）目睹多兰家的母鸡贝琳达（Belinda of the Dorans，即 Biddy Doran）在后来翻出橘皮而改称橘园（orangery）的垃圾堆（midden / dump）上刨出一张信纸。",
+      "text": "先写冬初小孩看见冷鸟，隔着垃圾场后来变橘园的插叙，再问小凯文并转到多兰家的贝琳达。爱尔兰国家博物馆记阿达出土物由掘马铃薯的人发现；小说把圣杯、掘薯与小凯文绞在一问，叙述中的地点和人物关系仍依本句。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "nmi-ardagh-chalice"
       ]
     },
     {
@@ -129,7 +135,7 @@
       "lemma": "if a negative of a horse happens to melt enough while drying, well, what you do get is, well, a positively grotesquely distorted macromass of all sorts of horsehappy values and masses of meltwhile horse. Tip.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "摄影底片比喻：若一匹马的底片（negative of a horse）在晾干时融化，所得仍是怪诞扭曲的庞大块体与大团融化变形的马（masses of meltwhile horse）。原文借此说明信笺在橘味泥墩中心受热久埋后字迹消融变形：离鸟喙／鼻尖（pecker）近处的特征极度肿胀，越往后退便越需借透镜方能看清母鸡所见。句末“Tip”兼含指点秘诀、垃圾倾倒场与鸟喙轻啄之声。",
+      "text": "先问照相师，马的负片晾干时若熔化会怎样，再借答语说泥堆中心受热，近处肿胀，往后需借镜片。负片只消去一部分。Tip 既可指窍门或尖端，也可指垃圾场；译作「啄个窍」保留反复。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -139,17 +145,18 @@
       "lemma": "Lead, kindly fowl! They always did: ask the ages. What bird has done yesterday man may do next year, be it fly, be it moult, be it hatch, be it agreement in the nest.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "“Lead, kindly fowl!”戏仿约翰·亨利·纽曼（John Henry Newman）圣诗《引领吧，仁慈之光》（Lead, Kindly Light），将光（Light）替换为家禽（fowl）。下文由鸟类飞翔、换羽、孵卵、筑巢推及人类黄金时代重临，进而写毕迪·多兰在一月某日凝视文学（looked at literature）。",
+      "text": "Lead, kindly fowl! 与纽曼《云柱》首行相对，只把慈光换成慈禽；下文仍写鸟先做，人日后或能照做，依次列飞、换羽、孵化和巢中协定。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "newman-pillar-of-the-cloud"
       ]
     },
     {
       "id": "i5-letter-boston-text-dirtdump",
       "lemma": "like a goodishsized sheet of letterpaper originating by transhipt from Boston (Mass.) of the last of the first to Dear whom it proceded to mention Maggy well & allathome's health well",
       "kind": "structure",
-      "certainty": "proposal",
-      "text": "母鸡在正午十二点刨出的波士顿转运信纸全文骨架：以连缀不绝的书信口吻依次提及玛姬安好、合家健康、酷热（hate/heat）酸败了范豪滕（van Houtens，亦含荷兰可可商名）的牛奶（mild/milk）、大选、天生绅士的俊脸、送克里斯蒂的精美婚礼蛋糕、可怜迈克尔神父的盛大葬礼（funferall = funeral + fun for all）、向双胞胎（twoinns）问好、四个十字吻，以及附言（pee ess = P.S.）旁那块蝗虫亦不能吞噬的大茶渍。",
+      "certainty": "uncertain",
+      "text": "波士顿家信保留连写，依次写问安、范豪滕、选举、婚礼糕、神父丧事、再问安、告辞、十字吻和附言。the last of the first 日期悬空，hate／heat、mild／milk 可互听，不把其中一读当作唯一释义。茶渍在下一句获明确辨认。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -159,7 +166,7 @@
       "lemma": "Yet is it but an old story, the tale of a Treestone with one Ysold, of a Mons held by tentpegs and his pal whatholoosed on the run, what Cadman could but Badman wouldn't, any Genoaman against any Venis, and why Kate takes charge of the waxworks.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "紧接前文夹杂“（schwrites）”的自我辩白（男人生有三重人格、贪恋跳舞与苹果荡妇等），段末将整封信归结为古老故事的诸多变体：一块特里斯顿石碑配一位伊索尔德（a Treestone with one Ysold，注意原文为 one Ysold）、帐篷木桩固定的山岳（Mons）与滑铁卢（whatholoosed / Waterloo）在逃同伙、卡德曼（Cadman）与坏人（Badman）、热那亚人对阵威尼斯／维纳斯，以及凯特（Kate）掌管蜡像馆（waxworks，呼应第一卷第一章博物馆导览员 Kate）。",
+      "text": "反复的 schwrites 夹在发言之间，末句又并列多则老故事。Treestone／Ysold 可听出特里斯坦／伊索尔德，也留树石；凯特掌蜡像可回读 I.1 的导览。Mons、whatholoosed 与 Venis 的历史特指尚待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -171,9 +178,10 @@
       "lemma": "Habes aures et num videbis? Habes oculos ac mannepalpabuat? Tip!",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文在此提议抛开把戏（drop this jiggerypokery）、开门见山（talk straight turkey），并对比双耳与双目之不可尽信。两句拉丁文变形问句“Habes aures et num videbis? Habes oculos ac mannepalpabuat?”化用《圣经》（如《马可福音》8:18“Having eyes, see ye not? and having ears, hear ye not?”），将耳、目、鬼魂摸索（mannepalpabuat = manes + palpabunt）错位交织。研究者或联系爱德华·沙利文爵士（Sir Edward Sullivan）《凯尔经》导论的古文字学考辨体裁。",
+      "text": "《马可福音》8:18 并举有眼不见、有耳不听。此处先问有耳能看么，又问有眼能摸么，把耳、目与触觉换了位置。mannepalpabuat 余音难定，中文暂落在「摸」。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bible-mark-8-usccb"
       ]
     },
     {
@@ -181,7 +189,7 @@
       "lemma": "I am a worker, a tombstone mason, anxious to pleace averyburies and jully glad when Christmas comes his once ayear. You are a poorjoist, unctuous to polise nopebobbies and tunnibelly soully when 'tis thime took o'er home, gin.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "“我”与“你”的对立：我是劳工、墓碑石匠（tombstone mason），巴望讨好所有葬者／众人（pleace averyburies = please everybody + buries），盼一年一度的圣诞节；你是寒酸乔伊斯／资产者（poorjoist = poor Joyce + bourgeois），油滑讨好警察（polise nopebobbies），打烊喝杜松子酒时挺着大肚皮（tunnibelly）。随后转入对信纸字行走向的描写：字行纵横交错，先用灯烟墨与黑刺李木棒（shillelagh）画格，再头尾相接来回书写，兼具古代耕地式往复书写（boustrophedon）与近代省纸纵横交叠书写（cross-writing）的特征。",
+      "text": "墓碑石匠的 averyburies 挤进葬者与人人，poorjoist 可听出贫穷、Joyce 和 bourgeois，暂用「穷乔士」。下一段先写南北、西东两组交叉行，再写折返的笔路；省纸与测地均由叙述者提出。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -191,7 +199,7 @@
       "lemma": "So why, pray, sign anything as long as every word, letter, penstroke, paperspace is a perfect signature of its own?",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "前文区分造纸与吸墨原料（沙子、乌贼骨粉 pounce powder、吸水纸、软布）及埋入地下后粘附的泥土杂质（accretions of terricious matter），继而讨论信末下午茶渍（teatimestained terminal）。针对博因河战役前后不常在信末签名的习惯，叙述者提出核心书学论断：只要每一个词、每一个字母、每一道笔划、每一寸纸面留白本身就是完美签名，便无需另署姓名；正如认出真朋友靠其私人笔触与举止习惯，远胜于看他的鞋履。",
+      "text": "纸面先有沙、扑粉等，后来又沾泥。茶渍可读作指印、刻意记号或拙笔；叙述者援引博因河战役前后的署名习惯，转而把词、字、笔画和纸空逐一读作签名。这项历史习惯仍待独立核证。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -201,7 +209,7 @@
       "lemma": "we grisly old Sykos who have done our unsmiling bit on 'alices, when they were yung and easily freudened, in the penumbra of the procuring room",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "精神分析话语戏拟：“grisly old Sykos”（阴森的老精神分析客，psychos）在暗室半影中诊治“yung and easily freudened”（年轻且易受弗洛伊德式惊吓，嵌 Jung 与 Freud 姓氏）的爱丽丝们，指出在此类语境中“父亲”未必总是（is not always）那位替我们结清账单的木讷亲属。紧接其后，原文又给出另一套马克思主义与俄国革命式的政治解读（引《我曾是一名将军》：迈克尔神父等于旧政权，玛格丽特代表社会革命，蛋糕即党费，谢谢你即全民感恩，并提斯巴达克斯）。",
+      "text": "yung 与 freudened 将年轻、受惊缠进 Jung 和 Freud 的音形。先假演精神分析，随后又推销一套革命寓意。书中读法各依说话者，尚无外部证据确定《我当过总将军》的出处。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -211,9 +219,10 @@
       "lemma": "were the Pythagorean sesquipedalia of the panepistemion, however apically Volapucky, grunted and gromwelled, ichabod, habakuk, opanoff, uggamyg, hapaxle, gomenon, ppppfff",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "段末以长反问句将两种极端语域对调：若床单间喘息吐出的肉欲俚语竟由教区执事、形而上学家与律师宣讲，而全学术殿堂（panepistemion）里毕达哥拉斯式的尺半长词（sesquipedalia，出自贺拉斯《诗艺》）、沃拉普克人造语（Volapucky）与罕用孤词（hapaxle, gomenon = 希腊语 hapax legomenon）反倒在乡间木栅、民居后、死巷或破麻袋下咕哝咆哮，人类行当与繁衍将置于何地。",
+      "text": "贺拉斯《诗艺》第97行用 sesquipedalia verba 指尺半长词。这里让学堂长词钻进死巷、麻袋，同时让床间俚语上讲台。hapaxle、gomenon 分着念又近 hapax legomenon，译文留两截音节。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "horace-ars-poetica-97"
       ]
     }
   ],
@@ -223,9 +232,10 @@
       "lemma": "such is manowife's lot of lose and win again, like he's gruen quhiskers on who's chin again, she plucketed them out but they grown in again.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "原文以“manowife”（夫妻一体，兼谐 man-o'-war 战舰）概括男女婚嫁守灵、得失交替的循环宿命，并用日常比喻作结：好比男人在下巴上又长出绿胡茬（gruen quhiskers = green whiskers），女人拔了又拔，胡茬却照旧长出。",
+      "text": "婚事、守灵、输赢、拔毛再生，末尾三个 again 接连回到「又」。manowife 把丈夫和妻揉成一个词，或有战舰词声。随后 juness she saved 和 yulone he pouved 扭转法语老话。法兰西学院词典在 pouvoir 条收录此谚，意思是但愿年轻时懂、年老时还有力。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "academie-pouvoir-jeunesse"
       ]
     },
     {
@@ -233,9 +243,10 @@
       "lemma": "From quiqui quinet to michemiche chelet and a jambebatiste to a brulobrulo! It is told in sounds in utter that, in signs so adds to, in universal, in polygluttural, in each auxiliary neutral idiom",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "将四位思想家与史学家的名字作叠音变形：埃德加·基内（Edgar Quinet）、儒勒·米什莱（Jules Michelet）、詹巴蒂斯塔·维柯（Giambattista Vico）与焦尔达诺·布鲁诺（Giordano Bruno）。紧接着列出一长串传述这桩古老故事的语言与媒介：声音、手势符号、普世通语、多语喉音、辅助中立语、聋哑手语（sordomutics）、花语（florilingua）、爱尔兰游民谢尔塔黑话（sheltafocal）、古巴腔、妓女黑话、街道阿拉伯语、古波斯／爱尔兰语（ereperse）乃至一切舌音。随后叙述娜内特（Nanette）与哈里（Harry）历经风雨、婚丧与自然选择的书信如陈年热茶般传下。",
+      "text": "基内、米什莱、维柯与布鲁诺露在叠声里。博洛尼亚大学维柯展页在117.11–12引这一句，讨论维柯名字与诸人并现。译文保留姓名叠响；紧随其后的各类口舌暂不逐个落实语源。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "unibo-vico-wake-names"
       ]
     },
     {
@@ -243,7 +254,7 @@
       "lemma": "Now, kapnimancy and infusionism may both fit as tight as two trivets",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "原文由烟占术（kapnimancy）与灵魂注入说（infusionism）转入关于作者身份的递进论证：第一步先肯定书信必有真实作者与权威——无论在书洪（bookflood）涨落前后，总有个名字列在电话簿里的人（科科拉尼乌斯或加洛陶鲁斯）某时某地把它全部写完（wrote it, wrote it all）；第二步随即指出，深思者会明白这种“一劳永逸写完放在那儿”的静态看法只是眼底幻象。",
+      "text": "烟占、浸泡两说紧接烫茶、烫屋的嗬哈口吻，infusionism 暂译「茶浸说」，也可另听到灌注之说。叙述者先声称权威不容怀疑，连说三次写完，接着又说这副完结相全在眼里。两个电话簿名暂按音写。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -253,9 +264,10 @@
       "lemma": "every person, place and thing in the chaosmos of Alle anyway connected with the gobblydumped turkery was moving and changing every part of the time",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "紧接“Soferim Bebel”（拼合希伯来文士 Soferim 与巴别塔 Babel）与墙上字迹（writing on the wall，见《但以理书》第5章），原文点明静态作者观何以不足：在混沌宇宙（chaosmos = chaos + cosmos）里，凡与这堆火鸡胡话相关的人、地、物无时无刻不在移动变化——游走的墨水匣、龟兔般的笔与纸、反协作者（anticollaborators）彼此不断误解的心智，以及随时间流逝而改变屈折、读音、拼写与词义的书写符号。段末呼吁像溺水者般紧抓这片干墨残纸，借哲学之光期盼事态在一刻钟内稍趋明朗。",
+      "text": "《但以理书》5:5–8 写手指在宫墙上落字，众人难辨。此处拿墙面所写与屋顶嚷出的闲话较量，继而列举写手、工具与字音、字形、字义的变化。chaosmos 把乱与宇宙绞在一处；段末 quarrel of an hour 兼有口角和一刻钟的声影，暂写「一吵刻」。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bible-daniel-5-usccb"
       ]
     }
   ],
@@ -265,7 +277,7 @@
       "lemma": "the meant to be baffling chrismon trilithon sign , finally called after some his hes hecitency Hec, which, moved contrawatchwise, represents his title in sigla as the smaller Δ, fontly called following a certain change of state of grace of nature alp or delta",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "原文在此详述信件首字母与核心代号（sigla）：埃尔维克首字母旁环绕鞭环笔锋、圆圈与光轮；那个蓄意令人费解的基督圣名三石塔符号（chrismon trilithon sign，即横卧的 E），经历一番“迟疑”（hecitency，呼应 Pigott 伪信案拼写错误 hesitency）后唤作 Hec，逆时针转动即成为代表其头衔的符号（山字形或直立 E）；而较小的 Δ（唤作 alp 或 delta）单独出现时代表配偶（ALP），或紧挨配偶身旁。括号内又将爱尔兰历史年份 432（传说圣帕特里克赴爱尔兰之年）与 1132 及各式符号戏拟为乡村客栈、倒置桥梁、十字路口、绞架、四轮马车、饮茶幽会（字母 T）与死胡同。",
+      "text": "第119页见证以图插在 chrismon trilithon sign 后。工程按 Eface.jpg 方向绘制，Hec 随后由叙述者转动解释。较小的 Δ 与配偶另成一组。432 与 1132 留作段中俗数；其历史所指及 hecitency 的案史联想待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -275,7 +287,7 @@
       "lemma": "as were it sentenced to be nuzzled over a full trillion times for ever and a night till his noddle sink or swim by that ideal reader suffering from an ideal insomnia",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "紧接字母 p 与 q 的混淆（mind your p's and q's，因帽子歪斜与尾巴含嘴而互混）、藏在彩带迷宫里的词，以及牛蹄般笨拙的字母 b（按现代希腊语发音，mp 拼写发 b 音，故“mpe mporn a gentlerman”即“be born a gentleman”），原文点出“prepronominal funferal”，称其经反复雕琢润饰，仿佛注定要由“患上理想失眠症的理想读者”（ideal reader suffering from an ideal insomnia）用鼻子拱摩一万亿遍。",
+      "text": "段中帽斜、衔尾，多次拿 p、q、pew 混读。mpe mporn 暂用两个 m 字表现拗口的起音，字母 b 与 born 的联系可听。句子又让失眠的理想读者用鼻子拱过文字一万亿遍。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -285,9 +297,10 @@
       "lemma": "stalks all over the page, broods Ⅎ sensationseeking an idea, amid the verbiage, gaunt, stands dejectedly in the diapered window margin, with its basque of bayleaves all aflutter about its forksfrogs, paces with a frown, jerking to and fro, flinging phrases here, there, or returns inhibited, with some half-halted suggestion, ⅎ, dragging its shoestring",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "在列举红剑标删误号（obeli）、希腊字母 e、朝西屈膝的 g、希伯来字母 ghimel 穿希腊字母 iota 针眼、四仰八叉的 w 之后，原文用拟人笔法描写字母 f（兼指古希腊双伽马 digamma 及其倒置克劳狄乌斯字母 Ⅎ）：它在纸页上阔步游走、凝神沉思（Ⅎ）、在页边空白处垂头站立、蹙眉踱步，或满怀压抑地折返、带着半途而废的暗示（ⅎ）拖着鞋带。随后又写允许词序任意排列的“茅屋顶漏孔／阿兰岛人帽洞低语”警告符号、脱点的 h 与无点的 i，以及被逐出经文后在书写者手掌按压下如蜥蜴般膨胀的蛇形线（serpentine）。",
+      "text": "第121页两枚 F 分列于 broods 后和 suggestion 后。见证插图前者旋转180度，后者上下翻转，两图可在本章全页英文查看。分段英文本沿用 Ⅎ、ⅎ，Unicode 所列为倒置 F 的大写与小写；第二枚小写字符和底本翻面图方向有别。中文改用方向标记。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "unicode-letterlike-turned-f"
       ]
     },
     {
@@ -295,7 +308,7 @@
       "lemma": "the ungainly musicianlessness so painted in sculpting selfsounder ah ha as blackartful as a podatus and dumbfounder oh ho oaproariose as ten canons in skelterfugue: the studious omission of year number",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "句末将字迹的视觉涂抹转化为音乐术语戏拟：“podatus”为中世纪纽姆记谱法（neume）中表示由低音向高音跃升的双音符号（字面含“足形”义）；“ten canons in skelterfugue”拼合十声部卡农（canons）与仓皇奔逃（helter-skelter）、赋格（fugue）。末尾“the studious omission of year number”不加句号，跨段直连下一段首句“and era name from the date”。",
+      "text": "podatus 与十重卡农把视觉笔势写成声响。「啊哈」「哦嗬」与赋格保留。此段止于「年份数字」，下段开头「与纪元名号」续句。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -307,9 +320,11 @@
       "lemma": "plainly inspiring the tenebrous Tunc page of the Book of Kells (and then it need not be lost sight of that there are exactly three squads of candidates for the crucian rose awaiting their turn in the marginal panels of Columkiller",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文由左下角十字形附言（cruciform postscript）上被刮除的三个吻痕（引古罗马诗人卡图卢斯区分吻的拉丁词：basia、oscula、suavium），联想到《凯尔经》著名的 Tunc 页（folio 124r，非书本第124页；该叶书《马太福音》27:38 拉丁文“Tunc crucifixerant cum eo duos latrones”，即两个强盗与耶稣同钉十字架）。括号内进而将受难场景与页边装饰戏拟为三队候选人、三个投票箱、老马太（Matthew）“二人成伴”（two is company）的俗谚，以及舌顶腮帮（tongue in cheek，兼指戏谑反语与唇舌深吻）的双关。",
+      "text": "十字附言上刮掉的吻引出 Tunc 一叶。都柏林三一学院展陈记录将其定为《凯尔经》124r 叶，抄《马太福音》27:38 两人同钉。小说随即写三队、三箱及「两人成伴」；可兼读《马太福音》18:20 的二三人同聚。馆方文字可证叶号和经文，页边三队属小说叙述。本条未查图版。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "tcd-kells-tunc-124r",
+        "bible-matthew-18-usccb"
       ]
     },
     {
@@ -317,7 +332,7 @@
       "lemma": "(an interpolation: these munchables occur only in the Bootherbrowth family of MSS., Bb—Cod IV, Pap II, Brek XI, Lun III, Dinn XVII, Sup XXX, Fullup M D C X C: the scholiast has hungrily misheard a deadman's toller as a muffinbell)",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "紧接上一分段末尾“刻意省去日期里的纪年数字”，本段以“与纪元名号”续接，旋即插入一段校勘学戏拟：称这些点心只出现在“Bootherbrowth”（谐音 Booterstown 与 broth 肉汤）手稿世系中，其卷次代号依次拼出一日三餐与吃撑（Cod 鳕鱼、Pap 软糊、Brek 早餐、Lun 午餐、Dinn 正餐、Sup 晚餐、Fullup 吃饱），并讽刺饥肠辘辘的古注家（scholiast）将丧钟（deadman's toller）误听为卖松饼的摇铃（muffinbell）。",
+      "text": "日期句由上段「年份数字」续到这里的「与纪元名号」。插话假作抄本异文，Bb 下的 Cod、Pap、Brek 等一转便像食物与餐次，末尾塞到「饱饱」；仍用罗马数字。注家把丧钟听成卖松饼的铃。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -327,7 +342,7 @@
       "lemma": "and, eighteenthly or twentyfourthly, but at least, thank Maurice, lastly when all is zed and done, the penelopean patience of its last paraphe, a colophon of no fewer than seven hundred and thirtytwo strokes tailed by a leaping lasso",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "在前文依次评论四个缩写 & 号、战鼓与鲁拜集（quatrain of rubyjets）及纸牌赌戏（Spoil Five 牌局中痛击 K. M. O'Mara）里的字母 r、十字附言后，原文按字母表顺序收束：四条腿的 m、拼写 dear god 的粗大 d、干巴巴的 x 与 y（aks and wise），最后（thank Maurice，保人名莫里斯）到字母 z（when all is zed and done），点出具有佩涅洛佩式耐心、由“不少于七百三十二笔”（no fewer than seven hundred and thirtytwo strokes，研究者或联想 366×2 的日数，原文未明言）构成的终卷花押题跋，以及欧甘文字（ogham）般的女性性欲笔势与蜿蜒男性拳头的对峙。",
+      "text": "前列四个 &、r 的鼓骰、十字附言，继而写四腿 m、大粗 dhee、aks 和 wise，末尾让 zed 与 said 的声音接近。题跋明确说不少于七百三十二笔，另拖一条套索。数字与年历有无关联待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -337,7 +352,7 @@
       "lemma": "Duff-Muggli, who now may be quoted by very kind arrangement",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "段末捏造两位伪学术权威及其荒诞书目：其一是达夫—穆格利（Duff-Muggli），他将这种男女合作的书信关系命名为“尤利西斯式／不幸式”（ulykkhean，兼含丹麦语 ulykke 不幸）、“四手式”（tetrachiric / quadrumane）、“打水漂式”（ducks and drakes）或“债与盘交困式”（debts and dishes perplex）；其二是与大师相隔千里的唐—托伊德（Tung-Toyd，谐音 tongue-tied 结舌），他观察到那部归于倒霉水手名下的环航畅销书，实由一份题为《从麦克弗森的奥西安大洋绕经伊阿宋巡航潮汐》（戏仿 James Macpherson 伪托古凯尔特诗人 Ossian 之公案与伊阿宋航海）的布匿海军部报告颠覆改版成十二群岛贝德克（Baedeker）旅行指南。",
+      "text": "达夫—穆格利借通格—托伊德先说的一段见解，罗列同一搭伙的多个名称，书目文体本身也是戏拟。绕航报告翻船又翻印，最后成了十二群岛的贝德克指南。名字、书名与历史人物的对应留待另查。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -349,7 +364,7 @@
       "lemma": "Yet on holding the verso against a lit rush this new book of Morses responded most remarkably to the silent query of our world's oldest light",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "原文写原初文献以“Hanno O'Nonhanno”（暗指迦太基航海家 Hanno）的无标点连绵字体写就；当把纸背迎向点燃的灯芯草（lit rush），这部“new book of Morses”（双关摩尔斯电码 Morse code 与摩西五经 Book of Moses）便在火光下显出正面被带齿器物戳出的无数穿孔与叶状豁口。",
+      "text": "先说原件没标点，再举纸背向燃着的灯芯草，从纸面辨出刺孔和叶裂。Morses 让摩尔斯与摩西两声挨近，暂用「摩尔西斯」。Hanno 所指待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -359,7 +374,7 @@
       "lemma": "These paper wounds, four in type, were gradually and correctly understood to mean stop, please stop, do please stop, and O do please stop respectively",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "四类纸面孔洞被破译为电报句点（stop）兼求饶呼喊（“停、请停、千万请停、噢千万请停”）。紧接着原文运用大量怪异音符、箭头与重音符号排印，称苏格兰场查出这些孔洞系一位严肃教授（后文称 Brotfressor Prenderguest）在早餐桌上用一把餐叉（fork）戳出，意在借着在“iSpace”（自我空间）中穿孔，向“〔一个平面（？）表‘’面‘’上〕”（[ùpon à plane (?) sù ' ' fàç'e']）引入时间观念；后又揭示四叶草孔洞密集处恰是母鸡帕特莱特（Dame Partlet）在粪堆上啄食之处。",
+      "text": "四种孔伤渐次读成四声「停」，兼电报止句与求饶。餐叉调查用断字、异形重音、箭头与乱点写成；后文才拿四瓣痕同母鸡所挑的纸面位置并看。叙述先报调查，再起疑心，未给孔痕认定单一来源。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -368,8 +383,8 @@
       "id": "i5-four-old-men-jeromesolem-riddle",
       "lemma": "Small need after that, old Jeromesolem, old Huffsnuff, old Andycox, old Olecasandrum, for quizzing your weekenders come to the R.Q. with: shoots off in a hiss, muddles up in a mussmass and his whole's a dismantled noondrunkard's son.",
       "kind": "culture",
-      "certainty": "proposal",
-      "text": "前文写峡湾卡姆赫尔松（Fjorgn Camhelsson）在女人国（Kvinnes country，挪威／丹麦语 kvinde 女人）同索尔德鲁（Soldru）部众制信、水手尚未饮那一口、亚当老爹客栈（L'Auberge du Père Adam）四周狐狸与鹅群和平相处之后，原文点出四老汉的四个变形名号：Jeromesolem（哲罗姆＋耶路撒冷）、Huffsnuff（嗅鼻烟者／休贡）、Andycox（安德鲁／公鸡）与 Olecasandrum（亚历山大／卡斯托耳），以及他们向周末游客出的字谜（谜底或指向威士忌／芬尼根之子）。",
+      "certainty": "uncertain",
+      "text": "四个老名在亚当客栈段之后连呼，下一句向周末客抛出押声谜。译文拟声保留四名与 R.Q.。四人与 126.01 起新一轮问答可前后连看；谜底和各名的确切影射尚待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -379,9 +394,10 @@
       "lemma": "his room taken up by that odious and still today insufficiently malestimated notesnatcher (kak, pfooi, bosh and fiety, much earny, Gus, poteen? Sez you!) Shem the Penman.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "在依次提及图尔科·麦克胡利（Tulko MacHooley）、圣咏集书写者迪尔穆德（Diremood / Diarmaid）、托尔巴手下白颈佳人（Torba's nicelookers）、托蒂·阿斯金斯一家悬赏征募千禧女帽劳役（Wanted for millinary servance）、信差汉斯（Hans the Curier）与约瑟夫／挪亚（Gopheph / Noe）之后，本章末句以讥讽口吻抛弃碎嘴猿猴假说，将位置交予“可憎且至今仍远未受足够唾骂的笔记扒手（notesnatcher）”——“执笔人谢姆”（Shem the Penman，戏仿十九世纪英国伪造犯 James Townsend Saward 绰号及以此为题的维多利亚通俗剧《Jim the Penman》）。此处虽点出谢姆之名，仍属叙事中的讥刺指认，并不消除全章围绕书信多重共同作者与流动文本所展开的复杂悬念。",
+      "text": "章末撤下一半猜想，换执笔人谢姆入场。伯明翰大学藏 Charles L. Young 的《Jim the Penman》演出节目单，档号 MS108/1/118，可核1886年伦敦演出及标题。两种称号可作近音对读；乔伊斯所据及戏剧人物对应待核。章尾的讥称也未替这封信坐实唯一作者。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "birmingham-jim-the-penman-programme"
       ]
     }
   ]

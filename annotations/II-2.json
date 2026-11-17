@@ -4,8 +4,8 @@
       "id": "ii2-unde-et-ubi",
       "lemma": "unde et ubi",
       "kind": "syntax",
-      "certainty": "uncertain",
-      "text": "正文译作‘来自何处与身在何处’，保留起点与位置的分别；旧注‘何处去’误引目的地，现删。经院哲学范畴之说尚无本注列出的专门文献支持，不作定论。",
+      "certainty": "proposal",
+      "text": "右旁注分问来源与所在。「从哪儿来，在哪儿。」保留两问，目的地到后文 to where 才出现。它与正文连换三次「咱／那儿／在」位置相邻。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -14,10 +14,12 @@
       "id": "ii2-tomtittot-totalitarian",
       "lemma": "tomtittot to teetootomtotalitarian",
       "kind": "wordplay",
-      "certainty": "uncertain",
-      "text": "原词从tomtittot铺展到teetootomtotalitarian，末尾可辨totalitarian。译文保留由小向大、反复扩音的尺度；童话出处仍待另核，不能据此替原文补故事。",
+      "certainty": "proposal",
+      "text": "Jacobs 故事中的小妖一边纺线一边唱出 Tom Tit Tot。布朗大学藏的 teetotum 是旋骰，有字母或数字标面。这里短名音节胀成兼有旋骰、totalitarian 声形的长词，再缩回茶声。暂译「汤姆滴答／踢托陀姆全权极极权」，旋骰层留注。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jacobs-tom-tit-tot",
+        "brown-liman-ivory-teetotum"
       ]
     },
     {
@@ -34,20 +36,22 @@
       "id": "ii2-mater-mary-nipples",
       "lemma": "Mater Mary Mercerycordial of the Dripping Nipples",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "原注把Mater、Mary与滴乳乳头、乳汁的奇异安排并列。可提议读为圣母祷词与肉身哺乳相混；说话者是否伊瑟、祷词准确出处，仍待专门证据。",
+      "certainty": "proposal",
+      "text": "第二条原注自称垂乳圣母。Salve Regina 起首称 Mater Misericordiae，小说把声音改作 Mercerycordial，近 cordial 的亲热和甜酒都可听。译文让慈心、甜酒与滴奶并存，未定说话人。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "vatican-salve-regina-mater"
       ]
     },
     {
       "id": "ii2-booming-cursowarries",
       "lemma": "booming cursowarries",
       "kind": "wordplay",
-      "certainty": "uncertain",
-      "text": "cursowarries可与cassowary、curse作声形比较；corsair也是候选，不能据候选径补海战。此处只译可辨的轰鸣鸟声，不把各成分当作已证词源。",
+      "certainty": "proposal",
+      "text": "cursowarries 近 cassowaries「鹤鸵」，也碰到 curse。史密森尼动物园资料核鹤鸵会发低沉轰鸣，支持此处轰声意象，不能单凭此裁定语源。译「咒鹤鸵」，保留鸟与诅咒的回声。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "smithsonian-cassowary-communication"
       ]
     },
     {
@@ -55,7 +59,7 @@
       "lemma": "And he was a gay Lutharius anyway, Sinobiled",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "Lutharius可与Lothario、Luther比较声形；Sinobiled如何拆读仍存疑。正文保留名字的陌生感，不再增公爵、贵族尊号或确定的HCE身份。",
+      "text": "Lutharius 可对读 Lothario、Luther 的名字声形。Sinobiled 仍存疑。正文保留陌生拟名，并照脚注加回从衣裳辨认此人的口气。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -65,9 +69,320 @@
       "lemma": "O Evol, kool in the salg and ees how Dozi pits what a drows er.",
       "kind": "translation",
       "certainty": "proposal",
-      "text": "本句若干词倒拼或拆拼：Evol可倒读love，kool倒读look，ees倒读see。译文只保留镜子、观看与睡意，未复造全部镜像拼写。salg与末串仍待核，不据猜读添正文。",
+      "text": "Evol、kool、ees 倒拼正见 love、look、see，salg 倒读 glas，留少一个 s 的缺口。McVey 解作伊佐把词儿传给人；靠近末尾的 drows 亦可原样倒成 sword。正文取一处倒告，保留词语读法；全句并不逐字一律倒排。",
+      "source_ids": [
+        "joyce-fp",
+        "mcvey-sync-cosmopolitanisms-fw262"
+      ]
+    },
+    {
+      "id": "ii2-route-260",
+      "lemma": "Mezzofanti Mall, diagonising Lavatery Square, up Tycho Brache Crescent",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "街名随行路排开。博洛尼亚图书馆记 Mezzofanti 为通多语者。JJDA 所作缺稿重建把第谷姓写作 Brahe，现用底本为 Brache。译名保存地形次序；Lavatery 另带 lavatory 的厕声，译作「拉瓦厕」。",
+      "source_ids": [
+        "joyce-fp",
+        "bologna-mezzofanti-room",
+        "jjda-ii2-missing-draft-3"
+      ]
+    },
+    {
+      "id": "ii2-while-whither",
+      "lemma": "where we whiled while we whithered",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "where、whiled、while、whithered 连四下 wh；停留和去向挤在一起，紧接维柯转盘。译「咱流连过也去过」，保留停与走；街线是否对应实地、是否直接影射哪部维柯著作，仍待核。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-montan-wetting",
+      "lemma": "Montan wetting his moll",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "金井嘉彦第78页并读 wetting「弄湿」与 wedding「娶亲」，并把 Montan 联系山与 HCE。译「蒙坦娶湿」，保存两义；蒙坦身份留作该研究的读法。原注三另说皇家离婚，给这桩婚事背后加了另一重戏。",
+      "source_ids": [
+        "joyce-fp",
+        "kanai-alp-wetting-260"
+      ]
+    },
+    {
+      "id": "ii2-rawmeash-nine-months",
+      "lemma": "Rawmeash, quoshe with her girlic teangue",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Ó Dónaill 词典收 raiméis（异形 ráiméis），指胡言。脚注开头把它写成 Rawmeash，girlic 又夹少女与盖尔两层。后面九个月可能是服刑，也可能是怀孕，所以译「挨满九个月」，未把两路定为一路。",
+      "source_ids": [
+        "joyce-fp",
+        "teanglann-raimeis"
+      ]
+    },
+    {
+      "id": "ii2-261-costume-seam",
+      "lemma": "in her rougey",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "第260页末写胭脂红，261页续下改形称呼、绒手短裙与紫罗兰衫。JJDA 的缺稿重建另有 cheeks，现行底本不见该词。正文用破折号跨页，保留并列衣着，未替它补出脸颊。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-missing-draft-3"
+      ]
+    },
+    {
+      "id": "ii2-261-elv-fjaell",
+      "lemma": "En elv, et fjaell",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "《丹麦语词典》两词条分别释 elv 为北欧河流、fjeld 为山地，后者保存古诺尔斯语 fjall。正文一河一山，小说 fjaell 的写法仍存于原文；未以词形裁定哪条河、哪座山。",
+      "source_ids": [
+        "joyce-fp",
+        "dsl-ddo-elv",
+        "dsl-ddo-fjeld"
+      ]
+    },
+    {
+      "id": "ii2-261-seven-wonders",
+      "lemma": "conned the cones and meditated the mured and pondered the pensils",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《希腊诗选》9.58 的七项名单兼收巴比伦城墙与空中花园。此处锥塔、墙垣、悬笔、奥林匹、黛安娜、巨像、陵墓，可依次对读金字塔、巴比伦城墙与悬园、奥林匹亚宙斯像、阿尔忒弥斯神庙、罗得岛巨像及摩索拉斯陵墓。正文仍留笔、透亮等别义，未定诗篇就是直接出处。",
+      "source_ids": [
+        "joyce-fp",
+        "greek-anthology-9-58-wonders"
+      ]
+    },
+    {
+      "id": "ii2-261-swiney-tod",
+      "lemma": "Swiney Tod, ye Daimon Barbar!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《珍珠串》第一章称理发师 Sweeney Todd。左旁注改成 Swiney，夹进 swine 的猪声，Barbar 又可听成 barber 与野蛮。译「猪威尼·托德，你这魔鬼剃头佬」，把左侧独立诘喊留下。",
+      "source_ids": [
+        "joyce-fp",
+        "string-of-pearls-gutenberg"
+      ]
+    },
+    {
+      "id": "ii2-261-tumulty",
+      "lemma": "Mr Tumulty in muftilife",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "美国国会图书馆档案摘要确有 Joseph P. Tumulty，曾任威尔逊秘书。小说把同姓人物放在便装人生，tumulous 又紧贴坟丘。作者脚注的地址另写言论院、点心路等拟名，未当作真实住址。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-tumulty-papers"
+      ]
+    },
+    {
+      "id": "ii2-261-ainsoph-zeroine",
+      "lemma": "this upright one, with that noughty besighed him zeroine",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Chabad 释卡巴拉术语 Ein Sof 为无限。Mortson 第35页转述 Boldereff 将此处直立的一与零并读。正文留「艾因索夫」、直挺挺的一和零女郎，作者脚注却说葡萄汁的集体名，照存这股岔音。",
+      "source_ids": [
+        "joyce-fp",
+        "chabad-kabbala-ein-sof",
+        "mortson-boldereff-fw-part2"
+      ]
+    },
+    {
+      "id": "ii2-261-decans",
+      "lemma": "what the decans is there about him",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "马尼利乌斯《天文诗》第4卷列黄道十度分段。这里 decans 接在连串询问后，也像把 what the dickens 说偏。译留「究竟」与「十度星区」。问句跨入 262 页才接 decemt man 或异本的 decent man，续页仍待核。",
+      "source_ids": [
+        "joyce-fp",
+        "manilius-astronomica-4-decans"
+      ]
+    },
+    {
+      "id": "ii2-261-soto-poce",
+      "lemma": "Bhing, said her burglar's head, soto poce.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "soto poce 改形近 sotto voce「压低嗓音」。Bhing 却先抢出一声。译留嘭咿和贼脑袋，没把它改成平淡的低语。",
+      "source_ids": [
+        "joyce-fp",
+        "cambridge-sotto-voce"
+      ]
+    },
+    {
+      "id": "ii2-262-decemt",
+      "lemma": "anyway, the decemt man?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Faded Page 为 decemt，与前页 decans 的十度分段有声形牵连，decent「体面」仍听得见。译作「十全得体」，给第261页星盘总问收尾。",
+      "source_ids": [
+        "joyce-fp",
+        "manilius-astronomica-4-decans"
+      ]
+    },
+    {
+      "id": "ii2-262-pearse-oreally",
+      "lemma": "Yes, pearse. Well, all be dumbed! O really?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "敲门后接问答，pearse、really 可听成姓氏，又像 please、really 等门口话。JJDA 缺稿重建的 O Really 同样可两读。译留皮尔斯和奥赖利，未裁作两名具体历史人物。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-missing-draft-3"
+      ]
+    },
+    {
+      "id": "ii2-262-erdnacrusha-lux",
+      "lemma": "Erdnacrusha, requiestress, wake em!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "ESB 的 Ardnacrusha 水电站在香农河水系，1929 年启用首批机组。小说改首音而让安息娘叫醒大伙儿。下一句可与天主教亡者短祷的永光照临相听，露西、安逸又保留原有英语变形。",
+      "source_ids": [
+        "joyce-fp",
+        "esb-ardnacrusha-hydro",
+        "vatican-requiem-ass-1908"
+      ]
+    },
+    {
+      "id": "ii2-262-apis-luna-pulla",
+      "lemma": "Apis amat aram. Luna legit librum. Pulla petit pascua.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "原注仿拉丁语练习，蜂、月、雏鸡依次作主词，三小句各押 a、l、p 的起音。译成三个四字短句并保留动作，原字母起音在此难以重现。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-262-sow-byg-eat",
+      "lemma": "Sow byg eat.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Christiani 在 262.19 并列丹麦语大麦义与筑造的命令式，又把三个声脉连作播、筑、吃。译「播，筑麦，吃」，让麦粒兼顾盖屋一线，也可把三个短声连听作祝成语。",
+      "source_ids": [
+        "joyce-fp",
+        "christiani-scandinavian-262"
+      ]
+    },
+    {
+      "id": "ii2-262-skimmelk",
+      "lemma": "skimmelk steed",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "荷兰语 ANW 的 schimmel 可指渐白、看起来带灰的马。skimmelk 同时贴近 skim milk，译「脱脂奶灰骏马」，让两层一同入句。地阁风扇究指何物尚待查。",
+      "source_ids": [
+        "joyce-fp",
+        "anw-schimmel-horse"
+      ]
+    },
+    {
+      "id": "ii2-262-inn-from",
+      "lemma": "The babbers ply the pen. The bibbers drang the den.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "babbers／bibbers 换一处元音，pen／den 换一处起音，续文从 papplicom 跳到 pubblicam，末又说 tin／ten。译文保留两组对应；Inn inn 承去酒馆，末字 From 悬住，须接第263页。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-262-goodrid-croven",
+      "lemma": "A goodrid croven in a tynwalled tub.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "前页第三条作者脚注可补一层。Christiani 词表在该处列 Godrid Croven，马恩岛机构所引编年背景写 Godred Crovan。拟名与历史人名靠近，余下的锡壁桶仍未释定；正文保留声形。",
+      "source_ids": [
+        "joyce-fp",
+        "christiani-scandinavian-262",
+        "manx-heritage-godred-crovan"
+      ]
+    },
+    {
+      "id": "ii2-263-seldomers",
+      "lemma": "seldomers that most frequent him",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "上页 From 悬住，此处接取钱的来处。seldomers 表面很少来，most frequent 却最常登门；Christiani 又列近音的丹麦语自判者一说，可与后文评断并读。中文先留罕来与常来相撞。",
+      "source_ids": [
+        "joyce-fp",
+        "christiani-scandinavian-262"
+      ]
+    },
+    {
+      "id": "ii2-263-shaw-smellpex",
+      "lemma": "Major A. Shaw after he got the miner smellpex",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Shaw、smellpex 合读可牵到天花。萧伯纳在 1928 年书信自述患过天花；这条材料只支持病名与姓氏相邻的读法，并不能证明小说少校的身份。译留Ａ·肖和小小臭花疮。",
+      "source_ids": [
+        "joyce-fp",
+        "shaw-letter-smallpox-1928"
+      ]
+    },
+    {
+      "id": "ii2-263-rolf-rough",
+      "lemma": "Rolf the Ganger, Rough the Gangster",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《挪威诸王列传》把 Rolf Ganger 绰号同徒步相连。小说在人名旁紧贴一个帮匪，五官无一相像却共一张脸。译「行脚罗尔夫，帮匪莽尔夫」保留陌生名字和双人回响。",
+      "source_ids": [
+        "joyce-fp",
+        "heimskringla-rolf-ganger"
+      ]
+    },
+    {
+      "id": "ii2-263-hce-geographies",
+      "lemma": "Hispano-Cathayan-Euxine, Castillian-Emeratic-Hebridian",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "三个连写词簇依次各以 H、C、E 三字母轮换领头，即 HCE、CEH、ECH。地名与语名拼着走，末组希腊声又隔左注才到。Mink 格本第125页在 Emeratic 下只试列爱尔兰，带问号。Emeratic 音译「埃梅拉」，不坐实现代政区。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-mink-gazetteer-9-11-257"
+      ]
+    },
+    {
+      "id": "ii2-263-tasks-flasks",
+      "lemma": "The tasks above are as the flasks below",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "牛顿所译《翡翠碑》第 2r 叶说上方与下方相似，互为镜照。小说换入课业和烧瓶，接赫尔墨斯的翡翠颂。译保留这一改写，未把它恢复成格言原句。",
+      "source_ids": [
+        "joyce-fp",
+        "indiana-newton-emerald-tablet-28"
+      ]
+    },
+    {
+      "id": "ii2-263-orbis-iudicat",
+      "lemma": "Securely judges orb terrestrial.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "奥古斯丁《驳帕尔梅尼亚努斯书》III.4.24 称全世界稳妥地作判断；拉丁主语为 orbis terrarum。小说缩成英词再补 Haud certo ergo，反收上一句的确定口吻。译以普天下作判断者。",
+      "source_ids": [
+        "joyce-fp",
+        "augustine-parmenian-iii-24"
+      ]
+    },
+    {
+      "id": "ii2-263-felicitous-culpability",
+      "lemma": "O felicitous culpability, sweet bad cess to you for an archetypt!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "复活节《逾越颂》称亚当之罪带来救赎，唱「有福的过失」。小说把礼文拉向甜的坏运，再以 archetypt 错拼收尾。译「有福的罪错」「原型错字」，留下祝福和咒语相贴。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-exsultet"
+      ]
+    },
+    {
+      "id": "ii2-263-alphabites-aab-zoo",
+      "lemma": "Huntler and Pumar's animal alphabites",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "雷丁博物馆所藏 1884 年 Huntley & Palmers 目录可核字母饼干，馆方亦记动物造型。Joyce 改两个姓，alphabites 让字母可咬，aab 到 zoo 同时像字母首尾和动物园。照留 aab、zoo，不改正为 A 到 Z。",
+      "source_ids": [
+        "joyce-fp",
+        "reading-huntley-palmers-catalogue-1884"
       ]
     }
   ],
@@ -77,7 +392,7 @@
       "lemma": "archaic zelotypia and the odium teleologicum",
       "kind": "syntax",
       "certainty": "uncertain",
-      "text": "原右旁注并列archaic zelotypia与odium teleologicum，嫉妒与仇恨并置。兄弟学派、经院宗派之说只属读路；本轮未核术语史，不据此定人物。",
+      "text": "开页右栏把古式妒忌与目的论宿怨并排，先于商贸正文出现。妒忌可指争风，也可指立场相嫉。栏内未指名，暂不分派给兄弟或学派。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -87,7 +402,7 @@
       "lemma": "odium teleologicum",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "teleologicum与theologicum形近，正文暂以目的、宿怨相缠来译。神学术语的沿用史尚待词典或研究，不能只凭原作转为事实。",
+      "text": "词形使人想起 odium theologicum（神学论争中的仇恨），却转向 teleologicum（目的论）。译文并列「目的论」与「宿怨」。术语史和具体讽刺对象仍待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -97,7 +412,7 @@
       "lemma": "Anama anamaba anamabapa",
       "kind": "sound",
       "certainty": "uncertain",
-      "text": "Anama、anamaba、anamabapa依次添音，末尾可听Mama、Papa一类儿语回声。译文保留递增，不把语言发生学当作已证作者用意。",
+      "text": "Anama、anamaba、anamabapa 逐级添音，末两节可让妈、爸一类儿语回响。正文保留三次递增。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -107,9 +422,11 @@
       "lemma": "All abunk for Tarararat!",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "Tarararat可与Tara、Ararat作声形比较；All abunk可听见上铺、胡扯等近音。具体地名典故待核，正文只保留登舟、山名与马槽铺位，不增洪水后情节。",
+      "text": "《创世记》8:4 中，舟停在亚拉腊群山。此处 Tarararat 又与 Tara 和歌曲副歌 Ta-ra-ra 声近；abunk 让登船与铺位同响，下一句果然言及马槽睡铺。山、歌及呼号可并听。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "usccb-genesis-8-ararat",
+        "morgan-tarara-boom-de-ay"
       ]
     },
     {
@@ -117,9 +434,10 @@
       "lemma": "we've a doss in the manger",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "原注直接说在manger有一处doss，译作马槽里的铺位。基督降生与狗占马槽可作互文候选，本轮未核具体文献。",
+      "text": "《路加福音》2:7 写新生儿安放在马槽。小说将马槽改成众人口中的睡铺，紧接方舟般的开船吆喝。「狗占马槽」仍只属另一路读法。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "usccb-luke-2-manger"
       ]
     },
     {
@@ -127,9 +445,379 @@
       "lemma": "fathering law",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "fathering law把父亲、生育与law并放，亦近father-in-law。译文以岳父、法律父亲并列补偿，不据这串词新增家谱关系。",
+      "text": "fathering law 叠起生父与姻亲称谓。译成「生父岳父」，听来仍像搅在一起的称呼。法律义留在注里，不据此定家谱。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-264-ale-and-eclipses",
+      "lemma": "this ernst of Allsap's ale halliday of roaring month",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ernst 贴近德语 Ernst，也让英语 earnest 回响。ale 与 Allsap 连读，译作「万汁麦酒」，留住节饮口气。halliday 近 holiday。两次月蚀、三次土星沉落照录，未定年月。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-264-stream-cries",
+      "lemma": "Brook of Life, backfrish! Amnios amnium, fluminiculum flaminulinorum!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Life 置于溪名，近 Liffey。backfrish 夹着 back、fresh 的声音。后句近拉丁语，amnium 可带出群川，Amnios 又近羊膜。fluminiculum 与 flaminulinorum 相扣，译作「小流小焰」。全句尚无确切拉丁原句可指。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-264-petra-ulma",
+      "lemma": "Wherefore Petra sware unto Ulma:",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Petra 可唤起石，Ulma 近拉丁榆树名 ulmus。I.8 末页 216 上，榆与石错听对方话语。这里一开口便互誓，树脉也通人身。正文保留两名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-264-phantom-city",
+      "lemma": "A phantom city, phaked of philim pholk, bowed and sould",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ph 连声把鬼影、伪造、胶片和伙计串起。bowed and sould 兼近买卖、弓身与灵魂。笔记研究刊出 VI.B.34 第 039 页转录，上一条写 Film City。译文留「弓身买」「售魂卖」。",
+      "source_ids": [
+        "joyce-fp",
+        "braslasu-henkes-curran-2024"
+      ]
+    },
+    {
+      "id": "ii2-264-partition-price",
+      "lemma": "fylkers for a price partitional of twenty six and six.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "据笔记转录，早稿写七百、三十二 fylkers、二十六又六。成稿改为四百、六十三，末数未改。挪威语 fylke 可指行政区，同形动词可指列阵。JJDA 所录街名簿给 Chapelizod 六十三英亩，又添地籍一读。分地价二十六与六也可能戏拟爱尔兰分治，价钱单位未明。",
+      "source_ids": [
+        "joyce-fp",
+        "braslasu-henkes-curran-2024",
+        "bokmalsordboka-fylke",
+        "jjda-sheet2-chapelizod"
+      ]
+    },
+    {
+      "id": "ii2-264-riverside-houses",
+      "lemma": "Gleannaulinn, Ardeevin: purty glint of plaising height.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "JJDA 所录约 1930 年 Thom 地址簿 Chapelizod 栏列 Glenaulin、Ardeevan，也列 Orchard-lodge、Glenmaroon、Boundary-ville 与 Norman’s Court。拟地名兼作河岸景物，正文留两个音译，再写秀谷与高地。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-sheet2-chapelizod"
+      ]
+    },
+    {
+      "id": "ii2-264-church-king-house",
+      "lemma": "with our king's house",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "勒法努小说开篇追忆 Chapelizod 蔓藤攀塔，第 XXIII 章写 King’s House 宴客。翻过 265 页又明写 Lefanunian。跨页接 of stone，译句到下一页才说「石屋」。",
+      "source_ids": [
+        "joyce-fp",
+        "le-fanu-house-by-church-yard"
+      ]
+    },
+    {
+      "id": "ii2-264-rose-marines",
+      "lemma": "we were always wholly rose marines on our side every time.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "第三条原注把红袍斥语与「我方」自夸并置。rose marines 与 Royal Marines 近响，也让 rosemary 浮现。译作「玫瑰水兵」，迷迭香留在注里。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-265-belgrove-and-elm",
+      "lemma": "of stone, belgroved of mulbrey",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "上页国王馆舍接「石屋」。JJDA 的 FW Sheet 2 第 32 页把 Belgrove 条连到 265.01，转录约 1930 年地址簿所列房名。belgroved 又可拆出美与树林。译文留「美林」和桑树。随后高叶榆直写 Lefanunian；勒法努小说开篇也曾写村中老榆。原文的 abovemansioned 同时牵动上文所述与宅邸，中文分留两层。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-sheet2-chapelizod",
+        "le-fanu-house-by-church-yard"
+      ]
+    },
+    {
+      "id": "ii2-265-toast",
+      "lemma": "Skole! Agus skole igen!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "skole 近北欧敬酒语 skål，又有 school 的回声，照应夜课。丹麦语 igen 意为再次，Agus 缀在两次举杯之间。正文先保口令节奏；课堂词音留在此注。",
+      "source_ids": [
+        "joyce-fp",
+        "ddo-skaale",
+        "ddo-igen"
+      ]
+    },
+    {
+      "id": "ii2-265-auburn",
+      "lemma": "Sweetsome auburn, cometh up as a selfreizing flower",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "戈德史密斯《荒村》第 1 行开口呼唤奥本，第 10—12 行列农舍、溪流、磨坊和教堂。小说先让奥本如自发粉蓬成花，又在页末把诗中平原上最可爱的村子拗成最僻远的蜃景。正文恢复奥本作地名，赤褐色的英语余义留在注里。",
+      "source_ids": [
+        "joyce-fp",
+        "goldsmith-deserted-village"
+      ]
+    },
+    {
+      "id": "ii2-265-pratt",
+      "lemma": "trueprattight spirit",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "科克 1927 年夏展目录收有 Irish American Oil Co. 的 Pratt’s Spirit 汽油广告。正文把 Pratt 与 spirit 拆入凤凰焰火，有燃料和精气两层。这里只核到当年商标用语，广告原样未见于小说。译文留「普拉特油气」。",
+      "source_ids": [
+        "joyce-fp",
+        "munster-show-pratts-spirit-1927"
+      ]
+    },
+    {
+      "id": "ii2-265-garden",
+      "lemma": "an litlee plads af liefest pose",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "丹麦语 plads 可指一处地方。liefest 又近最可亲之意，pose 可落在姿态。这里还牵着花园与衣饰旁注。先保留混合话语，把它译成小块地方，不定为具体园名。",
+      "source_ids": [
+        "joyce-fp",
+        "ddo-plads"
+      ]
+    },
+    {
+      "id": "ii2-265-lineage",
+      "lemma": "Presepeprosapia, the parent bole.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拉丁语 praesaepe 可指栏圈、畜槽，prosapia 指家系。紧接的 bole 是树干，使不育双亲之后又长出槽边血脉与祖株。留「槽中血脉」，不从字形断定具体族谱。",
+      "source_ids": [
+        "joyce-fp",
+        "lewis-short-praesaepe",
+        "lewis-short-prosapia"
+      ]
+    },
+    {
+      "id": "ii2-265-distance",
+      "lemma": "and sixty radiolumin lines",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "数字横跨左旁注：2,000,000 + 280,000 + 900 + 60 = 2,280,960。JJDA 在 FW Sheet 2 第 31 页转录同数，并释作三英里逐次换成英尺、英寸和线（每英寸十二线）。条目所引街名簿从都柏林邮政总局量起。译文让「九百」悬在旁注之前，并在下一正文块补六十。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-sheet2-chapelizod"
+      ]
+    },
+    {
+      "id": "ii2-265-catsup",
+      "lemma": "mushroom catsup in the mutton broth",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Beecher《家用食谱》的 Mushroom Catsup 条教人将蘑菇煮后滤汁装瓶。此处是给羊肉汤调味的蘑菇汁。食谱可证调味品形态，不能证明原注所称萨默希尔维京土话。",
+      "source_ids": [
+        "joyce-fp",
+        "beecher-domestic-receipt-book"
+      ]
+    },
+    {
+      "id": "ii2-265-butcher",
+      "lemma": "A butcher szewched him the bloughs and braches. I'm chory to see P. Shuter.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "bloughs、braches 可唤起罩衫、短裤，也让树枝、枝杈插进衣料。屠夫缝衣本已错行。末尾的 P. Shuter 可近 pea-shooter，chory 也近 sorry。译文缀「衫枝」「裤杈」，保留署名式称呼。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-266-store-and-charter",
+      "lemma": "The store and charter, Treetown Castle under Lynne. Rivapool?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Treetown Castle under Lynne 的节奏贴近 Newcastle-under-Lyme，Rivapool 同时可听出河池和 Liverpool。前者地方档案条目载 1173 年特许，后者市档案藏约翰王 1207 年特许状。原句没有叙述两地沿革，译文保留变形地名。",
+      "source_ids": [
+        "joyce-fp",
+        "historic-england-newcastle-borough",
+        "liverpool-king-john-patent"
+      ]
+    },
+    {
+      "id": "ii2-266-bridge-till",
+      "lemma": "its span spooky, its toll but a till, its parapets all peripateting.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "span spooky 与前句 piers eerie 连排。toll 转 till，把过桥费拗进钱柜。parapets 和 peripateting 又让桥墙走动。中文留鬼气、收费、游走三层。Hod 与 brieck 连读还有砖工器具声音，未定是哪一座桥。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-266-bedevere",
+      "lemma": "bedevere butlered table round",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "蒙茅斯的杰弗里《不列颠诸王史》第十卷称 Bedevere 为侍酒官。小说将其名和职司化成声音近似的一串，把圆桌骑士拉到楼下酒桌。译成「贝德维尔侍酒的桌团团」，保留店中摆桌与亚瑟场景并现。",
+      "source_ids": [
+        "joyce-fp",
+        "geoffrey-monmouth-histories-x"
+      ]
+    },
+    {
+      "id": "ii2-266-harington",
+      "lemma": "past Morningtop's necessity and Harington's invention",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Wellcome 目录 WT/D/1/20/1/115/92 登记 1596 年哈林顿便器说明的摄影副本。发明与前置的急需相接，使登楼途中也有如厕读法。Morningtop 可另唤起人名，未核定特指。中文仍留「急需」及「发明」。",
+      "source_ids": [
+        "joyce-fp",
+        "wellcome-harington-ajax"
+      ]
+    },
+    {
+      "id": "ii2-266-stage-and-faculties",
+      "lemma": "After sound, light and heat, memory, will and understanding.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "合唱队、主角先把场面当作戏，随后三种可感之物接上记忆、意志、理解。保留两组三项和顺序。旧译「恢复倾向」失去 rifocillation 一节提神、回劲的戏谑。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-266-paired-f",
+      "lemma": "[FIGURE:F] [FIGURE:F mirrored]",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "所录两张底图首为正写 F，次为左右镜写 F。均在扭斗者准备就绪之后、括号插话之前。中文在原位用文字标明，英文原页保留原图。两个图记的角色指派仍待考。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-266-catalaunian-gambit",
+      "lemma": "commencement catalaunic when Aetius check chokewill Attil's gambit",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "约尔达内斯《哥特史》第 191—198 节写埃提乌斯与阿提拉两方在卡塔劳努姆平原交锋。小说把交锋写成棋局开场。check 兼遏止与将军，gambit 兼计谋与先手。这里译出棋声，也保留重叠开场。",
+      "source_ids": [
+        "joyce-fp",
+        "jordanes-getica-attila"
+      ]
+    },
+    {
+      "id": "ii2-266-dove-deelish",
+      "lemma": "Ravens may rive so can dove deelish.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ravens 与 rive 同头，dove 与 deelish 也同头。爱尔兰语 dílis 可指亲爱、忠贞，给后半句添亲昵称呼的读法。译作「亲亲鸽儿」，仍让它与渡鸦同样会撕裂。",
+      "source_ids": [
+        "joyce-fp",
+        "teanglann-dilis"
+      ]
+    },
+    {
+      "id": "ii2-266-pull-and-page-turn",
+      "lemma": "A question of pull.",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "第四条脚注紧随追随者出现。pull 兼拉力、吸引，也可能带门路之意。正文把扑翅动作放在 266 页末，药未服足者到 267 页开头才出现。页缝保留悬接，未把 under- 改成尚未用药。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-267-seek-see-find",
+      "lemma": "lead us seek, lote us see, light us find",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "三句连换 lead、lote、light，seek、see、find 紧接。译为「领咱寻，引咱看，照咱找」，仍从脚下寻路转到看见、照见。Maidadate 夹少女与相约、时令，未定哪一种。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-267-elpis",
+      "lemma": "Elpis, thou fountain of the greeces",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "赫西俄德《工作与时日》96—99行，罐中独留 Elpis。小说写希望为泉，左旁注又称 hopeful。greeces 可能让 Greece 与 graces 叠响，正文暂写「希腊美惠」，不把泉指成赫西俄德原句。",
+      "source_ids": [
+        "joyce-fp",
+        "hesiod-works-days-elpis"
+      ]
+    },
+    {
+      "id": "ii2-267-storiella",
+      "lemma": "Storiella as she is syung.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "同句也是乔伊斯 1937 年节选本书名，Morgan 馆藏 PML 197877 可核 Corvinus Press 印本与露琪亚所绘首字。这里随拟唱词而来，译文按题名处理；开头 Singalingalying 又带唱与诓的声音。",
+      "source_ids": [
+        "joyce-fp",
+        "morgan-storiella-1937"
+      ]
+    },
+    {
+      "id": "ii2-267-proserpronette",
+      "lemma": "Proserpronette whose slit satchel spilleth peas.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "奥维德《变形记》卷五 391—401 行写冥王掳走采花少女，她衣襟撕开，花随之掉落。这里前有 plutonically，后换成裂包撒豌豆。留拟名与豌豆，和古典花景对读。",
+      "source_ids": [
+        "joyce-fp",
+        "ovid-metamorphoses-v-proserpine"
+      ]
+    },
+    {
+      "id": "ii2-267-belisha",
+      "lemma": "Belisha beacon, beckon bright!",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "1934 年英国下议院讨论以 Belisha 标识人行过街处，记录所谈是标识设备。译文用「灯标」。小说以 beacon、beckon 连音，随即点绿、红、蓝、黄，又有引座姑娘与乐音。",
+      "source_ids": [
+        "joyce-fp",
+        "hansard-belisha-1934"
+      ]
+    },
+    {
+      "id": "ii2-267-shibboleth",
+      "lemma": "our shibboleth that we may syllable her well!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《士师记》12:5—6 写渡口以 Shibboleth 发音辨人。小说把小女先知、口令、逐音节拼念相接。Uwayoei 保留原字串，供读者看拼音回响。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-judges-12-voice"
+      ]
+    },
+    {
+      "id": "ii2-267-young-women",
+      "lemma": "Forening Unge Kristlike Kvinne.",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "此左旁注近挪威语「青年基督徒女子协会」。挪威 KFUK-KFUM 章程确有近似用语，组织对应仍存疑：小说写 Kristlike 和 Kvinne，不能据此恢复成章程全名。",
+      "source_ids": [
+        "joyce-fp",
+        "kfuk-kfum-vedtekter"
+      ]
+    },
+    {
+      "id": "ii2-267-maybe-if",
+      "lemma": "the maybe mantles the meiblume or ever her",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "第 267 页末停在 her，第 268 页起首才接 if。JJDA 此段校样转录把 Maybe 和 If 大写，支持读作两个相应的拟名词。译文试作「也许」「倘若」并隔页相接，五月花和衣罩同留。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-lcd15-corrections"
       ]
     }
   ],
@@ -139,7 +827,7 @@
       "lemma": "Telltale me all of annaryllies",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "Telltale me all of annaryllies把告密、全说与annaryllies连起，可提议听到Anna及花名回声；本轮未重核I.8，不把旧注所列句子当作已核原文引句。",
+      "text": "I.8 第196页开篇催人全讲安娜·利维娅。此旁注把同样的催问拗作 telltale，又把名字揉进近似花名 amaryllis 的 annaryllies。译文留「安娜丽莉」，花名与告密的声音留在注里。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -149,9 +837,10 @@
       "lemma": "their arms enlocked",
       "kind": "structure",
       "certainty": "uncertain",
-      "text": "字面是双臂交锁。彩虹少女、姐妹环舞与镜像依恋可列解释，却不能仅凭这三个词确证角色与动作场面。",
+      "text": "字面是双臂相挽。瓦格纳《漂泊的荷兰人》第三幕末，森塔与荷兰人相拥升起，可与本句的 sentas 及挽臂相参。原句无从确认两臂主人，中文不补姓名。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wagner-hollaender-libretto"
       ]
     },
     {
@@ -159,7 +848,7 @@
       "lemma": "Understudy my understandings",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "原注把understudy与understandings并列，译文兼留替演、下身与理解的交错。下装俗义及说话者身份尚待词典、研究，不认定伊瑟独白。",
+      "text": "understudy 与 understandings 同头，前者有替演义，后者通常是理解。译成「替演我的下解」，保两次「下」的声意。是否兼指下装，仍待证。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -169,7 +858,7 @@
       "lemma": "gymnufleshed",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "gymnufleshed可与flesh、genuflection等词形比较，译作赤肉屈膝。体操词源与修道学堂场景未获外证，只留作候选。",
+      "text": "gymnufleshed 同时像裸身、皮肉与 genuflection 的屈膝礼。中文把裸身和屈膝一同放在奉承之前。未指定学堂、宗派或说话者。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -179,7 +868,7 @@
       "lemma": "deadleaf brown with quicksilver appliques",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "原注确有枯叶褐、水银贴花、家中衣装与想要另一件衣服的对照。维柯对应尚无此注所列来源支持，不作事实。",
+      "text": "家里已有枯叶褐并缀水银亮贴花的一件，说话者仍想要亮滑的新丝衣。旧衣色、金属亮与新衣触感逐层分开。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -189,9 +878,428 @@
       "lemma": "slippering snake charmeuse",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "slippering、snake、charmeuse串起滑动、蛇与衣料。译文作滑蛇缎，保留触感；伊甸园互文仍是待核提议。",
+      "text": "slippering、snake、charmeuse 把滑声、蛇形与衣料织在一起。正文刚报赫娃和眼镜蛇，再念树果。《创世记》第三章可供对读，衣料仍译「滑蛇缎」。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-3-usccb"
+      ]
+    },
+    {
+      "id": "ii2-268-opera-names",
+      "lemma": "as conchitas with sentas stray,",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "sentas 可听成森塔的复数。瓦格纳剧本列她为挪威船长之女。马耳他大学藏里科尔迪乐谱目录可核《孔奇塔》为赞多奈歌剧。两处声形给出歌剧读路，台词未据此认定是两个固定人物。旧译「圣女」抹去森塔名音。",
+      "source_ids": [
+        "joyce-fp",
+        "wagner-hollaender-libretto",
+        "um-conchita-score"
+      ]
+    },
+    {
+      "id": "ii2-268-it-and-all",
+      "lemma": "the It with an itch in it, the All every inch of it",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "it/itch 与 inch/each 在 It、All 大写后的句链中回响。译文把「它」「全」拿出来当词，再从痒到寸、从梳妆到养下一辈。原注三又在 jungle 后多接音节，留「丛林儿」。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-268-divisional-tables",
+      "lemma": "Browne and Nolan's divisional tables",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "爱尔兰国家图书馆书目号 vtls000258131 可核都柏林出版商 Browne and Nolan 的名称。未查到本句所指的除法表版本。rhythmatick 把节拍与算术叠在一起，译作「韵律算术」，也保留写到女孩途中插入的旁注。",
+      "source_ids": [
+        "joyce-fp",
+        "nli-browne-nolan-catalogue"
+      ]
+    },
+    {
+      "id": "ii2-268-carry-can",
+      "lemma": "Will you carry my can and fight the fairies?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "字面问能否代提罐、斗仙灵。英式习语 carry the can 又指承担过失。原句加 my，译文先让罐留在场内，兼义放在此注。",
+      "source_ids": [
+        "joyce-fp",
+        "cambridge-carry-the-can"
+      ]
+    },
+    {
+      "id": "ii2-268-ant-grasshopper",
+      "lemma": "andt's avarice and grossopper's grandegaffe",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "1919 年《儿童伊索》所录寓言写蚂蚁斥责不储粮而奏乐的蚱蜢。小说却让蚂蚁显得贪，又叫蚱蜢闯下大错。中文照原句次序，怪拼暗示的别义尚待核。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-aesop-ant-grasshopper"
+      ]
+    },
+    {
+      "id": "ii2-268-thimble",
+      "lemma": "And a bodikin a boss in the Thimble Theatre.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "国会图书馆藏塞加尔连环画原件，题名 Thimble theatre。此处紧接织活与套头衫，顶针仍有手工器具义。bodikin 可同时听作小人和尖针，译文让针在戏院当头；未据此确定某格连环画。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-segar-thimble-theatre"
+      ]
+    },
+    {
+      "id": "ii2-268-case-and-interest",
+      "lemma": "Take the dative with his oblative",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拉丁文法通列与格 dative、离格 ablative，小说把后者改成近 oblation 的 oblative。译用「献格」留奉献，旁注补离格的词形。后接 of interest，仍可落在「有利息」上。外婆同时教句法与人际距离。",
+      "source_ids": [
+        "joyce-fp",
+        "dcc-latin-number-case"
+      ]
+    },
+    {
+      "id": "ii2-268-gavelkind",
+      "lemma": "Old Gavelkind the Gamper",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gavelkind 在肯特习惯法中涉及田产分给诸子。这里和 Gamper 连作人名，随原页插进反身句。右旁注早先也谈既得权与集体传统。中文留姓，分产读法列在注内。",
+      "source_ids": [
+        "joyce-fp",
+        "kent-gavelkind-on-ground"
+      ]
+    },
+    {
+      "id": "ii2-268-comfort-and-seam",
+      "lemma": "There is comfortism in the",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "第268页在 the 停住，第269页首接 knowledge。译稿让「慰心在」悬到翻页，次页再说初听生厌反出于再见生爱。文法称谓仍连着外婆说亲缘；hedon 可能涉享乐者，也仍像亲昵称号。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-269-dual-duel",
+      "lemma": "dual in duel and prude with pruriel",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dual、duel 让双数与决斗挨在一起，pruriel 则像 plural、法语 pluriel 与 prurient 的混搭。中文把「双数决斗」「淫复数」拉进谈情句，前面的 sintalks 也保留罪与句法交叠。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-269-past-forms",
+      "lemma": "the aoriest chaparound whatever plaudered perfect",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "aoriest 像 aorist（不定过去时），又像较老之意。plaudered perfect 近 pluperfect（过去完成时），也带喝彩。后文 pale peterwright 可听出 preterite（过去时）。正文拉长「就要」与「落到那格里」的迟疑，保留彼得匠作拟名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-269-knees-wall",
+      "lemma": "prettydotes and haec genua omniamay",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "haec genua omnia 近拉丁语「所有这些膝盖」。紧随其后的 may 属英语，Faded Page 网页在斜体收束处紧连两词，原文照存。旧译「双膝」添了数量。后文 wallfloored 与 gerandiums 让人贴墙僵立，也让天竺葵旁响起 wallflower 与 gerund。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-269-godsent-letters",
+      "lemma": "the O'Meghisthest of all.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "阿瑞斯、玻瑞阿斯、伽倪墨得斯与宙斯各带头韵，名字也散布希腊字母联想。O’Meghisthest 既像 Omega，也像希腊语「最大」的 megistos，外加爱尔兰姓氏开头。中文造「欧麦极斯」，不把它还原为单一字母。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-269-hamlet-question",
+      "lemma": "To me or not to me. Satis thy quest on.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《哈姆雷特》第三幕第一场问存在与否。此处改 be 为 me，把问句扭向自身。Satis thy quest on 仍让后半句的 question 回响。中文用「向着我，还是不向着我」，随后留征求与错搭人称。",
+      "source_ids": [
+        "joyce-fp",
+        "folger-hamlet-3-1"
+      ]
+    },
+    {
+      "id": "ii2-269-polin",
+      "lemma": "οὐκ ἔλαβον πόλιν",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "希腊文直读是「未攻下城」，动词形式也可由句外决定第一人称单数或第三人称复数。Paul Claes 第223页转述 McHugh 所列法语谐听 où est la bonne Pauline（好波琳在哪儿），并记自己遇过的学堂笑话异式。次页有 small polly，容许声形呼应；未把异式余句添进小说。",
+      "source_ids": [
+        "joyce-fp",
+        "claes-semiotiek-citaat"
+      ]
+    },
+    {
+      "id": "ii2-269-lindley-murray",
+      "lemma": "fine clauses in Lindley's and Murrey's",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "林德利·默里《英语文法》扫描本第61—62页谈现在、过去分词与语态，提醒形式、语义未必齐整。乔伊斯把姓名拆成两个所有格，还改了 Murray 拼法。中文留「林德利的、默里的」，注里合回作者名。",
+      "source_ids": [
+        "joyce-fp",
+        "lindley-murray-english-grammar-scan"
+      ]
+    },
+    {
+      "id": "ii2-269-participle-present",
+      "lemma": "the participle of a present to a desponent hortatrixy",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "participle of a present 同时可拆作现在分词和一份赠礼。拉丁文法 §190 载异相动词以被动形表主动或反身义，hortor 又正是劝告义异相动词。乔伊斯把这组词转成女劝告者，中文同时给出礼物与语态。",
+      "source_ids": [
+        "joyce-fp",
+        "dcc-latin-deponent",
+        "dcc-latin-core-hortor"
+      ]
+    },
+    {
+      "id": "ii2-269-shortts-and-suit",
+      "lemma": "Llong and Shortts Primer of Black and White Wenchcraft.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "作者脚注把长、短拼写都拉长，与黑、白对举。名称可能让人想到 Lewis and Short，也可只读长短成对，暂不把虚构教材认作实书。第二条原注的 follow suit 和 pack 另借照花色出牌、回到牌堆来写勒妮的处境。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-270-lump-and-quantity",
+      "lemma": "Lumpsome is who lumpsum pays. Quantity counts though accents falter.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Lumpsome／lumpsum 把相貌和整笔付款轧成同响。quantity 既指钱量，也接韵律音节长短，accents 则关重音。拉丁诗节看音节长短，故正文前句留整笔，后句转长短。",
+      "source_ids": [
+        "joyce-fp",
+        "dcc-latin-origins-quantity"
+      ]
+    },
+    {
+      "id": "ii2-270-polly-lebbensquatsch",
+      "lemma": "I'll go for that small polly if you'll suck to your lebbensquatsch.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "波莉可回听上页希腊旁注的法语 Pauline。Bonheim 在 lebbensquatsch 下列 Leben（人生）及 Quatsch（胡话）。suck 又让 stick to 的「守住」换成吮吸，译作「吮牢」。若波莉另指人或鸟，原句未明。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-fw-german-270",
+        "claes-semiotiek-citaat"
+      ]
+    },
+    {
+      "id": "ii2-270-alanna",
+      "lemma": "a brat, alanna, can choose from so many",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "爱尔兰语 leanbh 指孩子。词典例句 a leanbh bheag 以呼语称亲爱小孩，为此处 alanna 提供读路。正文把 brat 的粗口和称孩子的亲声相接，选「乖孩子」。",
+      "source_ids": [
+        "joyce-fp",
+        "teanglann-leanbh"
+      ]
+    },
+    {
+      "id": "ii2-270-frothblowers",
+      "lemma": "the Merry Mustard Frothblowers of Humphreystown Associations.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "BYU 档案目录有 1928 年 Ancient Order of Froth Blowers 题名记录，可佐证吹沫会这组名称在当时已有用例。原页另添 Merry Mustard 与拟地名；两会仍按小说自造名称译。",
+      "source_ids": [
+        "joyce-fp",
+        "byu-froth-blowers-1928"
+      ]
+    },
+    {
+      "id": "ii2-270-snake-and-slur",
+      "lemma": "hist subtaile of schlangder",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hist 近 history，也可听一声嘘；subtaile 连着 subtle、tale 与 tail。Bonheim 从 schlangder 听出德语 Schlange，英语 slander 又牵出诽谤。中文让细蛇尾、历史、诽谤同句出现，随后照留连音逗耳。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-fw-german-270"
+      ]
+    },
+    {
+      "id": "ii2-270-alice-glass",
+      "lemma": "Alis, alas, she broke the glass! Liddell lokker through the leafery",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "卡罗尔《镜中奇遇》第一章写爱丽丝穿过玻璃，小说却令她打破玻璃。Wonderlawn 变自 Wonderland，又留 lawn 一层。英国图书馆 Add MS 46700 条目可核 Alice Liddell 与早期手稿旅行故事。译文让「阿丽丝、唉丽丝」保 Alis、alas 的变声，也留利德尔窥看。",
+      "source_ids": [
+        "joyce-fp",
+        "carroll-through-looking-glass",
+        "bl-alice-under-ground"
+      ]
+    },
+    {
+      "id": "ii2-270-bike-and-bars",
+      "lemma": "your Mike and Nike with your kickshoes on the algebrars",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "代数、杠杆和车杠同时贴着前一句 bike，multiplease 又使 multiply 和 please 相接。正文用「代数车杠」「欢喜加倍」，两名留作迈克、奈克。未断定人名层。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-270-virgil-muters",
+      "lemma": "the O of woman is long when burly those two muters",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拉丁诗律有依位置计长的规则，短元音后接两个辅音可使音节计长，但元音仍照本来时值读，且有例外。此处假借维吉尔，将女人的 O 和两名哑伴并说。Bonheim 又从 muters 听到 Mut（勇气）和 Mutter（母亲）。旁注「勇气相伴」可对读，不能据此定两人是谁。",
+      "source_ids": [
+        "joyce-fp",
+        "dcc-latin-position-quantity",
+        "bonheim-fw-german-270"
+      ]
+    },
+    {
+      "id": "ii2-270-disappear",
+      "lemma": "Verschwindibus.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Bonheim 270.27 栏同时释作消失与魔术语。旁注在两名人物及「紧跟」之间骤然插进。中文保咒语调；下正文 nimm、nehm 则用两个「拿去」回响，原注四仍跟在 Nebob 后。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-fw-german-270"
+      ]
+    },
+    {
+      "id": "ii2-270-hireling",
+      "lemma": "their memoiries of Hireling's puny Ulstria, wars",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Daniel Quentin Miller 论文第28页由 puny wars 读到 Punic Wars，也从 Hireling 听到 Ireland。译文留雇佣汉、小与布匿，memoiries 译中带上命数一层。Ulstria 属左旁注，跨第271页续列。地理层可想到 Ulster 和 Austria，仍留拟名。",
+      "source_ids": [
+        "joyce-fp",
+        "miller-night-lessons-narrative"
+      ]
+    },
+    {
+      "id": "ii2-271-four-places",
+      "lemma": "Monastir, Leninstar and Connecticut.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "左栏承第270页 Ulstria。Mink 地名表在对应栏位列 Munster、Leinster、Connacht 等读法，又指出 Monastir、Connecticut 等外地重影。译文保留四项拟形，不以爱尔兰四省通名齐刷刷抹平。",
+      "source_ids": [
+        "joyce-fp",
+        "mink-gazetteer-271"
+      ]
+    },
+    {
+      "id": "ii2-271-jeallyous-seizer",
+      "lemma": "Sire Jeallyous Seizer",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拟名使 Julius Caesar 同嫉妒和攫取叠响，故用「妒利厄斯·攫撒」。紧跟的 gamely 与 torskmester 挨着，但给左栏 Cliopatria 插断。Cliopatria 可同时听见 Cleopatra 与掌史的 Clio，下一字 history 复接史意。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-271-cod-master",
+      "lemma": "torskmester,",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Bokmålsordboka 中 torsk 指鳕鱼，mester 指精通某项技艺者等。小说拼在一起，把凯撒下接成鳕鱼大师。未核出固定职名或特定人。",
+      "source_ids": [
+        "joyce-fp",
+        "bokmalsordboka-torsk",
+        "bokmalsordboka-mester"
+      ]
+    },
+    {
+      "id": "ii2-271-triumvirs",
+      "lemma": "the tryonforit of Oxthievious, Lapidous and Malthouse Anthemy.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "阿庇安《内战记》第四卷第2节记屋大维、雷必达、安东尼设五年三人职权。小说将三名拗写，让 Oxthievious 带贼音，Malthouse 带麦芽坊，也把 triumvirate 拗成 try-on。译作「三头试穿治」，接前句连身裤。史名由此注交代。",
+      "source_ids": [
+        "joyce-fp",
+        "appian-civil-wars-iv"
+      ]
+    },
+    {
+      "id": "ii2-271-suetonia",
+      "lemma": "the lie of that layout, Suetonia,",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "呼名 Suetonia 可对读 Suetonius；《奥古斯都传》第27节也记三人共掌与后续更替。lay、lie 兼近布局与藏谎，正文保留女声呼名与双重语气。原注三仍讥刺装腔口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "suetonius-augustus-lacus"
+      ]
+    },
+    {
+      "id": "ii2-271-candle-caudle",
+      "lemma": "as Mutua of your mirror holds her candle to your caudle",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "candle／caudle 只差一个字位，镜面又让左右错位。约克历史词典有 caudle 作温热饮物释义，故用「举烛」「热羹」。下一组 cuddle／coddle 也相黏，译作「搂不搂他那煨宝」。未决定镜中人名及三生儿指谁。",
+      "source_ids": [
+        "joyce-fp",
+        "york-historical-caudle"
+      ]
+    },
+    {
+      "id": "ii2-271-heber-heremon",
+      "lemma": "From the butts of Heber and",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Keating《爱尔兰史》第23节载 Eibhear 和 Eireamhon 分地，其后又记兄弟相争。正文让 Heber 与 Heremon 分在左旁注两边。butts 可作残茬、根脚；不从史事补写三色堇因何长成。",
+      "source_ids": [
+        "joyce-fp",
+        "celt-keating-history"
+      ]
+    },
+    {
+      "id": "ii2-271-eroico",
+      "lemma": "The Eroico Furioso makes the valet like smiling.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Eroico Furioso 可叠布鲁诺 De gli eroici furori 与阿里奥斯托 Orlando furioso。译文「英雄狂客」勉留两题交界。当中的贴身侍从及笑另照旁注字面。",
+      "source_ids": [
+        "joyce-fp",
+        "bruno-eroici-furori",
+        "ariosto-orlando-furioso"
+      ]
+    },
+    {
+      "id": "ii2-271-split-infinitive",
+      "lemma": "from to have to have been to will be.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "开头两个形式可读作不定式或完成不定式，to will be 却让限定将来混进这列，三串也故意不另加标界。译成「有」「曾是」「将是」，保留不定式错裂，英文原形在此供查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-271-glider-chain",
+      "lemma": "wind that lifted the leaves that folded the fruit that hung on the tree that grew in the garden Gough gave.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "句法近《杰克造的房子》累加童谣。这里依次返套女孩、风、叶、果、树、园，并接在赫娃、蛇、地苹果之后。Mink 列凤凰公园戈夫像为地名线索，公园史也载曾有此像。像和园相邻的读法不等于戈夫赠园的史实。",
+      "source_ids": [
+        "joyce-fp",
+        "caldecott-house-that-jack-built",
+        "mink-gazetteer-271",
+        "phoenix-park-history",
+        "bible-genesis-3-usccb"
       ]
     }
   ],
@@ -201,9 +1309,10 @@
       "lemma": "Leda, Lada, aflutter-afraida",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "Leda、Lada与aflutter-afraida连写，译文保留名字、扑翅与惊怕。天鹅神话和ALP身份可供研究，不据未核神话细节增写受孕。",
+      "text": "奥维德《变形记》第六卷以阿拉克涅织图写勒达与天鹅翅膀。小说把 Leda、Lada、aflutter、afraida 并列，译成连着变音的「扑啦啦，怕啦啦」。扑翅动作未指明由谁发出。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "ovid-metamorphoses-vi-leda"
       ]
     },
     {
@@ -211,9 +1320,10 @@
       "lemma": "Pappapassos, Mammamanet",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "原字串是Pappapassos, Mammamanet，不是旧注所改写的pappa passus, mamma manet。译文保留儿语姓名，不再将‘父亲已逝’写成定意；拉丁语与英语回声须另核。",
+      "text": "原字串保留爸爸、妈妈两处儿语。Mammamanet 末段可联拉丁语 maneō「停留」一义，前段又近英语 passes；它们并未合成通顺拉丁句，正文不替家里定去留。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "dcc-latin-core-maneo"
       ]
     },
     {
@@ -255,6 +1365,458 @@
       "source_ids": [
         "joyce-fp"
       ]
+    },
+    {
+      "id": "ii2-272-globing",
+      "lemma": "Hoots fromm, we're globing.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "上页末以宽嘶和枯皱收声，本页接 hoots 与绕地球。fromm 还近德语虔敬一义，但此处声音转折仍以呼嘘作底。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-272-tails-and-totties",
+      "lemma": "tails for toughs and titties for totties",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "t 连串把成丁、乳头、小娃缠在一起。保留两组配对，桶和棒又有两声 come，左栏 Pige pas 从中插话。deeleet 暂按 delete 之声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-272-naval-actiums",
+      "lemma": "hot off Minnowaurs and naval actiums, picked engagements and banks of rowers.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "卡西乌斯·狄奥《罗马史》第50卷记阿克提乌姆交锋，也写安东尼船只的成排船桨及冲撞。此处把 actiums 用成复数，挨着拟词 Minnowaurs。译文留海阵与排桨场面，米诺战场可令人想起 Minos、Minoan 或 minnow，尚未定实。",
+      "source_ids": [
+        "joyce-fp",
+        "cassius-dio-roman-history-50"
+      ]
+    },
+    {
+      "id": "ii2-272-musical-bar",
+      "lemma": "[FIGURE:musical bar]",
+      "kind": "structure",
+      "certainty": "uncertain",
+      "text": "原页左栏的谱图夹在 Please stop if you’re a 与 B.C. minding missy 之间。所录底图可见高音谱号、五线与四个音符。中文就地加图示说明，英文原页仍可看图。未判定曲名、调性，也未将 B.C. 与 A.D. 定成谱音。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-272-hengist-horsa",
+      "lemma": "Hengegst and Horsesauce",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "比德《英吉利教会史》卷一第15章称 Hengist 和 Horsa 是兄弟。小说首名多出一串音，次名又成马与酱。加上后文挽带、马镫，保持两声马名相对。未把此处叙述定为比德记载。",
+      "source_ids": [
+        "joyce-fp",
+        "bede-ecclesiastical-i15"
+      ]
+    },
+    {
+      "id": "ii2-272-size-and-stammer",
+      "lemma": "you threehandshighs put your twofootlarge timepates",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hand 在量马中可作高度单位，紧接呼喝和马具。原句三 hand 与两 foot 对量，也让手脚重入故事桶。译留三掌高、两英尺大。先前 understouttered 又有清楚声明和口吃相拧的声气。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-272-seidlitz",
+      "lemma": "Seidlitz powther for slogan plumpers.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "史密森尼藏品号 1979.1144.115.B 可核 Seidlitz Powders。英国皇家药学会博物馆史料讲这种粉在水里混用。译名留泡腾；powther 的火药回声与政治口号相邻。旁注比喻不等于药效叙述。",
+      "source_ids": [
+        "joyce-fp",
+        "smithsonian-seidlitz-powders",
+        "rps-seidlitz-measure"
+      ]
+    },
+    {
+      "id": "ii2-272-grinning-politicians",
+      "lemma": "the grinning statesmen, Brock and Leon, have shunted the grumbling coundedtouts, Starlin and Ser Artur Ghinis.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "都柏林议员名册列 Brooks、Lyons 与 Arthur Guinness，后两者在1880年3月相接。Glasheen 又分别给 Leon、Starlin 列列昂·托洛茨基与斯大林。正文留布罗克、莱昂、斯塔尔林、吉尼斯拟名，让议会更迭和另一层政治名号并存。",
+      "source_ids": [
+        "joyce-fp",
+        "hansard-dublin-borough",
+        "glasheen-census-politics-272"
+      ]
+    },
+    {
+      "id": "ii2-272-bottle-battle",
+      "lemma": "Foamous homely brew, bebattled by bottle, Hoploits and atthems. gageure de guegerre.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "foamous 兼出名、泡沫，bebattled 与 bottle 让酿酒借用战话。Hoploits 把重兵、功业相缠，atthems 让冲谁去与 anthem 相搅。guegerre 像法语 gueguerre，小打小闹。留赌赛与小战，同时保住左栏打断。",
+      "source_ids": [
+        "joyce-fp",
+        "cnrtl-gueguerre"
+      ]
+    },
+    {
+      "id": "ii2-272-lovelives",
+      "lemma": "the shessock of his stimmstammer and we caught the pepettes of our lovelives.",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "stimmstammer 仍在结巴，shessock 可带棋声及受震之意。Glasheen 给 pepettes 列法语钱物、烟管、伙食等近音。中文保「佩佩特」，无从断言所得是孩子或钱。",
+      "source_ids": [
+        "joyce-fp",
+        "glasheen-census-politics-272"
+      ]
+    },
+    {
+      "id": "ii2-273-curragh",
+      "lemma": "Curragh machree, me bosthoon fiend.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Wall 释首两词时提出爱尔兰语 a chara（朋友）、mo chroidhe（我心），并将 bosthoon 连到 bastún（笨人）。中文留库拉声形；fiend 和 friend 只差一字母，故让「魔」挤进「傻友」。",
+      "source_ids": [
+        "wall-irish-curragh-273"
+      ]
+    },
+    {
+      "id": "ii2-273-opprimor",
+      "lemma": "Opprimor's down, up up Opima!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拉丁语 opprimo 有压下、压倒义；opprimor 是「我受压」的形态。句里两词近似姓名，一落两升。若读作「压迫者」，便把受压的一方译反。",
+      "source_ids": [
+        "lewis-short-opprimo-273"
+      ]
+    },
+    {
+      "id": "ii2-273-bank",
+      "lemma": "Femilies hug bank!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bank 可指银行，也可指岸；它穿进租税与收支排句。Femilies 在 families 一词上叠女性声形，故译「妇家紧抱银行岸」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-273-heptarched",
+      "lemma": "Heil, heptarched span of peace!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "span 与 arched 可合读为桥及拱；heptarch 又可唤起七邦并治。译文取七拱桥形；此句未指明桥名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-273-lex",
+      "lemma": "lex, nex and the mores",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lex 是法，mores 指习俗；nex 可指暴死或杀戮。中文用「法、死、俗」保持三项短呼，把强押韵留给原文。",
+      "source_ids": [
+        "lewis-short-nex-273"
+      ]
+    },
+    {
+      "id": "ii2-273-gettysburg",
+      "lemma": "Impovernment of the booble by the bauble for the bubble.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "对照葛底斯堡演说 Hay 本末句，乔伊斯沿用 of、by、for 三折，把反复的 people 改成 booble、bauble、bubble，并把贫困词声塞进 government。中文保三折与「穷政」；「傻民」只取 booble 邻近 booby 的一层可能。",
+      "source_ids": [
+        "lincoln-gettysburg-hay-273"
+      ]
+    },
+    {
+      "id": "ii2-273-shoplift",
+      "lemma": "and nievre anore skidoos with her spoileds",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "偷铺词形之后，skidoos 与 spoileds 接上溜走和赃物。nievre anore 暂留其声，断词和归属未定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-273-poke",
+      "lemma": "A peak in a poke and a pig in a pew.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "英语惯语 pig in a poke 常指未验货便接手的东西。这里拆开袋中猪，塞入一峰，再把猪移到礼拜长凳；中文保两处错位，失去 peak 与 pig 间的声应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-273-hectoendecate",
+      "lemma": "hectoendecate",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "读作 hecto（百）与 endeca（十一）拼合，试译一百一十一。原句模仿点数，计量单位未明。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-273-mutt-jeff",
+      "lemma": "tak mutts and jeffs",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Bud Fisher 连环画原稿有高个穆特、矮个杰夫。这里只见两名复数化；喊价究竟交付何物，仍不明。",
+      "source_ids": [
+        "fisher-mutt-jeff-train-273"
+      ]
+    },
+    {
+      "id": "ii2-273-horse",
+      "lemma": "muckwits of willesly and nith is the nod for the umproar napollyon",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "willesly 与 napollyon 可唤起威灵顿与拿破仑对阵。1815 年《伦敦公报》刊威灵顿所写滑铁卢战报。中文留威勒斯利、拿波利昂的变调；不据这层影射认定马匹或徽记。",
+      "source_ids": [
+        "gazette-waterloo-dispatch-273"
+      ]
+    },
+    {
+      "id": "ii2-274-monte",
+      "lemma": "broke the ranks on Monte Sinjon.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 并列滑铁卢的 Mont St Jean 与 Monte Carlo。Sandulescu、Vianu 将破阵句与 Fred Gilbert 歌曲《在蒙特卡洛赢倒庄家的人》相对读。中文保阵列和蒙特辛琼的声形；赌场意象留在注中。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "nli-gilbert-monte-carlo-274",
+        "sandulescu-vianu-sayings-274"
+      ]
+    },
+    {
+      "id": "ii2-274-allriddle",
+      "lemma": "The allriddle of it? That that is allruddy with us",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "谜问 allriddle、红润 allruddy 与下文 ahead of schedule 互相牵引；已然、提前的声义也可从 already 听出。用「全谜」「红熟」「早」铺开三层。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-274-madderhorn",
+      "lemma": "on the Madderhorn and, entre chats and hobnobs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Madderhorn 近马特洪峰地名，madder 又可指染料草茜草，承接疯达蒂和红色。entre chats 保猫，又可连读成芭蕾术语 entrechat；hobnobs 可作来往交际，也有举杯之义。译作「茜角峰」「猫儿和碰杯」，五式与舞步的联系仍属推测。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-274-hannibal-hibrahim",
+      "lemma": "Hannibal mac Hamiltan the Hegerite",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Henkes 核早期打字稿，两句原各有主语：汉尼拔在卡普阿城墙旁追人，Hibrahim 在建堂。手稿已合并两人。JJDA 版本比较可查 2010 年读本恢复被省的材料；本项目译所收 Faded Page 读本，仍保合名与连句。",
+      "source_ids": [
+        "henkes-lost-found-274",
+        "jjda-ii2-lc10-274"
+      ]
+    },
+    {
+      "id": "ii2-274-ministerbuilding",
+      "lemma": "ministerbuilding up, as repreaches Timothy",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Henkes 对读 minsterbuilding 与成书 ministerbuilding。前者重堂宇，后者多一层圣职。repreaches 既像再布道，又近 reproaches，回扣前句责责之声。中文用「牧建」「再责再讲」保两层。",
+      "source_ids": [
+        "henkes-lost-found-274",
+        "jjda-ii2-lc10-274"
+      ]
+    },
+    {
+      "id": "ii2-274-calends",
+      "lemma": "From the seven tents of Joseph till the calends of Mary Marian",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "calends 指罗马历每月首日；这里写「月首」，不折算成阴历朔日。JJDA 转录草稿旁注曾写 Maid Marian；旁注七帐至月首的整链还须核。",
+      "source_ids": [
+        "jjda-sheet2-chapelizod"
+      ]
+    },
+    {
+      "id": "ii2-274-dater",
+      "lemma": "datetree doloriferous",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "datetree 是椰枣树，date 也能接上门牌数字与日期读路。doloriferous 形如「生痛、载痛」；用「结痛」接果树和下文神经疼痛。括语插入前置定语与树名之间。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-lc10-274"
+      ]
+    },
+    {
+      "id": "ii2-274-jackhouse",
+      "lemma": "jackhouse that jerry built",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Halliwell 编童谣第 DXCIV 首节说杰克盖屋；乔伊斯把 jack 挪进屋名，让 jerry 盖屋。中文用「杰里盖的杰克棚屋」保两名错位，也让 jerry-built 的草造义仍可听见。",
+      "source_ids": [
+        "halliwell-house-jack-dxciv-274"
+      ]
+    },
+    {
+      "id": "ii2-274-windstill",
+      "lemma": "a nemone at each blink of windstill",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "a nemone 合读近 anemone，可取陆生风花；同句 blows 可解花开也可让人听见吹风，windstill 则点出静风。中文用「风花」保这层牵扯，花种不定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-274-dagobert",
+      "lemma": "Dagobert is in Clane's clean hometown",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Mink 并列 Clane 与 Slane。JJDA《工作单二》在 274.29 起相应条目的确写 Slane，并把 Brian Aulin 接在学艺动作之后。故跨页译「这手本领学自」，具体学的本领仍随成书的破窗动作。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "jjda-sheet2-chapelizod",
+        "jjda-ii2-lc10-274"
+      ]
+    },
+    {
+      "id": "ii2-274-knees",
+      "lemma": "If I gnows me gneesgnobs the both of him is gnatives of Genuas.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "gnows、gneesgnobs、gnatives 连添 g；Genuas 常连到 Genoa，而膝盖又占据前半句。中文保膝疙瘩、热那亚与「他这一对」，无法原样复现起首字母。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-brian",
+      "lemma": "Erin's hircohaired culoteer.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《工作单二》第10(e)条把 Brian Aulin 称作首席裤匠，笔记写的是翻裤里外。成书用 culoteer，旁边又添山羊毛；中文取「裤匠」，仍接上一页伸脸动作。",
+      "source_ids": [
+        "jjda-sheet2-chapelizod",
+        "jjda-ii2-lc10-274"
+      ]
+    },
+    {
+      "id": "ii2-275-dynastic",
+      "lemma": "cenogenetic dichotomy through diagonistic conciliance to dynastic continuity",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "保留从分裂经调合通往王朝延续的三段。diagonistic 同时近 diagonal、diagnostic，也可听出 agonistic 的争竞声；中文试写「对角争诊」，未把整句指定为真实科学术语。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-auburn",
+      "lemma": "Pacata Auburnia",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拉丁书名 Pacata Hibernia 见 Thomas Stafford 名下的爱尔兰战争纪述。Goldsmith《荒村》开篇唤 Auburn；Auburnia 可并听这两层，中文保拟古拉丁地名，未认定它是可标在地图上的村庄。",
+      "source_ids": [
+        "upenn-stafford-pacata-275",
+        "goldsmith-deserted-village"
+      ]
+    },
+    {
+      "id": "ii2-275-tellus",
+      "lemma": "the macroscope telluspeep",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "tellus 有土地、大地义，peep 为窥看。macroscope 造出与 microscope 相反的放大尺度。左栏的「二合一翼」留作观察动作，不擅添实验仪器构造。",
+      "source_ids": [
+        "lewis-short-tellus-275",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-sagon",
+      "lemma": "our topiocal sagon hero",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "topiocal 邻近 topical，也可借下文 sagon 听出 tapioca 和 sago 两种淀粉词。sagon 又近 saga；「时鲜西米传奇」取时事、食物与叙事三头，不把词形固定成木薯。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-ldd5-275"
+      ]
+    },
+    {
+      "id": "ii2-275-silver",
+      "lemma": "and silvering to her jubilee",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Henkes 对读 1934 年初稿和 1938 年校样，指出银禧句前少了白补片、裹巾及 Flower 等语；JJDA 第五稿可核那行。今译保留所据见证本的接缝，不据早稿补写。",
+      "source_ids": [
+        "henkes-lost-found-274",
+        "jjda-ii2-ldd5-275"
+      ]
+    },
+    {
+      "id": "ii2-275-buffalo",
+      "lemma": "the Buffalo Times of bysone days",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bysone 可兼听 by-gone 与 bison。Buffalo 又同时是报头地名与兽名。中文把「昔日」与「野牛」熔作「野牛往年」，仍留报头。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-compasses",
+      "lemma": "The Goat and Compasses",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 在 FW 275.16 将该名列入地名索引。小说里它既是王宫之名，又像旅店招牌；圆规也能回扣本章几何题。原页给出电话 17:69，本注不据号码确认特定店址。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-pronouns",
+      "lemma": "why lui lied to lei and hun tried to kill ham",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lui、lei、hun、ham 换了英语惯用代词的形状，既像外语代词，又像四个名字。中文用卢伊、莱伊、洪、哈姆留声，不直接规定每个代词属于谁。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-tolled",
+      "lemma": "Spell me the chimes. They are tales all tolled.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "spell 让钟声也可拼写，tolled 既是敲钟，又把已讲的 told 藏在响里。译文拆成「敲响」「讲完」两拍，保声音与回谈收束。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-275-penny",
+      "lemma": "A pengeneepy for your warcheekeepy.",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "句式近用一便士换人说心事的习语。warcheekeepy 似含 war、cheek、keep，但整体仍像故意压韵的叠合词。译存「皮／基皮」的尾音；奉献的东西及受词均未定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
     }
   ],
   "fw-ii2-276-01": [
@@ -262,20 +1824,22 @@
       "id": "ii2-twoheaded-dulcarnons",
       "lemma": "twoheaded dulcarnons",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "原旁注明写twoheaded dulcarnons，并与偷芜菁对照。译文保留双角、两难。阿拉伯词源、亚历山大称号及《几何原本》I.47沿用史均待专门来源，不作已证事实。",
+      "certainty": "proposal",
+      "text": "乔叟《特洛伊罗斯与克丽西德》第三卷第133节中，克丽西德用 dulcarnon 说自己进退两难，第134节接续其解释。Joyce 又加 twoheaded，译作「双头两难」，与偷芜菁同列；这里不以该词唯一指称某一道几何题。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "chaucer-troilus-iii-276"
       ]
     },
     {
       "id": "ii2-dove-without-gall",
       "lemma": "dove without gall",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "字面为无胆鸽子，和前面的gale、blost对照。古代博物学传统、圣徒身份及肖恩兄弟关系尚未核实，不以角色解释替换原词。",
+      "certainty": "proposal",
+      "text": "托马斯·布朗《流俗讹误》卷三第三章记鸽无胆的旧说与其温驯寓意，同时引亚里士多德等反驳。中文留「无胆」，容纳温驯与胆怯两读；古说不作动物解剖结论。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "browne-dove-276"
       ]
     },
     {
@@ -315,6 +1879,489 @@
       "certainty": "uncertain",
       "text": "字面写拍背、热情握手的汉子，可读为社交热络。市侩政客及肖恩钻营属于未证角色解释，现不作定说。",
       "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-beadroll",
+      "lemma": "beadroll his own properer mistakes",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "beadroll 可作逐项报数，bead 又引念珠。用「一颗颗数」衔接换页后自数差错，并与稍后的晚祷、父祷连响。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-l39ld-276"
+      ]
+    },
+    {
+      "id": "ii2-276-knutshedell",
+      "lemma": "Omnitudes in a knutshedell.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《哈姆雷特》二幕二场，哈姆雷特说可囿于坚果壳却自认无限空间之王。此处转作小壳收万有，置于撕信正文旁。",
+      "source_ids": [
+        "folger-hamlet-2-2-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-hiccupper",
+      "lemma": "What's Hiccupper to hem or her to Hagaba?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《哈姆雷特》二幕二场有赫卡柏与伶人互问。乔伊斯让 Hecuba 的回声裂成 Hiccupper（还像打嗝的人）与 Hagaba，并换动代词。译文留问句的双向结构和人名变调。",
+      "source_ids": [
+        "folger-hamlet-2-2-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-vesper",
+      "lemma": "Vespertiliabitur.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拉丁语 vespertilio 为蝙蝠，词尾改作近似拉丁语将来式的形态，又接前一句 vespers。译成「晚来要化蝠」；「化」只是这一夜相变的译法。",
+      "source_ids": [
+        "lewis-short-vespertilio-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-goatherd",
+      "lemma": "Goteshoppard quits his gabhard cloke to sate with Becchus.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "羊倌、厚斗篷与酒神似名接成一串；sate 可带饱食，也近 sit 的声音。中文留戈特与贝克科斯，顺着「饱餐」接上稍后的粥羹；并未认定羊倌就是潘。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-l39ld-276"
+      ]
+    },
+    {
+      "id": "ii2-276-daindy",
+      "lemma": "the daindy dish, the lecking out!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《唱支六便士歌》写鸟馅饼上桌，以 dainty dish 赞盘中食。Joyce 略变词形，又把舔舐声拖到菜后面；不必把后页的王提前补进本页。",
+      "source_ids": [
+        "sixpence-caldecott-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-brannan",
+      "lemma": "At Brannan's on the moor.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "圣母大学爱尔兰单页歌谣目录收《Brennan on the Moor》同名印件。原句把人名变作 Brannan’s，仍留荒原短拍，中文用「在……那儿」保两句反复。",
+      "source_ids": [
+        "notredame-brennan-moor-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-fanagan",
+      "lemma": "At Tam Fanagan's weak yat his still's going strang.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "1864 年纽约乐谱题作 Finigan’s Wake。原文 weak 仍听得见 wake，对着 strang 的强音；still 又是蒸馏锅，也能听出仍然。正文留守灵和旺着，弱强对照留注。",
+      "source_ids": [
+        "levy-finigan-wake-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-liss",
+      "lemma": "A liss in hunterland.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可听作 a kiss，也像 Alice in Wonderland 的换音。爱尔兰语 lios 可指环堡；中文用「吻堡」留吻与堡，hunterland 仍作猎境。堡义只是同音读法。",
+      "source_ids": [
+        "teanglann-lios-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-276-pulpititions",
+      "lemma": "He gives me pulpititions with his Castlecowards",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "pulpititions 同时近 pulpit 与 palpitations，讲坛声压进心悸。以「心砰砰、讲坛砰砰」保两个声源；Castlecowards 作城堡窝囊汉，具体人物未定。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-sunday",
+      "lemma": "King.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "《夜课》第五节第二稿载 Sunday 与下页 King 连读。作者脚注钉在 King 后，译文保留翻页才落下的「王」，不另定历史身份。",
+      "source_ids": [
+        "jjda-ii2-ldd2-277"
+      ]
+    },
+    {
+      "id": "ii2-277-ochone",
+      "lemma": "His sevencoloured's soot (Ochone! Ochonal!)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "soot 字面有煤灰，又近 suit，故译「七彩灰衣」。Ó Dónaill 收爱尔兰语 ochón，表叹哀或哭号。两声由短至长；第二词的尾音不强释。",
+      "source_ids": [
+        "teanglann-ochon-277"
+      ]
+    },
+    {
+      "id": "ii2-277-imponence",
+      "lemma": "his imponence one heap lumpblock",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "imponence 可听出 imposing 的威势，也近 impotence 的无能。「赫赫无能」留两层，再结为大块，给后文泥照与块肉留形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-fluminian",
+      "lemma": "Fluminian road",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 于 277 左栏并列 Via Flaminia 与利菲河。拉丁 flumen 为河，字形也贴近 Fluminian。译名保弗卢米尼亚，河和古道留注并列。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "lewis-short-flumen-277"
+      ]
+    },
+    {
+      "id": "ii2-277-fianna",
+      "lemma": "every feaster's a foster's other, fiannians all.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "feaster 与 foster 互变，宴饮也成互相养育。传说《芬恩部众列举》记 Finn 的 Fianna，供 fiannians 对读；正文不锁定近代政治团体。",
+      "source_ids": [
+        "celt-enumeration-finn-277",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-poll",
+      "lemma": "when he's head on poll and Peter's burgess",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "poll 可指投票和头部，前接 deputy member 的变音。译取「票头领了先」，把头与票放到一处；迈克、彼得能否对应实人暂不判。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-anna",
+      "lemma": "For as Anna was at the beginning lives yet",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "小荣唱依起初、现在、永远列次。这里将 Anna 填进起初句，再接仍活、归来。译文保祷词时序；安娜身份未定。",
+      "source_ids": [
+        "church-ireland-gloria-patri-277",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-sleep",
+      "lemma": "great deap sleap rerising",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "deap 可叠 deep 与 dead，sleap 近 sleep，又带 leap 的跃起声。正文用「深沉死睡」「再升」，跃声留在原文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-herbest",
+      "lemma": "the herbest country",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "herbest 可分听 herb、best，又近德语 Herbst（秋）。「草木正盛的秋国」把季候与草叶放在一起，国家身份未定。",
+      "source_ids": [
+        "duden-herbst-277",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-277-blath",
+      "lemma": "the country around Blath",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "爱尔兰地名库列 Baile Átha Cliath 为 Dublin 的爱尔兰语名；Mink 于 277.21 将 Blath 与该名相连。正文仍留「布拉特」。",
+      "source_ids": [
+        "logainm-dublin-277",
+        "sandulescu-mink-gazetteer-9-11-257"
+      ]
+    },
+    {
+      "id": "ii2-277-redbank",
+      "lemma": "redbanked profanian with his bakset of yosters",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Mink 把本页原注七的 redbanked 连到 Red Bank。bakset 颠倒 basket 中央字母，yosters 也变 oysters。译保红岸与一篮蚝；店址、人物身份未定。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-cud",
+      "lemma": "cheat the choker's got to learn to chew the cud.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "choker 可指勒喉的人或物，紧接 chew 的咀嚼声；块肉从上页接入。中文译「掐喉」「嚼回嚼」，保吞咽受阻与反刍动作。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-l39ld-276"
+      ]
+    },
+    {
+      "id": "ii2-278-pitchcap",
+      "lemma": "Pitchcap and triangle, noose and tinctunc.",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "爱尔兰国家档案馆 1798 年档案选第6件转录 W. Kildal 来函，提到沥青帽刑罚。此据只核首词；并列三角与绞索仍照原，tinctunc 暂存音，所指未定。",
+      "source_ids": [
+        "nai-1798-pitchcap-278",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-scroll",
+      "lemma": "circuminiuminluminatedhave encuoniams here and improperies there.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "卷轴后让环绕、光彩和 have 连写，赞词与辱辞又分立两边。中文用「绕四周描彩照亮」及「这厢／那厢」。没有拆成两次照明动作。",
+      "source_ids": [
+        "jjda-ii2-l39ld-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-fanciulla",
+      "lemma": "Bewise of Fanciulla's heart, the heart of Fanciulla!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "意大利语 fanciulla 可指姑娘、少女。中文保名称「凡丘拉」，同时留原句对心的重复呼告；未指认她是某部歌剧人物。",
+      "source_ids": [
+        "treccani-fanciulla-278",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-letters",
+      "lemma": "All the world's in want and is writing a letters.",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "a 与复数 letters 相迕。本页重用，随即又把人、地点、事物排成写信公式。译「一封封信」保量词重复和数目张力，不能原样呈现冠词语法。",
+      "source_ids": [
+        "jjda-ii2-l39ld-276",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-brotus",
+      "lemma": "Dear Brotus, land me arrears.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "莎士比亚《裘力斯·凯撒》第三幕第二场，安东尼请听众借耳。旁注却向 Brotus 开口，lend／ears 的声形仿佛转到 land／arrears，句意也转向欠账。译文保拟名和借账，角色关系仍存疑。",
+      "source_ids": [
+        "folger-julius-caesar-3-2-278",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-browning",
+      "lemma": "How he broke the good news to Gent.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "布朗宁诗题是从根特向亚琛传喜讯。这一栏换成一人把好消息送往 Gent；译文保方向变化，Gent 是否也让人联想到 gentleman 仍存疑。",
+      "source_ids": [
+        "browning-good-news-278",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-babel",
+      "lemma": "Rockaby, babel, flatten a wall.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《创世记》11:1–9 写巴别人筑城造塔、语言随即混乱。旁注呼唤巴别摇动并推墙，正文旁排梯子和头领。推平墙是小说改写，不能当作经文原情节。",
+      "source_ids": [
+        "kjv-genesis-babel-11",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-ladder",
+      "lemma": "ladder. And den men, dun men, fen men, fun men, hen men, hun men wend to raze a leader.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "rise a ladder 与 raze a leader 互换元音和词义，十、吨、笔、谐四称与后一串六称同用 men。译文留四加六队列，仍让登梯、推首领相照；英语两组近音只能在注中补足。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-posy",
+      "lemma": "A posy cord. Plece.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "posy 可读作小花束或短题诗，与 cord 连在一起也近 postcard；Plece 近 please 与 place。正文保花诗与绳，后词只取请求语气，未增写明信片这一实体。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-278-wounded",
+      "lemma": "We have wounded our way on foe tris prince",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "wounded 带伤，与前行的曲折近音相叠，中文保「带伤蜿蜒」。foe tris 读路未定，译留敌及特里斯声形，不据 tris 判为三王。跨页延续鳃力衰弱与树皮面孔。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-homogenuine",
+      "lemma": "modes coalescing proliferate homogenuine homogeneity.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "本栏从上页 major and minor 接来，modes 有调式义；homogenuine 介于同质、同源和 genuine 之间。中文以「调式合流」接大调小调，用「同真同质」保叠尾。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-rainstones",
+      "lemma": "the face in the treebark feigns afear. This is rainstones ringing.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "feigns afear 把恐惧写成佯作；rainstones 让落雨似石雨，也让拟音落在 ringing。首句接上页鳃力衰弱；译「雨石叮铃」保声音及硬质。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-erigureen",
+      "lemma": "But Erigureen is ever.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Erigureen 可分听爱尔兰的名声与 green，故译「爱绿兰」，让绿字嵌进国名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-plop",
+      "lemma": "Pot price pon patrilinear plop, if the osseletion of the onkring gives omen nome?",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "全句 p、o 连打。patrilinear 带父系，plop 带坠声，osseletion 似把骨与摇动缀起来，omen nome 可拆兆与名。译保罐价、坠、骨响与兆名，不钉死为骰子或脚骨。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-allswar",
+      "lemma": "Since alls war that end war",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "莎剧原题 All’s Well That Ends Well。此处以 war 换去两处 well 的顺遂声，紧跟着让球赛回到休闲、集市。保「终战也是战」及原句复沓。",
+      "source_ids": [
+        "folger-alls-well-279",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-hurley",
+      "lemma": "the hour that hies is hurley. A halt for hearsake.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "爱尔兰曲棍球以 hurley 指击球木棍。原句 hour、hies、hurley 接力，随后 halt、hearsake 转到为听而停；译作「赫利球棍」与「为听，且停」。",
+      "source_ids": [
+        "unesco-hurling-279",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-malody",
+      "lemma": "putting an end to myself and my malody",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "malody 近曲调 melody，也近疾患 malady。前文对 plants 与 chants，正在铺歌声，故译「病曲」，并保存说话者把自己和病曲同列的句法。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-led7-279"
+      ]
+    },
+    {
+      "id": "ii2-279-conjugate",
+      "lemma": "conjugate together toloseher tomaster tomiss",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "变位紧接三段粘连不定式，既像教室里的词形操练，也通向伴侣间的失去、掌控、思念。译文让「失她，制她，想她」共用尾字；master 与 miss 的称谓余义仍在英文。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-led7-279"
+      ]
+    },
+    {
+      "id": "ii2-279-pettigo",
+      "lemma": "when I slip through my pettigo",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Mink 将 Pettigo 列为可能地名。pettigo 又近 petticoat，随后是穿丝和飘纱；中文把音和小裙叠在一起，所穿衣层与地名都不单定。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-nourse",
+      "lemma": "all the runes of the gamest game ever from my old nourse Asa.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Mink 为 Asa 一行提示挪威。nourse 可听奶妈 nurse，也近 Norse，紧接 runes 与 vicking；译留奶妈、符文和维京，不另定阿莎的籍贯。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-auden",
+      "lemma": "bolt the thor. Auden.",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "本项目见证本与 JJDA 所录二章第六节第七稿都留 Auden。thor 置于闩门动作后，可兼听 door 与 Thor。正文作「托尔门」与「奥登」，未定奥登是祷词变声还是人名。",
+      "source_ids": [
+        "jjda-ii2-led7-279",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-279-skokholme",
+      "lemma": "that dog of a dag in Skokholme",
+      "kind": "culture",
+      "certainty": "uncertain",
+      "text": "Mink 将 Skokholme 连到 Stockholm。威尔士彭布罗克郡另有拼写相近的 Skokholm，仅作参照；不能据近音改定地点或断言原文祭坛可考。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "wildlife-trust-skokholm-279"
+      ]
+    },
+    {
+      "id": "ii2-279-cheeriot",
+      "lemma": "So sing loud, sweet cheeriot, like anegreon in heaven!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "国会图书馆藏 1909 年 Swing Low, Sweet Chariot 录音目录，也藏《阿纳克里翁歌》早期乐谱，首句提天堂中的阿纳克里翁。一句并听两种歌，故留甜车与异形人名；未据此指定旋律。",
+      "source_ids": [
+        "loc-sweet-chariot-279",
+        "loc-anacreon-279",
         "joyce-fp"
       ]
     }
@@ -379,6 +2426,520 @@
       "source_ids": [
         "joyce-fp"
       ]
+    },
+    {
+      "id": "ii2-280-hopely",
+      "lemma": "Hopely for ear that annalykeses if scares for eye that sumns.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "JJDA 所收早稿及后校本在 freewritten 后断句，故可把 Hopely 当「但愿」一类开声。annalykeses 近分析，也可听入 Anna；sumns 近合计。译留耳与眼相对，暂不把 Hopely 坐实为篇名。",
+      "source_ids": [
+        "jjda-ii2-lfd6-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-wood",
+      "lemma": "Is it in the now woodwordings",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "wood 与 word 合写，下文又有种植地、分枝与歌唱。中文用「林木词」把树木与措辞叠在一起，让枝叶随后唱出时序。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-mind",
+      "lemma": "the twelvemonthsminding?",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "twelvemonth 是一年，minding 可兼记念；旧时 year’s mind 指周年追思亡者。本页下一段又见葬礼慰问。中文译「周岁追思」，不把它换算成公历十二月。",
+      "source_ids": [
+        "marlowe-shakespeare-mind-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-form",
+      "lemma": "Dear (name of desired subject, A.N.), well, and I go on to.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "称呼把「填姓名」留在括内，后面又有 F.M. 和问候等填词。译保 A.N.、F.M. 及括内指令的插断；两套缩写均无须先落实为特定人物。",
+      "source_ids": [
+        "jjda-ii2-lfd6-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-shieling",
+      "lemma": "A shieling in coppingers and porrish soup all days.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "shieling 可指简屋，也贴近 shilling；Mink 把 coppingers 列作人名线索，同时可听铜币 coppers。中文并列一先令与科平家小棚，porrish soup 暂取稀粥汤食。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-maggy",
+      "lemma": "(question maggy)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "书信范本在问候后本可标 question mark；Joyce 改作 maggy，符号名变成似在场的人。正文试译「打玛吉问号」，保句读提示。",
+      "source_ids": [
+        "jjda-ii2-lfd6-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-foster",
+      "lemma": "she hawks from Poppa Vere Foster but these curly mequeues are of Mippa's moulding.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "英国国民信托馆藏 Vere Foster 习字帖，图录记页内有临写练习。pothooks 可指初学书写的钩笔；mequeues 又近卷曲笔迹与尾辫。译保爸爸授钩笔、蜜帕捏卷尾的分工；不另定当事人。",
+      "source_ids": [
+        "nationaltrust-foster-copybook-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-christinette",
+      "lemma": "cinder Christinette if prints chumming",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "cinder 给克里斯蒂内特添炉灰，prints chumming 可连听 Prince Charming，也带印字、亲熟两层。译文试留「灰炭」及「王子相亲」，童话联想不替代书信角色。",
+      "source_ids": [
+        "jjda-ii2-lfd6-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-soldi",
+      "lemma": "can be when desires Soldi",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "意大利语 soldi 既是 soldo 复数，也有钱财通义；原文大写又像姓名，紧邻奖品与样品。中文保索尔迪声形，此处谁想得到什么仍存疑。",
+      "source_ids": [
+        "treccani-soldo-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-lick",
+      "lemma": "kissists my exits. Shlicksheruthr.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "kiss 与 exits 并置，反复出现的 Shlicksher 又贴近擦写声和 lick her。译作「吻吻我的退场」「唰舔唰」，以两种口腔声衔接收信与落款。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-stone",
+      "lemma": "sphere of silver fastalbarnstone",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Faded Page 连写 fastalbarnstone，JJDA 记录另一读法将 fast 与 albernstone 分开。中文据见证本留合词音形和银色圆形，石种、地名及其所指未定。",
+      "source_ids": [
+        "jjda-ii2-lfd6-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-280-bandusia",
+      "lemma": "fount Bandusian shall play liquick music",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "贺拉斯《颂歌》III.13 咏班杜西亚泉，末尾写有声之水奔下。Joyce 让泉演奏，liquick 又近液流与迅捷、活泼的声形。译作「活泼泼的流水乐」，不补入原诗献祭。",
+      "source_ids": [
+        "horace-odes-3-13-280",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-venuse",
+      "lemma": "Mai maintenante elle est venuse.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可听出法语「可如今她来了」，末词又拖出 Vénus。译保维纳斯般到来；变音留给原文。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-lammas",
+      "lemma": "Lammas is led in by baith our washwives",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Bosworth–Toller 收古英语 hláfmæsse，释作八月初一的 Lammas。中文译名加「收获节」供定位，未等同特定爱尔兰节仪。",
+      "source_ids": [
+        "bosworth-lammas-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-bellum",
+      "lemma": "the bellumpax-bellum. mutuomorphomutation.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bellum、pax、bellum 依战、和、战相叠；后词把彼此、形与变缀为一词。译保两层在右栏。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-quinet",
+      "lemma": "Aujourd'hui comme aux temps de Pline et de Columelle",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "花目出自埃德加·基内为赫尔德著作所写导言。1877年《两世界评论》引作 aux jours，本页用 aux temps。Hart 并列两种文本。普林尼与科卢梅拉标示年代。",
+      "source_ids": [
+        "hart-structure-motif-quinet-281",
+        "revue-quinet-281",
+        "jjda-ii2-lfd4-281"
+      ]
+    },
+    {
+      "id": "ii2-281-generations",
+      "lemma": "paisibles générations ont traversé les âges et sont arrivées jusqu'à nous",
+      "kind": "syntax",
+      "certainty": "supported",
+      "text": "主语是开头三种花草。早稿及旧引作 se sont succédé l’une à l’autre；本页作 sont arrivées。译「来到我们面前」，用「花草却」接清隔栏指代。",
+      "source_ids": [
+        "revue-quinet-281",
+        "jjda-ii2-lfd4-281",
+        "hart-structure-motif-quinet-281"
+      ]
+    },
+    {
+      "id": "ii2-281-spuke",
+      "lemma": "Also Spuke Zerothruster.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "此条可对读 Nietzsche 书题 Also sprach Zarathustra。Spuke 和 Zerothruster 又让喷声、zero 和 thrust 挤入；译试用「查拉零斯特也这般喷话」。",
+      "source_ids": [
+        "nietzsche-zarathustra-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-sortes",
+      "lemma": "sortes virginianae.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《罗马皇帝传》哈德良传 2.8 记以维吉尔问签。原栏所写 virginianae 形近 Vergilianae，又带 virgin；译用「维吉尔贞女神签」。",
+      "source_ids": [
+        "hadrian-oracle-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-flowers",
+      "lemma": "Margaritomancy! Hyacinthinous pervinciveness!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "两声重配引文三花：雏菊连占卜，风信子接近 pervenche 与 convincing 的词形。试用「雏菊占」「长春劝服力」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-folsoletto",
+      "lemma": "il folsoletto nel falsoletto col fazzolotto dal fuzzolezzo",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Treccani 收 folletto（小精灵）和 fazzoletto（手帕）；letto 可听作床。试译「假灵精」「假小床」「小手帕」，末词「绒臭」仍存疑。",
+      "source_ids": [
+        "treccani-folletto-281",
+        "treccani-fazzoletto-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-sycamore",
+      "lemma": "Sickamoor's so woful sally. Ancient's aerger.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《奥赛罗》四幕三场柳歌起头写人在 sycamore 旁叹息。Sickamoor 近树名，也可听患病的摩尔人；后文 ancient 可指旗官。译保树名、悲愁与旗官。",
+      "source_ids": [
+        "folger-othello-willow-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-sieger",
+      "lemma": "What if she love Sieger less though she leave Ruhm moan?",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "德语 Sieger 为胜者，Ruhm 是名声或荣耀；大写又像名字。正文留西格、鲁姆的声，也给胜者、功名两词；所指未定。",
+      "source_ids": [
+        "duden-sieger-281",
+        "duden-ruhm-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-281-enten",
+      "lemma": "Enten eller, either or.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "丹麦皇家图书馆藏 Kierkegaard 1843年《Enten – Eller》影印。这里丹麦语后立刻附英语，接右栏问、叹及正文并且、宁可。译保丹麦语声形与汉语两拍。",
+      "source_ids": [
+        "kb-kierkegaard-enten-281",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-ambidual",
+      "lemma": "antithesis of ambidual anticipation.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ambidual 用 ambi 与 dual 双叠，双向预期正接上页的非此即彼。译「两歧」兼顾方向与分岔，下一短句仍留心灵工厂的给、取。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-auspicium",
+      "lemma": "auspicium.",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "Lewis & Short 可核 auspicium 的察鸟飞占义，右栏用「观鸟占」。邻栏 auguria 取较宽的兆占，两栏仍是并列名目。",
+      "source_ids": [
+        "lewis-short-auspicium-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-begyndelse",
+      "lemma": "Boon on begyndelse.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "丹麦历史词典载 begyndelse 为开始。Boon 带恩惠或好事，暂译「开头见吉」承观鸟旁注；英文、丹麦文在一句中混行。",
+      "source_ids": [
+        "ods-begyndelse-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-fingures",
+      "lemma": "his fingures were giving him whatfor to fife",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "早稿明写 ten fingures，并作 no boy better；成书撤 ten，换成 no bird better。fingures 让 finger、figure 叠合，译作「手指数」；fife 是横笛，又近 five，原句未说笛孔多少。",
+      "source_ids": [
+        "jjda-ii2-lgd7-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-metrical",
+      "lemma": "Truckeys' cant for dactyl and spondee.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "诗律中 dactyl 是扬抑抑，spondee 是扬扬。哈佛诗律指南也用手指一长两短的指节提示 dactyl 的希腊词义。旁注夹在吹笛句中间，向下还扣手指。",
+      "source_ids": [
+        "harvard-prosody-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-fingers",
+      "lemma": "there came boko and nigh him wigworms and nigh him tittlies and nigh him cheekadeekchimple",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "前文讲指算，随后五个拟称逐个挨近。「拇博科」取开头大指读路，其余兼虫、奶头和颊下巴形声；不据次序硬定每一指名的词源。",
+      "source_ids": [
+        "jjda-ii2-lgd7-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-curdinals",
+      "lemma": "his null four lovedroyd curdinals",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "curd 借进 cardinal。眼前既是四位教士式人物，也是零、四或几项基数的把戏。译作「零四位酪衣枢机」；四名按成书次序，各名所指未定。",
+      "source_ids": [
+        "jjda-ii2-lgd7-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-fanden",
+      "lemma": "his Fanden's catachysm from fursed to laced",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "丹麦历史词典收 Fanden 为恶魔名。catachysm 近教理问答，fursed、laced 沿 from first to last 的轮背结构。译用「范登魔鬼问答」，保首尾两端。",
+      "source_ids": [
+        "ods-fanden-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-decemvers",
+      "lemma": "quickmarch to decemvers, so as to pin the tenners, thumbs down.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "decemvers 可兼听 Latin decem（十）与 December；随后的 tenners 和拇指压下又把日历接回计数。试译「十数十二月」，让十与十二月同处一句。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-pive",
+      "lemma": "pin puff pive piff, piff puff pive poo, poo puff pive pree, pree puff pive pfoor, pfoor puff pive pippive, poopive,",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Sandulescu 格本将 puff 与 pive 分解为 plus、five，并释 poo、pree、pfoor 为二、三、四；这串口令仍反复把上一句尾音拿来做下一句头音，数面不服从正常加五。译保存尾首相接和反复的「噗五」。",
+      "source_ids": [
+        "sandulescu-unenglish-282",
+        "jjda-ii2-lgd15-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-282-niall",
+      "lemma": "Niall Dhu,",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Niall 似姓名，也近 nil；格本还把 Dhu 对读 two。爱尔兰语 dubh 表黑，译保「黑尼尔」及逗点，后页拟名仍接数词，未定他是历史上哪个尼尔。",
+      "source_ids": [
+        "teanglann-dubh-282",
+        "sandulescu-unenglish-282",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-283-numbernames",
+      "lemma": "Foughty Unn, Enoch Thortig, endso one",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "上一页先出 Niall Dhu，再接本页两拟名。Sandulescu 格本给四十一、三十一的数词读法。译保四十与一的变音、以诺与三十的夹接；不据此断定以诺年龄或三数之和。",
+      "source_ids": [
+        "sandulescu-unenglish-282",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-283-spillicans",
+      "lemma": "to pitch of your cap, pac, on to tin tall spillicans.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "cap 和 pac 把字母倒过来，tin 与 ten 相近，也带锡铁声。中文写帽子且拟啪响，挑棒仍留十根；材质和是否真在玩挑棒存疑。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-ulstra",
+      "lemma": "Non plus ulstra, Elba, nec, cashellum tuum.",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Non plus ulstra 近 non plus ultra，同时可连听 Ulster。Elba 以及 cashellum 接作混合拉丁语的地名或城堡词，译保零碎对举，不移入拿破仑剧情。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-mink-gazetteer-9-11-257"
+      ]
+    },
+    {
+      "id": "ii2-283-winds",
+      "lemma": "borus pew notus pew eurus pew zipher.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "古典风名 Boreas、Notus、Eurus、Zephyrus 可对读北、南、东、西；古词在个别体系还分更多方位。pew 三次连风，中文保连续三声「噗」。",
+      "source_ids": [
+        "logeion-ventus-283",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-higher",
+      "lemma": "Ace, deuce, tricks, quarts, quims.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "幺与二已明，后三词可听三、四、五，又各扭入戏法、液量、身体。下文以性事等推至十，故两组数词连读。译文写出数字轮廓，也保后项字面。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-denominator",
+      "lemma": "traduced by their comedy nominator to the loaferst terms",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "comedy nominator 近 common denominator，loaferst terms 近 lowest terms，traduced 又带翻译变形与诋谤。中文将分母写作喜剧公分母，再把语言及分数同约至最低项。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-remainder",
+      "lemma": "with no reminder for an equality of relations",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "reminder 字面是提醒，又可能引 remainder（余数）。译作「分毫无余，也毋须提醒」，保计算与上课两层，不把关系对等改成一条可验算的公式。",
+      "source_ids": [
+        "jjda-ii2-lgd15-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-chain",
+      "lemma": "links unto chains",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "科学博物馆馆藏一件冈特式测链，全长六十六英尺，百节组成。在本页旧衡制清单中，links 与 chains 可按测量单位读，故译「链节换算成测链」。原句未指定测链型号。",
+      "source_ids": [
+        "smg-gunter-chain-283",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-wey",
+      "lemma": "weys in Nuffolk till tods of Yorek",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Chambers 讨论历史计量时列 wey 和 tod 为羊毛衡量单位，指出地方数值有异。正文留纳福克、约雷克地名和韦、托德的单位音。不为乔伊斯一句指派统一换算率。",
+      "source_ids": [
+        "chambers-medieval-measures-283",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-weather",
+      "lemma": "Dondderwedder Kyboshicksal.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Duden 可核 Schicksal（命运），Donnerwetter 又可作发作式感叹。原栏两个词还掺 kibosh 的截断声。译作「雷天」「了账命数」，不把它译作必然的致死情节。",
+      "source_ids": [
+        "duden-donnerwetter-283",
+        "duden-schicksal-283",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-283-euclid",
+      "lemma": "caught allmeals dullmarks for his nucleuds and alegobrew.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前有读写算三捷，后却在几何、代数得呆分；nucleuds 还像核与 Euclid，alegobrew 则把 algebra 拿去酿。译用「核欧几」「代酿数」保错拼，并接下页仿证明题。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-283-todhunter",
+      "lemma": "doddhunters and allanights, aabs and baas for agnomes, yees and zees for incognits",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "Todhunter 1862年《几何原本》序言谈几何、算术及代数学习，doddhunters 可借姓氏听数学教本；后词又可拆猎手和整夜的余音。译保两拟称与 A、B 对 Y、Z 的已知未知回声，不指定所有人名。",
+      "source_ids": [
+        "mactutor-todhunter-preface-283",
+        "joyce-fp"
+      ]
     }
   ],
   "fw-ii2-284-01": [
@@ -438,6 +2999,373 @@
       "kind": "wordplay",
       "certainty": "uncertain",
       "text": "umbroglia可与imbroglio、umbra、umbrella作形近比较，译文以家庭阴伞纠纷补偿。外语确切词义与组合词源尚待词典。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-median-proof",
+      "lemma": "the parilegs of a given obtuse one biscuts both the arcs",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "上一页用 Show that the 起题，此处依次列中线、钝角两边、两弧与劈半。JJDA 第十五稿同样以此相接；正文保几何词同并腿、歪直角的冲突，不补题设来求证。",
+      "source_ids": [
+        "jjda-ii2-lgd15-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-tullagrove",
+      "lemma": "A Tullagrove pole",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Mink 把 Tullagrove 标作未定，并提示 telegraph 的读路。译留图拉格罗夫杆；杆可能像电线杆，也可能只在丈量题里站着，未定地点。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257"
+      ]
+    },
+    {
+      "id": "ii2-284-counties",
+      "lemma": "Lower County Monachan",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Mink 将 Monachan、Fearmanagh 分别联系 Monaghan、Fermanagh；爱尔兰地名表列 Fear Manach／Fermanagh。正文保上下地势与郡名，不把图拉格罗夫杆标成可测地物。",
+      "source_ids": [
+        "sandulescu-mink-gazetteer-9-11-257",
+        "logainm-gazetteer-284"
+      ]
+    },
+    {
+      "id": "ii2-284-zeroic",
+      "lemma": "the zeroic couplet, palls pell inhis heventh glike",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "zeroic 近 heroic；couplet 兼双项与双行诗。heventh 可听 heaven、seventh，下接 noughty 与 ∞。译「零雄对句」「第七天界」存这组叠声；未把算式写成已定义的极限。",
+      "source_ids": [
+        "jjda-ii2-lgd15-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-surd",
+      "lemma": "surd! pthwndxrclzp!, hids cubid rute being extructed",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "surd 在数学里可指不能化作有理数的根式，在声音上又可唤起聋、无声。照录十二字符串（首尾 p），并在正文保立方根与每次取九个字母；原句没有规定取样规则。",
+      "source_ids": [
+        "jjda-ii2-lgd15-282",
+        "sandulescu-long-words-284",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-solation",
+      "lemma": "From solation to solution.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "solation 到 solution 差一个近音，词意可从独处、孤立走到解答。译保两头，无从在汉语复现那一个元音的翻动。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-dumbbawls",
+      "lemma": "twelve deaferended dumbbawls of the whowl abovebeugled",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dumbbawls 近哑铃，也由哑与喊碰撞；whowl 可同时听 whole 和 howl。译文留十二、聋哑、嚎声与吹号的整体，舍去哑铃的器具形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-cycles",
+      "lemma": "the two antesedents be bissyclitties and the three comeseekwenchers trundletrikes",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "antesedents 近 antecedents，后组词近 consequences，也像追求姑娘。正文以前件配双轮，后件配三轮；不把这串车改成五个数学样本。",
+      "source_ids": [
+        "jjda-ii2-lgd15-282",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-ncr",
+      "lemma": "the nCr",
+      "kind": "structure",
+      "certainty": "supported",
+      "text": "按通常组合记号，从 n 件不同物件不计顺序取 r 件，可写 nCr。正文照录记号，与后页 mPm 相望；玩笑中的组数及变数未指定，不代作者求值。",
+      "source_ids": [
+        "openstax-counting-284",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-dudeney",
+      "lemma": "Dideney, Dadeney, Dudeney",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Dudeney 著有《数学游戏》，其中分列算术代数、几何等问题。脚注三次换元音，中文保狄、达、杜三称；未在著作中确认这道畸形几何题有同一原题。",
+      "source_ids": [
+        "dudeney-amusements-284",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-bride",
+      "lemma": "who adapted his daughter to Braham the Bear.",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "连续三小句先写两次嫁娶，后句改用 adapted，又可听 adopted。译「改配」，保关系链，不坐实女儿成了养女，谁的寡妇、女儿也沿原文就近读。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-284-gee",
+      "lemma": "A gee is just a jay on the jaunts cowsway.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "gee、jay 是 G、J 的字母读法，又都像口语名物。jaunts cowsway 兼唤起 Giant’s Causeway 和牛行路。译保吉、杰两声和「游车牛堤」，地名变形留注。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-orbit",
+      "lemma": "lenz alack lends a lot",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "透镜、叹惋与借出连作一串近音。下文圆桌轮转又呵乱循环秩序。棱兹保字音；此处未能定为人名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-arrows",
+      "lemma": "like a seven of wingless arrows",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "此处明写七支无翼箭。前面 zitas 可谐希腊字母 zeta，yeggs 可听作 eggs；不能据此定出排列对象。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-exarx",
+      "lemma": "the catched and dodged exarx",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "exarx 可唤起 exarch，兼见 ex- 与 x 字形。「又遭逮又躲」保动作抵牾。初、末及手、尾接续本页顺序游戏。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-arthurgink",
+      "lemma": "Arthurgink's hussies and Everguin's men.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "亚瑟王与桂妮薇儿可作候选联想；原文改造两名，译文音译，保两组人物对举。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-permutations",
+      "lemma": "mPmbrings us a rainborne pamtomomiom",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "mPm 可读为从 m 个相异物件按次序取满 m 个，通常共有 m! 种排列；此处紧接雨中哑剧与倒数，未提供足够条件可代入求值。",
+      "source_ids": [
+        "joyce-fp",
+        "openstax-counting-284",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-285-volts",
+      "lemma": "kaksitoista volts",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "芬兰语从十二倒数至一。底本与第十五稿均将九、七、四写成 yhdeksan、seitseman、nelja，常规拼法为 yhdeksän、seitsemän、neljä；最后 yksi 未接 volts，译文以「一伏」续足中文倒数节奏。",
+      "source_ids": [
+        "joyce-fp",
+        "uusi-kielemme-numerot-285",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-285-helve",
+      "lemma": "helve's fractures",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "helve 可指斧柄，fractures 是断裂；整体又近似 hell’s fractions，接上下文分取题。译文取斧柄意，另存分数之声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-factions",
+      "lemma": "Iris in the Evenine's World",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "factionables 同时接近派系与分数。Iris 与 Evenine’s World 保拟名，尚未指认具体刊物、刊期或人物。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-binomeans",
+      "lemma": "Binomeans to be comprendered.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Binomeans 可并读 binomial 和 by no means。下文 aximones、prostalutes 近 axioms、postulates，各多出声韵；「公理鬼」「前列设项」是保留变形的试译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-commentary",
+      "lemma": "the prodection of curiosity from children",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "prodection 形近 production、protection；from children 可指出自儿童。旧译「防止」过定，改「圈拢」，与 Barneycorrall 的圈围声形照应。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-285-boneshaker",
+      "lemma": "on his boneshaker fraywhaling round Myriom square",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "boneshaker 指颠簸的早期脚踏车，也直说颠骨。fraywhaling 可联想 freewheeling、fray 与 whaling；译文并留滑轮与抡鲸。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-brown",
+      "lemma": "For his neuralgiabrown.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "neuralgia 与 brown 连成病痛色名，也可听作 brow。JJDA 第十五稿此处以复数眉形收尾；通行底本作 brown，中文留棕色，不换入稿本。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-286-aosch",
+      "lemma": "Equal to=aosch.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "aosch 正好重排 chaos 五个字母，等号也写在句中，延续上页排列表述。正文照录异形。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-holy-name",
+      "lemma": "P.t.l.o.a.t.o.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "点隔七个字母，与右旁注 heptagrammaton 相邻，亦可从中辨出 Plato 字母次序。字串保持原样，不扩写成固定释名。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-initials",
+      "lemma": "after those initials falls and that primary taincture",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "initials 让初始之跌也带上首字母义；taincture 同时带染色与污迹。译作「初字几跌、原初一染」，承上页色名及本页字母。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-casey",
+      "lemma": "Casey's frost book of",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "约翰·凯西编注《几何原本》前六卷，第一卷命题一正是作等边三角形。此处 frost 可听成 first，书名在 of 后断住，译保中断；未确认所指册本及希基摊档。",
+      "source_ids": [
+        "joyce-fp",
+        "casey-euclid-286"
+      ]
+    },
+    {
+      "id": "ii2-286-bridge",
+      "lemma": "Wellington's Iron Bridge",
+      "kind": "culture",
+      "certainty": "supported",
+      "text": "都柏林市议会记载，利菲河上半便士桥于 1816 年启用，正式名称纪念第一代威灵顿公爵。正文沿用「威灵顿铁桥」；该资料不证希基摊档位置。",
+      "source_ids": [
+        "joyce-fp",
+        "dublin-city-halfpenny-286"
+      ]
+    },
+    {
+      "id": "ii2-286-cards",
+      "lemma": "trump adieu atout atous",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "法语 atout 可指将牌，atous 又像 à tous，意为向所有人。洗牌、发牌和错失良机连成一串。suitclover 接梅花花色，blagpikes 还留枪尖，译文不强配标准四门花色。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-revoke",
+      "lemma": "would he revoke them, forewheel to packnumbers",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "revoke 可读为撤回，也可带牌戏中未按规定跟花色之义。forewheel 与 packnumbers 续接轮转和成副计数，保其并列，未断定具体牌规。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-triangle",
+      "lemma": "construct ann aquilittoral dryankle",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "像仿《几何原本》第一卷命题一作等边三角形，littoral 与 ankle 又添岸边与脚踝。后句等角三字形把同一题牵向字母，译留两个形状。",
+      "source_ids": [
+        "joyce-fp",
+        "casey-euclid-286",
+        "jjda-ii2-lgd15-282"
+      ]
+    },
+    {
+      "id": "ii2-286-rome",
+      "lemma": "As Rhombulus and Rhebus went building rhomes one day.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "仿罗慕路斯、雷穆斯与建罗马的故事；rhomb- 与 rebus 分别可听作菱形与图谜，rhomes 又近 Rome 和 homes。「菱穆卢斯」「谜穆斯」「菱屋」各取一层。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-answer",
+      "lemma": "suspecting the answer know",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "know 与 no 同音，下文又用 ken、guess、noer、vicewise 交错知、不知、猜及机智。旧译只保否定，今并留两读。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-286-mud",
+      "lemma": "First mull a mugfull of mud, son.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "mull、mugfull、mud 头韵紧扣制泥动作，儿子的称呼落在句尾。泥浆与烹调脚注并读，至第287页又成几何题的材料。",
       "source_ids": [
         "joyce-fp"
       ]

@@ -5,7 +5,7 @@
       "lemma": "O tell me all about Anna Livia! I want to hear all about Anna Livia.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第八章开篇由两位洗衣妇隔河对喊展开，一边搓洗HCE污损的衣物一边追问安娜·利维亚往事，以水流节奏与市井闲话交织推进全章对白。",
+      "text": "第196页把 O 单列一行，接着排 tell me all about，再引出安娜·利维亚。紧跟的水盆、搓洗、捶衣和抢话交代洗衣情境；正文保留重复问话与话口，未强分说话人。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -15,7 +15,7 @@
       "lemma": "Anna Livia",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "安娜·利维亚（Anna Livia）对应都柏林利菲河（River Liffey，爱尔兰语 An Life），在全书阐释中常视作女性始祖ALP与众多河流意象的化身。",
+      "text": "安娜·利维亚在前章末现身，沿地名与水势展开。本章以洗衣对话反复呼唤其名，又将水域近音织入话里。她与利菲河的联系可从两处连读，暂无须把开头每个动作换成固定地理指涉。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -25,7 +25,7 @@
       "lemma": "Huges Caput Earlyfouler.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "HCE名号变体，嵌合法兰西卡佩王朝始祖休·卡佩（Hugh Capet）、拉丁语 caput（头／首领）与“早早弄脏者／捕鸟人”（early fouler/fowler）。",
+      "text": "三词首字母为 H、C、E。Huges Caput 近似 Hugh Capet，caput 又是拉丁语「头」；Earlyfouler 连着本页反复提起的脏衫，也近 fowler「捕鸟人」。姓名戏拟在本处仍是拟读。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -35,9 +35,11 @@
       "lemma": "Pilcomayo! Suchcaughtawan!",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "谐音南美洲皮尔科马约河（Pilcomayo）与加拿大萨斯喀彻温河（Saskatchewan，且嵌“such caught a one”）；本章对白密集织入世界各地河流名称。",
+      "text": "Pilcomayo 与南美河名同形，Suchcaughtawan 近加拿大河名 Saskatchewan，又能听出 caught，接着便说鲸抢走灰鳟。译名特意扭写第二处，留住急叫声；两河名近声不表示船实航此处。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "pilcomayo-commission",
+        "nrcan-geographical-names"
       ]
     },
     {
@@ -45,7 +47,94 @@
       "lemma": "of the saywint up me ambushure.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "ambushure 叠合法语 embouchure（河流入海口、管乐器吹口）与英语 ambush（伏击），saywint 兼涉海风（sea wind），兼写河口迎风与妇人张口闲谈。",
+      "text": "ambushure 近法语 embouchure「河口、管乐吹口」，也藏 ambush 的形；saywint 让人听见海风。译为「河口唇嘴」，同留水域与口腔。伏击义保留在注释。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-fiendish-threed",
+      "lemma": "they threed to make out he thried to two in the Fiendish park.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "threed、thried、two 让 three、tried、two 彼此错位。Fiendish park 可听作都柏林凤凰公园，同时添恶魔语气，译作「魔凰公园」。转述者只说旁人想编排，未明说有两个姑娘。",
+      "source_ids": [
+        "joyce-fp",
+        "opw-phoenix-park"
+      ]
+    },
+    {
+      "id": "i8-loch-neagh",
+      "lemma": "under loch and neagh",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拆开的 loch 与 neagh 合读近 Lough Neagh，整个短语又像 under lock and key「锁起来」。译作「在内伊湖底下锁了多久」，让水下和关押两义同在。",
+      "source_ids": [
+        "joyce-fp",
+        "daera-neagh-bann"
+      ]
+    },
+    {
+      "id": "i8-spring-neap",
+      "lemma": "As you spring so shall you neap.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "用大潮 spring tide、小潮 neap tide 改写先种后收的句式。大小潮按月相交替，中文用涌、消摹潮幅开合。",
+      "source_ids": [
+        "joyce-fp",
+        "marine-institute-galway-tides"
+      ]
+    },
+    {
+      "id": "i8-proxenete-spate",
+      "lemma": "franca langua. And call a spate a spate.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "对方嫌 proxenete 一词费解，要求用通行话。call a spate a spate 将惯用语 call a spade a spade 的 spade 换成表示暴涨水势的 spate。正文并列洪水和铲子，补出原词只改一声的效果。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-severn-years",
+      "lemma": "He had been belching for severn years.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "severn 比 seven 多一个 r，又与英国河名 Severn 同形。译作「塞文七年」，留住七年叙时和河名。此处与上文 Humber、thames 一起把水名缀入闭门独处。",
+      "source_ids": [
+        "joyce-fp",
+        "uk-mca-categorisation-of-waters"
+      ]
+    },
+    {
+      "id": "i8-heart-mallow",
+      "lemma": "The Heart Bowed Down or The Rakes of Mallow",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "美国国会图书馆所藏一份乐谱将首曲列作歌剧《波希米亚女郎》中的歌。该馆另藏题为 The Rakes of Mallow 的录音。两名并列，正文保留曲名。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-heart-bowd-down",
+        "loc-rakes-mallow"
+      ]
+    },
+    {
+      "id": "i8-vermicelli",
+      "lemma": "La Calumnia è un Vermicelli",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "斯泰尔比尼为罗西尼《塞维利亚的理发师》写的歌剧脚本，以轻风 venticello 喻传开的诽谤。这处把轻风换成细面条 Vermicelli，译文保留食物和乐曲两层。",
+      "source_ids": [
+        "joyce-fp",
+        "sterbini-barbiere-act1"
+      ]
+    },
+    {
+      "id": "i8-bankside-song",
+      "lemma": "I badly want a brandnew bankside, bedamp and I do, and a plumper at that!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "两方再三确认听见之后，见证本另起段，以斜体呈现第一人称歌辞。四段相继写换岸、候人、洗袜换钱和奔湾。译文按四段起行，保留人物身体与河岸相叠。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -57,9 +146,11 @@
       "lemma": "Onon! Onon! tell me more. Tell me every tiny teign.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "Onon 双关“on and on（接着讲）”与斡难河（Onon），teign 双关“tiny thing（细微末节）”与英格兰廷河（Teign）；洗衣妇借河名谐音急切催促下文。",
+      "text": "Onon 重叠可听作 on and on「接着讲」，又与斡难河同形。tiny teign 牵出小事与英格兰廷河 Teign，随后 ingul、jagsthole 等继续让水名挤进话缝。正文兼留催促和拟音。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wwf-onon-balj",
+        "ea-teign-kennflood"
       ]
     },
     {
@@ -67,7 +158,7 @@
       "lemma": "a hundred eleven, wan bywan bywan",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "一百一十一个（111）儿女对应安娜·利维亚随后获名 Pluhurabelle（多美之女），wan bywan bywan 谐音“one by one（一个接一个）”与苍白水流（wan）。",
+      "text": "一说只有一百一十一，接着反问一百又几，数目留在传闻里。wan bywan bywan 把 one by one 扭成三拍复沓，也可读出 wan「苍白」。后面孩子、牌点与纸牌客混成一窝，Pluhurabelle 又将多数之意叠入名字。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -77,9 +168,10 @@
       "lemma": "Michael Arklow was his riverend name",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "riverend 叠合 reverend（尊贵的教士）与 river-end（河端），Arklow 为威克洛郡海滨城镇与奥沃卡河入海处，引出隐士在拉格洛山谷抚发亲吻少女安娜的往事。",
+      "text": "riverend 可听作 reverend「教士的尊称」，也可拆成 river 与 end。阿克洛港在奥沃卡河口，地名可与「河端尊号」并读；并无这位隐士的传记断言。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wicklow-arklow-harbour"
       ]
     },
     {
@@ -87,7 +179,7 @@
       "lemma": "The one with the bells on it.",
       "kind": "culture",
       "certainty": "proposal",
-      "text": "洗衣妇检视破损衬裤时认出缀有铃铛的那条裤腿，呼应市井歌谣与调情服饰意象。",
+      "text": "问答从绣字、别针跳到撕破的衬裤，最后才说是哪条裤腿。译文保留铃铛作为核对衣物的具体线索。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -97,7 +189,85 @@
       "lemma": "amstel waiting. Garonne, garonne!",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "amstel waiting 谐音“I am still waiting（我还在等）”与阿姆斯特尔河（Amstel），Garonne 谐音“Go on, go on（快讲，快讲）”与加龙河（Garonne）。",
+      "text": "amstel waiting 可听出 am still waiting；Garonne 的反复又像 go on 的催声。荷兰 Amstel 与法国 Garonne 的水名并入等待、催讲，正文同时留音译和说话动作，与本段开头的河名催声照应。",
+      "source_ids": [
+        "joyce-fp",
+        "amsterdam-amstel-waterway",
+        "sandre-garonne"
+      ]
+    },
+    {
+      "id": "i8-hazelhatchery",
+      "lemma": "the hazelhatchery part. After Clondalkin the Kings's Inns.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hazelhatchery 可拆 Hazelhatch 和 hatchery「孵化场」，下一话便问多少小鱼娃。爱尔兰铁路资料列 Hazelhatch 与 Clondalkin，King’s Inns 校史确认学院名称。本句可让地名和生养并读，未核成一条铁路或河道行程。",
+      "source_ids": [
+        "joyce-fp",
+        "irish-rail-dublin-network",
+        "kings-inns-history"
+      ]
+    },
+    {
+      "id": "i8-casting-perils",
+      "lemma": "Casting her perils before our swains",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《马太福音》7:6 写将珍珠扔在猪面前。这里把 pearls 拧成 perils，把 swine 拧成 swains，珍物成险物，猪群变小伙。正文以「珍险」留两层。",
+      "source_ids": [
+        "joyce-fp",
+        "matthew-7-6-kjv"
+      ]
+    },
+    {
+      "id": "i8-first-ever-burst",
+      "lemma": "Waiwhou was the first thurever burst?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "柯勒律治《古舟子咏》第二部第105–106行写水手头一次冲入寂海；本句保留 first、ever、burst 这一串词形，转作追问谁先闯来。相似处足供对读，诸人身份仍只见问话。",
+      "source_ids": [
+        "joyce-fp",
+        "coleridge-rime-gutenberg"
+      ]
+    },
+    {
+      "id": "i8-tigris-eye",
+      "lemma": "she's sankh neathe the ground with nymphant shame when he gave her the tigris eye!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "tigris 在虎目和底格里斯河之间摆荡。前文说水溅过她，这里又说她羞得仿佛陷入地下；译作「虎眼底格里斯」，保留地貌与人身互换。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-anna-na-poghue",
+      "lemma": "Anna-na-Poghue's of the freckled forehead.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Anna-na-Poghue 近布西科剧名 Arrah-na-Pogue。南佛罗里达大学登记的 1865 年提词本副题为《威克洛婚礼》，专藏导读释为「吻之阿拉」。小说此处连写亲吻，注作可并读的词形线索；未从提词本引认具体场景。",
+      "source_ids": [
+        "joyce-fp",
+        "usf-arrah-na-pogue",
+        "usf-boucicault-collection"
+      ]
+    },
+    {
+      "id": "i8-before-first-of-all",
+      "lemma": "before that, Barefoot Burn and Wallowme Wade",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "叙述反复把所谓头一回向前推，由隐士退到两个小伙，再退到山脊猎犬、保姆熟睡与溢水堰。burn 可作溪，wade 是蹚水，人物动作随之化入河貌。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-she-has-sinned",
+      "lemma": "Baptiste me, father, for she has sinned!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "仿向神父告罪的口吻，却把宽赦动作换成施洗，把罪移到她身上。跟着又提集水圈、衣褶和湿衣，洗衣与宗教用语相挤。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -109,7 +279,7 @@
       "lemma": "she bergened a zakbag, a shammy mailsack",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "zakbag 叠合荷兰语 zak（袋）与英语 bag；shammy mailsack 兼指羚羊皮邮袋与 Shem/Shaun 兄弟音影。安娜向「邮差肖恩」借袋盛礼，引出后文圣诞老人式派礼长段。",
+      "text": "zakbag 并写 zak 和 bag。shammy 可指软皮，又近 Shem 一音；紧接着明说袋与灯光来自邮差肖恩。正文将软皮与人名分开，保留借袋和借光两动作。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -119,7 +289,7 @@
       "lemma": "First she let her hair fal and down it flussed to her feet",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "206–207 页写安娜解发、赤身以河水香泥洗浴、用河草柳枝编花环、以卵石贝壳串饰物并盛装打扮；全段将河流地貌、植物与泥沙转化为女性梳妆细节。",
+      "text": "梳妆先解发，次洗身和给龙骨上油，再编花圈、做腕脚等饰物，末了才画眼唇、抹腮。河名、浅滩和舟身术语夹在身体动作内。乳膏香草与河名相叠，未一一落实指涉。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -129,7 +299,7 @@
       "lemma": "a thousand and one of them, and wickerpotluck for each of them.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "原文此处明言向「一千零一个」（a thousand and one）儿女逐一分赐礼物（呼应《一千零一夜》，有别于 201 页所提「一百一十一个」），随后以长串分号句列举吉普赛·李、谢默斯、双生吉姆、邮差谢默斯·奥肖恩及众少女所得之物。",
+      "text": "这里说一千零一，每人从柳编罐各得一份碰手气的小礼，下一句即逐项点名。此前一百一十一来自问答里的传闻，两处各照原数。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -149,9 +319,131 @@
       "lemma": "But O, gihon! I lovat a gabber.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "gihon 指《创世记》2:13 伊甸四河中的基训河（Gihon），又拟爱尔兰感叹语 go on；lovat 嵌苏格兰洛瓦特河（River Lovat）并谐音 love it。",
+      "text": "《创世记》2:13 的第二条河叫 Gihon。此处 Gihon 穿入听闲话的催声，后面 lovat a gabber 可读作爱听人讲。个别水名与口语的叠法暂存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "kjv-genesis-gihon"
+      ]
+    },
+    {
+      "id": "i8-hausman-jack-house",
+      "lemma": "This is the Hausman all paven and stoned, that cribbed the Cabin that never was owned that cocked his leg and hennad his Egg.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "童谣《杰克造的房子》用 This is 和一串 that 叠句，逐节添一个人物或动作。乔伊斯在铺石人、无主棚、腿和蛋之间沿用这一声音框架，正文分行复沓。",
+      "source_ids": [
+        "joyce-fp",
+        "caldecott-house-that-jack-built"
+      ]
+    },
+    {
+      "id": "i8-caseys-euclid",
+      "lemma": "old Mot Moore, Casey's Euclid and the Fashion Display",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "凯西增注的《欧几里得几何原本前六卷》1885 年第三版有书名和署名可核。此处与老莫尔及服饰刊名一道，入安娜翻阅的小册子清单。另两项保留拟名。",
+      "source_ids": [
+        "joyce-fp",
+        "casey-euclid-1885"
+      ]
+    },
+    {
+      "id": "i8-mulhuddart-vow",
+      "lemma": "By the holy well of Mulhuddart I swear",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "芬戈尔郡议会保护计划第21页收录圣井条目 DU013-009，旧地图称 Lady’s Well。此处借井起誓，随后连能否上天堂也愿拿来押；出处核井名，未据其旧俗解释誓词。",
+      "source_ids": [
+        "joyce-fp",
+        "fingal-mulhuddart-plan"
+      ]
+    },
+    {
+      "id": "i8-hat-gaudyquiviry",
+      "lemma": "a sugarloaf hat with a gaudyquiviry peak",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "帽尖的 gaudyquiviry 兼带 gaudy「花哨」与瓜达尔奎维尔河近音。译文把声与样一起写出；西班牙水文站名表核河名。",
+      "source_ids": [
+        "joyce-fp",
+        "ch-guadalquivir-stations"
+      ]
+    },
+    {
+      "id": "i8-fast-ran",
+      "lemma": "that never was fast till it ran in the washing",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "fast 可说染色牢，run 可说下水走色，却又引出快与跑。译文先说跑色，再转跑快，保留反话。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-boggers",
+      "lemma": "showed natural nigger boggers",
+      "kind": "translation",
+      "certainty": "uncertain",
+      "text": "原词含侮辱性种族称呼，后接近泥沼词根的 boggers，具体衣物或身体指向未定。正文取泥沼与深色两层，这会减弱原处刺耳声层。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-poddle-puddle",
+      "lemma": "Lotsy trotsy, mind the poddle!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "都柏林有波德尔河，poddle 同时近水坑 puddle。叫对方小心脚下时两声可并读，译作「波德尔水坑」。",
+      "source_ids": [
+        "joyce-fp",
+        "dublin-liberties-plan-poddle"
+      ]
+    },
+    {
+      "id": "i8-waveney-line",
+      "lemma": "arundgirond in a waveney lyne",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "waveney 既近波浪起伏，又与英格兰 Waveney 河同形。后续梅德韦、威悉和查塔胡奇也穿进安娜往复的步态；正文「韦弗尼波浪线」留两层。",
+      "source_ids": [
+        "joyce-fp",
+        "broads-waveney"
+      ]
+    },
+    {
+      "id": "i8-fatted-calves",
+      "lemma": "a prodigal heart and fatted calves",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《路加福音》15:22–24 写父亲命人宰一头肥牛犊，庆祝浪子归来。这里送给巴克·琼斯的是浪子心和复数的 calves，可听作牛犊，也可读作一双胖小腿。",
+      "source_ids": [
+        "joyce-fp",
+        "kjv-luke-fatted-calf"
+      ]
+    },
+    {
+      "id": "i8-tale-tub-seal",
+      "lemma": "a tale of a tub!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "这一声与斯威夫特《一桶故事》同题。此处刚念完分礼名单，接着就说裙撑信封与猪肉桶封口，书名响回眼前的桶。",
+      "source_ids": [
+        "joyce-fp",
+        "swift-tale-of-tub"
+      ]
+    },
+    {
+      "id": "i8-coachyard-floss",
+      "lemma": "Lefanu (Sheridan's) old House by the Coachyard and Mill (J.) On Woman with Ditto on the Floss.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "勒法努的原题院子是 Church-Yard「教堂墓地」，小说把它改成 Coachyard「马车场」。随后 Mill 先近约翰·斯图尔特·密尔的妇女论著，再与乔治·艾略特的弗洛斯河磨坊撞在一起。译文保存错题和三者的接续。",
+      "source_ids": [
+        "joyce-fp",
+        "lefanu-house-churchyard",
+        "js-mill-subjection-women",
+        "eliot-mill-floss"
       ]
     }
   ],
@@ -161,7 +453,7 @@
       "lemma": "Look, look, the dusk is growing! My branches lofty are taking root.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "暮色降临，岸边一位洗衣妇感到枝条生根、双腿化为梣木灰（ashley），预示终曲化树（榆树）与化石的平行变形。",
+      "text": "天色长暗，同时说我枝条在生根，下一句又有 ashley。译文保留枝条、梣与灰的影子；两岸后面分别说老如榆、沉如石。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -170,8 +462,8 @@
       "id": "i8-we-are-umbas-all",
       "lemma": "Ussa, Ulla, we're umbas all!",
       "kind": "wordplay",
-      "certainty": "proposal",
-      "text": "Ussa 与 Ulla 嵌入俄罗斯乌萨河与白俄罗斯乌拉河，umbas 兼拟拉丁语 umbrae（幽影、亡魂）与翁布里亚水系声影。",
+      "certainty": "uncertain",
+      "text": "Ussa、Ulla 像水名串声，umbas 可让人想起拉丁语 umbra「阴影、亡魂」。正文保留拟音，再借前句 Animas 引来幽影；具体指哪两条河、是否另含其他地名仍存疑。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -181,7 +473,7 @@
       "lemma": "Anna was, Livia is, Plurabelle's to be.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "将 Anna Livia Plurabelle 三名拆配过去（was）、现在（is）、未来（to be）三时态，紧承前句维柯循环（Ordovico or viricordo）。",
+      "text": "把同一全名分给过去、现在、未来，三个名字随三个时态轮转。前句可读出维柯姓名及 recordo 的记忆联想。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -191,7 +483,7 @@
       "lemma": "My foos won't moos. I feel as old as yonder elm.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "foos/moos 混融德语 Fuß（脚）、英语 foot/move 与青苔（moss）；此妇双脚生根化为岸边老榆树，与下文对岸妇人化为磐石遥相呼应。",
+      "text": "foos 与 moos 把脚和挪动扭成相近的口形，正文用「脚脚不挪挪」摹其顿音。句面仍是自比榆树，和扎根的先兆相照。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -201,7 +493,7 @@
       "lemma": "I feel as heavy as yonder stone.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "另一位洗衣妇头颅低垂、身体沉重如对岸磐石，与前文「老得像对岸那棵榆树」构成树（stem/elm）与石（stone）的终局对峙。",
+      "text": "上一声说老如榆，这一声说沉如石。身体感受与岸边物景越贴越紧；正文保留「像」和未辨出的说话声。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -211,9 +503,42 @@
       "lemma": "Beside the rivering waters of, hitherandthithering waters of. Night!",
       "kind": "sound",
       "certainty": "proposal",
-      "text": "hitherandthithering 以叠音模拟河水往复拍岸之声；介词 of 后宾语隐没于水声与夜色，收束第一卷。",
+      "text": "waters of 从前几次的话尾拖到末句，两次 of 悬着。译文以「……的」留空，不填水名或所有者。前面蝠声、田鼠声穿进人声，末句留下往返的水声和一个「夜」。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "i8-waterhouse-clock",
+      "lemma": "last saw Waterhouse's clogh.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "乔伊斯《都柏林人·两个浪荡汉》提到科利在达姆街的沃特豪斯钟下遇见一名女子。此处把 clock 扭成 clogh，又问拆开的钟几时拼回；出处支持同名钟的并读。",
+      "source_ids": [
+        "joyce-fp",
+        "joyce-dubliners-waterhouse"
+      ]
+    },
+    {
+      "id": "i8-prayer-split",
+      "lemma": "In kingdome gone or power to come or gloria be to them farther?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《公祷书》晚祷中的主祷文将国度、权柄、荣耀并列。这里将三项拆作去、来与再远处的问话，追问孩子散哪去了。",
+      "source_ids": [
+        "joyce-fp",
+        "cofe-bcp-evening-prayer"
+      ]
+    },
+    {
+      "id": "i8-poolbeg-flasher",
+      "lemma": "the Poolbeg flasher beyant, pharphar",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "都柏林港沿革记普尔贝格灯塔。本句把远闪的灯、行船、篱内光与亲人归来一气问出，译文保留未识清的视线。",
+      "source_ids": [
+        "joyce-fp",
+        "dublin-port-poolbeg"
       ]
     }
   ]

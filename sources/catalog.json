@@ -944,5 +944,3655 @@
     "type": "community",
     "accessed": "2026-11-01",
     "use": "本轮读取第29页正文转录并辅助页行校核；页面注解和转引不作独立学术确证，未据此核纸本。"
+  },
+  {
+    "id": "bible-genesis-3-usccb",
+    "title": "USCCB：《创世记》第3章",
+    "url": "https://bible.usccb.org/bible/genesis/3",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核第6、12节交果与吃果。经文未指明水果品种。"
+  },
+  {
+    "id": "ballad-finnegan-wikisource",
+    "title": "《Finnegan’s Wake》歌谣文字见证：Wikisource 转录",
+    "url": "https://en.wikisource.org/w/index.php?title=Finnegan%27s_Wake&oldid=14283743",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核第二节饮酒、头沉、坠梯及头脚酒器摆放，另核末节洒酒、起身和反问。此转录未注明历史谱本。"
+  },
+  {
+    "id": "swift-gulliver-houyhnhnms",
+    "title": "Jonathan Swift, Gulliver’s Travels，第四部「慧骃国」",
+    "url": "https://www.gutenberg.org/files/829/old/829-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核第四部第三章 Houyhnhnm 的拼写及马的形象。与乔伊斯第15页 houhnhymn 的关联属词形推测。"
+  },
+  {
+    "id": "wagner-tristan-act3",
+    "title": "Richard Wagner, Tristan und Isolde，第三幕末",
+    "url": "https://cms.operaballet.be/assets/common/PB-TristanIsolde_Libretto.pdf",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核 Opera Ballet Vlaanderen 德文曲词第118–119页，伊索尔德末段起句及后段波浪、沉没语汇。乔伊斯第18页相应读法仍标推测。"
+  },
+  {
+    "id": "bible-daniel-5-kjv",
+    "title": "《但以理书》5:25–28，King James Version",
+    "url": "https://www.biblegateway.com/passage/?search=Daniel%205%3A25-28&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核读墙上铭文 Mene、Tekel、Upharsin 及米底、波斯分国释文；对照 I.1 018.20–22。"
+  },
+  {
+    "id": "sn12-2-thanissaro",
+    "title": "《相应部》12.2〈缘起分别〉，Thanissaro Bhikkhu 英译",
+    "url": "https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn12/sn12.002.than.html",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核读缘起顺序；对照 I.1 018.24–28 的词链。借用路径待考。"
+  },
+  {
+    "id": "bible-mark-3-17-usccb",
+    "title": "《马可福音》3:17，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/mark/3",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核 Boanerges 的经文释名及原称人物；对读 I.1 022.30 起领主出场。"
+  },
+  {
+    "id": "usccb-exsultet",
+    "title": "复活节宣报 Exsultet，USCCB 英文曲词",
+    "url": "https://www.usccb.org/prayer-worship/liturgical-year/easter/easter-proclamation-exsultet",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核亚当之罪及幸福的过失，供 I.1 023.16 近音互文对读。英文刊本仅作对照。"
+  },
+  {
+    "id": "ucl-book-of-dead-99",
+    "title": "《亡灵书》第99章，UCL Digital Egypt for Universities",
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/hprs99.html",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核冥渡及辨认船件的问答。作为 I.1 026 页船与葬仪的对读材料；尚未证实直接用典。"
+  },
+  {
+    "id": "gutenberg-smollett-titles",
+    "title": "斯摩莱特作品索引，Project Gutenberg",
+    "url": "https://www.gutenberg.org/files/58572/58572-h/58572-h.htm",
+    "type": "catalog",
+    "accessed": "2026-11-14",
+    "use": "核 Roderick Random、Peregrine Pickle 与 Humphry Clinker 三书题名，供 I.1 章末词形对读。"
+  },
+  {
+    "id": "cicero-de-senectute-56",
+    "title": "Cicero, De Senectute §56，LacusCurtius 英译",
+    "url": "https://penelope.uchicago.edu/thayer/e/roman/texts/cicero/cato_maior_de_senectute/text%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核辛辛纳图斯在犁边获知任命的传说；供 I.2 开篇对读。"
+  },
+  {
+    "id": "john-peel-canadian-songbook",
+    "title": "《加拿大士兵歌本》第84首〈John Peel〉，Wikisource 转录",
+    "url": "https://en.wikisource.org/w/index.php?title=The_Canadian_Soldiers%27_Song_Book/John_Peel&oldid=7116754",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "对读衣着、清晨与猎狗猎号。歌辞有异文，本刊本仅供核词。"
+  },
+  {
+    "id": "punch-1891-royal-divorce",
+    "title": "Punch，1891-09-19，〈A Royal (Olympic) Divorce〉",
+    "url": "https://www.gutenberg.org/files/13961/13961-h/13961-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核同期戏评所列编剧及拿破仑、约瑟芬题材。小说中场曲目、团名与场次另待考。"
+  },
+  {
+    "id": "voltaire-epitre-104",
+    "title": "伏尔泰〈致《三骗子之书》作者〉，Garnier 1877 年版",
+    "url": "https://fr.wikisource.org/wiki/%C3%89p%C3%AEtres_(Voltaire)/%C3%89p%C3%AEtre_104",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核《全集》第十卷所收第104封诗简及假设上帝不存在一行。"
+  },
+  {
+    "id": "bible-song-2-1-kjv",
+    "title": "《雅歌》2:1，英王钦定本",
+    "url": "https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%202%3A1&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核沙仑玫瑰一语，供 I.2 段末变形称呼对读。"
+  },
+  {
+    "id": "milton-sonnet-vii-gutenberg",
+    "title": "John Milton，十四行诗 VII，《诗作集》古登堡转录",
+    "url": "https://www.gutenberg.org/files/1745/1745-h/1745-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核卷首十四行诗 VII 末句的大主宰与眼；对读 I.2 第36页未完的所有格。"
+  },
+  {
+    "id": "piesport-wine-municipality",
+    "title": "Piesport 市镇网站，葡萄园与酒名",
+    "url": "https://www.piesport.de/wein/weinlagen",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核地名派生形 Piesporter 在当地酒业中的用法。仅供对比小说 Piessporter，未指认酒款。"
+  },
+  {
+    "id": "msstate-annie-laurie-score",
+    "title": "〈Annie Laurie〉1935 年歌谱馆藏记录",
+    "url": "https://scholarsjunction.msstate.edu/cht-sheet-music/10676/",
+    "type": "catalog",
+    "accessed": "2026-11-14",
+    "use": "核密西西比州立大学馆藏著录所列歌名和首句；未核谱面。"
+  },
+  {
+    "id": "usf-colleen-bawn-promptbook",
+    "title": "Dion Boucicault, The Colleen Bawn，南佛罗里达大学藏提示本",
+    "url": "https://digitalcommons.usf.edu/colleen_bawn/1/",
+    "type": "catalog",
+    "accessed": "2026-11-14",
+    "use": "核馆藏题名、作者及档号；未查剧中曲目。"
+  },
+  {
+    "id": "museum-wales-crwth-39781",
+    "title": "威尔士国家博物馆藏 Crwth，39.78.1",
+    "url": "https://museum.wales/collections/online/object/c2c9c1ca-7d15-3d1f-b7de-0e6966119a89/Crwth/",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核实物名称与弓奏记载，对读小说 crewth fiddle。"
+  },
+  {
+    "id": "morris-woodman-rpo",
+    "title": "George Pope Morris，〈Woodman, Spare that Tree!〉，RPO 原诗",
+    "url": "https://rpo.library.utoronto.ca/content/woodman-spare-tree",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核原诗开头的护树呼告，供 I.2 第42页对读。"
+  },
+  {
+    "id": "grover-mother-goose-humpty",
+    "title": "Eulalie Osgood Grover 编《Mother Goose》页79，古登堡转录",
+    "url": "https://www.gutenberg.org/files/24623/24623-h/24623-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-14",
+    "use": "核亨普蒂童谣中坠落及国王人马未能拼合的结尾，供 I.2 首节及章末对读。"
+  },
+  {
+    "id": "caesar-gallic-war-1-16-dcc",
+    "title": "凯撒《高卢战记》1.16，Dickinson College 拉丁原文",
+    "url": "https://dcc.dickinson.edu/podcasts/caesar-bg-1-16-read-aloud-jr",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核1.16.5 利斯库斯任职及 Vergobretum 原词，供 I.3 第48页对读。"
+  },
+  {
+    "id": "nli-oconnell-desterre-duel-print",
+    "title": "爱尔兰国家图书馆藏决斗版画，PD 2120 TX (1) 7(B)",
+    "url": "https://catalogue.nli.ie/Record/vtls000170479/HoldingsILS",
+    "type": "catalog",
+    "accessed": "2026-11-15",
+    "use": "核版画馆藏著录的人名、年代及决斗结果；未据之确认乔伊斯所指衣饰。"
+  },
+  {
+    "id": "bible-2kings-9-20-kjv",
+    "title": "《列王纪下》9:20，英王钦定本",
+    "url": "https://www.biblegateway.com/passage/?search=2+Kings+9%3A20&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核瞭望者凭驾车认出耶户，供 I.3 车行段对读。"
+  },
+  {
+    "id": "goldsmith-traveller-ecpa",
+    "title": "Oliver Goldsmith，〈The Traveller〉，Eighteenth-Century Poetry Archive",
+    "url": "https://www.eighteenthcenturypoetry.org/works/o5346-w0010.shtml",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核首行四项措辞与 I.3 第56页的分用。"
+  },
+  {
+    "id": "horace-odes-3-30",
+    "title": "Horatius，Carmina III.30",
+    "url": "https://www.mqdq.it/testo/testo/ordinata/pf501969",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "Musisque Deoque 数字版，底本 F. Klingner（1959），G. C. Musa 整理（2009）。",
+    "use": "核第1行 Exegi monumentum aere perennius，与《守灵夜》057页夸功碑一语对读。"
+  },
+  {
+    "id": "criminal-law-amendment-act-1885",
+    "title": "英国《1885 年刑法修正法》原刊",
+    "type": "primary",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/48_and_49_Victoria_Criminal_Law_Amendment_Act_1885.pdf",
+    "accessed": "2026-11-15",
+    "edition": "48 & 49 Vict. c. 69，1885 年刊本扫描。",
+    "use": "核印刷页 6–7，第 11 条一段到底，无第 32 款。供 I.3 核小说中女侦探的引条。"
+  },
+  {
+    "id": "ephesians-6-usccb",
+    "title": "《以弗所书》第6章",
+    "url": "https://bible.usccb.org/bible/ephesians/6",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "NABRE 英译，USCCB 在线版。",
+    "use": "对读6:2–3带应许的诫命与长寿。"
+  },
+  {
+    "id": "papyrus-ani-budge-1913-iii",
+    "title": "阿尼纸草书，E. A. Wallis Budge 英译注，第3卷",
+    "url": "https://www.sabrizain.org/egypt/references/Papyrus%20of%20Ani%20Vol%20III%2C%20Budge%2C%201913.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "1913 年版扫描。",
+    "use": "读印刷页355章题与脚注，并读第十七章开头的 Amentet、白昼出行。"
+  },
+  {
+    "id": "revelation-6-usccb",
+    "title": "《启示录》第6章",
+    "url": "https://bible.usccb.org/bible/revelation/6",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "NABRE 英译，USCCB 在线版。",
+    "use": "读6:12第六印揭开、太阳变黑。"
+  },
+  {
+    "id": "bunn-bohemian-girl-act2",
+    "title": "Alfred Bunn，The Bohemian Girl，第二幕",
+    "url": "https://en.wikisource.org/wiki/The_Bohemian_Girl_(Bunn)",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读阿琳醒后所唱咏叹调，比对梦中厅堂与财富。"
+  },
+  {
+    "id": "joyce-dubliners-clay",
+    "title": "James Joyce，Dubliners，〈Clay〉",
+    "url": "https://www.gutenberg.org/files/2814/2814-h/2814-h.htm#chap10",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读篇末玛丽亚在钢琴旁重唱第一节。"
+  },
+  {
+    "id": "bible-genesis-4-usccb",
+    "title": "《创世记》第4章",
+    "url": "https://bible.usccb.org/bible/genesis/4",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "NABRE 英译，USCCB 在线版。",
+    "use": "核4:20–22雅巴尔、犹巴尔、土巴该隐三人的次序及所司。"
+  },
+  {
+    "id": "ucc-pursuit-diarmaid-grainne",
+    "title": "Tóruigheacht Dhiarmada agus Ghráinne，科克大学 Irish Sagas 节选",
+    "url": "https://iso.ucc.ie/Toruigheacht-grainne/Toruigheacht-grainne-text.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读 §1.3、§1.7；核芬恩求婚及格劳妮娅要求迪尔姆德带她离开。"
+  },
+  {
+    "id": "oates-perjury-trial-1685",
+    "title": "泰特斯·奥茨伪证案审判记录，1685",
+    "url": "https://www.prisms.digital/static/A63215",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读起诉书所述奥茨证言及庭上宣读的第54条。供核历史姓名及其证词语境。"
+  },
+  {
+    "id": "italia-ear-dionysius",
+    "title": "Italia.it：Orecchio di Dionisio",
+    "url": "https://www.italia.it/it/sicilia/siracusa/orecchio-di-dionisio",
+    "type": "catalog",
+    "accessed": "2026-11-15",
+    "use": "核叙拉古采石场人工洞、回声及偷听传说的标注。"
+  },
+  {
+    "id": "odyssey-9-butler",
+    "title": "荷马《奥德赛》第九卷，Samuel Butler 英译",
+    "url": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "对读自报「无人」、刺眼与巨人投岩石三处。"
+  },
+  {
+    "id": "bible-genesis-22-usccb",
+    "title": "《创世记》第22章，USCCB 在线英译",
+    "url": "https://bible.usccb.org/bible/genesis/22",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核22:1天主呼名与亚伯拉罕应答。"
+  },
+  {
+    "id": "bible-genesis-23-usccb",
+    "title": "《创世记》第23章",
+    "url": "https://bible.usccb.org/bible/genesis/23",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读23:17–20，麦比拉田、洞和撒拉安葬。"
+  },
+  {
+    "id": "hrp-tower-london-plan",
+    "title": "Historic Royal Palaces，伦敦塔管理计划",
+    "url": "https://www.hrp.org.uk/media/1490/2016-03-31_tol_whsmanagementplan_v1.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读第2.2节示意图标注及衣橱塔说明。"
+  },
+  {
+    "id": "historic-england-tower-london",
+    "title": "Historic England，伦敦塔登记条目 1002061",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1002061?section=official-list-entry",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核建筑描述中的衣橱塔、狮塔遗迹。"
+  },
+  {
+    "id": "gregory-gods-fighting-men-cian",
+    "title": "Augusta Gregory，Gods and Fighting Men，基安遇害段",
+    "url": "https://www.gutenberg.org/files/14465/14465-h/14465-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "对读六次吐尸、第七次入土一节。所见为格雷戈里重述。"
+  },
+  {
+    "id": "loc-johnny-hardly-knew-ye",
+    "title": "Johnny, I Hardly Knew Ye，国会图书馆藏歌本",
+    "url": "https://tile.loc.gov/storage-services/service/afc/afc1928004/afc1928004_099/afc1928004_099.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核印刷页5–6，认不出、少鸡的蛋与碗三处。"
+  },
+  {
+    "id": "christ-church-conservation-organ",
+    "title": "都柏林基督堂，Conservation Management Plan",
+    "url": "https://christchurchcathedral.ie/wp-content/uploads/2023/07/CMP-Christ-Church-Cathedral-2023.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第2.8.9节现管风琴之前的改装与猫鼠发现记载。"
+  },
+  {
+    "id": "hansard-pigott-hesitency-1910",
+    "title": "Hansard，英国下院 1910-04-21 辩论记录",
+    "url": "https://hansard.parliament.uk/%E2%80%8CCommons/1910-04-21/debates/2c18fd28-5554-45b5-8d92-0588d6ac8a91/SirRobertAndersonAndTheTimesArticles",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "读议员引帕内尔伪信并追述皮戈特的 hesitency 拼法。所读为 1910 年辩论，非原审证词。"
+  },
+  {
+    "id": "niah-dublin-butt-bridge",
+    "title": "爱尔兰国家建筑遗产名录：都柏林巴特桥",
+    "url": "https://www.buildingsofireland.ie/buildings-search/building/50060554/butt-bridge-dublin-1-2-dublin",
+    "type": "catalog",
+    "accessed": "2026-11-15",
+    "use": "核桥横跨利菲河；不据现桥条目重构小说时代的桥况。"
+  },
+  {
+    "id": "tennyson-light-brigade-rpo",
+    "title": "丁尼生〈轻骑兵冲锋〉，多伦多大学 RPO",
+    "url": "https://rpo.library.utoronto.ca/content/charge-light-brigade-3",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第二节第14行。"
+  },
+  {
+    "id": "vegetius-epitoma-iii-prol",
+    "title": "Vegetius，Epitoma rei militaris，第三卷序",
+    "url": "https://www.tha.de/~harsch/Chronologia/Lspost04/Vegetius/veg_epi3.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核序言 qui desiderat pacem 一句，与小说缀写的词形对读。"
+  },
+  {
+    "id": "folger-comedy-errors-5-1",
+    "title": "莎士比亚《错误的喜剧》第五幕第一场，Folger 本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/the-comedy-of-errors/read/5/1/",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核两位德罗米奥在剧末谈兄弟与镜像。"
+  },
+  {
+    "id": "bible-genesis-1-usccb",
+    "title": "《创世记》第1章，USCCB 在线英译",
+    "url": "https://bible.usccb.org/bible/genesis/1",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "对读1:3发令生光句式。"
+  },
+  {
+    "id": "odonaill-meirdreach",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，meirdreach",
+    "url": "https://www.teanglann.ie/en/fgb/meirdreach",
+    "type": "dictionary",
+    "accessed": "2026-11-15",
+    "use": "核词目释义。"
+  },
+  {
+    "id": "odonaill-uisce",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，uisce",
+    "url": "https://www.teanglann.ie/en/fgb/uisce",
+    "type": "dictionary",
+    "accessed": "2026-11-15",
+    "use": "核第2义 b：uisce beatha。"
+  },
+  {
+    "id": "augustine-parmenian-iii-24",
+    "title": "奥古斯丁，Contra epistulam Parmeniani，卷三",
+    "url": "https://www.augustinus.it/latino/contro_parmeniano/contro_parmeniano_3_libro.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第24节拉丁引句。"
+  },
+  {
+    "id": "bible-1kings-17-usccb",
+    "title": "《列王纪上》第17章，USCCB 在线英译",
+    "url": "https://bible.usccb.org/bible/1kings/17",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核17:6乌鸦送食。"
+  },
+  {
+    "id": "univie-fugger-newsletters",
+    "title": "维也纳大学：Die Fuggerzeitungen 整理项目",
+    "url": "https://fuggerzeitungen.univie.ac.at/en/node?page=0%2C1%2C0%2C0%2C0",
+    "type": "catalog",
+    "accessed": "2026-11-15",
+    "use": "核通讯集合背景。"
+  },
+  {
+    "id": "tcd-magrath-collection",
+    "title": "都柏林圣三一学院学术与艺术藏品清单",
+    "url": "https://www.tcd.ie/artcollections/assets/pdf/Academic-Artistic-Collections-TCD.pdf",
+    "type": "catalog",
+    "accessed": "2026-11-15",
+    "use": "核清单中 Cornelius Magrath 的姓名及生卒年。"
+  },
+  {
+    "id": "bible-psalm-137-usccb",
+    "title": "《诗篇》第137篇（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/psalms/137",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第1–2节巴比伦水边、挂琴与树的组合；I.4章末与原作悬心句对照。"
+  },
+  {
+    "id": "bible-2kings-5-usccb",
+    "title": "《列王纪下》第5章（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/2kings/5",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第14节乃缦下约旦河浸浴七次；据该页索引所列节文核对。"
+  },
+  {
+    "id": "quran-fatihah-1",
+    "title": "《古兰经》开端章第1节",
+    "url": "https://quran.com/al-fatihah/1",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "Quran.com 阿拉伯原文及 Mustafa Khattab 英译。",
+    "use": "核奉名格式及慈悯称名；与 I.5 章首呼告对读。"
+  },
+  {
+    "id": "bible-matthew-6-usccb",
+    "title": "《马太福音》第6章",
+    "url": "https://bible.usccb.org/bible/matthew/6",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "NABRE 英译，USCCB 在线版。",
+    "use": "核第9–10节主祷文起句及祈愿次序。"
+  },
+  {
+    "id": "book-dead-budge-water-transcript",
+    "title": "《亡灵书》审判章英译网页转录",
+    "url": "https://rapeutation.com/egyptbookofdead6.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "网页归入 Budge／Faulkner 汇编；此处据转录，印刷页待核。",
+    "use": "对读审判陈述及向 Ari-em-ab-f 所作不拦水否认；不据此指定乔伊斯读过哪一版本。"
+  },
+  {
+    "id": "darmstadt-elberfeld-horses-1912",
+    "title": "Denkende Pferde，1912 年《达姆施塔特日报》",
+    "url": "https://exist.ulb.tu-darmstadt.de/3/v/pa000218-0208",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核 1912 年 9 月 3 日报纸同题报道开头，克拉尔在埃尔伯费尔德试验所谓算术马；该报道对能力持怀疑。"
+  },
+  {
+    "id": "aristotle-poetics-butcher-25",
+    "title": "亚里士多德《诗学》第25章，S. H. Butcher 英译",
+    "url": "https://classics.mit.edu/Aristotle/poetics.3.3.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第25章可信而不可能与可能而不可信的对举，用于 I.5 第110页比较。"
+  },
+  {
+    "id": "nmi-ardagh-chalice",
+    "title": "爱尔兰国家博物馆，阿达圣杯藏品说明",
+    "url": "https://source.museum.ie/en-IE/Collections-Research/Collection/The-Treasury/Artefact/The-Ardagh-Chalice/ac53e68e-76a4-4560-a624-c87647c57a00",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核阿达出土物在利默里克郡阿达附近由掘马铃薯的人发现，供 I.5 圣杯与掘薯互文比较。"
+  },
+  {
+    "id": "newman-pillar-of-the-cloud",
+    "title": "John Henry Newman, The Pillar of the Cloud",
+    "url": "https://rpo.library.utoronto.ca/content/pillar-cloud",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "edition": "多伦多大学图书馆 RPO 转录，所列底本为 The Dream of Gerontius and Other Poems（1914），第141页。",
+    "use": "核第1行 Lead, Kindly Light，同 I.5 慈禽句对读。"
+  },
+  {
+    "id": "bible-mark-8-usccb",
+    "title": "《马可福音》第8章（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/mark/8",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第18节眼／看与耳／听的对举，与 I.5 感官错置句对读。"
+  },
+  {
+    "id": "horace-ars-poetica-97",
+    "title": "贺拉斯《诗艺》，第91–120行",
+    "url": "https://texts.alpheios.net/text/urn%3Acts%3AlatinLit%3Aphi0893.phi006.perseus-lat2/passage/91-120",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核拉丁文第97行 sesquipedalia verba，供 I.5 尺半长词对读。"
+  },
+  {
+    "id": "academie-pouvoir-jeunesse",
+    "title": "法兰西学院词典第八版，POUVOIR 条",
+    "url": "https://www.cnrtl.fr/definition/academie8/pouvons",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核条内法语谚语及其知与力分别归于青年、老年的释义。"
+  },
+  {
+    "id": "unibo-vico-wake-names",
+    "title": "博洛尼亚大学维柯虚拟展，Finnegans Wake 中的维柯名",
+    "url": "https://exhibits.ficlit.unibo.it/s/ricezione-vico/page/-finnegan-s-wake-citazioni-del-nome-di-vico",
+    "type": "commentary",
+    "accessed": "2026-11-15",
+    "use": "核展文引117.11–12并列姓名之句及维柯名的变形解释。"
+  },
+  {
+    "id": "bible-daniel-5-usccb",
+    "title": "《但以理书》第5章（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/daniel/5",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第5–8节宫墙落字、召人辨识与不得解，供 I.5 第118页对读。"
+  },
+  {
+    "id": "unicode-letterlike-turned-f",
+    "title": "Unicode Letterlike Symbols 编码表",
+    "url": "https://www.unicode.org/Public/UCD/latest/charts/nameslist/2100/",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核 U+2132 Ⅎ 为倒置大写 F，U+214E ⅎ 为相应小写；用于区分工程字符和见证图，不作历代手稿同一性证明。"
+  },
+  {
+    "id": "tcd-kells-tunc-124r",
+    "title": "都柏林三一学院展陈记录，《凯尔经》124r 叶",
+    "url": "https://www.tcd.ie/news_events/articles/trinity-welcomes-the-french-prime-minister-manuel-valls/",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "据馆方展陈说明收录的叶号、经节与拉丁文转录，核 Tunc 叶为 124r；未据此核图像。"
+  },
+  {
+    "id": "bible-matthew-18-usccb",
+    "title": "《马太福音》第18章（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/matthew/18",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第19–20节二人共求、二三人聚集，供 I.5 三队与两人成伴句比较。"
+  },
+  {
+    "id": "birmingham-jim-the-penman-programme",
+    "title": "伯明翰大学馆藏《Jim the Penman》演出节目单目录",
+    "url": "https://calmview.bham.ac.uk/Record.aspx?id=XMS108%2F1%2F118&src=CalmView.Catalog",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核 MS108/1/118 目录所载剧名、Charles L. Young 与1886年皇家干草市场剧院演出。未据此主张乔伊斯看过该剧。"
+  },
+  {
+    "id": "cicero-pro-archia-19",
+    "title": "西塞罗《为阿尔基亚斯辩护》第19节",
+    "url": "https://gmr.sourceforge.net/perseus/cicero/pro_archia.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核正文19节数城争认荷马故乡；不据该段逐个指定 Joyce 七个变形地名。"
+  },
+  {
+    "id": "poe-raven-whittaker",
+    "title": "爱伦·坡《乌鸦》，1848年 Whittaker 手稿转录",
+    "url": "https://www.eapoe.org/works/poems/ravenr.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核巴尔的摩爱伦·坡学会所转录手稿中的复沓 Nevermore，供 I.6 对读。"
+  },
+  {
+    "id": "hansard-phoenix-park-1882",
+    "title": "英国下院会议录，凤凰公园遇刺案，1882年6月19日",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1882/jun/19/the-assassinations-in-the-phoenix-park",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核下院询答所列伯克、卡文迪什与凤凰公园案背景，不据此坐实小说动词。"
+  },
+  {
+    "id": "sefaria-genesis-6-17-mabbul",
+    "title": "《创世记》6:17，Sefaria 希伯来文与英译",
+    "url": "https://www.sefaria.org/Genesis.6.17?lang=bi&with=Translations",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核本节希伯来文 הַמַּבּוּל 与英译大洪水义，供 I.6 Mabbul 对读。"
+  },
+  {
+    "id": "bible-genesis-11-usccb",
+    "title": "《创世记》第11章（USCCB 英译）",
+    "url": "https://bible.usccb.org/bible/genesis/11",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第3–4节烧砖筑城塔，与 I.6 第一问巴比伦砖对读。"
+  },
+  {
+    "id": "cork-shandon-bells",
+    "title": "科克市议会，尚登圣安妮教堂与钟",
+    "url": "https://www.corkcity.ie/en/cork-heritage-open-day/buildings/sacred-spaces/st-anne-s-church-shandon/",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核科克尚登圣安妮教堂及钟所指，供第四问钟塔声影对读。"
+  },
+  {
+    "id": "loc-foster-old-black-joe-score",
+    "title": "美国国会图书馆藏《Old Black Joe》谱页",
+    "url": "https://tile.loc.gov/storage-services/service/afc/afc1928004/afc1928004_324/afc1928004_324.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核谱页所列 Stephen C. Foster 与曲名、副歌反复，供第五问 Pore ole Joe 对读。"
+  },
+  {
+    "id": "mjp-new-freewoman-1913",
+    "title": "Modernist Journals Project，《The New Freewoman》期刊档案",
+    "url": "https://modjourn.org/journal/new-freewoman/",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核目录列1913年同名期刊，未据此认定虚构读者读过哪一期。"
+  },
+  {
+    "id": "stoker-dracula-gutenberg",
+    "title": "Bram Stoker，《Dracula》古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/45839/pg45839-images.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核书名与作者名，供 I.6 Brimstoker 和 Dracula 两名并列时对读。"
+  },
+  {
+    "id": "bcp-1662-matrimony",
+    "title": "英国国教《公祷书》（1662）婚礼仪式",
+    "url": "https://www.churchofengland.org/liturgy/book-of-common-prayer/form-solemnization-matrimony",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核戴戒指时的传统誓词与身体敬礼句式，供 I.6 独白末尾对读。"
+  },
+  {
+    "id": "loc-aesop-fox-and-grapes",
+    "title": "美国国会图书馆，《狐狸与葡萄》英语转述",
+    "url": "https://read.gov/aesop/005.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核狐狸跳摘葡萄、失手后称酸的寓言情节，用于 I.6 寓言标题与后段对读；未指定乔伊斯所读版本。"
+  },
+  {
+    "id": "wion-lignum-vitae-1595-p307",
+    "title": "Arnold Wion，《Lignum vitae》1595年刊本第二书，第307页",
+    "url": "https://commons.wikimedia.org/wiki/File:Arnold_Wion_-_Lignum_Vitae_-_1595_-_p307.jpg",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核里昂公共图书馆藏本扫描页。该页分别列出 De rure albo 与 Adrianus iiij、Sus in cribro 与 Urbanus iij。刊本署名不作作者身份凭证。"
+  },
+  {
+    "id": "westminster-adrian-iv",
+    "title": "天主教威斯敏斯特总教区，《Adrian IV: English Pope and Son of Westminster》",
+    "url": "https://rcdow.org.uk/news/adrian-iv-english-pope-and-son-of-westminster/",
+    "type": "commentary",
+    "accessed": "2026-11-15",
+    "use": "核 Nicholas Breakspear 与 Adrian IV 为同一人；不据此裁断书中 laudibiliter 所涉文书传本。"
+  },
+  {
+    "id": "duke-eastburn-little-brown-jug",
+    "title": "Eastburn，《The Little Brown Jug》，杜克大学图书馆歌词转录",
+    "url": "https://library.duke.edu/rubenstein/scriptorium/sheetmusic/lyrics/Eastburn__Little_brown_jug.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核约1869年乐谱所载副歌，对照 I.6 溪流吟唱。"
+  },
+  {
+    "id": "vatican-quas-primas",
+    "title": "庇护十一世，《Quas primas》，1925年12月11日",
+    "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核通谕题名与第28–29节基督君王节规定，用于 I.6 辩论段。"
+  },
+  {
+    "id": "wion-lignum-vitae-1595-p311",
+    "title": "Arnold Wion，《Lignum vitae》1595年刊本第二书，第311页",
+    "url": "https://commons.wikimedia.org/wiki/File:Arnold_Wion_-_Lignum_Vitae_-_1595_-_p311.jpg",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核里昂公共图书馆藏本扫描页。顶部天露列乌尔班七世，中栏攫鹰与犬蛇相邻且无配名。"
+  },
+  {
+    "id": "vatican-nova-vulgata-gen27",
+    "title": "教廷《新拉丁通俗本·创世记》27:28",
+    "url": "https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vt_genesis_lt.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核以撒祝福雅各所说 de rore caeli。供拉丁词形对读，不指认乔伊斯用本。"
+  },
+  {
+    "id": "npg-cornwallis-west-d45689",
+    "title": "英国国家肖像馆 NPG D45689，《名利场》康沃利斯—韦斯特夫人版画目录",
+    "url": "https://www.npg.org.uk/collections/search/portrait/mw260135/Jeanette-Jennie-Churchill-ne-Jerome-Lady-Randolph-Churchill-Women-of-the-Day-No-2299-Mrs-George-Cornwallis-West",
+    "type": "archive",
+    "accessed": "2026-11-15",
+    "use": "核1912年11月20日刊载、称谓与目录所辨人物；未认定原文动作源自此图。"
+  },
+  {
+    "id": "tlfi-nuee",
+    "title": "《法语语言宝库》nuée 条",
+    "url": "https://www.cnrtl.fr/definition/nu%C3%A9e",
+    "type": "commentary",
+    "accessed": "2026-11-15",
+    "use": "核 A.1 所列大范围雨云与小云两义。"
+  },
+  {
+    "id": "and-romescot",
+    "title": "《盎格鲁—诺曼语词典》Romescot 条",
+    "url": "https://www.anglo-norman.net/entry/Romescot",
+    "type": "commentary",
+    "accessed": "2026-11-15",
+    "use": "核词条所引中古文献及对应彼得便士的词义。"
+  },
+  {
+    "id": "clementine-vulgate-isa7",
+    "title": "《克莱孟通俗本·以赛亚书》7:15",
+    "url": "https://www.biblegateway.com/passage/?search=Isaias+7%3A15-17&version=VULGATE",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核乔伊斯引句与拉丁经文词序，标点有别；未据此认定所用印本。"
+  },
+  {
+    "id": "cusanus-docta-ignorantia",
+    "title": "库萨的尼古拉，《De docta ignorantia》，Cusanus-Portal",
+    "url": "https://cusanus-portal.de/content/werke.php?werk=13",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核拉丁题名，供 learned ignorants 对读。"
+  },
+  {
+    "id": "cusanus-possest-latin",
+    "title": "库萨的尼古拉，《Trialogus de possest》拉丁转录",
+    "url": "https://la.wikisource.org/wiki/Trialogus_de_possest",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核陀螺及动圈、定圈所示时间与永恒，对应 Hopkins 英译分节 §18–20。"
+  },
+  {
+    "id": "bruno-eroici-furori",
+    "title": "焦尔达诺·布鲁诺，《De gli eroici furori》意大利文转录",
+    "url": "https://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Bruno/Furori.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核卷首自称 Nolano 及正文第一对话的发言人。"
+  },
+  {
+    "id": "bruno-causa-teofilo",
+    "title": "焦尔达诺·布鲁诺，《De la causa, principio et uno》意大利文转录",
+    "url": "https://www.ousia.it/content/Sezioni/Testi/BrunoDeLaCausaPrincipioEUno.pdf",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第一对话发言人说明、第二对话德奥菲洛与狄克索诺开场。"
+  },
+  {
+    "id": "kjv-samuel9",
+    "title": "《钦定本·撒母耳记上》9:1–10",
+    "url": "https://www.biblegateway.com/passage/?search=1+Samuel+9%3A1-10&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核9:3基士命扫罗寻走失的驴，与小说改说对照。"
+  },
+  {
+    "id": "folger-julius-caesar",
+    "title": "莎士比亚，《裘力斯·凯撒》，福尔杰莎士比亚图书馆本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第三幕第一场安东尼、布鲁图斯与卡西乌斯同场，供姓名对照。"
+  },
+  {
+    "id": "plutarch-romulus18",
+    "title": "普鲁塔克，《罗慕路斯传》18.1，Perrin 英译",
+    "url": "https://penelope.uchicago.edu/thayer/e/roman/texts/plutarch/lives/romulus%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核卡皮托尔峭壁名及刑罚叙述。"
+  },
+  {
+    "id": "bruns-twelve-tables",
+    "title": "Bruns 辑《十二铜表法》残文，格勒诺布尔阿尔卑斯大学罗马法资料库",
+    "url": "https://droitromain.univ-grenoble-alpes.fr/Leges/twelve_Bruns.html",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核本辑第三表第7条、第六表第1条及第八表第21条，供 I.6 拟法言与问答对读。"
+  },
+  {
+    "id": "goldsmith-vicar-gutenberg",
+    "title": "奥利弗·戈德史密斯，《威克菲尔德牧师》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/2667/2667-h/2667-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核第二十四章插歌首句，与 I.7 猜答对读。"
+  },
+  {
+    "id": "yeats-poems-gutenberg",
+    "title": "W. B. 叶芝，《诗集》之《当你老了》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/38877/38877-h/38877-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核首行年老、白发与睡意，转录拼 gray，小说作 grey。"
+  },
+  {
+    "id": "ibsen-dead-awaken-archer",
+    "title": "亨里克·易卜生，《当我们死者醒来》，威廉·阿彻英译",
+    "url": "https://www.gutenberg.org/files/4782/4782-h/4782-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核英译题及第二幕伊雷娜同句台词。未认定 Joyce 所用英译本。"
+  },
+  {
+    "id": "kjv-matthew27-51",
+    "title": "《钦定本·马太福音》27:51",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+27%3A51&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核受难叙事中的磐石崩裂。"
+  },
+  {
+    "id": "kjv-psalm92-12",
+    "title": "《钦定本·诗篇》92:12",
+    "url": "https://www.biblegateway.com/passage/?search=Psalm+92%3A12&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-15",
+    "use": "核繁茂与黎巴嫩雪松的相邻意象。"
+  },
+  {
+    "id": "kjv-samuel18-1-4",
+    "title": "《钦定本·撒母耳记上》18:1–4",
+    "url": "https://www.biblegateway.com/passage/?search=1+Samuel+18%3A1-4&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核大卫与约拿单相爱立约，供 I.7 电文对照。"
+  },
+  {
+    "id": "academie-canaille-7",
+    "title": "《法兰西学术院词典》第七版，canaille",
+    "url": "https://www.dictionnaire-academie.fr/article/A7C0296",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核辱称人群的旧词义，不据此落实小说影射。"
+  },
+  {
+    "id": "academie-perce-oreille",
+    "title": "《法兰西学术院词典》第九版，perce-oreille",
+    "url": "https://www.dictionnaire-academie.fr/article/A9P1455",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核法语蠼螋俗名。"
+  },
+  {
+    "id": "goldsmith-deserted-village",
+    "title": "戈德史密斯，《荒村》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/49325/old/49325-h/49325-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核诗首对 Auburn 的呼告，供 I.7 荒村与双重 Auborne 对读。 II.2 第265页核第1、10—12行，联读页首奥本与页末平原蜃景。"
+  },
+  {
+    "id": "gomme-games-v1",
+    "title": "戈姆，《英格兰、苏格兰及爱尔兰传统游戏》第一卷",
+    "url": "https://www.gutenberg.org/files/41727/old/41727-h/41727-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Fox and Goose (1) 所录埃金顿有洞的追逐玩法。"
+  },
+  {
+    "id": "gomme-games-v2",
+    "title": "戈姆，《英格兰、苏格兰及爱尔兰传统游戏》第二卷",
+    "url": "https://www.gutenberg.org/cache/epub/41728/pg41728-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Marylebone 所录八点邮差敲门童谣。"
+  },
+  {
+    "id": "kant-groundwork-abbott",
+    "title": "康德，《道德形而上学奠基》，Abbott 英译",
+    "url": "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第二节 categorical imperative 与 maxim 同现。"
+  },
+  {
+    "id": "kotus-talvi",
+    "title": "芬兰语言研究所《芬兰语词典》talvi 条",
+    "url": "https://www.kielitoimistonsanakirja.fi/talvi",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核词条释为秋与春之间的季节。"
+  },
+  {
+    "id": "ulysses-gutenberg-4300",
+    "title": "乔伊斯，《尤利西斯》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/4300/4300-h/4300-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核伊萨卡章布卢姆至埃克尔斯街7号找钥匙。"
+  },
+  {
+    "id": "moli-ulysses-copy1",
+    "title": "爱尔兰文学博物馆，《尤利西斯》首版第1号藏本",
+    "url": "https://moli.ie/exhibitions/copy-no-1",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核馆方对1922年首版第1号和蓝封的著录。"
+  },
+  {
+    "id": "treccani-puzzo",
+    "title": "Treccani 意大利语词典，puzzo 条",
+    "url": "https://www.treccani.it/vocabolario/puzzo/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核名词指臭气。"
+  },
+  {
+    "id": "treccani-pozzo",
+    "title": "Treccani 意大利语词典，pozzo 条",
+    "url": "https://www.treccani.it/vocabolario/pozzo/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核井及其他凿掘义。"
+  },
+  {
+    "id": "kjv-mark3-17",
+    "title": "《钦定本·马可福音》3:17",
+    "url": "https://www.biblegateway.com/passage/?search=Mark+3%3A17&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Boanerges 与复数「雷之子」。"
+  },
+  {
+    "id": "folger-hamlet-3-1",
+    "title": "莎士比亚，《哈姆雷特》第三幕第一场，福尔杰本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/1/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第1762行独白起句，供 I.7 拟独白比较。 II.2第269页核 To me or not to me 的拟台词。"
+  },
+  {
+    "id": "duden-nix",
+    "title": "《杜登词典》nix 条",
+    "url": "https://www.duden.de/rechtschreibung/nix",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核词类、口语标记和 nichts 义，与拟词的近音对读。"
+  },
+  {
+    "id": "joyce-tower-gas-burner",
+    "title": "詹姆斯·乔伊斯塔馆，《炉头喷出的气》藏品说明",
+    "url": "https://joycetower.ie/collection/artefacts/jtaa_0011-gas-from-a-burner",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核藏品说明所载1912年 Roberts、Maunsel 与《都柏林人》出版事。"
+  },
+  {
+    "id": "auberge-mere-poulard",
+    "title": "普拉尔妈妈旅馆，圣米歇尔山餐馆沿革",
+    "url": "https://www.aubergelamerepoulard.com/restaurant-au-mont-st-michel/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核店方沿革所列安内特·普拉尔与招牌蛋卷。"
+  },
+  {
+    "id": "altus-prosator-ah-216",
+    "title": "传科伦巴，《Altus prosator》，《Analecta Hymnica》第51卷第216首",
+    "url": "https://catholiclibrary.org/library/view?chunk.id=00000447&docId=%2FMedieval-OR%2FAnHymAuthorLIThesauriHymnologiciHymnariumAnalectaHymnica.00000099.la.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核赞歌开头 altus prosator 与创世语境。"
+  },
+  {
+    "id": "clementine-vulgate-psalm44",
+    "title": "《克莱孟通俗本·诗篇》44:2",
+    "url": "https://www.biblegateway.com/passage/?search=Psalmi+44%3A2&version=VULGATE",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核诗节中舌与疾书文士之笔；此句前另有文字。"
+  },
+  {
+    "id": "wilde-dorian-gray-gutenberg",
+    "title": "奥斯卡·王尔德，《道林·格雷的画像》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/174/174-h/174-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第一章对话中的 Dorian Gray 称名，以及末章青春肖像与衰朽肉身并置。"
+  },
+  {
+    "id": "vulgate-ecclesiastes-1-2",
+    "title": "《拉丁通俗本·传道书》1:2",
+    "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A2&version=VULGATE",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 vanitas vanitatum 复沓，与 I.7 梦语比对。"
+  },
+  {
+    "id": "cofe-bcp-burial",
+    "title": "英国国教《公祷书·埋葬礼》",
+    "url": "https://www.churchofengland.org/liturgy/book-of-common-prayer/burial-dead",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核入土礼中 dust to dust。"
+  },
+  {
+    "id": "folger-hamlet-1-1",
+    "title": "莎士比亚，《哈姆雷特》第一幕第一场，福尔杰莎士比亚图书馆",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/1/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 151–172 行鸡鸣和鬼魂退场。"
+  },
+  {
+    "id": "bible-genesis-39-usccb",
+    "title": "《创世记》第39章，美国天主教主教团英译本",
+    "url": "https://bible.usccb.org/bible/genesis/39",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 7–20 节波提乏之妻扣留外衣与指控约瑟。"
+  },
+  {
+    "id": "pliny-nh-7-vopiscus",
+    "title": "老普林尼，《博物志》7.47，芝加哥大学 LacusCurtius 拉丁转录",
+    "url": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/7%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第7卷第47节 Vopiscos 的用法。"
+  },
+  {
+    "id": "opw-phoenix-park",
+    "title": "爱尔兰公共工程署，凤凰公园",
+    "url": "https://www.phoenixpark.ie/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核都柏林凤凰公园正式英文名。"
+  },
+  {
+    "id": "daera-neagh-bann",
+    "title": "北爱尔兰农业、环境与乡村事务部，内伊—班恩流域",
+    "url": "https://www.daera-ni.gov.uk/articles/neagh-bann-river-basin-district",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Lough Neagh 湖名。"
+  },
+  {
+    "id": "marine-institute-galway-tides",
+    "title": "爱尔兰海洋研究所，戈尔韦湾潮汐图集",
+    "url": "https://data.gov.ie/en_GB/dataset/galway-bay-tidal-atlas/resource/b15a8c00-e394-4e8f-9cf3-8f1efc791e17?inner_span=True",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核大潮、小潮与月相关系。"
+  },
+  {
+    "id": "pilcomayo-commission",
+    "title": "皮尔科马约河流域三国委员会",
+    "url": "https://www.pilcomayo.net/media/uploads/publicaciones/archivo_1574801516.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核流域委员会文件所用河名。"
+  },
+  {
+    "id": "nrcan-geographical-names",
+    "title": "加拿大自然资源部，加拿大英法地名表",
+    "url": "https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/namesef_nomsaf2006.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Saskatchewan River 正式名称。"
+  },
+  {
+    "id": "uk-mca-categorisation-of-waters",
+    "title": "英国海事与海岸警卫署，水域分类附录",
+    "url": "https://www.gov.uk/government/publications/msn-1837-m-amendment-3-categorisation-of-waters/annex-1",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Humber 与 Severn 河名。"
+  },
+  {
+    "id": "loc-heart-bowd-down",
+    "title": "美国国会图书馆，《The Heart Bow’d Down》乐谱",
+    "url": "https://www.loc.gov/item/2023798765/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核曲名及与《波希米亚女郎》的关系。"
+  },
+  {
+    "id": "loc-rakes-mallow",
+    "title": "美国国会图书馆，《Rakes of Mallow》录音",
+    "url": "https://www.loc.gov/resource/jukebox-713112.1/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核馆藏录音题名。"
+  },
+  {
+    "id": "sterbini-barbiere-act1",
+    "title": "斯泰尔比尼，《塞维利亚的理发师》第一幕脚本",
+    "url": "https://www.librettidopera.it/barb_siv/a_01.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核巴西利奥唱诽谤如轻风的词句。"
+  },
+  {
+    "id": "wwf-onon-balj",
+    "title": "世界自然基金会，斡难—巴勒吉流域资料",
+    "url": "https://wwfasia.awsassets.panda.org/downloads/engp56_brief_introduction_on_9_pa.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Onon River Basin 英文名。"
+  },
+  {
+    "id": "ea-teign-kennflood",
+    "title": "英国环境署，廷河等流域洪水资料",
+    "url": "https://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核廷河 River Teign 拼写。"
+  },
+  {
+    "id": "irish-rail-dublin-network",
+    "title": "爱尔兰铁路，都柏林地区线路无障碍文字说明",
+    "url": "https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/accessible-details-dublin-area",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核两地站名，供小说复合词对照。"
+  },
+  {
+    "id": "kings-inns-history",
+    "title": "国王律师学院，校史",
+    "url": "https://www.kingsinns.ie/about-kings-inns/history",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 King’s Inns 机构名称与性质。"
+  },
+  {
+    "id": "matthew-7-6-kjv",
+    "title": "英王钦定本《马太福音》7:6",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A6&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 pearls before swine 句式。"
+  },
+  {
+    "id": "coleridge-rime-gutenberg",
+    "title": "柯勒律治，《古舟子咏》，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/29091/pg29091-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第二部第105–106行首次冲入寂海。"
+  },
+  {
+    "id": "wicklow-arklow-harbour",
+    "title": "威克洛郡议会，阿克洛港",
+    "url": "https://www.wicklow.ie/Living/Services/Environment/Harbours-Ports/Arklow-Harbour",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核阿克洛港位于奥沃卡河口。"
+  },
+  {
+    "id": "amsterdam-amstel-waterway",
+    "title": "阿姆斯特丹市，阿姆斯特尔水道",
+    "url": "https://www.amsterdam.nl/nieuws/achtergrond/amstel-wel-rivier/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核当地水道名 Amstel。"
+  },
+  {
+    "id": "sandre-garonne",
+    "title": "法国水文数据服务 Sandre，加龙河条目",
+    "url": "https://www.sandre.eaufrance.fr/geo/CoursEau_Carthage2017/O---0000",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核水道名称与条目编码。"
+  },
+  {
+    "id": "usf-arrah-na-pogue",
+    "title": "布西科，《Arrah-na-Pogue，或威克洛婚礼》提词本目录",
+    "url": "https://digitalcommons.usf.edu/arrah_na_pogue/2/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核1865年提词本题名及副题，未核剧页。"
+  },
+  {
+    "id": "usf-boucicault-collection",
+    "title": "南佛罗里达大学，布西科专藏导读",
+    "url": "https://lib.usf.edu/boucicault/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核馆方释题 Arrah of the Kiss。"
+  },
+  {
+    "id": "caldecott-house-that-jack-built",
+    "title": "伦道夫·卡尔德科特，《杰克造的房子》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/20777/20777-h/20777-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核童谣反复叠加的关系从句及节序。"
+  },
+  {
+    "id": "casey-euclid-1885",
+    "title": "约翰·凯西，《欧几里得几何原本前六卷》第三版，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/21076/pg21076-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1885年版书名页与约翰·凯西署名。"
+  },
+  {
+    "id": "fingal-mulhuddart-plan",
+    "title": "芬戈尔郡议会，马尔赫达特教堂及墓地保护计划",
+    "url": "https://www.fingal.ie/sites/default/files/2024-04/cmf23-2-df001-mulhuddart-church-and-graveyard-final-cmp.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第21页 DU013-009 圣井地名及旧地图记载。"
+  },
+  {
+    "id": "ch-guadalquivir-stations",
+    "title": "西班牙瓜达尔奎维尔河流域机构，水文监测站名表",
+    "url": "https://www.chguadalquivir.es/saih/Doc/Listado_puntos_de_control.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Río Guadalquivir 正式拼写。"
+  },
+  {
+    "id": "dublin-liberties-plan-poddle",
+    "title": "都柏林市议会，利伯蒂斯地区规划",
+    "url": "https://www.dublincity.ie/sites/default/files/media/file-uploads/2018-05/Liberties_LAP.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核都柏林 River Poddle 水道名。"
+  },
+  {
+    "id": "broads-waveney",
+    "title": "英国布罗兹管理局，韦弗尼河",
+    "url": "https://www.broads-authority.gov.uk/boating/navigating-the-broads/water-depths-and-navigation-notes/river-waveney",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 River Waveney 拼写。"
+  },
+  {
+    "id": "kjv-genesis-gihon",
+    "title": "英王钦定本《创世记》2:13–15",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A13-15&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第二条河 Gihon。"
+  },
+  {
+    "id": "kjv-luke-fatted-calf",
+    "title": "英王钦定本《路加福音》15:22–24",
+    "url": "https://www.biblegateway.com/passage/?search=Luke%2015%3A22-24&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核浪子归来与肥牛犊。"
+  },
+  {
+    "id": "swift-tale-of-tub",
+    "title": "斯威夫特，《一桶故事》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/4737/4737-h/4737-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1889年合刊转录的原题。"
+  },
+  {
+    "id": "lefanu-house-churchyard",
+    "title": "约瑟夫·谢里登·勒法努，《教堂墓地旁的屋子》，古腾堡转录",
+    "url": "https://www.gutenberg.org/ebooks/17769",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核原题 Church-Yard 与作者署名。"
+  },
+  {
+    "id": "js-mill-subjection-women",
+    "title": "约翰·斯图尔特·密尔，《妇女的屈从地位》，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核署名及原题 The Subjection of Women。"
+  },
+  {
+    "id": "eliot-mill-floss",
+    "title": "乔治·艾略特，《弗洛斯河上的磨坊》，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/6688/pg6688-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核原题 The Mill on the Floss。"
+  },
+  {
+    "id": "joyce-dubliners-waterhouse",
+    "title": "詹姆斯·乔伊斯，《都柏林人·两个浪荡汉》，古腾堡转录",
+    "url": "https://www.gutenberg.org/files/2814/2814-h/2814-h.htm#chap06",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核科利所说达姆街沃特豪斯钟。"
+  },
+  {
+    "id": "cofe-bcp-evening-prayer",
+    "title": "英国国教《公祷书·晚祷》",
+    "url": "https://www.churchofengland.org/liturgy/book-of-common-prayer/order-evening-prayer",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核国度、权柄、荣耀并列的主祷文。"
+  },
+  {
+    "id": "dublin-port-poolbeg",
+    "title": "都柏林港，港口沿革",
+    "url": "https://www.dublinport.ie/about-dublin-port/history-of-port/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核普尔贝格灯塔名称。"
+  },
+  {
+    "id": "celt-moytura-stokes",
+    "title": "《第二次莫伊图拉战役》，科克大学 CELT，斯托克斯英译",
+    "url": "https://celt.ucc.ie/document/T300011/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第2–7节四座学艺城、四名老师和四件物品。"
+  },
+  {
+    "id": "loc-mccormack-tenor",
+    "title": "美国国会图书馆，约翰·麦科马克录音《Take a Look at Molly》",
+    "url": "https://www.loc.gov/item/jukebox-68039/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核目录名及男高音标记，未用录音确指小说人物或幕间曲。"
+  },
+  {
+    "id": "nla-van-diemens-land",
+    "title": "澳大利亚国家图书馆，范迪门地立法资料目录",
+    "url": "https://www.nla.gov.au/apps/govpubs?action=ResourceDisplay&resourceId=450",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核资料用名 Van Diemen’s Land。"
+  },
+  {
+    "id": "perrault-cinderilla-glass-slipper",
+    "title": "夏尔·佩罗，《灰姑娘，或小玻璃鞋》，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/29021/pg29021-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核离场失鞋、王子拾鞋及试鞋。"
+  },
+  {
+    "id": "folger-merry-wives-3-3",
+    "title": "莎士比亚，《温莎的风流娘儿们》第三幕第三场",
+    "url": "https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/3/3/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核剧名及洗衣篮安排。"
+  },
+  {
+    "id": "lang-bo-peep",
+    "title": "安德鲁·朗编《童谣集》，波皮普条",
+    "url": "https://www.gutenberg.org/cache/epub/26197/pg26197-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核开头失羊与归羊拖尾。"
+  },
+  {
+    "id": "dublin-diocese-laurence",
+    "title": "都柏林总教区，劳伦斯·奥图尔",
+    "url": "https://www.dublindiocese.ie/the-story-of-st-laurence-otoole/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核教区所用姓名及主保身份。"
+  },
+  {
+    "id": "bl-caxton-malory",
+    "title": "大英图书馆，马洛礼手稿 Add MS 59678 目录",
+    "url": "https://searcharchives.bl.uk/catalog/032-001998125",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核档案所记威廉·卡克斯顿为印刷人。"
+  },
+  {
+    "id": "londonmuseum-pollock-theatre",
+    "title": "伦敦博物馆，B. Pollock 纸戏台藏品",
+    "url": "https://www.londonmuseum.org.uk/collections/v/object-982221/toy-theatre/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核馆藏纸戏台及信封题名。"
+  },
+  {
+    "id": "kjv-ecclesiastes-bread",
+    "title": "英王钦定本《传道书》11:1",
+    "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+11%3A1&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核撒饼与多日后寻回。"
+  },
+  {
+    "id": "justinian-digesta-38",
+    "title": "《学说汇纂》第38卷，格勒诺布尔阿尔卑斯大学罗马法资料库",
+    "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核38.10节古罗马亲属称谓。"
+  },
+  {
+    "id": "usccb-joshua-nun",
+    "title": "美国天主教主教团，《约书亚记》第1章",
+    "url": "https://bible.usccb.org/bible/joshua/1",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1:1约书亚与父名 Nun。"
+  },
+  {
+    "id": "herodotus-croesus-1-6",
+    "title": "希罗多德，《历史》1.6，Perseus 希腊文与 Godley 英译",
+    "url": "https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0016.tlg001.perseus-grc2%3A1.6/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1.6克罗索斯及其父。"
+  },
+  {
+    "id": "catechism-1452-1453",
+    "title": "《天主教教理》1452–1453，宗座英文本",
+    "url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vii_the_acts_of_the_penitent.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核完美痛悔与 attrition 区分。"
+  },
+  {
+    "id": "cervantes-quixote-ii-lv-ormsby",
+    "title": "塞万提斯《堂吉诃德》下卷 LV，John Ormsby 英译",
+    "url": "https://www.gutenberg.org/cache/epub/5937/pg5937-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核桑乔·潘萨自称堂吉诃德侍从及其与驴同落坑。小说此处戏拟范围待核。"
+  },
+  {
+    "id": "quran-ablution-5-6",
+    "title": "《古兰经》筵席章第6节",
+    "url": "https://quran.com/al-maidah/6",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核礼拜前净洗及其所涉动作。"
+  },
+  {
+    "id": "homer-iliad-xanthus-butler",
+    "title": "荷马《伊利亚特》卷十九、二十一，Samuel Butler 英译",
+    "url": "https://www.gutenberg.org/files/2199/2199-h/2199-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Xanthus 为马名及河名两处用法。"
+  },
+  {
+    "id": "burkes-peerage-1914",
+    "title": "《伯克贵胄谱》1914 年本",
+    "url": "https://books.google.com/books/about/Burke_s_Genealogical_and_Heraldic_Histor.html?id=RVggAAAAYAAJ",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "据数字书目核 1914 年本题名、年份及出版者。"
+  },
+  {
+    "id": "halliwell-nursery-rhyme-138",
+    "title": "Halliwell 辑《英格兰童谣》第 CXXXVIII 首",
+    "url": "https://www.gutenberg.org/files/32415/32415-h/32415-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核六便士童谣起句。"
+  },
+  {
+    "id": "kew-athrotaxis-cupressoides",
+    "title": "邱园 Plants of the World Online，Athrotaxis cupressoides",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261711-1",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Athrotaxis 属名及该种的原生地。"
+  },
+  {
+    "id": "arbeau-orchesographie-loc",
+    "title": "Thoinot Arbeau，Orchesographie，美国国会图书馆藏",
+    "url": "https://www.loc.gov/item/55003658/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据题录与馆藏舞蹈说明核 pavane 旧舞谱。"
+  },
+  {
+    "id": "isaac-rigadoon-royal-loc",
+    "title": "Mr Isaac，The Rigadoon Royal，美国国会图书馆藏",
+    "url": "https://www.loc.gov/resource/music.musdi-126/?sp=2&st=text",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核约1711年舞谱题名及 Rigadoon 写法。"
+  },
+  {
+    "id": "loc-mccloud-reel",
+    "title": "美国国会图书馆，Hop Light Lady 乐谱抄录",
+    "url": "https://www.loc.gov/item/afcreed000026/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据题录核 McLeod’s Reel 和 Miss McCloud’s Reel 异名。"
+  },
+  {
+    "id": "ellmann-joyce-dublin-election",
+    "title": "Richard Ellmann，James Joyce，页16–18",
+    "url": "https://www.rodoni.ch/A7/ellmann-joyce.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核页17对 1880 年选举及小说第236页双关的解读。"
+  },
+  {
+    "id": "hansard-dublin-borough",
+    "title": "Historic Hansard，都柏林选区议员名册",
+    "url": "https://api.parliament.uk/historic-hansard/constituencies/dublin-borough",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Brooks、Lyons 与 Arthur Guinness 的都柏林议员任期。 II.2第272页续核名单交接。"
+  },
+  {
+    "id": "schenoni-newslitter-1978-xv-4",
+    "title": "Luigi Schenoni，A Wake Newslitter XV.4，圣安德鲁斯大学研究索引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artLS1978.html",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "据索引所录条目核 237.26、237.30、238.35，未核原刊版面。"
+  },
+  {
+    "id": "harlene-highland-news-1898",
+    "title": "The Highland News，1898-01-22，Harlene 护发广告",
+    "url": "https://deriv.nls.uk/dcn23/2479/1855/247918557.23.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据苏格兰国家图书馆报纸档案核商品拼法和护发用途。"
+  },
+  {
+    "id": "cuticura-argus-1906",
+    "title": "The Argus，1906-10-16，Cuticura 广告",
+    "url": "https://tile.loc.gov/storage-services/service/ndnp/iune/batch_iune_guttenberg_ver01/data/sn92053934/00202198673/1906101601/0702.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Cuticura 拼法及其皮肤护理品类。"
+  },
+  {
+    "id": "tuki-demani",
+    "title": "TUKI 斯瓦希里语英语词典，demani",
+    "url": "https://swahili-dictionary.com/swahili-english/demani_demani",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核季节义另有帆索、下风、海风等义。"
+  },
+  {
+    "id": "tuki-masika",
+    "title": "TUKI 斯瓦希里语英语词典，masika",
+    "url": "https://swahili-dictionary.com/swahili-english/masika_masika",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核长雨季义。"
+  },
+  {
+    "id": "tuki-baraza",
+    "title": "TUKI 斯瓦希里语英语词典，baraza",
+    "url": "https://swahili-dictionary.com/swahili-english/baraza_baraza",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核门廊、客厅、议事会等义。"
+  },
+  {
+    "id": "ungegn-baile-atha-cliath",
+    "title": "联合国地名专家组地名库，Baile Átha Cliath",
+    "url": "https://ungegn.un.org/dashboard/cities/namedetails?id=3825",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核都柏林爱尔兰语地名。"
+  },
+  {
+    "id": "bvd-americus-1908",
+    "title": "Americus Times-Recorder，1908-01-29，B. V. D. 内衣广告",
+    "url": "https://tile.loc.gov/storage-services/service/ndnp/gu/batch_gu_ara_ver01/data/sn89053204/00393344374/1908012901/0087.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 B. V. D. 当时用作内衣品牌。"
+  },
+  {
+    "id": "bible-mark-7-usccb",
+    "title": "《马可福音》第7章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/mark/7",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第33–35节唾沫、Ephphatha、耳开及言语恢复。"
+  },
+  {
+    "id": "arabian-nights-ali-baba-gutenberg",
+    "title": "The Arabian Nights Entertainments，阿里巴巴一篇，Gutenberg 英文本",
+    "url": "https://www.gutenberg.org/files/19860/19860-h/19860-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核开、关洞穴的芝麻口令。"
+  },
+  {
+    "id": "culhwch-cal-ed-csub",
+    "title": "《库尔赫与奥尔温》英译，California State University, Bakersfield 藏教学 PDF",
+    "url": "https://www.csub.edu/~cmacquarrie/isle_of_man/documents/texts/culhwch.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核亚瑟列剑名 Caledfwlch 及随即为库尔赫梳剪头发。"
+  },
+  {
+    "id": "jenkins-wake-newslitter-1969-vi-1",
+    "title": "William D. Jenkins，A Wake Newslitter VI.1，圣安德鲁斯大学研究索引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artWDJ1969a.html",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 241.36–242.01 索引片段，未查原刊全篇。"
+  },
+  {
+    "id": "grant-allen-woman-who-did",
+    "title": "Grant Allen，The Woman Who Did（1895），Gutenberg 文本",
+    "url": "https://www.gutenberg.org/files/4396/4396-h/4396-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核书名、作者及刊年。"
+  },
+  {
+    "id": "cadw-hawarden-castle",
+    "title": "Cadw，Hawarden Castle 注册保护档案",
+    "url": "https://cadwpublic-api.azurewebsites.net/reports/parkgarden/FullReport?id=49",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核新宅、旧堡区别和 Gladstone 关系。"
+  },
+  {
+    "id": "dsl-spae-wife",
+    "title": "Dictionaries of the Scots Language，spae 条",
+    "url": "https://dsl.ac.uk/entry/snd/spae",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第4项（ix）spae-wife 的女占卜者义。"
+  },
+  {
+    "id": "blackstone-bk1-15-coverture",
+    "title": "Blackstone，《英国法释义》卷一第15章，耶鲁 Avalon 转录",
+    "url": "https://avalon.law.yale.edu/18th_century/blackstone_bk1ch15.asp",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核页430–431关于 coverture 与 feme sole 的历史法学用例。"
+  },
+  {
+    "id": "celt-finn-boyish-exploits",
+    "title": "《芬恩少年事迹》，Kuno Meyer 英译，CELT",
+    "url": "https://celt.ucc.ie/document/T303023/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Finn mac Cumaill 名字。"
+  },
+  {
+    "id": "bcp-catechism-renounce",
+    "title": "英格兰教会《公祷书》教理",
+    "url": "https://www.churchofengland.org/liturgy/book-of-common-prayer/catechism",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核教理问答中的弃绝魔鬼及世间浮华措辞。"
+  },
+  {
+    "id": "psalm-120-usccb",
+    "title": "《诗篇》120，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/psalms/120",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第5–7节帐棚及和平意象。"
+  },
+  {
+    "id": "leviticus-23-booths",
+    "title": "《利未记》23:33–44，NABRE 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Leviticus+23%3A33-44&version=NABRE",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核住棚节经文中的采枝及住棚。"
+  },
+  {
+    "id": "loc-isegrim-reineken",
+    "title": "Wie Isegrim der Wolf wider Reineken klagt，美国国会图书馆藏画",
+    "url": "https://www.loc.gov/pictures/item/2017660135/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据馆藏标题及题录核狼名和列那狐故事关系。"
+  },
+  {
+    "id": "mishnah-sukkah-3-1",
+    "title": "《密西拿·住棚节》3:1，Sefaria 对照文本",
+    "url": "https://www.sefaria.org/Mishnah_Sukkah.3.1",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 lulav 词形及住棚节棕枝用法。"
+  },
+  {
+    "id": "bible-job-40-usccb",
+    "title": "《约伯记》第40章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/job/40",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第15节以下 Behemoth。"
+  },
+  {
+    "id": "talmud-shabbat-21b",
+    "title": "《塔木德·安息日》21b，Sefaria 对照文本",
+    "url": "https://www.sefaria.org/Shabbat.21b?lang=en",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Hanukkah 灯、灯油和点灯用例。"
+  },
+  {
+    "id": "missale-feria-quinta",
+    "title": "罗马弥撒拉丁文本，Feria Quinta in Coena Domini",
+    "url": "https://missale.online/proprium/en/tempore/feria_quinta_in_coena_domini",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核圣周四礼文题名的 Feria Quinta。"
+  },
+  {
+    "id": "kjv-isaiah-21-11",
+    "title": "《以赛亚书》21:11，KJV 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Isaiah+21%3A11&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核重复追问守望者的句形。"
+  },
+  {
+    "id": "apicius-de-re-coquinaria-latin",
+    "title": "Apicius，《烹调术》拉丁文本，Gutenberg",
+    "url": "https://www.gutenberg.org/files/16439/16439-h/16439-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核罗马食谱词 mulsum 的用例。"
+  },
+  {
+    "id": "malory-morte-ii-joyous-gard",
+    "title": "Malory，《亚瑟王之死》卷二，Gutenberg 文本",
+    "url": "https://www.gutenberg.org/files/1252/1252-h/1252-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Joyous Gard 用作堡名。"
+  },
+  {
+    "id": "loc-leonore-florestan",
+    "title": "《莱奥诺蕾》歌剧脚本，美国国会图书馆藏",
+    "url": "https://www.loc.gov/item/2010661134/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据题录核 Florestan 角色名。"
+  },
+  {
+    "id": "loc-bohemian-girl-thaddeus",
+    "title": "Balfe《波希米亚女郎》脚本，美国国会图书馆藏",
+    "url": "https://www.loc.gov/item/2010657875/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据题录核 Thaddeus 角色名。"
+  },
+  {
+    "id": "gutenberg-colleen-bawn",
+    "title": "Dion Boucicault，《金发姑娘》剧本，Gutenberg",
+    "url": "https://www.gutenberg.org/files/52924/52924-h/52924-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Hardress 与 Myles 人名。"
+  },
+  {
+    "id": "kjv-ephesians-4-8",
+    "title": "《以弗所书》4:8，KJV 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Ephesians+4%3A8&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核俘虏复叠句式。"
+  },
+  {
+    "id": "examiner-dolly-brae-1849",
+    "title": "The Examiner，1849-07-21，第2164期",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Examiner_1849-07-21-_Iss_2164_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1849-07-21_2164%29.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核当月新闻中 Dolly’s Brae 与奥兰治游行。"
+  },
+  {
+    "id": "itma-dollys-brae-song",
+    "title": "爱尔兰传统音乐档案，Dolly’s Brae 歌目",
+    "url": "https://itmacatalogues.ie/Portal/Default/en-GB/RecordView/Index/92053",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核同名歌目及记录所附曲调标题。"
+  },
+  {
+    "id": "fitzgerald-rubaiyat-gutenberg",
+    "title": "FitzGerald 英译 Rubáiyát of Omar Khayyám，Gutenberg",
+    "url": "https://www.gutenberg.org/files/246/246-h/246-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核英译诗题。"
+  },
+  {
+    "id": "kjv-ezekiel-1-16",
+    "title": "《以西结书》1:16，KJV 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Ezekiel+1%3A16&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核轮中之轮的异象措辞。"
+  },
+  {
+    "id": "morgan-tarara-boom-de-ay",
+    "title": "Ta-ra-ra boom-de-ay，摩根图书馆谱本题录",
+    "url": "https://www.themorgan.org/music-manuscripts-and-printed-music/141504",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核曲名及拟改尾音的对照。 II.2第267页补作 Tarararat 的拟歌音对照。"
+  },
+  {
+    "id": "gregory-angus-birds",
+    "title": "Augusta Gregory，Gods and Fighting Men，安格斯及其鸟",
+    "url": "https://www.gutenberg.org/files/14465/14465-h/14465-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核安格斯与达格达关系，以及吻化鸟故事。"
+  },
+  {
+    "id": "lismore-land-under-waves",
+    "title": "The Dean of Lismore’s Book，英译及导注",
+    "url": "https://www.gutenberg.org/files/48099/48099-h/48099-h.htm",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核导注中 Tir fo Thuinn 与 land beneath the waves 的对照。"
+  },
+  {
+    "id": "sabin-ally-sloper",
+    "title": "Roger Sabin，Ally Sloper: The First Comics Superstar?",
+    "url": "https://www.imageandnarrative.be/inarchive/graphicnovel/rogersabin.htm",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核漫画角色名及历史背景。"
+  },
+  {
+    "id": "ddo-oldenborre",
+    "title": "Den Danske Ordbog，oldenborre 词条",
+    "url": "https://ordnet.dk/ddo/ordbog/oldenborre",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核丹麦语甲虫名。"
+  },
+  {
+    "id": "dalton-vision-colours-bhl",
+    "title": "John Dalton，Extraordinary Facts Relating to the Vision of Colours，馆藏记录",
+    "url": "https://www.biodiversitylibrary.org/part/308502",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核作者及论文题名，未查配羊毛的叙事出处。"
+  },
+  {
+    "id": "heritage-ireland-glendalough",
+    "title": "Heritage Ireland，Glendalough Monastic Site",
+    "url": "https://heritageireland.ie/places-to-visit/glendalough-monastic-site-and-visitor-centre/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核地名及机构介绍所列圣凯文与修院渊源。"
+  },
+  {
+    "id": "british-museum-breathing-isis",
+    "title": "大英博物馆《解读象形文字》展览档案，Book of Breathing Made by Isis",
+    "url": "https://www.britishmuseum.org/sites/default/files/2022-07/Protection_from_Seizure_-_Hieroglyphs_unlocking_ancient_Egypt.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核展品44925的书名及藏件描述。"
+  },
+  {
+    "id": "bible-revelation-21-usccb",
+    "title": "《启示录》第21章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/revelation/21",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核18–21节城墙、碧玉和城门。"
+  },
+  {
+    "id": "folger-macbeth-play",
+    "title": "Shakespeare，Macbeth，Folger 全剧文本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/macbeth/read/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核2.2葛莱密斯、考特与谋杀睡眠，以及5.4伯南林执枝和麦克德夫在场。"
+  },
+  {
+    "id": "bible-matthew-16-usccb",
+    "title": "《马太福音》第16章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/matthew/16",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核23节退后斥令。"
+  },
+  {
+    "id": "jordanes-getica-attila",
+    "title": "Jordanes《哥特史》，Charles C. Mierow 英译",
+    "url": "https://www.gutenberg.org/cache/epub/14809/pg14809-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第257节阿提拉葬歌及前文哥特势力称名。 另核第191—198节埃提乌斯与阿提拉在卡塔劳努姆平原交锋。"
+  },
+  {
+    "id": "pompeii-impluvium",
+    "title": "庞贝考古公园，Roman Housing",
+    "url": "https://pompeiisites.org/en/pompeii-map/analysis/roman-housing/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 impluvium 位置和接雨用途。"
+  },
+  {
+    "id": "dante-inferno-v-137",
+    "title": "但丁《地狱篇》第五歌137行，Princeton Dante Project",
+    "url": "https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=137&SECT=V&TITLE=Inf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核原文书与作者被称 Galeotto 的措辞。"
+  },
+  {
+    "id": "treccani-smacchiare",
+    "title": "Treccani 意大利语词典，smacchiare¹",
+    "url": "https://www.treccani.it/vocabolario/smacchiare1/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核动词去渍义。"
+  },
+  {
+    "id": "darwin-descent-1871",
+    "title": "Darwin，The Descent of Man，1871年初版卷一",
+    "url": "https://darwin-online.org.uk/content/contentblock?basepage=1&hitpage=387&itemID=F937.1&viewtype=text",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1871年初版书名。"
+  },
+  {
+    "id": "neilson-charlie-darling",
+    "title": "William Allan Neilson 辑录 Charlie He’s My Darling 歌词",
+    "url": "https://www.gutenberg.org/files/18388/18388-h/18388-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核书内所录副歌句型。"
+  },
+  {
+    "id": "lafontaine-cigale-fourmi",
+    "title": "La Fontaine，《蝉与蚂蚁》法文本",
+    "url": "https://www.gutenberg.org/files/56327/56327-h/56327-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核卷一第1首的借粮及蚂蚁拒贷。"
+  },
+  {
+    "id": "franklin-way-to-wealth",
+    "title": "Benjamin Franklin，The Way to Wealth，Gutenberg",
+    "url": "https://www.gutenberg.org/cache/epub/43855/pg43855-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Poor Richard 的早睡早起格言。"
+  },
+  {
+    "id": "halliwell-bed-charm",
+    "title": "Halliwell，Popular Rhymes and Nursery Tales，Bed-charm 条",
+    "url": "https://dev.gutenberg.org/cache/epub/35707/pg35707-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核所辑护床韵中四名次序。"
+  },
+  {
+    "id": "tennyson-maud-garden-excerpt",
+    "title": "A Day with the Poet Tennyson 所载 Maud 诗节",
+    "url": "https://www.gutenberg.org/cache/epub/40442/pg40442-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核所引诗节首句，未据此判定小说所据版本。"
+  },
+  {
+    "id": "loc-balfe-garden-maud",
+    "title": "美国国会图书馆，Come into the Garden, Maud 歌谱记录",
+    "url": "https://www.loc.gov/collections/american-sheet-music-1820-to-1860/articles-and-essays/greatest-hits-1820-60-variety-music-cavalcade/1850-to-1860/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核约1857年 Balfe 配乐记录及原词作者。"
+  },
+  {
+    "id": "eusebius-v-20-florinus",
+    "title": "Eusebius，《教会史》卷五第20章，New Advent 英译",
+    "url": "https://www.newadvent.org/fathers/250105.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核所引 Irenaeus 致 Florinus 书中 Polycarp 转述 John。"
+  },
+  {
+    "id": "bible-genesis-21-usccb",
+    "title": "《创世记》第21章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/genesis/21",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核1–7节莎拉、以撒命名及笑。"
+  },
+  {
+    "id": "labiche-martin-perrichon",
+    "title": "Eugène Labiche 与 Édouard Martin，Le Voyage de Monsieur Perrichon，Gutenberg",
+    "url": "https://www.gutenberg.org/cache/epub/9453/pg9453-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核剧名与角色名 Perrichon。"
+  },
+  {
+    "id": "mozarteum-bastienne-libretto",
+    "title": "萨尔茨堡莫扎特基金会，Bastien und Bastienne 脚本文本",
+    "url": "https://dme.mozarteum.at/DME/libredition/single.php?idwnma=1446&l=1",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核脚本角色名 Bastienne。"
+  },
+  {
+    "id": "kjv-jeremiah-50-2",
+    "title": "《耶利米书》50:2，KJV 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Jeremiah%2050%3A2&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核经文中 Merodach 拼法。"
+  },
+  {
+    "id": "unesco-troy-hisarlik",
+    "title": "联合国教科文组织，特洛伊考古遗址",
+    "url": "https://whc.unesco.org/en/list/849",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Hisarlık 与特洛伊考古遗址的地点关系。"
+  },
+  {
+    "id": "usccb-joel-4",
+    "title": "《约珥书》第4章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/joel/4",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第2及12节中约沙法谷与审判诸国。"
+  },
+  {
+    "id": "halliwell-hector-protector",
+    "title": "Halliwell 编《英格兰童谣》，第 XXI 首",
+    "url": "https://www.gutenberg.org/cache/epub/32415/pg32415-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核印刷页第9页 Hector Protector 童谣的姓名、王室与送返。"
+  },
+  {
+    "id": "dcc-pliny-letters-6-16",
+    "title": "小普林尼《书信集》6.16，Dickinson College Commentaries 拉丁正文",
+    "url": "https://dcc.dickinson.edu/pliny-letters/6-16",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核信首的收信人，以及信中所述老普林尼之死。"
+  },
+  {
+    "id": "judd-punch-and-judy",
+    "title": "W. J. Judd《潘趣与朱迪》，第30页",
+    "url": "https://www.gutenberg.org/cache/epub/48171/pg48171-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核木偶剧本中潘趣、朱迪的对白和夫妻关系。"
+  },
+  {
+    "id": "anw-advocaat",
+    "title": "荷兰语研究院 ANW 词条 advocaat",
+    "url": "https://anw.ivdnt.org/article/advocaat",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核律师、蛋酒两义及拼法 advokaat。"
+  },
+  {
+    "id": "usccb-four-gospels-intro",
+    "title": "USCCB《福音书导言》",
+    "url": "https://bible.usccb.org/bible/gospelsintroduction/0",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核四部正典福音书的排列与书名。"
+  },
+  {
+    "id": "ucc-celt-four-masters-a",
+    "title": "科克大学 CELT，《四大师编年史》爱尔兰语文本",
+    "url": "https://celt.ucc.ie/document/G100005A/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核书名与正文中逐条编年的形式。"
+  },
+  {
+    "id": "oireachtas-dail-naming",
+    "title": "爱尔兰国会，Dáil Éireann 命名",
+    "url": "https://prelive.oireachtas.ie/en/debates/notable-debates/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核国会史记载的爱尔兰议会名称。"
+  },
+  {
+    "id": "an-post-gpo-archive",
+    "title": "爱尔兰邮政档案与馆藏",
+    "url": "https://www.anpost.com/About/History-Heritage/An-Post-Archive-Collection",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核都柏林总邮局名称和奥康奈尔街地址。"
+  },
+  {
+    "id": "tii-dublin-tram-94",
+    "title": "爱尔兰交通基础设施署，Tram 94, Where Are You?",
+    "url": "https://www.tii.ie/en/technical-services/archaeology/seanda-ezine/tram-94-where-are-you/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核所录老照片图注的电车公司全名及线路背景。"
+  },
+  {
+    "id": "dublin-city-circular-roads-archive",
+    "title": "都柏林市档案，Parliamentary Commissions 地图索引",
+    "url": "https://www.dublincity.ie/libraries/heritage-and-history-resources/parliamentary-commissions",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 North Circular Road 及 South Circular Road 的档案地名。"
+  },
+  {
+    "id": "india-office-list-1921-units",
+    "title": "The India Office and Burma Office List for 1921，货币与度量条",
+    "url": "https://bsi.gov.in/uploads/userfiles/file/Rare%20Books/The%20Office%20List%20For%201921.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Currency and Weights and Measures 节的 pice 与 crore。"
+  },
+  {
+    "id": "sandulescu-german-9-11-256",
+    "title": "Sandulescu 编《German in Finnegans Wake Contextualized》9–11 章",
+    "url": "https://www.editura.mttlc.ro/carti/c_g_sandulescu_vol_32_german_contextualized_ep_9_to_11.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第104页 FW 256.34 词条并记录同本工程底本的拼写差。"
+  },
+  {
+    "id": "duden-albdruck",
+    "title": "Duden，Albdruck／Alpdruck 词条",
+    "url": "https://www.duden.de/rechtschreibung/Albdruck",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核噩梦、压迫不适义及两种拼法。"
+  },
+  {
+    "id": "sandulescu-mink-gazetteer-9-11-257",
+    "title": "Sandulescu 编 Mink 地名格本，9–11 章",
+    "url": "https://www.editura.mttlc.ro/carti/c_g_sandulescu_vol_26_geographical_allusions_ep_9-11.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第107页 FW 257.01 angelland 的地名读法与段落行号。 另核第125页 FW 263.13–15 拟地名及 Emeratic 的存疑标记。第153、155页核 FW 274 蒙特辛琼、Clane 与 Genuas。 第157页核 FW 275.16 招牌。 第161至163页核 FW 277 左栏弗卢米尼亚道、Blath 与原注七 Red Bank。 第167至168页核 FW 279 原注中 Pettigo、Asa 与 Skokholme 的地名读法。 第169页核 FW 280 左栏 Coppinger。 第178页核 FW 284 图拉格罗夫杆、费尔马纳与莫纳汉。"
+  },
+  {
+    "id": "jjda-ii1-mime-proof-feb1934",
+    "title": "JJDA，《The Mime》II.1§7，1934 年 2 月校样转录",
+    "url": "https://jjda.ie/f/flex/kg/kgd5.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第5稿大麦爹至法利的接续、雷词与落幕。"
+  },
+  {
+    "id": "jjda-ii1-mime-corrections",
+    "title": "JJDA，II.1§7，Joyce–Léon 勘误层转录",
+    "url": "https://jjda.ie/f/flex/kg/kgd9.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第9层 257–258 页段落次序及 gurs 一处异文。"
+  },
+  {
+    "id": "cambridge-cant-hold-candle",
+    "title": "Cambridge Dictionary，can’t hold a candle to",
+    "url": "https://dictionary.cambridge.org/dictionary/english/can-t-hold-a-candle-to",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核成语表示相形逊色。"
+  },
+  {
+    "id": "ddo-lukke-door",
+    "title": "《丹麦语词典》，lukke 第2词条",
+    "url": "https://www.ordnet.dk/ddo/ordbog/lukke",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核过去式 -de 与例组 lukke døren。"
+  },
+  {
+    "id": "anw-schouwburg",
+    "title": "荷兰语研究院 ANW，schouwburg",
+    "url": "https://anw.ivdnt.org/article/schouwburg",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核剧院建筑义与词形。"
+  },
+  {
+    "id": "ritson-robin-maid-marian",
+    "title": "Ritson 编《Robin Hood》，第 XXIV 首",
+    "url": "https://www.gutenberg.org/cache/epub/56926/pg56926-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核罗宾汉歌谣所用 Maid Marian 称名。"
+  },
+  {
+    "id": "wagner-gotterdammerung-libretto",
+    "title": "瓦格纳《诸神的黄昏》德语脚本",
+    "url": "https://operone.de/libretto/goetterdaemmerung/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核德文剧名与终幕场景所在。"
+  },
+  {
+    "id": "usccb-genesis-6-nephilim",
+    "title": "《创世记》第6章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/genesis/6",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 6:4 中 Nephilim 拼法。"
+  },
+  {
+    "id": "chabad-text-of-mezuzah",
+    "title": "Chabad，门框经匣所载经文",
+    "url": "https://www.chabad.org/library/article_cdo/aid/316879/jewish/Text-of-the-Mezuzah.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核《申命记》6:9 的门柱与经文用语。"
+  },
+  {
+    "id": "kjv-genesis-babel-11",
+    "title": "《创世记》第11章，KJV 英译",
+    "url": "https://www.kingjamesbibleonline.org/Genesis-Chapter-11/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 11:3、4、7 三次 Go to 及 11:9 巴别称名。"
+  },
+  {
+    "id": "kjv-psalm-68-13",
+    "title": "《诗篇》68:13，KJV 英译",
+    "url": "https://www.biblegateway.com/passage/?search=Psalm+68%3A13&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 lien among the pots 的经文原句。"
+  },
+  {
+    "id": "vatican-litany-loreto-en",
+    "title": "梵蒂冈，《罗莱托连祷文》英文本",
+    "url": "https://www.vatican.va/special/rosary/documents/litanie-lauretane_en.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核开头两呼 Christ 及第二呼 graciously。"
+  },
+  {
+    "id": "usccb-john-20-didymus",
+    "title": "《约翰福音》第20章，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/john/20",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 20:24 同一人为 Thomas 与 Didymus 以及 20:26 的闭门。"
+  },
+  {
+    "id": "garda-official-history",
+    "title": "爱尔兰警察局，An Garda Síochána 沿革",
+    "url": "https://www.garda.ie/en/about-us/our-history/history-of-an-garda-siochana.html",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Garda 为警察称谓一层所据的机构名。"
+  },
+  {
+    "id": "duden-war-sein",
+    "title": "Duden，war 词条",
+    "url": "https://www.duden.de/rechtschreibung/war",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 war 为 sein 的变形。"
+  },
+  {
+    "id": "jacobs-tom-tit-tot",
+    "title": "Joseph Jacobs 编《English Fairy Tales》，Tom Tit Tot",
+    "url": "https://www.gutenberg.org/cache/epub/7439/pg7439-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核纺线小妖自报 Tom Tit Tot 一名，以及发音反覆。"
+  },
+  {
+    "id": "brown-liman-ivory-teetotum",
+    "title": "布朗大学 Liman 馆藏，Ivory teetotum",
+    "url": "https://library.brown.edu/create/limangames/ivory-teetotum/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核有字母或数字的旋骰及玩法。"
+  },
+  {
+    "id": "teanglann-raimeis",
+    "title": "Ó Dónaill 爱英词典，raiméis",
+    "url": "https://www.teanglann.ie/en/fgb/raim%C3%A9is",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核废话、胡言义及异拼 ráiméis。"
+  },
+  {
+    "id": "vatican-salve-regina-mater",
+    "title": "梵蒂冈，2008 年礼仪手册附录 Salve Regina",
+    "url": "https://www.vatican.va/content/dam/wss/news_services/liturgy/libretti/2008/messale_USA.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Salve Regina 起首 Mater Misericordiae 称呼。"
+  },
+  {
+    "id": "jjda-ii2-missing-draft-3",
+    "title": "JJDA，II.2§1 1935 年 1 月缺稿重建",
+    "url": "https://jjda.ie/f/flex/la/lad3.htm",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核重建稿 Tycho Brahe 原拼、盖恩斯伯勒一处异文及跨页婚句。档案缺稿，非实物见证。"
+  },
+  {
+    "id": "kanai-alp-wetting-260",
+    "title": "金井嘉彦〈Oのお話 『フィネガンズ・ウェイク』のALPの章をめぐって〉，《言語文化》32，第 78 页",
+    "url": "https://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/8901/gengo0003200670.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第78页在 I.8 论述中对 II.2 260.16–17 的 wetting／wedding 双读。"
+  },
+  {
+    "id": "bologna-mezzofanti-room",
+    "title": "博洛尼亚 Salaborsa 图书馆，Una sala per Mezzofanti",
+    "url": "https://www.bibliotecasalaborsa.it/bolognaonline/cronologia-di-bologna/1857/unaula_per_mezzofanti",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核梅佐凡蒂名称及多语身份。"
+  },
+  {
+    "id": "dsl-ddo-elv",
+    "title": "《丹麦语词典》，elv",
+    "url": "https://ordnet.dk/ddo/ordbog/elv",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核北欧河流义。"
+  },
+  {
+    "id": "dsl-ddo-fjeld",
+    "title": "《丹麦语词典》，fjeld",
+    "url": "https://ordnet.dk/ddo/ordbog/fjeld",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核山或山区义，并列古诺尔斯语 fjall。"
+  },
+  {
+    "id": "greek-anthology-9-58-wonders",
+    "title": "《希腊诗选》9.58，Anthologia Graeca 原文及英译",
+    "url": "https://anthologiagraeca.org/passages/urn%3Acts%3AGreekLit%3Atlg7000.tlg001.ag%3A9.58/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核七项中有巴比伦城墙与空中花园两项。"
+  },
+  {
+    "id": "string-of-pearls-gutenberg",
+    "title": "《珍珠串》（The String of Pearls），古登堡电子本",
+    "url": "https://www.gutenberg.org/cache/epub/59828/pg59828-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第一章理发师 Sweeney Todd。"
+  },
+  {
+    "id": "loc-tumulty-papers",
+    "title": "美国国会图书馆，Joseph P. Tumulty 档案目录",
+    "url": "https://findingaids.loc.gov/repositories/19/resources/4871",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "据摘要核威尔逊秘书全名。"
+  },
+  {
+    "id": "chabad-kabbala-ein-sof",
+    "title": "Chabad，FAQ: Kabbala Basics – 2",
+    "url": "https://www.chabad.org/kabbalah/article_cdo/aid/1337498/jewish/FAQ-Kabbala-Basics-2.htm",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 Ein Sof 的无限义。"
+  },
+  {
+    "id": "mortson-boldereff-fw-part2",
+    "title": "Darrin Douglas Mortson，〈“O Fronces”: Frances Boldereff’s Readings of Joyce and Finnegans Wake (Part Two)〉",
+    "url": "https://mejiro.repo.nii.ac.jp/record/1852/files/MJH_18_31.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第35页所转述的 Boldereff 读法，明示未直接核原书。"
+  },
+  {
+    "id": "manilius-astronomica-4-decans",
+    "title": "马尼利乌斯《天文诗》第4卷，294–386行",
+    "url": "https://www.inusum.com/manilius/4/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核十度分段的古代文本实例。"
+  },
+  {
+    "id": "cambridge-sotto-voce",
+    "title": "Cambridge Dictionary，sotto voce",
+    "url": "https://dictionary.cambridge.org/dictionary/english/sotto-voce",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核低声说、唱或演奏义。"
+  },
+  {
+    "id": "esb-ardnacrusha-hydro",
+    "title": "爱尔兰电力供应局 ESB，Ardnacrusha 水电站",
+    "url": "https://esb.ie/what-we-do/generation-and-trading/ardnacrusha---hydro",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核电站称名、香农河渠道与 1929 年启用机组。"
+  },
+  {
+    "id": "vatican-requiem-ass-1908",
+    "title": "梵蒂冈，Acta Sanctae Sedis 41（1908），Requiem 短祷",
+    "url": "https://www.vatican.va/archive/ass/documents/ASS-41-1908-ocr.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核该卷请愿条中 Requiem、永光与安息三句。"
+  },
+  {
+    "id": "mcvey-sync-cosmopolitanisms-fw262",
+    "title": "Christopher McVey，《Syncretic Cosmopolitanisms》",
+    "url": "https://asset.library.wisc.edu/1711.dl/NRTO2SHCBTZQZ8L/R/file-a9122.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核论文引用 262.F2 并提出复原句处；书名页确认作者。"
+  },
+  {
+    "id": "christiani-scandinavian-262",
+    "title": "Dounia Bunis Christiani，《A Lexicon of Common Scandinavian in Finnegans Wake》",
+    "url": "https://www.editura.mttlc.ro/carti/sandulescu-lexicon-scandinavian-fw.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 262.19 的北欧语言读法。"
+  },
+  {
+    "id": "anw-schimmel-horse",
+    "title": "荷兰语研究院 ANW，schimmel",
+    "url": "https://anw.ivdnt.org/article/schimmel",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核同形的白马、灰马义。"
+  },
+  {
+    "id": "indiana-newton-emerald-tablet-28",
+    "title": "印第安纳大学，牛顿《翡翠碑》译文，Keynes MS.28",
+    "url": "https://webapp1.dlib.indiana.edu/newton/mss/norm/ALCH00017",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第 2r 叶上下互照一段。"
+  },
+  {
+    "id": "reading-huntley-palmers-catalogue-1884",
+    "title": "雷丁博物馆，Huntley & Palmers 1884 年饼干目录",
+    "url": "https://collections.readingmuseum.org.uk/index.asp?filename=REDMG&hitsStart=38&mwsquery=%28%7Bdate%7D%3D%2A%7B1880s%7D%29&page=record",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核目录的字母饼干图版和馆方所述动物造型。"
+  },
+  {
+    "id": "heimskringla-rolf-ganger",
+    "title": "斯诺里《挪威诸王列传》，Harald Harfager 传第24节",
+    "url": "https://www.gutenberg.org/files/598/598-h/598-h",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Rolf Ganger 的绰号、徒步由来与赫布里底行程。"
+  },
+  {
+    "id": "manx-heritage-godred-crovan",
+    "title": "马恩岛国家遗产机构，Vikings in Mann 教师指南",
+    "url": "https://manxnationalheritage.im/wp-content/uploads/2020/01/Vikings-in-Mann-Teachers-Guide.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Godred Crovan 的人名与指南所述编年史。"
+  },
+  {
+    "id": "smithsonian-cassowary-communication",
+    "title": "史密森尼国家动物园，Southern cassowary",
+    "url": "https://www.nationalzoo.si.edu/animals/southern-cassowary?qt-learn_more_about_the_animal=1",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 Communication 节所述鹤鸵低沉轰鸣。"
+  },
+  {
+    "id": "shaw-letter-smallpox-1928",
+    "title": "萧伯纳 1928 年 11 月 22 日来信，JAMA 刊载",
+    "url": "https://jamanetwork.com/journals/jama/article-abstract/660133",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核作者本人自述患过天花，不引用信中医疗推断。"
+  },
+  {
+    "id": "braslasu-henkes-curran-2024",
+    "title": "Viviana-Mirela Brașlașu 与 Robbert-Jan Henkes，Things We Know about Curran",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS24/GJS24_Braslasu_Henkes.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "PDF 第 7 页，核 VI.B.34 第 039 页笔记转录及 FW 264.19–23 成稿对照。"
+  },
+  {
+    "id": "bokmalsordboka-fylke",
+    "title": "Bokmålsordboka，fylke",
+    "url": "https://ordbokene.no/bm/fylke",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核行政区名词与列阵动词。"
+  },
+  {
+    "id": "jjda-sheet2-chapelizod",
+    "title": "James Joyce Digital Archive，FW Sheet 2",
+    "url": "https://jjda.ie/f/ff/fnbs/sh2all.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "第 31、32 页条目列房名，并转录约 1930 年 Thom 地址簿所记六十三英亩。 同核 Belgrove 对应 FW 265.01 及第31页三英里换算。第10(e)条核学艺句草稿，第38(e)条核 Maid Marian 旁注。"
+  },
+  {
+    "id": "le-fanu-house-by-church-yard",
+    "title": "J. Sheridan Le Fanu，The House by the Church-Yard",
+    "url": "https://www.gutenberg.org/files/17769/17769-h/17769-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核开篇 Chapelizod 蔓藤教堂塔与第 XXIII 章 King’s House 宴客。 续核开篇所记村中老榆。"
+  },
+  {
+    "id": "ddo-skaale",
+    "title": "Den Danske Ordbog，skåle",
+    "url": "https://www.ordnet.dk/ddo/ordbog/udbringe%20en%20sk%C3%A5l?entry_id=11047517",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核举杯说 skål 的搭配。"
+  },
+  {
+    "id": "ddo-igen",
+    "title": "Den Danske Ordbog，igen",
+    "url": "https://ordnet.dk/ddo/ordbog/igen",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核再次义。"
+  },
+  {
+    "id": "ddo-plads",
+    "title": "Den Danske Ordbog，plads",
+    "url": "https://ordnet.dk/ddo/ordbog/plads",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第二义处所及空间义。"
+  },
+  {
+    "id": "munster-show-pratts-spirit-1927",
+    "title": "Munster Agricultural Society，1927 年夏展目录 Pratt’s 广告",
+    "url": "https://www.archive.munsteragriculturalsociety.com/custom/public/files/1927-summer-show-catalouge-compressed.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Irish American Oil Co. 广告所列 Pratt’s Spirit。"
+  },
+  {
+    "id": "lewis-short-praesaepe",
+    "title": "Lewis 与 Short，praesaepe",
+    "url": "https://alatius.com/ls/index.php?l=praesaepe",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核畜栏、饲槽义。"
+  },
+  {
+    "id": "lewis-short-prosapia",
+    "title": "Lewis 与 Short，prosapia",
+    "url": "https://alatius.com/ls/index.php?l=prosapia",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核家系、血脉义。"
+  },
+  {
+    "id": "beecher-domestic-receipt-book",
+    "title": "Catharine Esther Beecher，Miss Beecher’s Domestic Receipt Book",
+    "url": "https://www.gutenberg.org/files/54965/old/54965-h/54965-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 Mushroom Catsup 条滤出汤汁装瓶的做法。"
+  },
+  {
+    "id": "historic-england-newcastle-borough",
+    "title": "Historic England，Newcastle Borough 档案条目",
+    "url": "https://historicengland.org.uk/listing/heritage-gateway/results/record/327e063c-c604-4fab-b973-b2566fb68559/MST2343",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Newcastle-under-Lyme 早期城堡与 1173 年特许记录。"
+  },
+  {
+    "id": "liverpool-king-john-patent",
+    "title": "Liverpool City Council，Letters Patent of King John",
+    "url": "https://liverpool.gov.uk/libraries/archives-family-history/our-collections/letters-patent-of-king-john/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核利物浦市档案所藏 1207 年特许状。"
+  },
+  {
+    "id": "geoffrey-monmouth-histories-x",
+    "title": "蒙茅斯的杰弗里《不列颠诸王史》第十卷，Sebastian Evans 英译",
+    "url": "https://sacred-texts.com/book/geoffrey-of-monmouth-histories-of-the-kings-of-britain/book-x",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核史诗语境的 Bedevere 侍酒官称号。"
+  },
+  {
+    "id": "wellcome-harington-ajax",
+    "title": "Wellcome Collection，An anatomie of the metamorphosed ajax 摄影档案",
+    "url": "https://identity.wellcomecollection.org/works/wftnfhpy",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 WT/D/1/20/1/115/92 所述 1596 年哈林顿便器资料。"
+  },
+  {
+    "id": "teanglann-dilis",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，dílis",
+    "url": "https://www.teanglann.ie/en/fgb/d%C3%ADlis",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核亲爱、忠贞两义。"
+  },
+  {
+    "id": "hesiod-works-days-elpis",
+    "title": "赫西俄德《工作与时日》，Center for Hellenic Studies 英译",
+    "url": "https://www-current.chs.harvard.edu/primary-source/hesiod-works-and-days-sb/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核96—99行潘多拉罐中独留 Elpis。"
+  },
+  {
+    "id": "morgan-storiella-1937",
+    "title": "Morgan Library & Museum，Storiella as She Is Syung",
+    "url": "https://www.themorgan.org/exhibitions/online/ulysses/storiella-she-syung",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 PML 197877 书名、1937 年 Corvinus Press 及露琪亚所绘首字。"
+  },
+  {
+    "id": "ovid-metamorphoses-v-proserpine",
+    "title": "奥维德《变形记》第五卷，A. S. Kline 英译",
+    "url": "https://ovid.lib.virginia.edu/trans/Metamorph5.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核391—401行冥王掳走少女及衣裂花散。"
+  },
+  {
+    "id": "hansard-belisha-1934",
+    "title": "英国下议院 Hansard，1934 年 11 月 14 日口头问答",
+    "url": "https://hansard.parliament.uk/commons/1934-11-14/debates/9c021393-3d3c-486e-be34-bfd25c28c08d/OralAnswersToQuestions",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核人行过街处的 Hore-Belisha 标识。"
+  },
+  {
+    "id": "usccb-judges-12-voice",
+    "title": "《士师记》12，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/judges/12",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第5—6节辨口音。"
+  },
+  {
+    "id": "kfuk-kfum-vedtekter",
+    "title": "KFUK-KFUM Norge，Vedtekter",
+    "url": "https://kfuk-kfum.no/var-organisasjon/vedtekter",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核章程内青年基督徒女子协会近似措辞。"
+  },
+  {
+    "id": "jjda-ii2-lcd15-corrections",
+    "title": "JJDA，II.2§3 Joyce–Léon 勘误转录",
+    "url": "https://jjda.ie/f/flex/lc/lcd15.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核页末与页首 Maybe／If 的大写及接缝。"
+  },
+  {
+    "id": "usccb-genesis-8-ararat",
+    "title": "《创世记》8，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/genesis/8",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第4节船停亚拉腊群山。"
+  },
+  {
+    "id": "usccb-luke-2-manger",
+    "title": "《路加福音》2，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/luke/2",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第7节马槽。"
+  },
+  {
+    "id": "wagner-hollaender-libretto",
+    "title": "瓦格纳，《漂泊的荷兰人》剧本",
+    "url": "https://www.gutenberg.org/files/27769/27769-h/27769-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核森塔角色及第三幕相拥升起舞台指示。"
+  },
+  {
+    "id": "um-conchita-score",
+    "title": "University of Malta，赞多奈《孔奇塔》里科尔迪乐谱记录",
+    "url": "https://www.um.edu.mt/library/oar/handle/123456789/112646",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核歌剧名与馆藏，未据此指认具体场景。"
+  },
+  {
+    "id": "nli-browne-nolan-catalogue",
+    "title": "爱尔兰国家图书馆，Browne and Nolan 出版目录记录",
+    "url": "https://catalogue.nli.ie/Record/vtls000258131",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核出版商名称与都柏林出版地。"
+  },
+  {
+    "id": "cambridge-carry-the-can",
+    "title": "Cambridge Dictionary，carry the can",
+    "url": "https://dictionary.cambridge.org/dictionary/english/carry-the-can",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核英式习语承担过失义。"
+  },
+  {
+    "id": "loc-aesop-ant-grasshopper",
+    "title": "《儿童伊索》，蚂蚁和蚱蜢",
+    "url": "https://read.gov/aesop/052.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核拒济、储粮与奏乐。"
+  },
+  {
+    "id": "loc-segar-thimble-theatre",
+    "title": "美国国会图书馆，E. C. Segar《顶针戏院》漫画原件",
+    "url": "https://www.loc.gov/pictures/item/2004672657/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核条目所录漫画标题及原件。"
+  },
+  {
+    "id": "dcc-latin-number-case",
+    "title": "Allen and Greenough 拉丁文法，Number and Case",
+    "url": "https://dcc.dickinson.edu/grammar/latin/number-and-case",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核与格、离格等名称。"
+  },
+  {
+    "id": "kent-gavelkind-on-ground",
+    "title": "Imogen Wedd，Gavelkind on the Ground, 1550–1700",
+    "url": "https://www.kentarchaeology.org.uk/journal/142/gavelkind-ground-1550-1700",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核肯特田产分承习惯。"
+  },
+  {
+    "id": "claes-semiotiek-citaat",
+    "title": "Paul Claes，Semiotiek van het citaat",
+    "url": "https://www.dbnl.org/tekst/_han005198601_01/_han005198601_01.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核印刷页223及224页所叙希腊旁注、法语谐听与学堂笑话异式。"
+  },
+  {
+    "id": "lindley-murray-english-grammar-scan",
+    "title": "Lindley Murray，English Grammar 扫描本",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/California_Digital_Library_%28IA_murraylindley00murrrich%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核题署及分词一节印刷页61—62的语态说明。"
+  },
+  {
+    "id": "dcc-latin-deponent",
+    "title": "Allen and Greenough 拉丁文法，Deponent Verbs",
+    "url": "https://dcc.dickinson.edu/grammar/latin/deponent-verbs",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第190节异相动词及分词。"
+  },
+  {
+    "id": "dcc-latin-core-hortor",
+    "title": "Dickinson College Commentaries，Latin Core List 异相动词",
+    "url": "https://dcc.dickinson.edu/latin-core-list1?field_part_of_speech_value=Verb%3A+Deponent&field_semantic_group_value=All&order=field_display_headwords&sort=asc",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 hortor 原形、异相分类与劝告义。"
+  },
+  {
+    "id": "dcc-latin-origins-quantity",
+    "title": "Allen and Greenough 拉丁文法，Origins of Quantity",
+    "url": "https://dcc.dickinson.edu/grammar/latin/origins-quantity",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核拉丁诗律音节时值。"
+  },
+  {
+    "id": "dcc-latin-position-quantity",
+    "title": "Allen and Greenough 拉丁文法，General Rules of Quantity",
+    "url": "https://dcc.dickinson.edu/grammar/latin/general-rules-quantity",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第603节辅音位置决定音节计长，区别元音时值。"
+  },
+  {
+    "id": "bonheim-fw-german-270",
+    "title": "Helmut Bonheim，《守灵夜》德语词表，Contemporary Literature Press 重印",
+    "url": "https://editura.mttlc.ro/carti/bonheim-lexicon-german-fw.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核第270页 lebbensquatsch、schlangder、muters、Verschwindibus、nimm、nehm、Lang Wang Wurm 条。"
+  },
+  {
+    "id": "teanglann-leanbh",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，leanbh",
+    "url": "https://www.teanglann.ie/en/fgb/leanbh",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核孩子义及 a leanbh bheag 呼语搭配。"
+  },
+  {
+    "id": "byu-froth-blowers-1928",
+    "title": "BYU 档案，Founder—Ancient Order of Froth Blowers",
+    "url": "https://archives.lib.byu.edu/repositories/14/archival_objects/141731",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "目录题名与年份作对照。未查实物。"
+  },
+  {
+    "id": "carroll-through-looking-glass",
+    "title": "Lewis Carroll，《镜中奇遇》，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/12/pg12-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第一章穿镜动作。"
+  },
+  {
+    "id": "bl-alice-under-ground",
+    "title": "英国图书馆，Alice’s Adventures Under Ground，Add MS 46700",
+    "url": "https://searcharchives.bl.uk/catalog/032-002102746",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核馆藏目录所述爱丽丝·利德尔与手稿。"
+  },
+  {
+    "id": "miller-night-lessons-narrative",
+    "title": "Daniel Quentin Miller，Narrative Theory and James Joyce’s Finnegans Wake，1990",
+    "url": "https://scholarworks.wm.edu/server/api/core/bitstreams/b6caf8ec-eb0a-4acf-ab14-898e00ed5ed3/content",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核印刷页28对 puny wars、Hireling、memoiries 的读法。"
+  },
+  {
+    "id": "mink-gazetteer-271",
+    "title": "Louis O. Mink，A Finnegans Wake Gazetteer",
+    "url": "https://asset.library.wisc.edu/1711.dl/G3EXA75VGLS5F8Q/E/file-e9cfe.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核印刷页93—94所列271页拟地名和 Gough 像线索。"
+  },
+  {
+    "id": "bokmalsordboka-torsk",
+    "title": "Bokmålsordboka，torsk",
+    "url": "https://ordbokene.no/bm/torsk",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核鳕鱼义。"
+  },
+  {
+    "id": "bokmalsordboka-mester",
+    "title": "Bokmålsordboka，mester",
+    "url": "https://ordbokene.no/bm/mester",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核擅长者、师傅义。"
+  },
+  {
+    "id": "appian-civil-wars-iv",
+    "title": "阿庇安《内战记》第四卷，Horace White 英译",
+    "url": "https://penelope.uchicago.edu/thayer/e/roman/texts/appian/civil_wars/4%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第2节第二次三头同盟人名与五年职权。"
+  },
+  {
+    "id": "suetonius-augustus-lacus",
+    "title": "苏埃托尼乌斯《奥古斯都传》，J. C. Rolfe 英译",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第27节共掌政权及随后变动。"
+  },
+  {
+    "id": "york-historical-caudle",
+    "title": "Yorkshire Historical Dictionary，caudle",
+    "url": "https://yorkshiredictionary.york.ac.uk/words/caudle",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 warm drink 一义。"
+  },
+  {
+    "id": "celt-keating-history",
+    "title": "Geoffrey Keating，《爱尔兰史》，CELT 英译",
+    "url": "https://celt.ucc.ie/document/T100054/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核第23节分地及随后两人相争。"
+  },
+  {
+    "id": "ariosto-orlando-furioso",
+    "title": "阿里奥斯托，《疯狂的奥兰多》，古腾堡意大利文",
+    "url": "https://www.gutenberg.org/files/3747/3747-h/3747-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "与 Eroico Furioso 核标题词形。"
+  },
+  {
+    "id": "phoenix-park-history",
+    "title": "Phoenix Park，History",
+    "url": "https://www.phoenixpark.ie/history/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核公园曾立 Hugh Gough 骑马像。"
+  },
+  {
+    "id": "cassius-dio-roman-history-50",
+    "title": "卡西乌斯·狄奥，《罗马史》第50卷，Earnest Cary 英译",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/50%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核阿克提乌姆海战及该卷桨列描写。"
+  },
+  {
+    "id": "bede-ecclesiastical-i15",
+    "title": "比德，《英吉利教会史》，A. M. Sellar 英译",
+    "url": "https://www.gutenberg.org/cache/epub/38326/pg38326-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核卷一第15章 Hengist、Horsa。"
+  },
+  {
+    "id": "smithsonian-seidlitz-powders",
+    "title": "Smithsonian National Museum of American History，Seidlitz Powders",
+    "url": "https://americanhistory.si.edu/ru/collections/object/nmah_718944",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核实物目录 1979.1144.115.B。"
+  },
+  {
+    "id": "rps-seidlitz-measure",
+    "title": "英国皇家药学会博物馆，Taking the Medicine",
+    "url": "https://www.rpharms.com/Portals/0/MuseumLearningResources/20%20Taking%20the%20Medicine.pdf?ver=2020-02-06-154512-663",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Seidlitz Measure 与其药粉冲水说明。"
+  },
+  {
+    "id": "glasheen-census-politics-272",
+    "title": "Adaline Glasheen，姓名索引，Sandulescu 编线性化第二册",
+    "url": "https://editura.mttlc.ro/carti/glasheen_fw_part_two.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核272.25—27及原注四的人名、近音读法。"
+  },
+  {
+    "id": "cnrtl-gueguerre",
+    "title": "TLFi，gueguerre",
+    "url": "https://www.cnrtl.fr/definition/gueguerre",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核与小规模争斗有关的语义。"
+  },
+  {
+    "id": "ovid-metamorphoses-vi-leda",
+    "title": "奥维德，《变形记》卷六，早期英语译文",
+    "url": "https://ovid.lib.virginia.edu/sources/OviEMet.part6.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核阿拉克涅织图中的勒达与天鹅。"
+  },
+  {
+    "id": "dcc-latin-core-maneo",
+    "title": "Dickinson College Commentaries，Latin Core List",
+    "url": "https://dcc.dickinson.edu/latin-core-list1",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 maneō 停留义。"
+  },
+  {
+    "id": "wall-irish-curragh-273",
+    "title": "Richard Wall 词条，Sandulescu 编 Dublin English in the Wake",
+    "url": "https://www.editura.mttlc.ro/carti/sandulescu-dublin-english-in-the-wake.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "查 273.L1 旁注中 Curragh、machree、bosthoon 三词释读。"
+  },
+  {
+    "id": "lewis-short-opprimo-273",
+    "title": "Lewis & Short，opprimo",
+    "url": "https://www.alatius.com/ls/index.php?l=opprime",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核拉丁语压下、压倒义。"
+  },
+  {
+    "id": "lewis-short-nex-273",
+    "title": "Lewis & Short，nex",
+    "url": "https://alatius.com/ls/index.php?l=nex",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核死、暴死与杀戮义。"
+  },
+  {
+    "id": "lincoln-gettysburg-hay-273",
+    "title": "Abraham Lincoln，Gettysburg Address，Hay 本，美国国会图书馆",
+    "url": "https://www.loc.gov/resource/mal.4356600/?st=text",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核演说结尾 of、by、for 排比，所据为馆藏转录。"
+  },
+  {
+    "id": "fisher-mutt-jeff-train-273",
+    "title": "Bud Fisher，Mutt and Jeff 铁路车厢连环画，美国国会图书馆",
+    "url": "https://www.loc.gov/item/2005680352/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核穆特与杰夫两名及一高一矮的形象，所据为馆藏记录。"
+  },
+  {
+    "id": "gazette-waterloo-dispatch-273",
+    "title": "The London Gazette，第17028号，第1213页，滑铁卢战报",
+    "url": "https://www.thegazette.co.uk/London/issue/17028/page/1213/data.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核威灵顿与拿破仑的对阵背景；仅作姓名影射的历史旁证。"
+  },
+  {
+    "id": "nli-gilbert-monte-carlo-274",
+    "title": "Fred Gilbert，The Man That Broke the Bank at Monte Carlo，爱尔兰国家图书馆乐谱记录",
+    "url": "https://catalogue.nli.ie/Record/vtls000259514",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核曲名、词曲者与演唱者登记。"
+  },
+  {
+    "id": "sandulescu-vianu-sayings-274",
+    "title": "Sandulescu 与 Vianu，The Sayings of Brancusi, Blake, and Joyce，第44页",
+    "url": "https://editura.mttlc.ro/carti/The%20Saying%20of%20B%2C%20B%2C%20and%20Joyce.%20CLP.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 274.01 破阵句与 Fred Gilbert 曲名对照。"
+  },
+  {
+    "id": "henkes-lost-found-274",
+    "title": "Robbert-Jan Henkes，《Lost and Found》，FW 274.09–10 条",
+    "url": "https://www.geneticjoycestudies.org/info/lost-and-found",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核汉尼拔、Hibrahim 与建堂用词在数种稿本间的变化，所据为具名转录。 同核 FW 275.11 条，关于银禧前缺句的稿本读法。"
+  },
+  {
+    "id": "jjda-ii2-lc10-274",
+    "title": "James Joyce Digital Archive，II.2§3 版本比较",
+    "url": "https://jjda.ie/f/flex/lc/lc10.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 274 页五式、建堂、椰枣树及跨页学艺句相关版本。"
+  },
+  {
+    "id": "halliwell-house-jack-dxciv-274",
+    "title": "James Orchard Halliwell 编，The Nursery Rhymes of England，DXCIV",
+    "url": "https://www.gutenberg.org/cache/epub/32415/pg32415-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核杰克盖屋累积童谣，第285页首节。"
+  },
+  {
+    "id": "upenn-stafford-pacata-275",
+    "title": "University of Pennsylvania，Thomas Stafford，Pacata Hibernia 书目",
+    "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp49200",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Pacata Hibernia 书名与书目所载题材，仅取目录证据。"
+  },
+  {
+    "id": "lewis-short-tellus-275",
+    "title": "Lewis & Short，tellūs",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n47675/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 tellus 的大地、土地诸义。"
+  },
+  {
+    "id": "jjda-ii2-ldd5-275",
+    "title": "James Joyce Digital Archive，II.2§5 第五稿",
+    "url": "https://jjda.ie/f/flex/ld/ldd5.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核第275页的西米英雄、接缝与银禧前异文。"
+  },
+  {
+    "id": "chaucer-troilus-iii-276",
+    "title": "Geoffrey Chaucer，Troilus and Criseyde，第三卷第133及134节",
+    "url": "https://academic.brooklyn.cuny.edu/webcore/murphy/troilus/troilus3ful.pdf",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核 dulcarnon 在人物对话里的两难义。"
+  },
+  {
+    "id": "browne-dove-276",
+    "title": "Thomas Browne，Pseudodoxia Epidemica，卷三第三章",
+    "url": "https://penelope.uchicago.edu/pseudodoxia/pseudo33.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核鸽无胆的旧说、温驯寓意及布朗所述反证。"
+  },
+  {
+    "id": "folger-hamlet-2-2-276",
+    "title": "Shakespeare，Hamlet，二幕二场，Folger 读本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核坚果壳及赫卡柏双向问句。"
+  },
+  {
+    "id": "lewis-short-vespertilio-276",
+    "title": "Lewis & Short，vespertilio",
+    "url": "https://alatius.com/ls/index.php?met=up&ord=vespertilio",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核拉丁语蝙蝠词义。"
+  },
+  {
+    "id": "sixpence-caldecott-276",
+    "title": "Randolph Caldecott，Sing a Song of Sixpence",
+    "url": "https://www.gutenberg.org/cache/epub/40154/pg40154-images.html",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核童谣 dainty dish 及鸟馅饼上下句。"
+  },
+  {
+    "id": "notredame-brennan-moor-276",
+    "title": "University of Notre Dame，Brennan on the Moor 单页歌谣著录",
+    "url": "https://archivesspace.library.nd.edu/repositories/3/archival_objects/1055219",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核单页歌谣题名，以目录为依据。"
+  },
+  {
+    "id": "levy-finigan-wake-276",
+    "title": "Johns Hopkins University，1864 年 Finigan’s Wake 乐谱",
+    "url": "https://levysheetmusic.mse.jhu.edu/collection/052/004",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核纽约版乐谱题名及年份。"
+  },
+  {
+    "id": "teanglann-lios-276",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，lios",
+    "url": "https://www.teanglann.ie/en/fgb/lios",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核爱尔兰语环堡义。"
+  },
+  {
+    "id": "jjda-ii2-l39ld-276",
+    "title": "James Joyce Digital Archive，II.2§5，1939 年本",
+    "url": "https://jjda.ie/f/flex/ld/l39ld.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 FW 275–276 接缝、赫卡柏变调及晚祷段。 第278页另核卷轴连写及 a letters。"
+  },
+  {
+    "id": "jjda-ii2-ldd2-277",
+    "title": "James Joyce Digital Archive，II.2§5 第二稿",
+    "url": "https://jjda.ie/f/flex/ld/ldd2.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核276页尾殡车与 Sunday King 跨页接缝。"
+  },
+  {
+    "id": "teanglann-ochon-277",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，ochón",
+    "url": "https://www.teanglann.ie/en/fgb/och%C3%B3n",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核爱尔兰语叹词与哭号义。"
+  },
+  {
+    "id": "lewis-short-flumen-277",
+    "title": "Lewis & Short，flumen",
+    "url": "https://alatius.com/ls/index.php?l=fluminibus",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核河流义。"
+  },
+  {
+    "id": "celt-enumeration-finn-277",
+    "title": "The Enumeration of Finn’s People，CELT 英译",
+    "url": "https://celt.ucc.ie/document/T303019/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核传说第5节的芬恩及 Fianna。"
+  },
+  {
+    "id": "church-ireland-gloria-patri-277",
+    "title": "Church of Ireland，礼文注释，小荣唱",
+    "url": "https://www.ireland.anglican.org/cmsfiles/pdf/Worship/resources/commentaries/Commentaries_new.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Gloria Patri 的起初、现在、永远次序。"
+  },
+  {
+    "id": "duden-herbst-277",
+    "title": "Duden，Herbst",
+    "url": "https://www.duden.de/rechtschreibung/Herbst",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核德语秋义。"
+  },
+  {
+    "id": "logainm-dublin-277",
+    "title": "爱尔兰地名数据库，Baile Átha Cliath／Dublin",
+    "url": "https://www.logainm.ie/ga/100002/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核都柏林爱尔兰语地名。"
+  },
+  {
+    "id": "nai-1798-pitchcap-278",
+    "title": "National Archives of Ireland，1798 年档案选，第6件",
+    "url": "https://www.nationalarchives.ie/PDF/1798.pdf",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "查1798年5月24日 W. Kildal 来函转录及档案说明，核沥青帽确属刑罚。"
+  },
+  {
+    "id": "treccani-fanciulla-278",
+    "title": "Treccani，fanciulla",
+    "url": "https://www.treccani.it/vocabolario/fanciulla_%28Sinonimi-e-Contrari%29/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核少女、年轻女性义。"
+  },
+  {
+    "id": "folger-julius-caesar-3-2-278",
+    "title": "Shakespeare，Julius Caesar，三幕二场，Folger 读本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/3-2/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核安东尼演说借耳的句子。"
+  },
+  {
+    "id": "browning-good-news-278",
+    "title": "Robert Browning，How They Brought the Good News from Ghent to Aix，Poetry Archive",
+    "url": "https://poetryarchive.org/poem/how-they-brought-good-news-from-ghent-aix-extract/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核诗题及传讯方向，页面另附朗诵和全诗。"
+  },
+  {
+    "id": "folger-alls-well-279",
+    "title": "Shakespeare，All’s Well That Ends Well，Folger 读本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/alls-well-that-ends-well/read/",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "与 FW 279 正文 war 排句比对剧名。"
+  },
+  {
+    "id": "unesco-hurling-279",
+    "title": "UNESCO，Hurling，名录项目 01263",
+    "url": "https://ich.unesco.org/en/RL/hurling-01263",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核爱尔兰棍球及 hurley 所指木棍。"
+  },
+  {
+    "id": "jjda-ii2-led7-279",
+    "title": "James Joyce Digital Archive，II.2§6 第七稿，Joyce–Léon 校订",
+    "url": "https://jjda.ie/f/flex/le/led7.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Buffalo VI.H.4.a 第279页长注的校订转录，特别是变位和 Auden。"
+  },
+  {
+    "id": "wildlife-trust-skokholm-279",
+    "title": "Wildlife Trust of South and West Wales，Skokholm Island",
+    "url": "https://www.welshwildlife.org/nature-reserves/skokholm-island",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "仅核威尔士岛名与所在郡，供与 Skokholme 并看。"
+  },
+  {
+    "id": "loc-sweet-chariot-279",
+    "title": "Library of Congress，Fisk University Jubilee Singers，1909 年录音目录",
+    "url": "https://www.loc.gov/item/jukebox-128141/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Swing Low, Sweet Chariot 曲名、录音年代。"
+  },
+  {
+    "id": "loc-anacreon-279",
+    "title": "Library of Congress，The Anacreontic Song，早期乐谱",
+    "url": "https://www.loc.gov/resource/music.musihas-100000012/",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核谱本所载首句的阿纳克里翁与天堂。"
+  },
+  {
+    "id": "jjda-ii2-lfd6-280",
+    "title": "James Joyce Digital Archive，II.2§7 Joyce–Léon 校订",
+    "url": "https://jjda.ie/f/flex/lf/lfd6.htm",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核 Hopely 句读、书信括号、银石异文与跨页收束。"
+  },
+  {
+    "id": "marlowe-shakespeare-mind-280",
+    "title": "Reading Shakespeare’s Mind，国会图书馆所藏电子版",
+    "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/52/29/2020715229/2020715229.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "查 Marlowe’s ghost in As You Like It 一章第17页关于周年追思称谓。"
+  },
+  {
+    "id": "nationaltrust-foster-copybook-280",
+    "title": "National Trust，Vere Foster’s Copy Books，藏品671779",
+    "url": "https://www.nationaltrustcollections.org.uk/object/671779",
+    "type": "archive",
+    "accessed": "2026-11-16",
+    "use": "核馆藏习字帖及其临写用途，以馆藏图录为据。"
+  },
+  {
+    "id": "treccani-soldo-280",
+    "title": "Treccani，soldo",
+    "url": "https://www.treccani.it/vocabolario/soldo/",
+    "type": "commentary",
+    "accessed": "2026-11-16",
+    "use": "核 soldi 作为钱币复数、钱财通义。"
+  },
+  {
+    "id": "horace-odes-3-13-280",
+    "title": "Horace，Carmina III.13，拉丁文本",
+    "url": "https://www.thelatinlibrary.com/horace/carm3.shtml",
+    "type": "primary",
+    "accessed": "2026-11-16",
+    "use": "核班杜西亚泉、明亮形容与末尾水声。"
+  },
+  {
+    "id": "bosworth-lammas-281",
+    "title": "Bosworth–Toller，hláfmæsse",
+    "url": "https://bosworthtoller.com/19177",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Lammas 日期。"
+  },
+  {
+    "id": "hart-structure-motif-quinet-281",
+    "title": "Clive Hart，Structure and Motif in Finnegans Wake，183至184页",
+    "url": "https://asset.library.wisc.edu/1711.dl/IOO5QNDLJBICI84/E/file-0e7af.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核基内出处及 Joyce 改写，实读印刷页183至184。"
+  },
+  {
+    "id": "revue-quinet-281",
+    "title": "Revue des Deux Mondes，1877年第22卷，转引基内",
+    "url": "https://fr.wikisource.org/wiki/Page%3ARevue_des_Deux_Mondes_-_1877_-_tome_22.djvu/176",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核十九世纪期刊转引字形。"
+  },
+  {
+    "id": "jjda-ii2-lfd4-281",
+    "title": "James Joyce Digital Archive，II.2§7 第四稿",
+    "url": "https://jjda.ie/f/flex/lf/lfd4.htm",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 FW 281 基内段的早稿读法。"
+  },
+  {
+    "id": "nietzsche-zarathustra-281",
+    "title": "Nietzsche，Also sprach Zarathustra，德文原作",
+    "url": "https://www.gutenberg.org/files/7205/7205-h/7205-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核左栏拟声与书题。"
+  },
+  {
+    "id": "hadrian-oracle-281",
+    "title": "Historia Augusta，Hadrian 2.8，Loeb 英译",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核传记所载问签，不判其历史真伪。"
+  },
+  {
+    "id": "treccani-folletto-281",
+    "title": "Treccani，folletto",
+    "url": "https://www.treccani.it/vocabolario/folletto/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核小精灵义。"
+  },
+  {
+    "id": "treccani-fazzoletto-281",
+    "title": "Treccani，fazzoletto",
+    "url": "https://www.treccani.it/vocabolario/fazzoletto/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核手帕义。"
+  },
+  {
+    "id": "folger-othello-willow-281",
+    "title": "Shakespeare，Othello，四幕三场，Folger 读本",
+    "url": "https://www.folger.edu/explore/shakespeares-works/othello/read/4/3/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核柳歌中的 sycamore 与叹息。"
+  },
+  {
+    "id": "duden-sieger-281",
+    "title": "Duden，Sieger",
+    "url": "https://www.duden.de/rechtschreibung/Sieger",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核胜者义。"
+  },
+  {
+    "id": "duden-ruhm-281",
+    "title": "Duden，Ruhm",
+    "url": "https://www.duden.de/rechtschreibung/Ruhm",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核荣耀、名声义。"
+  },
+  {
+    "id": "kb-kierkegaard-enten-281",
+    "title": "丹麦皇家图书馆，Enten – Eller，1843 年本",
+    "url": "https://www.kb.dk/e-mat/dod/11140801358A-bw.pdf",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核书名及时间。"
+  },
+  {
+    "id": "lewis-short-auspicium-282",
+    "title": "Lewis & Short，auspicium",
+    "url": "https://logeion.org/auspicium",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核察鸟飞占义。"
+  },
+  {
+    "id": "ods-begyndelse-282",
+    "title": "Ordbog over det danske Sprog，Begyndelse",
+    "url": "https://ordnet.dk/ods/ordbog/begyndelse",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核丹麦语开始义。"
+  },
+  {
+    "id": "ods-fanden-282",
+    "title": "Ordbog over det danske Sprog，Fanden",
+    "url": "https://ordnet.dk/ods/ordbog/Fanden",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核魔鬼名。"
+  },
+  {
+    "id": "harvard-prosody-282",
+    "title": "Harvard，Guide to Prosody",
+    "url": "https://poetry.harvard.edu/guide-prosody",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核两格律及 dactyl 指节记法。"
+  },
+  {
+    "id": "jjda-ii2-lgd7-282",
+    "title": "James Joyce Digital Archive，II.2§8 第七稿",
+    "url": "https://jjda.ie/f/flex/lg/lgd7.htm",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核早稿 ten fingures、no boy better 与五个拟称。"
+  },
+  {
+    "id": "jjda-ii2-lgd15-282",
+    "title": "James Joyce Digital Archive，II.2§8 第十五稿",
+    "url": "https://jjda.ie/f/flex/lg/lgd15.htm",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核数歌及第283页相接的拟名。"
+  },
+  {
+    "id": "sandulescu-unenglish-282",
+    "title": "Sandulescu 编，UnEnglish English in Finnegans Wake，172至173页",
+    "url": "https://editura.mttlc.ro/carti/sandulescu-unenglish-fw-vol3.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 FW 282.30–32 数歌声形和 FW 283.01 对读。"
+  },
+  {
+    "id": "teanglann-dubh-282",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，dubh",
+    "url": "https://www.teanglann.ie/ga/fgb/dubh",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核黑、暗等义。"
+  },
+  {
+    "id": "logeion-ventus-283",
+    "title": "Logeion，ventus，Harpers Antiquities",
+    "url": "https://logeion.org/ventus",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核荷马四方风名，另列八方风体系差异。"
+  },
+  {
+    "id": "smg-gunter-chain-283",
+    "title": "Science Museum Group，Gunter type measuring chain",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co52806/gunter-type-measuring-chain-surveying-chain",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核十九世纪实物测链的百节与六十六英尺丈量。"
+  },
+  {
+    "id": "chambers-medieval-measures-283",
+    "title": "Mark Chambers，How Long Is a Launce?",
+    "url": "https://doi.org/10.1017/9781782049487.003",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核旧羊毛衡制 tod、wey 和地方差值，实读作者提供的表2.3等单位资料。"
+  },
+  {
+    "id": "duden-donnerwetter-283",
+    "title": "Duden，Interjektionen, Inflektive und Satzwertigkeit",
+    "url": "https://www.duden.de/sprachwissen/sprachratgeber/Interjektionen",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Donnerwetter 的感叹词用法。"
+  },
+  {
+    "id": "duden-schicksal-283",
+    "title": "Duden，Schicksal",
+    "url": "https://www.duden.de/rechtschreibung/Schicksal",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核命运义。"
+  },
+  {
+    "id": "mactutor-todhunter-preface-283",
+    "title": "Isaac Todhunter，1862年《几何原本》序言，MacTutor 转录",
+    "url": "https://mathshistory.st-andrews.ac.uk/Extras/Todhunter_Euclid/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核数学教本序言作者、时间及三门学习法对读。"
+  },
+  {
+    "id": "logainm-gazetteer-284",
+    "title": "Gasaitéar na hÉireann，爱尔兰地名公报",
+    "url": "https://www.logainm.ie/download/gasaitear-na-heireann.pdf",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 2445 条 Fear Manach／Fermanagh。"
+  },
+  {
+    "id": "sandulescu-long-words-284",
+    "title": "Sandulescu 与 Vianu，Long Words，9至14章",
+    "url": "https://editura.mttlc.ro/carti/Lexicon%20999.2%20-%20Long%20Words%20ep.%209-14.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 284.14 的十二字符串及坐标。"
+  },
+  {
+    "id": "openstax-counting-284",
+    "title": "OpenStax，Algebra and Trigonometry，13.5 Counting Principles",
+    "url": "https://openstax.org/books/algebra-and-trigonometry/pages/13-5-counting-principles",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核组合记号 nCr 及不计顺序。"
+  },
+  {
+    "id": "dudeney-amusements-284",
+    "title": "Henry Ernest Dudeney，Amusements in Mathematics",
+    "url": "https://www.gutenberg.org/cache/epub/16713/pg16713-images.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核书名、作者及数学谜题分类；未认定某题为 Wake 题面出处。"
+  },
+  {
+    "id": "uusi-kielemme-numerot-285",
+    "title": "Uusi kielemme，The Numbers in Finnish",
+    "url": "https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/the-numbers-in-finnish-numerot",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核芬兰语基数 1 至 12 的拼法，尤其九、七、四三个含 ä 的词形。"
+  },
+  {
+    "id": "casey-euclid-286",
+    "title": "欧几里得著，John Casey 编注，《几何原本》前六卷",
+    "url": "https://www.gutenberg.org/cache/epub/21076/pg21076-images.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第一卷命题一作等边三角形及圆、交点的作法；用于比较题式。"
+  },
+  {
+    "id": "dublin-city-halfpenny-286",
+    "title": "都柏林市议会，The Ha’penny Bridge, Dublin",
+    "url": "https://www.dublincity.ie/ga/node/4128",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核半便士桥启用年份、铁桥材质、正式名称与俗称。"
   }
 ]
