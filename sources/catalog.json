@@ -4594,5 +4594,525 @@
     "type": "archive",
     "accessed": "2026-11-17",
     "use": "核半便士桥启用年份、铁桥材质、正式名称与俗称。"
+  },
+  {
+    "id": "proclus-royal-road-287",
+    "title": "普罗克洛斯，《几何原本》第一卷评注节选",
+    "url": "https://mathshistory.st-andrews.ac.uk/Extras/Proclus_history_geometry/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核圣安德鲁斯大学 MacTutor 所载英译节选中欧几里得与托勒密的王家大道轶事。"
+  },
+  {
+    "id": "vulgate-exodus16-3-287",
+    "title": "拉丁通行本，《出埃及记》16:3",
+    "url": "https://monitoring.biblindex.org/en/bible/vulgata/ex-16",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核埃及肉锅句。"
+  },
+  {
+    "id": "paris-catacombes-lutetia-287",
+    "title": "巴黎地下墓穴，Géologie et carrières",
+    "url": "https://catacombes.paris.fr/lhistoire/geologie-et-carrieres",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核古罗马时期巴黎旧名 Lutetia。"
+  },
+  {
+    "id": "lewis-short-flamen-287",
+    "title": "Lewis & Short，flamen（祭司）",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n18294/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核祭司义，此为古罗马祭司名词。"
+  },
+  {
+    "id": "lewis-short-flumen-287",
+    "title": "Lewis & Short，flumen",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n18442/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核流水、河川义。"
+  },
+  {
+    "id": "lewis-short-rivalis-287",
+    "title": "Lewis & Short，rivalis",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n41793/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核同用一道水及敌手二义。"
+  },
+  {
+    "id": "mary-howitt-spider-fly-287",
+    "title": "Mary Howitt，《蜘蛛与苍蝇》",
+    "url": "https://www.gutenberg.org/files/76027/76027-h/76027-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核《玛丽·豪伊特诗集》第226页起句与对话分角。"
+  },
+  {
+    "id": "dib-aoife-288",
+    "title": "Marie Therese Flanagan，Aífe (Aoife, Eva)",
+    "url": "https://www.dib.ie/index.php/biography/aife-aoife-eva-a0069",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Aífe 的 Eva 别名、父亲在伦斯特的王位及沃特福德陷落后的婚姻。"
+  },
+  {
+    "id": "dib-lipton-288",
+    "title": "Dictionary of Irish Biography，Lipton, Sir Thomas Johnstone",
+    "url": "https://www.dib.ie/biography/lipton-sir-thomas-johnstone-a4847",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核蒸汽游艇 Erin、五艘 Shamrock 赛艇。此条不证明 Lady Eva 的船籍。"
+  },
+  {
+    "id": "loc-foster-suwanee-289",
+    "title": "Stephen Foster 作，Percy Gaunt 编，Suwanee river",
+    "url": "https://www.loc.gov/resource/music.musm1508-10038554/?sp=1&st=grid",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核 1894 年编曲谱首段 down upon 与河名。"
+  },
+  {
+    "id": "vatican-propaganda-289",
+    "title": "罗马教廷，Congregazione per l’Evangelizzazione dei Popoli: Profilo",
+    "url": "https://press.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_20100524_profile_it.html",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 1622 年设立 Propaganda Fide 的教廷文告。"
+  },
+  {
+    "id": "loc-franklin-autobio-289",
+    "title": "Benjamin Franklin，自传印本",
+    "url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/autobiographyofb02fran/autobiographyofb02fran.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核书内第175页回顾费城风筝试验；不据此还原作品内全部电学叠写。"
+  },
+  {
+    "id": "illinois-boucicault-conn-289",
+    "title": "伊利诺伊大学图书馆，Dion Boucicault as Conn in The Shaughraun",
+    "url": "https://digital.library.illinois.edu/items/8b1a5510-4e7d-0134-1db1-0050569601ca-4",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核剧名及康恩角色。"
+  },
+  {
+    "id": "loc-peg-heart-290",
+    "title": "美国国会图书馆，Peg o’ My Heart",
+    "url": "https://www.loc.gov/item/jukebox-649063/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核1913年录音、词曲作者及题名。"
+  },
+  {
+    "id": "smithsonian-waterbury-290",
+    "title": "史密森学会，Watch, Waterbury, Series J",
+    "url": "https://www.si.edu/object/watch-waterbury-series-j%3Anmah_851224",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核沃特伯里怀表实物及制造商，不认定书中表款。"
+  },
+  {
+    "id": "uisce-vartry-290",
+    "title": "Uisce Éireann，Vartry Water Supply Scheme",
+    "url": "https://www.water.ie/projects/local-projects/vartry-water-supply-scheme",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Vartry 水库和威克洛、南都柏林供水关联。"
+  },
+  {
+    "id": "lewis-short-nunc-290",
+    "title": "Lewis & Short，nunc",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n31444/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 nunc 现在与 tunc 彼时的对举。"
+  },
+  {
+    "id": "heritage-muckross-290",
+    "title": "Heritage Ireland，Muckross Franciscan Friary",
+    "url": "https://heritageireland.ie/unguided-sites/muckross-franciscan-friary/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核修院旧址及回廊；揭藤是书中语。"
+  },
+  {
+    "id": "cornwall-shoreline-291",
+    "title": "Cornwall Council，Shoreline Management Plan SMP2",
+    "url": "https://www.cornwall.gov.uk/environment/countryside/flood-risk/shoreline-management-plan-2011-smp2/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核康沃尔海岸规划中 Land’s End、St Ives 邻近地带。"
+  },
+  {
+    "id": "obrien-crampton-peartree-291",
+    "title": "Eoin O’Brien，A Century of Service",
+    "url": "https://www.cdschc.ie/wp-content/uploads/2018/01/A_Century_of_Service-1.pdf#page=22",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 PDF 第22页所述梅里恩广场14号、菲利普·克兰普顿及宅中梨树；只登记院史所载。"
+  },
+  {
+    "id": "logainm-dlr-291",
+    "title": "Dún Laoghaire–Rathdown，街名地名册",
+    "url": "https://www.logainm.ie/download/dlrcc-sraidainmneacha-agus-logainmneacha.pdf",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Baile Uí Lachnáin／Loughlinstown 地名。"
+  },
+  {
+    "id": "logainm-dublin-291",
+    "title": "都柏林市，爱尔兰语及英语街名表",
+    "url": "https://www.logainm.ie/download/dcc-sraidainmneacha-bhaile-atha-cliath.pdf",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Stoneybatter／Bóthar na gCloch。"
+  },
+  {
+    "id": "ashton-hat-ballad-291",
+    "title": "John Ashton 编，Modern Street Ballads",
+    "url": "https://www.gutenberg.org/files/65524/65524-h/65524-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第173页 All Round My Hat 副歌所戴绿柳。"
+  },
+  {
+    "id": "livy-vae-victis-292",
+    "title": "李维，《罗马史》5.48",
+    "url": "https://www.lateinlex.de/?call=Puc&permalink=Liv_5_48",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第9节原拉丁语、砝码与剑的叙事。"
+  },
+  {
+    "id": "piave-rigoletto-292",
+    "title": "Francesco Maria Piave，《弄臣》歌剧脚本",
+    "url": "https://librettidopera.it/rigoletto/rid.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第三幕第二场公爵唱词与 donna 词形。"
+  },
+  {
+    "id": "tennyson-light-brigade-292",
+    "title": "Alfred Tennyson，《轻骑兵冲锋》",
+    "url": "https://rpo.library.utoronto.ca/content/charge-light-brigade-3",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核多伦多大学选本所载1908年诗集中首两行的三复步式。"
+  },
+  {
+    "id": "ries-coss-293",
+    "title": "Adam-Ries-Bund，Algebra-Handschrift: Die Coß von Adam Ries",
+    "url": "https://www.adam-ries-bund.de/forschung/coss/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核学会转录手稿第109页 Coß／Radix／Ding，含馆藏沿革。"
+  },
+  {
+    "id": "cicero-scipio-293",
+    "title": "西塞罗，《论共和国》第六卷，Somnium Scipionis",
+    "url": "https://www.latin-is-simple.com/en/library/cicero/de-re-publica/book-6/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第9至11节梦语的原拉丁文及作品题名。"
+  },
+  {
+    "id": "worth-newton-arithmetica-293",
+    "title": "Edward Worth Library，Arithmetica universalis",
+    "url": "https://newton.edwardworthlibrary.ie/Books-by-Newton/Arithmetica/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核1707年版扉页、通用算术题名及收藏说明。"
+  },
+  {
+    "id": "danish-galehus-294",
+    "title": "Ordbog over det danske Sprog，Galehus",
+    "url": "https://www.ordnet.dk/ods/ordbog/Galehus",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核丹麦语旧称与词例。"
+  },
+  {
+    "id": "stpatricks-swift-294",
+    "title": "St Patrick’s Mental Health Services，Jonathan Swift Institute",
+    "url": "https://www.stpatricks.ie/get-involved/fundraising",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核斯威夫特遗嘱资助设立精神病院。"
+  },
+  {
+    "id": "iitk-gita-14-5-294",
+    "title": "印度理工学院坎普尔，《薄伽梵歌》14.5",
+    "url": "https://heritage.iitk.ac.in/SBG/14.5?script=ro",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核三质词形、经文排序及其出处。"
+  },
+  {
+    "id": "dib-king-294",
+    "title": "Dictionary of Irish Biography，King, Sir Abraham Bradley",
+    "url": "https://www.dib.ie/index.php/biography/king-sir-abraham-bradley-a9210",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核同名商人、市长任期和家族文具业。"
+  },
+  {
+    "id": "excavations-baginbun-294",
+    "title": "Martin Byrne，2011:629 Ramstown, Wexford",
+    "url": "https://excavations.ie/report/2011/Wexford/0022915/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Baginbun 古迹及1170年要塞背景。"
+  },
+  {
+    "id": "loc-irish-come-all-295",
+    "title": "美国国会图书馆，Irish come-all-ye’s",
+    "url": "https://www.loc.gov/item/02001434/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核爱尔兰歌集题名与馆藏。未认定本页引用该版或某首歌。"
+  },
+  {
+    "id": "logainm-lucan-295",
+    "title": "爱尔兰地名库，Baile Átha Cliath／Dublin 下列地名",
+    "url": "https://www.logainm.ie/ga/100002/sub/FB?sort=en",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Lucan／Leamhcán 拼写及都柏林归属。"
+  },
+  {
+    "id": "dib-dunlop-295",
+    "title": "Dictionary of Irish Biography，Dunlop, John Boyd",
+    "url": "https://www.dib.ie/index.php/biography/dunlop-john-boyd-a2849",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核邓禄普姓名、充气轮胎背景。"
+  },
+  {
+    "id": "mcmorran-geometry-296",
+    "title": "Ciaran McMorran，Geometry and Topography in James Joyce’s Ulysses and Finnegans Wake，格拉斯哥大学博士论文，2016",
+    "url": "https://theses.gla.ac.uk/7385/7/2016mcmorranphd.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核第71至72页论图并转引 McHugh 的四边、虚实线和上下两点解释。本轮未查 McHugh 原书。"
+  },
+  {
+    "id": "mccreedy-ocone-296",
+    "title": "Jonathan McCreedy，Ocone! Ocone!: ALP’s 3D Siglum and Dolph’s “Night (Sex-Education) Lessons”",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS11/GJS11_McCreedy.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核论文第7至8页上下交点、虚实线和从语词到图边的解释。"
+  },
+  {
+    "id": "itma-percy-french-296",
+    "title": "Irish Traditional Music Archive，Songs of Percy French",
+    "url": "https://itmacatalogues.ie/Portal/Default/en-GB/RecordView/Index/81047",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核馆藏所列 Are Ye Right There, Michael?。"
+  },
+  {
+    "id": "gjs-percy-french-notebook-296",
+    "title": "Viviana-Mirela Braslasu 与 Ian MacArthur，MacPherson and Percy French in Knout, Notebook VI.B.42，Genetic Joyce Studies 第23期",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS23/GJS23_Braslasu_MacArthur_1.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 VI.B.42.057–058 的歌曲条目、整理者转录的副歌，据此比本页改写。"
+  },
+  {
+    "id": "walton-angler-296",
+    "title": "Izaak Walton，The Compleat Angler",
+    "url": "https://www.gutenberg.org/cache/epub/683/pg683-images.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核钓鱼著作原题。"
+  },
+  {
+    "id": "griffin-shannon-stream-297",
+    "title": "Gerald Griffin，The Poetical and Dramatic Works，《香农河水》",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_poetical_and_dramatic_works_of_Gerald_Griffin_%28IA_poeticaldramatic00gri%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核该诗首节复沓和香农河声。"
+  },
+  {
+    "id": "henkes-braslasu-shannon-297",
+    "title": "Robbert-Jan Henkes 与 Viviana-Mirela Braslasu，The Lost Notebook VI.D.2，Genetic Joyce Studies 第19期",
+    "url": "https://repository.uantwerpen.be/docman/irua/8e0072/braslasu.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核文中 VI.C.15.190(j) 条目与编者注明的 FW 297.F3 关系。"
+  },
+  {
+    "id": "dib-wilde-speranza-297",
+    "title": "Dictionary of Irish Biography，Wilde, Jane Francesca Agnes (Speranza)",
+    "url": "https://www.dib.ie/biography/wilde-jane-francesca-agnes-speranza-a9035",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核笔名及向 The Nation 投稿用名。"
+  },
+  {
+    "id": "webster-chape-297",
+    "title": "Noah Webster，An American Dictionary of the English Language，1828，CHAPE",
+    "url": "https://1828.mshaffer.com/d/word/chape",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核鞘端义及法语覆物、礼披的词源释义。"
+  },
+  {
+    "id": "virtual-shanghai-whangpoo-297",
+    "title": "Virtual Shanghai，Map of the Whangpoo and surrounding districts",
+    "url": "https://www.virtualshanghai.net/maps/source?ID=236",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核1923年地图题录英汉标题拼名；档案注明未数字化，本轮仅见题录。"
+  },
+  {
+    "id": "prometheus-bound-297",
+    "title": "《被缚的普罗米修斯》，Internet Classics Archive 英译",
+    "url": "https://classics.mit.edu/Aeschylus/prometheus.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核普罗米修斯给人希望及火的对话。"
+  },
+  {
+    "id": "lewis-short-ambages-298",
+    "title": "Lewis & Short，ambāges",
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n2142/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核绕行及言语迂回。"
+  },
+  {
+    "id": "openstax-zero-power-298",
+    "title": "OpenStax，Intermediate Algebra 2e，5.2",
+    "url": "https://openstax.org/books/intermediate-algebra-2e/pages/5-2-properties-of-exponents-and-scientific-notation",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核非零底数零次方规则。"
+  },
+  {
+    "id": "dionysius-hierarchies-298",
+    "title": "伪狄奥尼修斯，Works，John Parker 英译",
+    "url": "https://ccel.org/ccel/d/dionysius/works/cache/works.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核《教会等级》《天界等级》的题名及等级词。"
+  },
+  {
+    "id": "glaisher-log-tables-298",
+    "title": "James Whitbread Lee Glaisher，Logarithms，第九版《大英百科全书》",
+    "url": "https://en.wikisource.org/wiki/Page:Encyclop%C3%A6dia_Britannica,_Ninth_Edition,_v._14.djvu/796",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核常用对数表保尾数非负及首数另记。"
+  },
+  {
+    "id": "scottish-bcp-sexagesima-298",
+    "title": "1929年苏格兰《公祷书》，主显后至四旬期经课",
+    "url": "https://justus.anglican.org/resources/bcp/Scotland/Scot_Epiphany%26Lent_Readings.htm",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核 Sexagesima 为四旬期前第二个主日。"
+  },
+  {
+    "id": "mink-aulis-299",
+    "title": "Louis O. Mink，A Finnegans Wake Gazetteer",
+    "url": "https://asset.library.wisc.edu/1711.dl/G3EXA75VGLS5F8Q/E/file-e9cfe.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 299.L1 Aulidic Aphrodite／Aulis 对应。"
+  },
+  {
+    "id": "bartnicki-ghoti-299",
+    "title": "Krzysztof Bartnicki，Finnegans Wake as a System of Knowledge Without Primitive Terms，耶拿大学博士论文，2021",
+    "url": "https://d-nb.info/1238141900/34",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核第82页注62把 Gee each owe tea eye 与 ghoti 联系；不据此确认最早造词者。"
+  },
+  {
+    "id": "blackstone-inheritance-300",
+    "title": "William Blackstone，Commentaries on the Laws of England，卷二",
+    "url": "https://www.lonang.com/wp-content/download/Blackstone-CommentariesBk2.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核长子继承及有些地方由幼子承继的历史说明，用于比对术语。"
+  },
+  {
+    "id": "dib-vere-foster-300",
+    "title": "Dictionary of Irish Biography，Foster, Vere Henry Louis",
+    "url": "https://www.dib.ie/biography/foster-vere-henry-louis-a3340",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核维尔·福斯特习字帖的范写与空行形式。"
+  },
+  {
+    "id": "hamilton-quaternions-300",
+    "title": "William Rowan Hamilton，On a new Species of Imaginary Quantities connected with a theory of Quaternions",
+    "url": "https://www.maths.tcd.ie/pub/HistMath/People/Hamilton/Quatern1/Quatern1.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核汉密尔顿论四元数及四个实数分量。"
+  },
+  {
+    "id": "klinger-sturm-drang-300",
+    "title": "Friedrich Maximilian Klinger，Sturm und Drang，TextGrid",
+    "url": "https://textgridrep.de/browse/textgrid%3Ar12j.0",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核剧名及德文题形。"
+  },
+  {
+    "id": "smithsonian-napier-300",
+    "title": "John Napier，Rabdologiæ，史密森学会藏1617年版",
+    "url": "https://library.si.edu/digital-library/book/rabdologiaseunu00napi",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核算筹原书与棒的图释。"
+  },
+  {
+    "id": "brooke-black-sheep-300",
+    "title": "L. Leslie Brooke 绘，A Nursery Rhyme Picture Book",
+    "url": "https://www.gutenberg.org/files/29840/29840-h/29840-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核旧版童谣黑羊、羊毛与咩声。"
+  },
+  {
+    "id": "bruno-furori-301",
+    "title": "Giordano Bruno，De gli eroici furori",
+    "url": "https://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Bruno/Furori.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核 Laodonio 话中的 se non è vero 俗语词句。"
+  },
+  {
+    "id": "verdi-trovatore-301",
+    "title": "Giuseppe Verdi、Salvatore Cammarano，Il trovatore",
+    "url": "https://www.librettidopera.it/trovatore/rid.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核歌剧脚本标题与 trovatore 名形。"
+  },
+  {
+    "id": "exodus-shittim-301",
+    "title": "《出埃及记》25:10，KJV／NIV",
+    "url": "https://www.biblegateway.com/passage/?search=Exodus+25%3A10&version=KJV%3BNIV",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核两英译本所写的约柜木料。"
+  },
+  {
+    "id": "usgs-artesian-spring-301",
+    "title": "USGS，Water Science Glossary",
+    "url": "https://www.usgs.gov/water-science-school/science/water-science-glossary",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 artesian 与 flowing well/spring 的承压水含义。"
   }
 ]
