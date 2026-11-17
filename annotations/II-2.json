@@ -5398,6 +5398,131 @@
       "source_ids": [
         "joyce-fp"
       ]
+    },
+    {
+      "id": "ii2-302-candle",
+      "lemma": "my pascol's kondyl",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "pascol 近 paschal，kondyl 连着借物和敷药钱。正文暂沿旧译「帕斯卡的烛台」。节期、烛台或人名能否并读，待查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-apology",
+      "lemma": "best apolojigs",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "apologies 接上舞步 jig。后面 guerdon 保留报偿口气，听来像一面致歉、一面讨赏。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-thirst",
+      "lemma": "a capital Tea for Thirst",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Tea 与字母 T 同音，Thirst 也以大写 T 起头。一句兼说写字与喝茶解渴。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-buvard",
+      "lemma": "Buvard to dear Picuchet. Blott.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "福楼拜第一章写布瓦尔与佩居谢互见帽内姓名。这里两名均变形，Buvard 又是法语吸墨纸，接下句墨斑。帽与书写可相照。",
+      "source_ids": [
+        "joyce-fp",
+        "flaubert-bouvard-conard",
+        "cnrtl-eponge-buvard"
+      ]
+    },
+    {
+      "id": "ii2-302-pen",
+      "lemma": "bifurking calamum in his bolsillos",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bifurking 带叉分声形，calamum 可作拉丁语芦管笔宾格。句末 bolsillos 近西班牙语口袋。先取抓笔动作，再接签字与戏写。",
+      "source_ids": [
+        "joyce-fp",
+        "logeion-calamus-302"
+      ]
+    },
+    {
+      "id": "ii2-302-key",
+      "lemma": "The Key Signature.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "旁注用音乐术语「调号」。正文正写签字，后有 key 和末行。调号、签名与钥匙互照，尚无证据指定实际曲调。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-ear",
+      "lemma": "Ohr for oral, key for crib",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "德语 Ohr 是耳，oral 指口头。key 与 crib 可指解题线索与小抄，又回照旁注调号和芝麻开门。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-post",
+      "lemma": "And i Romain, hup u bn gd grl.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "落款把 remain 写近 Romain，后半仿省字急写，仍可听见望对方当乖女孩的口气。正文保留简札节拍。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-dice",
+      "lemma": "Two dies of one rafflement.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dies 可借 dice 听成两颗骰子，又保有模具字义。后句立刻盖印分寄，骰戏和印制相挨。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-macbeth",
+      "lemma": "Macbeths Jerseys knacking spots of the Plumpduffs Pants.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《麦克白》5.1 逐斑，5.8 麦克白与麦克德夫交锋。此处借队衣、球裤和打飞斑点改写成赛场口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "folger-macbeth-play"
+      ]
+    },
+    {
+      "id": "ii2-302-lisp",
+      "lemma": "Lifp year fends you all and moe",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Lifp 叠 lisp 与 leap year。后列多处用 f 换 s，像口齿漏风，也像旧式长 s 字形。中文用叠音替补。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-302-saens",
+      "lemma": "San holypolypools.",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "音形可牵到作曲家圣桑。holy、pools 仍露在词面。法国国家图书馆目录可核姓名，所指曲目待考。",
+      "source_ids": [
+        "joyce-fp",
+        "bnf-saint-saens-samson"
+      ]
     }
   ],
   "fw-ii2-303-01": [
@@ -5405,20 +5530,23 @@
       "id": "ii2-force-centres-kundalini",
       "lemma": "Force Centres of the Fire Serpentine: heart, throat, navel, spleen, sacral, fontanella, intertemporal eye",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "原左旁注按序列心、喉、脐、脾、骶、囟、颞间眼七处。译文照列，不拿另一套脉轮次序替换。Kundalini传统及这份清单的来源仍待专门查证。",
+      "certainty": "proposal",
+      "text": "Leadbeater 的七处按脊柱底、脐、脾、心、喉、眉间、头顶排列。Silva 据 Van Mierlo 追至乔伊斯笔记 VI.C.7-260。此处换过次序，也改了骶、囟、颞间眼等称呼。旁注照《守灵夜》列，笔记到本页的成稿步骤仍待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "leadbeater-serpent-fire-1910",
+        "silva-floundering-2020"
       ]
     },
     {
       "id": "ii2-according-to-cocker",
       "lemma": "according to cocker",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "according to cocker位于右旁注，译作照科克规矩。Edward Cocker身份、教材年代与俚语沿用史尚待词典书目，不以原著一项来源担保。",
+      "certainty": "supported",
+      "text": "本页右旁注接上页 all square and。Fox 记爱德华·科克算术书于1678年初刊，成语意为「照规矩办」。此处保人名，以便与算术语境连读。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "fox-cocker-arithmetick"
       ]
     },
     {
@@ -5426,9 +5554,10 @@
       "lemma": "from jake, jack and little sousoucie",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "落款原序是jake、jack、little sousoucie；译文保留字串，避免把前两名颠倒。三者与谢姆、肖恩、伊瑟的对应及法语sans souci回声仍待研究，不能冒充正文已点名。",
+      "text": "落款保 jake、jack、little sousoucie 的原序与小写。McCreedy 论文转录一份草稿用 jak，另稿用 jake，将三人读作爱尔威克家的孩子。人物逐名对应和法语 sans souci 的回声仍待查。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "mccreedy-nightletter-2022"
       ]
     },
     {
@@ -5436,7 +5565,7 @@
       "lemma": "Thumb on nose, with crossed forks below",
       "kind": "structure",
       "certainty": "uncertain",
-      "text": "原图可见拇指抵鼻手势与下方交叉双叉，译文留图示说明。是否三兄妹各自签名是解释，不能据图断定。生成读本的实际排图另由构建核对。",
+      "text": "Faded Page 将此图排在落款后、两条原注前的左侧。见证图画掌指拇指抵鼻，下方两叉交错。中文标出图位，读本原文区收相应图像。图是否另作署名，待查。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -5456,7 +5585,7 @@
       "lemma": "our drawings on the line",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "drawings on the line可兼线条上的画与绳线晾物。译文保留两路，不再用圆满落幕代替正文覆盖检查。",
+      "text": "line 可读书写线条，也可读晾绳。中文保在线画、在绳挂两层。该句和对方自乐连着说，未指定绳上挂何物。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -5466,7 +5595,709 @@
       "lemma": "Aun Do Tri Car Cush1 Shay Shockt Ockt Ni Geg2",
       "kind": "translation",
       "certainty": "proposal",
-      "text": "十项以变音字串计数，译文保留原音形，不只用一至十替换；精确语言归属未在本轮外核。jake、jack及sousoucie也照存落款次序，人物对应另待研究。",
+      "text": "按顺序可对照爱尔兰语独立数词：一至十依次为 a haon、a dó、a trí、a ceathair、a cúig、a sé、a seacht、a hocht、a naoi、a deich。正文逐行保乔伊斯写法，第五、第十项各留原注。现代标准足以核对数序，作者口音及每字成因待查。",
+      "source_ids": [
+        "joyce-fp",
+        "oireachtas-caighdean-counting"
+      ]
+    },
+    {
+      "id": "ii2-303-romeo",
+      "lemma": "Romeopullupalleaps",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "名字与上拉、跃跳缀成一词。《罗密欧与朱丽叶》2.2 有果园高墙和罗密欧越墙，给这里的跃势作对照。原词仍兼作下句笔势示范的引子。",
+      "source_ids": [
+        "joyce-fp",
+        "folger-romeo-juliet-2-2"
+      ]
+    },
+    {
+      "id": "ii2-303-pose",
+      "lemma": "Pose the pen, man",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "pose 和 pen 连响，下接大胆挥笔。译成摆好笔，留住手势，随后才行笔。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-writers",
+      "lemma": "Steal, this is Barke, this is Starn, this is Swhipt, this is Wiles, this is Pshaw, this is Doubbllinnbbayyates.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拟名依次可听出 Steele、Burke、Sterne、Swift、Wilde、Shaw、Yeats。首项还可听成偷，Pshaw 带轻蔑语气，末项重叠都柏林湾。正文添几个声形提示，仍照原序。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-speaks",
+      "lemma": "weeping his spache for the popers",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "weeping 与演说并写。popers 可指涉教皇党，拼法也靠近 papers，正文暂取前一层。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-parnell",
+      "lemma": "Chawleses Skewered parparaparnelligoes",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Broes 的索引摘录把这一处连到 Charles I、Charles II 与 Parnell。音形也容 Charles Stewart Parnell 和 skewered 的串穿动作。正文留串声与叠起的帕。",
+      "source_ids": [
+        "joyce-fp",
+        "broes-newslitter-303"
+      ]
+    },
+    {
+      "id": "ii2-303-fruit",
+      "lemma": "forebitten fruit",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "forbidden fruit 与 bitten 贴合，把受禁和已经咬过挤进一个词。前面叫 Jacoby，后面还馋薄脆饼。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-paraboles",
+      "lemma": "paraboles of famellicurbs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "paraboles 并响寓言与抛物线，famellicurbs 又牵家室、饥饿与曲线。正文用「抛物线寓言」叠两层，保留前文作图的余响。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-awl",
+      "lemma": "triperforator awlrite",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "triperforator 强调三穿，awlrite 露出锥子 awl，又可听作 all right。随后钻破拟作羊皮纸的 pergaman。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-adder",
+      "lemma": "adder's badder cadder",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "三个词依次起 a、b、c。adder 可牵加法和蛇。译文用「加、坏、刻」与反复的蛇替补，三连尾韵减弱。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-303-cain",
+      "lemma": "was misocain. Wince",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《创世记》4.8 写该隐杀弟。这里方说两人打到死，misocain 叠该隐之名。Wince 跨页接 wan’s won! 的音串。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-4-usccb"
+      ]
+    },
+    {
+      "id": "ii2-303-spell",
+      "lemma": "not aebel to speel eelyotripes.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "aebel 兼近 able 和 Abel，speel 近 spell。eelyotripes 可听成 heliotrope，连到第二卷第一章颜色猜谜。「天鳗芥菜」借鳗字留住开头的 eel，也照应第二卷第一章「天芥菜」。末尾仍可听出杂碎 tripe。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-wince",
+      "lemma": "wan's won! Rip!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "跨页接 Wince，再响 wan、won，响过才裂。正文添「温呀温」留回声，「赢」保 won。Rip 兼可让人想起墓铭缩写，正文取撕裂声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-counting",
+      "lemma": "his countinghands rose",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "计数与手并成一词。紧承该隐拟名，可以对读《创世记》4.5 该隐面色沉下的写法。此处举手，中文保动作。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-4-usccb"
+      ]
+    },
+    {
+      "id": "ii2-304-bane",
+      "lemma": "Slutningsbane",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Sandulescu 词表将 slutning 释为结末，bane 兼轨道和死亡等义。正文让路和命一起到头，与前句 death 连读。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-scandinavian-304"
+      ]
+    },
+    {
+      "id": "ii2-304-service",
+      "lemma": "Service superseding self.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "扶轮组织记1911年已有 Service Above Self 的前身。此处把 above 改成主动压过的 superseding，本页后部另有 rotary 旁注，两个线索可同看。",
+      "source_ids": [
+        "joyce-fp",
+        "rotary-motto-1911"
+      ]
+    },
+    {
+      "id": "ii2-304-buckup",
+      "lemma": "merci buckup",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "merci buckup 靠近法语道谢 merci beaucoup，buck up 又是振作。译文并排保音和催促。右旁注同排还有牌戏与挥击。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-point",
+      "lemma": "Thanks eversore much, Pointcarried!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "eversore 加入痛感，紧接一击。Pointcarried 可听成动议通过，又像游戏得点。正文取表决口气。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-move",
+      "lemma": "present momentum, potential as I am",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "momentum 与 potential 并列，下一句光环又有绕转。译文用「动量」与「势能」保一层物理语汇，原文只写 potential。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-saxo",
+      "lemma": "Saxon Chromaticus",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Sandulescu 在304.18 指向写《丹麦史》的 Saxo Grammaticus。此处 Grammaticus 变成 Chromaticus，语法名换出音阶或色彩语汇。正文保变形名。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-scandinavian-304",
+        "saxo-gesta-baltic"
+      ]
+    },
+    {
+      "id": "ii2-304-coiffure",
+      "lemma": "listeningin coiffure",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "无线电收听语汇贴上发式。正文写「收听发式」，保两物的突兀接合。是头戴装置还是发式比拟，待考。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-gloss",
+      "lemma": "Wipe your glosses",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "擦拭的动作让 glosses 可听成 glasses，词形又让人想到释词。原注两层并留。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-304-delph",
+      "lemma": "throwing delph",
+      "kind": "wordplay",
+      "certainty": "supported",
+      "text": "Collins 将 delph 连到代尔夫特式锡釉陶器。原注又敲汤盆，两处都留器皿的实感。正文概译陶碟。",
+      "source_ids": [
+        "joyce-fp",
+        "collins-delph-304"
+      ]
+    },
+    {
+      "id": "ii2-304-crumbs",
+      "lemma": "crambs as they crumbed",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "碎屑名词扭作动词再响一次。桌上落碎屑，口里唱，转眼又算，句末 So 悬到下一页。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-must",
+      "lemma": "read we in must book",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "read 承上页 So。must book 可听近 mass book，又像「非读不可」的书。后文归耳于书，正文用「必读经」留此两向。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-profits",
+      "lemma": "He prophets most who bilks the best.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "prophets 与 profits 近音，一边预言，一边从赖账骗术获利。保留两层，接前页算题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-commands",
+      "lemma": "leg in a tee, lug in a law, two at a tie, three on a thricky",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "leg、lug 对着喊，tee、tie 连音。two、three 逐个数上去，末尾叠响 ohio。中文保步数、动作与回环，具体游戏待查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-eye",
+      "lemma": "Eyeinstye!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "字面可拆 eye 与 stye，也听近 Einstein。正文用「眼针斯坦」，把针眼和拟名并在一处。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-truth",
+      "lemma": "The Twofold Truth and the Conjunctive Appetites of Oppositional Orexes.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "McIntyre 第75页用 twofold truth 述布鲁诺受审时援引的辩法。此旁注叠上相反的食欲，正文另有合拢羊皮。词形相接，未核乔伊斯笔记原件。",
+      "source_ids": [
+        "joyce-fp",
+        "mcintyre-bruno-twofold"
+      ]
+    },
+    {
+      "id": "ii2-305-beast",
+      "lemma": "Trionfante di bestia!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "布鲁诺书名 Spaccio de la bestia trionfante 将 bestia 与 trionfante 连用。此处乔伊斯换序，短呼保兽与凯旋，未补出书名中的驱逐动作。",
+      "source_ids": [
+        "joyce-fp",
+        "bruno-spaccio-1863"
+      ]
+    },
+    {
+      "id": "ii2-305-silver",
+      "lemma": "were born with a solver arm up your",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "solver 可作解题者，又近 silver。「解题银胳膊」并放两层。半句停在 your，三圣颂旁注插入，下一行才落 sleep；译文用「睡袖」收近声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-trisagion",
+      "lemma": "Trishagion.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "东正教三圣颂三称神圣，下接祈怜。原词多出 h，邻段三次喊棚，末注也分成短声三叠。三重声势可同看。",
+      "source_ids": [
+        "joyce-fp",
+        "oca-trisagion-prayer"
+      ]
+    },
+    {
+      "id": "ii2-305-aloud",
+      "lemma": "The law does not aloud you to shout.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "aloud 占 allow 的位置，一边说不许，一边把大声嵌进禁令。译成「法不准你叫出声」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-syne",
+      "lemma": "For auld lang salvy steyne.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "开头贴近 Auld Lang Syne 副歌。salvy、steyne 又带救度与石形的线索。中文把怀旧与石并放，未锁定某块石。",
+      "source_ids": [
+        "joyce-fp",
+        "glasgow-burns-auld-lang-syne"
+      ]
+    },
+    {
+      "id": "ii2-305-pilgrimage",
+      "lemma": "making pilscrummage to whaboggeryin with",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "pilscrummage 融朝圣与混战近形，地名含 bog。with 下接第306页的杖、巾、袋与光环，中文悬在「带着」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-305-shell",
+      "lemma": "From three shellings.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "one shilling 的货币声叠进炮击 shelling。译文两层并排保 three，脚注再接蓝染与献祭。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-306-gear",
+      "lemma": "staff, scarf and blessed wallet",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "紧接上页 with。手杖、巾和行囊一同带往朝拜，后面又有套在颈上的光环。wallet 在此暂译随身行囊。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-306-daddy",
+      "lemma": "Heavysciusgardaddy",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "本页紧接送甜食的家长，拟名能听出 heavy 与 sugar daddy。JJDA 勘误稿转录作 Heavysciugardaddy，本文沿 Faded Page 保原形。Noblett’s 所指仍待直接材料。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-306-corrections"
+      ]
+    },
+    {
+      "id": "ii2-306-single",
+      "lemma": "let us be singulfied",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "singulfied 可听见 sing、single，也近 engulfed。声音合起而各自成一，正文保留前两层，吞没读法待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-306-mizpah",
+      "lemma": "Item, mizpah ends.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《创世记》31:45–49 写雅各立石与拉班立约，米斯巴命名连着分离后仍求上主照看。这里也说你我之间，后用 ends 收口。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-mizpah-31"
+      ]
+    },
+    {
+      "id": "ii2-306-axes",
+      "lemma": "secures gubernant urbis terrorem.",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "secures 可作拉丁语斧的复数，gubernant 为第三人称复数。故让斧作主语，接上一句警察出场。旁注另有英语 secures 的近形。",
+      "source_ids": [
+        "joyce-fp",
+        "logeion-securis-306"
+      ]
+    },
+    {
+      "id": "ii2-306-chorus",
+      "lemma": "Steady steady steady steady steady studiavimus. Many many many many many manducabimus.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "两段各重复五下，再拖出拉丁词尾。studiavimus 仿学习已过，manducabimus 指将吃将嚼。译文仍五拍，保前过后未的时态对举。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-306-arts",
+      "lemma": "triv and quad",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "指三艺与四艺。宾大图书馆展陈列语法、修辞、逻辑，以及算术、天文、几何、音乐。正文保三、四简称，接习作题。",
+      "source_ids": [
+        "joyce-fp",
+        "upenn-seven-liberal-arts"
+      ]
+    },
+    {
+      "id": "ii2-306-columns",
+      "lemma": "If Standing Socrates. Stones Could Speak",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "旧稿段合列时把左旁注 Socrates 插进英文题名。正文题意是立石若能说话，苏格拉底另居左旁注。中文版仍保分栏与断点。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-306-indulgence",
+      "lemma": "the Indulgence of Portiuncula",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "若望保禄二世书信将波提翁库拉教堂与大赦相连。此处题目说虔敬守节，原文所指为天主教大赦。",
+      "source_ids": [
+        "joyce-fp",
+        "vatican-porziuncola-1999"
+      ]
+    },
+    {
+      "id": "ii2-306-hesperus",
+      "lemma": "Homely Anglian Monosyllables the Wreck of the Hesperus",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "朗费罗同名诗写船长不听老船员劝告，帆船触礁沉没。习作要求用朴素盎格鲁单音节词描述，原注第六条以海员一句提醒相照。",
+      "source_ids": [
+        "joyce-fp",
+        "longfellow-hesperus-poets"
+      ]
+    },
+    {
+      "id": "ii2-306-grania",
+      "lemma": "What Morals, if any, can be drawn from Diarmuid and Grania?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "UCC 书目可核迪亚穆德与格拉尼娅故事题名。习作问能得何种教训，又加 if any，译文保留反问，不代答。",
+      "source_ids": [
+        "joyce-fp",
+        "ucc-diarmaid-grainne-sources"
+      ]
+    },
+    {
+      "id": "ii2-306-rc",
+      "lemma": "R. C., disengaged, good character, would help, no salary.",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "R. C. 暂释罗马天主教徒。原注仿求职短启，disengaged 在这里译尚无工作，后接品行、帮忙与免薪。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-307-visit",
+      "lemma": "Visit to Guinness' Brewery",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "visit 承第306页末不定冠词 A。正文跨页合成访厂习作。诺亚、柏拉图另列左旁注。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-307-animus",
+      "lemma": "Co-Education of Animus and Marius. Anima Wholly Desirable?",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "稿段英文把左旁注 Marius 插入题中。合读正文只有 Animus 和 Anima 并列，问共同受教是否全然可取。译文保两名与旁注分栏。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-306-corrections"
+      ]
+    },
+    {
+      "id": "ii2-307-clontarf",
+      "lemma": "What Happened at Diogenes. Clontarf?",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "第欧根尼另居左旁注。题目问克朗塔夫发生何事。《阿尔斯特编年史》U1014.2 记布赖恩等赴都柏林作战及其阵亡，可供对读。该条未给克朗塔夫地名。",
+      "source_ids": [
+        "joyce-fp",
+        "celt-annals-ulster-1014"
+      ]
+    },
+    {
+      "id": "ii2-307-pledge",
+      "lemma": "the Pledge or the Meditations of Two Young",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "or 可接同一篇习作的副题。两位年轻老姑娘故意并置年龄张力，亚伯拉罕仍单列旁注。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-306-corrections"
+      ]
+    },
+    {
+      "id": "ii2-307-circus",
+      "lemma": "Hengler's Circus Entertainment",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "爱尔兰国家图书馆目录著录 Hengler’s Circus 周年节目单，与十九世纪都柏林相关。只核题名，未将本题定为目录所指场次。",
+      "source_ids": [
+        "joyce-fp",
+        "nli-henglers-circus"
+      ]
+    },
+    {
+      "id": "ii2-307-ants",
+      "lemma": "Grasshopper and the Ant",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "美国国会图书馆所载英译写蚱蜢向存粮的蚂蚁讨食。乔伊斯给的写作形式是致友人的闲谈信，正文保留其转述框架。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-ants-grasshopper"
+      ]
+    },
+    {
+      "id": "ii2-307-spelling",
+      "lemma": "Should Spelling?",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "Faded Page 与 JJDA 所见均止于 Spelling?，题目故意缺一截似的。译作「拼写该不该？」，保留无宾语断问。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii2-306-corrections"
+      ]
+    },
+    {
+      "id": "ii2-307-bean",
+      "lemma": "Jests and the Beastalk",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Jacobs 所录旧童话题名是 Jack and the Beanstalk。原注改 Jack 为 Jests，豆茎变作带 beast 字形的 Beastalk。「笑克」兼拟名与笑，「兽豆茎」保变形。",
+      "source_ids": [
+        "joyce-fp",
+        "jacobs-jack-beanstalk-1890"
+      ]
+    },
+    {
+      "id": "ii2-307-whale",
+      "lemma": "Wherry like the whaled prophet",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《约拿书》2:1–2 写大鱼吞先知，先知从鱼腹祈祷。乔伊斯写 whaled，把鲸化成动作。Wherry 可听近 very，也可作小艇名，正文两层并留。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-jonah-2"
+      ]
+    },
+    {
+      "id": "ii2-307-broth",
+      "lemma": "toglieresti in brodoall",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "in brodo 保留汤中声形，brodo 后贴英文 all。toglieresti 具体构词和是否暗指菜名待查，暂按声译。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-307-eu",
+      "lemma": "Eh, Monsieur? Où, Monsieur? Eu, Monsieur? Nenni No, Monsieur!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "原注按 Eh、Où、Eu 连问，再用 Nenni No 复重否定。译文逐声推进，正文仍留 Eu，免先填实残题。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-307-hay",
+      "lemma": "Ere we hit the hay, brothers, let's have that response to prayer!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hit the hay 是就寝口语。译文用睡草铺，留口语里的草；祷词应答再和下一页开饭前的齐声衔接。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-delays",
+      "lemma": "Delays are Dangerous. Vitavite!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "「耽搁危险」接上页「要做，就现在做」。Vitavite 近法语 vite 的重复，中文催两下，立刻转入茶已摆好。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-ticker",
+      "lemma": "per the chancellory of his exticker",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "chancellory 与 exticker 可连英国国库大臣一类官称，后一词又显 ticker 的钟声。正文用国库和滴答并置，未认定特指某位官员。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-opposites",
+      "lemma": "Superfetation. Stabimobilism.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前词指孕中再孕，后一词并稳定与运动。译文保两组内部冲突，接可互换、周期、互渗等旁注语汇。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-books",
+      "lemma": "Boox and Coox, Amallagamated.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Boox 和 Coox 并响 books 和 cooks，Amallagamated 像公司合并措辞。译成合股的书·厨公司，留读书与开饭并场。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii2-308-night",
+      "lemma": "NIGHTLETTER",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "McCreedy 以二十世纪初夜间电报比对数份草稿，又指出初刊版面与成书第308页有别。中文用「夜电」，排位仍循当前见证。",
+      "source_ids": [
+        "joyce-fp",
+        "mccreedy-nightletter-2022"
+      ]
+    },
+    {
+      "id": "ii2-308-greed",
+      "lemma": "youlldied greedings",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Yuletide、you’ll die 与问候声相擦，greedings 又带 greed。译文把圣诞祝声、死话与贪字挤在一处。早稿加词与定稿读法参见 McCreedy 所录。",
+      "source_ids": [
+        "joyce-fp",
+        "mccreedy-nightletter-2022"
+      ]
+    },
+    {
+      "id": "ii2-308-yonks",
+      "lemma": "plenty of preprosperousness through their coming new yonks",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "贺词排出富足和先发的词形，末尾 new yonks 又把 New Year 的预祝拖长成漫长年头。中文复说「发」，暂不补地名。",
+      "source_ids": [
+        "joyce-fp",
+        "mccreedy-nightletter-2022"
+      ]
+    },
+    {
+      "id": "ii2-308-feed",
+      "lemma": "Their feed begins.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "数完第十声才开始吃。短句收束茶饭动作，随后另起夜电。",
       "source_ids": [
         "joyce-fp"
       ]

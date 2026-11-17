@@ -5,7 +5,7 @@
       "lemma": "tribalbalbutience",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "tribal与balbutience的词形相连，可按部族与结巴试读。原始史诗、人类初民语言是解释，未由此词证明。",
+      "text": "tribal 与结巴词形相连。中文留两声「巴巴」，接同句 fright/light、height/life 的绕口回声。词中是否另含特定民族或文学传统待查。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -25,7 +25,7 @@
       "lemma": "Hiberio-Miletians and Argloe-Noremen",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "两串族名状混词置于捐献巨石的问句。Hiberio可与Hibernia比较，Argloe-Noremen可听盎格鲁、北方人；具体迁徙、血统融合尚未获原页支持。正文不径作希伯来。",
+      "text": "两串族名状混词作捐献者。Hiberio 可听近 Hibernia，后接 Miletians，另串露出 Anglo 与北方人近音。正文保拟名，不据此断言具体迁徙。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -35,9 +35,10 @@
       "lemma": "tolvtubular",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "tubular及随后接收器、扬声器支持电子管读路；tolv作十二须另核北欧词典。十二酒客与十二电子管的身份对应仍属解释。",
+      "text": "挪威语 tolv 为十二，tubular 接收音、扬声器等电路措辞。现译十二电子管。数字是否对应酒客，尚无定论。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "ordbokene-tolv-309"
       ]
     },
     {
@@ -45,9 +46,10 @@
       "lemma": "no concern of the Guinnesses",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "Guinnesses在这句被说成“与之无关”。可与酒名联读；酒业家族史及全章人物对应另待证据，不能抹去no concern。",
+      "text": "a no concern 直读可作无关，也让 concern 有商行余声。Irish Archives Resource 登记吉尼斯家族经营及圣詹姆斯门酒厂。本章借此开启酒业语域，语气仍卡在 but。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "iar-guinness-company"
       ]
     },
     {
@@ -56,6 +58,790 @@
       "kind": "wordplay",
       "certainty": "uncertain",
       "text": "tumbled、famas近跌落、倾心与fame的声音。正文保留倾倒，不能据此词组预告已确定的婚姻结局。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-fright",
+      "lemma": "the fright of his light",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "fright/light 与后半 height/life 相互回响。译文用光、一惊、一生、最高处，留这对并行转折。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-mountain",
+      "lemma": "a man that means a mountain",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "man、means、mountain 开头相连，男子与山互带。下一步又涉淋溪。译文先让言下见山，留全句未定的所指。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-lymph",
+      "lemma": "wades a lymph",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lymph 可指淋巴液，附近的 wades 写涉水，又可听出水泽中仙女 nymph 的邻音。译成淋溪，暂不坐实某位河神。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-bog",
+      "lemma": "that pride that bogs the party begs the glory of a wake",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bog 作使陷泥沼，begs 紧随。party 可指在场人及聚会，wake 作守灵又牵醒来。译文让一伙人陷沼，留住动作。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-prompt",
+      "lemma": "the prop of a prompt",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "prop 指撑托，prompt 作催促或提词，两词紧贴。中文用「提词，扶一把」，不定哪一位提词。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-ocean",
+      "lemma": "birth of an otion that was breeder to sweatoslaves",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "otion 可近 ocean 也近 notion 的后半。前路把海与繁殖相连，后路像观念诞生。正文从海洋，保汗奴，另一读法留注。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-coupling",
+      "lemma": "Bellini-Tosti coupling system",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "牛津藏品号14937著录 Bellini–Tosi 无线电测向器，拼法 Tosi 少一个 t。美国国会图书馆另著录作曲家托斯蒂与贝利尼的声乐、歌剧曲谱。此处无线电接扬声器，正文保 Tosti，音乐声形仍属并读。",
+      "source_ids": [
+        "joyce-fp",
+        "oxford-marconi-14937",
+        "loc-tosti-score-catalogue",
+        "loc-bellini-sonnambula"
+      ]
+    },
+    {
+      "id": "ii3-309-cleaners",
+      "lemma": "vaticum cleaners",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拼法在 Vatican 与 vacuum 之间晃动，又和船讯、电键一起充作收来的杂声。中文取梵蒂冈吸尘器，保突兀名单。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-ham",
+      "lemma": "the whowle hamshack and wobble",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ham shack 可读业余无线电工作间，字面也有火腿和棚。whowle 可听整座和狼嚎，正文用火腿电台棚和一吼并留。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-round",
+      "lemma": "melegoturny marygoraumd",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "后词可听 merry-go-round。前词随 turn 转，也近旋律中的调。正文保转调和玛丽转马的声像，未指定曲目。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-309-earth",
+      "lemma": "eclectrically filtered for allirish earths and ohmes",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "eclectrically 叠挑择与电。earths 读接地，ohmes 带 ohms 与 homes，末词跨入第310页。中文保「接地与欧姆之家」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-condenser",
+      "lemma": "harmonic condenser enginium (the Mole)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "condenser 在上页的无线电语域可指电容器。enginium 又把机器名拗了一步。译作谐波电容机，鼹鼠仍单列。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-valves",
+      "lemma": "twintriodic singulvalvulous pipelines",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "triode 与 valve 在收音机语境可指三极管和电子管，valve 仍有阀义，再与管线连写。正文保存双、三、单的数目串。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-head",
+      "lemma": "howdrocephalous enlargement",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "近 hydrocephalous，形似积水脑胀大。正好插在装置形制和增益控制之间，机器长出肉身特征。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-ranges",
+      "lemma": "from the antidulibnium onto the serostaatarean",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "首词可听近 antediluvian，第二词夹 static 等近形。两端仿频段，也像从古到今。次端具体所指待考。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-pinna",
+      "lemma": "the pip of the lin (to) pinnatrate inthro",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "pip 有细响，lin 近 line。Halper 将 pinnatrate 连到耳廓 pinna。Volpone 第383页亦从收音讯号经耳进入解读。译文留括号和穿钻动作。",
+      "source_ids": [
+        "joyce-fp",
+        "halper-newslitter-310",
+        "volpone-telecommunication-fw"
+      ]
+    },
+    {
+      "id": "ii3-310-tube",
+      "lemma": "tympan founder, Eustache Straight",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Halper 析出鼓膜和咽鼓管。医学论文说明咽鼓管连中耳与鼻咽；正文还像铸工兼门牌，故保尤斯塔赫人名和直管街。",
+      "source_ids": [
+        "joyce-fp",
+        "halper-newslitter-310",
+        "pmc-eustachian-anatomy"
+      ]
+    },
+    {
+      "id": "ii3-310-corti",
+      "lemma": "Naul and Santry and the forty routs of Corthy",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Halper 的索引摘录把 Naul、Corthy 联系到 Nuel、Corti 等耳部名称。正文仍作地名和四十条路，保存地理与传声的双向。",
+      "source_ids": [
+        "joyce-fp",
+        "halper-newslitter-310"
+      ]
+    },
+    {
+      "id": "ii3-310-bones",
+      "lemma": "hummer, enville and cstorrap",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Halper 指三词近锤、砧、镫。NIDCD 列三块中耳听小骨为 malleus、incus、stapes。正文用嗡、音、厮，留拟音与器形。",
+      "source_ids": [
+        "joyce-fp",
+        "halper-newslitter-310",
+        "nidcd-how-we-hear"
+      ]
+    },
+    {
+      "id": "ii3-310-maze",
+      "lemma": "the lubberendth of his otological life",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lubberendth 近 labyrinth，也能听见 end。收音端转成耳，中文用耳迷宫，在尾部留尽头感。",
+      "source_ids": [
+        "joyce-fp",
+        "halper-newslitter-310"
+      ]
+    },
+    {
+      "id": "ii3-310-time",
+      "lemma": "till time jings pleas",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "time 与 please 前后夹叮响，可听成酒馆打烊催客。正文按喊话译；未指定官方收店口令或钟式。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-ale",
+      "lemma": "this ale of man",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ale 近 Isle，串起来会擦过 Isle of Man。正文保啤酒，马恩岛只列声音旁路。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-310-peat",
+      "lemma": "the turfeycork by the greats of gobble out of Lougk Neagk",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Lougk Neagk 可对官方湖名 Lough Neagh。句中明写拔泥炭塞，湖如酒瓶。地名相似不单独证明湖中有瓶塞。",
+      "source_ids": [
+        "joyce-fp",
+        "daera-lough-neagh-map"
+      ]
+    },
+    {
+      "id": "ii3-310-pop",
+      "lemma": "the pop gave his sullen bulletaction",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "pop 与子弹动作相接，又紧贴上文拔塞和泡沫。译文从砰声续到闷弹，跨页接流下斜槽。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-311-orbit",
+      "lemma": "in the ambit of its orbit heaved a sink her sailer",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "ambit、orbit 叠环绕，heaved 带推举。sailor 能沉船，drainer 把酒喝干，两人并排，写法像号子贴上酒话。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-311-bass",
+      "lemma": "the basses brothers, those two theygottheres",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "basses 可听低音，也接下文呼巴斯酒。正文保酒名与低音，未核此处是否特指两位历史人物。",
+      "source_ids": [
+        "joyce-fp",
+        "miller-picture-letter-311"
+      ]
+    },
+    {
+      "id": "ii3-311-time",
+      "lemma": "it was note before he drew out the moddle of Kersse",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "long after、less after、note before、not before 反复试探起点。保时间词反拨，不替它排成先后确切的情节。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-311-capstan",
+      "lemma": "athwartships he buttonhaled the Norweeger's capstan",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "athwartships 指横过船身，capstan 是绞盘。buttonhaled 牵钮孔及拉拽，船上动作突然拿来穿扣。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-311-pencil",
+      "lemma": "the lobestir claw of his propencil",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lobestir 可听 lobster，也像 lobe 加 stir，兼写耳垂。clue、wickser 像线头与灯芯。译文让铅笔像钳，仍在耳里寻线。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-efas-taem"
+      ]
+    },
+    {
+      "id": "ii3-311-safe",
+      "lemma": "the key of Efas-Taem",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 指 Efas-Taem 两半各倒写，成 safe、meat。合成 meat safe 是存肉柜。中文保假名和钥匙，另给柜义。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-efas-taem"
+      ]
+    },
+    {
+      "id": "ii3-311-barrels",
+      "lemma": "O, lord of the barrels, comer forth from Anow",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Miller 将召桶主及后续埋葬读成酒馆中的礼仪重演。中文保来者祷声和对安娜的并列呼唤，人名所指仍悬。",
+      "source_ids": [
+        "joyce-fp",
+        "miller-picture-letter-311"
+      ]
+    },
+    {
+      "id": "ii3-311-thirst",
+      "lemma": "Link of a leadder, dubble in it, slake your thirdst thoughts awake",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "leadder 近 ladder 与 leader，dubble、thirdst 牵双重、第三及口渴。正文保攀梯、叠双和解渴。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-311-burial",
+      "lemma": "O Connibell, with mouth burial!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Miller 将此呼声与巴斯、奥康奈尔酒并读。正文保康尼贝尔拟名和以口为坟的动作，未坐实某款酒。",
+      "source_ids": [
+        "joyce-fp",
+        "miller-picture-letter-311"
+      ]
+    },
+    {
+      "id": "ii3-311-husband",
+      "lemma": "sagd he to the ship's husband",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "1906年下议院辩论称 ship’s husband 是管船之人，也明说该术语靠「船称她」成双关。結城英雄的日文研究提要称船舶管理人。正文译船家管事，婚配声留注。",
+      "source_ids": [
+        "joyce-fp",
+        "hansard-ships-husband-1906",
+        "yuki-wake-orientation-3"
+      ]
+    },
+    {
+      "id": "ii3-311-shoes",
+      "lemma": "a ketch or hook alive a suit and sowterkins",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "ketch 可指双桅船，也听近 catch。sowter 与鞋匠旧拼相连，尾巴 kins 像小称，正文暂取鞋匠娃。",
+      "source_ids": [
+        "joyce-fp",
+        "dsl-soutar-311"
+      ]
+    },
+    {
+      "id": "ii3-311-shop",
+      "lemma": "Ashe and Whitehead, closechop, successor to.",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "Volpone 将两名读成前任商号。原句 successor to 拖在末尾，中文用承续店业补清关系。closechop 仍可听近衣铺与剪。",
+      "source_ids": [
+        "joyce-fp",
+        "volpone-telecommunication-fw"
+      ]
+    },
+    {
+      "id": "ii3-311-fitting",
+      "lemma": "he tape the raw baste (paddin)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "tape 可取量尺，baste 在裁缝可指粗疏缝合，也能牵肉食浇汁。下一词指衬垫，仍保原括号。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-stop",
+      "lemma": "Stolp, tief, stolp, come bag to Moy Eireann!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "船家管事上页刚开始喊，今页两次拟 stop，中间夹 thief。bag 近 back，汉语用「打包回」保存包形与返程。Moy Eireann 暂按拟地名。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-312"
+      ]
+    },
+    {
+      "id": "ii3-312-fish",
+      "lemma": "some blowfish out of schooling",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "school 可作鱼群，也作学校。紧挨绞盘咒声，保鼓胀鱼离群，又用「鱼学群」补学校一层。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-312"
+      ]
+    },
+    {
+      "id": "ii3-312-waters",
+      "lemma": "they broken waters and they made whole waters",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "一划破、一复合，Gordon 提议可看作船首分水、船尾水合，原句也容别读。正文暂取船行，保破与合的转折。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-312"
+      ]
+    },
+    {
+      "id": "ii3-312-aweigh",
+      "lemma": "aweigh he yankered on the Norgean run",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "aweigh 用于锚离底，yankered 近 yank 和 anchor。改为猛拉起锚，随后上航线。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-rounds",
+      "lemma": "seven sailend sonnenrounders",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "从 sailing、sun、rounds 听出七回绕日的航行。正文保七与日转，先不定七日还是七年。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-capes",
+      "lemma": "fram Franz José Land til Cabo Thormendoso",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "挪威极地资料记 Frans Josef Land。葡萄牙海事博物馆记好望角旧称风暴角。拟写仍留 José 和 Thormendoso 的近声，暂不把航程落成实测路线。",
+      "source_ids": [
+        "joyce-fp",
+        "npolar-frans-josef",
+        "museu-marinha-cabo-tormentas"
+      ]
+    },
+    {
+      "id": "ii3-312-flood",
+      "lemma": "Farety days and fearty nights",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《创世记》7:4、7:12 有四十昼夜之雨。原词声音各拗一下，仍数四十，且近 fare、fear。中文用漂去、惊惧补。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-genesis-7-flood"
+      ]
+    },
+    {
+      "id": "ii3-312-snip",
+      "lemma": "a quick piddysnip that wee halfbit a second",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "snip 接剪子，bit 接咬。halfbit 又像还不到一秒的半口，译成一口咔嚓未满半秒。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-rigout",
+      "lemma": "mainingstaying the rigout for her wife's lairdship",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "mainstay 是主撑索一类船具，rigout 带穿戴。Gordon 把后半读作船与管船人之间的拟婚配。译文让撑索撑行头，留 laird 的领主口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii3-312"
+      ]
+    },
+    {
+      "id": "ii3-312-howth",
+      "lemma": "Cape of Good Howthe",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Howthe 贴都柏林 Howth Head，整串又靠 Cape of Good Hope。译成「好望霍斯角」，两岬共用一口气。",
+      "source_ids": [
+        "joyce-fp",
+        "npws-howth-head-004113",
+        "museu-marinha-cabo-tormentas",
+        "gordon-ii3-312"
+      ]
+    },
+    {
+      "id": "ii3-312-group",
+      "lemma": "Group drinkards maaks grope thinkards",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "group 到 grope 只换近音，drinkards 与 thinkards 互押。正文保成伙喝酒到摸索思索的转口。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-pub",
+      "lemma": "plubs will be plebs but plabs by low frequency amplification",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "plubs、plebs、plabs 近音递换，从酒馆和平民一路拐到闲谈。无线电放大词又回接章首。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-312-trades",
+      "lemma": "Lorimers and leathersellers, skinners and salters, pewterers and paperstainers, parishclerks, fletcherbowyers",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "ROLLCO 索引列相近行会称呼，Fletchers 与 Bowyers 分列。本页故并成 fletcherbowyers。中文合译箭弓匠，清单跨第313页才收尾。",
+      "source_ids": [
+        "joyce-fp",
+        "rollco-livery-312"
+      ]
+    },
+    {
+      "id": "ii3-313-trades",
+      "lemma": "girdlers, mercers, cordwainers and first, and not last, the weavers.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "束带匠、布料商、皮鞋匠接上页箭弓匠。ROLLCO 分列相关行业。织工在列尾却说 first、not last。译文照留这句轻重倒转。",
+      "source_ids": [
+        "joyce-fp",
+        "rollco-livery-312"
+      ]
+    },
+    {
+      "id": "ii3-313-holder",
+      "lemma": "Innholder, upholder.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "两词共用 holder。ROLLCO 的两个行会名称各自存在，常义可分别牵客栈经营、软装业，后一词还可作扶持者。译文取掌柜和撑店，补足声义。",
+      "source_ids": [
+        "joyce-fp",
+        "rollco-livery-312"
+      ]
+    },
+    {
+      "id": "ii3-313-bassoon",
+      "lemma": "they bassabosuned over the flowre of their hoose",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "bassabosuned 里听见低音与巴松。flowre 仍靠楼板 floor，又靠花 flower。此处以满屋低响承上页低频。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-313-moses",
+      "lemma": "Godeown moseys and skeep thy beeble bee!",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "前半近灵歌 Go Down, Moses，曲名见国会图书馆目录。后半让 keep、Bible 和蜂鸣堆在一起。译文保摩西及经蜂拟响，未指定演唱。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-go-down-moses-1924"
+      ]
+    },
+    {
+      "id": "ii3-313-cod",
+      "lemma": "sazd Kersse, piece Cod, and in the flap of a jacket",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "piece Cod 可能有上帝誓词的近音，也露出鱼和衣襟前片。中文将上帝、鳕鱼和随后的短袄襟并置，祭词具体形式待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-313-saga",
+      "lemma": "well and jurily sagasfide",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "sagasfide 近 satisfied，中含 saga，jurily 又带陪审与宣誓。译文留法庭口气，萨迦与确证的复声留此。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-313-thing",
+      "lemma": "his suzerain law the Thing",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "丹麦国家博物馆用 ting 指可集会和审案的场所或议事制度。Thing 又是英语常词。此处邻领主法与吧台，译作廷会，原词另留。",
+      "source_ids": [
+        "joyce-fp",
+        "natmus-viking-ting"
+      ]
+    },
+    {
+      "id": "ii3-313-recknar",
+      "lemma": "Recknar Jarl",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Sandulescu 的313.15词条并列 jarl、计数近形与 Ragnar。正文保伯爵拟名，对照后一连串找零与数目。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-scandinavian-304"
+      ]
+    },
+    {
+      "id": "ii3-313-sixtric",
+      "lemma": "this good sixtric",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "sixtric 可听见 six 和 Sihtric。爱尔兰国家博物馆将都柏林早期银便士定在约997或998年。Sandulescu 连到同一币名，但所列世纪与馆方不合。正文仍作拟币名。",
+      "source_ids": [
+        "joyce-fp",
+        "nmi-sihtric-pennies",
+        "sandulescu-scandinavian-304"
+      ]
+    },
+    {
+      "id": "ii3-313-numbers",
+      "lemma": "Nummers that is summus that is toptip that is bottombay",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "从数到总，尖尖顶对船底湾，借同一个 that is 逐个往下报。图米、迪格斯与赫尔斯的确切人名联系待查。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-313-mint",
+      "lemma": "It is minely well mint.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "尾声 mint 既可见铸币，又近 meant，minely 带 mine。中文以铸意、铸得伴两遍，接金属和荣耀。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-313-gauger",
+      "lemma": "a bullyon gauger",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bullyon 形近 bullion，又可近汽船 bullgine。gauger 让人想到量计，后面钱成批进舱。中文保金锭与锅炉双向。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-babel",
+      "lemma": "you give orders, babeling",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "答话把给令与 babeling 连缀。脚手架、木板和乱语可对读《创世记》11章造塔与语言变乱。保巴别叠声，问答边界仍摇晃。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-11-usccb"
+      ]
+    },
+    {
+      "id": "ii3-314-witness",
+      "lemma": "in conflict of evidence drew a kick at witness but (missed)",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "证词先冲突，踢证人随后，括号立即收作踢空。按原序译，未补法庭结果。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-thunder",
+      "lemma": "Bothallchoractorschumminaroundgansumuminarumdrumstrumtruminahumptadumpwaultopoofoolooderamaunsturnup!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Glasheen 将314页列为第七次雷声。合并 Faded Page 行末折字后，英语连写100个字母。可听合唱、绕场、鼓弦和 humptadump 坠声。中文另起一行连写，不按故事句切碎。",
+      "source_ids": [
+        "joyce-fp",
+        "glasheen-thunder-census"
+      ]
+    },
+    {
+      "id": "ii3-314-voices",
+      "lemma": "aped one. —Propellopalombarouter, based two. —Rutsch is for rutterman ramping his roe, seed three.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "one、two、three 逐一接声。aped 近摹仿，based 近低音，seed 与 said 近声又带播种。正文依次用学声、低音、播声。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-duet",
+      "lemma": "Bimbim bimbim. And the maidies scream all. Himhim himhim.",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "男孩抢球和姑娘尖叫前后各有一组双叠语，译文按冰冰、他他两串走。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-humpty",
+      "lemma": "that mortar scene so cwympty dwympty",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "cwympty dwympty 借童谣 Humpty Dumpty 的双拍，同时换出砖灰现场。中文以矮墩颠墩接先前的雷词坠响。",
+      "source_ids": [
+        "joyce-fp",
+        "grover-mother-goose-humpty"
+      ]
+    },
+    {
+      "id": "ii3-314-couple",
+      "lemma": "A pushpull, qq: quiescence, pp: with extravent intervulve coupling.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "同期收音机广告用 push-pull 说音频功率级。乔伊斯句中另有停静、阀间耦合。保 qq、pp，未据广告反推某一电路或读书来源。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-indianapolis-pushpull-1929"
+      ]
+    },
+    {
+      "id": "ii3-314-screen",
+      "lemma": "that salve that selver is to screen its auntey",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "salve、selver 一挨一擦，后面可兼屏幕、屏蔽与拟称姨妈天线。中文留膏、银、姨妈天线，尚无固定机件所指。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-pip",
+      "lemma": "(pip, pip, pip) willpip futurepip feature apip footloose pastcast",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "先敲三记短音，再把 pip 插入未来、特写与过去播映。译文以哔声打断句中节拍。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-due",
+      "lemma": "thonder alout makes the thurd. Let there be. Due.",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "雷作第三，Let there be 可对《创世记》1:3发令句式。Joyce 另落 Due，正文让该与二并响，保第二个句号后的急转。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-1-usccb"
+      ]
+    },
+    {
+      "id": "ii3-314-rose",
+      "lemma": "ros in sola velnere",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "拟拉丁里 ros 可指露，又近 rose，velnere 似伤口词形。译文用露玫并留，整句及下接恐惧拟语待核。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii3-314-family",
+      "lemma": "There were no peanats in her famalgia",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "peanats 近 peanuts，famalgia 近 family 又可听痛感。下一句以 famas 叠声。中文先保家与花生，续下页才收句。",
       "source_ids": [
         "joyce-fp"
       ]
