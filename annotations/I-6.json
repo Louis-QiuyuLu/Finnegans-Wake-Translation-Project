@@ -5,7 +5,7 @@
       "lemma": "Shaun Mac Irewick, briefdragger, for the concern of Messrs Jhon Jhamieson and Song, rated one hundrick and thin per storehundred on this nightly quisquiquock of the twelve apostrophes, set by Jockit Mic Ereweak.",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第六章序言：原文以括号提示「Shaun Mac Irewick」作为「Messrs Jhon Jhamieson and Song」（叠合都柏林威士忌酒商 John Jameson & Son 与歌谣 song）的提包信使（briefdragger），解答由「Jockit Mic Ereweak」设立的十二道呼格夜半问答（quisquiquock 叠合 quiz 与拉丁语 quisquiliae／quis）。研究界常将出题者与答题者分别读作谢姆与肖恩两兄弟，开启本章十二问结构。",
+      "text": "开场括注报出肖恩受哪家商号差遣、谁出十二问、他的评分及第三题与另外四题的表现。Jhamieson and Song 让酒商名和歌声靠近。出题者的家族身份留待全章照看。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -15,7 +15,7 @@
       "lemma": "1. What secondtonone myther rector and maximost bridgesmaker was the first to rise taller through his beanstale than the bluegum buaboababbaun or the giganteous Wellingtonia Sequoia",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "第一问谜面开端：「myther rector」叠合神话编造者（myth-maker）与教区长（rector）；「maximost bridgesmaker」直译「最伟大的造桥者」，对应拉丁语大祭司头衔 Pontifex Maximus。下文「beanstale」双关童话豆茎（beanstalk）与陈旧故事（stale tale），并与蓝桉、猴面包树（baobab）及威灵顿巨杉并列，勾勒巨人拔地而起的身形。",
+      "text": "第一问从神话教区长、最会造桥者起问。造桥字面可另听成大祭司头衔；beanstale 兼有豆茎与老故事。问句跨数段，至 139.14 才答 Finn MacCool。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -25,7 +25,7 @@
       "lemma": "some dub him Rotshield and more limn him Rockyfellow; shows he's fly to both demisfairs but thries to cover up his tracers",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "姓氏双关：「Rotshield」谐音金融家族罗斯柴尔德（Rothschild，字面拆为腐烂之盾 rot-shield），「Rockyfellow」谐音洛克菲勒（Rockefeller，字面拆为顽石家伙 rocky fellow）；「demisfairs」叠合东西两半球（hemispheres）与集市（fairs），刻画巨人兼具现代商业大亨的面相。",
+      "text": "Rotshield 和 Rockyfellow 可听作罗斯柴尔德、洛克菲勒，也各有腐盾与石头伙计。demisfairs 可把半球与集市一起听，tracers 仍有痕迹和挽索的声影。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -34,10 +34,11 @@
       "id": "i6-seven-dovecotes-homer-dublin",
       "lemma": "seven dovecotes cooclaim to have been pigeonheim to this homer, Smerrnion, Rhoebok, Kolonsreagh, Seapoint, Quayhowth, Ashtown, Ratheny",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "「homer」双关古希腊诗人荷马（Homer）与归巢信鸽（homing pigeon）；七座鸽舍（dovecotes）争认其故里，戏拟古希腊「七城争认荷马故乡」的传说。文中七处地名依次变形自都柏林周边郊区：Merrion（叠合 Smyrna）、Roebuck（叠合 Rhodes）、Clonskeagh（叠合 Colophon）、Seapoint（叠合 Salamis）、Howth（叠合 Chios）、Ashtown（叠合 Argos）、Raheny（叠合 Athens）；具体古典七城与都柏林地名的逐一对应仍待手稿及地方史料进一步核实。",
+      "certainty": "proposal",
+      "text": "homer 既可归巢，也可指荷马。西塞罗《为阿尔基亚斯辩护》19节列科洛丰、希俄斯、萨拉米斯、士麦那等城争认荷马。小说写七座，保留七个混成地名的顺序；各名尚未逐一落实。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "cicero-pro-archia-19"
       ]
     }
   ],
@@ -47,7 +48,7 @@
       "lemma": "reeks like Illbelpaese and looks like Iceland's ear; lodged at quot places, lived through tot reigns",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "词形双关：「Illbelpaese」将英语 ill（病态、恶臭）嵌入意大利语「美丽之国」（Il Bel Paese，亦为意大利奶酪品牌名）；「Iceland's ear」由冰岛（Iceland）与耳朵（ear）拼出爱尔兰（Ireland）的近音与岛屿轮廓。关于但丁或彼特拉克诗句及奶酪品牌的具体取材路径，尚待文献核实。",
+      "text": "Illbelpaese 让 ill 混入意大利语美丽之邦，Iceland’s ear 让冰岛、耳朵与 Ireland 近音并闻。保留臭味与形貌相对，品牌、诗句出处仍待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -57,9 +58,10 @@
       "lemma": "what Nevermore missed and Colombo found; believes in everyman his own goaldkeeper",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "「Nevermore」呼应爱伦·坡《乌鸦》叠句，「Colombo」指哥伦布（兼涉爱尔兰圣人圣哥伦巴 Columba）；「everyman his own goaldkeeper」将谚语「人人皆为自家看门人」与足球守门员（goalkeeper）、黄金守财奴（gold-keeper）叠合。",
+      "text": "坡《乌鸦》的反复句确有 Nevermore。此处用它与 Colombo 并列，写一失一得；译文保留语法空位，科隆博可让人听见哥伦布或科伦巴。goaldkeeper 兼带守门与守金。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "poe-raven-whittaker"
       ]
     },
     {
@@ -67,9 +69,10 @@
       "lemma": "quary was he invincibled and cur was he burked; partitioned Irskaholm, united Irishmen",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "爱尔兰政治史语汇并列：「invincibled」指向「爱尔兰民族无敌会」（Irish National Invincibles），「burked」双关凤凰公园遇刺的政务次官伯克（Thomas Henry Burke）与窒息谋杀（burke）；「partitioned Irskaholm, united Irishmen」将分治的爱尔兰岛（Irsk + 斯德哥尔摩 holm）与「联合爱尔兰人会」（United Irishmen）并置。各历史事件的定点史料仍待进一步核查。",
+      "text": "1882年英国下院会议录在凤凰公园案中并列伯克与卡文迪什。原句 invincibled、burked 却都写成动词，可令人联想到案件和人名，也仍像说无敌、给人扼死。保留岛分、人合的对举；各动词指涉仍存疑。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "hansard-phoenix-park-1882"
       ]
     },
     {
@@ -77,7 +80,7 @@
       "lemma": "as for the salmon he was coming up in him all life long; comm, eilerdich, hecklebury and sawyer thee, warden;",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "「salmon」呼应芬·麦克库尔品尝「智慧大马哈鱼」的爱尔兰传说，同时双关都柏林三一学院教务长乔治·萨尔蒙（George Salmon）；末句「hecklebury and sawyer」嵌入马克·吐温笔下的哈克贝利·费恩（Huckleberry Finn）与汤姆·索亚（Tom Sawyer），并与德语「komm, eile dich」（来吧，赶快）叠合。",
+      "text": "鲑鱼一路在体内上游，可联想到芬的鲑鱼传说。末尾夹进口令和两个变形名字，赫克尔贝里、索亚可作吐温人物的声影，不把他们改成明确入场的人物。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -88,8 +91,8 @@
       "id": "i6-dan-oconnell-emigrants",
       "lemma": "Costello, Kinsella, Mahony, Moran, though you rope Amrique your home ruler is Dan",
       "kind": "culture",
-      "certainty": "proposal",
-      "text": "列举四个常见爱尔兰姓氏（科斯特洛、金塞拉、马奥尼、莫兰）；「Amrique」指美洲（Amérique），「home ruler is Dan」指向爱尔兰自治运动先驱「解放者」丹尼尔·奥康奈尔（Daniel O'Connell）或议会领袖约翰·雷德蒙。",
+      "certainty": "uncertain",
+      "text": "四姓之后接渡向美洲、家乡奉丹掌事。home ruler 兼有家乡领袖和自治口号的声影，丹可联想丹尼尔·奥康奈尔，译文先保名字，不添全名。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -99,7 +102,7 @@
       "lemma": "figure right, he is hoisted by the scurve of his shaggy neck, figure left, he is rationed in isobaric patties among the crew",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "仿照图解说明句式（figure right / figure left），将巨人受吊刑与化作等压小肉饼（isobaric patties）分给船员果腹并置；研究界常将其解读为古代神王肢解分食或圣餐仪式的戏拟。",
+      "text": "右图吊人，左图把人做成等压肉饼、按份分给船伙。保留图说姿态及航船语气。此处写的是假想图解，古仪式的对应待旁证。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -109,7 +112,7 @@
       "lemma": "as far as wind dries and rain eats and sun turns and water bounds he is exalted and depressed, assembled and asundered; go away, we are deluded, come back, we are disghosted",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "以风干、雨蚀、日转、水界四重自然运动，对应巨人的升沉与聚散（exalted and depressed, assembled and asundered）；「deluded / disghosted」双关受惑与失魂（disgusted + ghost），呈现众人对巨人既驱逐又呼唤的矛盾心态。",
+      "text": "风干、雨蚀、日转、水界之后，巨人升沉又聚散。叙述者接着连叫「去」「来」，deluded 与 disghosted 让迷惑与鬼魂叠出两个回应。续段在下一页接进第四道水行。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -118,10 +121,11 @@
       "id": "i6-ostrov-inferus-mabbul",
       "lemma": "bored the Ostrov, leapt the Inferus, swam the Mabbul",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "跨语种地景动词三连：「Ostrov」形似斯拉夫语「岛屿」（остров），「Inferus」源自拉丁语「下界、阴间」，「Mabbul」形似希伯来语「大洪水」（מַבּוּל，Mabbul）。各外语词源的具体字书依据尚待核对。",
+      "certainty": "proposal",
+      "text": "先钻、再跃、再泅，最后续下段的 Moyle。Mabbul 可与《创世记》6:17 的希伯来文 הַמַּבּוּל 对读，中文并留洪水义与音。奥斯特洛夫、因费鲁斯暂按音，地望待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "sefaria-genesis-6-17-mabbul"
       ]
     }
   ],
@@ -131,7 +135,7 @@
       "lemma": "he has founded a house, Uru, a house he has founded to which he has assigned its fate",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "句式仿照古代近东建城铭文，「Uru」音近苏美尔古城乌尔（Ur）或阿卡德语「城邦」（uru）；具体所据楔形文字英译本或研究著述尚待定位核实。",
+      "text": "先立一所屋，又倒回一所屋他立起，进而替它指定命数。Uru 保音，古城及铭文联系待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -141,9 +145,10 @@
       "lemma": "is Timb to the pearly morn and Tomb to the mourning night; and an he had the best bunbaked bricks in bould Babylon for his pitching plays he'd be lost for the want of his wan wubblin wall?",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "第一问收束句：「Timb」与「Tomb」构成清晨与哀夜、蒂姆·芬尼根（Tim）与坟墓（Tomb）的元音交替；「wan wubblin wall」叠合苍白摇晃之墙（one wobbling wall）与都柏林城墙（Dublin wall），同上文巴比伦烧砖对照。",
+      "text": "Timb、Tomb 留蒂姆与坟墓近音，晨夜相对。巴比伦砖可与《创世记》11:3–4 烧砖建城塔对读，小说用 bunbaked 让烧砖也像烤包。wan wubblin wall 可听出苍白、摇晃以及都柏林，地名联想留注中。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bible-genesis-11-usccb"
       ]
     },
     {
@@ -151,7 +156,7 @@
       "lemma": "Answer: Finn MacCool!",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第一问（126.10–139.14）谜底：爱尔兰芬尼亚传奇英雄兼巨人芬·麦克库尔（Finn MacCool / Fionn mac Cumhaill）。全题通过数百个分号分句，将芬·麦克库尔、蒂姆·芬尼根与HCE叠合为横卧都柏林地景的始祖形象。",
+      "text": "第一问至139.14明答 Finn MacCool。四段长列举把造桥、家屋、职名、山水与昼夜归到这一答；谜底虽明，逐条仍可有别读。下一问从139.15转向 mutter 和 mike。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -163,7 +168,7 @@
       "lemma": "2. Does your mutter know your mike? Answer: When I turn meoptics, from suchurban prospects, 'tis my filial's bosom, doth behold with pride, that pontificator, and circumvallator, with his dam night garrulous, slipt by his side.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "第二问围绕母亲形象（ALP）展开：题干「Does your mutter know your mike?」改写自英語俗语「Does your mother know you're out?」，其中「mutter」双关德语母亲（Mutter）与低语（mutter）；答词以密集逗号切分短语，描绘终宵絮语的母河依偎在筑城造桥者身畔。",
+      "text": "mutter 能听成母亲和嘀咕声，mike 暂保麦克，也可联想到麦克风。答语把造桥筑墙者和身畔夜谈的娘坝并写，水、发、舵与梦都随声音摇摆。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -173,7 +178,7 @@
       "lemma": "Answer: a) Delfas.",
       "kind": "culture",
       "certainty": "proposal",
-      "text": "第四问以「两音节、六字母、D开头N结尾的爱尔兰首府」（Dublin）发问，答词却由爱尔兰四省名城按 a、b、c、d 顺序分述：a) Delfas（Belfast 贝尔法斯特，代表阿尔斯特省，融入造船铆钉与橙色花环语汇），b) Dorhqk（Cork 科克，代表芒斯特省，融入沙安东钟声与巧言石语汇），c) Nublid（Dublin 都柏林，代表伦斯特省，融入乔治亚宅邸与圣詹姆斯门酒厂语汇），d) Dalway（Galway 高尔韦，代表康诺特省，融入西班牙广场与捕鱼语汇），最后以 abcd) 四城合声收束。",
+      "text": "第四问先以两音节、六字母与一首府发问。Delfas、Dorhqk、Nublid、Dalway 四答名字均作变形，常可联想到贝尔法斯特、科克、都柏林和高尔韦。译文沿 a、b、c、d 分答与 abcd 合答，保留混成名。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -183,9 +188,10 @@
       "lemma": "abcd) A bell a bell on Shalldoll Steepbell, ond be'll go massplon pristmoss speople, Shand praise gon ness our fayst moan neople, our prame Shandeepen, pay name muy feepence, moy nay non Aequallllllll!",
       "kind": "culture",
       "certainty": "proposal",
-      "text": "第四问末尾四城合声（abcd）：依序呼应前文 a) Delfas（贝尔法斯特）、b) Dorhqk（科克）、c) Nublid（都柏林）、d) Dalway（高尔韦）四段独白，并将科克沙安东钟楼（Shandon Steeple）民谣、香农河（Shannon）与前文高尔韦渔娘的「not your aequal」叠合成拖长的尾音。",
+      "text": "科克市议会资料确认尚登圣安妮教堂及钟。Shalldoll Steepbell 可听出尚登尖塔钟声，译文保留变形和末尾拉长的 Aequallllllll。整段唱词及其他地名指向仍待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "cork-shandon-bells"
       ]
     },
     {
@@ -193,9 +199,10 @@
       "lemma": "Answer: Pore ole Joe! 6. What means the saloon slogan Summon In The Housesweep Dinah? Answer: Tok.",
       "kind": "culture",
       "certainty": "proposal",
-      "text": "第五问以长串征聘杂役广告式短语描述客栈男仆的繁杂差事，谜底为「Pore ole Joe!」（化用斯蒂芬·福斯特歌曲《Old Black Joe》，对应客栈老仆）；第六问询问酒馆口号「Summon In The Housesweep Dinah」，答词以钟摆般的「Tok ... Tik ... Tuk ... Tek ... Tak」五段拟声切分扫屋女佣的连珠抱怨。",
+      "text": "第五问仿征工启事，要求与待遇屡混。Pore ole Joe 可与福斯特歌曲《Old Black Joe》的题名和副歌对读，小说保留 Pore 的穷苦声。第六问的 Tok、Tik、Tuk、Tek、Tak 五次辅音顿点留在屋内数落声里。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "loc-foster-old-black-joe-score"
       ]
     },
     {
@@ -203,7 +210,7 @@
       "lemma": "Answer: The Morphios! 8. And how war yore maggies? Answer: They war loving, they love laughing, they laugh weeping",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "第七问列举十二种身份、都柏林近郊田野地名及十二个名字（Matey 至 Jakes Mac Carty），谜底为「The Morphios!」（叠合睡神摩耳甫斯 Morpheus 与都柏林常见姓氏 Murphy，指十二酒客／陪审员）；第八问询问「maggies」（少女群像），答词采用顶真回环链式动词（war loving → love laughing → laugh weeping → weep smelling → smell smiling → smile hating 等），首尾相扣直至闰年择婿。",
+      "text": "The Morphios 可连听 Morpheus 和 Murphy，并未指明是哪一群实际陪审员。第八问的动作一项接一项，爱生笑、笑生哭，直到道谢、寻找。译文照这一递接走，再以私奔闰年和再选一名男子收束。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -215,7 +222,7 @@
       "lemma": "Answer: A collideorscape!",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "第九问在长句末尾嵌入彩虹七色词链（roserude 红、oragious 橙、gelb 德语黄、greem 绿、blue 蓝、ind 靛、Violet 紫），谜底「A collideorscape!」将万花筒（kaleidoscope）、碰撞（collide）与逃逸／风景（escape / landscape）熔铸为一词。中译作「一具碰撞万花筒！」，并在注中说明逃逸与风景的语义叠合。",
+      "text": "长问末尾依次把玫红、橙、黄、绿、蓝、靛、紫变成动词、异语和变形词。答语 collideorscape 把碰撞、万花筒和景观凑在一起，另有 escape 声影。中译暂用撞景。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -225,9 +232,11 @@
       "lemma": "Answer: I know, pepette, of course, dear, but listen, precious!",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第十问为少女伊西（Issy）的长篇独白。开头以法语昵称「pepette」「pette」「pitounette」称呼倾听者（常解读为镜中倒影或情郎），语调在撒娇、梳妆秘诀、嫉妒咒骂与情欲挑逗之间急速跳跃。",
+      "text": "以 pepette、pette、pitounette 交替称人，独语在梳妆、嫉妒、耳语和读书间跳转。读者可从书名对照 1913 年《The New Freewoman》期刊档案、斯托克《德古拉》。口中的人及影子是否同一位，尚可别读。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "mjp-new-freewoman-1913",
+        "stoker-dracula-gutenberg"
       ]
     },
     {
@@ -235,7 +244,7 @@
       "lemma": "How vain's that hope in cleric's heart Who still pursues th'adult' rous art, Cocksure that rusty gown of his Will make fair Sue forget his phiz!",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "独白中嵌入四行八音节偶句诗，嘲讽身穿破旧黑袍的老教士自以为能凭道袍迷住俏丽苏珊而使其忘却丑陋面容（phiz）。该四行诗是否化用特定十八世纪讽刺诗句，尚待原诗文献核实。",
+      "text": "原文将四个押韵分句嵌在独白内，嘲讽教士想凭旧袍叫俏苏忘掉他的脸。译文按四句另排，诗句具体来历待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -247,7 +256,7 @@
       "lemma": "I was always meant for an engindear from the French college, to be musband, nomme d'engien",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "「engindear」叠合工程师（engineer）与心上人（dear）；「musband」叠合必须（must）与丈夫（husband）；「nomme d'engien」谐音法语惊叹语与昂吉安公爵（duc d'Enghien），表现少女对体面夫婿的憧憬。",
+      "text": "engindear 让工程师和亲爱在一声里，musband 近 must 和 husband。译文用「工程亲哥」「必夫」。nomme d’engien 与 encho tencho solver 保留近音，法语名号、契约说法待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -257,9 +266,10 @@
       "lemma": "With my whiteness I thee woo and bind my silk breasths I thee bound! Always, Amory, amor andmore! Till always, thou lovest!",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "戏拟英语传统婚礼誓词「With this ring I thee wed, with my body I thee worship」，改写为以洁白身躯求爱、以绸缎酥胸缚紧情郎；「Amory, amor andmore」叠合人名阿莫里、拉丁语爱情（amor）与英语「and more」。",
+      "text": "英国国教《公祷书》婚式中，新郎手持戒指说凭此戒指娶你，又说以身体敬你。小说保留宣誓式句法，改由说话人凭白、凭丝胸邀爱缚人；阿莫里及 amor 在誓后变奏。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bcp-1662-matrimony"
       ]
     },
     {
@@ -267,7 +277,17 @@
       "lemma": "Shshshsh! So long as the lucksmith. Laughs!",
       "kind": "sound",
       "certainty": "proposal",
-      "text": "第十问收束句：「lucksmith」由锁匠（locksmith）与幸运（luck）拼合，改写英语谚语「Love laughs at locksmiths」（爱情嘲笑锁匠），在「Shshshsh!」的嘘声与欢笑中收束独白。",
+      "text": "lucksmith 把幸运与锁匠拧在一起，可遥应爱情笑锁匠的说法。原文在 lucksmith 后落句点，随后另喊 Laughs，译文留停顿。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i6-question10-twenty-classbirds",
+      "lemma": "And my waiting twenty classbirds, sitting on their stiles!",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "前句说二十只班鸟，点名从 Ada 到 Thelma 共二十八个，随后说 And Mee。译文同时保留二十、名单和末尾的我，照录声音里的数目错位。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -279,7 +299,7 @@
       "lemma": "Answer: No, blank ye! So you think I have impulsivism?",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第十一问（148.33–168.12）为全章最长问答：题干询问琼斯（Jones，肖恩的学者化身），若在宿醉街头遇到来自「Ailing」（双关爱尔兰 Erin 与病痛 ailing）、患有眼疾（acheseyeld = aching eyes + exiled）的落魄弟兄，是否肯出手相助；琼斯以「No, blank ye!」断然拒绝，并展开长篇空间主义讲演。",
+      "text": "题干先设途中遇人，再以四叠 if 反复描他的抖、哭、求和，末了突然请琼斯答。Ailing 兼病苦与地名语气，fortysixths 的分类暂不坐实。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -289,7 +309,7 @@
       "lemma": "attempt at my disposale of the same dime-cash problem elsewhere naturalistically of course, from the blinkpoint of so eminent a spatialist.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "琼斯自称杰出的「空间主义者」（spatialist），将「时间与空间」（time-space）戏称为「一角硬币与现钞问题」（dime-cash problem），并在下文将柏格森（Henri Bergson）、爱因斯坦（Albert Einstein）与列维-布吕尔（Lévy-Bruhl）分别变形为「Bitchson」「Winestain」与「Professor Loewy-Brueller / Levi-Brullo」。研究界常将琼斯教授联系于英国作家温德姆·刘易斯（Wyndham Lewis）在《时间与西方人》中对「时间哲学」的批判。",
+      "text": "角币／现钱和时间／空间交错，dime、cash 保留钱声。Bitchson、Winestain 及两处变化的教授姓氏可听见柏格森、爱因斯坦和列维—布吕尔；译文留各别变名。与温德姆·刘易斯论战的确切对应仍待核。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -299,9 +319,10 @@
       "lemma": "As none of you knows javanese I will give all my easyfree translation of the old fabulist's parable.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "琼斯教授向学生宣布用通俗白话翻译古老寓言家的比喻故事《穆克思与格莱普斯》（The Mookse and The Gripes，变形自伊索寓言《狐狸与葡萄》The Fox and the Grapes）；「javanese」双关爪哇语（Javanese）与詹姆士语（Jamesese）。",
+      "text": "讲者改向一班学生，由伪学术示例转到寓言，并自己许诺自由译话。可比较国会图书馆所载《狐狸与葡萄》译文的角色与情境。这里先独列变形标题，下段才讲故事。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "loc-aesop-fox-and-grapes"
       ]
     }
   ],
@@ -311,19 +332,21 @@
       "lemma": "Eins within a space and a wearywide space it wast ere wohned a Mookse.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "寓言开篇将童话套语「Once upon a time」（从前有座……）改写为德英混杂的「Eins within a space」（从前在一处空间里），呼应琼斯教授崇尚空间、贬抑时间的立场，同时戏仿《尤利西斯》与《青年艺术家肖像》开篇。",
+      "text": "童话开场惯说「从前」（once upon a time）。这里用 space 换掉 time，又杂入德语 Eins，先铺一片空间，再问几点钟。下文「两个钟头的空间」把两者挤进同一句。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "loc-aesop-fox-and-grapes"
       ]
     },
     {
       "id": "i6-mookse-derure-albo",
       "lemma": "De Rure Albo",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "拉丁语「来自白乡」；通行注释指出此系《圣马拉基教皇预言》赋予英格兰籍教皇阿德里安四世（Adrian IV）的格言，文中又以「chalkfull of masterplasters」（塞满白垩石膏名作）作字面戏解。预言原典文献尚待核查。",
+      "certainty": "supported",
+      "text": "威翁1595年刊本《Lignum vitae》第二书第307页在传为马拉基的教皇预言中，将「来自白乡」配给阿德里安四世。乔伊斯借它当作穆克思居所名，又用白垩与灰泥说笑。刊本所载可核，马拉基署名沿用传称。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wion-lignum-vitae-1595-p307"
       ]
     },
     {
@@ -331,9 +354,10 @@
       "lemma": "our once in only Bragspear",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "「Bragspear」双关阿德里安四世的俗名尼古拉斯·布雷克斯皮尔（Nicholas Breakspear，历史上唯一的英格兰籍教皇）与莎士比亚（Shakespeare）；下文「with my intentions laudibiliter to settle with you」亦呼应相传由阿德里安四世颁布的《可敬者敕令》（Laudabiliter）。",
+      "text": "阿德里安四世俗名尼古拉斯·布雷克斯皮尔。Joyce 把 Break 换成近音的 Brag（吹嘘），留下 spear（矛），接前句断矛。下文 laudibiliter 或借相传与该教皇有关的文书题名；这里未核文书传本。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "westminster-adrian-iv"
       ]
     },
     {
@@ -341,7 +365,7 @@
       "lemma": "parched on a limb of the olum, bolt downright, but the Gripes?",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "格莱普斯（Gripes，叠合葡萄 grapes 与腹痛抱怨 gripes）干瘪倒挂在河对岸的榆树（olum = elm + 拉丁语 ulmus）枝杈上，与下文稳坐磐石（stone）的穆克思形成「树与石」的对峙构图。",
+      "text": "Gripes 与 grapes（葡萄）近音，也可听作抱怨或绞痛。种籽、果肉与干瘪承接葡萄意象。olum 或杂合 elm（榆）与拉丁语 ulmus；bolt downright 给出陡直方向，句中未写明如何挂住。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -351,7 +375,7 @@
       "lemma": "on hoc stone Seter satt huc sate which it filled quite poposterously",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "杂糅拉丁语指示代词（hic / hoc / huc）与《马太福音》16:18 彼得磐石典故；「Seter」叠合彼得（Peter）与就座者（sitter），「poposterously」叠合教皇（pope）、荒谬（preposterously）与臀部（posterior）。",
+      "text": "此处夹用拉丁语指示词。Seter satt huc sate 反复叠响座与坐，也可照《马太福音》16:18 看彼得与磐石。poposterously 把教皇腔挤进「荒唐」，或兼有坐满一席的屁股笑话。",
       "source_ids": [
         "joyce-fp",
         "bible-matt16"
@@ -362,7 +386,7 @@
       "lemma": "his babskissed nepogreasymost got the hoof from his philioquus.",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "「philioquus」将基督教神学争议中的拉丁语「和子句」（Filioque，关于圣灵由圣父「并由圣子」发出之教义争端）与拉丁语「马」（equus）及希腊语「爱马」（phil-hippos）拼合，故前文配以「got the hoof」（挨了一记马蹄）。",
+      "text": "Filioque 意为「并由子」，关乎西方信经中圣灵如何发出；philioquus 的尾部又近于拉丁语 equus（马），正接前面的 hoof（蹄）。译文用「并由子马」保留蹄声。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -371,10 +395,54 @@
       "id": "i6-canis-et-coluber",
       "lemma": "And they viterberated each other, canis et coluber with the wildest ever wielded",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "「viterberated」叠合辱骂（vituperated）、回响（reverberated）与教皇驻地维泰博（Viterbo）；拉丁语「canis et coluber」意为「犬与蛇」，形容双方恶毒互骂。该拉丁短语的具体古典或中世纪文献出处尚待核实。",
+      "certainty": "proposal",
+      "text": "拉丁语意为「犬与蛇」。威翁1595年刊本第311页中栏作 Canis & coluber，紧跟后段用作居所名的「攫鹰」；这两条没有配教皇姓名。viterberated 叠出骂声和反响，亦可能擦出维泰博一名。末句把 bullfolly 与 volleyball 对掷，像回嘴声撞来撞去。",
+      "source_ids": [
+        "joyce-fp",
+        "wion-lignum-vitae-1595-p311"
+      ]
+    },
+    {
+      "id": "i6-amnis-limina",
+      "lemma": "Amnis Limina Permanent",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "字面可读作「河界长存」。三词首字母为 ALP，正合安娜·利维娅·普露拉贝尔。前面的 one one oneth 既能连读出 111，又像数数数岔；译文保留三个一的磕绊。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "i6-little-brown-jug",
+      "lemma": "My, my, my! Me and me! Little down dream don't I love thee!",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "Eastburn《小棕壶》副歌也先连喊三声，接你与我，末句向小棕壶示爱。溪水把你与我缩成我与我，又把棕壶唱成低处的梦；译文留住节拍与自问。",
+      "source_ids": [
+        "joyce-fp",
+        "duke-eastburn-little-brown-jug"
+      ]
+    },
+    {
+      "id": "i6-sus-in-cribro",
+      "lemma": "sus in cribro",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "威翁1595年刊本第307页把「筛中猪」配给乌尔班三世，旁文提到家徽有猪。穆克思把同页两条预言分别拿作居所名与骂词。",
+      "source_ids": [
+        "joyce-fp",
+        "wion-lignum-vitae-1595-p307"
+      ]
+    },
+    {
+      "id": "i6-quas-primas",
+      "lemma": "Quas primas",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "这两词也是庇护十一世1925年通谕题名。通谕规定举行基督君王节。穆克思借通谕腔夹进赌书和熬果子的骂战；译文留拉丁题名。",
+      "source_ids": [
+        "joyce-fp",
+        "vatican-quas-primas"
       ]
     }
   ],
@@ -384,7 +452,7 @@
       "lemma": "Nuvoletta in her lightdress, spunn of sisteen shimmers",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "意大利语「Nuvoletta」意为「小云朵」，在寓言中作为斜倚星辰栏杆（bannistars = banisters + stars）俯瞰穆克思与格莱普斯争执的少女形象出场，「sisteen shimmers」双关十六道微光与少女年华。",
+      "text": "Nuvoletta 可拆作意大利语 nuvola（云）的指小形式，译作「小云女」。lightdress 既轻且亮；sisteen 可听作 sixteen（十六），还贴近 sister 的声形。bannistars 把栏杆与星星叠在一起，后文翻栏沿用「星栏」。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -394,9 +462,10 @@
       "lemma": "Mrs Cornwallis-West",
       "kind": "culture",
       "certainty": "uncertain",
-      "text": "指康沃利斯—韦斯特夫人（Mrs Cornwallis-West，常指温斯顿·丘吉尔之母珍妮·杰罗姆再婚后的称谓，或帕特里克·坎贝尔夫人之母家姓氏）；其具体肖像姿态的取材来源尚待文献核实。",
+      "text": "英国国家肖像馆 NPG D45689 所藏《名利场》1912年11月20日版画以 Mrs George Cornwallis West 称珍妮·杰罗姆，可核称谓。原文所写圆臂动作究竟取自何人、何幅图，仍待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "npg-cornwallis-west-d45689"
       ]
     },
     {
@@ -404,7 +473,7 @@
       "lemma": "Tristis Tristior Tristissimus",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "拉丁语形容词「悲伤」（tristis）的原级、比较级与最高级三连（「悲伤、更悲伤、最悲伤」），同时借词根唤起传奇骑士崔斯坦（Tristan / Tristram）之名。",
+      "text": "拉丁语从「悲」逐级加重到「更悲」「最悲」。把这一串当作待嫁对象，或会牵出崔斯坦之名；正文保留级变。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -413,20 +482,23 @@
       "id": "i6-aquila-rapax",
       "lemma": "thats hights, Aquila Rapax",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "拉丁语「强夺之鹰」；与下文「De Rore Coeli」同属《圣马拉基教皇预言》中的教皇格言名号（通行注释分别对应庇护七世与乌尔班七世），预言原典尚待直接核对。",
+      "certainty": "supported",
+      "text": "拉丁语可译「攫鹰」。威翁1595年刊本第311页中栏将它与「犬与蛇」相邻列出，两行均无教皇配名。此处拿它作彼岸妇人居所名。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wion-lignum-vitae-1595-p311"
       ]
     },
     {
       "id": "i6-de-rore-coeli",
       "lemma": "De Rore Coeli",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "拉丁语「天之甘露」（出自《创世记》27:28 拉丁通俗本「de rore caeli」，亦见于《圣马拉基教皇预言》），文中用作此岸妇人抱走格莱普斯后所归隐秘茅屋之名。",
+      "certainty": "supported",
+      "text": "「天露」。威翁1595年刊本第311页把 De rore cœli 配给乌尔班七世。《创世记》27:28 在《新拉丁通俗本》中写 de rore caeli，是以撒给雅各祝福所用的词。此处作此岸妇人茅屋名。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "wion-lignum-vitae-1595-p311",
+        "vatican-nova-vulgata-gen27"
       ]
     },
     {
@@ -434,9 +506,10 @@
       "lemma": "she gave a childy cloudy cry: Nuée! Nuée!",
       "kind": "sound",
       "certainty": "proposal",
-      "text": "小云女翻越星辰栏杆跃入长河时的呼声，借法语「云、雨云」（nuée）双关孩童哭声，完成由云化泪、坠入河水的变形。",
+      "text": "法语 nuée 在法语词典收有大片雨云和小云两义。「孩子气、云气」保留 childy 与 cloudy 的近音。原文先写翻栏、叫喊、衣闪与人不见，继而写一滴泪落河；两组动作相接，译文留出这道接缝。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "tlfi-nuee"
       ]
     },
     {
@@ -444,9 +517,30 @@
       "lemma": "her muddied name was Missisliffi",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "将密西西比河（Mississippi）、利菲河（Liffey）与太太（Missis）熔铸为一词，呼应小溪汇聚成母亲河的过程。",
+      "text": "Missisliffi 可同时听出 Missis（太太）、Mississippi（密西西比）与 Liffey（利菲）。这里先说往日是溪，如今成河，又给河一个带泥的人名；「密西利菲太太」分留地名与人称。",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "i6-leaptear",
+      "lemma": "it was a leaptear.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "leaptear 叠合跳跃与泪，近 leap year（闰年）。前面计数泪滴，后面水流踏步。译文在落水动作旁留「闰跳泪」。",
+      "source_ids": [
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "i6-romescot",
+      "lemma": "The romescot nattleshaker",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "romescot 与中古文献所称彼得便士同形，那是缴给罗马教廷的款项。译文用「罗马捐」留此义，nattleshaker 暂译为会响的东西；circulation 也可牵出钱币流通。",
+      "source_ids": [
+        "joyce-fp",
+        "and-romescot"
       ]
     }
   ],
@@ -456,7 +550,7 @@
       "lemma": "Gnaccus Gnoccovitch",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "琼斯教授对那位「半块未洗面包」挚友的戏称，词形叠合意大利语面疙瘩／蠢汉（gnocco）与斯拉夫父称后缀（-vitch），与下文流放特里斯坦—达库尼亚岛的段落相连。",
+      "text": "名字可听出意大利语 gnocco（面疙瘩，亦可戏称笨人）与近斯拉夫父称的尾音。前句又以半块面包称友，食物开始侵入人名。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -466,7 +560,7 @@
       "lemma": "Burrus, let us like to imagine, is a genuine prime",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "「Burrus」叠合拉丁语黄油（butyrum / 晚期拉丁语 burra）、罗马刺凯撒者布鲁图斯（Brutus）与古罗马禁卫军长官布尔鲁斯（Afranius Burrus）；文中以纯正乳脂（milkstoffs）与弑君者／灭笑者（risicide = regicide + risus）双重语汇加以刻画。",
+      "text": "上文 dairy、此处 milkstoffs、后文 butter 和拟拉丁句中的 burro，使伯鲁斯染上黄油意。紧接着又有凯撒和弑君，名字也可牵出布鲁图斯。risicide 把灭笑与弑君挤到同一词形，译文将两层并列。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -476,7 +570,7 @@
       "lemma": "Caseous, the brutherscutch or puir tyron",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "「Caseous」意为「干酪质的」（源自拉丁语 caseus 奶酪），同时双关布鲁图斯的同谋卡西乌斯（Cassius）；「brutherscutch」叠合兄弟（brother）与苏格兰奶油硬糖（butterscotch），「tyron」双关生手新兵（tyro）、爱尔兰蒂龙郡（Tyrone）与希腊语奶酪（tyros）。",
+      "text": "Caseous 有干酪质之意。前后有黄油、干酪孔与凯撒，名字也可能擦出刺凯撒者卡西乌斯。brutherscutch 把兄弟腔蹭进奶油硬糖；tyron 可听出新手与干酪语根，正文先留这两层。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -485,28 +579,43 @@
       "id": "i6-butyrum-et-mel",
       "lemma": "Butyrum et mel comedet ut sciat reprobare malum et eligere bonum.",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "拉丁文引句「他必吃奶油与蜂蜜，直到他晓得弃恶择善」，字面与《以赛亚书》7:15 拉丁通俗本（Vulgate）一致；文中借「Butyrum」（黄油）紧扣伯鲁斯（Burrus）的乳品论辩。拉丁圣经原页未纳入当前来源库，故标存疑。",
+      "certainty": "supported",
+      "text": "拉丁句可和《克莱孟通俗本·以赛亚书》7:15对读，词序相合，标点有别。诗篇腔由讲者带出；引句仍属《以赛亚书》。butyrum 译「黄油」，接伯鲁斯与下文黄油面包。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "clementine-vulgate-isa7"
       ]
     },
     {
       "id": "i6-cusanus-philosophism",
       "lemma": "the learned ignorants of the Cusanus philosophism in which old Nicholas pegs it down that the smarter the spin of the top the sounder the span of the buttom",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "「Cusanus」指十五世纪思想家库萨的尼古拉（Nicholas of Cusa），「learned ignorants」对应其名作《论有学识的无知》（De docta ignorantia），下文陀螺旋转比喻则涉及《论陀螺》（De possest）中以陀螺极速旋转呈现静止来阐释永恒与对立面重合的论述；原著页码尚待直接核对。",
+      "certainty": "supported",
+      "text": "learned ignorants 可照库萨的《论有学识的无知》读。《Trialogus de possest》§18–20 另有陀螺譬喻：转得越快，越像静止；随后借动圈、定圈谈永恒和时间。跨度与底座是乔伊斯讲者的改说，译文分留前说与括号补说。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "cusanus-docta-ignorantia",
+        "cusanus-possest-latin"
       ]
     },
     {
       "id": "i6-nolanus-theory",
       "lemma": "the Nolanus theory",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "「Nolanus」指意大利诺拉城哲学家焦尔达诺·布鲁诺（Giordano Bruno），前文「heroicised furibouts」戏拟其对话录《论英雄狂热》（De gli eroici furori），下文「Theophil」对应其对话录中的代言人德奥菲洛（Teofilo）；具体原典段落尚待核实。",
+      "certainty": "supported",
+      "text": "布鲁诺《英雄狂热》卷首以「诺拉人」自称，heroicised furibouts 戏改其题。德奥菲洛是另一部《论原因、本原与太一》的发言人，第一对话介绍其角色，第二对话让他与狄克索诺谈原因和本原。这里把两处线索叠在一起，至于身价和鸡蛋等话，仍按小说讲者的说辞读。",
+      "source_ids": [
+        "joyce-fp",
+        "bruno-eroici-furori",
+        "bruno-causa-teofilo"
+      ]
+    },
+    {
+      "id": "i6-cashdime-time",
+      "lemma": "at the same time and with the same manners",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dime 是角币，也与 time 押尾音。现钱、兜袋与脸皮相逐，紧扣同一时间的有和没有。这里保留重复否定；正文明说角币即钱，未另添「时间就是空间」一句。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -518,9 +627,10 @@
       "lemma": "we come down home gently on our own turnedabout asses to meet Margareen.",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "在「黄油」（Burrus）与「奶酪」（Caseous）两极雄性之间，琼斯教授引入女性焦点「Margareen」（双关人造黄油 margarine 与女子名玛格丽特 Margaret），并在下文演化为「Margareena」「Marge」及「A cleopatrician in her own right」（克娄巴特拉式女贵族）。",
+      "text": "Margareen 在两个乳品名之间，又近 margarine（人造黄油）和女子名。她从贝钱姑娘 M 变出 Margareena、Marge，文末还带出克娄巴特拉的名字。前面基士子与驴可比《撒母耳记上》9:3；小说偏换出父辈灰烬与掉头的驴，译文照留。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "kjv-samuel9"
       ]
     },
     {
@@ -528,29 +638,32 @@
       "lemma": "This Antonius-Burrus-Caseous grouptriad may be said to equate",
       "kind": "allusion",
       "certainty": "proposal",
-      "text": "将古罗马历史与莎士比亚《裘力斯·恺撒》中的马克·安东尼（Antonius）、布鲁图斯（Burrus）与卡西乌斯（Caseous）组合成「ABC」三人团（grouptriad），与前文的「qualis」及「talis on talis」哲学范畴相对应。",
+      "text": "三名首字母组成 ABC，接下文球童的 abe boob caddy。莎士比亚《裘力斯·凯撒》3.1 同场列出安东尼、布鲁图斯与卡西乌斯，可作姓名对照；小说又把三名搅入乳品和定量类比。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "folger-julius-caesar"
       ]
     },
     {
       "id": "i6-tarpeia-rock",
       "lemma": "Topsman to your Tarpeia!",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "「Topsman」指刽子手，「Tarpeia」指古罗马卡皮托尔山南侧的塔尔佩亚岩（Tarpeian Rock，罗马法中处决重犯的峭壁）；具体罗马史料尚待进一步核实。",
+      "certainty": "supported",
+      "text": "普鲁塔克《罗慕路斯传》18.1 说卡皮托尔一处悬崖仍名塔尔佩亚岩，也提及从岩上抛下罪犯。小说将刽子手与该名并呼；译文不另指受刑人。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "plutarch-romulus18"
       ]
     },
     {
       "id": "i6-ubi-lingua-nuncupassit",
       "lemma": "Ubi lingua nuncupassit, ibi fas!",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "拉丁语「舌头宣之于口，该处即是天法」，改写自古罗马《十二铜表法》第六表名句「uti lingua nuncupassit, ita ius esto」（将原句的世俗法权 ius 替换为神圣天法 fas）；古罗马法原典版本尚待核对。",
+      "certainty": "supported",
+      "text": "Bruns 所辑《十二铜表法》残文第六表第1条，以口头宣定作为法律依据。乔伊斯改 uti、ita 为 ubi、ibi，又换 ius（法律、权利）为 fas（神所允之法）。紧接的 Adversus hostem semper sac! 可对照同一辑本第三表第7条；小说末字停在 sac，译文用破折号留断口。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bruns-twelve-tables"
       ]
     },
     {
@@ -558,7 +671,7 @@
       "lemma": "would meself and Mac Jeffet, four-in-hand, foot him out?—ay!—were he my own breastbrother",
       "kind": "structure",
       "certainty": "proposal",
-      "text": "第十一问结尾回应开篇148.33之提问：面对在暴雨中来到「喧嚣险境号」（Noisdanger，挪亚方舟变形）前乞食的落魄同胞兄弟，琼斯先高呼自己与「Mac Jeffet」（雅弗之子）定会四手联结一脚将他踹出（foot him out?—ay!），但末句「though it broke my heart to pray it, still I'd fear I'd hate to say!」又在否定套否定中流露出手足难断的犹疑。",
+      "text": "暴雨中有人求一口吃的，照应 148.33 开始的假设连问。Noisdanger 的船与 Mac Jeffet 可引出挪亚、雅弗之联想。讲者以 ay 断然应声，继而列同炉、同盐、同师、同柜、同床与同蚤，末句的 fear 与 hate 又使斥退口气打结。",
       "source_ids": [
         "joyce-fp"
       ]
@@ -567,10 +680,11 @@
       "id": "i6-sacer-esto",
       "lemma": "12. Sacer esto?",
       "kind": "allusion",
-      "certainty": "proposal",
-      "text": "第十二问仅由两个拉丁词构成：「Sacer esto?」（出自古罗马《十二铜表法》断案套语，意为「当判为受诅咒／献祭之人否？」），承接第十一问末尾对兄弟的放逐判决。",
+      "certainty": "supported",
+      "text": "Bruns 辑本第八表第21条由塞尔维乌斯注引出，保留 sacer esto 罚式。小说改为独立问句。sacer 可连着归属神明与受咒两面；「当归诸神么」保留归神，不套用后世逐出教会之刑。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bruns-twelve-tables"
       ]
     },
     {
@@ -578,7 +692,7 @@
       "lemma": "Answer: Semus sumus!",
       "kind": "wordplay",
       "certainty": "proposal",
-      "text": "第十二问暨全章终极谜底：「Semus sumus!」在拉丁语「我们是」（sumus）前冠以双关词「Semus」（叠合谢姆 Shem / Seumas、英语相同 same 与拉丁语半边 semi-），在拒绝与诅咒之后道出两兄弟实为同一整体的反讽结局。",
+      "text": "sumus 即「咱是」。Semus 可连读人名 Shem／Shemus，也会擦着英语 same。译作「咱都是谢姆」，留一人名而不预先讲定兄弟是否同一。Faded Page 到此结束第六章，下一页另起并用 Shem、Shemus 比 Jem、Jacob。",
       "source_ids": [
         "joyce-fp"
       ]

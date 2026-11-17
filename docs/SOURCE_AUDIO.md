@@ -50,4 +50,4 @@ python3 scripts/prepare_audio_source.py
 
 ## 正式采用与验收现状
 
-截至 2026-11-07，第二至四卷全部 521 轨逐页分轨英文朗读已完成生成与技术验收，正式登记于 `audio/source-index.json`（采用批次记录见 [audio-adoption-20261107.json](../reports/source-import/audio-adoption-20261107.json)）。全书音轨按卷、章、页、角色（正文 `main` → 左旁注 `left` → 右旁注 `right` → 脚注 `footnotes`）分块严格排序，521 轨均通过完整 MP3 解码、时长与 SHA-256 校验。人工听校状态统一记为 `pending`。用户可在各章页面展开「全章英文」或通过 [第二卷首章](https://louis-qiuyulu.github.io/Finnegans-Wake-Translation-Project/chapters/II-1.html) 听取。
+截至 2026-11-07，第二至四卷全部 521 轨逐页分轨英文朗读已完成生成与技术验收，正式登记于 `audio/source-index.json`（采用批次记录见 [audio-adoption-20261107.json](../reports/source-import/audio-adoption-20261107.json)）。全书音轨按卷、章、页、角色（正文 `main` → 左旁注 `left` → 右旁注 `right` → 脚注 `footnotes`）分块严格排序，521 轨均通过完整 MP3 解码、时长与 SHA-256 校验。人工听校状态统一记为 `pending`。读者可在各章章首展开「英文逐页朗读」，也可从 [第二卷首章](https://louis-qiuyulu.github.io/Finnegans-Wake-Translation-Project/chapters/II-1.html) 听起。
