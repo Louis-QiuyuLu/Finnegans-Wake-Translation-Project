@@ -5114,5 +5114,461 @@
     "type": "commentary",
     "accessed": "2026-11-17",
     "use": "核 artesian 与 flowing well/spring 的承压水含义。"
+  },
+  {
+    "id": "flaubert-bouvard-conard",
+    "title": "Flaubert，Bouvard et Pécuchet，Conard 1910",
+    "url": "https://fr.wikisource.org/wiki/Bouvard_et_P%C3%A9cuchet/Texte_entier",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第一章两人初见，帽内各写姓名。"
+  },
+  {
+    "id": "cnrtl-eponge-buvard",
+    "title": "CNRTL，éponger 词条",
+    "url": "https://www.cnrtl.fr/definition/%C3%A9ponger",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核例句中用 buvard 吸墨。"
+  },
+  {
+    "id": "logeion-calamus-302",
+    "title": "Logeion，calamus 词条",
+    "url": "https://logeion.uchicago.edu/calamus",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Lewis & Short 所列芦管笔词义。"
+  },
+  {
+    "id": "bnf-saint-saens-samson",
+    "title": "法国国家图书馆，圣桑《参孙与达丽拉》录音目录",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb411674820",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核作曲家名与作品，只读目录。"
+  },
+  {
+    "id": "fox-cocker-arithmetick",
+    "title": "James Fox，Numeracy and Popular Culture: Cocker’s Arithmetick",
+    "url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/25578/Fox_2022_CaSH_Numeracy_and_popular_culture_CC.pdf?sequence=1",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核第1–2页首刊年份和习语。"
+  },
+  {
+    "id": "leadbeater-serpent-fire-1910",
+    "title": "C. W. Leadbeater，Force-Centres and the Serpent-Fire",
+    "url": "https://theosophy.world/sites/default/files/Theosophical%20Publications/The%20Theosophist/1910/theosophist_v31_n8_may_1910.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核1910年5月号第1075页七处次序，所见为扫描本转录层。"
+  },
+  {
+    "id": "silva-floundering-2020",
+    "title": "Emma-Louise Silva，Floundering in a Bog，Genetic Joyce Studies 20",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS20/GJS20_Silva.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核第6–8页所述笔记 VI.C.7-260 和 Leadbeater 查源。"
+  },
+  {
+    "id": "folger-romeo-juliet-2-2",
+    "title": "Shakespeare，Romeo and Juliet，Folger 2.2",
+    "url": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/read/2/2/",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核罗密欧翻入果园及朱丽叶追问。"
+  },
+  {
+    "id": "broes-newslitter-303",
+    "title": "Arthur T. Broes，A Wake Newslitter III.6 索引摘录",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artATB1966a.html",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核303.11搜索索引摘录。未读整篇。"
+  },
+  {
+    "id": "sandulescu-scandinavian-304",
+    "title": "C. George Sandulescu，A Lexicon of Common Scandinavian in Finnegans Wake",
+    "url": "https://editura.mttlc.ro/carti/sandulescu-lexicon-scandinavian-fw.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核所见第87页 304.04、304.18 两条。"
+  },
+  {
+    "id": "rotary-motto-1911",
+    "title": "Rotary International，Rotary’s Timeline: Founding Years",
+    "url": "https://www.rotary.org/who-we-are/our-history/rotarys-timeline/rotarys-timeline-founding-years",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核1911年格言前身与1928年会徽例。"
+  },
+  {
+    "id": "collins-delph-304",
+    "title": "Collins，delph",
+    "url": "https://www.collinsdictionary.com/dictionary/english/delph",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核锡釉陶器义。"
+  },
+  {
+    "id": "saxo-gesta-baltic",
+    "title": "Baltic Sea Library，Saxo Grammaticus: Gesta Danorum",
+    "url": "https://www.balticsealibrary.info/texts/danish/item/381-gesta-danorum.html?tab=danish",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "仅核编者说明所列姓名与书名。"
+  },
+  {
+    "id": "mcintyre-bruno-twofold",
+    "title": "J. Lewis McIntyre，Giordano Bruno，1903",
+    "url": "https://www.gutenberg.org/cache/epub/46901/pg46901-images.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第75页替布鲁诺辩护一节，见 twofold truth 一词。"
+  },
+  {
+    "id": "bruno-spaccio-1863",
+    "title": "Giordano Bruno，Spaccio de la bestia trionfante，Daelli 1863",
+    "url": "https://it.wikisource.org/wiki/Indice%3ASpaccio_de_la_bestia_trionfante_1863.djvu",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核1863年版书名。只用卷首题录。"
+  },
+  {
+    "id": "oca-trisagion-prayer",
+    "title": "Orthodox Church in America，Trisagion Prayers",
+    "url": "https://www.oca.org/orthodoxy/prayers/trisagion",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核三圣颂英译三称和祈怜句。"
+  },
+  {
+    "id": "glasgow-burns-auld-lang-syne",
+    "title": "格拉斯哥大学 Burns 项目，Auld Lang Syne",
+    "url": "https://burnsc21.glasgow.ac.uk/online-exhibitions/auld-lang-syne/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核副歌起句与思旧语境。"
+  },
+  {
+    "id": "jjda-ii2-306-corrections",
+    "title": "JJDA，II.2§9，Joyce–Léon 勘误稿",
+    "url": "https://jjda.ie/f/flex/lh/lhd14.htm",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核页标 {f39, 306} 开头读法，并列版本参照。"
+  },
+  {
+    "id": "usccb-mizpah-31",
+    "title": "《创世记》31章，USCCB",
+    "url": "https://bible.usccb.org/bible/genesis/31",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核31:45–49立石、盟约及米斯巴命名。"
+  },
+  {
+    "id": "logeion-securis-306",
+    "title": "Logeion，securis",
+    "url": "https://logeion.org/securis",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Lewis & Short 的斧义。"
+  },
+  {
+    "id": "upenn-seven-liberal-arts",
+    "title": "宾夕法尼亚大学图书馆，The Liberal Arts",
+    "url": "https://makingrenmanuscripts.exhibits.library.upenn.edu/collections/show/10",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核展览说明所列三艺四艺科目。"
+  },
+  {
+    "id": "vatican-porziuncola-1999",
+    "title": "若望保禄二世，波提翁库拉重开书信，1999年8月1日",
+    "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_19990801_porziuncola.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第2、4节关于教堂与大赦的教会说明。"
+  },
+  {
+    "id": "longfellow-hesperus-poets",
+    "title": "Henry Wadsworth Longfellow，The Wreck of the Hesperus",
+    "url": "https://poets.org/poem/wreck-hesperus",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核诗中船长不听老海员劝告及沉船收束。"
+  },
+  {
+    "id": "ucc-diarmaid-grainne-sources",
+    "title": "UCC Irish Sagas，Tóruigheacht Dhiarmada agus Ghráinne 书目",
+    "url": "https://iso.ucc.ie/Toruigheacht-grainne/Toruigheacht-grainne-sources.html",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核故事题名与 O’Grady 编译本，只读书目。"
+  },
+  {
+    "id": "celt-annals-ulster-1014",
+    "title": "《阿尔斯特编年史》，CELT 英译，U1014.2",
+    "url": "https://celt.ucc.ie/published/T100001A/text585.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核1014年都柏林附近战事及布赖恩之死。该条不列克朗塔夫地名。"
+  },
+  {
+    "id": "nli-henglers-circus",
+    "title": "爱尔兰国家图书馆，Hengler’s Circus Jubilee Year 节目单",
+    "url": "https://catalogue.nli.ie/Record/vtls000768114",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "仅查目录检索条目，登记节目单与都柏林关联。未读影像。"
+  },
+  {
+    "id": "loc-ants-grasshopper",
+    "title": "美国国会图书馆，The Ants & the Grasshopper",
+    "url": "https://read.gov/aesop/052.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核馆藏伊索寓言英译中蚂蚁与蚱蜢。"
+  },
+  {
+    "id": "jacobs-jack-beanstalk-1890",
+    "title": "Joseph Jacobs，English Fairy Tales，第13篇",
+    "url": "https://sites.pitt.edu/~dash/type0328jack.html",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核1890年所录 Jack and the Beanstalk 题名与豆茎情节。"
+  },
+  {
+    "id": "usccb-jonah-2",
+    "title": "《约拿书》2章，USCCB",
+    "url": "https://bible.usccb.org/bible/jonah/2",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核2:1–2大鱼吞约拿、鱼腹祈祷，所见为检索呈现经文。"
+  },
+  {
+    "id": "oireachtas-caighdean-counting",
+    "title": "爱尔兰议会，An Caighdeán Oifigiúil，2017",
+    "url": "https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_ga.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第9章9.2.1表9A，一至十独立数词。现代标准仅用作比较。"
+  },
+  {
+    "id": "mccreedy-nightletter-2022",
+    "title": "Jonathan McCreedy，Returning the NIGHTLETTER to Sender，Genetic Joyce Studies 22",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS22/GJS22_McCreedy.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核第4–8、9–11页电报格式、草稿异文及第308页排版比较。"
+  },
+  {
+    "id": "iar-guinness-company",
+    "title": "Irish Archives Resource，Papers of the Guinness Company",
+    "url": "https://iar.ie/archive/papers-guinness-company/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核吉尼斯档案馆全宗简介、家族经营及圣詹姆斯门酒厂。"
+  },
+  {
+    "id": "oxford-marconi-14937",
+    "title": "牛津大学科学史博物馆，Marconi Collection 14937",
+    "url": "https://www.mhs.ox.ac.uk/marconi/collection/cataloguecba9.html?invnum=14937&mode=documents",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核1907年贝利尼—托西无线电测向器馆藏条目。"
+  },
+  {
+    "id": "loc-tosti-score-catalogue",
+    "title": "美国国会图书馆，Serge Lifar Collection，曲谱目录",
+    "url": "https://findingaids.loc.gov/exist_collections/ead3pdf/music/2003/mu003011.pdf",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核第85页托斯蒂声乐及钢琴谱著录。"
+  },
+  {
+    "id": "loc-bellini-sonnambula",
+    "title": "美国国会图书馆，La sonnambula 主题曲谱",
+    "url": "https://www.loc.gov/item/2018560545/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核维琴佐·贝利尼与歌剧曲谱著录。"
+  },
+  {
+    "id": "ordbokene-tolv-309",
+    "title": "挪威 Ordbøkene，tolv",
+    "url": "https://ordbokene.no/nob/search?dict=nn&q=tolv&scope=eif",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核挪威新挪威语词典所列基数十二。"
+  },
+  {
+    "id": "nidcd-how-we-hear",
+    "title": "NIDCD，How Do We Hear?",
+    "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核步骤1–3外耳、鼓膜和三块中耳听小骨传振。"
+  },
+  {
+    "id": "halper-newslitter-310",
+    "title": "Nathan Halper，A Wake Newslitter IV.5 索引摘录",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artNH1967b.html",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核310.09–21索引摘录所列耳部近形。未读整篇。"
+  },
+  {
+    "id": "volpone-telecommunication-fw",
+    "title": "Annalisa Volpone，Some Examples of (Tele)communication in James Joyce’s Finnegans Wake",
+    "url": "https://arpi.unipi.it/retrieve/e0d6c92f-64c1-fcf8-e053-d805fe0aa794/Worlds_Of_Words_Complexity_Creativity_And_Conventi_9788833392486_1924582.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核383页对信号进入耳的释读，连读381–383页相关段。"
+  },
+  {
+    "id": "pmc-eustachian-anatomy",
+    "title": "A Study of the Anatomy of the Eustachian Tube for Its Surgical Approach in Otorhinolaryngology",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10232923/",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核论文引言所述咽鼓管连接关系。"
+  },
+  {
+    "id": "daera-lough-neagh-map",
+    "title": "北爱尔兰 DAERA，Lough Neagh Catchment Map",
+    "url": "https://www.daera-ni.gov.uk/publications/lough-neagh-catchment-map",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核官方资料所列湖名；只用地名与湖体简介。"
+  },
+  {
+    "id": "hansard-ships-husband-1906",
+    "title": "英国下议院 Hansard，Workmen’s Compensation Bill，1906年12月6日",
+    "url": "https://hansard.parliament.uk/Commons/1906-12-06/debates/540e2878-d265-448f-b63d-e9149915da86/WorkmenSCompensationBill",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核第13条修正案辩论，Robson 说明 ship’s husband 管船及船的拟女性语法。"
+  },
+  {
+    "id": "dsl-soutar-311",
+    "title": "Dictionaries of the Scots Language，Soutar",
+    "url": "https://www.dsl.ac.uk/entry/dost00083143",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 DOST 所列 sowter 拼形与鞋匠义。"
+  },
+  {
+    "id": "miller-picture-letter-311",
+    "title": "William L. Miller，The Picture and the Letter，1995",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/514/1/FWLetterWall.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Tree/Stone 章对311.11–12桶主与巴斯、康尼贝尔祭饮的释读。"
+  },
+  {
+    "id": "yuki-wake-orientation-3",
+    "title": "結城英雄，『フィネガンズ・ウェイク』の知の方位（3）",
+    "url": "https://hosei.ecats-library.jp/da/repository/00003991/bunga_48_yuki.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核印刷页34的311.21–315.08提要，船舶管理人介绍裁缝。"
+  },
+  {
+    "id": "gordon-ii3-efas-taem",
+    "title": "John Gordon，II.3a，311.10–14 词注",
+    "url": "https://johngordonfinnegan.weebly.com/book-ii/chapter-2-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Efas-Taem 倒写与肉柜读法，只读相邻几条。"
+  },
+  {
+    "id": "usccb-genesis-7-flood",
+    "title": "《创世记》7章，USCCB",
+    "url": "https://bible.usccb.org/bible/genesis/7",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核7:4、7:12四十昼夜雨，及7:10七日之数。"
+  },
+  {
+    "id": "npolar-frans-josef",
+    "title": "挪威极地研究所，Polarhistorie: Ekspedisjoner",
+    "url": "https://beta.npolar.no/ekspedisjoner/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核 Nansen Fram 条目中 Frans Josef Land 地名。"
+  },
+  {
+    "id": "museu-marinha-cabo-tormentas",
+    "title": "葡萄牙海事博物馆，Há 531 anos…",
+    "url": "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/Ha-531-anos-bartolomeu-dias.aspx",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核风暴角与好望角两名，只作地名对照。"
+  },
+  {
+    "id": "npws-howth-head-004113",
+    "title": "爱尔兰 NPWS，Howth Head Coast SPA",
+    "url": "https://www.npws.ie/protected-sites/spa/004113",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核都柏林的 Howth Head 海岸名与位置。"
+  },
+  {
+    "id": "rollco-livery-312",
+    "title": "ROLLCO，Records of London’s Livery Companies Online",
+    "url": "https://www.londonroll.org/search",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核索引所列 Loriners、Leathersellers、Fletchers、Bowyers 等行会名。未核会员。"
+  },
+  {
+    "id": "gordon-ii3-312",
+    "title": "John Gordon，II.3a，312页释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-ii/chapter-2-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核312.1–4和312.15–23近音及海事读法。"
+  },
+  {
+    "id": "loc-go-down-moses-1924",
+    "title": "美国国会图书馆，Go down Moses 录音目录",
+    "url": "https://www.loc.gov/item/jukebox-69931/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核检索呈现的曲名及别称 Let my people go。未听录音。"
+  },
+  {
+    "id": "natmus-viking-ting",
+    "title": "丹麦国家博物馆，The Viking blót sacrifices",
+    "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/the-viking-blot-sacrifices/",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核展陈所述 ting 的集会及审理职司。"
+  },
+  {
+    "id": "nmi-sihtric-pennies",
+    "title": "爱尔兰国家博物馆，950–1450: Vikings, Normans and Medieval Mints",
+    "url": "https://source.museum.ie/en-IE/Collections-Research/Art-and-Industry-Collections/Art-Industry-Collections-List/Numismatics/Airgead-A-Thousand-Years-of-Irish-Coins-Currency/950-1450-Vikings,-Normans-and-Medieval-Mints",
+    "type": "archive",
+    "accessed": "2026-11-17",
+    "use": "核都柏林约997或998年在西特里克治下所铸银便士。"
+  },
+  {
+    "id": "glasheen-thunder-census",
+    "title": "Adaline Glasheen，Third Census of Finnegans Wake，Thunder 条",
+    "url": "https://asset.library.wisc.edu/1711.dl/FAW6VEAZCXSTW8A/E/file-0e705.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-17",
+    "use": "核 Thunder 条所列十处，314页在第七。"
+  },
+  {
+    "id": "loc-indianapolis-pushpull-1929",
+    "title": "The Indianapolis Times，1929年9月26日收音机广告",
+    "url": "https://tile.loc.gov/storage-services/service/ndnp/in/batch_in_goldman_ver01/data/sn82015313/00383349205/1929092601/0184.pdf",
+    "type": "primary",
+    "accessed": "2026-11-17",
+    "use": "核 Steinite 广告在收音机说明并用 push-pull 与电子管。非乔伊斯读过的证据。"
   }
 ]
