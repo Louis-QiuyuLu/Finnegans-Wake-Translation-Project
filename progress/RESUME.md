@@ -200,6 +200,15 @@
 - 2026-11-17 定点修订 II.3 323.01至324.01前半行，补15注、重订1注。续核324.01 Trolldedroll，见 reports/reviews/2026-11-17-ii3-323-01-324-01.r0.md。
 - 2026-11-17 定点修订 II.3 324.01后半行至324.36，补18注。续核325.01 Burial of Lifetenant-Groevener，见 reports/reviews/2026-11-17-ii3-324-01-36.r0.md。
 - 2026-11-17 定点修订 II.3 325.01至325.36，补17注。续核326.01 or be the hooley tabell，见 reports/reviews/2026-11-17-ii3-325-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 326.01至326.36，补16注。续核327.01 smukklers he would behave，见 reports/reviews/2026-11-17-ii3-326-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 327.01至327.36，补16注、重订2注。续核328.01 there's no pure rube，见 reports/reviews/2026-11-17-ii3-327-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 328.01至328.36，补18注。续核329.01 of Yinko Jinko Randy，见 reports/reviews/2026-11-17-ii3-328-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 329.01至330.01前半行，补18注。续核330.01 Hadn't we heaven's lamps，见 reports/reviews/2026-11-17-ii3-329-01-330-01.r0.md。
+- 2026-11-17 定点修订 II.3 330.01后半行至330.36，补16注。续核331.01 poppa the gun，见 reports/reviews/2026-11-17-ii3-330-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 331.01至331.36，补18注，并修订330页经句注1条。续核332.01 Snip snap snoody，见 reports/reviews/2026-11-17-ii3-331-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 332.01至332.36，补18注、订正1条。续核333.01 Why, wonder of wenchalows，见 reports/reviews/2026-11-17-ii3-332-01-36.r0.md。
+- 2026-11-17 定点修订 II.3 333.01至333.36，补20注、修订5注。续核334.01 or a parrotsprate，见 reports/reviews/2026-11-17-ii3-333-01-36.r0.md。
+- 2026-11-18 定点修订 II.3 334.01至334.36，补16注。续核335.01 It tellyhows，见 reports/reviews/2026-11-18-ii3-334-01-36.r0.md。
 
 ## 下次如何继续
 
