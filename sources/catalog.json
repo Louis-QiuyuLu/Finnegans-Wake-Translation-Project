@@ -8162,5 +8162,397 @@
     "type": "reference",
     "accessed": "2026-11-19",
     "use": "核该俗称指塘鹅，以区分同列的两形。"
+  },
+  {
+    "id": "dde-augsburg-interim-1548",
+    "title": "Digitale Edition der deutschen Reichstagsakten，1548 年奥格斯堡临时敕令德文校订版",
+    "url": "https://tueditions.ulb.tu-darmstadt.de/v/pa000008-0129",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核历史文献原名及1548年背景；用于辨384页 Augusburgh / interims 一种可能回声。"
+  },
+  {
+    "id": "nli-hearts-of-oak-385",
+    "title": "爱尔兰国家图书馆，Hearts of Oak 请愿传单书目",
+    "url": "https://catalogue.nli.ie/Record/vtls000205134",
+    "type": "catalog",
+    "accessed": "2026-11-19",
+    "use": "核 1764 年传单书目及 Oakboys 异称；未读影像。"
+  },
+  {
+    "id": "bnf-florian-fables-385",
+    "title": "法国国家图书馆，《弗洛里安寓言》1838 年版条目",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb304438882",
+    "type": "catalog",
+    "accessed": "2026-11-19",
+    "use": "核书名、作者，未定位特定寓言。"
+  },
+  {
+    "id": "ulysses-calypso-crowns-385",
+    "title": "James Joyce，《尤利西斯》〈卡吕普索〉，Telelib 转录",
+    "url": "https://www.telelib.com/authors/J/JoyceJames/prose/ulysses/ulysses04.html",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "读布卢姆出门后烘焙车一段，核 loaves、turnovers、crowns 同列。"
+  },
+  {
+    "id": "folger-hamlet-supper-385",
+    "title": "William Shakespeare，《哈姆雷特》第四幕第三场，Folger 版",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/4/3/",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核丹麦王子回答波洛涅斯去向时戏换吃与供虫吃的角色。"
+  },
+  {
+    "id": "conncoll-silvery-moon-385",
+    "title": "Ed Madden、Gus Edwards，《By the Light of the Silvery Moon》（1909），康涅狄格学院藏",
+    "url": "https://digitalcommons.conncoll.edu/sheetmusic/1341/",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核馆方所录歌词及版权页书目。对读副歌月光、spoon、honey 与 honeymoon；未核谱面。"
+  },
+  {
+    "id": "nls-macpherson-fingal-385",
+    "title": "James Macpherson 编译，《Fingal》（1762），苏格兰国家图书馆藏",
+    "url": "https://deriv.nls.uk/dcn23/7916/79169840.23.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核扉页所列 Ossian 与麦克弗森译自盖尔语的宣称；未定位此处确切借句。"
+  },
+  {
+    "id": "joyce-portrait-lemon-platt-386",
+    "title": "James Joyce，《青年艺术家的画像》第一章，宾夕法尼亚大学课程文本",
+    "url": "https://web.english.upenn.edu/~cavitch/pdf-library/Joyce_Portrait.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核正文印页1贝蒂·伯恩卖 lemon platt，与 woman squash 比较。"
+  },
+  {
+    "id": "nli-powerscourt-papers-386",
+    "title": "爱尔兰国家图书馆，Powerscourt 家族地产档案目录",
+    "url": "https://www.nli.ie/sites/default/files/2022-12/124_powerscourt.pdf",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核目录导言和族谱内 Viscount Powerscourt 爵号。未读地产档案原件。"
+  },
+  {
+    "id": "tii-hoggen-green-386",
+    "title": "Transport Infrastructure Ireland，Metro North 环境影响说明第23章，College Green",
+    "url": "https://www.tii.ie/media/r5kb0szd/eis-metro-north-volume-1-book-1-of-1-part-3-chapters-19-to-25.pdf",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "读 College Green 小节，核 Hoggen Green、三一学院及托马斯·摩尔像的邻近位置。"
+  },
+  {
+    "id": "dia-battersby-386",
+    "title": "Dictionary of Irish Architects，Battersby & Co. 拍卖场，西摩兰街39号",
+    "url": "https://www.dia.ie/works/view/39157/building/CO.%2BDUBLIN%2C%2BDUBLIN%2C%2BWESTMORELAND%2BSTREET%2C%2BNO.%2B039%2B%28BATTERSBY%2B%26%2BCO.%29",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核1900年改建拍卖场记录，未查档案引用的报纸原件。"
+  },
+  {
+    "id": "ahd-yamen-386",
+    "title": "American Heritage Dictionary，第五版，yamen",
+    "url": "https://www.ahdictionary.com/word/search.html?q=yamen",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核衙门义及汉语借词出处。"
+  },
+  {
+    "id": "boysen-gotopoxy-386",
+    "title": "Benjamin Boysen，〈A War in Words〉，印页408",
+    "url": "https://findresearcher.sdu.dk/ws/portalfiles/portal/178719490/_Volume_4_The_Rhetoric_of_Topics_and_Forms_A_War_in_Words_James_Joyce_s_Last_Comedy_Finnegans_Wake_.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核作者对 Gotopoxy 拟 God／Gott、got a pox 的分析。"
+  },
+  {
+    "id": "curragh-racecourse-387",
+    "title": "The Curragh Racecourse，库拉赫草地与赛马场",
+    "url": "https://www.curragh.ie/about/",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核基尔代尔地点、草地及爱尔兰德比传统。"
+  },
+  {
+    "id": "ucc-galloglass-387",
+    "title": "科克大学，Galloglass Project",
+    "url": "https://galloglass.ucc.ie/",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核网站导言引 Nicholls 所释佣兵身份，未逐一查人物。"
+  },
+  {
+    "id": "uv-swift-yahoo-387",
+    "title": "Jonathan Swift，《格列佛游记》第四部第三章，瓦伦西亚大学托管转录",
+    "url": "https://mural.uv.es/esase/chap4-3.html",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核雅胡与慧骃在原著中同现。"
+  },
+  {
+    "id": "ifi-irish-sweep-387",
+    "title": "Irish Film Institute，Irish Hospitals’ Sweepstake 影像档案导言",
+    "url": "https://ifiarchiveplayer.ie/irish-hospital-sweepstakes-vault-advert/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核赛事彩票名称与1930年开办背景；未以1970年代广告推定小说来源。"
+  },
+  {
+    "id": "usgs-andesite-387",
+    "title": "美国地质调查局，火山灾害词汇表〈Andesite〉",
+    "url": "https://volcanoes.usgs.gov/volcanic_ash/glossary/andesite.html",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核 andesite 是火山岩，供 andesiters 叠词对读。"
+  },
+  {
+    "id": "smithsonian-pantelleria-387",
+    "title": "史密森学会 Global Volcanism Program，Pantelleria",
+    "url": "https://volcano.si.edu/volcano.cfm?vn=211071",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核潘泰莱里娅火山岛及以地名命名的 pantellerites 岩类。"
+  },
+  {
+    "id": "celt-desmond-momonia-387",
+    "title": "科克大学 CELT，《德斯蒙德调查》第五部分",
+    "url": "https://celt.ucc.ie/published/E580000-001/text005.html",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核 Momonia 与 Mounster 并称处。"
+  },
+  {
+    "id": "child-74-margaret-387",
+    "title": "Francis James Child，《英苏民谣》第74首，科罗拉多大学托管转录",
+    "url": "https://www.colorado.edu/faculty/preston/sites/default/files/attached-files/formatted-text.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核74A第3节和74C第1节两名同现，未查手稿及曲谱。"
+  },
+  {
+    "id": "kilmainham-casement-387",
+    "title": "Kilmainham Gaol Museum，Easter Rising Document Pack",
+    "url": "https://www.kilmainhamgaolmuseum.ie/wp-content/uploads/2020/02/Easter-Rising-Document-Pack.pdf",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "读凯斯门特文件及馆方附注，核1916年班纳海滩登岸。"
+  },
+  {
+    "id": "bl-white-ship-387",
+    "title": "大英图书馆，Eleanor Jackson，白船海难与编年史见证",
+    "url": "https://www.bl.uk/stories/blogs/posts/900-years-since-the-white-ship-disaster",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核1120年白船海难及威廉王子，未进一步核编年史内页。"
+  },
+  {
+    "id": "usccb-exodus14-387",
+    "title": "USCCB，《出埃及记》第14章",
+    "url": "https://bible.usccb.org/bible/exodus/14",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核战车、骑兵与海水回流下全军无一逃脱，供小说改写比较。"
+  },
+  {
+    "id": "folger-hamlet-arras-388",
+    "title": "William Shakespeare，《哈姆雷特》第三幕第四场，Folger 版",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/4/",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核波洛涅斯藏在帷幕后，以及 Folger 版编辑舞台提示写穿幕一剑。"
+  },
+  {
+    "id": "punch-royal-divorce-388",
+    "title": "《Punch》1891年9月19日，A Royal Divorce 演出戏评",
+    "url": "https://www.gutenberg.org/files/13961/13961-h/13961-h.htm",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核当时报刊实读剧名、威尔斯署名及拿破仑和约瑟芬。"
+  },
+  {
+    "id": "ddo-elsker-388",
+    "title": "Den Danske Ordbog，elsker",
+    "url": "https://www.ordnet.dk/ddo/ordbog/elsker",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "条目摘要核名词与动词转见；直接打开词典全文超时。"
+  },
+  {
+    "id": "stradling-flanders-armada-388",
+    "title": "R. A. Stradling，《佛兰德舰队》导言与前页",
+    "url": "https://assets.cambridge.org/97805215/25121/frontmatter/9780521525121_frontmatter.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核佛兰德舰队为西班牙王权海军体系单位及其与荷兰战争的关系。"
+  },
+  {
+    "id": "ria-confessio-baptism-388",
+    "title": "Royal Irish Academy，圣帕特里克《自白》英译",
+    "url": "https://www.confessio.ie/etexts/confessio_english",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核第50节自述为成千上万人施洗。"
+  },
+  {
+    "id": "mcusa-anabaptism-1525-388",
+    "title": "Mennonite Church USA，苏黎世再洗礼纪念资料",
+    "url": "https://www.mennoniteusa.org/the-dangerous-work-of-reading-scripture-together/",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核该传统以1525年苏黎世施洗为运动起点。"
+  },
+  {
+    "id": "heritage-ireland-kevin-388",
+    "title": "Heritage Ireland，格伦达洛修道院遗址与圣凯文",
+    "url": "https://heritageireland.ie/places-to-visit/glendalough-monastic-site-and-visitor-centre/",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核圣凯文、上湖及六世纪修道院；湖上洞穴用途保留馆方不确定性。"
+  },
+  {
+    "id": "helgoland-history-388",
+    "title": "Helgoland，岛屿历史",
+    "url": "https://www.helgoland.de/en/thats-helgoland/history/",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核 Heligoland 为海岛、历史海上据点；未据此确定小说拟地名。"
+  },
+  {
+    "id": "dublin-picture-bride-388",
+    "title": "《The Picture of Dublin for 1811》，都柏林市图书馆藏电子件",
+    "url": "https://www.dublincity.ie/sites/default/files/2022-03/picture_of_dublin_1811.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核印页14古城南侧列有 Bride-street。"
+  },
+  {
+    "id": "dib-hugh-lacy-388",
+    "title": "Dictionary of Irish Biography，Hugh de Lacy (I)",
+    "url": "https://www.dib.ie/biography/lacy-hugh-de-i-a4630",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核休·德·莱西获都柏林及驻军监护并为米斯领主。"
+  },
+  {
+    "id": "rte-2rn-389",
+    "title": "RTÉ Archives，2RN 首播及呼号说明",
+    "url": "https://www.rte.ie/archives/exhibitions/681-history-of-rte/682-rte-1920s/289997-first-radio-broadcast-from-2rn-1-january-1926/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "据档案网页所示说明核 1926 首播、呼号与《Come Back to Erin》的相传联系；未听录音。"
+  },
+  {
+    "id": "upenn-vergil-opening-389",
+    "title": "宾夕法尼亚大学 Vergil Project，《埃涅阿斯纪》第一卷首行",
+    "url": "https://apps.sas.upenn.edu/vergil/index.php/document/1",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核拉丁 arma uirumque cano 与小说所引 arma virumque romano 的替换。"
+  },
+  {
+    "id": "moore-eveleen-bower-389",
+    "title": "Thomas Moore，《诗集》所收〈Eveleen’s Bower〉，印页321",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/The_poetical_works_of_Thomas_Moore_%28IA_poeticalworksoft01mooreth%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核〈伊芙琳的花亭〉开头 hour／bower 韵与到访情节；查电子转录，未核谱面。"
+  },
+  {
+    "id": "malory-galahad-389",
+    "title": "Thomas Malory，《亚瑟王之死》第二卷，古腾堡转录",
+    "url": "https://www.gutenberg.org/cache/epub/1252/pg1252-images.html",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "从检索缓存核桂妮薇儿题名拼式及加拉哈德受封前埃莱恩对兰斯洛特的话；直接打开失败。"
+  },
+  {
+    "id": "latin-library-nepos-389",
+    "title": "Cornelius Nepos，《阿提库斯传》拉丁文，The Latin Library",
+    "url": "https://www.thelatinlibrary.com/nepos/nepos.att.shtml",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核开篇署名 CORNELI NEPOTIS 及拉丁传记文体。"
+  },
+  {
+    "id": "sapper-napoo-389",
+    "title": "Sapper，《No Man’s Land》第二部第一章，维基文库转录",
+    "url": "https://en.wikisource.org/wiki/No_Man%27s_Land_(Sapper)/Part_2/Chapter_1",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核军中对话中 napoo 用例及章末「完了」义脚注。"
+  },
+  {
+    "id": "asc-giles-brice-390",
+    "title": "《盎格鲁-撒克逊编年史》，Giles 英译印页94",
+    "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/112",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "查1002年国王下令杀戮丹麦人与圣布里斯节；读已校电子转录。"
+  },
+  {
+    "id": "logainm-goatstown-390",
+    "title": "爱尔兰地名库，Baile na nGabhar／Goatstown",
+    "url": "https://www.logainm.ie/ga/25768",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核都柏林地名与十九世纪拼法；用于校订稿 Goaterstown 对照。"
+  },
+  {
+    "id": "smithsonian-foster-folks-390",
+    "title": "史密森学会，Stephen Foster〈Old Folks at Home〉馆藏曲谱条目",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_679615",
+    "type": "catalog",
+    "accessed": "2026-11-19",
+    "use": "核馆藏著录的歌名、作者及1851年出版资料。未查谱面。"
+  },
+  {
+    "id": "gaius-confarreation-390",
+    "title": "盖尤斯，《法学阶梯》第一卷第112节，拉丁文字",
+    "url": "https://www.intratext.com/IXT/LAT0408/_P37.HTM",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核 confarreatio 仪式用 farreus panis 祭献。"
+  },
+  {
+    "id": "flood-greek-gloss-390",
+    "title": "Joseph Mary Flood，《Ireland: Its Saints and Scholars》，印页92",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ireland%2C_its_saints_and_scholars_%28IA_irelanditssaints00flooiala%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核 Flood 对爱尔兰学人将希腊词散入拉丁文的描述；与帽上 gloss 比较。"
+  },
+  {
+    "id": "mink-gazetteer-page127-390",
+    "title": "Louis Mink，《A Finnegans Wake Gazetteer》，印页127",
+    "url": "https://asset.library.wisc.edu/1711.dl/G3EXA75VGLS5F8Q/E/file-e9cfe.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核390页数处拟地名的候选，不把候选当正文地理。"
+  },
+  {
+    "id": "logainm-dalkey-hill-390",
+    "title": "爱尔兰地名库，Rathdown 山丘子项",
+    "url": "https://www.logainm.ie/en/171/sub/CN",
+    "type": "reference",
+    "accessed": "2026-11-19",
+    "use": "核 Cnoc Dheilginse／Dalkey Hill 位于都柏林，供 Dalkymont 对读。"
+  },
+  {
+    "id": "uk-decree-absolute-historical-390",
+    "title": "英国《Matrimonial Causes Act 1973》，历史整编文本",
+    "url": "https://www.legislation.gov.uk/ukpga/1973/18/2020-12-31?wrap=true",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核官方索引所示暂准至终判的判词用法；正文页不支持直接打开。仅作历史英语用语旁证。"
+  },
+  {
+    "id": "uk-judiciary-wig-390",
+    "title": "英格兰与威尔士司法机构，法庭服饰史",
+    "url": "https://www.judiciary.uk/about-the-judiciary/history-of-the-judiciary-in-england-and-wales/history/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 full-bottomed wig 为旧式法官装束及后来的短式假发。"
   }
 ]
