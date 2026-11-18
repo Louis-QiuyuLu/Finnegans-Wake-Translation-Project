@@ -3046,9 +3046,11 @@
       "lemma": "Erminia Reginia",
       "kind": "wordplay",
       "certainty": "uncertain",
-      "text": "字形可听 ermine、Erin 与 regina。具体人物是否伊索尔德尚待研究，正文只留王后式呼告。",
+      "text": "王后呼告紧随假发与胡须。Reginia 近拉丁语 regina（王后），Erminia 可听出 ermine（白鼬皮）及 Erin（爱尔兰）。具体人物待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "uk-judiciary-wig-390"
       ]
     },
     {
@@ -3056,49 +3058,2028 @@
       "lemma": "clan of the Dougals",
       "kind": "allusion",
       "certainty": "uncertain",
-      "text": "原文明列道格尔族，并称 poor Scuitsman。四老与爱尔兰方向省份的对应待证，不并称康诺特与北方已定。",
+      "text": "此处约翰尼出自道格尔一族，Scuitsman 近 Scotsman；本章前文鱼前祷词直称老约翰尼·麦克道格尔。正文用「苏葛兰」稍留变形。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-aring",
+      "lemma": "in or aring or around about",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "三个方位词绕着年代打转。aring 可听见 ring，也贴近 around；正文保「里／环里／左近」，婚戒只是此处婚姻语境所容联想。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-buy-in-disgrace",
+      "lemma": "year of buy in disgrace 1132 or 1169 or 1768 Y.W.C.A.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拟纪年可听出 year of grace，夹进买卖与败名，接下文拍卖师法庭。Y.W.C.A. 通常指基督教女青年会，这里占纪年缩写的位置。三年份原样保留。校订层此处见 1798，底本和 JJDA 1939 均作 1768。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-391-arrahnacuddle",
+      "lemma": "Arrahnacuddle",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "接前文布西科剧名 Arrah-na-Pogue，把剧名末尾换成拥抱（cuddle），又充作法庭地名。剧本第27至28页写女主以吻传信，因此得名。",
+      "source_ids": [
+        "joyce-fp",
+        "bouci-arrah-script-376",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-hohannes",
+      "lemma": "Hohannes!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Sandulescu 印页39 对读德语 Johannes。正文留「嗬」作呼声，「翰内斯」近人名，前文已喊约翰尼。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-german-391"
+      ]
+    },
+    {
+      "id": "ii4-391-attraxity",
+      "lemma": "her full bottom, (undullable attraxity!)",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "上一行组先有 fullbottom wig，这里拆开后可听成饱满臀部。括号中的 undullable 近「磨不钝」，attraxity 近 attraction；中文以「后臀」「吸劲」接住双关。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "uk-judiciary-wig-390"
+      ]
+    },
+    {
+      "id": "ii4-391-yearl",
+      "lemma": "the yearl of mercies",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "yearl 贴近 earl，又接上文 year；慈悲用复数。正文保拟爵号与压上身的动作，具体典故待核。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-four-maasters",
+      "lemma": "the four maasters, in chors",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Boldereff 释注在 391.07 指向爱尔兰《四大师编年史》。in chors 近 in chorus，四位又像此处齐声应答的四老。",
+      "source_ids": [
+        "joyce-fp",
+        "boldereff-ii4-391",
+        "ucc-celt-four-masters-a"
+      ]
+    },
+    {
+      "id": "ii4-391-hing",
+      "lemma": "a hing behangd them",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "hing 和 behangd 都让人听出悬挂，Sandulescu 将 hing 与德语同形词对读。正文保重复与背后方位，所吊何物待核。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-german-391"
+      ]
+    },
+    {
+      "id": "ii4-391-schoon",
+      "lemma": "borstel her schoon",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "Sandulescu 印页39 列德语 Bürste（刷子）、Borste（硬毛）等。古苏格兰语辞典在 scho 条收录 schoon 等鞋的复数形式。正文取刷鞋，音形并列留在本注。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-german-391",
+        "dsl-scho-391"
+      ]
+    },
+    {
+      "id": "ii4-391-materfamilias",
+      "lemma": "backscratching her materfamilias proper",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "backscratching 直读挠背，也可听作巴结。拉丁语 materfamilias 指一家主母。正文保身体动作与主母称谓。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-interdict",
+      "lemma": "innasense interdict",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可听 innocence，也有 in a sense 的切分；interdict 是禁令。正文暂并作「清白禁令」，让离婚判词与圣殿语域相撞。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
       ]
     },
     {
       "id": "ii4-marcus-bowandcoat",
       "lemma": "Marcus Bowandcoat",
       "kind": "wordplay",
-      "certainty": "uncertain",
-      "text": "名中 bow、coat 字形可见，正文保留马库斯与躬身衣装语感。与芒斯特省的确定对应待外证。",
+      "certainty": "proposal",
+      "text": "Bowandcoat 可读作 bow and coat，屈身与衣装一起拼成姓。正文以拟姓「躬身大衣」接住两层。这里又叫 Mark 与 Marcus，续前文鱼前祷告的老马库斯。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-stout",
+      "lemma": "too bad and stout entirely",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "stout 可指结实，也指黑啤；bad 后又叠 stout，与太糟的抱怨挤在一起。正文取黑啤的苦感补双关，责任和原因随下句展开。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-missoccurs",
+      "lemma": "all the missoccurs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "将 miss 与 occurs 相接，像把一桩桩差错造作可数之物。Gordon 读作 misoccurrences，并联系后面的失禁场面。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-mark"
+      ]
+    },
+    {
+      "id": "ii4-391-brownesberrow",
+      "lemma": "brownesberrow in nolandsland",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拟地名里可听见 brown、barrow 与 no man’s land 的变奏，正文留棕冢与无主地。具体地点待核。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-chronometer",
+      "lemma": "the poor old chronometer",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "马库斯成了老时计。正文依下文风水与摇桨译作航海钟。poor 连续呼应前一位约翰尼。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-ally-croaker",
+      "lemma": "ally croaker",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "《Calliope》印页158 存同名曲谱，副歌向艾莉求婚。这里求婚歌名落进离婚判词，croaker 又像呱叫者。正文以「艾莉·呱客」留姓名和声音。",
+      "source_ids": [
+        "joyce-fp",
+        "nls-calliope-ally-croaker-391"
+      ]
+    },
+    {
+      "id": "ii4-391-decree-absolute",
+      "lemma": "by decree absolute, through Herrinsilde",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "终判呼应 390.33。Sandulescu 把后面的拟名拆读成德语 Herrin（女主人）与 Insel（岛）。正文将赫林西尔德音译，所指待考。",
+      "source_ids": [
+        "joyce-fp",
+        "uk-decree-absolute-historical-390",
+        "sandulescu-german-391"
+      ]
+    },
+    {
+      "id": "ii4-391-wind-water",
+      "lemma": "he forgot himself, making wind and water",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "风水既是船行所遇，也可听成放屁与撒尿。Gordon 指出 make water 的排尿义。正文留「放风又放水」，用「忘了形」接动作。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-mark"
+      ]
+    },
+    {
+      "id": "ii4-391-neptune",
+      "lemma": "a Neptune's mess of all of himself",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "把自己弄得彻底狼狈，连狼狈相也带上海神名号。正文重叠两次「一团」，留住海神名号与狼狈相。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-giamond",
+      "lemma": "sculling over the giamond's courseway",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "划桨越过的拟地名近 Giant’s Causeway，实地在北爱尔兰安特里姆海岸。Sandulescu 另从 giamond 拆出德语 Mond（月）。正文暂作「巨月堤道」。",
+      "source_ids": [
+        "joyce-fp",
+        "unesco-giants-causeway-343",
+        "sandulescu-german-391"
+      ]
+    },
+    {
+      "id": "ii4-391-proxy",
+      "lemma": "forgot to remember to sign an old morning proxy paper",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "forgot to remember 刻意绕口。Gordon 同读晨报与委托书。正文拼作「晨间委托报」，保留签字动作。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-mark"
+      ]
+    },
+    {
+      "id": "ii4-391-hersute",
+      "lemma": "to hersute herself",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 读 suit herself，即任她自便。词形又近 hirsute（多毛），接下文剃刀人名的可能性留作推测。中文「自去称身」保留合身与随自己之意，毛发层留注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-mark",
+        "gillette-razor-patent-391"
+      ]
+    },
+    {
+      "id": "ii4-391-bronnanoleum",
+      "lemma": "stamped bronnanoleum",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "尾部近 linoleum（油毡）。Sandulescu 释前半为德语 Bronn（泉或井）。Joyce–Léon 校订转录作 brownanoleum。正文只取拟名、油毡与盖印，材质来历仍待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-nbd13-383",
+        "sandulescu-german-391"
+      ]
+    },
+    {
+      "id": "ii4-391-roneo",
+      "lemma": "from Roneo to Giliette",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "带出写信两端，也可连着文书与毛发读。英国科学博物馆藏 Roneo 滚筒油印机，Giliette 近 Gillette，其安全剃刀专利公布于1904年。品牌互文只作解读，底本拼法照录。",
+      "source_ids": [
+        "joyce-fp",
+        "smg-roneo-rotary-391",
+        "gillette-razor-patent-391"
+      ]
+    },
+    {
+      "id": "ii4-391-before-fish",
+      "lemma": "his grace before fish",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "接本章前文四老的鱼前谢饭祷告。祷告以前原须签字，接着叙述打叠「那时，那地，又还有」转向下一位。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-dion-cassius",
+      "lemma": "Dion Cassius Poosycomb",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "前两名近《罗马史》作者狄奥·卡西乌斯。Gordon 另从拟名听出溺猫。Poosycomb 可听见 pussy 与 comb，正文取「猫梳」。",
+      "source_ids": [
+        "joyce-fp",
+        "cassius-dio-roman-history-50",
+        "gordon-ii4-391-dion"
+      ]
+    },
+    {
+      "id": "ii4-391-world-husband",
+      "lemma": "before the world and her husband",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "近习语 the world and his wife，指大家。这里倒成全世界和她丈夫，接前段女丈夫、离婚和观众。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-attempted",
+      "lemma": "when he attempted to",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "attempted to 悬住，插入病情，紧跟的 because he 也停在主语。到 392.01 又说他试过，仍未明说做什么。译文用断句留空。",
+      "source_ids": [
+        "joyce-fp",
+        "clp-linear-391",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-shingles",
+      "lemma": "with the shingles falling off him",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "shingles 可指带状疱疹，也可指屋瓦。Gordon 取病疹一义。falls off 让瓦片脱落也听得通，译作「疱瓦」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion"
+      ]
+    },
+    {
+      "id": "ii4-391-wedmore",
+      "lemma": "peaces pea to Wedmore",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "peaces 与 pea 近 peace，句中确有韦德莫尔。阿塞尔《阿尔弗雷德传》第56节记古斯鲁姆受洗后在该地卸礼带。正文用叠声与豌豆保留词面，历史上的议和只作旁证。",
+      "source_ids": [
+        "joyce-fp",
+        "asser-alfred-wedmore-391"
+      ]
+    },
+    {
+      "id": "ii4-391-song-ire",
+      "lemma": "let not the song go dumb upon your Ire",
+      "kind": "allusion",
+      "certainty": "supported",
+      "text": "戏拟《以弗所书》4:26 的日落与怒气。Van Hulle 对读 VI.B.22.173(a)、其抄本与 1938 年打字稿，追到 Fraser-Harris 所引经文。正文保日变歌、落变哑。",
+      "source_ids": [
+        "joyce-fp",
+        "kjv-ephesians-4-26-391",
+        "van-hulle-morpheus-391"
+      ]
+    },
+    {
+      "id": "ii4-391-spasms",
+      "lemma": "the Spasms of Davies",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "像把 Psalms of David 换成发作的 spasms。Van Hulle 列 VI.B.22.173(f) 的 spasms of David 及其流转，联系 Fraser-Harris 论支气管痉挛与梦。Davies 留作「大维斯」，书名保抽搐与诗篇。",
+      "source_ids": [
+        "joyce-fp",
+        "van-hulle-morpheus-391"
+      ]
+    },
+    {
+      "id": "ii4-391-rosse",
+      "lemma": "as red as a Rosse is",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 对读罗达·布劳顿的 Red as a Rose is She。《尤利西斯·欧迈俄斯》水手也报此书名。正文用「罗丝」存人名与玫瑰近音，另释待核。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion",
+        "broughton-red-rose-391",
+        "jjda-ulysses-eumeus-rose-391"
+      ]
+    },
+    {
+      "id": "ii4-391-berkeleyites",
+      "lemma": "the general of the Berkeleyites",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 将 Berkeleyites 联系 Buckley 与俄国将军一段。正文保伯克利派，其身份仍悬。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion"
+      ]
+    },
+    {
+      "id": "ii4-391-rim-rom",
+      "lemma": "at the rim of the rom",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "rim 与 rom 只换一枚元音，近室内边沿，也听得见罗姆。正文保拟空间与边沿。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-marrowbones",
+      "lemma": "on his two bare marrowbones",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "Johnson 词典列 marrowbone 为膝盖的戏谑说法。正文还原赤膝跪地，保留骨头。",
+      "source_ids": [
+        "joyce-fp",
+        "johnson-marrowbone-391"
+      ]
+    },
+    {
+      "id": "ii4-391-sweainey",
+      "lemma": "Her Worship his Mother and Sister Evangelist Sweainey",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "Her Worship 是尊称，Sister 和 Evangelist 紧贴姓氏。Gordon 读作修院长与修女。正文留「母亲」及修女职衔，便于再辨指代。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-cailcainnin",
+      "lemma": "Cailcainnin widnight",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Cailcainnin 暂音译。Cumpiano 与 174.22 的 hailcannon night 对读，并牵到节日和卷心菜语汇。widnight 近 midnight，也可听见 wid- 的鳏寡回声，译作「寡夜半」。",
+      "source_ids": [
+        "joyce-fp",
+        "cumpiano-cailcainnin-391"
+      ]
+    },
+    {
+      "id": "ii4-391-bootybutton",
+      "lemma": "the bootybutton in the handsome cab",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "booty 与 button 并缀。Gordon 另联想到 Beauty Button 与 392.10 数扣子。handsome cab 近 hansom cab（双轮出租马车），译文保漂亮与小马车。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion"
+      ]
+    },
+    {
+      "id": "ii4-391-messes-dogess",
+      "lemma": "his first messes dogess",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "messes 听近 missus，dogess 像给 dog 加阴性词尾。后接毛皮。正文暂并放「太太」「女犬」，所指人名待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-391-peltry",
+      "lemma": "it was a very pretty peltry and there were faults on both sides",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "pretty 与 peltry 押近声，后者有毛皮义。Gordon 听出 paltry party，并把两方有错联系离婚辩词。此处括号跨页，译文连读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-391-dion",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-attempts",
+      "lemma": "well, he attempted (or so they say)",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "接 391.25 未说完的 attempted to。这里又开头两次，从未说出的动作绕到动念与试探。正文重复「想要」，保转折和插话。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-forget-forgive",
+      "lemma": "forget and forgive",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "两个动词是插话，次序先忘再饶。小括号向听者反问，不接上句「他想要」作宾语。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-andrewmartins",
+      "lemma": "funning with his andrewmartins",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Skrabanek 收此爱尔兰英语作捣蛋、把戏。Sandulescu 的词表并列 392.03 与 393.05 的 Andrew Martin。正文取「他那套安德鲁·马丁把戏」，保俗语及下页人名的先声。",
+      "source_ids": [
+        "joyce-fp",
+        "skrabanek-andrewmartins-392",
+        "sandulescu-small-andrewmartins-392"
+      ]
+    },
+    {
+      "id": "ii4-392-connachy",
+      "lemma": "the Connachy",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "句中像突然添上一个称号，拼法近 Connacht。正文暂音译，人物究属谁待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-hunnish",
+      "lemma": "some hunnish familiarities",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "hunnish 字面牵到匈奴，也能指粗野。familiarities 放在试探亲热的动作里，中文兼留拟族称和亲昵。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-carmp",
+      "lemma": "after eten a bad carmp",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 并读 cramp（抽筋）、carp（鲤鱼），并对读后面的坏蟹。校订转录作 bad cramp。正文以「坏抽筋鲤」配吃的动词，让两层同时出现。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-392-rude-ocean",
+      "lemma": "the rude ocean",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 跨段读为红海，参本章 387.25–27 的溺水。《出埃及记》14 章有海水回落淹没追兵。正文以「莽红」叠合粗暴海面和红海谐音。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion",
+        "usccb-exodus14-387"
+      ]
+    },
+    {
+      "id": "ii4-392-hevantonoze",
+      "lemma": "hevantonoze sure",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "可听见 heaven knows 与加强语气的 sure，正文让「天晓得」与「准是」相接。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-seasickabed",
+      "lemma": "dead seasickabed",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "把晕船和卧床塞在一起，dead 又可当程度副词。正文让他晕得瘫在床上，等死的回声留给下文养院。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-392-housepays",
+      "lemma": "in the housepays for the daying",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 读作 hospice for the dying。housepays 和 daying 仍藏屋、花费和日子的声音。正文先译「临终养院里等死」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion"
+      ]
+    },
+    {
+      "id": "ii4-392-maccawley",
+      "lemma": "the Martyr Mrs MacCawley's",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 转引 McHugh，联系仁爱修女会创办人凯瑟琳·麦考利，并提醒 Martyr 可听作 Mother。修女会年表载她在都柏林霍乱医院护理。正文沿用太太与殉道称呼。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion",
+        "mercy-mcauley-392"
+      ]
+    },
+    {
+      "id": "ii4-392-taying",
+      "lemma": "he was taying and toying",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Gordon 读 tay 为爱尔兰英语的 tea 音，和 toying 押声。正文让喝茶与耍玩并列。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion"
+      ]
+    },
+    {
+      "id": "ii4-392-nursetendered",
+      "lemma": "the nursetendered hand",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 同读护士递来一只手与手势柔和。正文保住递手动作，后面接数扣子和手。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion"
+      ]
+    },
+    {
+      "id": "ii4-392-count-hand",
+      "lemma": "count the buttons and her hand",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "纽扣又现，接 391.34 马车里落下的扣子。原句将她的手也并入数的动作，正文照排。扣在手套还是衣上，文中未指明。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion"
+      ]
+    },
+    {
+      "id": "ii4-392-doying",
+      "lemma": "doying to remembore what doed they were byorn",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "几个词把濒死、努力回想、日子与出生绊成一团。Gordon 读出迟暮忘记生日，也提出 byorn 与 Byron 的字母互换。正文保疑问和临咽气的语气。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion"
+      ]
+    },
+    {
+      "id": "ii4-392-snore",
+      "lemma": "who made a who a snore",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "Gordon 将 who made 接到 384.35 想谁造世界的问句，又听见打鼾。正文将「造」与「一声鼾」硬接，留问话走样。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-dion",
+        "jjda-ii4-l39nb-383"
       ]
     },
     {
       "id": "ii4-matt-emeritus",
       "lemma": "Matt Emeritus",
       "kind": "wordplay",
-      "certainty": "uncertain",
-      "text": "emeritus 可按退职名誉者试读，原文另列教会学衔。阿尔斯特及北方代表身分待核，不先锁定。",
+      "certainty": "proposal",
+      "text": "Emeritus 常随名誉保留的退休职衔。此处只叫「荣休马特」，后面才连问职衔，语气像投来一句点名。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-laychief",
+      "lemma": "The laychief of Abbotabishop",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "laychief 兼俗人、首领。Abbotabishop 挤在一起，可辨修院长 abbot 与主教 bishop。正文保头衔重叠和问号。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-392-exchullard",
+      "lemma": "exchullard of ffrench and gherman",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 并听见前学者、优秀学生和 dullard（钝人）。「前优呆生」保住褒贬同现，两种语言也各留一处叠音。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-achoch",
+      "lemma": "Achoch!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Gordon 兼听 Ach 感叹与 Achoo 喷嚏。正文把两声并在一起。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-sorgy",
+      "lemma": "so sorgy for poorboir Matt",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "sorgy 近 sorry 与 soggy，poorboir 也听得见 poor boy。以「酸湿」接水帽，「可怜小伙」接老人的倒称。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-saltwater-hat",
+      "lemma": "his saltwater hat",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "Gordon 联想到水手防雨帽。正文保「咸海帽」，帽上还有咸水气。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-aran-crown",
+      "lemma": "the Aran crown",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 从帽冠与后文的心想到克拉达戒指。戈尔韦市博物馆藏戒上，两手托一颗戴王冠的心。正文保阿兰冠，戒指仅作参照。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt",
+        "galway-claddagh-392"
+      ]
+    },
+    {
+      "id": "ii4-392-mnepos",
+      "lemma": "or Mnepos and his overalls",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "原文把衣裤、拟名和衣物归属绞在一起。中文保或与他的工装裤，拟名照音，身份与帽裤所指待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-392-heart-overalls",
+      "lemma": "he hadn't the heart in her to pull them up",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "he、her 与 them 同句交替。Gordon 读动作是提背带工装裤。译句保他、她并存及提裤动作。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-perigrime",
+      "lemma": "the old perigrime matriarch",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "校订转录写 peregrine（游历的）。底本 perigrime 又近 grime（污垢）。正文保游方、女族长和尘垢，随后又称女王般的男人。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-392-porple",
+      "lemma": "the porple blussing upon them",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可听 purple、blessing、blushing。Gordon 另引法语 blesser（伤害）来读紫斑。译文暂以紫红、赐福、伤痕叠写。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-sole",
+      "lemma": "the sole of the settlement, below ground",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 读 sole 兼 soul。中文将唯一和魂并作「独魂」，后接地底与赎罪。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-postulation",
+      "lemma": "in postulation of his cause",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "字面像为自己的事项祈请，Gordon 还指出教会里的候选人之意。下文问谁说得准。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-caucuses",
+      "lemma": "the king of the Caucuses",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Caucuses 也可作若干会议，拼音近 Caucasus（高加索）。正文「高加索众会之王」叠地望和会众。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-geasa",
+      "lemma": "under geasa",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "Ó Dónaill 词典列 geasa 为 geis 的复数，释禁忌或禁令。中文作「身负禁约」。具体禁约待考。",
+      "source_ids": [
+        "joyce-fp",
+        "odonaill-geis-392"
+      ]
+    },
+    {
+      "id": "ii4-392-themistletocles",
+      "lemma": "Themistletocles, on his multilingual tombstone",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "拟名近雅典将领忒弥斯托克勒斯，中间嵌入 mistletoe（槲寄生）。普鲁塔克第32节引地志家推测其坟在比雷埃夫斯港旁。多语碑文见乔伊斯这句。",
+      "source_ids": [
+        "joyce-fp",
+        "plutarch-themistocles-392",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-kamen",
+      "lemma": "Navellicky Kamen",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Sandulescu 对读捷克语 na veliký kámen（到大石上）。原句把三词掰成拟名，正文暂音译，附会墓碑的石头意味留注。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-czech-kamen-392"
+      ]
+    },
+    {
+      "id": "ii4-392-kid",
+      "lemma": "she due to kid by sweetpea time",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "kid 作动词可指山羊生产。正文还原她临产及香豌豆时令，借「下崽」留牲畜语感。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-matt"
+      ]
+    },
+    {
+      "id": "ii4-392-rust",
+      "lemma": "taking his rust in the oxsight of Iren",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "rust 与 rest 近声，oxsight 可拆牛眼也可近 eyesight，Iren 可联爱尔兰与 iron。正文叠歇与生锈，留「爱伦铁牛眼」，具体指涉待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-hailword",
+      "lemma": "kalospintheochromatokreening",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Gordon 从上文冰雹响声读拟声。中部 chromato- 近颜色语素，末段近 keening（哀号）。「噼彩喀啼哀」兼留声、色与哭，完整构词待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-393-close"
+      ]
+    },
+    {
+      "id": "ii4-392-ivy",
+      "lemma": "her ivyclad hood",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "hood 是兜帽。常春藤覆在帽上，像覆住旧墙。正文保她的物主关系。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-ocannell",
+      "lemma": "Mrs Duna O'Cannell",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "JJDA 第九稿列 Dana O’Connell 到 Duna O’Cannell 的修订。正文照底本音译，身份待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-draft9-392"
+      ]
+    },
+    {
+      "id": "ii4-392-tongs",
+      "lemma": "to blow his brains with",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "with 回指前面的卷发钳。头发工具突然接上开枪惯语，中文保工具和离奇用途。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-newhigherland",
+      "lemma": "the heights of Newhigherland",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "higher 与 heights 重叠，拟地名也近 New Ireland。Gordon 提出不止一处地望。正文取「新高地的山头」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-393-close"
+      ]
+    },
+    {
+      "id": "ii4-392-bristolhut",
+      "lemma": "heard the Bristolhut",
+      "kind": "allusion",
+      "certainty": "uncertain",
+      "text": "第九稿及 Joyce–Léon 校订层作 Bristolshut。Sandulescu 另读德语 Hut（帽）。《尤利西斯·冥府》葬礼路上也提到 Fun on the Bristol。正文暂作「布里斯托尔帽屋」。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "sandulescu-bristolhut-392",
+        "ulysses-hades-bristol-392"
+      ]
+    },
+    {
+      "id": "ii4-392-alfred",
+      "lemma": "a purse of alfred cakes from Anne Lynch",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Glasheen 索引将此处列入阿尔弗雷德大王条，饼可联民间烤饼故事。正文补给饼者和一袋之量，安妮·林奇身份待考。",
+      "source_ids": [
+        "joyce-fp",
+        "glasheen-alfred-392"
+      ]
+    },
+    {
+      "id": "ii4-392-shackleton",
+      "lemma": "two cuts of Shackleton's brown loaf",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "爱尔兰国家图书馆藏信函目录核到沙克尔顿家在卢肯附近经营利菲河面粉厂。此处面包可能借该姓，正文照译两片。",
+      "source_ids": [
+        "joyce-fp",
+        "nli-shackleton-mill-392"
+      ]
+    },
+    {
+      "id": "ii4-392-dilisk",
+      "lemma": "and dilisk",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "《简明阿尔斯特词典》收 dillisk 等异拼，释可食用掌状红藻。正文补入这道食物。",
+      "source_ids": [
+        "joyce-fp",
+        "nmn-ulster-dillisk-392"
       ]
     },
     {
       "id": "ii4-gordon-heighland",
       "lemma": "Gordon Heighland",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "字形近 Gordon Highland，邻近有受难与军事语气。苏格兰步兵团的确切对应与方言词源未外核。",
+      "certainty": "proposal",
+      "text": "Gordon Heighland 近 Gordon Highlanders 军团名，又像对一位高地人喊话。上文刚喊新高地，正文作「戈登高地人」。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-merthe",
+      "lemma": "The merthe dirther!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 从前词听 mirth，从后词听 dearth 或削减欢笑者。正文作「乐都刹没了」，留呼声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-393-close"
+      ]
+    },
+    {
+      "id": "ii4-392-laudabiliter",
+      "lemma": "laudabiliter",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "拉丁语副词可译「可嘉地」。词形也和惯称 Laudabiliter 的教皇文书重合。正文跟在吞吃动作后，文书互文待核。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-392-squelch",
+      "lemma": "of woman squelch",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "与390页短句 Woman. Squash. 近声。squelch 带湿软挤压声。原句句法悬着，正文暂把湿浆接到吞吃对象。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-shakeletin",
+      "lemma": "the smell of Shakeletin and scratchman",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Shakeletin 似是上页 Shackleton 的变体，也可听出 skeleton。scratchman 带抓挠动作。正文分别拟作沙刻勒汀和抓挠汉。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "nli-shackleton-mill-392"
+      ]
+    },
+    {
+      "id": "ii4-393-alkolic",
+      "lemma": "acid and alkolic",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "acid 带酸味，与 alkali 构成酸碱对读。Gordon 从 alkolic 听出 alcoholic。正文保「酒碱气」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-392-393-close"
+      ]
+    },
+    {
+      "id": "ii4-393-loaf",
+      "lemma": "signs on the salt, and so now pass the loaf",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "盐和面包接食单，传面包照应本章四老饭前传鱼。Skrabanek 另录 signs on 的爱尔兰英语用法。正文保迹象和盐的拼接。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "skrabanek-andrewmartins-392"
       ]
     },
     {
       "id": "ii4-andrew-martin-cunningham",
       "lemma": "Andrew Martin Cunningham",
       "kind": "allusion",
-      "certainty": "uncertain",
-      "text": "原文列复合人名并说可怜。与 Martin Cunningham、《尤利西斯》送葬群体的对应未外核，不当人物同一性证明。",
+      "certainty": "proposal",
+      "text": "Andrew Martin 回响 392.03 的把戏。《尤利西斯·冥府》马丁·坎宁安讲救落水者，也和布里斯托尔剧目同见该章。这里喊姓名后便叫喘气，可能还有落水一层。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "skrabanek-andrewmartins-392",
+        "ulysses-hades-bristol-392",
+        "gordon-ii4-392-393-close"
+      ]
+    },
+    {
+      "id": "ii4-393-dynast",
+      "lemma": "the dynast days",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "dynast 与 days 叠起 d 音。中文用「当朝」拉回王与市长同排的戏拟年代。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-sitric",
+      "lemma": "old konning Soteric Sulkinbored",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Sandulescu 对读都柏林王 Sitric Silkenbeard，同时听见 cunning、sulking、bored。正文拼「狡王」「丝胡闷脸」。馆藏展览核实历史人物。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-sitric-393",
+        "edward-worth-sitric-393"
+      ]
+    },
+    {
+      "id": "ii4-393-bargo",
+      "lemma": "Bargomuster Bart",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 叠 Bürgermeister（市长）与 harbourmaster（港务长），另听 barge（驳船）。「驳船市长」保拟官职与船。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-coil",
+      "lemma": "they struck coil and shock haunts",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 从 struck coil 听出 struck oil（撞上好运）。coil 也有盘圈之意，shock haunts 可让人想到惊动常出没的幽影。正文双留圈油和幽魂，确切短语待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-hungerford",
+      "lemma": "old Hungerford-on-Mudway",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 联系泰晤士河边旧亨格福德台阶及临水地名句型。Forster 传记引狄更斯自述旧台阶旁仓库。正文用「亨格福德泥河畔」，Mudway 改造所指仍待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall",
+        "forster-hungerford-393"
+      ]
+    },
+    {
+      "id": "ii4-393-poetryck",
+      "lemma": "where first I met thee oldpoetryck flied from may",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "thee 带旧声，oldpoetryck 可拆成老诗与人，may 也可听 me 或五月。译文暂作老诗客从我身边飞去，确切歌句待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-finnan",
+      "lemma": "the Finnan haddies",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "苏格兰语词典载烟熏黑线鳕义，指名可追到 Findon。保芬南和鱼种，接盐、面包以后的食单。",
+      "source_ids": [
+        "joyce-fp",
+        "dsl-finnan-393"
+      ]
+    },
+    {
+      "id": "ii4-393-noal",
+      "lemma": "the Noal Sharks and the muckstails turtles",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "疑有 Noah 的音影。正文以诺厄尔保字形，并从 muck 与 tail 译泥尾。鲨龟所指待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-pottish",
+      "lemma": "an acoustic pottish",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 同读 caustic potash（苛性钾）和 pottage（浓汤）。「声碱稠汤」保听觉、碱和菜肴。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-bullyum",
+      "lemma": "the griesouper bullyum",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "souper、bullyum 近汤与 bouillon，亦可听出 bully。正文取浓汤牛肉，配前面的鱼龟，其他语层待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-boccat",
+      "lemma": "he poled him up his boccat of vuotar",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "Gordon 读为用杆子提上一桶水，也听见船夫撑船的杆。正文保杆、桶水及替自己的一层读法。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-airweek",
+      "lemma": "got big buzz for his name in the airweek's honours",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "buzz 可指声名，也能听出嗡响，贴近 airweek。正文以「空周」和「表功榜」接后面本土、殖民地与帝国。具体荣誉未定。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-shims",
+      "lemma": "shims and shawls week",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Gordon 听见诸圣、追思亡者两个日名，又提羞耻与披巾。正文先保 shims 的薄垫与披巾。节会所指待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-auld-land",
+      "lemma": "in auld land syne (up)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "底本作 land，校订层作 lang。和本章前引彭斯 Auld Lang Syne 对读，中文补「故乡」以存 land，并留下起声。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "glasgow-burns-auld-lang-syne"
+      ]
+    },
+    {
+      "id": "ii4-393-hosenbands",
+      "lemma": "their four hosenbands",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "像把 hose（袜）塞进 husbands。正文作四位袜丈夫，照应下句四位姊妹先生。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-gallstone",
+      "lemma": "old Gallstonebelly",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "gallstone 与 belly 并成拟人称号。正文保胆石和肚，承接四位姊妹先生全嫁给同一位的怪句。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-mother",
+      "lemma": "the lovely mother of periwinkle buttons",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 读 mother-of-pearl 与先前纽扣。校订层连写 mother-of-periwinkle。正文复用「母」保母亲与扣材的双层。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-393-lapper",
+      "lemma": "the lapper part of their anachronism",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lapper 近 latter。Gordon 转述教理问答读法，并联系婚姻课。中文保错时、问答与后半拍，作为读法。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-recall"
+      ]
+    },
+    {
+      "id": "ii4-393-up-count",
+      "lemma": "up one up two up one up four",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "这里四次 up 接前面三个括号起声，数序一二一四，中文照序重复起。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-beautfour",
+      "lemma": "soldpowder and all, the beautfour sisters",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "beautfour 交揉 beautiful 与 four，接上文四位姊妹先生。正文作四美姐妹。soldpowder 可听卖粉与妆粉，暂并写。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-393-mudhen",
+      "lemma": "her mudhen republican name",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "mudhen 有水鸟之意，与 republican 拼出国名般的称号。正文保水鸡与共和国，具体人名未定。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-alum",
+      "lemma": "from alum and oves",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "alum 有明矾义，oves 也可听卵与羊。Gordon 从字首另听见 alpha 与 omega。正文保明矾与卵羊，字母读法留注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-under",
+      "lemma": "getting up from under",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "正文先保从下方起来。Gordon 结合后面的笑翠鸟，听出澳大利亚别名 Down Under 的回声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "australian-museum-kookaburra-393"
+      ]
+    },
+    {
+      "id": "ii4-393-garlands",
+      "lemma": "with all the worries awake in their hair",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "人还未起定，发间忧愁已醒。Gordon 又把前面的花环连到拳赛荣誉。正文保花环与醒来的忧愁。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-393-birdbell",
+      "lemma": "the kookaburra bell ringring all wrong inside of them",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "笑翠鸟叫声像笑。Gordon 另听拳赛开场铃及挨拳后耳内作响。中文用「叮铃铃」保重复和身体内的错响。",
+      "source_ids": [
+        "joyce-fp",
+        "australian-museum-kookaburra-393",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-393-loafs",
+      "lemma": "you lazy loafs!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "loafs 叫懒人，也近 loaf（面包），承接 393.02–04 传面包。正文用「懒面包」喊人。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-shandon",
+      "lemma": "their poor old Shandon bellbox",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "科克圣安妮教堂以尚登钟著称。bellbox 既可唤起钟楼，也可接上一句在身体内响，故留「钟匣」。",
+      "source_ids": [
+        "joyce-fp",
+        "cork-shandon-bells",
+        "mink-grid-bells-393",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-393-dthclang",
+      "lemma": "the dthclangavore",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "clang 像金属撞击。Gordon 还听出 dth 所带死意。正文写「死当啷」，接几处乱铃和惊惧。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-393-fisterman",
+      "lemma": "knockneeghs bumpsed by the fisterman's straights",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可听见碰响的膝盖、奈湖和渔夫。Gordon 又听 fist 与直拳。Moore 诗里，奈湖渔人看见水下的圆塔。正文把膝响、拳手和渔夫揉在一起。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "mink-grid-bells-393",
+        "moore-let-erin-393"
+      ]
+    },
+    {
+      "id": "ii4-393-ys",
+      "lemma": "(ys! ys!)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 指向布列塔尼沉城伊斯。传说中城沉后犹有钟声。正文保两声呼叫，或也近 yes，后者留待考。",
+      "source_ids": [
+        "joyce-fp",
+        "mink-grid-bells-393",
+        "nga-city-of-ys-393"
+      ]
+    },
+    {
+      "id": "ii4-393-mistletoes",
+      "lemma": "on their mistletoes",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "on their toes 有踮脚、警觉的读法，词内还叠 mistletoe（槲寄生）。中文保两层。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-transton",
+      "lemma": "the Transton Postscript",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 联到 Boston Transcript，Gordon 又读作信件附言与跨海投递。正文用「附记报」并写报纸与附言，所指是否专名待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "mink-grid-bells-393"
+      ]
+    },
+    {
+      "id": "ii4-393-ear-pillow",
+      "lemma": "their oerkussens under their armsaxters",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Van Hulle 对读 VI.B.22.183 与 VI.C.13.257，荷兰语 oorkussen（枕头）经 France Raphael 抄成 oerkussen，后来进入打字稿。正文用「原耳枕」保 oer 的原初义。Sandulescu 另听耳、吻及腋，德语层留注。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-german-bells-393",
+        "jjda-ii4-l39nb-383",
+        "van-hulle-morpheus-391"
+      ]
+    },
+    {
+      "id": "ii4-393-schooler",
+      "lemma": "all puddled and mythified, the way the wind wheeled the schooler round",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "puddled 有泥水，mythified 又把人写进神话。schooler 兼有学校语感，近 schooner（帆船）。正文暂写学童帆船。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-393-gastspiels",
+      "lemma": "rusten, from playing their gastspiels",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 听休息、生锈及福音诵词。Sandulescu 以德语 Gastspiel（客演）对读。正文用「客串福音戏」保演与祷两层。 Van Hulle 查到荷兰语 rusten（歇息）进入该打字稿，同支笔记也有枕头。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells",
+        "sandulescu-german-bells-393",
+        "van-hulle-morpheus-391"
+      ]
+    },
+    {
+      "id": "ii4-393-sleep-crossing",
+      "lemma": "crossing their sleep by the shocking silence",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "Gordon 联想到祷告后画十字。正文先保穿过睡梦和会惊人的静。祷告含意留在注里。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-393-bells"
+      ]
+    },
+    {
+      "id": "ii4-394-chair",
+      "lemma": "leaning out of the chair",
+      "kind": "translation",
+      "certainty": "proposal",
+      "text": "out 给探出方向。和门后站立、沙发套下跪坐并列。Gordon 把一串室内动作与猫态对读。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-394-dream"
+      ]
+    },
+    {
+      "id": "ii4-394-tureen",
+      "lemma": "setting on the souptureen",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "校订层作 sitting。按坐在汤盅上理解，保 on 的位置。汤盅照应前面的食单。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-barbarous",
+      "lemma": "getting into their way something barbarous",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "getting 句序倒卷，暂读有个蛮东西横进他们路上。蛮物所指仍空着。校订层在前面添 and then。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-bed",
+      "lemma": "the one wet underdown convibrational bed",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Van Hulle 由原笔记和抄本追出 vibrating bed 到 convibrating，再到颤床词形，又联系 Fraser-Harris 的睡眠论著。正文保湿、羽绒与「共颤」，笔记来源不抹掉拟词。",
+      "source_ids": [
+        "joyce-fp",
+        "van-hulle-morpheus-391"
+      ]
+    },
+    {
+      "id": "ii4-394-slumper",
+      "lemma": "or they used to slumper under",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "slumper 近 slumber，也带瘫倒感。床却罩在头顶。译文保「或者说」与盖在底下。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-optics",
+      "lemma": "falling over all synopticals and a panegyric",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "synopticals 兼对观福音的开头与 optics 的尾部。panegyric 是颂词，Gordon 另提出止痛药名 paregoric 的近声。正文用对观光学与颂词，药名留注。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-394-dream"
+      ]
+    },
+    {
+      "id": "ii4-394-swallow",
+      "lemma": "like svvollovving",
+      "kind": "sound",
+      "certainty": "uncertain",
+      "text": "连写的 vv 像两个 w，近 swallowing，也听得见 swallow（燕）。译文叠音试留吞咽与燕影。校订层后添 stickers。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-cook",
+      "lemma": "dadging the talkeycook that chased them",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dadging 近 dodging。Gordon 同读饶舌厨娘与 turkeycock。正文保追赶、躲闪和两种称呼。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-dream"
+      ]
+    },
+    {
+      "id": "ii4-394-stool",
+      "lemma": "look look all round the stool, walk everywhere for a jool",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "look 重说，stool 与拟珠宝 jool 押近韵。正文保重复、凳子与找宝。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-rancers",
+      "lemma": "to break fyre to all the rancers",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "fyre 近 fire，rancers 可听枪骑兵 lancers 一类人名音影，也可能另有所指。正文暂留兰瑟与火。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-evelopment",
+      "lemma": "the rathure's evelopment",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "evelopment 像 development 与裹卷词形相缠。正文用「展裹」并存两向，rathure 暂照音。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-thyme",
+      "lemma": "in spirits of time in all fathom of space",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 兼听百里香酊与时间。fathom 又是水深单位。正文用「时香酊」留近声，用「寻」接海上尺度。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-dream",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-bawneen",
+      "lemma": "slooping around in a bawneen and bath slippers",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 在 slooping 听见游荡与单桅船。bawneen 近爱尔兰语 báinín（白色自纺羊毛短褂）。译文保船步、白褂和浴室拖鞋。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-dream",
+        "odonaill-bainin-394"
+      ]
+    },
+    {
+      "id": "ii4-394-walker",
+      "lemma": "to Oldpatrick and see a doctor Walker",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Walker 近走路者，承接鞋步。Oldpatrick 暂按拟地名保留，Gordon 所述早期传教士线索待独立核对。正文作见一位医生。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-dream",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-night-tentacles",
+      "lemma": "their night tentacles",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 并读触角、眼镜和猫的夜视。正文用「夜触镜」，照应本章先前的望镜，猫眼读法留注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap"
+      ]
+    },
+    {
+      "id": "ii4-394-flapping",
+      "lemma": "flapping and cycling",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "扑翼与转圈连写。cycling 同时让人想到蹬车，接后面轮胎声。正文照动作次序。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-doonloop",
+      "lemma": "a dooing a doonloop, panementically",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 读作飞行翻圈。doonloop 另近 Dunlop，panementically 可听 pneumatic 的变奏。苏格兰国家博物馆藏其充气轮胎。正文取圈和气，词形仍存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "nms-dunlop-394",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-foehn",
+      "lemma": "in the wake of their good old Foehn again",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "英国气象局释 Foehn 为山背风侧的暖干风。Gordon 听出书名的回声，正文保风和尾流，两者也牵动前面船腰。",
+      "source_ids": [
+        "joyce-fp",
+        "metoffice-foehn-394",
+        "gordon-ii4-394-flap"
+      ]
+    },
+    {
+      "id": "ii4-394-tyred",
+      "lemma": "as tyred as they were",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "tyred 既像 tired，又近 tyre，承接 cycling 和 doonloop。中文借瘪胎说疲惫。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "nms-dunlop-394"
+      ]
+    },
+    {
+      "id": "ii4-394-wind-wave",
+      "lemma": "at their windswidths in the waveslength",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "词形让风占宽，浪占长，并打乱通常的所有格。校订层作 wavelengths。正文按底本保长宽错搭。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-five-four",
+      "lemma": "the clipperbuilt and the five fourmasters",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "clipperbuilt 有快帆式造法之意。five fourmasters 以五、四相撞，也可听回本章的人物群。正文留五艘四桅与造法。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-lally-roe",
+      "lemma": "Lally of the cleftoft bagoderts and Roe of the fair cheats",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "Gordon 提出 Lily／Rose，以及 fair cheats 与漂亮脸颊的近声。bagoderts 所指待核，正文保巴戈德茨、裂口及罗伊的俏与骗。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-arthropod",
+      "lemma": "exchanging fleas from host to host, with arthroposophia",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "跳蚤是节肢动物。arthroposophia 同时近 anthroposophy（人智学），差异落在 arthro-。取「节肢智学」保跳蚤和拟学问的照应。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap"
+      ]
+    },
+    {
+      "id": "ii4-394-selling",
+      "lemma": "he selling him before he forgot, issle issle",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 听 selling 兼 telling，后续才列故事。正文保推销与讲述，留住遗忘前的时序，重复呼声暂音译。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-throat-frogs",
+      "lemma": "prealably dephlegmatised his gutterful of throatyfrogs",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "prealably 递出先后，后面是清痰与一沟槽的喉蛙，亦可听出喉里有蛙的惯语。正文保沟槽、蛙、痰。Gordon 并联系本段前面的百里香酊。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-ear-mouth",
+      "lemma": "a lungible fong in his suckmouth ear",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 在 lungible fong 听肺气与歌。suckmouth 把会吮的嘴形套在耳上。正文保唱声及耳嘴混搭。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap"
+      ]
+    },
+    {
+      "id": "ii4-394-coolun",
+      "lemma": "the dear invoked to the coolun dare",
+      "kind": "syntax",
+      "certainty": "uncertain",
+      "text": "Gordon 读祈唤与恋人相求，另提出对神的称呼。中文保亲亲和祈唤，coolun dare 暂音译，具体人称待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-brow",
+      "lemma": "by a palpabrows lift left no doubt in his minder",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "抬眉本是动作，palpabrows 又像 palpably 与 brows 的拼合。校订层作 palpebrows。正文用明摆着的眉梢接无疑虑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-flap",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-sister-brother",
+      "lemma": "till he was instant and he was trustin, sister soul in brother hand",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "对举两次 he was，继之以妹魂与兄手。正文重说「一个劲儿」，保肢体和亲属称谓。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-passion",
+      "lemma": "the subjects being their passion grand",
+      "kind": "syntax",
+      "certainty": "proposal",
+      "text": "subjects 引出两则叙事及公园恶作剧，grand 倒置，带一层夸口的热烈。译文先列主题，再照原序铺开。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-cow",
+      "lemma": "that one fresh from the cow",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 同听鲜奶与新鲜传闻，又听成从马嘴亲闻的俗语变体。正文用「从母牛嘴里挤出来」保两路。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-passion"
+      ]
+    },
+    {
+      "id": "ii4-394-aithne",
+      "lemma": "Aithne Meithne married a mailde",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "校订转录作 Eithne Meithne。mailde 近 maid，也留 mail 的拼法，正文取「少邮女」保这道岔。哪则婚事待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-saga",
+      "lemma": "Engrvakon saga abooth a gooth a gev a gotheny egg",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "底本 Engrvakon 对校订层 Engrvakar。abooth、gooth、gev 近 about、goose、gave。正文循拼音保篇名和连声，鹅给蛋，不替换成某部已知萨迦。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-394-park",
+      "lemma": "the parkside pranks of quality queens",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "park 与 pranks 起声呼应，quality 接贵族身份。正文保公园边、恶作剧与多位女王。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-cat",
+      "lemma": "katte efter kinne",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Atherton 线索可核到《皆大欢喜》三幕二场，试金石仿作把猫循其性和罗莎琳并排。正文取猫依猫性，也接本段猫贪牛乳的读法。",
+      "source_ids": [
+        "joyce-fp",
+        "folger-as-you-like-it-cat-394",
+        "gordon-ii4-394-passion"
+      ]
+    },
+    {
+      "id": "ii4-394-earl",
+      "lemma": "Earl Hoovedsoon's choosing",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Mink 分行索引将拟伯爵名与 Howth 并列。正文保音和挑选动作，具体人物待考。",
+      "source_ids": [
+        "joyce-fp",
+        "mink-grid-bells-393",
+        "boldereff-ii4-huber-394"
+      ]
+    },
+    {
+      "id": "ii4-394-huber",
+      "lemma": "Huber and Harman",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Boldereff 词注联系传说人物 Heber 与 Heremon。正文保留两个拟名，人物对应仍待考。",
+      "source_ids": [
+        "joyce-fp",
+        "boldereff-ii4-huber-394"
+      ]
+    },
+    {
+      "id": "ii4-394-orhowwhen",
+      "lemma": "orhowwhen theeuponthus (chchch!)",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "或、怎样、何时、于是、如此挤在一起，括号再打入三声。正文保黏连和打断。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-eyesolt",
+      "lemma": "eysolt of binnoculises",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "eysolt 近伊索尔德又有 eye，binnoculises 近 binoculars。中文「伊眸索尔德」夹眼在名里，接双目镜。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-egotum",
+      "lemma": "memostinmust egotum",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "me、most、inmost、must 和 ego 的自我与极距叠响。中文保最里头及非我不可。拟拉丁尾音留在原文。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-deprofundity",
+      "lemma": "sabcunsciously senses upers the deprofundity of multimathematical immaterialities",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "sabcunsciously 近 subconsciously，upers 与深底叠纵向，deprofundity 近 de profundis。中文用潜下、感上和深底，存多重数理与非物质。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-allimmanence",
+      "lemma": "the allimmanence of that which Itself is Itself Alone",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "all 与 immanence 拼在一起。Gordon 读为形而上学命题，并提出神学联想。正文重复它与自身，保内在与外显之间的关系。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-passion",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-caller",
+      "lemma": "(hear, O hear, Caller Errin!)",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 听见无线电呼号。Caller Errin 又近苏格兰曲名 Caller Herrin’，馆藏歌集保存卖鱼呼声及钟乐线索。正文取呼叫爱尔兰。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-passion",
+        "nls-caller-herrin-394",
+        "boldereff-ii4-huber-394"
+      ]
+    },
+    {
+      "id": "ii4-394-bodies",
+      "lemma": "disunited solod, likeward and gushious bodies",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 兼听 solid 与凝乳，在喷涌后接下页乳清。正文保分散、凝团和喷溅，相向为拟词 likeward 的暂读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-passion",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-394-intuitions",
+      "lemma": "perilwhitened passionpanting pugnoplangent intuitions of reunited",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "三串 p 音叠出危险、惨白、情喘和带拳击声的哀鸣。原句在 reunited 后翻页，所接名词在 395.01。中文保跨页定语。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-394-passion",
+        "jjda-ii4-l39nb-383"
       ]
     }
   ],
@@ -3161,6 +5142,220 @@
       "kind": "allusion",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-395-whey",
+      "lemma": "murky whey, abstrew adim!",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 以 murky whey 引向 Milky Way，abstrew 的字母也可重排为 star web。正文取浑乳清与撒开的暗星，在前页凝团之后接出乳与星两重。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin"
+      ]
+    },
+    {
+      "id": "ii4-395-dimissional",
+      "lemma": "in the higherdimissional selfless Allself",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "dimissional 拼出 dimension 与 mission 的近形，Allself 又顶着 selfless。译文存维度、使命与无己全己。校订层作 higherdiminsional。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-395-idoless",
+      "lemma": "theemeeng Narsty meetheeng Idoless",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "theemeeng 与 meetheeng 两组音节滑向主题、会合，Idoless 又近 idol-less 及 Isolde。译文先保意指、会面与拟名，角色关系待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-john",
+      "lemma": "Jolly MacGolly, dear mester John",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Jolly 与 MacGolly 押尾，mester 拼写偏离 mister 或 master。正文音译拟名，以「师傅」留 master 与 mister 的交错。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-dishevelled",
+      "lemma": "the belated dishevelled",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Gordon 以此对读叶芝《谁和弗格斯同行？》最后一行的蓬乱游星。正文先保迟来蓬头客，星体回声接乳清处。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "yeats-fergus-395"
+      ]
+    },
+    {
+      "id": "ii4-395-parchment",
+      "lemma": "hacking away at a parchment pied",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hacking 含反复砍刮，pied 有斑杂义。校订层作 parchment pie。正文保羊皮与杂花，Gordon 另外提出信脚划痕的读法。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "gordon-ii4-395-cabin"
+      ]
+    },
+    {
+      "id": "ii4-395-analist",
+      "lemma": "all the other analist",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "analist 可同时听到 annalist 与 analyst，原句 all 与单数形相叠。正文拼作「编年析士」，保两职业影子。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-foursome",
+      "lemma": "the steamships ant the ladies'foursome",
+      "kind": "wordplay",
+      "certainty": "uncertain",
+      "text": "底本 ant 也能读作 and 的错声。校订层扩出 women-o’-war 并明写 playing。正文暂保蚁声和四人组，何种赛局待考。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "gordon-ii4-395-cabin"
+      ]
+    },
+    {
+      "id": "ii4-395-ovenfor",
+      "lemma": "ovenfor, nedenfor",
+      "kind": "translation",
+      "certainty": "supported",
+      "text": "Sandulescu 列丹麦语读法为上、下。正文保对举。",
+      "source_ids": [
+        "joyce-fp",
+        "sandulescu-scandinavian-395"
+      ]
+    },
+    {
+      "id": "ii4-395-downalupping",
+      "lemma": "dinkety, duk, downalupping, (how long tandem!)",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Gordon 听近童谣钟声，另提出双打及 Dunlop。正文以叮嘀、咚和反向轮转接前页邓禄圈。tandem 译成连串，赛制待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "nms-dunlop-394"
+      ]
+    },
+    {
+      "id": "ii4-395-schoonmasters",
+      "lemma": "a foreretyred schoonmasters",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "可同时听四、退役、轮胎和船长或校长的尾音。Gordon 另读鼬眼。正文叠帆船与校长，又让目光接到下句。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "gordon-ii4-395-cabin"
+      ]
+    },
+    {
+      "id": "ii4-395-green-eyes",
+      "lemma": "their pair of green eyes",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "原句记一对眼。Gordon 同听猫眼和妒意，并引《奥赛罗》第三幕第三场的绿眼怪物。正文保数目与窥视。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "folger-othello-green-395"
+      ]
+    },
+    {
+      "id": "ii4-395-coma",
+      "lemma": "the narcolepts on the lakes of Coma",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "Van Hulle 列笔记 narcolepsy 与 lake of Coma 在正文相合。Gordon 另指出《佩涅洛佩》中莫莉回想布卢姆许诺到科莫湖等处度蜜月。以「科马昏湖」保地名和昏沉。",
+      "source_ids": [
+        "joyce-fp",
+        "van-hulle-morpheus-391",
+        "gordon-ii4-395-cabin",
+        "ulysses-penelope-como-395"
+      ]
+    },
+    {
+      "id": "ii4-395-steam",
+      "lemma": "the big steamadories, made by Fumadory",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 听汽船和 stevedores（码头装卸工），后接名字的烟音。译文保船和建造者，船名来源待考。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-toilet",
+      "lemma": "the saloon ladies' madorn toilet chambers lined over prawn silk",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "madorn 近 modern 与 adorn。Gordon 两读梳妆与盥洗。prawn 在丝绸前，词中颜色未定。正文用妆盥间和虾绸。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-catara",
+      "lemma": "rub off the salty catara off a windows",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "擦的是窗上的盐翳。Gordon 从 catara 听出 cataract（眼翳）及 catarrh（鼻咽黏液）。正文把盐气、痰与翳拼在一处。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-ii4-395-cabin",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-395-committee",
+      "lemma": "qua committe, the poor old quakers, oben the dure",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "qua 有以某种身份行事之意。quakers 既可称教友派，也近发抖的人，oben 又让开门和门上方相撞。正文保委员会、老颤客及开门。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "gordon-ii4-395-cabin"
+      ]
+    },
+    {
+      "id": "ii4-395-honeymoon",
+      "lemma": "all the hunnishmooners and the firstclass ladies",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "hunnishmooners 缀粗野的 hunnish 与 honeymooners，回接 392.05。正文保婚旅者和头等舱女客。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
       ]
     }
   ]
