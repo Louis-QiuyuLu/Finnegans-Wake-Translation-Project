@@ -3,21 +3,24 @@
     {
       "id": "ii4-three-quarks",
       "lemma": "Three quarks",
-      "text": "原文以三声 quarks 呼马克，随后群鸟齐唱，故正文保留鸟叫与欢呼的声音。德语凝乳与盖尔曼命名粒子的历史关系未外核，不作本文语义依据。",
+      "text": "三声 quarks 引出 Mark／bark 的押尾与群鸟讥歌。盖尔曼在访谈中说，他先想到粒子名称的声音，后从 Joyce 取拼法。他另提酒馆点三夸脱的可能读法。物理用语属后世借名，正文沿鸟声喊三声。",
       "certainty": "uncertain",
       "kind": "wordplay",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "gellmann-quark-interview-383",
+        "jjda-ii4-l39nb-383"
       ]
     },
     {
       "id": "ii4-wreneagle",
       "lemma": "Wreneagle Almighty",
-      "text": "字形可辨 wren 与 eagle，又接 Almighty，正文试合鹪鹰与全能呼告。鹪鹩藏鹰背的民间故事未外核，暂不详述。",
+      "text": "wren 与 eagle 一小一大，合一字再接 Almighty 的全能呼告。正文译鹪鹰。是否兼指鹪鹩乘鹰竞飞的故事，证据待核。",
       "certainty": "uncertain",
       "kind": "wordplay",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jjda-ii4-l39nb-383"
       ]
     },
     {
@@ -58,6 +61,250 @@
       "kind": "culture",
       "source_ids": [
         "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-383-muster",
+      "lemma": "Muster Mark",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Muster 挨 Mister，又像召集、点名。整支鸟歌冲马克发话，正文先以「马克老爷」保存嘲称，点名声留注。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-bark",
+      "lemma": "Sure he hasn't got much of a bark And sure any he has it's all beside the mark.",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "bark 可吠也可指船，mark 又是靶。两次 sure 起头，Mark／bark／mark 逐行相押。中文保确信、吠声和打偏，船义在上章 Goodbark 回声中补读。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-lark",
+      "lemma": "wouldn't un be a sky of a lark",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "lark 既为云雀又为玩乐，sky 让欢闹升空。un 与后两行 uns 保乡口。中文用上天唱保笑意和鸟声。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-shirt",
+      "lemma": "old buzzard whooping about for uns shirt in the dark",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "buzzard 先存老鵟，也可听作骂老头。whooping 有吆喝并找寻的急口，中文保暗中找衫。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-park",
+      "lemma": "uns speckled trousers around by Palmerstown Park?",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "斑点裤回到禽鸟斑羽。底本排诗将 Palmerstown 断在 Palmer-／stown 两行，中文留末两拍，地名照读。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "joyce-fp"
+      ]
+    },
+    {
+      "id": "ii4-383-moult",
+      "lemma": "Hohohoho, moulty Mark!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "四个 ho 一口连笑。moulty 兼 moulting 换毛与 mouldy 发霉声，正文都留。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-ark",
+      "lemma": "flopped out of a Noah's ark",
+      "kind": "allusion",
+      "certainty": "proposal",
+      "text": "方舟同上文鸟群相接。noah’s ark 句里有不定冠词，正文保方舟与一群老鸡，不限定某次单一放鸟。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-cock",
+      "lemma": "cock of the wark",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 与 cock of the walk 并读，指自当头领。wark 仍押 Mark／ark，也像 work。正文用鸡场霸王与前后鸟群呼应。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-spark",
+      "lemma": "Fowls, up! Tristy's the spry young spark",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "上扬口令呼起群禽，Gordon 另听 foul up 与 full stop。spark 可指俏郎，Tristy 则与段后 Trustan 变名相邻。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-tread",
+      "lemma": "tread her and wed her and bed her and red her",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "四个短动词依次踩、娶、上床、染红，同一代词咬尾。Gordon 将 tread 与群禽、red 与染红的床褥并读。正文保四项，细义待定。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-tail",
+      "lemma": "Without ever winking the tail of a feather",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "尾羽不会眨眼，句里偏让它眨。Gordon 比白尾羽示怯。底本 ever，校订转录作 even，两形分记。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-wing",
+      "lemma": "Overhoved, shrillgleescreaming. That song sang seaswans. The winging ones.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "底本先有凌空尖声，再有天鹅与振翅句。校订转录先唱后写凌空。中文照底本断开，也留声串。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383",
+        "gordon-ii4-383"
+      ]
+    },
+    {
+      "id": "ii4-383-birds",
+      "lemma": "Seahawk, seagull, curlew and plover, kestrel and capercallzie.",
+      "kind": "structure",
+      "certainty": "proposal",
+      "text": "六种一一分出。Gordon 指红隼和松鸡使海鸟清单越列越出格。校订转录 capercailzie，章稿保 capercallzie。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-kiss",
+      "lemma": "trolled out rightbold when they smacked the big kuss of Trustan with Usolde",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "trolled 在这里可唱出强声。kuss 带德语吻的词形。Gordon 另从 Trustan 与 Usolde 听信任与卖声，正文保两名改音和响吻。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-caps",
+      "lemma": "whilest the wildcaps was circling",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "浪帽转圈，Gordon 又闻野猫绕行。校订转录作 whiltes，章稿 whilest。中文先保白帽与盘旋。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-course",
+      "lemma": "the winds aslight, upborne the fates, the wardorse moved",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "微风与船慢相随。wardorse 可兼 war horse、wardrobe；Gordon 将船景与戏台陈设并读。译文试合战马与服箱。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-credit",
+      "lemma": "by courtesy of Mr Deaubaleau Downbellow Kaempersally",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "by courtesy 像戏单致谢。Gordon 从 Deaubaleau 听蓝水，也比较凯利的舞台。底本 Downbellow，校订转录 Dowbellow，姓名具体所指仍待证。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-dark",
+      "lemma": "in Dubbeldorp, the donker, by the tourneyold of the wattarfalls",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "两处地貌混村、黑、竞技场与瀑声。JJDA 1939 转录拆 Dubbel dorp、wattar falls，章稿将两形连写，中文保拟村及场景。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-admission",
+      "lemma": "only a quartebuck askull for the last acts",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "票价从上一页的 a 接到新页，askull 按脑袋收。Gordon 听 quarter buck 和 quarterback，末几幕的戏票先按四分之一块译；校订页 quarterbuck 多一 r。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383",
+        "jjda-ii4-nbd13-383"
+      ]
+    },
+    {
+      "id": "ii4-383-solan",
+      "lemma": "the solans and the sycamores and the wild geese and the gannets",
+      "kind": "culture",
+      "certainty": "proposal",
+      "text": "词典将 solan goose 释作北方塘鹅，后列 gannets。底本还夹 sycamores 树名。中文以苏兰鲣与塘鹅分别占位，保重名异称。",
+      "source_ids": [
+        "jjda-ii4-l39nb-383",
+        "mw-solan-goose-384"
+      ]
+    },
+    {
+      "id": "ii4-383-rough",
+      "lemma": "rockbysuckerassousyoceanal sea",
+      "kind": "wordplay",
+      "certainty": "proposal",
+      "text": "Gordon 比 rockabye、摇篮和吸奶，余下继续拼喧洋。正文试留哄摇、吮奶、喧海，具体歌谣关系仍待证。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
+      ]
+    },
+    {
+      "id": "ii4-383-ahoy",
+      "lemma": "Moykle ahoykling!",
+      "kind": "sound",
+      "certainty": "proposal",
+      "text": "Gordon 从 ahoy 听水手招呼，也以广播 calling 并读。Moykle 可能牵海名，中文保拟音并让听声戛止。",
+      "source_ids": [
+        "gordon-ii4-383",
+        "jjda-ii4-l39nb-383"
       ]
     }
   ],
