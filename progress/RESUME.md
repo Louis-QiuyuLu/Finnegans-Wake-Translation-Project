@@ -366,6 +366,21 @@
 - 2026-11-19 修订 III.2 449.12后半至450.02前半，核拟圣名、鸟兽夜声、无线琴与跨页鹅卵，补22注、订4注。续核450.02同行 What wouldn’t I poach，见 reports/reviews/2026-11-19-iii2-449-12-450-02.r0.md。
 - 2026-11-19 修订 III.2 450.02后半至450.19，核偷钓、鱼名、烟斗与童谣，补19注、订3注。续核450.20 I give, a king，见 reports/reviews/2026-11-19-iii2-450-02-19.r0.md。
 - 2026-11-19 修订 III.2 450.20至450.35前半，核唱名、拟歌手、降升号与野地警句，补20注。续核450.35同行 And what sensitive coin，见 reports/reviews/2026-11-19-iii2-450-20-35.r0.md。
+- 2026-11-19 修订 III.2 450.35后半至451.18前半，核赌词、酒名、鱼笛与河名，补21注。续核451.18同行 And before you knew where you，见 reports/reviews/2026-11-19-iii2-450-35-451-18.r0.md。
+- 2026-11-19 修订 III.2 451.18后半至451.34前半，核赌约、红三叶草、拟酒名与婚房夸辞，补19注。续核451.34同行 Only for one thing that，见 reports/reviews/2026-11-19-iii2-451-18-34.r0.md。
+- 2026-11-19 修订 III.2 451.34后半至452.21前半，核寒冻病腔、书信、炉边遐想与法老拟名，补23注。续核452.21同行 The Vico road goes，见 reports/reviews/2026-11-19-iii2-451-34-452-21.r0.md。
+- 2026-11-19 修订 III.2 452.21后半至453.03前半，核维科路、卢坎领主、赌语、冰与尾波，补14注。续核453.03同行 I don't want yous to be billowfighting，见 reports/reviews/2026-11-19-iii2-452-21-453-03.r0.md。
+- 2026-11-19 修订 III.2 453.03后半至453.21前半，核浪枕仗、缝纫茶会、林间拟名与曲舌誓辞，补20注。续核453.21同行 Just a plain shays by the fire，见 reports/reviews/2026-11-19-iii2-453-03-21.r0.md。
+- 2026-11-19 修订 III.2 453.21后半至454.07，核炉旁留座、拟弥撒祝酒、戒指和邮差署名，补21注。续核454.08 Something of a sidesplitting nature，见 reports/reviews/2026-11-19-iii2-453-21-454-07.r0.md。
+- 2026-11-19 修订 III.2 454.08至454.25，核男高笑、拉丁变格、拟祷文与汞硫盐，补18注、订1注。续核454.26 There is some thing more，见 reports/reviews/2026-11-19-iii2-454-08-25.r0.md。
+- 2026-11-19 修订 III.2 454.26至455.06，核再告别、调车口令、参议院与守灵步舞，补15注、订3注。续核455.07 Saffron buns or sovran bonhams，见 reports/reviews/2026-11-19-iii2-454-26-455-06.r0.md。
+- 2026-11-19 修订 III.2 455.07至455.23前半，核面包、除夕三问、赛马、明日三叠及拟神名，补15注、订3注。续核455.23同行 Ah, sure, pleasantries aside，见 reports/reviews/2026-11-19-iii2-455-07-23.r0.md。
+- 2026-11-19 修订 III.2 455.23后半至456.07前半，核加演、壳中空间、芥末谚及煮新教徒，补19注。续核456.07同行 And for kailkannonkabbis，见 reports/reviews/2026-11-19-iii2-455-23-456-07.r0.md。
+- 2026-11-19 修订 III.2 456.07后半至456.28前半，核菜名、衣料、弥撒遣散语、满口杂音与邮路，补18注。续核456.28同行 and my next item's platform，见 reports/reviews/2026-11-19-iii2-456-07-28.r0.md。
+- 2026-11-19 修订 III.2 456.28后半至457.10前半，核欠邮费、初犯、窗与寡妇歌、三叠敲门和收割人，补16注。续核457.10同行 Devil a curly hair I care，见 reports/reviews/2026-11-19-iii2-456-28-457-10.r0.md。
+- 2026-11-19 修订 III.2 457.10后半至457.24，核数羊语、责任与税、向西歌句及驿车声，补15注。续核457.25 —Meesh, meesh，见 reports/reviews/2026-11-19-iii2-457-10-24.r0.md。
+- 2026-11-19 修订 III.2 457.25至458.12前半，核蒂齐插话、纸帕、四叉亲吻与教宗拟名，补18注。续核458.12同行 And, since levret bounds，见 reports/reviews/2026-11-19-iii2-457-25-458-12.r0.md。
+- 2026-11-20 修订 III.2 458.12后半至458.31，核蓝花、拭面、水面、回鸽与绳结，补17注。续核458.32 When I throw away my rollets，见 reports/reviews/2026-11-20-iii2-458-12-31.r0.md。
 
 ## 下次如何继续
 
