@@ -10122,5 +10122,549 @@
     "type": "archive",
     "accessed": "2026-11-19",
     "use": "核厂内制桶与木桶装运啤酒史。"
+  },
+  {
+    "id": "jjda-iii1-l39pb-414",
+    "title": "JJDA，III.1B，1939 年刊文",
+    "url": "https://jjda.ie/f/flex/pb/l39pb.htm",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核寓言开头及语词位置。"
+  },
+  {
+    "id": "jjda-iii1-c0yd-414",
+    "title": "JJDA，III.1 C.0+ 草稿转录",
+    "url": "https://jjda.ie/f/flex/p/pc0yd.htm",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核草稿 fore antennas、wateringpot、growed up 及小屋名。"
+  },
+  {
+    "id": "usccb-genesis-25-jacob-414",
+    "title": "《创世记》25.27–34，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/genesis/25",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核雅各、以扫及长子名分交换。"
+  },
+  {
+    "id": "ddo-ondt-414",
+    "title": "Den Danske Ordbog，ond／ondt",
+    "url": "https://ordnet.dk/ddo/ordbog/ondt",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核词形及善恶、痛楚义。"
+  },
+  {
+    "id": "knuth-ting-414",
+    "title": "Leo Knuth，A Wake Newslitter，414.34 与 416.27 索引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artLK1974a.html",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 en ting som ingenting 及小屋两次出现处。"
+  },
+  {
+    "id": "jjda-iii1-pcd12-415",
+    "title": "JJDA，III.1C，第12层草稿",
+    "url": "https://jjda.ie/f/flex/pc/pcd12.htm",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核第415页药料、舞名及三支拟曲异文。"
+  },
+  {
+    "id": "gordon-iii1-414-415-dance",
+    "title": "John Gordon，III.1 414.35–415.24 释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核虫棺、舞步、童歌、酒客与环绕天体读法。"
+  },
+  {
+    "id": "nasa-phoebe-415",
+    "title": "NASA Science，Phoebe",
+    "url": "https://science.nasa.gov/saturn/moons/phoebe/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核土卫菲比公转逆行。"
+  },
+  {
+    "id": "museoegizio-breathings-415",
+    "title": "Museo Egizio，Book of Breathings of Petamenophis",
+    "url": "https://collezioni.museoegizio.it/en-GB/material/Cat_1861_02/?searchLng=en-GB",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核《呼吸之书》实物及丧葬用途。"
+  },
+  {
+    "id": "gordon-iii1-415-416-ondt",
+    "title": "John Gordon，III.1 415.25–416.07 释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核冷窗、胎膜、卵库、铜板身高与主席相。"
+  },
+  {
+    "id": "navarrete-franco-egypt-415",
+    "title": "Ricardo Navarrete Franco，The Book of the Dead in Finnegans Wake，印刷页96–97",
+    "url": "https://web-argitalpena.adm.ehu.es/pdf/UHPDF197277.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 415.31 至 416.02 的古埃及丧葬词与祈愿读法。"
+  },
+  {
+    "id": "budge-osiris-tile-415",
+    "title": "E. A. Wallis Budge，Osiris and the Egyptian Resurrection，卷一页337",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Osiris_and_the_Egyptian_resurrection_%28Wallis%2C_1911%29_%28IA_osirisegyptianre00budg%29.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核第125章附记转述中猪与未遭踩踏的泥瓦。"
+  },
+  {
+    "id": "ddo-loppe-415",
+    "title": "Den Danske Ordbog，loppe",
+    "url": "https://ordnet.dk/ddo/ordbog/loppe",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核跳蚤词形。"
+  },
+  {
+    "id": "duden-weltall-416",
+    "title": "Duden，Weltall",
+    "url": "https://www.duden.de/rechtschreibung/Weltall",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核寰宇、宇宙义。"
+  },
+  {
+    "id": "duden-laus-416",
+    "title": "Duden，Laus",
+    "url": "https://www.duden.de/rechtschreibung/Laus",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核虱义。"
+  },
+  {
+    "id": "cambridge-haine-416",
+    "title": "Cambridge Dictionary，haine",
+    "url": "https://dictionary.cambridge.org/dictionary/french-english/haine",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核法语憎恨义。"
+  },
+  {
+    "id": "gordon-iii1-416-hunger",
+    "title": "John Gordon，III.1 416.08–27 释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核教堂穷汉、悔罪辞、吞食与时序。另查 418.15 寄生蜂回指。"
+  },
+  {
+    "id": "jjda-iii1-l39pc-416",
+    "title": "JJDA，III.1C，1939 年刊文",
+    "url": "https://jjda.ie/f/flex/pc/l39pc.htm",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核第416页连缀、字形及段末屋名。"
+  },
+  {
+    "id": "sandulescu-unenglish-416",
+    "title": "C. George Sandulescu 编，UnEnglish English 卷十，印刷页49–50",
+    "url": "https://editura.mttlc.ro/carti/sandulescu-unenglish-fw-vol4.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 416.13–25 音形释读及 416.16–17 分行，版本差异沿原稿另记。"
+  },
+  {
+    "id": "usccb-proverbs-ant-416",
+    "title": "《箴言》6.6–11，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/proverbs/6",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核懒汉观蚁与夏粮秋储。"
+  },
+  {
+    "id": "usccb-contrition-416",
+    "title": "USCCB，Act of Contrition",
+    "url": "https://www.usccb.org/prayers/act-contrition",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核第一式 O my God 及 I am heartily sorry。"
+  },
+  {
+    "id": "uf-honey-bee-glossary-416",
+    "title": "University of Florida IFAS，Honey Bee Glossary",
+    "url": "https://ask.ifas.ufl.edu/publication/4H419.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核蜂粮及蜂足花粉篮术语。"
+  },
+  {
+    "id": "smithsonian-notonecta-416",
+    "title": "Smithsonian，Backswimmer，Notonecta insulata",
+    "url": "https://qrius.si.edu/browse/object/10001285",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核馆藏仰泳蝽的属名及俗称。"
+  },
+  {
+    "id": "gordon-iii1-416-417-storm",
+    "title": "John Gordon，III.1 416.27–417.10 释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核绕行、南半球、死海问句、瓦片、歌剧及翁特再会。"
+  },
+  {
+    "id": "bonheim-german-416-417",
+    "title": "Helmut Bonheim，A Lexicon of the German in Finnegans Wake，页127–128，威斯康星大学藏扫描",
+    "url": "https://asset.library.wisc.edu/1711.dl/3X2JYQCBRL3EF8Z/E/file-172cc.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 416.33 黑格尔／雹及 417.01–09 德语近形。"
+  },
+  {
+    "id": "leibniz-new-essays-preface-416",
+    "title": "Leibniz，Nouveaux essais sur l’entendement humain，前言，科学院版 VI.6",
+    "url": "https://www.uni-muenster.de/Leibniz/DatenVI6/A_VI_6.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核前言微知觉例所用海浪声。"
+  },
+  {
+    "id": "tasmania-winter-416",
+    "title": "塔斯马尼亚州政府，Live in Tasmania",
+    "url": "https://www.migration.tas.gov.au/live_and_work/live_in_tasmania",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核六月至八月为冬季，山地可降雪。"
+  },
+  {
+    "id": "le-havre-port-416",
+    "title": "Le Havre Seine Patrimoine，Le Havre, le port de commerce",
+    "url": "https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-maritime-et-industriel/port-du-havre",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核勒阿弗港地名及港口沿革。"
+  },
+  {
+    "id": "myndir-voluspa-416",
+    "title": "University of Victoria，MyNDIR，Völuspá",
+    "url": "https://myndir.uvic.ca/VlSp.html",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核《女先知的预言》及诸神黄昏毁灭与再生梗概。"
+  },
+  {
+    "id": "itis-siphonaptera-417",
+    "title": "Integrated Taxonomic Information System，Siphonaptera",
+    "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=152732",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核蚤目学名。"
+  },
+  {
+    "id": "gordon-iii1-417-feast",
+    "title": "John Gordon，III.1 417.10–418.01 释读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核翁特称号、饮食、虫宴、舞步及秤羽。"
+  },
+  {
+    "id": "ohehir-gaelic-417",
+    "title": "Brendan O Hehir，A Gaelic Lexicon for Finnegans Wake，417.31 两条",
+    "url": "https://asset.library.wisc.edu/1711.dl/EAJALGDTOLLYF8G/E/file-29a36.pdf?dl=",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 Dorsan 与 Dunshanagan 两个爱尔兰语读法。"
+  },
+  {
+    "id": "ddo-edderkop-417",
+    "title": "Den Danske Ordbog，edderkop",
+    "url": "https://ordnet.dk/ddo/ordbog/edderkop",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核蜘蛛词形及古英语相关形。"
+  },
+  {
+    "id": "rae-mariposa-417",
+    "title": "RAE／ASALE，mariposa",
+    "url": "https://dle.rae.es/mariposa",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核西语蝶名及 Mari、posar 构词。"
+  },
+  {
+    "id": "bm-ani-weighing-417",
+    "title": "British Museum 馆藏说明，Papyrus from the Book of the Dead of Ani",
+    "url": "https://artsandculture.google.com/asset/papyrus-from-the-book-of-the-dead-of-ani/UgHfZBaRoZAhvg?hl=en",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核馆方说明中的心脏、羽毛及秤。"
+  },
+  {
+    "id": "gordon-iii1-418-opening",
+    "title": "John Gordon，III.1 418.01–25 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核拟名、门槛、钱币、歌起及成对虫名。"
+  },
+  {
+    "id": "royal-mint-lsd-418",
+    "title": "Royal Mint Museum，Pounds, Shillings and Pence",
+    "url": "https://www.royalmintmuseum.org.uk/journal/history/pounds-shillings-and-pence/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核镑、先令、便士和 £sd 记号。"
+  },
+  {
+    "id": "jesuits-amdg-418",
+    "title": "Society of Jesus，A.M.D.G.",
+    "url": "https://www.jesuits.org/glossary/a-m-d-g-2/",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核拉丁格言及释义。"
+  },
+  {
+    "id": "iveagh-trust-guinness-418",
+    "title": "The Iveagh Trust，Edward Cecil Guinness",
+    "url": "https://www.theiveaghtrust.ie/our-story/edward-cecil-guinness/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 Guinness 兄弟和 Iveagh 爵号。"
+  },
+  {
+    "id": "usccb-exodus-i-am-418",
+    "title": "《出埃及记》3.13–14，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/exodus/3",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核神名及第一人称自称。"
+  },
+  {
+    "id": "itis-culex-418",
+    "title": "Integrated Taxonomic Information System，Culex",
+    "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=126455",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核库蚊属。"
+  },
+  {
+    "id": "itis-pulex-418",
+    "title": "Integrated Taxonomic Information System，Pulex",
+    "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=189331",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核蚤属。"
+  },
+  {
+    "id": "mqdq-culex-418",
+    "title": "Musisque Deoque，Appendix Vergiliana，Culex",
+    "url": "https://open.unive.it/mqdq/testo/testo/ordinata/pf480857",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "据 Salvatore 1997 校本核小诗原题及文本。"
+  },
+  {
+    "id": "perseus-castor-pollux-418",
+    "title": "荷马《奥德赛》11.298–304，Perseus Butler 英译",
+    "url": "https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg002.perseus-eng4%3A11.266/",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核卡斯托尔、波吕克斯及交替生死。"
+  },
+  {
+    "id": "gordon-iii1-418-419-song",
+    "title": "John Gordon，III.1 418.26–419.10 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核风向、双生人物、目光、牛犊、音量、节拍及礼辞。"
+  },
+  {
+    "id": "treccani-aquilone-418",
+    "title": "Treccani，aquilone",
+    "url": "https://www.treccani.it/vocabolario/ricerca/aquilone/",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核北风、北向与风筝词义。"
+  },
+  {
+    "id": "sep-bruno-nola-418",
+    "title": "Stanford Encyclopedia of Philosophy，Giordano Bruno",
+    "url": "https://plato.stanford.edu/entries/bruno/",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核布鲁诺与出生地诺拉。"
+  },
+  {
+    "id": "treccani-saltamartino-419",
+    "title": "Treccani，saltamartino",
+    "url": "https://www.treccani.it/vocabolario/saltamartino/",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核跳跃直翅虫、拼入 Martino 的方言名。"
+  },
+  {
+    "id": "usccb-matthew-baptism-419",
+    "title": "《马太福音》28.19，USCCB 英译",
+    "url": "https://bible.usccb.org/bible/matthew/28",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核三项奉名格式。"
+  },
+  {
+    "id": "gordon-iii1-419-languages",
+    "title": "John Gordon，III.1 419.11–28 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核评歌、混语、酒肚、鹅笔与倒写。"
+  },
+  {
+    "id": "jjda-iii1-l39pd-419",
+    "title": "JJDA，III.1D，1939 年刊文",
+    "url": "https://jjda.ie/f/flex/pd/l39pd.htm",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核听歌者口吻、希腊应答及语言串。"
+  },
+  {
+    "id": "jjda-iii1-pdd11-419",
+    "title": "JJDA，III.1D，第11层草稿",
+    "url": "https://jjda.ie/f/flex/pd/pdd11.htm",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 if not、letterpotent、unshent Persse 与 Ottoman 等用形。"
+  },
+  {
+    "id": "onb-esperanto-volapuk-419",
+    "title": "奥地利国家图书馆，Esperanto Museum",
+    "url": "https://www.onb.ac.at/en/museums/esperanto-museum/about-the-esperanto-museum/",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 Volapük、Esperanto 与人工语言沿革。"
+  },
+  {
+    "id": "gallesano-proverbs-419",
+    "title": "La tradizione paremiologica a Gallesano，谚语采录",
+    "url": "https://hrcak.srce.hr/file/352419",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核 Chi vive di speranza muore cantando 的采录形式。"
+  },
+  {
+    "id": "nli-psychic-wilde-419",
+    "title": "爱尔兰国家图书馆，Psychic Messages from Oscar Wilde",
+    "url": "https://catalogue.nli.ie/Record/vtls000455540",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核书名及 Hester Travers Smith 编者著录。"
+  },
+  {
+    "id": "sword-dowden-wilde-419",
+    "title": "Helen Sword，Modernist Hauntology，圣安德鲁斯引文索引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artSS1995.html",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核王尔德通灵文本与 419.24 等处的比较释读。"
+  },
+  {
+    "id": "gordon-iii1-419-420-accusations",
+    "title": "John Gordon，III.1 419.28–420.16 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核信笺指斥、邮务、猫眼和树／墓碑等拟声。"
+  },
+  {
+    "id": "jjda-iii1-pdd9-420",
+    "title": "JJDA，III.1D，第9层草稿",
+    "url": "https://jjda.ie/f/flex/pd/pdd9.htm",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 sootyname、shruburbs 和 Baree 等稿层文字。"
+  },
+  {
+    "id": "poe-purloined-letter-419",
+    "title": "Edgar Allan Poe，The Purloined Letter，Tales 1845 葛雷厄姆本",
+    "url": "https://www.eapoe.org/WORKS/tales/plttrc.htm",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核借题名与失窃信件。"
+  },
+  {
+    "id": "dib-esdall-lucas-fire-419",
+    "title": "Dictionary of Irish Biography，James Esdall",
+    "url": "https://www.dib.ie/biography/esdall-james-a2944",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核1749年查禁及公开焚烧 Charles Lucas 文字。"
+  },
+  {
+    "id": "knuth-stayne-420",
+    "title": "Leo Knuth，A Wake Newslitter VII.6，420.11–13 索引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artLK1970a.html",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核 stayne 的留立读法和 Comme bien 的重复。"
+  },
+  {
+    "id": "carleton-eggshells-420",
+    "title": "William Carleton，Traits and Stories of the Irish Peasantry，卷一，馆藏扫描",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Traits_and_stories_of_the_Irish_peasantry_%28IA_traitsstoriesofi01carliala%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核儿童于地板浅水放蛋壳船。"
+  },
+  {
+    "id": "gordon-iii1-420-421-postal",
+    "title": "John Gordon，III.1 420.17–421.14 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核信中角色、退件、广告、拟地址及电报止号。"
+  },
+  {
+    "id": "gordon-iii1-421-422-reply",
+    "title": "John Gordon，III.1 421.15–422.03 章读",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-1",
+    "type": "commentary",
+    "accessed": "2026-11-19",
+    "use": "核问话语序、口语对笔迹、狄奥根尼、通讯社与处分。"
+  },
+  {
+    "id": "jjda-iii1-pdd15-421",
+    "title": "JJDA，III.1D，第15层草稿",
+    "url": "https://jjda.ie/f/flex/pd/pdd15.htm",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 fagroaster 后句点、clergimanitis、drapery 及 Gach 分布。"
+  },
+  {
+    "id": "laertius-diogenes-421",
+    "title": "第欧根尼·拉尔修，《名哲言行录》6.23、6.41，Hicks 英译",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/6/Diogenes%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-19",
+    "use": "核住瓮和白昼提灯两事。"
+  },
+  {
+    "id": "reuters-history-421",
+    "title": "Reuters，Reuters 175 Years",
+    "url": "https://reutersagency.com/reuters-175-years",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 Reuters 名称及通信背景。"
+  },
+  {
+    "id": "afp-havas-421",
+    "title": "Agence France-Presse，AFP Through the Years",
+    "url": "https://www.afp.com/en/afp-timeline",
+    "type": "archive",
+    "accessed": "2026-11-19",
+    "use": "核 Havas 通讯社史。"
   }
 ]
