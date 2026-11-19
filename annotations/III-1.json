@@ -3222,9 +3222,10 @@
       "id": "iii1-gracehoper",
       "lemma": "Gracehoper",
       "kind": "wordplay",
-      "text": "词形可拆听作 grace 与 hoper，又近 grasshopper。正文保留格雷斯霍珀，避免固定成谢姆；寓言与兄弟的对应仍是读法。",
+      "text": "近 grasshopper（蚱蜢），又可听见 grace 与 hoper。国会图书馆所载伊索寓言英译里，蚱蜢挟琴求食，蚂蚁让他跳舞。此处借核琴舞母题，乔伊斯所用版本及角色与谢姆关系仍待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "loc-aesop-ant-grasshopper"
       ],
       "certainty": "proposal"
     },
@@ -3232,41 +3233,46 @@
       "id": "iii1-ondt",
       "lemma": "Ondt",
       "kind": "wordplay",
-      "text": "与 Gracehoper 对举，后文兼见 ant、and、andt 的字形变奏。丹麦语语源尚未查词典，不据此断定「邪恶」本义。",
+      "text": "与 Gracehoper 对举，后文有 ant、and、andt 等变形。《丹麦语词典》将 ondt 收在 ond 下，兼及恶与痛楚。正文沿用「翁特」，留住善恶悬念。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "ddo-ondt-414"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-book-of-breathings",
       "lemma": "Book of Breathings",
       "kind": "allusion",
-      "text": "原文出现书名状词组，并以 bed him 连接。具体古埃及文献版本、用途及本文关系待核，不能只凭原著证明丧葬史实。",
+      "text": "都灵埃及博物馆藏 Petamenophis《呼吸之书》，列明此类文本丧葬用途。书名接虫棺与醒来；具体见证仍待核。bed him 近 bade him，又藏卧床。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "museoegizio-breathings-415"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-tingsomingenting",
       "lemma": "Tingsomingenting",
       "kind": "wordplay",
-      "text": "寓言先用此词称格雷斯霍珀住所，随后让他离开此地。德语、北欧方言与议会语源链均待核；正文保留拟音。",
+      "text": "小屋名，416.27 再现。Knuth 读出丹麦语 en ting som ingenting，意近「形同无物的一件东西」。正文留拟音。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "knuth-ting-414"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-hegelstomes",
       "lemma": "hegelstomes",
       "kind": "wordplay",
-      "text": "此词处在六月雪与暴风描写中；可试听 hailstones，并留意 Hegel 字形。墓石与黑格尔体系之说待核，不坐实哲学埋葬寓意。",
+      "text": "Bonheim 对照德语 Hegel 与 Hagel（冰雹）；Gordon 另听 tomes（大部头），厚、密接风雪。译文留黑格尔、雹和著作声。墓碑仅属可能联想。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "gordon-iii1-416-417-storm"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-412-paykelt",
@@ -3672,6 +3678,1010 @@
         "jjda-iii1-l39pa-403",
         "gordon-iii1-413-414-barrel"
       ]
+    },
+    {
+      "id": "iii1-414-apologuise",
+      "lemma": "I apologuise",
+      "kind": "sound",
+      "text": "apologise 中突起 guise 的近形。「告罪告嘴」留结巴般的起拍。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-spinooze",
+      "lemma": "spinooze you one",
+      "kind": "wordplay",
+      "text": "spin a yarn 是编故事；词尾近 snooze（打盹）。译文同留纺线与催眠。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-grimm",
+      "lemma": "grimm gests of Jacko and Esaup",
+      "kind": "allusion",
+      "text": "gests 可读行状，近 jests；grimm 兼响阴沉与格林。两名接近雅各与以扫，Esaup 又近 Aesop。《创世记》叙以扫为食物让出长子名分。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-genesis-25-jacob-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-feeble",
+      "lemma": "fable one, feeble too",
+      "kind": "sound",
+      "text": "fable 与 feeble 相撞，one 与 too 又可听成 one、two。以「寓言一则，弱言也一则」留自嘲与数拍。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pb-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-cousis",
+      "lemma": "the casus, my dear little cousis",
+      "kind": "wordplay",
+      "text": "casus 为个案，cousis 近 cousin。「小表亲，来瞧瞧这桩表案」留亲缘与拟判例口吻。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-thunder",
+      "lemma": "husstenhasstencaffincoffintussemtossemdamandamnacosaghcusaghhobixhatouxpeswchbechoscashlcarcarcaract",
+      "kind": "sound",
+      "text": "长声插在案名之前。开头近咳声；后段音节及语种组合待核。正文留整串。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-414-findlestilts",
+      "lemma": "a partner pair of findlestilts to supplant him",
+      "kind": "wordplay",
+      "text": "findlestilts 可听见 fiddle 与 stilts；supplant 令替换动作带出脚底联想。伊索寓言英译可对照琴舞母题。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-aesop-ant-grasshopper"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-insect-names",
+      "lemma": "Floh and Luse and Bienie and Vespatilla",
+      "kind": "wordplay",
+      "text": "四个拟名接续虫语，可分别联想跳蚤、虱、蜜蜂和胡蜂。正文留人名口吻及先后次序。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-insect-games",
+      "lemma": "pupa-pupa and pulicy-pulicy and langtennas and pushpygyddyum",
+      "kind": "wordplay",
+      "text": "蛹与蚤叠唱；langtennas 可并听 lawn tennis 和 long antennae。末项暂以推扭蹭动作保留游戏口令，词源待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-414-commence-insects",
+      "lemma": "to commence insects with him",
+      "kind": "wordplay",
+      "text": "insects 与 incest 近声，接求偶和口器动作，也可听见 sex。「交虫」留交媾与虫身。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-mouthparts",
+      "lemma": "there mouthparts to his orefice and his gambills to there airy processes",
+      "kind": "syntax",
+      "text": "女方口器向他孔窍，他双腿向女方突肢。there 近 their；gambills 近 gambol，腿还在跳。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-waspering",
+      "lemma": "even if only in chaste, ameng the everlistings, behold a waspering pot",
+      "kind": "wordplay",
+      "text": "chaste 近 chase 或 jest；everlistings 可听常青与常听；waspering 可听 wasp 与 whisper。草稿同位作 wateringpot，译文保留壶形。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-c0yd-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-melissciously",
+      "lemma": "of curse melissciously",
+      "kind": "wordplay",
+      "text": "of course 转作咒语，melissciously 近 maliciously。虫群语境又引出蜜蜂联想，译作「咒然蜜恶」。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-feelhers",
+      "lemma": "fore feelhers, flexors, contractors, depressors and extensors",
+      "kind": "wordplay",
+      "text": "草稿作 fore antennas。刊文 feelhers 带出 feel her，随后列屈、缩、降、伸动作。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-c0yd-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-harry",
+      "lemma": "lamely, harry me, marry me, bury me, bind me",
+      "kind": "sound",
+      "text": "四个动作各带第一人称宾语，harry、marry、bury 连押，bind 收紧。译文四拍同以「我」收尾。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-spinner",
+      "lemma": "fourmish her in Spinner's housery",
+      "kind": "wordplay",
+      "text": "fourmish 近 furnish，也可听见蚁声。Spinner 与 housery 可读纺丝、屋舍，并牵出 hosiery 的袜业近声。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-414-groped",
+      "lemma": "so summery as his cottage, which was cald fourmillierly Tingsomingenting, groped up",
+      "kind": "wordplay",
+      "text": "草稿写 growed up；刊文换作 groped up，小屋生长带着盲摸之态。fourmillierly 近 familiarly，兼带蚁声。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-c0yd-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-funereels",
+      "lemma": "funny funereels with Besterfarther Zeuts, the Aged One",
+      "kind": "wordplay",
+      "text": "funeral 和 reel 叠在滑稽曲舞里。「殡轮曲」留丧仪和回转。Zeuts 贴近 Zeus。早稿 Besterfather 少一个 r，通行文还能听到 farther。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-c0yd-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-collars",
+      "lemma": "wigeared corollas, albedinous and oldbuoyant",
+      "kind": "wordplay",
+      "text": "花冠也近衣领，wigeared 可听假发和翼耳。Gordon 将 albedinous 连天体反照率，oldbuoyant 连旧人和浮力。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-casket",
+      "lemma": "inscythe his elytrical wormcasket",
+      "kind": "wordplay",
+      "text": "inscythe 近 inside，又露镰刀。elytrical 叠鞘翅与电气。Gordon 提出蝉壳及电棺联想，译文留虫棺泛称。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-nymphs",
+      "lemma": "Dehlia and Peonia, his druping nymphs, bewheedling him",
+      "kind": "wordplay",
+      "text": "两名近大丽花和芍药。nymph 兼仙女、若虫；druping 近低垂，bewheedling 近哄诱。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-hornitose",
+      "lemma": "compound eyes on hornitosehead",
+      "kind": "wordplay",
+      "text": "复眼位于角质头壳，hornitose 又近 horny。旁置语关系松动，译文仅留形貌。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-letitia",
+      "lemma": "Auld Letty Plussiboots to scratch his cacumen and cackle his tramsitus",
+      "kind": "wordplay",
+      "text": "搔头尖与咯咯送行并行。tramsitus 近 transitus（过渡、离世），又可听到电车。老莱蒂后半拟名待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-415-recipe",
+      "lemma": "seven bolls of sapo, a lick of lime, two spurts of fussfor, threefurts of sulph, a shake o'shouker, doze grains of migniss and a mesfull of midcap pitchies",
+      "kind": "wordplay",
+      "text": "草稿写 soap 与 madcap pitchies，译文据此读皂、疯帽，壶近 pitcher。保留拟计量与舐、喷、摇。配方用途存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pcd12-415",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-boubou",
+      "lemma": "The whool of the whaal in the wheel of the whorl of the Boubou from Bourneum",
+      "kind": "sound",
+      "text": "whole、whale／wall、wheel、whorl 连转。布布与布尔尼厄姆留拟名。Gordon 联想到 Barnum 展演，所指存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-415-castanets",
+      "lemma": "tambarins and cantoridettes soturning",
+      "kind": "wordplay",
+      "text": "鼓铃旁有 cantor 歌声和 cantharides 斑蝥近响；soturning 叠旋转与 Saturn。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-rockcoach",
+      "lemma": "eggshill rockcoach their dance McCaper in retrophoebia",
+      "kind": "allusion",
+      "text": "rockcoach 拆换 cockroach 声序，又是一辆车。Gordon 读出蹦跳虫舞及菲比；NASA 证实菲比逆行公转，本文用字仍属释读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance",
+        "nasa-phoebe-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-dancers",
+      "lemma": "beck from bulk, like fantastic disossed and jenny aprils",
+      "kind": "wordplay",
+      "text": "beck from bulk 近 back from bulk，所指未定。disossed 可读去骨；Gordon 听出舞者 Jane Avril，正文留拟名。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-415-boxing",
+      "lemma": "a mutter and doffer duffmatt baxingmotch",
+      "kind": "wordplay",
+      "text": "母女、喃语和聋哑拳赛声影相叠。早稿已有 mutter & deffer baxing motch，后增 duffmatt。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance",
+        "jjda-iii1-c0yd-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-myrmidins",
+      "lemma": "myrmidins of pszozlers pszinging",
+      "kind": "sound",
+      "text": "myrmidins 可听蚁群或密尔弥冬人，pszozlers 似醉鬼，pszinging 带嗡音。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-saturday",
+      "lemma": "Satyr's Caudledayed Nice",
+      "kind": "wordplay",
+      "text": "拟曲名近 Saturday night，又把萨堤尔与热奶酒搅入。草稿已有此名，保留夜晚、睡前饮。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-humpty",
+      "lemma": "Hombly, Dombly Sod We Awhile",
+      "kind": "allusion",
+      "text": "开头近 Humpty Dumpty，整句近童谣坐墙句；sod 又引向土中睡伏。与上文蛋丘并读。",
+      "source_ids": [
+        "joyce-fp",
+        "loc-humpty-dumpty-317",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-tim",
+      "lemma": "Ho, Time Timeagen, Wake!",
+      "kind": "allusion",
+      "text": "Time 重叠同时引出 Tim Finnegan 和醒转、守灵。三支拟曲从周六夜、暂歇唱到再醒。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-science",
+      "lemma": "sciencium (what's what) can mute uns nought, 'a thought",
+      "kind": "wordplay",
+      "text": "叠否定，uns 近 us，mute 可听静默或低语。吐不出一念，与下句艺术唱声呼应。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-boss",
+      "lemma": "the Great Sommboddy within the Omniboss",
+      "kind": "wordplay",
+      "text": "Sommboddy 近 somebody（有号人物），Omniboss 同听 omnibus 与 boss。译文留车和大人物。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-ring",
+      "lemma": "the Little Newbuddies that ring his panch",
+      "kind": "wordplay",
+      "text": "新伙伴、新芽与小人物近声。ring 既围绕又报声，panch 近 paunch 肚腩。Gordon 提出土星环读法。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-tide",
+      "lemma": "A high old tide for the barheated publics and the whole day as gratiis",
+      "kind": "wordplay",
+      "text": "high tide 与尽欢时节叠合，publics 可连 public houses，gratiis 留免费口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-cronione",
+      "lemma": "O'Cronione lags acrumbling in his sands but his sunsunsuns still tumble on",
+      "kind": "allusion",
+      "text": "Gordon 将拟姓联系克罗诺斯及土星。sunsunsuns 同闻太阳与儿孙，译文叠写两声；沙与踢拍承时间。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-414-415-dance"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-kick-time",
+      "lemma": "so as everwhy, sham or shunner, zeemliangly to kick time",
+      "kind": "wordplay",
+      "text": "kick time 将时间踢回脚跟脚趾拍。sham／shunner 可听作佯装／规避，具体声源与评价对象待核。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-415-scarab",
+      "lemma": "Grouscious me and scarab my sahul!",
+      "kind": "wordplay",
+      "text": "感叹语里插入甲虫，sahul 近 soul，又使整句带丧葬语色。「甲护我魂」保动作与虫，不指定古埃及词源。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-bag",
+      "lemma": "What a bagateller it is! Libelulous! Inzanzarity!",
+      "kind": "wordplay",
+      "text": "bagateller 近小事，也像称呼。Libelulous 可听诽谤声和蜻蜓拟形，Inzanzarity 像发疯与闹剧叠音。暂依三个短促怒拍。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-415-goths",
+      "lemma": "Pou! Pschla! Ptuh! What a zeit for the goths!",
+      "kind": "sound",
+      "text": "三声短喷后接 zeit（时世）；goths 也让耳朵听成 gods。译文让哥特、诸神同现。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-sommer",
+      "lemma": "not being a sommerfool, was thothfolly",
+      "kind": "wordplay",
+      "text": "summer 混 fool，thoughtfully 里混 Thoth 和 folly。先讥夏傻子，再摆智慧架势。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-sphex",
+      "lemma": "making chilly spaces at hisphex affront of the icinglass of his windhame",
+      "kind": "wordplay",
+      "text": "spaces 可带 faces 的做脸声，hisphex 亦可读 his face 和 Sphex（细腰蜂属名）。icinglass 混冰与 isinglass，windhame 处夹窗和家，不把冰写成材质判定。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-nix",
+      "lemma": "cold antitopically Nixnixundnix",
+      "kind": "wordplay",
+      "text": "cold 又近 called。德语口语 nix 即 nichts，三次否定经 und 相连。antitopically 夹蚁、反向及地处字样；中文旧屋名保留。",
+      "source_ids": [
+        "joyce-fp",
+        "duden-nix",
+        "knuth-ting-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-lopp",
+      "lemma": "We shall not come to party at that lopp's, he decided possibly, for he is not on our social list.",
+      "kind": "wordplay",
+      "text": "lopp 擦过丹麦语 loppe，又近 that lot。社交名册语气侵入虫宴，possibly 给断然拒绝打个折。第12层草稿的 that lopp’s party 较顺，通行文本特意挪动语序。",
+      "source_ids": [
+        "joyce-fp",
+        "ddo-loppe-415",
+        "gordon-iii1-415-416-ondt",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-ba",
+      "lemma": "Nor to Ba's berial nether, thon sloghard",
+      "kind": "allusion",
+      "text": "叠 burial、neither 及下界声。Navarrete Franco 据 Budge 将 Ba 连丧葬灵魂观；另有其他拟名解释。正文保留巴与葬仪。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-khul",
+      "lemma": "this oldeborre's yaar ablong as there's a khul on a khat",
+      "kind": "wordplay",
+      "text": "丹麦语 oldenborre 指金龟子一类，yaar 近年。Gordon 读猫胎帽，Navarrete Franco 联系 khat 尸身。正文先留猫，另一路入注。",
+      "source_ids": [
+        "joyce-fp",
+        "ddo-oldenborre",
+        "gordon-iii1-415-416-ondt",
+        "navarrete-franco-egypt-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-ovi",
+      "lemma": "Nefersenless, when he had safely looked up his ovipository",
+      "kind": "wordplay",
+      "text": "Nefersenless 近 nevertheless，又带古埃及名声。looked up 擦过 locked up；ovipository 兼及产卵与存放。译作「锁好卵库」，不固定为翁特自身器官。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-hails",
+      "lemma": "he loftet hails and prayed",
+      "kind": "wordplay",
+      "text": "loftet 使致礼带上抬举动作。Gordon 还听到近代政治礼声，所指尚属释读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-hatup",
+      "lemma": "May he me no voida water! Seekit Hatup!",
+      "kind": "allusion",
+      "text": "void water 保排水的身体口吻。Navarrete Franco 读作 Sekhet-hetepet，又听见 seek it 与昂首动作；正文两声取拟音。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-hotup",
+      "lemma": "May no he me tile pig shed on! Suckit Hotup!",
+      "kind": "allusion",
+      "text": "tile 旁叠猪与排泄。Budge 述丧葬仪式用未遭猪等踩踏的泥瓦作画；原文把图像近声扭成脏话。Suckit Hotup 又可听 suck it hot up，与上一声并押。",
+      "source_ids": [
+        "joyce-fp",
+        "budge-osiris-tile-415",
+        "navarrete-franco-egypt-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-415-beppy",
+      "lemma": "As broad as Beppy's realm shall flourish my reign shall flourish!",
+      "kind": "allusion",
+      "text": "reign 可转听 rain。Navarrete Franco 将贝皮祷句联系佩皮王名、名号兴盛及丧葬祈愿。并列两次 flourish。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-haine",
+      "lemma": "As high as Heppy's hevn shall flurrish my haine shall hurrish!",
+      "kind": "wordplay",
+      "text": "haine 法语为恨；与 heaven、happy 近声所带喜乐相对。hurrish 叠 hurry 与 flourish，保恨意疯长。",
+      "source_ids": [
+        "joyce-fp",
+        "cambridge-haine-416",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-shall",
+      "lemma": "Shall grow, shall flourish! Shall hurrish! Hummum.",
+      "kind": "sound",
+      "text": "三拍祷词从长、盛到急盛，结尾押回含混鼻音。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-welt",
+      "lemma": "a weltall fellow, raumybult and abelboobied",
+      "kind": "wordplay",
+      "text": "Weltall 是寰宇，weltall 又近 well tall。raumybult 接德语空间声和 roomy built；胸部拟词存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "duden-weltall-416",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-copper",
+      "lemma": "bynear saw altitudinous wee a schelling in kopfers",
+      "kind": "wordplay",
+      "text": "Gordon 以铜板叠成一先令释身量微小。altitudinous 撑高，wee 再缩，译文用「矮高」保冲突；旧译另加挣钱说，此处无相应动词。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-psyche",
+      "lemma": "sair sair sullemn and chairmanlooking when he was not making spaces in his psyche",
+      "kind": "wordplay",
+      "text": "庄肃声重复，spaces 近做脸；psyche 先有心灵义，Gordon 另连蝶翼普绪刻。保留心／眼和主席／副主席两组对举。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-ikey",
+      "lemma": "but, laus! when he wore making spaces on his ikey, he ware mouche mothst secred and muravyingly wisechairmanlooking.",
+      "kind": "wordplay",
+      "text": "laus 可听拉丁赞声及德语虱；mouche、mothst 带苍蝇和蛾音。muravyingly 让人联想蚁，也近 marvelously；wisechairmanlooking 可并听英明与 vice-chairman。",
+      "source_ids": [
+        "joyce-fp",
+        "duden-laus-416",
+        "gordon-iii1-415-416-ondt"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-whim",
+      "lemma": "Now whim the sillybilly of a Gracehoper",
+      "kind": "sound",
+      "text": "whim 兼任性与 when 的关节声，sillybilly 用叠音先定滑稽口吻。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-jungle",
+      "lemma": "jingled through a jungle of love and debts and jangled through a jumble of life in doubts afterworse",
+      "kind": "sound",
+      "text": "jingled／jungle 和 jangled／jumble 两组响声相推；love／life 与 debts／doubts 互换。afterworse 将 afterwards 拐向越混越糟。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-drikking",
+      "lemma": "wetting with the bimblebeaks, drikking with nautonects, bilking with durrydunglecks",
+      "kind": "wordplay",
+      "text": "湿、喝、赖账串成三拍。nautonects 近仰泳蝽属 Notonecta，durrydunglecks 可听见污泥和粪甲。馆藏仰泳蝽只核属名，正文无须定种。",
+      "source_ids": [
+        "joyce-fp",
+        "smithsonian-notonecta-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-ladybird",
+      "lemma": "horing after ladybirdies (ichnehmon diagelegenaitoikon)",
+      "kind": "wordplay",
+      "text": "ladybird 同时落在虫名与女伴，horing 添寻欢口吻。Gordon 据 McHugh 将 ichnehmon 连姬蜂类，并回指 418.15 寄生描写；括注余字形待核，正文照录。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-416-sexton",
+      "lemma": "he fell joust as sieck as a sexton and tantoo pooveroo quant a churchprince",
+      "kind": "wordplay",
+      "text": "sexton 是教堂司事，可管墓地；病与穷各拉一重教会角色。churchprince 又擦过穷如教堂鼠的谚意。拟意大利语叠入比较，中文用「简直」留反讽。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "sandulescu-unenglish-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-midges",
+      "lemma": "wheer the midges to wend hemsylph or vosch to sirch for grub",
+      "kind": "wordplay",
+      "text": "去路和觅食同时发问。midges 带蠓虫，grub 是口粮又近幼虫，hemsylph 擦过 himself。译文保留虫语，vosch 的具体源头待核。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-416-hospes",
+      "lemma": "for his corapusse or to find a hospes, alick, he wist gnit!",
+      "kind": "wordplay",
+      "text": "corapusse 让 corpse 与 carapace 相擦；hospes 兼主人、客人，并可引出临终收容。gnit 在否定上再添虱卵／小飞虫声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "sandulescu-unenglish-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-bruko",
+      "lemma": "Bruko dry! fuko spint!",
+      "kind": "sound",
+      "text": "可听 broke、dry、spent 与粗口，破产、干涸、花尽轮番挤出。第12层草稿的 Fuko 大写，稿段所录通行文用小写。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pc-416",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-sultamont",
+      "lemma": "Sultamont osa bare! And volomundo osi videvide!",
+      "kind": "wordplay",
+      "text": "bare、videvide 共推空无，又可听 mondo 的世界义。Gordon 提到空柜读法，首个拟词所指未定，正文暂留音。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-416-nichts",
+      "lemma": "Nichtsnichtsundnichts!",
+      "kind": "structure",
+      "text": "德语 nichts 叠三次，用 und 接末项，回响 415.29 翁特宅名 Nixnixundnix。",
+      "source_ids": [
+        "joyce-fp",
+        "duden-nix"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-money",
+      "lemma": "Not one pickopeck of muscowmoney to bag a tittlebits of beebread!",
+      "kind": "wordplay",
+      "text": "pickopeck 近微量与戈比，muscowmoney 合莫斯科与钱，bag 擦过买和装袋。beebread 是蜂群保存的花粉粮，中文留「蜂粮」。",
+      "source_ids": [
+        "joyce-fp",
+        "uf-honey-bee-glossary-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-iomio",
+      "lemma": "Iomio! Iomio! Crick's corbicule, which a plight!",
+      "kind": "wordplay",
+      "text": "两声叹词后仿举基督身体起誓；Crick 同听鸣蟋。corbicule 连蜂后足花粉篮，译句保篮及惊呼。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "uf-honey-bee-glossary-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-bog",
+      "lemma": "O moy Bog, he contrited with melanctholy.",
+      "kind": "wordplay",
+      "text": "神名句兼英语祷声和斯拉夫语 Bog。contrited 作动词，melanctholy 把忧郁折向圣洁口吻。与下一声悔罪辞变拍同读。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-contrition-416",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-sluggard",
+      "lemma": "Meblizzered, him sluggered!",
+      "kind": "allusion",
+      "text": "第12层草稿分写 Me blizzered，通行见证黏合。blizzard、bless，slugger、sluggard 等声相冲；Gordon 据 McHugh 连《箴言》6.6 懒汉观蚁。译文留我／他和风雪、懒汉。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-proverbs-ant-416",
+        "gordon-iii1-416-hunger",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-hungry",
+      "lemma": "I am heartily hungry!",
+      "kind": "allusion",
+      "text": "悔罪辞以 O my God 呼告，随后说 I am heartily sorry。Joyce 让饥饿闯入忏悔句型，译为「我打心眼里饿啊」。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-contrition-416",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-whilepaper",
+      "lemma": "eaten all the whilepaper, swallowed the lustres",
+      "kind": "wordplay",
+      "text": "whilepaper 摇摆在墙纸与吃掉光阴之间，lustres 可见吊灯与光泽。译文保留室内实物及耗时联想。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "sandulescu-unenglish-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-stairs",
+      "lemma": "forty flights of styearcases, chewed up all the mensas and seccles",
+      "kind": "wordplay",
+      "text": "styearcases 叠岁月、阶梯，四十保留。mensas、seccles 可按桌椅读，也带时序串项的近声，暂不把每件配定单位。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-mudballs",
+      "lemma": "ronged the records, made mundballs of the ephemerids",
+      "kind": "wordplay",
+      "text": "啃档卷，把蜉蝣及短时日纪搓成丸。Gordon 引 McHugh 释蜉蝣短命，又读出泥粪球，与前文粪甲相应。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-ternitary",
+      "lemma": "vorasioused most glutinously with the very timeplace in the ternitary",
+      "kind": "wordplay",
+      "text": "voracious、gluttonous、glutinous 一口相咬；timeplace 同吞时间地点。ternitary 兼有 termite、eternity 的影子，「白蚁永穴」搭留两声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "sandulescu-unenglish-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-cicada",
+      "lemma": "not too dusty a cicada of neutriment for a chittinous chip so mitey",
+      "kind": "wordplay",
+      "text": "cicada 置于食量衡量处，neutriment 近 nutriment，chittinous 近几丁质，mitey 又小螨又强大。译文以「一蝉」拟量，几丁与小屑并留。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-chrysalmas",
+      "lemma": "when Chrysalmas was on the bare branches, off he went from Tingsomingenting.",
+      "kind": "structure",
+      "text": "圣诞混蛹及晶霜，落光枝。中文用「蛹诞节」保节名与虫蜕，屋名照应 414.34。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-hunger",
+        "knuth-ting-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-stroll",
+      "lemma": "He took a round stroll and he took a stroll round and he took a round strollagain",
+      "kind": "sound",
+      "text": "三回拖同一脚步，round 和 stroll 互换，末回黏住 again。译文三个分句轮换「绕」「溜达」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-leivnits",
+      "lemma": "the grillies in his head and the leivnits in his hair",
+      "kind": "wordplay",
+      "text": "grillies 听似蟋蟀，leivnits 叠虱卵和 Leibniz。莱布尼茨《新论》前言用小浪累成海涛声说明微知觉，可邻读下句海声；此处直接引述关系待证。",
+      "source_ids": [
+        "joyce-fp",
+        "leibniz-new-essays-preface-416"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-416-tossmania",
+      "lemma": "made him thought he had the Tossmania",
+      "kind": "wordplay",
+      "text": "Tossmania 近 Tasmania，又使 toss 与 mania 呼应转圈、头晕。译成「塔斯颠狂」，地名补注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "tasmania-winter-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-twicycled",
+      "lemma": "Had he twicycled the sees of the deed and trestraversed their revermer?",
+      "kind": "wordplay",
+      "text": "twicycled 同听二次和双轮，trestraversed 带三次；sees of the deed 近 Dead Sea，revermer 可听 river、mer 及倒转感。Gordon 另提罗马 Trastevere，正文未定精确行程。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-hull",
+      "lemma": "Was he come to hevre with his engiles or gone to hull with the poop?",
+      "kind": "allusion",
+      "text": "hevre 兼勒阿弗与 heaven，hull 兼船壳与 hell，engiles 擦过 angels 与 engines，poop 兼艉楼和 pope。两问留航境与审判之声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "le-havre-port-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-june",
+      "lemma": "The June snows was flocking in thuckflues",
+      "kind": "wordplay",
+      "text": "六月雪接塔斯拟名，当地六月入冬。flocking 可写雪结团，也牵出絮屑；flues 可指烟道。译文保雪团、烟道。",
+      "source_ids": [
+        "joyce-fp",
+        "tasmania-winter-416",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-feet",
+      "lemma": "millipeeds of it and myriopoods",
+      "kind": "wordplay",
+      "text": "millipede、myriapod 作雪的计量，像把千足、万足直接搓作数量。译文以雪为主，留虫足。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-tournedos",
+      "lemma": "a lugly whizzling tournedos, the Boraborayellers",
+      "kind": "sound",
+      "text": "whizzling 添风啸，tournedos 可听 tornado 及法语菜名；Boraborayellers 把波拉波拉与嚷声绞在一起。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-416-roof",
+      "lemma": "blohablasting tegolhuts up to tetties and ruching sleets off the coppeehouses",
+      "kind": "wordplay",
+      "text": "爆吹瓦屋，扯下冰霰／屋板。Gordon 听 sleets 兼 slates，coppee 兼铜；咖啡屋声与铜屋料同在。tetties 词源存疑，正文先取顶尖。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "bonheim-german-416-417"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-416-rag",
+      "lemma": "ragnowrock rignewreck",
+      "kind": "allusion",
+      "text": "Ragnarök 连诸神覆亡，第二拍又带 rig 与 wreck，遂从宇宙末日回到翻船。校读剧情参考《女先知的预言》目录说明。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "myndir-voluspa-416"
+      ],
+      "certainty": "proposal"
     }
   ],
   "fw-iii1-417-01": [
@@ -3679,39 +4689,45 @@
       "id": "iii1-baile-atha-cliath",
       "lemma": "Baile-Atha-Cliath",
       "kind": "allusion",
-      "text": "原文把它列在地址及日期之间。旧注的爱尔兰语释义须另核地名资料；不以「永恒退信邮戳」概括全部地址。",
+      "text": "Baile Átha Cliath 是 Dublin 的爱尔兰语地名，汉译保留音写与通用地名。稿段连字符和 1132 日期照录。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "ungegn-baile-atha-cliath"
       ],
-      "certainty": "uncertain"
+      "certainty": "supported"
     },
     {
       "id": "iii1-culex",
       "lemma": "Culex",
       "kind": "allusion",
-      "text": "与 Pulex 构成问句对偶，周围贯穿虫类词形。旧注关于伪维吉尔同名诗的典故未核，暂不采为事实。",
+      "text": "Culex 是库蚊属名，又是《维吉尔附录》传世小诗题。诗题可作对照，乔伊斯是否直接用此诗仍待核。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "itis-culex-418",
+        "mqdq-culex-418"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-pulex",
       "lemma": "Pulex",
       "kind": "wordplay",
-      "text": "与 Culex 配对，句中一方惊扰另一方。分类学词源待核；保留这层互相牵动，不推成凡人存在定论。",
+      "text": "Pulex 是蚤属名，与 Culex 同拍；本句由蚤唤醒蚊。此处借分类核词形，正文沿用虫名和拟音。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "itis-pulex-418",
+        "gordon-iii1-418-opening"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-homo-vulgaris",
       "lemma": "Homo Vulgaris",
       "kind": "wordplay",
-      "text": "原文以拉丁双名状词组指称这一双念头所拨动的人。译作凡夫俗客，是按词形提出的试读，非正式物种名称。",
+      "text": "拟物种名指常人。前置双生两项和 tick 的钟声、叮咬同落凡人身上，中文保「滴答叮」。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "gordon-iii1-418-opening"
       ],
       "certainty": "proposal"
     },
@@ -3719,19 +4735,1379 @@
       "id": "iii1-ad-majorem-lsd",
       "lemma": "Ad majorem l.s.d.",
       "kind": "wordplay",
-      "text": "l.s.d. 插入拉丁语状赞辞，后面另接 Divi gloriam。可试读为钱币缩写侵入宗教话语；耶稣会格言来源另待核。",
+      "text": "耶稣会格言 Ad majorem Dei gloriam 指上主更大荣耀。Joyce 把旧币镑、先令、便士缩记插入赞辞，再落 Divi gloriam；译文同留币名与颂声。",
       "source_ids": [
-        "joyce-fp"
+        "joyce-fp",
+        "jesuits-amdg-418",
+        "royal-mint-lsd-418"
       ],
-      "certainty": "uncertain"
+      "certainty": "proposal"
     },
     {
       "id": "iii1-miss-take",
       "lemma": "Miss Take",
       "kind": "wordplay",
-      "text": "连在 Opened by 之后，字面是小姐姓名，连读又近 mistake。译作错失小姐，保留误拆信与人名两层。",
+      "text": "Opened by 后像小姐署名，连读又是 mistake。译作「误拆小姐」，保误拆批语和人名。",
       "source_ids": [
         "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-spuk",
+      "lemma": "penetrant, siphonopterous spuk.",
+      "kind": "wordplay",
+      "text": "跨页 irritant／penetrant 同押，随后把虹吸声与蚤目混成鬼响。Bonheim 释 Spuk 为闹鬼、喧嚣，Gordon 另听喷气的虹吸管。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "bonheim-german-416-417",
+        "itis-siphonaptera-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-opr",
+      "lemma": "Grausssssss! Opr! Grausssssss! Opr!",
+      "kind": "sound",
+      "text": "Bonheim 读 Graus（惊骇）、Oper（歌剧），Gordon 还听出大歌剧。重叠两拍，延长嘶尾。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-bat",
+      "lemma": "blind as batflea",
+      "kind": "wordplay",
+      "text": "瞎蝙蝠俗喻揉进跳蚤。紧随 not a leetle beetle 的甲虫声，省略量级反衬识虫本领。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-entymology",
+      "lemma": "his good smetterling of entymology",
+      "kind": "wordplay",
+      "text": "smetterling 近 smattering（粗通）及 Schmetterling（蝶），entymology 把昆虫学与词源学绞合。正文「虫词学」留学问双向，蝶音留注。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-lice",
+      "lemma": "asped nissunitimost lous nor liceens",
+      "kind": "wordplay",
+      "text": "asped、lous、liceens 可擦过 asked、虱、license；否定又带连番塞音。具体拆词待核，中文暂作不问虱、不讨虱照。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-417-vico",
+      "lemma": "in the vico, phthin and phthir, on top of his buzzer",
+      "kind": "wordplay",
+      "text": "vico 留小巷和人物名声。phthin／phthir 贴薄、虱的拟音。Gordon 读 buzzer 为嗡响的头，并联倒栽。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-aluck",
+      "lemma": "wheer would his aluck alight or boss of both appease",
+      "kind": "wordplay",
+      "text": "三重近音问幸运落在何处，怎样讨好那位管两边的。Gordon 也对照 I.1 捣蛋女的门前提问。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-aquinas",
+      "lemma": "makes the aquinatance of the Ondt",
+      "kind": "allusion",
+      "text": "aquinatance 将 acquaintance 和 Aquinas 靠在一起。Gordon 联翁特主教相；正文用「阿奎那识」接再会。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-ensemble",
+      "lemma": "these mouschical umsummables",
+      "kind": "wordplay",
+      "text": "mouschical 近 musical，umsummables 又可听嗡鸣、合奏与不可相加。第12层写 theirselves，稿段所录版本写 themselves。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-416-417-storm",
+        "bonheim-german-416-417",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-differents",
+      "lemma": "motylucky if he will beheld not a world of differents.",
+      "kind": "wordplay",
+      "text": "motylucky 牵蛾、蝶与幸运；differents 并听差别、微分，摇摆在两个虫声世界之间。保留否定，以「要是见不出」落句。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-gross",
+      "lemma": "Behailed His Gross the Ondt, prostrandvorous upon his dhrone",
+      "kind": "wordplay",
+      "text": "Gordon 听出 His Grace 的敬称及 postprandial 的饭后义。gross、vorous 添肥大、饕食，dhrone 仍近 throne。译作「肥下」，让称颂带挖苦。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-slippers",
+      "lemma": "his Papylonian babooshkees",
+      "kind": "wordplay",
+      "text": "Papylonian 叠 Babylon、papa，可联教皇装束；后词近 babouches 便鞋、babushka。正文留鞋，服饰其余联想入注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-cigals",
+      "lemma": "smolking a spatial brunt of Hosana cigals",
+      "kind": "wordplay",
+      "text": "Gordon 拟 brunt 为钝头雪茄，Hosana 近欢呼祝辞；cigals 同听 cigar、cigale 蝉。第12层在 spatial 与 brunt 间另有 beetler，通行文已删。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast",
+        "jjda-iii1-pcd12-415",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-underwear",
+      "lemma": "unshrinkables farfalling from his unthinkables",
+      "kind": "wordplay",
+      "text": "unthinkables 近代称底衣的 unmentionables。farfalling 近 falling、farfalla（蝶），德语 verfallen 也是 Bonheim 的读法。何物掉落仍存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast",
+        "bonheim-german-416-417"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-417-sunny",
+      "lemma": "swarming of himself in his sunnyroom",
+      "kind": "wordplay",
+      "text": "swarming 和 warming 相擦，一人取暖却闹如虫群，并牵出 sunnyroom 的温暖。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-supper",
+      "lemma": "his comfortumble phullupsuppy of a plate o'monkynous and a confucion of minthe",
+      "kind": "wordplay",
+      "text": "晚餐塞满肚，monkey nuts 指花生，monkynous 又带苦修者 monk。confucion 近 infusion，字形又牵孔夫，minthe 保薄荷。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-abstain",
+      "lemma": "a conformed aceticist and aristotaller",
+      "kind": "wordplay",
+      "text": "aceticist 近醋酸和 ascetic，aristotaller 听见 Aristotle 和 teetotaller。两称号与眼前饱餐反衬。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-libido",
+      "lemma": "as appi as a oneysucker or a baskerboy on the Libido",
+      "kind": "wordplay",
+      "text": "吸蜜与晒日头并列，Libido 可听欲力也近 Lido 水滨浴场。译文保场景和拟名，未定物种。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-four",
+      "lemma": "Floh biting his leg thigh and Luse lugging his luff leg and Bieni bussing him under his bonnet",
+      "kind": "structure",
+      "text": "咬腿股、拖腿、帽下亲吻三拍依次落实。luff 带航海声；此处 Bieni 省尾 e，后文 Bienie 又补回，中文同作比妮。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pc-416",
+        "bonheim-german-416-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-tutties",
+      "lemma": "Vespatilla blowing cosy fond tutties up the allabroad length of the large of his smalls",
+      "kind": "wordplay",
+      "text": "blowing 带吹与暖声，the large of his smalls 把小衣裤夸成大号。tutties 仍留拟声，动作方向沿裤长往上。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-417-entomate",
+      "lemma": "As entomate as intimate could pinchably be.",
+      "kind": "wordplay",
+      "text": "entomate 将 entomo- 虫与 intimate 亲密叠合；pinchably 增添夹、掐触感。译文留「虫亲」「肉亲」。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-jilts",
+      "lemma": "Emmet and demmet and be jiltses crazed and be jadeses whipt!",
+      "kind": "sound",
+      "text": "emmet 是蚁，与骂声 demmet 连押。jilt、jade 带薄情和贬称，Gordon 还听见 Judas／Jesus 近响。正文保咒骂，近声留注。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-eyefor",
+      "lemma": "schneezed the Gracehoper, aguepe with ptchjelasys and at his wittol's indts, what have eyeforsight!",
+      "kind": "wordplay",
+      "text": "喷嚏夹雪声，aguepe 可擦过法语 guêpe（黄蜂）和 agape；wittol 又是容忍伴侣不忠者，indts 近 ends。eyeforsight 在 Bonheim 处连德语嫉妒声。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-host",
+      "lemma": "that true and perfect host, a spiter aspinne",
+      "kind": "wordplay",
+      "text": "东道主又可听圣餐饼与寄生宿主；spiter／aspinne 叠恶意与织蛛。Gordon 以捕食连前后虫身，正文留席间欢迎与恶蛛同场。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast",
+        "bonheim-german-416-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-spass",
+      "lemma": "the greatest spass a body could with his queens laceswinging",
+      "kind": "wordplay",
+      "text": "德语 Spaß 指戏乐，queens 在虫场含虫后，laceswinging 又擦过 lacewing 草蛉。译文保虫后、甩带与摆翼。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-formicolation",
+      "lemma": "spizzing all over him like thingsumanything in formicolation",
+      "kind": "wordplay",
+      "text": "嘶喷与蚁走般刺痒相混。thingsumanything 倒应格雷斯霍珀小屋 Tingsomingenting，保「样样有」对早先无物。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "knuth-ting-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-houris",
+      "lemma": "an allallahbath of houris",
+      "kind": "wordplay",
+      "text": "all、Allah、bath 连音，houris 与浴场画面挤在同场。Gordon 对照 597.14 反复神名，正文用「安拉啦」保叠响。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-dances",
+      "lemma": "ameising himself hugely at crabround and marypose",
+      "kind": "wordplay",
+      "text": "ameising 带 Ameisen 蚁声及逗乐、积聚，crabround 近蟹绕圈，marypose 可听西语 mariposa（蝶）、Mary 和 pose。",
+      "source_ids": [
+        "joyce-fp",
+        "bonheim-german-416-417",
+        "rae-mariposa-417",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-virtues",
+      "lemma": "chasing Floh out of charity and tickling Luse, I hope too, and tackling Bienie, faith, as well, and jucking Vespatilla jukely by the chimiche",
+      "kind": "structure",
+      "text": "仁爱、希望、信德插在四项动作中，顺序照录。末句 jucking／jukely 叠音，chimiche 的烟囱读法暂留。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-417-dorsan",
+      "lemma": "Never did Dorsan from Dunshanagan dance it with more devilry!",
+      "kind": "allusion",
+      "text": "O Hehir 将两名分读为 Dorsán（蚱蜢）及 Dún Seangáin（蚁堡）。保多尔桑拟名，也译出「蚁堡」，接蚁蝗舞步。",
+      "source_ids": [
+        "joyce-fp",
+        "ohehir-gaelic-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-odderkop",
+      "lemma": "The veripatetic imago of the impossible Gracehoper on his odderkop in the myre",
+      "kind": "wordplay",
+      "text": "veripatetic 擦过 peripatetic，imago 兼形象与虫的成形阶段。odderkop 可听怪脑壳及丹麦语蜘蛛 edderkop；正文留头栽泥里的动作。",
+      "source_ids": [
+        "joyce-fp",
+        "ddo-edderkop-417",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-feather",
+      "lemma": "after his thrice ephemeral journeeys, sans mantis ne shooshooe, featherweighed animule",
+      "kind": "allusion",
+      "text": "三回短旅接蜉蝣，又可听 journée。featherweighed 是以羽比重的称量；大英博物馆图版可核阿尼纸草秤心图。螳螂／鞋声暂照拟声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast",
+        "bm-ani-weighing-417"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-417-chorus",
+      "lemma": "sinctifying chronic's despair, was sufficiently and probably coocoo much for his chorous of gravitates.",
+      "kind": "wordplay",
+      "text": "sinctifying 合罪、圣化与指意，chronic 拉回时光；coocoo 同响布谷与疯闹。末语合沉重、庄严与合唱，Gordon 与上句秤羽连读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-417-feast"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-art",
+      "lemma": "Let him be Artalone the Weeps with his parisites peeling off him",
+      "kind": "wordplay",
+      "text": "Artalone 夹 art alone，parisites 夹 Paris 与寄生者。Gordon 并听 Parthalon 与 Arthur Guinness，后一路和下一称号对照。正文留人名、独艺及巴黎。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening",
+        "iveagh-trust-guinness-418"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-crack",
+      "lemma": "I'll be Highfee the Crackasider.",
+      "kind": "wordplay",
+      "text": "Highfee 可听高酬，Gordon 听出 Iveagh；Crackasider 近 crusader，亦可带裂嘴笑声，接下文翁特大笑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening",
+        "iveagh-trust-guinness-418"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-footle",
+      "lemma": "Flunkey Footle furloughed foul, writing off his phoney",
+      "kind": "sound",
+      "text": "四次 f 头韵将跑腿、遣休和勾销挤作一串。phoney 近伪造又近声学；假票只是与勾销相配的读法。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-carme",
+      "lemma": "Conte Carme makes the melody that mints the money",
+      "kind": "sound",
+      "text": "伯爵称呼和歌声邻靠，melody、mints、money 三拍由旋律挤出钱。下句旧币缩记乘势插入赞辞。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-darkener",
+      "lemma": "A darkener of the threshold. Haru?",
+      "kind": "allusion",
+      "text": "门槛暗影与呼召句。第12层草稿是在 threshold 后问号、Haru 后叹号，稿段所用见证调转。Gordon 将门槛联系《亡灵书》卷章，Haru 的神名联系仍存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening",
+        "jjda-iii1-pcd12-415"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-418-orimis",
+      "lemma": "Orimis, capsizer of his antboat, sekketh rede from Evil-it-is, lord of loaves in Amongded.",
+      "kind": "allusion",
+      "text": "Orimis 近祈祷语 oremus 和 Osiris。Navarrete Franco 核渡向亡界的蚁舟；rede 是劝告，又可听 reed 芦苇。保拟地「亡中地」、掌饼者和问策关系。",
+      "source_ids": [
+        "joyce-fp",
+        "navarrete-franco-egypt-415",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-thou",
+      "lemma": "Be it! So be it! Thou-who-thou-art, the fleet-as-spindhrift, impfang thee of mine wideheight. Haru!",
+      "kind": "allusion",
+      "text": "Gordon 将 Thou-who-thou-art 连《出埃及记》神名自称。飞沫保疾行，impfang 近德语收纳词，wideheight 把宽与高合为领受之物。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-exodus-i-am-418",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-andt",
+      "lemma": "The thing pleased him andt, and andt,",
+      "kind": "sound",
+      "text": "andt 轮替 ant、and、Ondt，末逗把话送进歌行。译文保持两次蚁声。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-larved",
+      "lemma": "He larved ond he larved on he merd such a nauses",
+      "kind": "wordplay",
+      "text": "笑声混幼虫 larva，merd、nauses 把粪与鼻响、恶心声带入。Gordon 据此读翌句嗓门与排泄错置。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-fauces",
+      "lemma": "The Gracehoper feared he would mixplace his fauces.",
+      "kind": "wordplay",
+      "text": "fauces 为咽口，亦向 feces 擦音。mixplace 不只是笑破喉，而是混错部位；译成「错换了地方」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-grondt",
+      "lemma": "I forgive you, grondt Ondt, said the Gracehoper, weeping, For their sukes of the sakes you are safe in whose keeping.",
+      "kind": "sound",
+      "text": "grondt 与 Ondt 同押，sukes／sakes／safe 连换喉声。译文保哭着原谅、受照应诸位，以及前后两行唱拍。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-polka",
+      "lemma": "Teach Floh and Luse polkas, show Bienie where's sweet And be sure Vespatilla fines fat ones to heat.",
+      "kind": "structure",
+      "text": "三项吩咐接原四个拟虫名。heat 同听 eat，肥虫与热食都保留；唱词未指明猎物虫种。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-count",
+      "lemma": "As I once played the piper I must now pay the count",
+      "kind": "wordplay",
+      "text": "pay the piper 的习语拆成当初吹笛、今日付账。count 既能计账，又回声前文伯爵 Conte。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-moy",
+      "lemma": "So saida to Moyhammlet and marhaba to your Mount!",
+      "kind": "wordplay",
+      "text": "Moyhammlet 可连 my hamlet；Gordon 并录爱尔兰语读法。marhaba 在句中像问候，又与 Abraham 字母相换；正文拟名，其他宗教联想存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-418-pollen",
+      "lemma": "Let who likes lump above so what flies be a full 'un; I could not feel moregruggy if this was prompollen.",
+      "kind": "wordplay",
+      "text": "lump、flies、full 让团块、虫飞和饱腹同拍。moregruggy 叠不满与昏倦，prompollen 听花粉；上行句法仍有歧义。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-418-horse",
+      "lemma": "I pick up your reproof, the horsegift of a friend, For the prize of your save is the price of my spend.",
+      "kind": "wordplay",
+      "text": "赠马俗谚遇上德语 Gift（毒物），又可联木马礼。prize／price 与 save／spend 成对，挖苦褒奖和代价是一笔账。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-pollocks",
+      "lemma": "Can castwhores pulladeftkiss if oldpollocks forsake 'em Or Culex feel etchy if Pulex don't wake him?",
+      "kind": "allusion",
+      "text": "两行用性词、虫名挪写 Castor、Pollux。《奥德赛》同叙这对兄弟交替死生，照应 wake 的唤醒及守灵。正文留拟称，与库蚊、蚤并列。",
+      "source_ids": [
+        "joyce-fp",
+        "perseus-castor-pollux-418",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-locus",
+      "lemma": "A locus to loue, a term it t'embarass, These twain are the twins that tick Homo Vulgaris.",
+      "kind": "wordplay",
+      "text": "locus 接 to 可拼听 locust，term it 可拼听 termite。loue 或作 love；中文用「一处可恋」「白蚁期」留空间与时间，蝗虫音借上下文补。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-opening"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-aquileone",
+      "lemma": "Has Aquileone nort winged to go syf",
+      "kind": "wordplay",
+      "text": "意语 aquilone 兼北风与风筝；Gordon 从 Aquileone 听出鹰与狮，nort 朝北，go syf 可能拐向南去。译名留狮翼和南北反向。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song",
+        "treccani-aquilone-418"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-gwyfyn",
+      "lemma": "Since the Gwyfyn we were in his farrest drewbryf",
+      "kind": "wordplay",
+      "text": "Gordon 将 Gwyfyn 连 gryphon，又把末语听成 first drew breath。译文留格威芬拟音和同处一息的句态，拟名语源未定。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-418-accident",
+      "lemma": "And that Accident Man not beseeked where his story ends",
+      "kind": "wordplay",
+      "text": "Accident 可连偶事，也贴 Occident，与后文东方相对。疑问保留故事尽头，暂不指定哪一人。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-orience",
+      "lemma": "Since longsephyring sighs sought heartseast for their orience?",
+      "kind": "sound",
+      "text": "西风 zephyr 与长忍叹气兼在；heartseast 近 heart’s-ease，又带心与东。orience 将东方、方向摆在句末。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-wastenot",
+      "lemma": "We are Wastenot with Want, precondamned, two and true,",
+      "kind": "wordplay",
+      "text": "不浪费便不缺用的谚语拆成两名，节俭与贫缺并肩；precondamned 添预先定罪，two and true 仍留双数。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-bruneyes",
+      "lemma": "Till Nolans go volants and Bruneyes come blue.",
+      "kind": "allusion",
+      "text": "Nolans／Bruneyes 可并听诺拉、棕眼和诺拉城人布鲁诺；Stanford 词条仅核布鲁诺籍贯。译文留诺兰、翱翔及棕眼转蓝。",
+      "source_ids": [
+        "joyce-fp",
+        "sep-bruno-nola-418",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-mocks",
+      "lemma": "Ere those gidflirts now gadding you quit your mocks for my gropes",
+      "kind": "allusion",
+      "text": "mocks 和 gropes 既分讥嘲、摸索，也回响 I.6 始于 152 页的 Mookse 与 Gripes。gidflirts、gadding 保轻佻走动。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-extense",
+      "lemma": "An extense must impull, an elapse must elopes,",
+      "kind": "wordplay",
+      "text": "广延向内收，流逝又成私奔。第12层草稿句尾为句点，稿段沿通行文逗点，接下句清点与报时。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pcd12-415",
+        "jjda-iii1-l39pc-416",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-tectucs",
+      "lemma": "Of my tectucs takestock, tinktact, and ail's weal;",
+      "kind": "sound",
+      "text": "查存货的 takestock 和几声滴答同排，尾语叠 ail、weal 与 all’s well。Gordon 听作报时人的口令。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-418-hale",
+      "lemma": "As I view by your farlook hale yourself to my heal.",
+      "kind": "wordplay",
+      "text": "farlook 可听远视，hale 兼健壮与牵拽，heal 兼治与脚跟 heel。Gordon 联雅各抓脚跟，正文先保远望、拖、治的动作。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song",
+        "usccb-genesis-25-jacob-414"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-blink",
+      "lemma": "Partiprise my thinwhins whiles my blink points unbroken on",
+      "kind": "wordplay",
+      "text": "Partiprise 可读分担、偏向，thinwhins 兼消瘦与低哀声。blink 一闪又要 unbroken，保凝视之矛盾。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-token",
+      "lemma": "Your whole's whercabroads with Tout's trightyright token on.",
+      "kind": "wordplay",
+      "text": "whole、where、abroad 铺开全身与广处，Tout 亦近托特名。第12层写 whereabroads、tightyright，稿段沿 whercabroads、trightyright。信物具体所指存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pcd12-415",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-419-risible",
+      "lemma": "My in risible universe youdly haud find",
+      "kind": "wordplay",
+      "text": "in risible 可听可笑、不可见，以及 in my universe 的倒置。译文将两层视听同留。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-veal",
+      "lemma": "Sulch oxtrabeeforeness meat soveal behind.",
+      "kind": "wordplay",
+      "text": "beef、veal 夹进 before、behind。前后既是肉身空间，也可牵时间；meat 又贴德语 mit。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-volumes",
+      "lemma": "Your feats end enormous, your volumes immense,",
+      "kind": "wordplay",
+      "text": "feats／feet 与 volumes 的成就、脚步、卷帙、体积、音量互照；「脚也大」「嗓门更大」补足歌者口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-graces",
+      "lemma": "May the Graces I hoped for sing your Ondtship song sense!",
+      "kind": "allusion",
+      "text": "Graces 加 hoped for 回写 Gracehoper，兼有恩惠与女神群像；颂他唱出道理，紧挨节拍反问。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-salt",
+      "lemma": "Your genus its worldwide, your spacest sublime! But, Holy Saltmartin, why can't you beat time?",
+      "kind": "wordplay",
+      "text": "genus、spacest 夹属种名与空间；意语 saltamartino 是跳虫方言名，也拼入 Martino。末问既问打拍子，也问能否赢过时间，译文合为一声。",
+      "source_ids": [
+        "joyce-fp",
+        "treccani-saltamartino-419",
+        "gordon-iii1-418-419-song"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-allmen",
+      "lemma": "In the name of the former and of the latter and of their holocaust. Allmen.",
+      "kind": "allusion",
+      "text": "三项奉名呼应《马太福音》28.19 的礼式，第三项转向全燔祭。Allmen 合众人与 Amen，译「众门」。",
+      "source_ids": [
+        "joyce-fp",
+        "usccb-matthew-baptism-419",
+        "jjda-iii1-l39pc-416"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-explosition",
+      "lemma": "How good you are in explosition!",
+      "kind": "wordplay",
+      "text": "exposition 和 explosion 同起，评歌一开口即爆。正文「爆讲」留讲述和炸声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-volapuk",
+      "lemma": "How farflung is your fokloire and how velktingeling your volupkabulary!",
+      "kind": "wordplay",
+      "text": "民俗、词汇、叮铃与欲感并连。Gordon 听 volupkabulary 夹 Volapük，国家图书馆另核语种背景。中文保沃拉普克近声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "onb-esperanto-volapuk-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-sparanto",
+      "lemma": "Qui vive sparanto qua muore contanto.",
+      "kind": "wordplay",
+      "text": "意大利谚语有「怀希望而活，唱着歌而死」的采录变体。Joyce 拧写 vive、sparanto、contanto；sparanto 近 Esperanto，亦可听射击。译文留断裂口令和拟音。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "gallesano-proverbs-419",
+        "onb-esperanto-volapuk-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-foibler",
+      "lemma": "O foibler, O flip, you've that wandervogl wail withyin!",
+      "kind": "wordplay",
+      "text": "foibler 听得寓言讲者与小毛病；flip 可取轻嘴。wandervogl 叠游鸟名声，withyin 保哭声在内。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-treacle",
+      "lemma": "It falls easily upon the earopen and goes down the friskly shortiest like treacling tumtim with its tingtingtaggle.",
+      "kind": "sound",
+      "text": "耳开便进，向下滑成喝糖浆和肚内节拍。Gordon 另联 036 页的 Frisky Shorty 与 Treacle Tom，后者留「糖浆汤姆」一声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-corney",
+      "lemma": "The blarneyest blather in all Corneywall!",
+      "kind": "wordplay",
+      "text": "blarney 连花言、blather 连胡扯，Corneywall 将 Cornwall 谐成俚声。「康尼沃尔」留地名偏音。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-lettrechaun",
+      "lemma": "decent Lettrechaun, we knew (to change your name of not your nation) while still in the barrel",
+      "kind": "wordplay",
+      "text": "Lettrechaun 合信字与小妖，话还扣着桶中人。第11层写 if not，稿段见证用 of not。括语仍保姓名与国族对照。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "jjda-iii1-pdd11-419",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-anaglyptics",
+      "lemma": "read the strangewrote anaglyptics of those shemletters patent for His Christian's Em?",
+      "kind": "wordplay",
+      "text": "anaglyptics 指凸纹，Shem 与 letters 同在；letters patent 可借听专利诰书，Em 的全称未定。正文留作拟称。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-419-greek",
+      "lemma": "—Greek! Hand it to me!",
+      "kind": "structure",
+      "text": "Greek 后紧接索信，中间无叙述插话；希腊语也可作难懂话。Gordon 另接 glyph 的希腊词根。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-quill",
+      "lemma": "plosively pointing to the cinnamon quistoquill behind his acoustrolobe",
+      "kind": "sound",
+      "text": "plosively 兼爆破音，cinnamon 是桂皮色，quistoquill 留鹅笔和拟问音，acoustrolobe 贴听觉与耳垂。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-pope",
+      "lemma": "as afterdusk nobly Roman as pope and water could christen me",
+      "kind": "wordplay",
+      "text": "入暮罗马身分借教皇和水洗来，pope 也擦声 soap，把洗礼拉到洗澡。中文留教皇加水。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-larynx",
+      "lemma": "Look at that for a ridingpin! I am, thing Sing Larynx, letter potent",
+      "kind": "wordplay",
+      "text": "ridingpin 可听 writing pen，唱嗓接写笔。第11层合写 letterpotent，稿段分写；Sing Larynx 留叫名和歌喉。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pdd11-419",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-oscan",
+      "lemma": "play the sem backwards like Oscan wild",
+      "kind": "allusion",
+      "text": "sem 近 Shem、same，又可与右向左书写并读。Oscan wild 兼王尔德拟名与 Oscan 语言声。Helen Sword 将邻近讥语联系通灵出版物；此处直接引用关系未定。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "nli-psychic-wilde-419",
+        "sword-dowden-wilde-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-otherman",
+      "lemma": "in shunt Persse transluding from the Otherman or off the Toptic",
+      "kind": "wordplay",
+      "text": "Persse、Otherman、Toptic 擦过波斯、奥斯曼和科普特。第11层明写 Ottoman，可核演变；transluding 将翻译混游戏，暂译「译戏」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "jjda-iii1-pdd11-419",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-types",
+      "lemma": "off the types of my finklers in the draught or with buttles, with my oyes thickshut and all.",
+      "kind": "wordplay",
+      "text": "types 连字模、finklers 近 fingers，draught 可听草稿又可同瓶装对读。闭紧双眼仍能弄字，照录那股自夸。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-hellas",
+      "lemma": "But, hellas, it is harrobrew bad on the corns and callouses.",
+      "kind": "wordplay",
+      "text": "hellas 兼叹声 alas 与希腊；harrobrew 近 Hebrew、harrow 和 brew。难懂语言落到脚上鸡眼硬茧，中文留咯痛。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-languages"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-theodicy",
+      "lemma": "from theodicy re'furloined notepaper",
+      "kind": "allusion",
+      "text": "theodicy 是神义论，又贴 The Odyssey；Gordon 以失窃信笺联 Poe 题名。furloined 另带卷束，保「卷走」和「失窃」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "poe-purloined-letter-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-pay-gay",
+      "lemma": "for indeed I am, pay Gay, in juxtaposition",
+      "kind": "wordplay",
+      "text": "pay Gay 可听字母 P.G.。Gordon 引 McHugh 作邮务总长联想，并读出地位声。正文拟人名，兼留所在位子。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-cabbis",
+      "lemma": "It is a pinch of scribble, not wortha bottle of cabbis.",
+      "kind": "wordplay",
+      "text": "pinch 使潦草字成一撮，cabbis 近卷心菜。Gordon 读 bottle 可指扎起的一束，旧译残汁欠据。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-overdrawn",
+      "lemma": "Overdrawn! Puffedly offal tosh!",
+      "kind": "sound",
+      "text": "透支也像过度描摹。puffedly、offal、tosh 等声逐拍喷出；末标点稿段依 Faded Page 的叹号，JJDA 1939 转录为点号。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-auction",
+      "lemma": "Besides its auctionable, all about crime and libel!",
+      "kind": "wordplay",
+      "text": "auctionable 近拍卖，亦擦过 actionable（可起诉）；两路接估价及诽谤。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-secondclass",
+      "lemma": "Nothing beyond clerical horrors et omnibus to be entered for the foreign as secondclass matter.",
+      "kind": "wordplay",
+      "text": "clerical 可指教士或文书，拉丁状补语添分类语气；secondclass 同落邮类与品级。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-419-lucan",
+      "lemma": "The fuellest filth ever fired since Charley Lucan's.",
+      "kind": "allusion",
+      "text": "多枚 f 起声，fuellest 使污物宜燃。Charley Lucan 近 Charles Lucas；《爱尔兰传记辞典》记其文字曾公开焚烧。正文留拟名与焚文，具体指涉仍属读法。",
+      "source_ids": [
+        "joyce-fp",
+        "dib-esdall-lucas-fire-419",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-flummery",
+      "lemma": "Flummery is what I would call it if you were to ask me to put it on a single dimension",
+      "kind": "wordplay",
+      "text": "flummery 兼糊状食物、空话。single dimension 把评语压成一线；后连 pronounced、orally，维持肖恩口述姿态。",
+      "source_ids": [
+        "joyce-fp"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-unnamed",
+      "lemma": "the mother and Mr Unmentionable (O breed not his same!) has reduced to writing without making news out of my sootynemm.",
+      "kind": "wordplay",
+      "text": "两位写下废料，括语咒再生同种。sootynemm 带煤灰、名字，亦可听城市名。早稿见 sootyname，后层改 sootynemm。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "jjda-iii1-pdd9-420",
+        "jjda-iii1-pdd11-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-couch",
+      "lemma": "When she slipped under her couchman.",
+      "kind": "wordplay",
+      "text": "couchman 让 couch 和 coachman 重叠。保她滑到身底，译文以「卧榻车夫」留两具场景。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-peep",
+      "lemma": "And where he made a cat with a peep.",
+      "kind": "wordplay",
+      "text": "片语压短，以猫与窥眼拼动作。具体牵出何种人物或俗语仍存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-420-madges",
+      "lemma": "How they wore two madges on the makewater. And why there were treefellers in the shrubrubs.",
+      "kind": "wordplay",
+      "text": "madges 擦过 badges 和女名，makewater 可读放水，treefellers 带砍树者、三汉及三叶草。保二三相继及灌丛，删旧译自行增写的溺水。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-handmud",
+      "lemma": "Then he hawks his handmud figgers from Francie to Fritzie down in the kookin.",
+      "kind": "wordplay",
+      "text": "hawks 是兜售，handmud figgers 可作手泥人、图画或手势。保从弗朗西到弗里茨及灶下方位。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "jjda-iii1-pdd9-420"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-parents",
+      "lemma": "Phiz is me mother and Hair's me father. Bauv Betty Famm and Pig Pig Pike.",
+      "kind": "wordplay",
+      "text": "phiz 指脸相，Hair 可听毛发与 Herr。Gordon 另提画师 Phiz 与《画像》开头毛脸父亲。后两名保拟音及 Pig 的重唱，不坐实身分。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-stayne",
+      "lemma": "Their livetree (may it flourish!) by their ecotaph (let it stayne!).",
+      "kind": "structure",
+      "text": "活树与拟碑邻立，ecotaph 擦过 cenotaph、epitaph 和回声。Knuth 释 stayne 作留立，与活树祝愿对排。",
+      "source_ids": [
+        "joyce-fp",
+        "knuth-stayne-420",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-comme",
+      "lemma": "With balsinbal bimbies swarming tiltop. Comme bien, Comme bien! Feefeel! Feefeel!",
+      "kind": "sound",
+      "text": "balsinbal／bimbies 连唇声，先写成群上梢。Comme bien 近问价，Feefeel 可听费用或嫌恶。译文保叠唱，各字根仍待核。",
+      "source_ids": [
+        "joyce-fp",
+        "knuth-stayne-420"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-420-barec",
+      "lemma": "And the Dutches dyin loffin at his pon peck de Barec.",
+      "kind": "wordplay",
+      "text": "Dutches 近 duchess，又有 Dutch 声；dyin loffin 可听笑死。第9层稿见 Baree，刊文 Barec，先依音留称呼。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pdd9-420",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-420-wot",
+      "lemma": "And all the mound reared. Till he wot not wot to begin he should.",
+      "kind": "sound",
+      "text": "先拱起土丘，再两挫 wot。他不知从何说起，译文复写两遍「不晓得」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-eggs",
+      "lemma": "An infant sailing eggshells on the floor of a wet day would have more sabby.",
+      "kind": "allusion",
+      "text": "Gordon 举 Carleton 叙儿童在潮湿地板放蛋壳船为对照，已核扫描所载动作。sabby 近 savvy，保小孩胜一筹的讥评。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-419-420-accusations",
+        "carleton-eggshells-420"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-carried",
+      "lemma": "Letter, carried of Shaun, son of Hek, written of Shem, brother of Shaun, uttered for Alp, mother of Shem, for Hek, father of Shaun.",
+      "kind": "syntax",
+      "text": "先携，次写，再替／给发话、收信。of 与 for 的归属均有游移；译文保各人亲属身份。第11层尚无 uttered。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "jjda-iii1-pdd11-419",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-gee",
+      "lemma": "Initialled. Gee. Gone. 29 Hardware Saint.",
+      "kind": "wordplay",
+      "text": "Gee 既像惊声又读 G，接 Gone。Hardware Saint 借 St. 混街与圣，短戳分开。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-date",
+      "lemma": "31 Jan. 1132 a.d. Here Commerces Enville.",
+      "kind": "wordplay",
+      "text": "保完整日期。Commerces 混 commerce 与 commences，Enville 近法语城内。第11层日期为 31 Jun, 11.32，通行形改月及数字。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-pdd11-419",
+        "jjda-iii1-l39pd-419",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-gallows",
+      "lemma": "Tried Apposite House. 13 Fitzgibbets.",
+      "kind": "wordplay",
+      "text": "Tried 兼试投、审判；Apposite 近 opposite。Fitzgibbets 擦过 Fitzgibbon 姓及 gibbet 绞架，保门牌和刑具声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-postabbr",
+      "lemma": "Tax 9d. B.L. Guineys, esqueer. L.B.",
+      "kind": "wordplay",
+      "text": "9d. 依旧币为九便士，B.L. 与 L.B. 保倒置。Guineys 同听几尼、人名，esqueer 叠绅士称谓与奇怪。",
+      "source_ids": [
+        "joyce-fp",
+        "royal-mint-lsd-418",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-nave",
+      "lemma": "12 Norse Richmound. Nave unlodgeable.",
+      "kind": "wordplay",
+      "text": "Norse 夹 North，Richmound 听 Richmond。Nave 兼教堂中殿与 knave，故将无处借宿两路并列。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-exbelled",
+      "lemma": "Finn's Hot. Exbelled from 1014 d. Pulldown.",
+      "kind": "allusion",
+      "text": "Exbelled 混驱逐与钟声。1014 可照克朗塔夫战年；正文保数字和拟地，具体被驱者存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "nmi-clontarf-1014-376",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-fearview",
+      "lemma": "Fearview. Opened by Miss Take. 965 nighumpledan sextiffits.",
+      "kind": "wordplay",
+      "text": "Fearview 近地名 Fairview；误拆之后接九百六十五和夜间拟证书。数字照录，sextiffits 形源待核。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-420-dunlop",
+      "lemma": "Shout at Site. Roofloss. Fit Dunlop and Be Satisfied.",
+      "kind": "structure",
+      "text": "场址、失顶与广告口号相接。Dunlop 牌名保留，博物馆藏充气轮胎可证品牌业务，句内商品仍容别解。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "nms-dunlop-394"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-ded",
+      "lemma": "At sea. D.E.D. Place scent on. Clontalk.",
+      "kind": "wordplay",
+      "text": "D.E.D. 可听 dead，scent 近 cent 且为气味。Clontalk 以 talk 扭写附近 Clontarf，地名释读置于注。",
+      "source_ids": [
+        "joyce-fp",
+        "logainm-clontarf-353",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-march",
+      "lemma": "P.V. Arrusted. J.P. Converted to Hospitalism. Ere the March past of Civilisation.",
+      "kind": "wordplay",
+      "text": "缩记留原样，Arrusted 混逮捕与生锈。march past 可指列队经过，又带文明进程及三月声。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pd-419",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-milch",
+      "lemma": "2 Milchbroke. Wrongly spilled. Traumcondraws. Now Bunk of England's.",
+      "kind": "wordplay",
+      "text": "Milch 带奶，spilled 兼洒与 spelled。Traum 带梦，Bunk 近 Bank，译文保提款、银行与空铺。街址所指存疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-420-laffey",
+      "lemma": "Drowned in the Laffey. Here. The Reverest Adam Foundlitter.",
+      "kind": "wordplay",
+      "text": "Laffey 兼笑与利菲，Foundlitter 兼拾信、拾弃，并可连 Findlater，保两个拟语。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-420-buy",
+      "lemma": "Since Cabranke. Seized of the Crownd. Well, Sir Arthur. Buy",
+      "kind": "structure",
+      "text": "Cabranke 听见候车处；Crownd 同听王冠及人群。Buy 是跨页广告的首字，需与下一稿段 Patersen’s Matches 连读。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "jjda-iii1-l39pd-419"
       ],
       "certainty": "proposal"
     }
@@ -3796,6 +6172,345 @@
         "joyce-fp"
       ],
       "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-421-patersen",
+      "lemma": "Patersen's Matches. Unto his promisk hands.",
+      "kind": "structure",
+      "text": "上一稿段 Buy 与此处牌名合成广告。promisk 近 promise 和 promiscuous，下一批语保两层。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-male",
+      "lemma": "Search Unclaimed Male. House Condamned by Ediles.",
+      "kind": "wordplay",
+      "text": "邮务未领邮件与无人认领男子叠合。危房公告紧接，保市政官口吻。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-repeers",
+      "lemma": "Closet for Repeers. 60 Shellburn. Key at Kate's. Kiss.",
+      "kind": "wordplay",
+      "text": "Repeers 同听 repairs 和 re-pee。门牌、钥匙、亲吻连写，后两项还回响凯特保钥。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-butt",
+      "lemma": "Isaac's Butt, Poor Man. Dalicious arson.",
+      "kind": "allusion",
+      "text": "巴特人名、利菲河巴特桥和屁股成串，arson 又近 arse。桥档案仅核地点；此处仍留纵火与拟称。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "niah-dublin-butt-bridge"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-kain",
+      "lemma": "Justiciated. Kainly forewarred.",
+      "kind": "allusion",
+      "text": "拟法办批记之后，kindly／Cain、forewarned／war 抢声，回到该隐兄弟冲突。",
+      "source_ids": [
+        "joyce-fp",
+        "bible-genesis-4-usccb",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-red",
+      "lemma": "All reddy berried. Hollow and eavy.",
+      "kind": "wordplay",
+      "text": "already buried 同红莓错响；后组既是中空、沉重，又似圣诞冬青与常春藤。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-postage",
+      "lemma": "Overwayed. Understrumped. Back to the P.O. Kaer of.",
+      "kind": "wordplay",
+      "text": "超重、欠票、退邮局依序排。Kaer of 近 care of，并照开篇凯特转钥声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-soiled",
+      "lemma": "Too Let. To Be Soiled. Cohabited by Unfortunates.",
+      "kind": "wordplay",
+      "text": "招租、出售广告变成厕所和污物，住户语含困厄与同居两层。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-bouf",
+      "lemma": "His Bouf Toe is Frozen Over.",
+      "kind": "wordplay",
+      "text": "肥胀脚趾旁听 beef tea。保冻住的脚趾及牛汤近声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-pd",
+      "lemma": "31 Jun. 13, 12. P.D. Razed. Lawyered. Vacant. Mined.",
+      "kind": "wordplay",
+      "text": "六月三十一日不可能，数字故依见证分写。Razed／Lawyered 可听 raised／lowered，又转拆楼与司法。P.D. 留缩记。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-bay",
+      "lemma": "Here's the Bayleaffs. Step out to Hall out of that, Ereweaker, with your Bloody Big Bristol.",
+      "kind": "sound",
+      "text": "Bayleaffs 同月桂叶和执行法警，Ereweaker 近 Earwicker 又耳弱。Bristol 可接酒桶等读法，正文顺下文桶塞声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-421-stop",
+      "lemma": "Bung. Stop. Bung. Stop. Cumm Bumm. Stop. Came Baked to Auld Aireen. Stop.",
+      "kind": "sound",
+      "text": "同有桶塞、叩门和电报 STOP，末组兼 back、baked、醉返。五组拟节奏贴四次「止」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-420-421-postal",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-kind",
+      "lemma": "—Kind Shaun, we all requested, much as we hate to say it,",
+      "kind": "structure",
+      "text": "先礼称，再说难以开口。requested 兼请问与请求，保问话的客气外壳。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-money",
+      "lemma": "since you rose to the use of money",
+      "kind": "wordplay",
+      "text": "套用懂得用理性的说法，改成懂得用钱。与前文问及金币、邮务生计照应。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-slanga",
+      "lemma": "without suggesting for an instant, millions of moods used up slanguage tun times as words",
+      "kind": "sound",
+      "text": "遮掩话、「百千万回」、俚语与酒桶挤在同一句。moods 兼语气，tun 近 ten，又是大桶，补「成桶十倍」。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-sinscript",
+      "lemma": "as the penmarks used out in sinscript with such hesitancy by your cerebrated brother—excuse me not mentioningahem?",
+      "kind": "wordplay",
+      "text": "笔迹跟口语计量，sinscript 夹罪与文体，cerebrated 兼动脑和被称颂。mentioningahem 以清喉替不提的人，保咳声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-celebrated",
+      "lemma": "—CelebrAted! Shaun replied under the sheltar of his broguish",
+      "kind": "wordplay",
+      "text": "肖恩复述时把 cerebrated 扳成 CelebrAted，中字母突显纠声。sheltar／broguish 可听乡音与遮蔽；音形也可带粗鞋联想。",
+      "source_ids": [
+        "joyce-fp",
+        "jjda-iii1-l39pd-419",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-lantern",
+      "lemma": "vigorously rubbing his magic lantern to a glow of fullconsciousness.",
+      "kind": "structure",
+      "text": "用力擦亮魔灯，灯光和神志同时转亮。后文拟人名又引提灯者，不把两灯认作同物。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "laertius-diogenes-421"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-hecitency",
+      "lemma": "HeCitEncy! Your words grates on my ares.",
+      "kind": "wordplay",
+      "text": "上句 hesitancy 变声，内嵌 H、C、E。ares 擦过 ears 与 arse，把刺耳牵向粗口。译文补耳和屁股。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-draper",
+      "lemma": "Notorious I rather would feel inclined to myself in the first place to describe Mr O'Shem the Draper with before letter",
+      "kind": "allusion",
+      "text": "Notorious 置首，顶替先前 CelebrAted。布商名唤起 Swift 署名 Drapier；before letter 可读前述信及前缀 O。",
+      "source_ids": [
+        "joyce-fp",
+        "swift-drapier-halfpence-414",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-diagnosis",
+      "lemma": "as should I be accentually called upon for a dieoguinnsis to pass my opinions, properly spewing, into impulsory irelitz.",
+      "kind": "wordplay",
+      "text": "语音与诊断俱在；dieoguinnsis 近 diagnosis、Diogenes 与 Guinness。拉尔修载提灯、住瓮，供与魔灯、酒桶邻读。irelitz 可听 Irish 和语言班；impulsory 兼冲动与强制。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "laertius-diogenes-421"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-denmark",
+      "lemma": "as to the views of Denmark. No, sah!",
+      "kind": "wordplay",
+      "text": "Denmark 也像把 penmarks 听岔，Gordon 又对照 293.12 地名。保丹麦和口头拒答，未定所指见解。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-gee",
+      "lemma": "before my high Gee is that I much doubt of it.",
+      "kind": "sound",
+      "text": "high Gee 可听音高 G 与对上主起誓，回声邮签 Gee／Gone。自称全信，尾句却深疑。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-roast",
+      "lemma": "I've no room for that fellow on my fagroaster, I just can't.",
+      "kind": "wordplay",
+      "text": "Gordon 读寄宿学校跑腿名册，roaster 添烤灼声。第15层分句，通行稿逗号叠喘，译文短句留重复。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-pdd15-421"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-421-agencies",
+      "lemma": "learn from Rooters and Havers through Gilligan's maypoles",
+      "kind": "allusion",
+      "text": "Gordon 读收听新闻；Rooters／Havers 擦过 Reuters／Havas，机构资料只核名称史。报杆转出天线声，Gilligan 所指未定。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "reuters-history-421",
+        "afp-havas-421"
+      ],
+      "certainty": "uncertain"
+    },
+    {
+      "id": "iii1-421-doodler",
+      "lemma": "a nice pathetic notice he, the pixillated doodler, is on his last with illegible clergimanths boasting always of his ruddy complexious!",
+      "kind": "wordplay",
+      "text": "pixillated 可取昏醉、疯癫。第15层用 clergimanitis，通行改 clergimanths，疾病、教士与读不清混入脸红自夸。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-pdd15-421",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-422-mammy",
+      "lemma": "She, the mammy far, was put up to it by him, the iniquity that ought to be depraved of his libertins",
+      "kind": "syntax",
+      "text": "被撺掇者是母亲，撺掇者接祸根；depraved 近 deprived，libertins 混自由与放荡。跨页处分延续同一人。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-pdd15-421"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-422-irons",
+      "lemma": "to be silenced, sackclothed and suspended, and placed in irons",
+      "kind": "structure",
+      "text": "堵嘴、麻衣、悬停与上镣依次接。suspended 可听停职和吊挂，正文并留。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
+    },
+    {
+      "id": "iii1-422-censor",
+      "lemma": "into some drapyery institution off the antipopees for wordsharping only if he was klanver enough to pass the panel fleischcurers and the fieldpost censor. Gach!",
+      "kind": "wordplay",
+      "text": "布商继续出现在拟机构里，antipopees 合对跖与反教皇。wordsharping 贴削笔与磨词，panel 近 penal，fleischcurers 夹肉与腌治。末句为勉强闯关条件，Gach 单作厌声。",
+      "source_ids": [
+        "joyce-fp",
+        "gordon-iii1-421-422-reply",
+        "jjda-iii1-pdd15-421",
+        "jjda-iii1-l39pd-419"
+      ],
+      "certainty": "proposal"
     }
   ],
   "fw-iii1-425-01": [
