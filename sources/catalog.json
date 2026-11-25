@@ -8393,7 +8393,7 @@
     "url": "https://www.confessio.ie/etexts/confessio_english",
     "type": "primary",
     "accessed": "2026-11-19",
-    "use": "核第50节自述为成千上万人施洗。"
+    "use": "核第50节自述为成千上万人施洗。 续核第23节 Voclut 林与地名编者注。"
   },
   {
     "id": "mcusa-anabaptism-1525-388",
@@ -13386,5 +13386,1021 @@
     "type": "primary",
     "accessed": "2026-11-20",
     "use": "核航海炖食常用肉、菜及硬饼，允许做法变化。"
+  },
+  {
+    "id": "gordon-iii2-467-468-latin-road",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（467.19–468.04）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读泻日记、口吃、授帽、大学词声、罗马名串与弱强标记。"
+  },
+  {
+    "id": "livy-book-i-467",
+    "title": "Livy，History of Rome，卷一，Project Gutenberg 英译",
+    "url": "https://www.gutenberg.org/cache/epub/19725/pg19725-images.html",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 Rhea、Romulus、Ancus Marcius 及诸 Tarquinius，区分罗马叙述与小说的连名声形。"
+  },
+  {
+    "id": "usccb-matthew12-participle-467",
+    "title": "USCCB，《马太福音》12.31–32",
+    "url": "https://bible.usccb.org/bible/matthew/12",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核冒犯圣灵题，供小说过去分词罪与同音语对读。"
+  },
+  {
+    "id": "gordon-iii2-468-gesture",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（468.05–19）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读课语、格律、动欲双关及听看关系。"
+  },
+  {
+    "id": "kjv-john1-word-flesh-468",
+    "title": "《约翰福音》1.1–14，King James Version",
+    "url": "https://www.biblegateway.com/passage/?search=John%201%3A1-14&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 1.1 的起句与 1.14 言成肉身。"
+  },
+  {
+    "id": "jousse-style-oral-contents-468",
+    "title": "Marcel Jousse，Le Style oral rythmique et mnémotechnique chez les verbomoteurs（1925），目录",
+    "url": "https://classiques.uqam.ca/classiques/jousse_marcel/Style_oral_verbo_moteurs/style_oral_tdm.html",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核目录所列手势、口腔与喉头动作及口语节奏诸题。查阅限目录。"
+  },
+  {
+    "id": "jjda-iii2c-l39qc-468",
+    "title": "James Joyce Digital Archive，III.2C 初版转录 468.20–469.01",
+    "url": "https://jjda.ie/f/flex/qc/l39qc.htm",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核落幕语、独白及 hoaring／ho. 跨页边界。"
+  },
+  {
+    "id": "jjda-iii2c-qc10-468",
+    "title": "James Joyce Digital Archive，III.2C 1939／2010 比较 468.20–469.01",
+    "url": "https://jjda.ie/f/flex/qc/qc10.htm",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 ay／at、by／my、行末标点及 Bansheeba 前撇号。"
+  },
+  {
+    "id": "gordon-iii2-468-curtain",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（468.20–469.01）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读告别词、钟表、飞牙、板球及荒原女巫候选。"
+  },
+  {
+    "id": "treccani-sipario-468",
+    "title": "Treccani，sipario 条",
+    "url": "https://www.treccani.it/vocabolario/sipario/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核戏剧幕帘与落幕呼喊义。"
+  },
+  {
+    "id": "folger-cymbeline-dust-468",
+    "title": "莎士比亚《辛白林》4.2，Folger",
+    "url": "https://www.folger.edu/explore/shakespeares-works/cymbeline/read/4/2/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核悼歌反复出现的 must 与 come to dust。"
+  },
+  {
+    "id": "perseus-vergil-tempus-468",
+    "title": "维吉尔《农事诗》3.284，Perseus 拉丁文",
+    "url": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0690.phi002.perseus-lat2:3/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核飞逝时光原句，供 Tempos fidgets 对读。"
+  },
+  {
+    "id": "teanglann-fiacail-468",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，fiacail 条",
+    "url": "https://www.teanglann.ie/en/fgb/fiacail",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核齿义与复数 fiacla。"
+  },
+  {
+    "id": "mcc-grace-lords-468",
+    "title": "Marylebone Cricket Club，W. G. Grace 首次在 Lord’s 出赛",
+    "url": "https://www.lords.org/lords/our-history/father-time-wall/1864-w-g-grace-plays-at-lord-s-for-the-first-time",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 Grace 人物、板球背景。"
+  },
+  {
+    "id": "gellius-androclus-468",
+    "title": "奥卢斯·格利乌斯《阿提卡之夜》5.14，LacusCurtius 英译",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Gellius/5%2A.html",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核安德罗克勒斯给狮子治爪与同食的故事。"
+  },
+  {
+    "id": "folger-macbeth-heath-468",
+    "title": "莎士比亚《麦克白》1.1，Folger",
+    "url": "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/1/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核女巫约在荒原相会的台词。"
+  },
+  {
+    "id": "gordon-iii2-469-ride",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（469.01–18）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "查四元素、七丘、沃利赌旅、马步及河船混名。"
+  },
+  {
+    "id": "teanglann-meanoiche-469",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，meán oíche 检索",
+    "url": "https://www.teanglann.ie/en/fgb/me%C3%A1n_o%C3%ADche",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核所列词例的午夜义。"
+  },
+  {
+    "id": "celt-keating-banbha-469",
+    "title": "Geoffrey Keating，《爱尔兰史》，CELT 英译",
+    "url": "https://celt.ucc.ie/document/T100054/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核书中以 Banbha 称爱尔兰的命名传说。"
+  },
+  {
+    "id": "ovid-icarus-469",
+    "title": "奥维德《变形记》卷八，伊卡洛斯段，Brookes More 英译",
+    "url": "https://www.theoi.com/Text/OvidMetamorphoses8.html",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核升飞、烈日与落海段落，供四元素和失足句对读。"
+  },
+  {
+    "id": "whaley-memoirs-wager-469",
+    "title": "Thomas Whaley，《Buck Whaley 回忆录》，1906 年刊本第 34–35 页",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Buck_Whaley%27s_Memoirs_-_including_his_journey_to_Jerusalem_%28IA_buckwhaleysmemoi00whaliala%29.pdf",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核环游计划及两年内往返耶路撒冷与都柏林的赌约，所核页未述击球。"
+  },
+  {
+    "id": "sephton-eirik-vinland-469",
+    "title": "《红发埃里克萨迦》，J. Sephton 英译，Project Gutenberg",
+    "url": "https://www.gutenberg.org/cache/epub/17946/pg17946-images.html",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核莱夫与文兰一节的地名；不据此确定小说地理。"
+  },
+  {
+    "id": "gordon-iii2-469-takeoff",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（469.18–28）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读登船、独飞、口哨及临行烟声。"
+  },
+  {
+    "id": "folger-macbeth-lay-on-469",
+    "title": "莎士比亚《麦克白》5.8，Folger",
+    "url": "https://www.folger.edu/explore/shakespeares-works/macbeth/read/5/8/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核麦克白向麦克德夫挑战及诅咒先求停手者的两行原话。"
+  },
+  {
+    "id": "si-lindbergh-solo-469",
+    "title": "Smithsonian，Ryan NYP Spirit of St. Louis 馆藏记录",
+    "url": "https://www.si.edu/object/nasm_A19280021000",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "核林德伯格 1927 年单人跨大西洋飞行，供 Gordon 所提名字联想。"
+  },
+  {
+    "id": "kew-thames-pier-469",
+    "title": "Royal Botanic Gardens, Kew，交通页",
+    "url": "https://www.kew.org/kew-gardens/visit-kew-gardens/getting-here",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "只核 Kew 地名与泰晤士河码头地理，未考小说时代航线。"
+  },
+  {
+    "id": "gordon-iii2-470-choir",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（469.29–470.12）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读人数、手套、车马、泪池及合唱；另查 471 页条转引的 Budgen 通信。"
+  },
+  {
+    "id": "duchas-february-filldyke-470",
+    "title": "National Folklore Collection，The Month of February，CBÉ 0172 页309",
+    "url": "https://www.duchas.ie/en/cbe/9000626/7084412/9061950",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "核 1936 年韦克斯福德采录的二月填沟谚；据网页英文转录。"
+  },
+  {
+    "id": "ls-triga-470",
+    "title": "Lewis & Short，triga 条，Logeion",
+    "url": "https://logeion.org/triga",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核三马挽车及三马组义。"
+  },
+  {
+    "id": "ls-bigae-469",
+    "title": "Lewis & Short，bigae 条",
+    "url": "https://alatius.com/ls/index.php?l=bigarum",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核两马组及双马挽车义。"
+  },
+  {
+    "id": "carroll-tears-470",
+    "title": "Lewis Carroll，《爱丽丝漫游奇境》第二章，Standard Ebooks",
+    "url": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel/text/chapter-2",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核爱丽丝落入自己泪池。网页 XHTML 用直接请求核对。"
+  },
+  {
+    "id": "kjv-acts-dorcas-470",
+    "title": "《使徒行传》9.36–42，King James Version",
+    "url": "https://www.biblegateway.com/passage/?search=Acts%209%3A36-42&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核多加别名、哀泣及坐起等词情。"
+  },
+  {
+    "id": "joyce-dead-carriage-469",
+    "title": "乔伊斯，《都柏林人·死者》，Standard Ebooks，卸马轶事",
+    "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/the-dead",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核布朗先生述观众卸下马匹、亲拉歌唱家马车。网页 XHTML 用直接请求核对。"
+  },
+  {
+    "id": "gordon-iii2-470-litany",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（470.13–21）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读交替呼声、植物、双关与布朗宁候选。"
+  },
+  {
+    "id": "vulgate-sirach-plants-470",
+    "title": "拉丁《武加大译本》，《德训篇》24.17–19",
+    "url": "https://www.biblegateway.com/passage/?search=Ecclesiasticus+24%3A17-19&version=VULGATE",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核香柏、丝柏、棕榈、玫瑰、橄榄与悬铃木的排列和地名。"
+  },
+  {
+    "id": "joyce-portrait-ch3-cedrus-470",
+    "title": "乔伊斯，《青年艺术家的画像》第三章，Standard Ebooks",
+    "url": "https://standardebooks.org/ebooks/james-joyce/a-portrait-of-the-artist-as-a-young-man/text/chapter-3",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "用直接请求核到讲道引 Quasi cedrus 及后续五种植物。"
+  },
+  {
+    "id": "browning-pippa-morning-470",
+    "title": "Robert Browning，《皮帕走过》第一场，Wikisource",
+    "url": "https://en.wikisource.org/wiki/Pippa_Passes/I",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核皮帕唱歌路过与奥蒂玛、塞巴尔德场面相邻。"
+  },
+  {
+    "id": "standrews-mcbride-litany-470",
+    "title": "University of St Andrews，The Elucidation of Complications，III.2 页470.15–20 收 Margaret McBride 摘引",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/bk_3_ch_2.html",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "仅核索引摘引指向圣母升天节经课解读，未核全文。"
+  },
+  {
+    "id": "gordon-iii2-470-yellow-label",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（470.22–471.05）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "读起跳、末号、椭圆黄签、告退与和平喊名；核其引用通信的范围。"
+  },
+  {
+    "id": "jjda-joyce-weaver-19280808",
+    "title": "James Joyce 致 Harriet Shaw Weaver，1928-08-08，JJDA 数字转录摘段",
+    "url": "https://jjda.ie/f/ff/fbiog/fwlett.htm",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "核所录两段关于马龙派礼仪、交替哀歌及二十九声和平喊名；查阅限转录。"
+  },
+  {
+    "id": "guinness-buff-oval-label-470",
+    "title": "Guinness Storehouse，Guinness Yellow Label，馆方标签说明",
+    "url": "https://shop.guinness-storehouse.com/products/guinness-yellow-label-metal-sign",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核厂方对浅黄褐色椭圆瓶标的说明，只作物件旁证。"
+  },
+  {
+    "id": "awm-last-post-470",
+    "title": "Australian War Memorial，The Last Post",
+    "url": "https://www.awm.gov.au/commemoration/customs-and-ceremony/last-post",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核收操及军葬号音含义。"
+  },
+  {
+    "id": "gordon-iii2-471-departure",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（471.05–29）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读重新平衡、两埃丝特、飞帽、桥路、快足及邮包船。"
+  },
+  {
+    "id": "borsalino-museum-hats-471",
+    "title": "Borsalino Museum，The Story",
+    "url": "https://borsalinomuseum.com/en/the-museum/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核帽名与早期毡帽背景，未认定小说所指为特定款。"
+  },
+  {
+    "id": "dsl-shanks-mare-471",
+    "title": "Scottish National Dictionary，shank 条",
+    "url": "https://dsl.ac.uk/entry/snd/shank",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 Shanks’s mare 指用两腿步行的惯用语。"
+  },
+  {
+    "id": "faclair-gearran-471",
+    "title": "Am Faclair Beag，gearran 条",
+    "url": "https://www.faclair.com/?txtSearch=Gearran",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核苏格兰盖尔语 gearran 的马、工作马义。"
+  },
+  {
+    "id": "teanglann-buachaill-471",
+    "title": "Ó Dónaill，Foclóir Gaeilge–Béarla，buachaill 条",
+    "url": "https://www.teanglann.ie/en/fgb/buachaill",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 boy、lad 等义，供 bouchal 音形对读。"
+  },
+  {
+    "id": "gordon-iii2-471-472-valediction",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（471.30–472.14）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读双声告别、摇篮、钱币、乐器和旧歌。"
+  },
+  {
+    "id": "sandulescu-scandinavian-471",
+    "title": "C. George Sandulescu，A Lexicon of Common Scandinavian in Finnegans Wake，页126",
+    "url": "https://editura.mttlc.ro/carti/sandulescu-lexicon-scandinavian-fw.pdf",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "核 471.33–34 两条丹麦语辨音和英释。"
+  },
+  {
+    "id": "folger-merry-wives-sackerson-471",
+    "title": "莎士比亚《温莎的风流娘儿们》1.1，Folger",
+    "url": "https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/1/1/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核场上熊名 Sackerson。"
+  },
+  {
+    "id": "lsa-theorbo-472",
+    "title": "Lute Society of America，Theorbo or Chitarrone",
+    "url": "https://lutesocietyofamerica.org/about/instruments/theorbo-or-chitarrone/",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核该鲁特琴的延长琴颈及低音弦。"
+  },
+  {
+    "id": "joyce-tower-feis-ceoil-472",
+    "title": "James Joyce Tower，1904-05-17 Freeman’s Journal 馆藏说明",
+    "url": "https://joycetower.ie/collection/artefacts/jtaa_0236-the-freemans-journal-17-may",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "仅核馆方说明所载 1904 年歌赛及乔伊斯参唱，曲目据 Gordon 等注解线索。"
+  },
+  {
+    "id": "gordon-iii2-472-light",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（472.14–27）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读末先、光声、邮筒、提灯与灯焰说话。"
+  },
+  {
+    "id": "usccb-matthew20-last-first-472",
+    "title": "《马太福音》20.16，USCCB",
+    "url": "https://bible.usccb.org/bible/matthew/20",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核末者居先、先者居末的倒序。"
+  },
+  {
+    "id": "bell-photophone-patent-472",
+    "title": "Alexander Graham Bell，US235199A，光声装置专利",
+    "url": "https://patents.google.com/patent/US235199A/en",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核原件所录 photophone 名称及光束与声音关联；供 Gordon 假说旁证。"
+  },
+  {
+    "id": "mw-lucerne-472",
+    "title": "Merriam-Webster，lucerne 条",
+    "url": "https://www.merriam-webster.com/dictionary/lucerne",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核苜蓿、瑞士地名及拉丁油灯词形。"
+  },
+  {
+    "id": "kjv-luke2-great-joy-472",
+    "title": "《路加福音》2.10，King James Version",
+    "url": "https://www.biblegateway.com/passage/?search=Luke%202%3A10&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核天使向众人报大喜讯的英文措辞。"
+  },
+  {
+    "id": "gordon-iii2-473-close",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（472.28–473.25）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读归来、日期、赛程与升日。"
+  },
+  {
+    "id": "kjv-matthew24-hour-473",
+    "title": "《马太福音》24.36，KJV",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew%2024%3A36&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核无人知那日那时的经句。"
+  },
+  {
+    "id": "kjv-john12-walk-473",
+    "title": "《约翰福音》12.35，KJV",
+    "url": "https://www.biblegateway.com/passage/?search=John%2012%3A35&version=KJV",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核趁有光行走的经句。"
+  },
+  {
+    "id": "loc-johnny-marching-473",
+    "title": "Library of Congress，When Johnny Comes Marching Home，1863 年谱本",
+    "url": "https://www.loc.gov/item/2023783068/",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "核归家歌标题及年代。"
+  },
+  {
+    "id": "duden-silvester-473",
+    "title": "Duden，Sylvester／Silvester 拼写说明",
+    "url": "https://www.duden.de/haeufige_fehler/Sylvester",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核德语 Silvester 为岁末最后一天的称呼。"
+  },
+  {
+    "id": "gem-benu-phoenix-473",
+    "title": "Global Egyptian Museum，Phoenix 条",
+    "url": "https://www.globalegyptianmuseum.org/glossary.aspx?id=296",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "核贝努鸟图像、日出与再生联想及后世凤凰传说的区别。"
+  },
+  {
+    "id": "collins-amain-473",
+    "title": "Collins English Dictionary，amain 条",
+    "url": "https://www.collinsdictionary.com/us/dictionary/english/amain",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核全力义。"
+  },
+  {
+    "id": "jjda-iii3a-1939-474",
+    "title": "James Joyce Digital Archive，III.3A 1939 年初印转录，474.01–484.10",
+    "url": "https://jjda.ie/f/flex/ra/l39ra.htm",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核开篇动作、拼写及三王到达。 续核登丘、七呼声、星体与教区。 续核人名、牵驴、巡庭与入睡。 续核初问、撒网与开口。 续核回声、信件、王威缺词及道路排句。 续核拟法语、三合名与鸟声。 续核猎犬、牡蛎与岸地发问。 续核葬船、帆船与海狼回声。 续核远航、吸乳与大嚎口令。 续核三行拟咏、梦辞和格变化。 续核父祷、祖谱、跨页基督堂。 续核金耳、辨声与禽鸟掘信。 续核对位、两手笔与帽坊。 续核自辩、修衣与供词越页。"
+  },
+  {
+    "id": "jjda-iii3a-compare-474",
+    "title": "James Joyce Digital Archive，III.3A 1939／2010 比较，474.01–484.10",
+    "url": "https://jjda.ie/f/flex/ra/ra10.htm",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核 he、and／an、upinto 与括号呼声的版次差异。 续核登丘、七呼声、星体与教区。 续核人名、牵驴、巡庭与入睡。 续核初问、撒网与开口。 续核回声、信件、王威缺词及道路排句。 续核拟法语、三合名与鸟声。 续核猎犬、牡蛎与岸地发问。 续核葬船、帆船与海狼回声。 续核远航、吸乳与大嚎口令。 续核三行拟咏、梦辞和格变化。 续核父祷、祖谱、跨页基督堂。 续核金耳、辨声与禽鸟掘信。 续核对位、两手笔与帽坊。 续核自辩、修衣与供词越页。"
+  },
+  {
+    "id": "gordon-iii3-474-opening",
+    "title": "John Gordon，Finnegans Wake Book III 随文注（474.01–20）",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii",
+    "type": "commentary",
+    "accessed": "2026-11-20",
+    "use": "参读朝圣杖、接力、薄雾气息、糖浆与歌名。"
+  },
+  {
+    "id": "oxford-treacle-474",
+    "title": "Oxford Advanced Learner’s Dictionary，treacle 条",
+    "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/treacle",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核糖浆义与旧药义。"
+  },
+  {
+    "id": "ahd-chowchow-474",
+    "title": "The American Heritage Dictionary，chow-chow 条",
+    "url": "https://www.ahdictionary.com/word/search.html?q=chow-chow",
+    "type": "primary",
+    "accessed": "2026-11-20",
+    "use": "核水果皮、姜类腌蜜饯义；chewchow 的来源仍待考。"
+  },
+  {
+    "id": "loc-home-fires-474",
+    "title": "Library of Congress，Keep the Home Fires Burning，1915 年谱本",
+    "url": "https://www.loc.gov/item/2023794362/",
+    "type": "archive",
+    "accessed": "2026-11-20",
+    "use": "核歌名、词曲署名及馆藏年代。"
+  },
+  {
+    "id": "gordon-iii3-474-475",
+    "title": "John Gordon，III.3a 随文注，474.21–475.23",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核昏晓、几何、七声复现、草木与星体解释。"
+  },
+  {
+    "id": "celt-keating-conn-esker-475",
+    "title": "Geoffrey Keating，《爱尔兰史》CELT 英译，第十二节，109–111 页",
+    "url": "https://celt.ucc.ie/published/T100054/text012.html",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核康恩分地传说与 Eisgir riadha 界线；史书所记为传统说法。"
+  },
+  {
+    "id": "ohehir-owenmore-475",
+    "title": "Brendan P. Ó Hehir，A Wake Newslitter I.5（1964），圣安德鲁斯大学摘录",
+    "url": "https://research.st-andrews.ac.uk/elucidationofcomplications/artBPOH1964.html",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核 475.06–07 对应摘录；只见相关摘文，未核全文论证。"
+  },
+  {
+    "id": "mindat-melanite-475",
+    "title": "Mindat，Melanite 条",
+    "url": "https://www.mindat.org/min-7443.html",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核 melanite 黑色钙铁榴石变种义。"
+  },
+  {
+    "id": "hansard-star-chamber-475",
+    "title": "英国议会 Hansard，WRIT OF ERROR IN THE CASE OF HART AND WHITE（1813）",
+    "url": "https://api.parliament.uk/historic-hansard/lords/1813/may/11/writ-of-error-in-the-case-of-hart-and",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核星室法庭这一历史机构及议会对其管辖权的讨论。"
+  },
+  {
+    "id": "gordon-iii3-475-476",
+    "title": "John Gordon，III.3a 随文注，475.24–476.36",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核追踪、驴、手势、巡庭、睡语及四人围床。"
+  },
+  {
+    "id": "teanglann-seanadoir-475",
+    "title": "Ó Dónaill 爱尔兰语词典，senator 反查",
+    "url": "https://www.teanglann.ie/en/fgb/senator",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核 seanadóir 为参议员。"
+  },
+  {
+    "id": "teanglann-seanoir-475",
+    "title": "Ó Dónaill 爱尔兰语词典，seanóir",
+    "url": "https://www.teanglann.ie/ga/fgb/sean%C3%B3ir",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核老人、长者及议员相关语义。"
+  },
+  {
+    "id": "cambridge-aniseed-475",
+    "title": "Cambridge Dictionary，aniseed",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/aniseed",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核为茴芹籽。"
+  },
+  {
+    "id": "iranica-bolbol-476",
+    "title": "Houshang Alam，Encyclopaedia Iranica，Bolbol i. The Bird",
+    "url": "https://www.iranicaonline.org/articles/bolbol-nightingale/i-the-bird/",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核波斯文学夜莺义及名称所涉不止一种鸟。"
+  },
+  {
+    "id": "logainm-uisneach-476",
+    "title": "Logainm，Cónra／Conry 地名档案",
+    "url": "https://www.logainm.ie/ga/2456/sub/CN",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核西米斯郡 Cnoc Uisnigh／Ushnagh Hill。"
+  },
+  {
+    "id": "cambridge-perch-476",
+    "title": "Cambridge Dictionary，perch",
+    "url": "https://dictionary.cambridge.org/dictionary/english/perch",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核 16.5 英尺长度义，另有鱼、栖杆等同形义。"
+  },
+  {
+    "id": "loc-washington-mesmer-476",
+    "title": "George Washington 致 Mesmer，1784 年 11 月 25 日，LOC 信札册",
+    "url": "https://www.loc.gov/resource/mgw2.011/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核两人关于磁术的通信；此件不证明作品所写手势。"
+  },
+  {
+    "id": "gordon-iii3-477",
+    "title": "John Gordon，III.3a 随文注，477.01–30",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核四面体、心耳、网、回溯、辩词舌音与月雾。"
+  },
+  {
+    "id": "duchas-eamonn-chnoic-477",
+    "title": "Dúchas 学校民俗档案，Hollyford，《Eamonn a’ Chnoic》",
+    "url": "https://www.duchas.ie/en/cbes/4922167/4857795/5018210",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核山上内德的爱尔兰语题名和蒂珀雷里地方传本。"
+  },
+  {
+    "id": "bodc-nansen-net-477",
+    "title": "NERC Vocabulary Server，SeaVoX 器具目录，Nansen net system",
+    "url": "https://vocab.nerc.ac.uk/collection/L22/current/NETT0164/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核南森闭合网与浮游生物采样网所属类别。"
+  },
+  {
+    "id": "folger-hamlet-speech-477",
+    "title": "Folger Shakespeare Library，《哈姆雷特》第三幕第二场",
+    "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/2/",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核哈姆雷特教演员念台词的舌音措辞。"
+  },
+  {
+    "id": "gordon-iii3-477-478",
+    "title": "John Gordon，III.3a 随文注，477.31–478.18",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核字母错听、回声、橘园与盘问路线。"
+  },
+  {
+    "id": "gjs-macarthur-braslasu-477",
+    "title": "Ian MacArthur 与 Viviana-Mirela Braslasu，A Second Finnegans Wake Miscellany，GJS 22（2022），第 24–25 项",
+    "url": "https://www.geneticjoycestudies.org/static/issues/GJS22/GJS22_Braslasu_MacArthur_1.pdf#page=30",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "PDF 第30–31页，核 Ekco 笔记及清样转录，兼核星兽园所引书信转录。未审原件。"
+  },
+  {
+    "id": "smg-ekco-ad36-477",
+    "title": "Science Museum Group，Ekco AD36 收音机藏品",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8645941/ekco-ad36-radio-receiver-in-phenolic-plastic-case",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核 Ekco 商标与 1935 年塑胶外壳收音机实例，不据此指定文中型号。"
+  },
+  {
+    "id": "moore-echo-kalliope-477",
+    "title": "Thomas Moore，《Echo》，Irish Melodies，Kalliope 转录",
+    "url": "https://kalliope.org/en/text/moore2000082992",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核夜间音乐与回声的起句。"
+  },
+  {
+    "id": "logainm-tallaght-478",
+    "title": "Logainm，Tamhlacht／Tallaght 地名档案",
+    "url": "https://www.logainm.ie/en/896",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核都柏林地名及英、爱尔兰语拼形。"
+  },
+  {
+    "id": "gordon-iii3-478-19",
+    "title": "John Gordon，III.3a 随文注，478.19–36",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核拟法语、错听、帕特里克与鸟声。"
+  },
+  {
+    "id": "treccani-tartagliare-478",
+    "title": "Treccani，tartagliare 条",
+    "url": "https://www.treccani.it/vocabolario/tartagliare/",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核意大利语口吃、结巴义。"
+  },
+  {
+    "id": "larousse-dactylo-478",
+    "title": "Larousse，dactylo 条",
+    "url": "https://www.larousse.fr/dictionnaires/francais/dactylo/21484",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核打字员。"
+  },
+  {
+    "id": "moss-patrick-shamrock-478",
+    "title": "Rachel Moss，The Staff, the Snake and the Shamrock: St Patrick in Art",
+    "url": "https://www.confessio.ie/more/article_moss",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核三叶草与帕特里克较晚图像传统。"
+  },
+  {
+    "id": "birdwatch-greylag-478",
+    "title": "BirdWatch Ireland，Greylag Goose 条",
+    "url": "https://birdwatchireland.ie/birds/greylag-goose/",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核 greylag 鸟名，供底本 greyleg 近声参照。"
+  },
+  {
+    "id": "gordon-iii3-479-hunt",
+    "title": "John Gordon，III.3a 随文注，479.01–22",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核猎犬、错听、地名、酒馆与从狩猎转水鸟。"
+  },
+  {
+    "id": "duchas-oisin-youth-479",
+    "title": "Dúchas 学校民俗档案，Doire Beag，《Oisín i dTír na nÓg》",
+    "url": "https://www.duchas.ie/ga/cbes/4428386/4402754/4552444",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核奥辛与青春乡的爱尔兰语传本片段。"
+  },
+  {
+    "id": "clare-pouldoody-479",
+    "title": "Clare Libraries，Autumnal Rambles about New Quay，Drive to Blackhead",
+    "url": "https://clarelibraries.ie/localstudies/archaeology/autumnal-rambles-about-new-quay-county-clare/drive-to-blackhead/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核 Pouldoody 与当地牡蛎记载。"
+  },
+  {
+    "id": "paperspast-zoedone-479",
+    "title": "Daily Telegraph（Napier），1881 年 6 月 28 日，第 3 页第 3 栏",
+    "url": "https://paperspast.natlib.govt.nz/newspapers/DTN18810628.2.19.3",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核 Zoedone 汽泡饮料同时代广告。"
+  },
+  {
+    "id": "gordon-iii3-479-480",
+    "title": "John Gordon，III.3a 随文注，479.22–480.05",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核葬船、词典腔、符文、呼救、誓信和复声。"
+  },
+  {
+    "id": "uio-oseberg-479",
+    "title": "奥斯陆大学文化史博物馆，Oseberg find",
+    "url": "https://www.khm.uio.no/english/research/projects/saving-oseberg/oseberg-find/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核奥塞贝格土冢船葬实物。"
+  },
+  {
+    "id": "charcot-museum-pourquoi-479",
+    "title": "冰岛 Charcot 博物馆，Le musée Charcot",
+    "url": "https://charcot.is/le-musee-charcot/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核 Pourquoi-Pas? 船模及1936年海难背景。"
+  },
+  {
+    "id": "levy-work-never-returned-479",
+    "title": "Henry C. Work，《The Ship That Never Returned》，Levy 馆藏乐谱目录",
+    "url": "https://levysheetmusic.mse.jhu.edu/collection/183/072",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核歌曲标题、作者及1884年馆藏谱本信息。"
+  },
+  {
+    "id": "teanglann-faolchu-480",
+    "title": "Ó Dónaill，爱英词典，faolchú 条",
+    "url": "https://www.teanglann.ie/en/fgb/faolch%C3%BA",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核爱尔兰语野犬、狼义。"
+  },
+  {
+    "id": "gordon-iii3-480",
+    "title": "John Gordon，III.3a 随文注，480.06–36",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "参读西东风、拟圣言、兽圈与童军呼声。"
+  },
+  {
+    "id": "baden-powell-grand-howl-480",
+    "title": "Robert Baden-Powell，The Wolf Cub’s Handbook，第20页，Grand Howl",
+    "url": "https://isf-world.org/pdf/Wolf%20Cub%20Handbook-A5.pdf#page=20",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核 Dyb 与 Dob 的呼答、各四次的手册写法及口号展开。"
+  },
+  {
+    "id": "gordon-iii3-481-opening",
+    "title": "John Gordon，III.3a 随文注，481.01–19",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核三行咏、回返、梦辞和格变化候选。"
+  },
+  {
+    "id": "vico-nuova-ricorso-481",
+    "title": "Giambattista Vico，《新科学》，1744 年本第五卷，意大利语转录",
+    "url": "https://it.wikisource.org/wiki/La_scienza_nuova_seconda/Libro_quinto",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核卷题 Del ricorso 与民族再起的语义。"
+  },
+  {
+    "id": "cnrs-dies-irae-481",
+    "title": "IRHT-CNRS，FAMA，Dies irae, dies illa 题录",
+    "url": "https://fama.irht.cnrs.fr/en/oeuvre/271933",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核拉丁诗起句和传本题录。"
+  },
+  {
+    "id": "benjamins-apabhramsa-481",
+    "title": "Vít Bubeník，A Historical Syntax of Late Middle Indo-Aryan (Apabhraṃśa)",
+    "url": "https://www.benjamins.com/catalog/cilt.165",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核 Apabhraṃśa 拼形与中古印度-雅利安语研究分类，只查出版介绍。"
+  },
+  {
+    "id": "gordon-iii3-481-482",
+    "title": "John Gordon，III.3a 随文注，481.20–482.02",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核父祷、讣告、骑手、祖谱与跨页道奇森读法。"
+  },
+  {
+    "id": "welsh-matthew-tad-481",
+    "title": "Presbyterian Church of Wales，《马太福音》第6章威尔士语译本",
+    "url": "https://www.bible.com/cy/bible/2736/MAT.6.MATIFE61",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核6:9主祷文起称 Ein Tad。"
+  },
+  {
+    "id": "logainm-ranelagh-481",
+    "title": "Logainm，Raghnallach／Ranelagh",
+    "url": "https://www.logainm.ie/en/57180/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核都柏林地名及英爱拼形。"
+  },
+  {
+    "id": "chch-tom-tower-482",
+    "title": "Christ Church, Oxford，Christ Church entrance gates",
+    "url": "https://www.chch.ox.ac.uk/visit/christ-church-entrance-gates",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核 Tom Tower 与 Tom Gate 所在。"
+  },
+  {
+    "id": "chch-dodgson-482",
+    "title": "Christ Church, Oxford，Charles Lutwidge Dodgson 收藏介绍",
+    "url": "https://www.chch.ox.ac.uk/news/christ-church-receives-remarkable-lewis-carroll-donation",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核道奇森姓名、笔名及与基督堂关系。"
+  },
+  {
+    "id": "gordon-iii3-482-ear",
+    "title": "John Gordon，III.3a 随文注，482.03–28",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核金耳、辨声、披驴拟名、掘信与方位。"
+  },
+  {
+    "id": "ovid-midas-ears-482",
+    "title": "奥维德，《变形记》第十一卷，A. S. Kline 英译",
+    "url": "https://ovid.lib.virginia.edu/trans/Metamorph11.htm",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核迈达斯点金、驴耳及芦苇遇风泄密的相续段落。"
+  },
+  {
+    "id": "cervantes-quijote-donkey-482",
+    "title": "塞万提斯，《堂吉诃德》第二部，Biblioteca Virtual Miguel de Cervantes",
+    "url": "https://cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha--13/html/ff0dcf4a-82b1-11df-acc7-002185ce6064_17.html",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核桑丘自比驴及尾巴笑话；只供小说拟名参照。"
+  },
+  {
+    "id": "logainm-mayo-482",
+    "title": "Logainm，Maigh Eo／Mayo 郡地名档案",
+    "url": "https://www.logainm.ie/en/100023/sub/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核郡名及爱尔兰语拼写，供 Maho 近声参照。"
+  },
+  {
+    "id": "gordon-iii3-482-483",
+    "title": "John Gordon，III.3a 随文注，482.29–483.14",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "核方位、对位复声、两手笔、帽坊及末句叫豹。"
+  },
+  {
+    "id": "tcd-book-kells-482",
+    "title": "Trinity College Dublin Library，The Book of Kells",
+    "url": "https://www.tcd.ie/library/research-collections/book-of-kells.php",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核馆藏 MS 58 与拉丁四福音书。"
+  },
+  {
+    "id": "usccb-genesis-hands-483",
+    "title": "USCCB，Genesis 27，尤其 21–23 节",
+    "url": "https://bible.usccb.org/bible/genesis/27",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核以撒辨声音与手的相异。"
+  },
+  {
+    "id": "gordon-iii3-483-484",
+    "title": "John Gordon，III.3a 随文注，483.15–484.10",
+    "url": "https://johngordonfinnegan.weebly.com/book-iii/chapter-3-section-3",
+    "type": "commentary",
+    "accessed": "2026-11-25",
+    "use": "参读豹名、兄弟自辩、修衣和供词。"
+  },
+  {
+    "id": "usccb-genesis-keeper-483",
+    "title": "USCCB，《创世记》第4章，尤其第9节",
+    "url": "https://bible.usccb.org/bible/genesis/4",
+    "type": "primary",
+    "accessed": "2026-11-25",
+    "use": "核该隐反问是否看护兄弟。"
+  },
+  {
+    "id": "heritage-st-audoen-484",
+    "title": "Heritage Ireland，St Audoen’s Church and Visitor Centre",
+    "url": "https://heritageireland.ie/places-to-visit/st-audoens-church-visitor-centre/",
+    "type": "archive",
+    "accessed": "2026-11-25",
+    "use": "核都柏林圣奥登堂，供拟名候选。"
   }
 ]
